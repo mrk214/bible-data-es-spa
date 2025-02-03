@@ -1,6 +1,6 @@
 # La Biblia en formato JSON
 
-📖 Este proyecto es un set de datos de la **biblia** en formato `JSON`, obtenidos mediante web scraping, para divulgar la palabra de Dios.
+📖 Este proyecto es un set de datos de la **biblia** en formato `JSON` (encoding `utf8`), obtenidos mediante web scraping, para divulgar la palabra de Dios.
 Es una reestructuración de los datos con la intención de que sea sencillo de implementar en cualquier proyecto.
 
 👨‍💻 En la carpeta **data** se encuentran las traducciones de la biblia; divididas en un archivo `JSON` por cada libro de la biblia.
