@@ -5,14 +5,14 @@ Es una reestructuración de los datos con la intención de que sea sencillo de i
 
 👨‍💻 En la carpeta **data** se encuentran las traducciones de la biblia; divididas en un archivo `JSON` por cada libro de la biblia.
 
-🙏 Espero poder seguir agregando traducciones mientras sea posible, espero que sea útil para alguien que lo necesite; y sobretodo, espero que sirva para la obra de Dios con la humanidad.
+🙏 Espero poder seguir agregando traducciones mientras sea posible, espero que sea útil para alguien que lo necesite; y sobre todo, espero que sirva para la obra de Dios con la humanidad.
 
 ## Estructura de los datos
 
-Cada archivo `JSON` corresponde a un libro de la biblia, y esta tipado como `Book` (en **typescript**).
+Cada archivo `JSON` corresponde a un libro de la biblia, y está tipado como `Book` (en **typescript**).
 Es por ello que adjunto los tipos en **typescript** con los que fueron estructurados los datos, para que se entienda su funcionamiento.
 
-Los tipos importantes aqui son `Book`, `Chapter` y `ChapterItem`.
+Los tipos importantes aquí son `Book`, `Chapter` y `ChapterItem`.
 
 ```typescript
 export type Publisher = {
@@ -88,17 +88,17 @@ Creo que los datos son bastante autoexplicativos, sin embargo voy a aclarar algu
 
 👉 Cada **libro** (`Book`) tiene **capítulos** (`Chapter[]`), y cada capítulo tiene **items** (`ChapterItem[]`).
 
-👉 Cada `ChapterItem` puede ser del tipo **título** (`heading`) o **versículo** (`verse`). Si es de tipo **título** entonces `verse_number` siempre será `-1`.
+👉 Cada `ChapterItem` puede ser del tipo **título** (`heading`) o **versículo** (`verse`). Si es de tipo **título** (`heading`) entonces `verse_number` siempre será `-1`.
 
 👉 Los versos vienen separados por líneas, por eso `lines` es un arreglo (`string[]`). A veces es un arreglo de un solo item, y otras veces un arreglo de varios items, dependiendo de como esté dividido el versículo.
 
-👉 Pero dentro del capítulo (`Chapter`) también se puede obtener el capítulo completo en texto plano, en la propiedad `chapter_text`, que tiene saltos de línea `\n`.
+👉 Pero dentro del capítulo (`Chapter`) también se puede obtener el capítulo completo en texto plano, en la propiedad `chapter_text`, que tiene saltos de línea (`\n`).
 
-👉 **rlw** significa **red letter words**, es decir, las palabrás atribuidas a Jesús. Por eso el nombre de la propiedad `rlw_lines`.
+👉 **rlw** significa **red letter words**, es decir, las palabras atribuidas a Jesús. Por eso el nombre de la propiedad `rlw_lines`.
 
 👉 Por ahorrar un poco de datos `rlw_lines` casi siempre es un arreglo vacío; ya que en la mayoría de los versículos de la biblia no hay **red letter words**.
 
-👉 Sólo cuando un versículo tiene **red letter words** es que `rlw_lines` tendrá líneas.
+👉 Sólo cuando un versículo tiene **red letter words**, `rlw_lines` tendrá líneas.
 
 👉 Por cada item del arreglo `lines` habrá un item en el arreglo `rlw_lines`.
 
@@ -107,13 +107,13 @@ Creo que los datos son bastante autoexplicativos, sin embargo voy a aclarar algu
 ## Datos calculados
 
 Creo que los datos son bastante completos, sin embargo, para evitar redundancia, hay datos que no puse de manera explícita porque se pueden calcular de diferentes maneras (*o porque no los pude obtener*).
-Solo es cuestión de usar los datos que si hay. Por ejemplo:
+Solo es cuestión de usar los datos que sí hay. Por ejemplo:
 
 ✅ Para saber cuantos versículos tiene un capítulo (`Chapter`), se pueden contar cuantos `ChapterItem` hay de tipo `verse`.
 
 ✅ Para saber si un versículo (`ChapterItem`) tiene **red letter words** basta con verificar si el arreglo `rlw_lines` tiene items (`rlw_lines.length > 0`). Sino, solamente se usa el arreglo `lines`.
 
-Y así mismo se pueden sacar mas datos con programación según los requerimientos.
+Y así mismo, se pueden sacar más datos con programación según los requerimientos.
 
 ## Links directos por traducción
 
