@@ -22,6 +22,7 @@
   "chapters": [
     {
       "chapter_usfm": "OBA.1",
+      "is_chapter": true,
       "current": {
         "usfm": [
           "OBA.1"
@@ -51,19 +52,26 @@
           "type": "verse",
           "verse_number": 1,
           "lines": [
-            "Esta es la visión que el Señor Soberano reveló a Abdías acerca de la tierra de Edom.",
-            "Hemos oído un mensaje del Señor,",
-            "que un embajador fue enviado a las naciones para decir:",
-            "«¡Prepárense todos!",
-            "¡Convoquemos a nuestros ejércitos y ataquemos a Edom!»."
+            "Esta es la visión que el Señor Soberano reveló a Abdías acerca de la tierra de Edom."
           ],
           "rlw_lines": []
         },
         {
-          "type": "heading",
+          "type": "heading1",
           "verse_number": -1,
           "lines": [
             "Anuncio del juicio de Edom"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Hemos oído un mensaje del Señor,",
+            "que un embajador fue enviado a las naciones para decir:",
+            "«¡Prepárense todos!",
+            "¡Convoquemos a nuestros ejércitos y ataquemos a Edom!»."
           ],
           "rlw_lines": []
         },
@@ -160,7 +168,7 @@
           "rlw_lines": []
         },
         {
-          "type": "heading",
+          "type": "heading1",
           "verse_number": -1,
           "lines": [
             "Causas del castigo de Edom"
@@ -228,7 +236,7 @@
           "rlw_lines": []
         },
         {
-          "type": "heading",
+          "type": "heading1",
           "verse_number": -1,
           "lines": [
             "Destrucción de Edom, restauración de Israel"
