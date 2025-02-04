@@ -55,12 +55,12 @@ export type RedLetterWordsSection = {
 // Recomiendo utilizar y estilizar todas las opciones.
 // El 'weight' puede usarse como referencia para el estilo de la fuente del texto.
 export type ChapterItemType =
-  | 'section1' // muy raro  - puede ser ignorado   - weight: 900
-  | 'section2' // muy raro  - puede ser ignorado   - weight: 800
-  | 'heading1' // muy común - no debe ser ignorado - weight: 700
-  | 'heading2' // común     - puede ser ignorado   - weight: 600
-  | 'label' //    raro      - puede ser ignorado   - weight: 500
-  | 'verse' //    muy común - no debe ser ignorado - weight: 400
+  | 'section1' // raro      - weight: 900
+  | 'section2' // raro      - weight: 800
+  | 'heading1' // muy común - weight: 700
+  | 'heading2' // común     - weight: 600
+  | 'label' //    común     - weight: 500
+  | 'verse' //    muy común - weight: 400
 
 export type ChapterItem = {
   type: ChapterItemType
