@@ -49,7 +49,18 @@ export type RedLetterWordsSection = {
   rl: boolean
 }
 
-export type ChapterItemType = 'heading' | 'verse'
+// Para mayor claridad, he asignado un 'weight' a cada tipo.
+// Dependiendo de la versión de la traducción, algunos tipos pueden aparecer más o menos
+// frecuentemente. Sin embargo, los tipos esenciales son: 'heading1' y 'verse'.
+// Recomiendo utilizar y estilizar todas las opciones.
+// El 'weight' puede usarse como referencia para el estilo de la fuente del texto.
+export type ChapterItemType =
+  | 'section1' // muy raro  - puede ser ignorado   - weight: 900
+  | 'section2' // muy raro  - puede ser ignorado   - weight: 800
+  | 'heading1' // muy común - no debe ser ignorado - weight: 700
+  | 'heading2' // común     - puede ser ignorado   - weight: 600
+  | 'label' //    raro      - puede ser ignorado   - weight: 500
+  | 'verse' //    muy común - no debe ser ignorado - weight: 400
 
 export type ChapterItem = {
   type: ChapterItemType
@@ -60,6 +71,7 @@ export type ChapterItem = {
 
 export type Chapter = {
   chapter_usfm: string
+  is_chapter: boolean
   current: Current
   next: NextPrev
   previous: NextPrev
@@ -84,36 +96,92 @@ export type Book = {
 
 ## Explicación
 
-Creo que los datos son bastante autoexplicativos, sin embargo voy a aclarar algunos detalles:
+Los datos son en su mayoría autoexplicativos, pero aquí hay algunas aclaraciones:
 
-👉 Cada **libro** (`Book`) tiene **capítulos** (`Chapter[]`), y cada capítulo tiene **items** (`ChapterItem[]`).
+👉 Cada **libro** (`Book`) contiene **capítulos** (`Chapter[]`), y cada capítulo contiene **items** (`ChapterItem[]`).
 
-👉 Cada `ChapterItem` puede ser del tipo **título** (`heading`) o **versículo** (`verse`). Si es de tipo **título** (`heading`) entonces `verse_number` siempre será `-1`.
+👉 En algunas versiones, algunos libros tienen una introducción. Para verificar que un **capítulo** (`Chapter`) es realmente un capítulo y no una introducción, puedes usar la propiedad `is_chapter`.
 
-👉 Los versos vienen separados por líneas, por eso `lines` es un arreglo (`string[]`). A veces es un arreglo de un solo item, y otras veces un arreglo de varios items, dependiendo de como esté dividido el versículo.
+👉 Si un `Chapter` es una introducción, entonces su propiedad `items` será un array vacío. Si deseas usar el contenido, estará disponible en `chapter_text` y `chapter_html`.
 
-👉 Pero dentro del capítulo (`Chapter`) también se puede obtener el capítulo completo en texto plano, en la propiedad `chapter_text`, que tiene saltos de línea (`\n`).
+👉 Un `ChapterItem` casi siempre será de tipo **verse** (`verse`) o **heading1** (`heading1`). Sin embargo, hay varios otros tipos que pueden estilizarse adecuadamente: `section1`, `section2`, `heading1`, `heading2`, `label`, `verse`.
 
-👉 **rlw** significa **red letter words**, es decir, las palabras atribuidas a Jesús. Por eso el nombre de la propiedad `rlw_lines`.
+👉 Si un `ChapterItem` NO es de tipo **verse** (`verse`), entonces su propiedad `verse_number` siempre será `-1`.
 
-👉 Por ahorrar un poco de datos `rlw_lines` casi siempre es un arreglo vacío; ya que en la mayoría de los versículos de la biblia no hay **red letter words**.
+👉 Los versos se dividen en líneas, por lo que `lines` es un array (`string[]`). A veces tiene un solo elemento, y otras veces varios, dependiendo de cómo esté estructurado el verso.
 
-👉 Sólo cuando un versículo tiene **red letter words**, `rlw_lines` tendrá líneas.
+👉 Algunos versos pueden contener un título (u otro elemento) en el medio. En estos casos, el verso continúa después del elemento. Por lo tanto, el `verse_number` puede repetirse.
 
-👉 Por cada item del arreglo `lines` habrá un item en el arreglo `rlw_lines`.
+```json
+{
+  "type": "verse",
+  "verse_number": 3,
+  "lines": [
+    "Pleasing is the fragrance of your perfumes;",
+    "your name is like perfume poured out.",
+    "No wonder the young women love you!"
+  ],
+  "rlw_lines": []
+},
+{
+  "type": "verse",
+  "verse_number": 4, // 👈 solo debes mostrar este primer 'verse_number'
+  "lines": [
+    "Take me away with you—let us hurry!",
+    "Let the king bring me into his chambers."
+  ],
+  "rlw_lines": []
+},
+{
+  "type": "heading1",
+  "verse_number": -1,
+  "lines": ["Friends"],
+  "rlw_lines": []
+},
+{
+  "type": "verse",
+  "verse_number": 4, // 👈 y NO mostrar este repetido
+  "lines": [
+    "We rejoice and delight in you;",
+    "we will praise your love more than wine."
+  ],
+  "rlw_lines": []
+}
+```
 
-👉 Solo que cada item de `rlw_lines` es otro arreglo, ya que no siempre una línea completa es atribuida a Jesús, a veces es sólo una parte. Pero la estructura siempre será la misma para conservar la consistencia de los datos.
+👉 Debido a esto, deberías implementar un método para mostrar el `verse_number` solo la primera vez (si ese es tu objetivo). Por ejemplo:
+
+```typescript
+let lastPrintedNumber: number = -1
+// Condición para imprimir 'verse_number' solo una vez
+if (
+  chapterItem.verse_number !== -1 &&
+  chapterItem.verse_number !== lastPrintedNumber
+) {
+  lastPrintedNumber = chapterItem.verse_number
+  print(chapterItem.verse_number)
+}
+```
+
+👉 Cada capítulo (`Chapter`) también contiene el texto completo del capítulo en formato plano en `chapter_text`, con caracteres de salto de línea (`\n`), y el html original en `chapter_html`.
+
+👉 **rlw** significa **red letter words**, es decir, palabras atribuidas a Jesús. Por esto, la propiedad se llama `rlw_lines`.
+
+👉 Para ahorrar espacio, `rlw_lines` generalmente es un array vacío, ya que la mayoría de los versos de la Biblia no contienen **red letter words**.
+
+👉 Solo cuando un verso contiene **red letter words**, `rlw_lines` tendrá contenido.
+
+👉 Para cada elemento en el array `lines`, hay un elemento correspondiente en `rlw_lines`.
+
+👉 Sin embargo, cada elemento de `rlw_lines` también es un array, porque a veces solo una parte de una línea se atribuye a Jesús.
 
 ## Datos calculados
 
-Creo que los datos son bastante completos, sin embargo, para evitar redundancia, hay datos que no puse de manera explícita porque se pueden calcular de diferentes maneras (*o porque no los pude obtener*).
-Solo es cuestión de usar los datos que sí hay. Por ejemplo:
+Creo que los datos son bastante completos, sin embargo, para evitar redundancia, hay datos que no puse de manera explícita porque se pueden calcular de diferentes maneras (_o porque no los pude obtener_). Por ejemplo:
 
-✅ Para saber cuantos versículos tiene un capítulo (`Chapter`), se pueden contar cuantos `ChapterItem` hay de tipo `verse`.
+✅ Para saber cuántos versos hay en un capítulo (`Chapter`), puedes buscar el `verse_number` más grande en el array `items: ChapterItem[]`.
 
-✅ Para saber si un versículo (`ChapterItem`) tiene **red letter words** basta con verificar si el arreglo `rlw_lines` tiene items (`rlw_lines.length > 0`). Sino, solamente se usa el arreglo `lines`.
-
-Y así mismo, se pueden sacar más datos con programación según los requerimientos.
+✅ Para verificar si un verso (`ChapterItem`) contiene **red letter words**, simplemente revisa si `rlw_lines` tiene elementos (`rlw_lines.length > 0`). De lo contrario, usa solamente `lines`.
 
 ## Links directos por traducción
 
