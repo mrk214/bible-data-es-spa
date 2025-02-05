@@ -1,0 +1,764 @@
+{
+  "book_usfm": "JOL",
+  "name": "Joel",
+  "local_title": "Reina Valera Actualizada",
+  "local_abbreviation": "RVA2015",
+  "version_id": 1782,
+  "publisher": {
+    "name": "Editorial Mundo Hispano"
+  },
+  "copyright": {
+    "html": "<p>Copyright © 2015 by Editorial Mundo Hispano</p>",
+    "text": "Copyright © 2015 by Editorial Mundo Hispano"
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "JOL.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "JOL.1"
+        ],
+        "human": "Joel 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "JOL.2"
+        ],
+        "human": "Joel 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "HOS.14"
+        ],
+        "human": "Oseas 14",
+        "toc": true
+      },
+      "chapter_text": "La palabra del SEÑOR que vino a Joel hijo de Petuel. Escuchen esto, ancianos; y presten atención, todos los habitantes de la tierra. ¿Ha sucedido algo semejante en sus días o en los de sus padres? Contarán de esto a los hijos de ustedes, y ellos a sus hijos, y sus hijos a la otra generación. Lo que dejó la oruga lo comió la langosta, y lo que dejó la langosta lo comió el pulgón, y lo que dejó el pulgón lo comió el saltón.\n¡Despierten, borrachos, y lloren! ¡Giman, todos los que beben vino, porque el mosto es quitado de su boca! Porque un pueblo ha subido a mi tierra, fuerte y sin número. Sus dientes son como dientes de león, y sus muelas son de leona. Ha convertido mi vid en desolación y mi higuera en tronco. La ha desnudado por completo y la ha derribado; sus ramas han quedado blancas.\n¡Suspira tú, como una joven ceñida de cilicio a causa del marido de su juventud! Han sido eliminadas de la casa del SEÑOR la ofrenda vegetal y la libación. Los sacerdotes que sirven al SEÑOR están de duelo. El campo es devastado y la tierra se enluta; porque el trigo es destruido, se seca el mosto y se agota el aceite.\nConstérnense, oh labradores; giman, oh viñadores, por el trigo y la cebada; porque se ha perdido la cosecha del campo. Se seca la vid, se echa a perder la higuera; también el granado, la palmera y el manzano. Se han secado todos los árboles del campo, por lo cual se ha desvanecido la alegría de los hijos del hombre.\n\n¡Cíñanse y hagan duelo, oh sacerdotes! ¡Giman, oh servidores del altar! Vengan, duerman sobre cilicio, oh servidores de mi Dios; porque la ofrenda vegetal y líquida han sido quitadas de la casa de su Dios. Pregonen ayuno, convoquen a una asamblea, reúnan a los ancianos y a todos los habitantes del país en la casa del SEÑOR su Dios, e invoquen al SEÑOR. ¡Ay por aquel día! Porque cercano está el día del SEÑOR; vendrá como destrucción de parte del Todopoderoso. ¿No ha sido arrancado el sustento de delante de nuestros ojos, la alegría y el júbilo de la casa de nuestro Dios? Del todo se han secado los higos. Sus eras están arruinadas. Han sido desolados los depósitos y destruidos los graneros por haberse acabado el grano. ¡Cómo gimen los animales! ¡Cuán aturdidos andan los hatos de bueyes porque no hay pastos para ellos! También están sufriendo los rebaños de ovejas.\nA ti, oh SEÑOR, clamaré, porque el fuego ha consumido los pastizales y la llama ha abrasado a todos los árboles del campo. También los animales del campo jadean detrás de ti porque se han secado los arroyos de agua y el fuego ha devorado los pastizales.",
+      "chapter_html": "<div class=\"version vid1782 iso6393spa\" data-vid=\"1782\" data-iso6393=\"spa\">\n   <div class=\"book bkJOL\">\n      <div class=\"chapter ch1\" data-usfm=\"JOL.1\">\n         <div class=\"label\">1</div><div class=\"s1\"><span class=\"heading\">Devastaci&#243;n causada por la langosta</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"JOL.1.1\"><span class=\"label\">1</span><span class=\"content\">La palabra del SE&#209;OR que vino a Joel hijo de Petuel. </span></span><span class=\"verse v2\" data-usfm=\"JOL.1.2\"><span class=\"label\">2</span><span class=\"content\">Escuchen esto, ancianos; y presten atenci&#243;n, todos los habitantes de la tierra. &#191;Ha sucedido algo semejante en sus d&#237;as o en los de sus padres? </span></span><span class=\"verse v3\" data-usfm=\"JOL.1.3\"><span class=\"label\">3</span><span class=\"content\">Contar&#225;n de esto a los hijos de ustedes, y ellos a sus hijos, y sus hijos a la otra generaci&#243;n. </span></span><span class=\"verse v4\" data-usfm=\"JOL.1.4\"><span class=\"label\">4</span><span class=\"content\">Lo que dej&#243; la oruga lo comi&#243; la langosta, y lo que dej&#243; la langosta lo comi&#243; el pulg&#243;n, y lo que dej&#243; el pulg&#243;n lo comi&#243; el salt&#243;n.</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"JOL.1.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"JOL.1.5\"><span class=\"label\">5</span><span class=\"content\">&#161;Despierten, borrachos, y lloren! &#161;Giman, todos los que beben vino, porque el mosto es quitado de su boca! </span></span><span class=\"verse v6\" data-usfm=\"JOL.1.6\"><span class=\"label\">6</span><span class=\"content\">Porque un pueblo ha subido a mi tierra, fuerte y sin n&#250;mero. Sus dientes son como dientes de le&#243;n, y sus muelas son de leona. </span></span><span class=\"verse v7\" data-usfm=\"JOL.1.7\"><span class=\"label\">7</span><span class=\"content\">Ha convertido mi vid en desolaci&#243;n y mi higuera en tronco. La ha desnudado por completo y la ha derribado; sus ramas han quedado blancas.</span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"JOL.1.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"JOL.1.8\"><span class=\"label\">8</span><span class=\"content\">&#161;Suspira t&#250;, como una joven ce&#241;ida de cilicio a causa del marido de su juventud! </span></span><span class=\"verse v9\" data-usfm=\"JOL.1.9\"><span class=\"label\">9</span><span class=\"content\">Han sido eliminadas de la casa del SE&#209;OR la ofrenda vegetal y la libaci&#243;n. Los sacerdotes que sirven al SE&#209;OR est&#225;n de duelo. </span></span><span class=\"verse v10\" data-usfm=\"JOL.1.10\"><span class=\"label\">10</span><span class=\"content\">El campo es devastado y la tierra se enluta; porque el trigo es destruido, se seca el mosto y se agota el aceite.</span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"JOL.1.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"JOL.1.11\"><span class=\"label\">11</span><span class=\"content\">Const&#233;rnense, oh labradores; giman, oh vi&#241;adores, por el trigo y la cebada; porque se ha perdido la cosecha del campo. </span></span><span class=\"verse v12\" data-usfm=\"JOL.1.12\"><span class=\"label\">12</span><span class=\"content\">Se seca la vid, se echa a perder la higuera; tambi&#233;n el granado, la palmera y el manzano. Se han secado todos los &#225;rboles del campo, por lo cual se ha desvanecido la alegr&#237;a de los hijos del hombre.</span></span></div><div class=\"s1\"><span class=\"heading\">Asamblea a causa de la devastaci&#243;n</span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"JOL.1.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"JOL.1.13\"><span class=\"label\">13</span><span class=\"content\">&#161;C&#237;&#241;anse y hagan duelo, oh sacerdotes! &#161;Giman, oh servidores del altar! Vengan, duerman sobre cilicio, oh servidores de mi Dios; porque la ofrenda vegetal y l&#237;quida han sido quitadas de la casa de su Dios. </span></span><span class=\"verse v14\" data-usfm=\"JOL.1.14\"><span class=\"label\">14</span><span class=\"content\">Pregonen ayuno, convoquen a una asamblea, re&#250;nan a los ancianos y a todos los habitantes del pa&#237;s en la casa del SE&#209;OR su Dios, e invoquen al SE&#209;OR. </span></span><span class=\"verse v15\" data-usfm=\"JOL.1.15\"><span class=\"label\">15</span><span class=\"content\">&#161;Ay por aquel d&#237;a! Porque cercano est&#225; el d&#237;a del SE&#209;OR; vendr&#225; como destrucci&#243;n de parte del Todopoderoso</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">Heb., </span><span class=\"it\">Shadai.</span></span></span><span class=\"content\">. </span></span><span class=\"verse v16\" data-usfm=\"JOL.1.16\"><span class=\"label\">16</span><span class=\"content\">&#191;No ha sido arrancado el sustento de delante de nuestros ojos, la alegr&#237;a y el j&#250;bilo de la casa de nuestro Dios? </span></span><span class=\"verse v17\" data-usfm=\"JOL.1.17\"><span class=\"label\">17</span><span class=\"content\">Del todo se han secado los higos. Sus eras est&#225;n arruinadas</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">Seg&#250;n prop. Stutt.; TM., </span><span class=\"it\">bajo sus azadas.</span></span></span><span class=\"content\">. Han sido desolados los dep&#243;sitos y destruidos los graneros por haberse acabado el grano. </span></span><span class=\"verse v18\" data-usfm=\"JOL.1.18\"><span class=\"label\">18</span><span class=\"content\">&#161;C&#243;mo gimen los animales! &#161;Cu&#225;n aturdidos andan los hatos de bueyes porque no hay pastos para ellos! Tambi&#233;n est&#225;n sufriendo los reba&#241;os de ovejas.</span></span></div><div class=\"p\"><span class=\"verse v18\" data-usfm=\"JOL.1.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"JOL.1.19\"><span class=\"label\">19</span><span class=\"content\">A ti, oh SE&#209;OR, clamar&#233;, porque el fuego ha consumido los pastizales y la llama ha abrasado a todos los &#225;rboles del campo. </span></span><span class=\"verse v20\" data-usfm=\"JOL.1.20\"><span class=\"label\">20</span><span class=\"content\">Tambi&#233;n los animales del campo jadean detr&#225;s de ti porque se han secado los arroyos de agua y el fuego ha devorado los pastizales.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Devastación causada por la langosta"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "La palabra del SEÑOR que vino a Joel hijo de Petuel."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Escuchen esto, ancianos; y presten atención, todos los habitantes de la tierra. ¿Ha sucedido algo semejante en sus días o en los de sus padres?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Contarán de esto a los hijos de ustedes, y ellos a sus hijos, y sus hijos a la otra generación."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Lo que dejó la oruga lo comió la langosta, y lo que dejó la langosta lo comió el pulgón, y lo que dejó el pulgón lo comió el saltón."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "¡Despierten, borrachos, y lloren! ¡Giman, todos los que beben vino, porque el mosto es quitado de su boca!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Porque un pueblo ha subido a mi tierra, fuerte y sin número. Sus dientes son como dientes de león, y sus muelas son de leona."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Ha convertido mi vid en desolación y mi higuera en tronco. La ha desnudado por completo y la ha derribado; sus ramas han quedado blancas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "¡Suspira tú, como una joven ceñida de cilicio a causa del marido de su juventud!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Han sido eliminadas de la casa del SEÑOR la ofrenda vegetal y la libación. Los sacerdotes que sirven al SEÑOR están de duelo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "El campo es devastado y la tierra se enluta; porque el trigo es destruido, se seca el mosto y se agota el aceite."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Constérnense, oh labradores; giman, oh viñadores, por el trigo y la cebada; porque se ha perdido la cosecha del campo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Se seca la vid, se echa a perder la higuera; también el granado, la palmera y el manzano. Se han secado todos los árboles del campo, por lo cual se ha desvanecido la alegría de los hijos del hombre."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Asamblea a causa de la devastación"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "¡Cíñanse y hagan duelo, oh sacerdotes! ¡Giman, oh servidores del altar! Vengan, duerman sobre cilicio, oh servidores de mi Dios; porque la ofrenda vegetal y líquida han sido quitadas de la casa de su Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Pregonen ayuno, convoquen a una asamblea, reúnan a los ancianos y a todos los habitantes del país en la casa del SEÑOR su Dios, e invoquen al SEÑOR."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "¡Ay por aquel día! Porque cercano está el día del SEÑOR; vendrá como destrucción de parte del Todopoderoso."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "¿No ha sido arrancado el sustento de delante de nuestros ojos, la alegría y el júbilo de la casa de nuestro Dios?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Del todo se han secado los higos. Sus eras están arruinadas. Han sido desolados los depósitos y destruidos los graneros por haberse acabado el grano."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "¡Cómo gimen los animales! ¡Cuán aturdidos andan los hatos de bueyes porque no hay pastos para ellos! También están sufriendo los rebaños de ovejas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "A ti, oh SEÑOR, clamaré, porque el fuego ha consumido los pastizales y la llama ha abrasado a todos los árboles del campo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "También los animales del campo jadean detrás de ti porque se han secado los arroyos de agua y el fuego ha devorado los pastizales."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "JOL.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "JOL.2"
+        ],
+        "human": "Joel 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "JOL.3"
+        ],
+        "human": "Joel 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "JOL.1"
+        ],
+        "human": "Joel 1",
+        "toc": true
+      },
+      "chapter_text": "¡Toquen la corneta en Sion y griten en mi santo monte! ¡Tiemblen todos los habitantes de la tierra porque viene el día del SEÑOR! ¡Día de tinieblas y de oscuridad, día de nublado y de densa neblina! Como negrura que se despliega sobre las montañas es un ejército grande y fuerte. ¡Nunca antes ha subido algo semejante ni después de ello ocurrirá por años, de generación en generación! Delante consume el fuego, y detrás abrasa la llama. La tierra que antes era como el jardín de Edén será después como desierto desolado. ¡No habrá quien escape!\nSu aspecto es como el aspecto de caballos y corren como gente de a caballo. Con estruendo de carros saltan sobre las cumbres de los montes, con crepitar de llama de fuego que consume la hojarasca como pueblo fuerte listo para la batalla. Delante de él tiemblan los pueblos y palidecen todos los semblantes. Corren como valientes; como hombres de guerra escalan la muralla. Cada uno sigue su camino y no abandonan sus sendas. Ninguno tropieza con su compañero; cada uno va por su calzada. Aun cayendo a causa de la espada no rompen su formación en la ciudad. Van saltando por el muro, corren por las casas, suben por las ventanas y entran como ladrones. Delante de ellos tiembla la tierra y se estremecen los cielos. El sol y la luna se oscurecen, y las estrellas retiran su fulgor.\nEl SEÑOR da la voz delante de su ejército. Enorme es su campamento y poderoso es el que ejecuta su palabra. Grande y temible es el día del SEÑOR. ¿Quién lo podrá resistir?\n\n“Pero aun ahora”, dice el SEÑOR, “vuélvanse a mí con todo su corazón, con ayuno, llanto y lamento. Desgarren su corazón y no sus vestidos”.\nVuelvan al SEÑOR, su Dios, porque él es clemente y compasivo, lento para la ira, grande en misericordia y desiste del castigo. ¿Quién sabe si desiste, cambia de parecer y deja tras sí bendición, es decir, ofrenda vegetal y líquida para el SEÑOR su Dios?\n¡Toquen la corneta en Sion; pregonen ayuno! ¡Convoquen a la asamblea! ¡Reúnan al pueblo; santifiquen la congregación; agrupen a los ancianos; reúnan a los pequeños y a los niños de pecho! ¡Salga el novio de su cámara nupcial y la novia de su dosel! Los sacerdotes que sirven al SEÑOR lloren entre el vestíbulo y el altar. Digan: “Perdona, oh SEÑOR, a mi pueblo. No entregues tu heredad a la afrenta para que las naciones se enseñoreen de ella. ¿Por qué han de decir entre los pueblos: ‘¿Dónde está su Dios?’”.\n\nEntonces el SEÑOR tuvo celo por su tierra y se apiadó de su pueblo. El SEÑOR respondió a su pueblo diciendo: “He aquí, yo les envío granos, vino nuevo y aceite; y serán saciados. Nunca más los entregaré como afrenta en medio de las naciones. Yo haré que se aleje de ustedes lo que viene del norte. Lo arrojaré a tierra seca y desierta; su vanguardia hacia el mar oriental y su retaguardia hacia el mar occidental. Se levantará su hedor y subirá su putrefacción”. ¡Porque ha hecho grandes cosas!\n“¡Oh tierra, no temas! ¡Alégrate y regocíjate porque el SEÑOR ha hecho grandes cosas! No teman, animales del campo, porque los pastizales reverdecerán; porque los árboles llevarán su fruto; la higuera y la vid darán su riqueza. Ustedes también, oh hijos de Sion, alégrense y regocíjense en el SEÑOR su Dios, porque les ha dado la lluvia primera en su justa medida. También hará descender sobre ustedes la lluvia temprana y la tardía, como antes. Las eras se llenarán de trigo, y los lagares rebosarán de vino nuevo y de aceite. Yo les restituiré los años que comieron la oruga, el pulgón, el saltón y la langosta; mi gran ejército que envié contra ustedes. Comerán hasta saciarse y alabarán el nombre del SEÑOR su Dios, quien ha hecho maravillas con ustedes. Y nunca más será avergonzado mi pueblo. Así sabrán que estoy en medio de Israel, que yo soy el SEÑOR su Dios y que no hay otro. Y nunca más será avergonzado mi pueblo.\n\n“Sucederá después de esto que derramaré mi Espíritu sobre todo mortal. Sus hijos y sus hijas profetizarán. Sus ancianos tendrán sueños; y sus jóvenes visiones. En aquellos días también derramaré mi Espíritu sobre los siervos y las siervas. Realizaré prodigios en los cielos y en la tierra: sangre, fuego y columnas de humo. El sol se convertirá en tinieblas y la luna en sangre, antes que venga el día del SEÑOR, grande y temible. Y sucederá que cualquiera que invoque el nombre del SEÑOR será salvo, porque en el monte Sion y en Jerusalén estarán los libertados, como ha dicho el SEÑOR; y entre los sobrevivientes estarán aquellos que el SEÑOR ha llamado.",
+      "chapter_html": "<div class=\"version vid1782 iso6393spa\" data-vid=\"1782\" data-iso6393=\"spa\">\n   <div class=\"book bkJOL\">\n      <div class=\"chapter ch2\" data-usfm=\"JOL.2\">\n         <div class=\"label\">2</div><div class=\"s1\"><span class=\"heading\">La devastaci&#243;n del d&#237;a del se&#241;or</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"JOL.2.1\"><span class=\"label\">1</span><span class=\"content\">&#161;Toquen la corneta en Sion y griten en mi santo monte! &#161;Tiemblen todos los habitantes de la tierra porque viene el d&#237;a del SE&#209;OR! </span></span><span class=\"verse v2\" data-usfm=\"JOL.2.2\"><span class=\"label\">2</span><span class=\"content\">&#161;D&#237;a de tinieblas y de oscuridad, d&#237;a de nublado y de densa neblina! Como negrura que se despliega sobre las monta&#241;as es un ej&#233;rcito grande y fuerte. &#161;Nunca antes ha subido algo semejante ni despu&#233;s de ello ocurrir&#225; por a&#241;os, de generaci&#243;n en generaci&#243;n! </span></span><span class=\"verse v3\" data-usfm=\"JOL.2.3\"><span class=\"label\">3</span><span class=\"content\">Delante consume el fuego, y detr&#225;s abrasa la llama. La tierra que antes era como el jard&#237;n de Ed&#233;n ser&#225; despu&#233;s como desierto desolado. &#161;No habr&#225; quien escape!</span></span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"JOL.2.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"JOL.2.4\"><span class=\"label\">4</span><span class=\"content\">Su aspecto es como el aspecto de caballos y corren como gente de a caballo. </span></span><span class=\"verse v5\" data-usfm=\"JOL.2.5\"><span class=\"label\">5</span><span class=\"content\">Con estruendo de carros saltan sobre las cumbres de los montes, con crepitar de llama de fuego que consume la hojarasca como pueblo fuerte listo para la batalla. </span></span><span class=\"verse v6\" data-usfm=\"JOL.2.6\"><span class=\"label\">6</span><span class=\"content\">Delante de &#233;l tiemblan los pueblos y palidecen todos los semblantes. </span></span><span class=\"verse v7\" data-usfm=\"JOL.2.7\"><span class=\"label\">7</span><span class=\"content\">Corren como valientes; como hombres de guerra escalan la muralla. Cada uno sigue su camino y no abandonan sus sendas. </span></span><span class=\"verse v8\" data-usfm=\"JOL.2.8\"><span class=\"label\">8</span><span class=\"content\">Ninguno tropieza con su compa&#241;ero; cada uno va por su calzada. Aun cayendo a causa de la espada no rompen su formaci&#243;n </span></span><span class=\"verse v9\" data-usfm=\"JOL.2.9\"><span class=\"label\">9</span><span class=\"content\">en la ciudad. Van saltando por el muro, corren por las casas, suben por las ventanas y entran como ladrones. </span></span><span class=\"verse v10\" data-usfm=\"JOL.2.10\"><span class=\"label\">10</span><span class=\"content\">Delante de ellos tiembla la tierra y se estremecen los cielos. El sol y la luna se oscurecen, y las estrellas retiran su fulgor.</span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"JOL.2.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"JOL.2.11\"><span class=\"label\">11</span><span class=\"content\">El SE&#209;OR da la voz delante de su ej&#233;rcito. Enorme es su campamento y poderoso es el que ejecuta su palabra. Grande y temible es el d&#237;a del SE&#209;OR. &#191;Qui&#233;n lo podr&#225; resistir?</span></span></div><div class=\"s1\"><span class=\"heading\">Llamado a arrepentirse y a orar</span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"JOL.2.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"JOL.2.12\"><span class=\"label\">12</span><span class=\"content\">&#8220;Pero aun ahora&#8221;, dice el SE&#209;OR, &#8220;vu&#233;lvanse a m&#237; con todo su coraz&#243;n, con ayuno, llanto y lamento. </span></span><span class=\"verse v13\" data-usfm=\"JOL.2.13\"><span class=\"label\">13</span><span class=\"content\">Desgarren su coraz&#243;n y no sus vestidos&#8221;.</span></span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"JOL.2.13\"><span class=\"content\">Vuelvan al SE&#209;OR, su Dios, porque &#233;l es clemente y compasivo, lento para la ira, grande en misericordia y desiste del castigo. </span></span><span class=\"verse v14\" data-usfm=\"JOL.2.14\"><span class=\"label\">14</span><span class=\"content\">&#191;Qui&#233;n sabe si desiste, cambia de parecer y deja tras s&#237; bendici&#243;n, es decir, ofrenda vegetal y l&#237;quida para el SE&#209;OR su Dios?</span></span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"JOL.2.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"JOL.2.15\"><span class=\"label\">15</span><span class=\"content\">&#161;Toquen la corneta en Sion; pregonen ayuno! &#161;Convoquen a la asamblea! </span></span><span class=\"verse v16\" data-usfm=\"JOL.2.16\"><span class=\"label\">16</span><span class=\"content\">&#161;Re&#250;nan al pueblo; santifiquen la congregaci&#243;n; agrupen a los ancianos; re&#250;nan a los peque&#241;os y a los ni&#241;os de pecho! &#161;Salga el novio de su c&#225;mara nupcial y la novia de su dosel! </span></span><span class=\"verse v17\" data-usfm=\"JOL.2.17\"><span class=\"label\">17</span><span class=\"content\">Los sacerdotes que sirven al SE&#209;OR lloren entre el vest&#237;bulo y el altar. Digan: &#8220;Perdona, oh SE&#209;OR, a mi pueblo. No entregues tu heredad a la afrenta para que las naciones se ense&#241;oreen de ella. &#191;Por qu&#233; han de decir entre los pueblos: &#8216;&#191;D&#243;nde est&#225; su Dios?&#8217;&#8221;.</span></span></div><div class=\"s1\"><span class=\"heading\">Futura restauraci&#243;n y prosperidad</span></div><div class=\"p\"><span class=\"verse v17\" data-usfm=\"JOL.2.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"JOL.2.18\"><span class=\"label\">18</span><span class=\"content\">Entonces el SE&#209;OR tuvo celo por su tierra y se apiad&#243; de su pueblo. </span></span><span class=\"verse v19\" data-usfm=\"JOL.2.19\"><span class=\"label\">19</span><span class=\"content\">El SE&#209;OR respondi&#243; a su pueblo diciendo: &#8220;He aqu&#237;, yo les env&#237;o granos, vino nuevo y aceite; y ser&#225;n saciados. Nunca m&#225;s los entregar&#233; como afrenta en medio de las naciones. </span></span><span class=\"verse v20\" data-usfm=\"JOL.2.20\"><span class=\"label\">20</span><span class=\"content\">Yo har&#233; que se aleje de ustedes lo que viene del norte. Lo arrojar&#233; a tierra seca y desierta; su vanguardia hacia el mar oriental</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">O sea, el mar Muerto.</span></span></span><span class=\"content\"> y su retaguardia hacia el mar occidental</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">O sea, el mar Mediterr&#225;neo.</span></span></span><span class=\"content\">. Se levantar&#225; su hedor y subir&#225; su putrefacci&#243;n&#8221;. &#161;Porque ha hecho grandes cosas!</span></span></div><div class=\"p\"><span class=\"verse v20\" data-usfm=\"JOL.2.20\"><span class=\"content\">  </span></span><span class=\"verse v21\" data-usfm=\"JOL.2.21\"><span class=\"label\">21</span><span class=\"content\">&#8220;&#161;Oh tierra, no temas! &#161;Al&#233;grate y regoc&#237;jate porque el SE&#209;OR ha hecho grandes cosas! </span></span><span class=\"verse v22\" data-usfm=\"JOL.2.22\"><span class=\"label\">22</span><span class=\"content\">No teman, animales del campo, porque los pastizales reverdecer&#225;n; porque los &#225;rboles llevar&#225;n su fruto; la higuera y la vid dar&#225;n su riqueza. </span></span><span class=\"verse v23\" data-usfm=\"JOL.2.23\"><span class=\"label\">23</span><span class=\"content\">Ustedes tambi&#233;n, oh hijos de Sion, al&#233;grense y regoc&#237;jense en el SE&#209;OR su Dios, porque les ha dado la lluvia primera en su justa medida. Tambi&#233;n har&#225; descender sobre ustedes la lluvia temprana y la tard&#237;a, como antes. </span></span><span class=\"verse v24\" data-usfm=\"JOL.2.24\"><span class=\"label\">24</span><span class=\"content\">Las eras se llenar&#225;n de trigo, y los lagares rebosar&#225;n de vino nuevo y de aceite. </span></span><span class=\"verse v25\" data-usfm=\"JOL.2.25\"><span class=\"label\">25</span><span class=\"content\">Yo les restituir&#233; los a&#241;os que comieron la oruga, el pulg&#243;n, el salt&#243;n y la langosta; mi gran ej&#233;rcito que envi&#233; contra ustedes. </span></span><span class=\"verse v26\" data-usfm=\"JOL.2.26\"><span class=\"label\">26</span><span class=\"content\">Comer&#225;n hasta saciarse y alabar&#225;n el nombre del SE&#209;OR su Dios, quien ha hecho maravillas con ustedes. Y nunca m&#225;s ser&#225; avergonzado mi pueblo. </span></span><span class=\"verse v27\" data-usfm=\"JOL.2.27\"><span class=\"label\">27</span><span class=\"content\">As&#237; sabr&#225;n que estoy en medio de Israel, que yo soy el SE&#209;OR su Dios y que no hay otro. Y nunca m&#225;s ser&#225; avergonzado mi pueblo.</span></span></div><div class=\"s1\"><span class=\"heading\">Derramamiento del Esp&#237;ritu Santo</span></div><div class=\"p\"><span class=\"verse v27\" data-usfm=\"JOL.2.27\"><span class=\"content\">  </span></span><span class=\"verse v28\" data-usfm=\"JOL.2.28\"><span class=\"label\">28</span><span class=\"content\">&#8220;Suceder&#225; despu&#233;s de esto que derramar&#233; mi Esp&#237;ritu sobre todo mortal. Sus hijos y sus hijas profetizar&#225;n. Sus ancianos tendr&#225;n sue&#241;os; y sus j&#243;venes visiones. </span></span><span class=\"verse v29\" data-usfm=\"JOL.2.29\"><span class=\"label\">29</span><span class=\"content\">En aquellos d&#237;as tambi&#233;n derramar&#233; mi Esp&#237;ritu sobre los siervos y las siervas. </span></span><span class=\"verse v30\" data-usfm=\"JOL.2.30\"><span class=\"label\">30</span><span class=\"content\">Realizar&#233; prodigios en los cielos y en la tierra: sangre, fuego y columnas de humo. </span></span><span class=\"verse v31\" data-usfm=\"JOL.2.31\"><span class=\"label\">31</span><span class=\"content\">El sol se convertir&#225; en tinieblas y la luna en sangre, antes que venga el d&#237;a del SE&#209;OR, grande y temible. </span></span><span class=\"verse v32\" data-usfm=\"JOL.2.32\"><span class=\"label\">32</span><span class=\"content\">Y suceder&#225; que cualquiera que invoque el nombre del SE&#209;OR ser&#225; salvo, porque en el monte Sion y en Jerusal&#233;n estar&#225;n los libertados, como ha dicho el SE&#209;OR; y entre los sobrevivientes estar&#225;n aquellos que el SE&#209;OR ha llamado.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "La devastación del día del señor"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "¡Toquen la corneta en Sion y griten en mi santo monte! ¡Tiemblen todos los habitantes de la tierra porque viene el día del SEÑOR!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "¡Día de tinieblas y de oscuridad, día de nublado y de densa neblina! Como negrura que se despliega sobre las montañas es un ejército grande y fuerte. ¡Nunca antes ha subido algo semejante ni después de ello ocurrirá por años, de generación en generación!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Delante consume el fuego, y detrás abrasa la llama. La tierra que antes era como el jardín de Edén será después como desierto desolado. ¡No habrá quien escape!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Su aspecto es como el aspecto de caballos y corren como gente de a caballo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Con estruendo de carros saltan sobre las cumbres de los montes, con crepitar de llama de fuego que consume la hojarasca como pueblo fuerte listo para la batalla."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Delante de él tiemblan los pueblos y palidecen todos los semblantes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Corren como valientes; como hombres de guerra escalan la muralla. Cada uno sigue su camino y no abandonan sus sendas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Ninguno tropieza con su compañero; cada uno va por su calzada. Aun cayendo a causa de la espada no rompen su formación"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "en la ciudad. Van saltando por el muro, corren por las casas, suben por las ventanas y entran como ladrones."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Delante de ellos tiembla la tierra y se estremecen los cielos. El sol y la luna se oscurecen, y las estrellas retiran su fulgor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "El SEÑOR da la voz delante de su ejército. Enorme es su campamento y poderoso es el que ejecuta su palabra. Grande y temible es el día del SEÑOR. ¿Quién lo podrá resistir?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Llamado a arrepentirse y a orar"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "“Pero aun ahora”, dice el SEÑOR, “vuélvanse a mí con todo su corazón, con ayuno, llanto y lamento."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Desgarren su corazón y no sus vestidos”.",
+            "Vuelvan al SEÑOR, su Dios, porque él es clemente y compasivo, lento para la ira, grande en misericordia y desiste del castigo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "¿Quién sabe si desiste, cambia de parecer y deja tras sí bendición, es decir, ofrenda vegetal y líquida para el SEÑOR su Dios?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "¡Toquen la corneta en Sion; pregonen ayuno! ¡Convoquen a la asamblea!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "¡Reúnan al pueblo; santifiquen la congregación; agrupen a los ancianos; reúnan a los pequeños y a los niños de pecho! ¡Salga el novio de su cámara nupcial y la novia de su dosel!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Los sacerdotes que sirven al SEÑOR lloren entre el vestíbulo y el altar. Digan: “Perdona, oh SEÑOR, a mi pueblo. No entregues tu heredad a la afrenta para que las naciones se enseñoreen de ella. ¿Por qué han de decir entre los pueblos: ‘¿Dónde está su Dios?’”."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Futura restauración y prosperidad"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Entonces el SEÑOR tuvo celo por su tierra y se apiadó de su pueblo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "El SEÑOR respondió a su pueblo diciendo: “He aquí, yo les envío granos, vino nuevo y aceite; y serán saciados. Nunca más los entregaré como afrenta en medio de las naciones."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Yo haré que se aleje de ustedes lo que viene del norte. Lo arrojaré a tierra seca y desierta; su vanguardia hacia el mar oriental y su retaguardia hacia el mar occidental. Se levantará su hedor y subirá su putrefacción”. ¡Porque ha hecho grandes cosas!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "“¡Oh tierra, no temas! ¡Alégrate y regocíjate porque el SEÑOR ha hecho grandes cosas!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "No teman, animales del campo, porque los pastizales reverdecerán; porque los árboles llevarán su fruto; la higuera y la vid darán su riqueza."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "Ustedes también, oh hijos de Sion, alégrense y regocíjense en el SEÑOR su Dios, porque les ha dado la lluvia primera en su justa medida. También hará descender sobre ustedes la lluvia temprana y la tardía, como antes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "Las eras se llenarán de trigo, y los lagares rebosarán de vino nuevo y de aceite."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "Yo les restituiré los años que comieron la oruga, el pulgón, el saltón y la langosta; mi gran ejército que envié contra ustedes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 26,
+          "lines": [
+            "Comerán hasta saciarse y alabarán el nombre del SEÑOR su Dios, quien ha hecho maravillas con ustedes. Y nunca más será avergonzado mi pueblo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 27,
+          "lines": [
+            "Así sabrán que estoy en medio de Israel, que yo soy el SEÑOR su Dios y que no hay otro. Y nunca más será avergonzado mi pueblo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Derramamiento del Espíritu Santo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 28,
+          "lines": [
+            "“Sucederá después de esto que derramaré mi Espíritu sobre todo mortal. Sus hijos y sus hijas profetizarán. Sus ancianos tendrán sueños; y sus jóvenes visiones."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 29,
+          "lines": [
+            "En aquellos días también derramaré mi Espíritu sobre los siervos y las siervas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 30,
+          "lines": [
+            "Realizaré prodigios en los cielos y en la tierra: sangre, fuego y columnas de humo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 31,
+          "lines": [
+            "El sol se convertirá en tinieblas y la luna en sangre, antes que venga el día del SEÑOR, grande y temible."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 32,
+          "lines": [
+            "Y sucederá que cualquiera que invoque el nombre del SEÑOR será salvo, porque en el monte Sion y en Jerusalén estarán los libertados, como ha dicho el SEÑOR; y entre los sobrevivientes estarán aquellos que el SEÑOR ha llamado."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "JOL.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "JOL.3"
+        ],
+        "human": "Joel 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "AMO.1"
+        ],
+        "human": "Amós 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "JOL.2"
+        ],
+        "human": "Joel 2",
+        "toc": true
+      },
+      "chapter_text": "“He aquí que en aquellos días y en aquel tiempo, cuando yo restaure de la cautividad a Judá y a Jerusalén, reuniré a todas las naciones y las haré descender al valle de Josafat. Allí entraré en juicio contra ellas a causa de mi pueblo, de Israel mi heredad, al cual esparcieron entre las naciones, y luego se repartieron mi tierra. Sobre mi pueblo echaron suertes; por el niño pagaron como por prostituta y vendieron a la niña por vino para beber.\n“Ustedes también, oh Tiro, oh Sidón y todas las comarcas de Filistea, ¿qué son para mí? ¿Quieren vengarse de mí? Si de mí se vengan, bien pronto haré que recaiga la paga sobre sus cabezas porque han llevado mi plata y mi oro. Mis cosas preciosas y hermosas han introducido en sus templos. Vendieron los hijos de Judá y los hijos de Jerusalén a los hijos de los griegos para alejarlos de sus territorios. He aquí, yo los despertaré en el lugar a donde los vendieron y volveré su paga sobre su cabeza. Yo venderé a sus hijos y a sus hijas en mano de los hijos de Judá, y estos los venderán a los sabeos, a una nación distante, porque el SEÑOR ha hablado”.\n¡Proclamen esto entre las naciones, declaren guerra santa, convoquen a los valientes! Acérquense y acudan todos los hombres de guerra. Hagan espadas de sus rejas de arado y lanzas de sus podaderas. Diga el débil: “Soy valiente”. Apresúrense y acudan todas las naciones de alrededor; congréguense allá. ¡Haz que desciendan allá tus valientes, oh SEÑOR!\n“Despierten las naciones y vayan al valle de Josafat, porque allí me sentaré para juzgar a todas las naciones de alrededor. Metan la hoz porque el grano ya está maduro. Vengan, pisoteen porque el lagar está lleno y rebosan las cubas; pues mucha es la maldad de ellos.\n“Multitudes, multitudes están en el valle de la decisión porque está cercano el día del SEÑOR en el valle de la decisión. El sol y la luna se oscurecen, y las estrellas retiran su fulgor. El SEÑOR ruge desde Sion y da su voz desde Jerusalén. Tiemblan los cielos y la tierra, pero el SEÑOR es refugio para su pueblo y fortaleza para los hijos de Israel. Y conocerán que yo soy el SEÑOR su Dios que habito en Sion, mi santo monte. Santa será Jerusalén y los extraños no pasarán más por ella.\n\n“En aquel día sucederá que los montes gotearán jugo de uvas, las colinas fluirán leche y correrán aguas por todos los arroyos de Judá. Un manantial saldrá de la casa del SEÑOR y regará el valle de Sitim. Egipto será convertido en desolación, y Edom en desierto desolado por la violencia hecha a los hijos de Judá; porque en su tierra derramaron la sangre inocente. Pero Judá será habitada para siempre, y Jerusalén de generación en generación. Yo tomaré venganza de la sangre y a nadie daré por inocente”.\n¡El SEÑOR habita en Sion!",
+      "chapter_html": "<div class=\"version vid1782 iso6393spa\" data-vid=\"1782\" data-iso6393=\"spa\">\n   <div class=\"book bkJOL\">\n      <div class=\"chapter ch3\" data-usfm=\"JOL.3\">\n         <div class=\"label\">3</div><div class=\"s1\"><span class=\"heading\">El SE&#209;OR juzga a las naciones</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"JOL.3.1\"><span class=\"label\">1</span><span class=\"content\">&#8220;He aqu&#237; que en aquellos d&#237;as y en aquel tiempo, cuando yo restaure de la cautividad a Jud&#225; y a Jerusal&#233;n, </span></span><span class=\"verse v2\" data-usfm=\"JOL.3.2\"><span class=\"label\">2</span><span class=\"content\">reunir&#233; a todas las naciones y las har&#233; descender al valle de Josafat</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">Cf. Isa. 66:16; Jer. 25:31.</span></span></span><span class=\"content\">. All&#237; entrar&#233; en juicio contra ellas a causa de mi pueblo, de Israel mi heredad, al cual esparcieron entre las naciones, y luego se repartieron mi tierra. </span></span><span class=\"verse v3\" data-usfm=\"JOL.3.3\"><span class=\"label\">3</span><span class=\"content\">Sobre mi pueblo echaron suertes; por el ni&#241;o pagaron como por prostituta y vendieron a la ni&#241;a por vino para beber.</span></span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"JOL.3.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"JOL.3.4\"><span class=\"label\">4</span><span class=\"content\">&#8220;Ustedes tambi&#233;n, oh Tiro, oh Sid&#243;n y todas las comarcas de Filistea, &#191;qu&#233; son para m&#237;? &#191;Quieren vengarse de m&#237;? Si de m&#237; se vengan, bien pronto har&#233; que recaiga la paga sobre sus cabezas </span></span><span class=\"verse v5\" data-usfm=\"JOL.3.5\"><span class=\"label\">5</span><span class=\"content\">porque han llevado mi plata y mi oro. Mis cosas preciosas y hermosas han introducido en sus templos</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">Otra trad., </span><span class=\"it\">palacios.</span></span></span><span class=\"content\">. </span></span><span class=\"verse v6\" data-usfm=\"JOL.3.6\"><span class=\"label\">6</span><span class=\"content\">Vendieron los hijos de Jud&#225; y los hijos de Jerusal&#233;n a los hijos de los griegos</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">Lit., </span><span class=\"it\">hijos de Jav&#225;n.</span></span></span><span class=\"content\"> para alejarlos de sus territorios. </span></span><span class=\"verse v7\" data-usfm=\"JOL.3.7\"><span class=\"label\">7</span><span class=\"content\">He aqu&#237;, yo los despertar&#233; en el lugar a donde los vendieron y volver&#233; su paga sobre su cabeza. </span></span><span class=\"verse v8\" data-usfm=\"JOL.3.8\"><span class=\"label\">8</span><span class=\"content\">Yo vender&#233; a sus hijos y a sus hijas en mano de los hijos de Jud&#225;, y estos los vender&#225;n a los sabeos, a una naci&#243;n distante, porque el SE&#209;OR ha hablado&#8221;.</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"JOL.3.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"JOL.3.9\"><span class=\"label\">9</span><span class=\"content\">&#161;Proclamen esto entre las naciones, declaren guerra santa, convoquen a los valientes! Ac&#233;rquense y acudan todos los hombres de guerra. </span></span><span class=\"verse v10\" data-usfm=\"JOL.3.10\"><span class=\"label\">10</span><span class=\"content\">Hagan espadas de sus rejas de arado y lanzas de sus podaderas. Diga el d&#233;bil: &#8220;Soy valiente&#8221;. </span></span><span class=\"verse v11\" data-usfm=\"JOL.3.11\"><span class=\"label\">11</span><span class=\"content\">Apres&#250;rense y acudan todas las naciones de alrededor; congr&#233;guense all&#225;. &#161;Haz que desciendan all&#225; tus valientes, oh SE&#209;OR!</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"JOL.3.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"JOL.3.12\"><span class=\"label\">12</span><span class=\"content\">&#8220;Despierten las naciones y vayan al valle de Josafat, porque all&#237; me sentar&#233; para juzgar a todas las naciones de alrededor. </span></span><span class=\"verse v13\" data-usfm=\"JOL.3.13\"><span class=\"label\">13</span><span class=\"content\">Metan la hoz porque el grano ya est&#225; maduro. Vengan, pisoteen porque el lagar est&#225; lleno y rebosan las cubas; pues mucha es la maldad de ellos.</span></span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"JOL.3.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"JOL.3.14\"><span class=\"label\">14</span><span class=\"content\">&#8220;Multitudes, multitudes est&#225;n en el valle de la decisi&#243;n porque est&#225; cercano el d&#237;a del SE&#209;OR en el valle de la decisi&#243;n. </span></span><span class=\"verse v15\" data-usfm=\"JOL.3.15\"><span class=\"label\">15</span><span class=\"content\">El sol y la luna se oscurecen, y las estrellas retiran su fulgor. </span></span><span class=\"verse v16\" data-usfm=\"JOL.3.16\"><span class=\"label\">16</span><span class=\"content\">El SE&#209;OR ruge desde Sion y da su voz desde Jerusal&#233;n. Tiemblan los cielos y la tierra, pero el SE&#209;OR es refugio para su pueblo y fortaleza para los hijos de Israel. </span></span><span class=\"verse v17\" data-usfm=\"JOL.3.17\"><span class=\"label\">17</span><span class=\"content\">Y conocer&#225;n que yo soy el SE&#209;OR su Dios que habito en Sion, mi santo monte. Santa ser&#225; Jerusal&#233;n y los extra&#241;os no pasar&#225;n m&#225;s por ella.</span></span></div><div class=\"s1\"><span class=\"heading\">Vindicaci&#243;n y gloria de Sion</span></div><div class=\"p\"><span class=\"verse v17\" data-usfm=\"JOL.3.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"JOL.3.18\"><span class=\"label\">18</span><span class=\"content\">&#8220;En aquel d&#237;a suceder&#225; que los montes gotear&#225;n jugo de uvas, las colinas fluir&#225;n leche y correr&#225;n aguas por todos los arroyos de Jud&#225;. Un manantial saldr&#225; de la casa del SE&#209;OR y regar&#225; el valle de Sitim. </span></span><span class=\"verse v19\" data-usfm=\"JOL.3.19\"><span class=\"label\">19</span><span class=\"content\">Egipto ser&#225; convertido en desolaci&#243;n, y Edom en desierto desolado por la violencia hecha a los hijos de Jud&#225;; porque en su tierra derramaron la sangre inocente. </span></span><span class=\"verse v20\" data-usfm=\"JOL.3.20\"><span class=\"label\">20</span><span class=\"content\">Pero Jud&#225; ser&#225; habitada para siempre, y Jerusal&#233;n de generaci&#243;n en generaci&#243;n. </span></span><span class=\"verse v21\" data-usfm=\"JOL.3.21\"><span class=\"label\">21</span><span class=\"content\">Yo tomar&#233; venganza de la sangre y a nadie dar&#233; por inocente</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">Seg&#250;n LXX y Peshita; heb., de significado oscuro.</span></span></span><span class=\"content\">&#8221;.</span></span></div><div class=\"p\"><span class=\"verse v21\" data-usfm=\"JOL.3.21\"><span class=\"content\">&#161;El SE&#209;OR habita en Sion!</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "El SEÑOR juzga a las naciones"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "“He aquí que en aquellos días y en aquel tiempo, cuando yo restaure de la cautividad a Judá y a Jerusalén,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "reuniré a todas las naciones y las haré descender al valle de Josafat. Allí entraré en juicio contra ellas a causa de mi pueblo, de Israel mi heredad, al cual esparcieron entre las naciones, y luego se repartieron mi tierra."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Sobre mi pueblo echaron suertes; por el niño pagaron como por prostituta y vendieron a la niña por vino para beber."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "“Ustedes también, oh Tiro, oh Sidón y todas las comarcas de Filistea, ¿qué son para mí? ¿Quieren vengarse de mí? Si de mí se vengan, bien pronto haré que recaiga la paga sobre sus cabezas"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "porque han llevado mi plata y mi oro. Mis cosas preciosas y hermosas han introducido en sus templos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Vendieron los hijos de Judá y los hijos de Jerusalén a los hijos de los griegos para alejarlos de sus territorios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "He aquí, yo los despertaré en el lugar a donde los vendieron y volveré su paga sobre su cabeza."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Yo venderé a sus hijos y a sus hijas en mano de los hijos de Judá, y estos los venderán a los sabeos, a una nación distante, porque el SEÑOR ha hablado”."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "¡Proclamen esto entre las naciones, declaren guerra santa, convoquen a los valientes! Acérquense y acudan todos los hombres de guerra."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Hagan espadas de sus rejas de arado y lanzas de sus podaderas. Diga el débil: “Soy valiente”."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Apresúrense y acudan todas las naciones de alrededor; congréguense allá. ¡Haz que desciendan allá tus valientes, oh SEÑOR!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "“Despierten las naciones y vayan al valle de Josafat, porque allí me sentaré para juzgar a todas las naciones de alrededor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Metan la hoz porque el grano ya está maduro. Vengan, pisoteen porque el lagar está lleno y rebosan las cubas; pues mucha es la maldad de ellos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "“Multitudes, multitudes están en el valle de la decisión porque está cercano el día del SEÑOR en el valle de la decisión."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "El sol y la luna se oscurecen, y las estrellas retiran su fulgor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "El SEÑOR ruge desde Sion y da su voz desde Jerusalén. Tiemblan los cielos y la tierra, pero el SEÑOR es refugio para su pueblo y fortaleza para los hijos de Israel."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Y conocerán que yo soy el SEÑOR su Dios que habito en Sion, mi santo monte. Santa será Jerusalén y los extraños no pasarán más por ella."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Vindicación y gloria de Sion"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "“En aquel día sucederá que los montes gotearán jugo de uvas, las colinas fluirán leche y correrán aguas por todos los arroyos de Judá. Un manantial saldrá de la casa del SEÑOR y regará el valle de Sitim."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Egipto será convertido en desolación, y Edom en desierto desolado por la violencia hecha a los hijos de Judá; porque en su tierra derramaron la sangre inocente."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Pero Judá será habitada para siempre, y Jerusalén de generación en generación."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "Yo tomaré venganza de la sangre y a nadie daré por inocente”.",
+            "¡El SEÑOR habita en Sion!"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

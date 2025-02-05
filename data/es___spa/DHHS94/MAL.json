@@ -1,0 +1,632 @@
+{
+  "book_usfm": "MAL",
+  "name": "Malaquías",
+  "local_title": "Dios habla Hoy Estándar",
+  "local_abbreviation": "DHHS94",
+  "version_id": 1846,
+  "publisher": {
+    "name": "United Bible Societies"
+  },
+  "copyright": {
+    "html": "<p>Bible text: LA BIBLIA DIOS HABLA HOY, Tercera edición © Sociedades Bíblicas Unidas 1966, 1970, 1979, 1983, 1994, 1996</p> <p>Todos los derechos reservados. www.unitedbiblesocieties.org/</p>",
+    "text": "Bible text: LA BIBLIA DIOS HABLA HOY, Tercera edición © Sociedades Bíblicas Unidas 1966, 1970, 1979, 1983, 1994, 1996 Todos los derechos reservados. www.unitedbiblesocieties.org/"
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "MAL.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "MAL.1"
+        ],
+        "human": "Malaquías 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "MAL.2"
+        ],
+        "human": "Malaquías 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "ZEC.14"
+        ],
+        "human": "Zacarías 14",
+        "toc": true
+      },
+      "chapter_text": "Este es el mensaje que el Señor comunicó al pueblo de Israel por medio del profeta Malaquías.\nEl Señor dice: «Yo los amo a ustedes.» Pero ustedes responden: «¿Cómo sabemos que nos amas?» El Señor contesta: «Yo los amo por la misma razón que, siendo hermanos Esaú y Jacob, amé a Jacob y aborrecí a Esaú. Y el país de Esaú, que era montañoso, lo convertí en un desierto, y sus propiedades en tierra solo buena para los animales salvajes.»\nSi los edomitas, descendientes de Esaú, dijeran: «Hemos sido destruidos, pero reconstruiremos nuestra nación», el Señor todopoderoso respondería: «Ellos reconstruirán, pero yo los destruiré otra vez. Su país será llamado “País de maldad” y “Nación del eterno enojo del Señor”.» Ustedes lo verán con sus propios ojos, y dirán: «¡El Señor es tan grande que sobrepasa las fronteras de Israel!»\n\nEl Señor todopoderoso dice a los sacerdotes: «Los hijos honran a sus padres, y los criados respetan a sus amos. Pues si yo soy el Padre de ustedes, ¿por qué ustedes no me honran? Si soy su Amo, ¿por qué no me respetan? Ustedes me desprecian, y dicen todavía: “¿En qué te hemos despreciado?” Ustedes traen a mi altar pan indigno, y preguntan todavía: “¿En qué te ofendemos?” Ustedes me ofenden cuando piensan que mi altar puede ser despreciado y que no hay nada malo en ofrecerme animales ciegos, cojos o enfermos.» ¡Vayan, pues, y llévenselos a sus gobernantes! ¡Vean si ellos les aceptan con gusto el regalo! Pídanle ustedes a Dios que nos tenga compasión. Pero si le hacen esa clase de ofrendas, no esperen que Dios los acepte a ustedes con gusto. El Señor todopoderoso dice: «¡Ojalá alguno de ustedes cerrara las puertas del templo, para que no volvieran a encender en vano el fuego de mi altar! Porque no estoy contento con ustedes ni voy a seguir aceptando sus ofrendas. En todas las naciones del mundo se me honra; en todas partes queman incienso en mi honor y me hacen ofrendas dignas. En cambio, ustedes me ofenden, pues piensan que mi altar, que es mi mesa, puede ser despreciado, y que es despreciable la comida que hay en él. Ustedes dicen: “¡Ya estamos cansados de todo esto!” Y me desprecian. Y todavía suponen que voy a alegrarme cuando vienen a ofrecerme un animal robado, o una res coja o enferma. ¡Maldito sea el tramposo que me promete un animal sano de su rebaño y luego me sacrifica uno que tiene defecto! Yo soy el gran Rey, y soy temido entre las naciones.» Esto dice el Señor todopoderoso.",
+      "chapter_html": "<div class=\"version vid1846 iso6393spa\" data-vid=\"1846\" data-iso6393=\"spa\">\n   <div class=\"book bkMAL\">\n      <div class=\"chapter ch1\" data-usfm=\"MAL.1\">\n         <div class=\"label\">1</div><div class=\"s1\"><span class=\"heading\">El amor de Dios a Israel</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"MAL.1.1\"><span class=\"label\">1</span><span class=\"content\">Este es el mensaje que el Se&#241;or comunic&#243; al pueblo de Israel por medio del profeta Malaqu&#237;as.</span></span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"MAL.1.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"MAL.1.2\"><span class=\"label\">2</span><span class=\"content\">El Se&#241;or dice: &#171;Yo los amo a ustedes.&#187; Pero ustedes responden: &#171;&#191;C&#243;mo sabemos que nos amas?&#187; El Se&#241;or contesta: &#171;Yo los amo por la misma raz&#243;n que, siendo hermanos Esa&#250; y Jacob, am&#233; a Jacob </span></span><span class=\"verse v3\" data-usfm=\"MAL.1.3\"><span class=\"label\">3</span><span class=\"content\">y aborrec&#237; a Esa&#250;. Y el pa&#237;s de Esa&#250;, que era monta&#241;oso, lo convert&#237; en un desierto, y sus propiedades en tierra solo buena para los animales salvajes.&#187;</span></span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"MAL.1.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"MAL.1.4\"><span class=\"label\">4</span><span class=\"content\">Si los edomitas, descendientes de Esa&#250;, dijeran: &#171;Hemos sido destruidos, pero reconstruiremos nuestra naci&#243;n&#187;, el Se&#241;or todopoderoso responder&#237;a: &#171;Ellos reconstruir&#225;n, pero yo los destruir&#233; otra vez. Su pa&#237;s ser&#225; llamado &#8220;Pa&#237;s de maldad&#8221; y &#8220;Naci&#243;n del eterno enojo del Se&#241;or&#8221;.&#187; </span></span><span class=\"verse v5\" data-usfm=\"MAL.1.5\"><span class=\"label\">5</span><span class=\"content\">Ustedes lo ver&#225;n con sus propios ojos, y dir&#225;n: &#171;&#161;El Se&#241;or es tan grande que sobrepasa las fronteras de Israel!&#187;</span></span></div><div class=\"s1\"><span class=\"heading\">El Se&#241;or reprende a los sacerdotes</span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"MAL.1.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"MAL.1.6\"><span class=\"label\">6</span><span class=\"content\">El Se&#241;or todopoderoso dice a los sacerdotes: &#171;Los hijos honran a sus padres, y los criados respetan a sus amos. Pues si yo soy el Padre de ustedes, &#191;por qu&#233; ustedes no me honran? Si soy su Amo, &#191;por qu&#233; no me respetan? Ustedes me desprecian, y dicen todav&#237;a: &#8220;&#191;En qu&#233; te hemos despreciado?&#8221; </span></span><span class=\"verse v7\" data-usfm=\"MAL.1.7\"><span class=\"label\">7</span><span class=\"content\">Ustedes traen a mi altar pan indigno, y preguntan todav&#237;a: &#8220;&#191;En qu&#233; te ofendemos?&#8221; Ustedes me ofenden cuando piensan que mi altar puede ser despreciado </span></span><span class=\"verse v8\" data-usfm=\"MAL.1.8\"><span class=\"label\">8</span><span class=\"content\">y que no hay nada malo en ofrecerme animales ciegos, cojos o enfermos.&#187; &#161;Vayan, pues, y ll&#233;venselos a sus gobernantes! &#161;Vean si ellos les aceptan con gusto el regalo! </span></span><span class=\"verse v9\" data-usfm=\"MAL.1.9\"><span class=\"label\">9</span><span class=\"content\">P&#237;danle ustedes a Dios que nos tenga compasi&#243;n. Pero si le hacen esa clase de ofrendas, no esperen que Dios los acepte a ustedes con gusto. El Se&#241;or todopoderoso dice: </span></span><span class=\"verse v10\" data-usfm=\"MAL.1.10\"><span class=\"label\">10</span><span class=\"content\">&#171;&#161;Ojal&#225; alguno de ustedes cerrara las puertas del templo, para que no volvieran a encender en vano el fuego de mi altar! Porque no estoy contento con ustedes ni voy a seguir aceptando sus ofrendas. </span></span><span class=\"verse v11\" data-usfm=\"MAL.1.11\"><span class=\"label\">11</span><span class=\"content\">En todas las naciones del mundo se me honra; en todas partes queman incienso en mi honor y me hacen ofrendas dignas. </span></span><span class=\"verse v12\" data-usfm=\"MAL.1.12\"><span class=\"label\">12</span><span class=\"content\">En cambio, ustedes me ofenden, pues piensan que mi altar, que es mi mesa, puede ser despreciado, y que es despreciable la comida que hay en &#233;l. </span></span><span class=\"verse v13\" data-usfm=\"MAL.1.13\"><span class=\"label\">13</span><span class=\"content\">Ustedes dicen: &#8220;&#161;Ya estamos cansados de todo esto!&#8221; Y me desprecian. Y todav&#237;a suponen que voy a alegrarme cuando vienen a ofrecerme un animal robado, o una res coja o enferma. </span></span><span class=\"verse v14\" data-usfm=\"MAL.1.14\"><span class=\"label\">14</span><span class=\"content\">&#161;Maldito sea el tramposo que me promete un animal sano de su reba&#241;o y luego me sacrifica uno que tiene defecto! Yo soy el gran Rey, y soy temido entre las naciones.&#187; Esto dice el Se&#241;or todopoderoso.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "El amor de Dios a Israel"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Este es el mensaje que el Señor comunicó al pueblo de Israel por medio del profeta Malaquías."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "El Señor dice: «Yo los amo a ustedes.» Pero ustedes responden: «¿Cómo sabemos que nos amas?» El Señor contesta: «Yo los amo por la misma razón que, siendo hermanos Esaú y Jacob, amé a Jacob"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "y aborrecí a Esaú. Y el país de Esaú, que era montañoso, lo convertí en un desierto, y sus propiedades en tierra solo buena para los animales salvajes.»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Si los edomitas, descendientes de Esaú, dijeran: «Hemos sido destruidos, pero reconstruiremos nuestra nación», el Señor todopoderoso respondería: «Ellos reconstruirán, pero yo los destruiré otra vez. Su país será llamado “País de maldad” y “Nación del eterno enojo del Señor”.»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Ustedes lo verán con sus propios ojos, y dirán: «¡El Señor es tan grande que sobrepasa las fronteras de Israel!»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "El Señor reprende a los sacerdotes"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "El Señor todopoderoso dice a los sacerdotes: «Los hijos honran a sus padres, y los criados respetan a sus amos. Pues si yo soy el Padre de ustedes, ¿por qué ustedes no me honran? Si soy su Amo, ¿por qué no me respetan? Ustedes me desprecian, y dicen todavía: “¿En qué te hemos despreciado?”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Ustedes traen a mi altar pan indigno, y preguntan todavía: “¿En qué te ofendemos?” Ustedes me ofenden cuando piensan que mi altar puede ser despreciado"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "y que no hay nada malo en ofrecerme animales ciegos, cojos o enfermos.» ¡Vayan, pues, y llévenselos a sus gobernantes! ¡Vean si ellos les aceptan con gusto el regalo!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Pídanle ustedes a Dios que nos tenga compasión. Pero si le hacen esa clase de ofrendas, no esperen que Dios los acepte a ustedes con gusto. El Señor todopoderoso dice:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "«¡Ojalá alguno de ustedes cerrara las puertas del templo, para que no volvieran a encender en vano el fuego de mi altar! Porque no estoy contento con ustedes ni voy a seguir aceptando sus ofrendas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "En todas las naciones del mundo se me honra; en todas partes queman incienso en mi honor y me hacen ofrendas dignas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "En cambio, ustedes me ofenden, pues piensan que mi altar, que es mi mesa, puede ser despreciado, y que es despreciable la comida que hay en él."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Ustedes dicen: “¡Ya estamos cansados de todo esto!” Y me desprecian. Y todavía suponen que voy a alegrarme cuando vienen a ofrecerme un animal robado, o una res coja o enferma."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "¡Maldito sea el tramposo que me promete un animal sano de su rebaño y luego me sacrifica uno que tiene defecto! Yo soy el gran Rey, y soy temido entre las naciones.» Esto dice el Señor todopoderoso."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "MAL.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "MAL.2"
+        ],
+        "human": "Malaquías 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "MAL.3"
+        ],
+        "human": "Malaquías 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "MAL.1"
+        ],
+        "human": "Malaquías 1",
+        "toc": true
+      },
+      "chapter_text": "«Ahora, sacerdotes, esto es para ustedes: Ustedes han de obedecerme y deben tomar en serio el honrarme. Si no lo hacen, yo los maldeciré. Y como no han tomado en serio el honrarme, yo convertiré en maldición incluso los beneficios que obtienen de su sacerdocio.» Lo dice el Señor todopoderoso.\n«Voy a privarlos de su poder y a arrojarles a la cara el estiércol de los animales que traen a sacrificar. ¡Y junto con el estiércol, también ustedes serán barridos! Así sabrán que yo les he dado este mandato para que mi alianza con Leví permanezca firme.» Lo dice el Señor todopoderoso.\n«Mi alianza era vida y paz para Leví. Se las di para que me respetara y me temiera, y él me mostró temor y reverencia. Leví enseñaba la verdad y no había maldad en sus labios. Vivía en perfecta relación de paz conmigo y apartó a muchos de hacer lo malo. Es el deber de los sacerdotes enseñar a la gente a conocerme, y todos deben acudir a ellos para recibir instrucción, porque ellos son los mensajeros del Señor todopoderoso.\n»Pero ustedes, sacerdotes, se han apartado del buen camino; con sus enseñanzas han hecho caer a muchos. Así, ustedes han pervertido mi alianza con Leví. Por eso, porque no me han obedecido y porque, además, cuando enseñan a la gente no tratan a todos por igual, yo haré que todo el pueblo los tenga por viles y los desprecie.» Lo dice el Señor todopoderoso.\n\n¿Acaso no tenemos todos un mismo Padre, que es el Dios que a todos nos ha creado? ¿Por qué, pues, nos engañamos los unos a los otros, violando así la alianza que hizo Dios con nuestros antepasados? Judá es infiel a Dios, y se cometen acciones horribles en Jerusalén y en Israel. Judá ha violado la santidad del templo que el Señor ama, y los hombres de Judá han tomado por esposas mujeres que adoran a dioses falsos. ¡Ojalá el Señor borre de nuestra nación a quienes hacen tales cosas, sean quienes sean y aunque traigan ofrendas al Señor todopoderoso!\nPero ustedes aún hacen más: inundan de lágrimas el altar del Señor, y lloran con grandes lamentos porque el Señor ya no acepta con gusto sus ofrendas. ¿Y aún preguntan ustedes por qué? Pues porque el Señor es testigo de que tú has faltado a la promesa que le hiciste a la mujer con quien te casaste cuando eras joven. ¡Era tu compañera, y tú le prometiste fidelidad! ¿Acaso no es un mismo Dios el que ha hecho el cuerpo y el espíritu? ¿Y qué requiere ese Dios sino descendientes que le sean consagrados? ¡Cuiden ustedes, pues, de su propio espíritu, y no falten a la promesa que le hicieron a la esposa de su juventud! El Señor Dios de Israel, el todopoderoso, dice: «¡Cuiden, pues, de su propio espíritu, y no sean infieles; pues yo aborrezco al que se divorcia de su esposa y se mancha cometiendo esa maldad!»\n\nEl Señor ya está cansado de escucharles; y todavía ustedes preguntan: «¿Qué hemos dicho para que se haya cansado de escucharnos?» Pues ustedes han dicho que al Señor le agradan los que hacen lo malo, y que está contento con ellos. ¡Ustedes no creen que Dios sea justo!",
+      "chapter_html": "<div class=\"version vid1846 iso6393spa\" data-vid=\"1846\" data-iso6393=\"spa\">\n   <div class=\"book bkMAL\">\n      <div class=\"chapter ch2\" data-usfm=\"MAL.2\">\n         <div class=\"label\">2</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"MAL.2.1\"><span class=\"label\">1</span><span class=\"content\">&#171;Ahora, sacerdotes, esto es para ustedes: </span></span><span class=\"verse v2\" data-usfm=\"MAL.2.2\"><span class=\"label\">2</span><span class=\"content\">Ustedes han de obedecerme y deben tomar en serio el honrarme. Si no lo hacen, yo los maldecir&#233;. Y como no han tomado en serio el honrarme, yo convertir&#233; en maldici&#243;n incluso los beneficios que obtienen de su sacerdocio.&#187; Lo dice el Se&#241;or todopoderoso.</span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"MAL.2.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"MAL.2.3\"><span class=\"label\">3</span><span class=\"content\">&#171;Voy a privarlos de su poder y a arrojarles a la cara el esti&#233;rcol de los animales que traen a sacrificar. &#161;Y junto con el esti&#233;rcol, tambi&#233;n ustedes ser&#225;n barridos! </span></span><span class=\"verse v4\" data-usfm=\"MAL.2.4\"><span class=\"label\">4</span><span class=\"content\">As&#237; sabr&#225;n que yo les he dado este mandato para que mi alianza con Lev&#237; permanezca firme.&#187; Lo dice el Se&#241;or todopoderoso.</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"MAL.2.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"MAL.2.5\"><span class=\"label\">5</span><span class=\"content\">&#171;Mi alianza era vida y paz para Lev&#237;. Se las di para que me respetara y me temiera, y &#233;l me mostr&#243; temor y reverencia. </span></span><span class=\"verse v6\" data-usfm=\"MAL.2.6\"><span class=\"label\">6</span><span class=\"content\">Lev&#237; ense&#241;aba la verdad y no hab&#237;a maldad en sus labios. Viv&#237;a en perfecta relaci&#243;n de paz conmigo y apart&#243; a muchos de hacer lo malo. </span></span><span class=\"verse v7\" data-usfm=\"MAL.2.7\"><span class=\"label\">7</span><span class=\"content\">Es el deber de los sacerdotes ense&#241;ar a la gente a conocerme, y todos deben acudir a ellos para recibir instrucci&#243;n, porque ellos son los mensajeros del Se&#241;or todopoderoso.</span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"MAL.2.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"MAL.2.8\"><span class=\"label\">8</span><span class=\"content\">&#187;Pero ustedes, sacerdotes, se han apartado del buen camino; con sus ense&#241;anzas han hecho caer a muchos. As&#237;, ustedes han pervertido mi alianza con Lev&#237;. </span></span><span class=\"verse v9\" data-usfm=\"MAL.2.9\"><span class=\"label\">9</span><span class=\"content\">Por eso, porque no me han obedecido y porque, adem&#225;s, cuando ense&#241;an a la gente no tratan a todos por igual, yo har&#233; que todo el pueblo los tenga por viles y los desprecie.&#187; Lo dice el Se&#241;or todopoderoso.</span></span></div><div class=\"s1\"><span class=\"heading\">La infidelidad de Israel</span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"MAL.2.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"MAL.2.10\"><span class=\"label\">10</span><span class=\"content\"> &#191;Acaso no tenemos todos un mismo Padre, que es el Dios que a todos nos ha creado? &#191;Por qu&#233;, pues, nos enga&#241;amos los unos a los otros, violando as&#237; la alianza que hizo Dios con nuestros antepasados? </span></span><span class=\"verse v11\" data-usfm=\"MAL.2.11\"><span class=\"label\">11</span><span class=\"content\">Jud&#225; es infiel a Dios, y se cometen acciones horribles en Jerusal&#233;n y en Israel. Jud&#225; ha violado la santidad del templo que el Se&#241;or ama, y los hombres de Jud&#225; han tomado por esposas mujeres que adoran a dioses falsos. </span></span><span class=\"verse v12\" data-usfm=\"MAL.2.12\"><span class=\"label\">12</span><span class=\"content\">&#161;Ojal&#225; el Se&#241;or borre de nuestra naci&#243;n a quienes hacen tales cosas, sean quienes sean y aunque traigan ofrendas al Se&#241;or todopoderoso!</span></span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"MAL.2.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"MAL.2.13\"><span class=\"label\">13</span><span class=\"content\">Pero ustedes a&#250;n hacen m&#225;s: inundan de l&#225;grimas el altar del Se&#241;or, y lloran con grandes lamentos porque el Se&#241;or ya no acepta con gusto sus ofrendas. </span></span><span class=\"verse v14\" data-usfm=\"MAL.2.14\"><span class=\"label\">14</span><span class=\"content\">&#191;Y a&#250;n preguntan ustedes por qu&#233;? Pues porque el Se&#241;or es testigo de que t&#250; has faltado a la promesa que le hiciste a la mujer con quien te casaste cuando eras joven. &#161;Era tu compa&#241;era, y t&#250; le prometiste fidelidad! </span></span><span class=\"verse v15\" data-usfm=\"MAL.2.15\"><span class=\"label\">15</span><span class=\"content\">&#191;Acaso no es un mismo Dios el que ha hecho el cuerpo y el esp&#237;ritu? &#191;Y qu&#233; requiere ese Dios sino descendientes que le sean consagrados? &#161;Cuiden ustedes, pues, de su propio esp&#237;ritu, y no falten a la promesa que le hicieron a la esposa de su juventud! </span></span><span class=\"verse v16\" data-usfm=\"MAL.2.16\"><span class=\"label\">16</span><span class=\"content\">El Se&#241;or Dios de Israel, el todopoderoso, dice: &#171;&#161;Cuiden, pues, de su propio esp&#237;ritu, y no sean infieles; pues yo aborrezco al que se divorcia de su esposa y se mancha cometiendo esa maldad!&#187; </span></span></div><div class=\"s1\"><span class=\"heading\">El d&#237;a del juicio</span></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"MAL.2.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"MAL.2.17\"><span class=\"label\">17</span><span class=\"content\">El Se&#241;or ya est&#225; cansado de escucharles; y todav&#237;a ustedes preguntan: &#171;&#191;Qu&#233; hemos dicho para que se haya cansado de escucharnos?&#187; Pues ustedes han dicho que al Se&#241;or le agradan los que hacen lo malo, y que est&#225; contento con ellos. &#161;Ustedes no creen que Dios sea justo!</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "«Ahora, sacerdotes, esto es para ustedes:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Ustedes han de obedecerme y deben tomar en serio el honrarme. Si no lo hacen, yo los maldeciré. Y como no han tomado en serio el honrarme, yo convertiré en maldición incluso los beneficios que obtienen de su sacerdocio.» Lo dice el Señor todopoderoso."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "«Voy a privarlos de su poder y a arrojarles a la cara el estiércol de los animales que traen a sacrificar. ¡Y junto con el estiércol, también ustedes serán barridos!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Así sabrán que yo les he dado este mandato para que mi alianza con Leví permanezca firme.» Lo dice el Señor todopoderoso."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "«Mi alianza era vida y paz para Leví. Se las di para que me respetara y me temiera, y él me mostró temor y reverencia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Leví enseñaba la verdad y no había maldad en sus labios. Vivía en perfecta relación de paz conmigo y apartó a muchos de hacer lo malo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Es el deber de los sacerdotes enseñar a la gente a conocerme, y todos deben acudir a ellos para recibir instrucción, porque ellos son los mensajeros del Señor todopoderoso."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "»Pero ustedes, sacerdotes, se han apartado del buen camino; con sus enseñanzas han hecho caer a muchos. Así, ustedes han pervertido mi alianza con Leví."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Por eso, porque no me han obedecido y porque, además, cuando enseñan a la gente no tratan a todos por igual, yo haré que todo el pueblo los tenga por viles y los desprecie.» Lo dice el Señor todopoderoso."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "La infidelidad de Israel"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "¿Acaso no tenemos todos un mismo Padre, que es el Dios que a todos nos ha creado? ¿Por qué, pues, nos engañamos los unos a los otros, violando así la alianza que hizo Dios con nuestros antepasados?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Judá es infiel a Dios, y se cometen acciones horribles en Jerusalén y en Israel. Judá ha violado la santidad del templo que el Señor ama, y los hombres de Judá han tomado por esposas mujeres que adoran a dioses falsos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "¡Ojalá el Señor borre de nuestra nación a quienes hacen tales cosas, sean quienes sean y aunque traigan ofrendas al Señor todopoderoso!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Pero ustedes aún hacen más: inundan de lágrimas el altar del Señor, y lloran con grandes lamentos porque el Señor ya no acepta con gusto sus ofrendas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "¿Y aún preguntan ustedes por qué? Pues porque el Señor es testigo de que tú has faltado a la promesa que le hiciste a la mujer con quien te casaste cuando eras joven. ¡Era tu compañera, y tú le prometiste fidelidad!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "¿Acaso no es un mismo Dios el que ha hecho el cuerpo y el espíritu? ¿Y qué requiere ese Dios sino descendientes que le sean consagrados? ¡Cuiden ustedes, pues, de su propio espíritu, y no falten a la promesa que le hicieron a la esposa de su juventud!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "El Señor Dios de Israel, el todopoderoso, dice: «¡Cuiden, pues, de su propio espíritu, y no sean infieles; pues yo aborrezco al que se divorcia de su esposa y se mancha cometiendo esa maldad!»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "El día del juicio"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "El Señor ya está cansado de escucharles; y todavía ustedes preguntan: «¿Qué hemos dicho para que se haya cansado de escucharnos?» Pues ustedes han dicho que al Señor le agradan los que hacen lo malo, y que está contento con ellos. ¡Ustedes no creen que Dios sea justo!"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "MAL.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "MAL.3"
+        ],
+        "human": "Malaquías 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "MAL.4"
+        ],
+        "human": "Malaquías 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "MAL.2"
+        ],
+        "human": "Malaquías 2",
+        "toc": true
+      },
+      "chapter_text": "El Señor todopoderoso dice: «Voy a enviar mi mensajero para que me prepare el camino. El Señor, a quien ustedes están buscando, va a entrar de pronto en su templo. ¡Ya llega el mensajero de la alianza que ustedes desean!»\nPero ¿quién podrá resistir el día de su venida? ¿Quién podrá entonces permanecer en pie? Pues llegará como un fuego, para purificarnos; será como un jabón que quitará nuestras manchas. El Señor se sentará a purificar a los sacerdotes, los descendientes de Leví, como quien purifica la plata y el oro en el fuego. Después ellos podrán presentar su ofrenda al Señor, tal como deben hacerlo. El Señor se alegrará entonces de la ofrenda de Judá y Jerusalén, igual que se alegraba de ella en otros tiempos.\nEl Señor todopoderoso dice: «Yo vendré a juzgarlos a ustedes. Y al mismo tiempo seré testigo contra los que practican la magia, los que cometen adulterio, los que juran en falso, los que oprimen a los trabajadores, a las viudas y a los huérfanos, los que tratan mal a los extranjeros y los que me faltan al respeto.\n»Yo soy el Señor. No he cambiado. Y por eso ustedes, descendientes de Jacob, no han sido aniquilados. Ustedes se han apartado de mis preceptos, como se apartaron sus antepasados, y no han querido obedecerlos. Yo, el Señor todopoderoso, les digo: ¡Vuélvanse a mí, y yo me volveré a ustedes! Pero ustedes dicen: “¿Por qué hemos de volvernos a ti?” Y yo pregunto: ¿Acaso un hombre puede defraudar a Dios? ¡Pues ustedes me han defraudado! Y todavía preguntan: “¿En qué te hemos defraudado?” ¡En los diezmos y en las ofrendas me han defraudado! Sí, toda la nación, todos ustedes, me están defraudando, y por eso voy a maldecirlos. Yo, el Señor todopoderoso, les digo: Traigan su diezmo al tesoro del templo, y así habrá alimentos en mi casa. Pónganme a prueba en eso, a ver si no les abro las ventanas del cielo para vaciar sobre ustedes la más rica bendición. No dejaré que las plagas destruyan sus cosechas y sus viñedos. Todas las naciones les llamarán dichosos, porque ustedes tendrán un país encantador. Yo, el Señor todopoderoso, lo he dicho.»\n\nEl Señor dice: «Ustedes han dicho cosas muy duras contra mí. Y todavía preguntan: “¿Qué es lo que hemos dicho en contra tuya?” Esto es lo que han dicho: “Servir a Dios es cosa inútil. ¿Qué provecho sacaremos de hacer lo que él manda, de andar vestidos de luto delante del Señor todopoderoso? Nosotros hemos visto que los orgullosos son felices, que a los malvados les salen las cosas bien, que ponen a prueba a Dios y no reciben ningún castigo.”»\n(Los que honran a Dios hablaron entonces entre sí, y el Señor escuchó con atención lo que decían. Y en presencia del Señor se escribió un libro, en el cual se recordaba a los que honran al Señor y lo toman en cuenta.)\nEl Señor todopoderoso dice: «Estoy preparando un día en el que ellos volverán a ser mi pueblo. Como un padre se compadece del hijo que le sirve, así tendré yo compasión de ellos. Entonces ustedes se darán cuenta otra vez de la diferencia que hay entre el bueno y el malo, entre el que adora a Dios y el que no lo adora.»",
+      "chapter_html": "<div class=\"version vid1846 iso6393spa\" data-vid=\"1846\" data-iso6393=\"spa\">\n   <div class=\"book bkMAL\">\n      <div class=\"chapter ch3\" data-usfm=\"MAL.3\">\n         <div class=\"label\">3</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"MAL.3.1\"><span class=\"label\">1</span><span class=\"content\">El Se&#241;or todopoderoso dice: &#171;Voy a enviar mi mensajero para que me prepare el camino. El Se&#241;or, a quien ustedes est&#225;n buscando, va a entrar de pronto en su templo. &#161;Ya llega el mensajero de la alianza que ustedes desean!&#187;</span></span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"MAL.3.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"MAL.3.2\"><span class=\"label\">2</span><span class=\"content\">Pero &#191;qui&#233;n podr&#225; resistir el d&#237;a de su venida? &#191;Qui&#233;n podr&#225; entonces permanecer en pie? Pues llegar&#225; como un fuego, para purificarnos; ser&#225; como un jab&#243;n que quitar&#225; nuestras manchas. </span></span><span class=\"verse v3\" data-usfm=\"MAL.3.3\"><span class=\"label\">3</span><span class=\"content\">El Se&#241;or se sentar&#225; a purificar a los sacerdotes, los descendientes de Lev&#237;, como quien purifica la plata y el oro en el fuego. Despu&#233;s ellos podr&#225;n presentar su ofrenda al Se&#241;or, tal como deben hacerlo. </span></span><span class=\"verse v4\" data-usfm=\"MAL.3.4\"><span class=\"label\">4</span><span class=\"content\">El Se&#241;or se alegrar&#225; entonces de la ofrenda de Jud&#225; y Jerusal&#233;n, igual que se alegraba de ella en otros tiempos.</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"MAL.3.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"MAL.3.5\"><span class=\"label\">5</span><span class=\"content\">El Se&#241;or todopoderoso dice: &#171;Yo vendr&#233; a juzgarlos a ustedes. Y al mismo tiempo ser&#233; testigo contra los que practican la magia, los que cometen adulterio, los que juran en falso, los que oprimen a los trabajadores, a las viudas y a los hu&#233;rfanos, los que tratan mal a los extranjeros y los que me faltan al respeto.</span></span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"MAL.3.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"MAL.3.6\"><span class=\"label\">6</span><span class=\"content\">&#187;Yo soy el Se&#241;or. No he cambiado. Y por eso ustedes, descendientes de Jacob, no han sido aniquilados. </span></span><span class=\"verse v7\" data-usfm=\"MAL.3.7\"><span class=\"label\">7</span><span class=\"content\">Ustedes se han apartado de mis preceptos, como se apartaron sus antepasados, y no han querido obedecerlos. Yo, el Se&#241;or todopoderoso, les digo: &#161;Vu&#233;lvanse a m&#237;, y yo me volver&#233; a ustedes! Pero ustedes dicen: &#8220;&#191;Por qu&#233; hemos de volvernos a ti?&#8221; </span></span><span class=\"verse v8\" data-usfm=\"MAL.3.8\"><span class=\"label\">8</span><span class=\"content\">Y yo pregunto: &#191;Acaso un hombre puede defraudar a Dios? &#161;Pues ustedes me han defraudado! Y todav&#237;a preguntan: &#8220;&#191;En qu&#233; te hemos defraudado?&#8221; &#161;En los diezmos y en las ofrendas me han defraudado! </span></span><span class=\"verse v9\" data-usfm=\"MAL.3.9\"><span class=\"label\">9</span><span class=\"content\">S&#237;, toda la naci&#243;n, todos ustedes, me est&#225;n defraudando, y por eso voy a maldecirlos. Yo, el Se&#241;or todopoderoso, les digo: </span></span><span class=\"verse v10\" data-usfm=\"MAL.3.10\"><span class=\"label\">10</span><span class=\"content\">Traigan su diezmo al tesoro del templo, y as&#237; habr&#225; alimentos en mi casa. P&#243;nganme a prueba en eso, a ver si no les abro las ventanas del cielo para vaciar sobre ustedes la m&#225;s rica bendici&#243;n. </span></span><span class=\"verse v11\" data-usfm=\"MAL.3.11\"><span class=\"label\">11</span><span class=\"content\">No dejar&#233; que las plagas destruyan sus cosechas y sus vi&#241;edos. </span></span><span class=\"verse v12\" data-usfm=\"MAL.3.12\"><span class=\"label\">12</span><span class=\"content\">Todas las naciones les llamar&#225;n dichosos, porque ustedes tendr&#225;n un pa&#237;s encantador. Yo, el Se&#241;or todopoderoso, lo he dicho.&#187;</span></span></div><div class=\"s1\"><span class=\"heading\">Compasi&#243;n de Dios hacia su pueblo</span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"MAL.3.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"MAL.3.13\"><span class=\"label\">13</span><span class=\"content\">El Se&#241;or dice: &#171;Ustedes han dicho cosas muy duras contra m&#237;. Y todav&#237;a preguntan: &#8220;&#191;Qu&#233; es lo que hemos dicho en contra tuya?&#8221; </span></span><span class=\"verse v14\" data-usfm=\"MAL.3.14\"><span class=\"label\">14</span><span class=\"content\">Esto es lo que han dicho: &#8220;Servir a Dios es cosa in&#250;til. &#191;Qu&#233; provecho sacaremos de hacer lo que &#233;l manda, de andar vestidos de luto delante del Se&#241;or todopoderoso? </span></span><span class=\"verse v15\" data-usfm=\"MAL.3.15\"><span class=\"label\">15</span><span class=\"content\">Nosotros hemos visto que los orgullosos son felices, que a los malvados les salen las cosas bien, que ponen a prueba a Dios y no reciben ning&#250;n castigo.&#8221;&#187;</span></span></div><div class=\"p\"><span class=\"verse v15\" data-usfm=\"MAL.3.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"MAL.3.16\"><span class=\"label\">16</span><span class=\"content\">(Los que honran a Dios hablaron entonces entre s&#237;, y el Se&#241;or escuch&#243; con atenci&#243;n lo que dec&#237;an. Y en presencia del Se&#241;or se escribi&#243; un libro, en el cual se recordaba a los que honran al Se&#241;or y lo toman en cuenta.)</span></span></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"MAL.3.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"MAL.3.17\"><span class=\"label\">17</span><span class=\"content\">El Se&#241;or todopoderoso dice: &#171;Estoy preparando un d&#237;a en el que ellos volver&#225;n a ser mi pueblo. Como un padre se compadece del hijo que le sirve, as&#237; tendr&#233; yo compasi&#243;n de ellos. </span></span><span class=\"verse v18\" data-usfm=\"MAL.3.18\"><span class=\"label\">18</span><span class=\"content\">Entonces ustedes se dar&#225;n cuenta otra vez de la diferencia que hay entre el bueno y el malo, entre el que adora a Dios y el que no lo adora.&#187;</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "El Señor todopoderoso dice: «Voy a enviar mi mensajero para que me prepare el camino. El Señor, a quien ustedes están buscando, va a entrar de pronto en su templo. ¡Ya llega el mensajero de la alianza que ustedes desean!»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Pero ¿quién podrá resistir el día de su venida? ¿Quién podrá entonces permanecer en pie? Pues llegará como un fuego, para purificarnos; será como un jabón que quitará nuestras manchas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "El Señor se sentará a purificar a los sacerdotes, los descendientes de Leví, como quien purifica la plata y el oro en el fuego. Después ellos podrán presentar su ofrenda al Señor, tal como deben hacerlo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "El Señor se alegrará entonces de la ofrenda de Judá y Jerusalén, igual que se alegraba de ella en otros tiempos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "El Señor todopoderoso dice: «Yo vendré a juzgarlos a ustedes. Y al mismo tiempo seré testigo contra los que practican la magia, los que cometen adulterio, los que juran en falso, los que oprimen a los trabajadores, a las viudas y a los huérfanos, los que tratan mal a los extranjeros y los que me faltan al respeto."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "»Yo soy el Señor. No he cambiado. Y por eso ustedes, descendientes de Jacob, no han sido aniquilados."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Ustedes se han apartado de mis preceptos, como se apartaron sus antepasados, y no han querido obedecerlos. Yo, el Señor todopoderoso, les digo: ¡Vuélvanse a mí, y yo me volveré a ustedes! Pero ustedes dicen: “¿Por qué hemos de volvernos a ti?”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Y yo pregunto: ¿Acaso un hombre puede defraudar a Dios? ¡Pues ustedes me han defraudado! Y todavía preguntan: “¿En qué te hemos defraudado?” ¡En los diezmos y en las ofrendas me han defraudado!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Sí, toda la nación, todos ustedes, me están defraudando, y por eso voy a maldecirlos. Yo, el Señor todopoderoso, les digo:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Traigan su diezmo al tesoro del templo, y así habrá alimentos en mi casa. Pónganme a prueba en eso, a ver si no les abro las ventanas del cielo para vaciar sobre ustedes la más rica bendición."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "No dejaré que las plagas destruyan sus cosechas y sus viñedos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Todas las naciones les llamarán dichosos, porque ustedes tendrán un país encantador. Yo, el Señor todopoderoso, lo he dicho.»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Compasión de Dios hacia su pueblo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "El Señor dice: «Ustedes han dicho cosas muy duras contra mí. Y todavía preguntan: “¿Qué es lo que hemos dicho en contra tuya?”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Esto es lo que han dicho: “Servir a Dios es cosa inútil. ¿Qué provecho sacaremos de hacer lo que él manda, de andar vestidos de luto delante del Señor todopoderoso?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Nosotros hemos visto que los orgullosos son felices, que a los malvados les salen las cosas bien, que ponen a prueba a Dios y no reciben ningún castigo.”»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "(Los que honran a Dios hablaron entonces entre sí, y el Señor escuchó con atención lo que decían. Y en presencia del Señor se escribió un libro, en el cual se recordaba a los que honran al Señor y lo toman en cuenta.)"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "El Señor todopoderoso dice: «Estoy preparando un día en el que ellos volverán a ser mi pueblo. Como un padre se compadece del hijo que le sirve, así tendré yo compasión de ellos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Entonces ustedes se darán cuenta otra vez de la diferencia que hay entre el bueno y el malo, entre el que adora a Dios y el que no lo adora.»"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "MAL.4",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "MAL.4"
+        ],
+        "human": "Malaquías 4"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "TOB.1"
+        ],
+        "human": "Tobit 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "MAL.3"
+        ],
+        "human": "Malaquías 3",
+        "toc": true
+      },
+      "chapter_text": "1 (3.19) El Señor todopoderoso dice: «Se acerca el día, ardiente como un horno, en que todos los orgullosos y malvados arderán como paja en una hoguera. Ese día que ha de venir los quemará, y nada quedará de ellos. 2 (3.20) Pero para ustedes que me honran, mi justicia brillará como la luz del sol, que en sus rayos trae salud. Y ustedes saltarán de alegría como becerros que salen del establo. 3 (3.21) En ese día que estoy preparando, ustedes pisotearán a los malvados como si fueran polvo.\n4 (3.22) »Acuérdense de la ley que le di a mi siervo Moisés en el monte Horeb. ¡Eran preceptos y mandatos que todo Israel debía obedecer!\n5 (3.23) »Miren ustedes: Voy a enviarles al profeta Elías, antes que llegue el día del Señor, que será un día grande y terrible. 6 (3.24) Y él hará que padres e hijos se reconcilien. De lo contrario vendré y castigaré su país, destruyéndolo por completo.»",
+      "chapter_html": "<div class=\"version vid1846 iso6393spa\" data-vid=\"1846\" data-iso6393=\"spa\">\n   <div class=\"book bkMAL\">\n      <div class=\"chapter ch4\" data-usfm=\"MAL.4\">\n         <div class=\"label\">4</div><div class=\"s1\"><span class=\"heading\">La venida del d&#237;a del Se&#241;or</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"MAL.4.1\"><span class=\"label\">1</span><span class=\"content\">  </span><span class=\"vp\"><span class=\"content\">1 (3.19)</span></span><span class=\"content\"> El Se&#241;or todopoderoso dice: &#171;Se acerca el d&#237;a, ardiente como un horno, en que todos los orgullosos y malvados arder&#225;n como paja en una hoguera. Ese d&#237;a que ha de venir los quemar&#225;, y nada quedar&#225; de ellos. </span></span><span class=\"verse v2\" data-usfm=\"MAL.4.2\"><span class=\"label\">2</span><span class=\"content\">  </span><span class=\"vp\"><span class=\"content\">2 (3.20)</span></span><span class=\"content\"> Pero para ustedes que me honran, mi justicia brillar&#225; como la luz del sol, que en sus rayos trae salud. Y ustedes saltar&#225;n de alegr&#237;a como becerros que salen del establo. </span></span><span class=\"verse v3\" data-usfm=\"MAL.4.3\"><span class=\"label\">3</span><span class=\"content\">  </span><span class=\"vp\"><span class=\"content\">3 (3.21)</span></span><span class=\"content\"> En ese d&#237;a que estoy preparando, ustedes pisotear&#225;n a los malvados como si fueran polvo.</span></span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"MAL.4.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"MAL.4.4\"><span class=\"label\">4</span><span class=\"content\">  </span><span class=\"vp\"><span class=\"content\">4 (3.22)</span></span><span class=\"content\"> &#187;Acu&#233;rdense de la ley que le di a mi siervo Mois&#233;s en el monte Horeb. &#161;Eran preceptos y mandatos que todo Israel deb&#237;a obedecer!</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"MAL.4.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"MAL.4.5\"><span class=\"label\">5</span><span class=\"content\">  </span><span class=\"vp\"><span class=\"content\">5 (3.23)</span></span><span class=\"content\"> &#187;Miren ustedes: Voy a enviarles al profeta El&#237;as, antes que llegue el d&#237;a del Se&#241;or, que ser&#225; un d&#237;a grande y terrible. </span></span><span class=\"verse v6\" data-usfm=\"MAL.4.6\"><span class=\"label\">6</span><span class=\"content\">  </span><span class=\"vp\"><span class=\"content\">6 (3.24)</span></span><span class=\"content\"> Y &#233;l har&#225; que padres e hijos se reconcilien. De lo contrario vendr&#233; y castigar&#233; su pa&#237;s, destruy&#233;ndolo por completo.&#187;</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "La venida del día del Señor"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "1 (3.19) El Señor todopoderoso dice: «Se acerca el día, ardiente como un horno, en que todos los orgullosos y malvados arderán como paja en una hoguera. Ese día que ha de venir los quemará, y nada quedará de ellos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "2 (3.20) Pero para ustedes que me honran, mi justicia brillará como la luz del sol, que en sus rayos trae salud. Y ustedes saltarán de alegría como becerros que salen del establo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "3 (3.21) En ese día que estoy preparando, ustedes pisotearán a los malvados como si fueran polvo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "4 (3.22) »Acuérdense de la ley que le di a mi siervo Moisés en el monte Horeb. ¡Eran preceptos y mandatos que todo Israel debía obedecer!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "5 (3.23) »Miren ustedes: Voy a enviarles al profeta Elías, antes que llegue el día del Señor, que será un día grande y terrible."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "6 (3.24) Y él hará que padres e hijos se reconcilien. De lo contrario vendré y castigaré su país, destruyéndolo por completo.»"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

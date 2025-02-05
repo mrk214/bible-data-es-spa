@@ -1,0 +1,1393 @@
+{
+  "book_usfm": "MIC",
+  "name": "Miqueas",
+  "local_title": "Nueva Biblia de las Américas",
+  "local_abbreviation": "NBLA",
+  "version_id": 103,
+  "publisher": {
+    "name": "The Lockman Foundation"
+  },
+  "copyright": {
+    "html": "1986, 1995, 1997, 2005 by The Lockman Foundation",
+    "text": "1986, 1995, 1997, 2005 by The Lockman Foundation"
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "MIC.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "MIC.1"
+        ],
+        "human": "Miqueas 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "MIC.2"
+        ],
+        "human": "Miqueas 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "JON.4"
+        ],
+        "human": "Jonás 4",
+        "toc": true
+      },
+      "chapter_text": "Palabra del SEÑOR que vino a Miqueas de Moréset en los días de Jotam, Acaz y Ezequías, reyes de Judá; lo que vio acerca de Samaria y Jerusalén.\nOigan, pueblos todos,\nEscucha, tierra y cuanto hay en ti;\nSea el Señor DIOS testigo contra ustedes,\nEl Señor desde Su santo templo.\nPorque el SEÑOR sale de Su lugar,\nY descenderá y caminará sobre las alturas de la tierra.\nDebajo de Él los montes se derretirán,\nY los valles se partirán,\nComo la cera ante el fuego,\nComo las aguas derramadas por una pendiente.\nTodo esto por la rebelión de Jacob\nY por los pecados de la casa de Israel.\n¿Cuál es la rebelión de Jacob?\n¿No es Samaria?\n¿Cuál es el lugar alto de Judá?\n¿No es Jerusalén?\nHaré, pues, de Samaria un montón de ruinas en el campo,\nLugares para plantar viñas;\nDerramaré sus piedras por el valle,\nY pondré al descubierto sus cimientos.\nTodos sus ídolos serán destrozados,\nY todas sus ganancias serán quemadas por el fuego.\nDestruiré todas sus imágenes,\nPorque las obtuvo de ganancias de ramera,\nY a ganancias de ramera volverán.\n¶Por eso me lamentaré y gemiré,\nAndaré descalzo y desnudo.\nDaré aullidos como los chacales\nY lamentos como los avestruces.\nPorque es incurable su herida,\nPues ha llegado hasta Judá;\nSe ha acercado hasta la puerta de mi pueblo,\nHasta Jerusalén.\nEn Gat no lo anuncien,\nTampoco lloren.\nEn Bet le Afrá revuélcate en el polvo.\nVete al cautiverio, habitante de Safir, en vergonzosa desnudez.\nLa que habita en Zaanán no escapa.\nLa lamentación de Bet Esel es\nQue Él quitará de ustedes su apoyo.\nPorque se debilita esperando el bien\nLa que habita en Marot,\nPues la calamidad ha descendido del SEÑOR\nHasta la puerta de Jerusalén.\nAta al carro los corceles,\nHabitante de Laquis\n(Ella fue el principio de pecado\nPara la hija de Sión);\nPorque en ti fueron halladas\nLas rebeliones de Israel.\nPor tanto, darás presentes de despedida\nA Moréset Gat;\nLas casas de Aczib serán un engaño\nPara los reyes de Israel.\nAdemás, traeré contra ti\nAl que toma posesión,\nOh habitante de Maresa.\nHasta Adulam se irá la gloria de Israel.\nArráncate los cabellos y aféitate\nPor los hijos de tus delicias;\nEnsancha tu calva como la del buitre,\nPorque irán al cautiverio lejos de ti.",
+      "chapter_html": "<div class=\"version vid103 iso6393spa\" data-vid=\"103\" data-iso6393=\"spa\">\n   <div class=\"book bkMIC\">\n      <div class=\"chapter ch1\" data-usfm=\"MIC.1\">\n         <div class=\"label\">1</div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Condenaci&#243;n de Israel y Jud&#225;</span></span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"MIC.1.1\"><span class=\"label\">1</span><span class=\"content\">Palabra del S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> que vino a Miqueas de Mor&#233;set en los d&#237;as de Jotam, Acaz </span><span class=\"it\"><span class=\"content\">y</span></span><span class=\"content\"> Ezequ&#237;as, reyes de Jud&#225;; lo que vio acerca de Samaria y Jerusal&#233;n.</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"MIC.1.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"MIC.1.2\"><span class=\"label\">2</span><span class=\"content\">Oigan, pueblos todos,</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"MIC.1.2\"><span class=\"content\">Escucha, tierra y cuanto hay en ti;</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"MIC.1.2\"><span class=\"content\">Sea el Se&#241;or D</span><span class=\"sc\"><span class=\"content\">ios</span></span><span class=\"content\"> testigo contra ustedes,</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"MIC.1.2\"><span class=\"content\">El Se&#241;or desde Su santo templo.</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"MIC.1.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"MIC.1.3\"><span class=\"label\">3</span><span class=\"content\">Porque el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> sale de Su lugar,</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"MIC.1.3\"><span class=\"content\">Y descender&#225; y caminar&#225; sobre las alturas de la tierra.</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"MIC.1.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"MIC.1.4\"><span class=\"label\">4</span><span class=\"content\">Debajo de &#201;l los montes se derretir&#225;n,</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"MIC.1.4\"><span class=\"content\">Y los valles se partir&#225;n,</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"MIC.1.4\"><span class=\"content\">Como la cera ante el fuego,</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"MIC.1.4\"><span class=\"content\">Como las aguas derramadas por una pendiente.</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"MIC.1.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"MIC.1.5\"><span class=\"label\">5</span><span class=\"content\">Todo esto por la rebeli&#243;n de Jacob</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"MIC.1.5\"><span class=\"content\">Y por los pecados de la casa de Israel.</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"MIC.1.5\"><span class=\"content\">&#191;Cu&#225;l es la rebeli&#243;n de Jacob?</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"MIC.1.5\"><span class=\"content\">&#191;No es Samaria?</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"MIC.1.5\"><span class=\"content\">&#191;Cu&#225;l es el lugar alto de Jud&#225;?</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"MIC.1.5\"><span class=\"content\">&#191;No es Jerusal&#233;n?</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"MIC.1.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"MIC.1.6\"><span class=\"label\">6</span><span class=\"content\">Har&#233;, pues, de Samaria un mont&#243;n de ruinas en el campo,</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"MIC.1.6\"><span class=\"content\">Lugares para plantar vi&#241;as;</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"MIC.1.6\"><span class=\"content\">Derramar&#233; sus piedras por el valle,</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"MIC.1.6\"><span class=\"content\">Y pondr&#233; al descubierto sus cimientos.</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"MIC.1.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"MIC.1.7\"><span class=\"label\">7</span><span class=\"content\">Todos sus &#237;dolos ser&#225;n destrozados,</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"MIC.1.7\"><span class=\"content\">Y todas sus ganancias ser&#225;n quemadas por el fuego.</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"MIC.1.7\"><span class=\"content\">Destruir&#233; todas sus im&#225;genes,</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"MIC.1.7\"><span class=\"content\">Porque </span><span class=\"it\"><span class=\"content\">las</span></span><span class=\"content\"> obtuvo de ganancias de ramera,</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"MIC.1.7\"><span class=\"content\">Y a ganancias de ramera volver&#225;n.</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"MIC.1.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"MIC.1.8\"><span class=\"label\">8</span><span class=\"content\">&#182;Por eso me lamentar&#233; y gemir&#233;,</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"MIC.1.8\"><span class=\"content\">Andar&#233; descalzo y desnudo.</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"MIC.1.8\"><span class=\"content\">Dar&#233; aullidos como los chacales</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"MIC.1.8\"><span class=\"content\">Y lamentos como los avestruces.</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"MIC.1.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"MIC.1.9\"><span class=\"label\">9</span><span class=\"content\">Porque es incurable su herida,</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"MIC.1.9\"><span class=\"content\">Pues ha llegado hasta Jud&#225;;</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"MIC.1.9\"><span class=\"content\">Se ha acercado hasta la puerta de mi pueblo,</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"MIC.1.9\"><span class=\"content\">Hasta Jerusal&#233;n.</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"MIC.1.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"MIC.1.10\"><span class=\"label\">10</span><span class=\"content\">En Gat no lo anuncien,</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"MIC.1.10\"><span class=\"content\">Tampoco lloren.</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"MIC.1.10\"><span class=\"content\">En Bet le Afr&#225; revu&#233;lcate en el polvo.</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"MIC.1.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"MIC.1.11\"><span class=\"label\">11</span><span class=\"content\">Vete </span><span class=\"it\"><span class=\"content\">al cautiverio,</span></span><span class=\"content\"> habitante de Safir, en vergonzosa desnudez.</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"MIC.1.11\"><span class=\"content\">La que habita en Zaan&#225;n no escapa.</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"MIC.1.11\"><span class=\"content\">La lamentaci&#243;n de Bet Esel es</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"MIC.1.11\"><span class=\"content\">Que &#201;l quitar&#225; de ustedes su apoyo.</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"MIC.1.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"MIC.1.12\"><span class=\"label\">12</span><span class=\"content\">Porque se debilita esperando el bien</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"MIC.1.12\"><span class=\"content\">La que habita en Marot,</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"MIC.1.12\"><span class=\"content\">Pues la calamidad ha descendido del S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"MIC.1.12\"><span class=\"content\">Hasta la puerta de Jerusal&#233;n.</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"MIC.1.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"MIC.1.13\"><span class=\"label\">13</span><span class=\"content\">Ata al carro los corceles,</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"MIC.1.13\"><span class=\"content\">Habitante de Laquis</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"MIC.1.13\"><span class=\"content\">(Ella fue el principio de pecado</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"MIC.1.13\"><span class=\"content\">Para la hija de Si&#243;n);</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"MIC.1.13\"><span class=\"content\">Porque en ti fueron halladas</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"MIC.1.13\"><span class=\"content\">Las rebeliones de Israel.</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"MIC.1.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"MIC.1.14\"><span class=\"label\">14</span><span class=\"content\">Por tanto, dar&#225;s presentes de despedida</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"MIC.1.14\"><span class=\"content\">A Mor&#233;set Gat;</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"MIC.1.14\"><span class=\"content\">Las casas de Aczib </span><span class=\"it\"><span class=\"content\">ser&#225;n</span></span><span class=\"content\"> un enga&#241;o</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"MIC.1.14\"><span class=\"content\">Para los reyes de Israel.</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"MIC.1.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"MIC.1.15\"><span class=\"label\">15</span><span class=\"content\">Adem&#225;s, traer&#233; contra ti</span></span></div><div class=\"q\"><span class=\"verse v15\" data-usfm=\"MIC.1.15\"><span class=\"content\">Al que toma posesi&#243;n,</span></span></div><div class=\"q\"><span class=\"verse v15\" data-usfm=\"MIC.1.15\"><span class=\"content\">Oh habitante de Maresa.</span></span></div><div class=\"q\"><span class=\"verse v15\" data-usfm=\"MIC.1.15\"><span class=\"content\">Hasta Adulam se ir&#225; la gloria de Israel.</span></span></div><div class=\"q\"><span class=\"verse v15\" data-usfm=\"MIC.1.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"MIC.1.16\"><span class=\"label\">16</span><span class=\"content\">Arr&#225;ncate los cabellos y af&#233;itate</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"MIC.1.16\"><span class=\"content\">Por los hijos de tus delicias;</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"MIC.1.16\"><span class=\"content\">Ensancha tu calva como la del buitre,</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"MIC.1.16\"><span class=\"content\">Porque ir&#225;n al cautiverio lejos de ti.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Palabra del Señor que vino a Miqueas de Moréset en los días de Jotam, Acaz y Ezequías, reyes de Judá; lo que vio acerca de Samaria y Jerusalén."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Oigan, pueblos todos,",
+            "Escucha, tierra y cuanto hay en ti;",
+            "Sea el Señor Dios testigo contra ustedes,",
+            "El Señor desde Su santo templo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Porque el Señor sale de Su lugar,",
+            "Y descenderá y caminará sobre las alturas de la tierra."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Debajo de Él los montes se derretirán,",
+            "Y los valles se partirán,",
+            "Como la cera ante el fuego,",
+            "Como las aguas derramadas por una pendiente."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Todo esto por la rebelión de Jacob",
+            "Y por los pecados de la casa de Israel.",
+            "¿Cuál es la rebelión de Jacob?",
+            "¿No es Samaria?",
+            "¿Cuál es el lugar alto de Judá?",
+            "¿No es Jerusalén?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Haré, pues, de Samaria un montón de ruinas en el campo,",
+            "Lugares para plantar viñas;",
+            "Derramaré sus piedras por el valle,",
+            "Y pondré al descubierto sus cimientos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Todos sus ídolos serán destrozados,",
+            "Y todas sus ganancias serán quemadas por el fuego.",
+            "Destruiré todas sus imágenes,",
+            "Porque las obtuvo de ganancias de ramera,",
+            "Y a ganancias de ramera volverán."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "¶Por eso me lamentaré y gemiré,",
+            "Andaré descalzo y desnudo.",
+            "Daré aullidos como los chacales",
+            "Y lamentos como los avestruces."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Porque es incurable su herida,",
+            "Pues ha llegado hasta Judá;",
+            "Se ha acercado hasta la puerta de mi pueblo,",
+            "Hasta Jerusalén."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "En Gat no lo anuncien,",
+            "Tampoco lloren.",
+            "En Bet le Afrá revuélcate en el polvo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Vete al cautiverio, habitante de Safir, en vergonzosa desnudez.",
+            "La que habita en Zaanán no escapa.",
+            "La lamentación de Bet Esel es",
+            "Que Él quitará de ustedes su apoyo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Porque se debilita esperando el bien",
+            "La que habita en Marot,",
+            "Pues la calamidad ha descendido del Señor",
+            "Hasta la puerta de Jerusalén."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Ata al carro los corceles,",
+            "Habitante de Laquis",
+            "(Ella fue el principio de pecado",
+            "Para la hija de Sión);",
+            "Porque en ti fueron halladas",
+            "Las rebeliones de Israel."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Por tanto, darás presentes de despedida",
+            "A Moréset Gat;",
+            "Las casas de Aczib serán un engaño",
+            "Para los reyes de Israel."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Además, traeré contra ti",
+            "Al que toma posesión,",
+            "Oh habitante de Maresa.",
+            "Hasta Adulam se irá la gloria de Israel."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Arráncate los cabellos y aféitate",
+            "Por los hijos de tus delicias;",
+            "Ensancha tu calva como la del buitre,",
+            "Porque irán al cautiverio lejos de ti."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "MIC.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "MIC.2"
+        ],
+        "human": "Miqueas 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "MIC.3"
+        ],
+        "human": "Miqueas 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "MIC.1"
+        ],
+        "human": "Miqueas 1",
+        "toc": true
+      },
+      "chapter_text": "¡Ay de los que planean la iniquidad,\nLos que traman el mal en sus camas!\nAl clarear la mañana lo ejecutan,\nPorque está en el poder de sus manos.\nCodician campos y se apoderan de ellos,\nCodician casas y las toman.\nRoban al dueño y a su casa,\nAl hombre y a su heredad.\nPor tanto, así dice el SEÑOR:\n«Estoy planeando traer contra esta familia un mal,\nDel cual no librarán su cuello.\nNo andarán erguidos,\nPorque será un tiempo malo.\n-»En aquel día se dirá contra ustedes un refrán\nY se proferirá esta amarga lamentación:\n“Hemos sido totalmente destruidos;\nÉl ha cambiado la porción de mi pueblo.\n¡Cómo me la ha quitado!\nAl infiel ha repartido nuestros campos”.\n-»Por tanto, no habrá quién eche el cordel para ustedes\nPor sorteo en la asamblea del SEÑOR.\n¶“No profeticen”, dicen, y profetizan.\nAunque ellos no profeticen acerca de estas cosas,\nNo serán retenidos los reproches.\n-»¿No se dice, oh casa de Jacob:\n“¿Es impaciente el Espíritu del SEÑOR?\n¿Son estas Sus obras?”?\n¿No hacen bien Mis palabras\nAl que camina rectamente?\n-»Hace poco Mi pueblo se ha levantado como enemigo.\nDe sobre las vestiduras arrebatan el manto\nA los que pasan confiados,\nA los que vuelven de la guerra.\n-»A las mujeres de Mi pueblo arrojan\nDe la casa de sus delicias;\nDe sus hijos arrebatan Mi gloria para siempre.\n-»Levántense y marchen,\nPues este no es lugar de descanso\nPor la impureza que trae destrucción,\nDestrucción dolorosa.\n-»Si un hombre, andando tras el viento y la falsedad,\nHablara mentiras, diciendo:\n“Les hablaré del vino y del licor”,\nEse sería el profeta para este pueblo.\n¶»Ciertamente los reuniré a todos, oh Jacob,\nCiertamente recogeré al remanente de Israel,\nLos agruparé como ovejas en el redil;\nComo rebaño en medio de su pastizal,\nHarán estruendo por la multitud de hombres.\n-»El que abre brecha subirá delante de ellos;\nAbrirán brecha, pasarán la puerta y saldrán por ella;\nSu rey pasará delante de ellos,\nY el SEÑOR a su cabeza».",
+      "chapter_html": "<div class=\"version vid103 iso6393spa\" data-vid=\"103\" data-iso6393=\"spa\">\n   <div class=\"book bkMIC\">\n      <div class=\"chapter ch2\" data-usfm=\"MIC.2\">\n         <div class=\"label\">2</div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">&#161;Ay de los opresores!</span></span></div><div class=\"q\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"MIC.2.1\"><span class=\"label\">1</span><span class=\"content\">&#161;Ay de los que planean la iniquidad,</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"MIC.2.1\"><span class=\"content\">Los que traman el mal en sus camas!</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"MIC.2.1\"><span class=\"content\">Al clarear la ma&#241;ana lo ejecutan,</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"MIC.2.1\"><span class=\"content\">Porque est&#225; en el poder de sus manos.</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"MIC.2.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"MIC.2.2\"><span class=\"label\">2</span><span class=\"content\">Codician campos y se apoderan de </span><span class=\"it\"><span class=\"content\">ellos</span></span><span class=\"content\">,</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"MIC.2.2\"><span class=\"content\">  </span><span class=\"it\"><span class=\"content\">Codician</span></span><span class=\"content\"> casas y </span><span class=\"it\"><span class=\"content\">las</span></span><span class=\"content\"> toman.</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"MIC.2.2\"><span class=\"content\">Roban al due&#241;o y a su casa,</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"MIC.2.2\"><span class=\"content\">Al hombre y a su heredad.</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"MIC.2.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"MIC.2.3\"><span class=\"label\">3</span><span class=\"content\">Por tanto, as&#237; dice el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\">:</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"MIC.2.3\"><span class=\"content\">&#171;Estoy planeando traer contra esta familia un mal,</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"MIC.2.3\"><span class=\"content\">Del cual no librar&#225;n su cuello.</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"MIC.2.3\"><span class=\"content\">No andar&#225;n erguidos,</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"MIC.2.3\"><span class=\"content\">Porque ser&#225; un tiempo malo.</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"MIC.2.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"MIC.2.4\"><span class=\"label\">4</span><span class=\"content\">-&#187;En aquel d&#237;a se dir&#225; contra ustedes un refr&#225;n</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"MIC.2.4\"><span class=\"content\">Y se proferir&#225; </span><span class=\"it\"><span class=\"content\">esta</span></span><span class=\"content\"> amarga lamentaci&#243;n:</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"MIC.2.4\"><span class=\"content\">&#8220;Hemos sido totalmente destruidos;</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"MIC.2.4\"><span class=\"content\">&#201;l ha cambiado la porci&#243;n de mi pueblo.</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"MIC.2.4\"><span class=\"content\">&#161;C&#243;mo me la ha quitado!</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"MIC.2.4\"><span class=\"content\">Al infiel ha repartido nuestros campos&#8221;.</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"MIC.2.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"MIC.2.5\"><span class=\"label\">5</span><span class=\"content\">-&#187;Por tanto, no habr&#225; qui&#233;n eche el cordel para ustedes</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"MIC.2.5\"><span class=\"content\">Por sorteo en la asamblea del S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\">.</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"MIC.2.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"MIC.2.6\"><span class=\"label\">6</span><span class=\"content\">&#182;&#8220;No profeticen&#8221;, </span><span class=\"it\"><span class=\"content\">dicen, y</span></span><span class=\"content\"> profetizan.</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"MIC.2.6\"><span class=\"content\">  </span><span class=\"it\"><span class=\"content\">Aunque</span></span><span class=\"content\"> ellos</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:6 </span><span class=\"ft\">I.e. los profetas.</span></span></span><span class=\"content\"> no profeticen acerca de estas cosas,</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"MIC.2.6\"><span class=\"content\">No ser&#225;n retenidos los reproches.</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"MIC.2.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"MIC.2.7\"><span class=\"label\">7</span><span class=\"content\">-&#187;&#191;No se dice, oh casa de Jacob:</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"MIC.2.7\"><span class=\"content\">&#8220;&#191;Es impaciente el Esp&#237;ritu del S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\">?</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"MIC.2.7\"><span class=\"content\">&#191;Son estas Sus obras?&#8221;?</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"MIC.2.7\"><span class=\"content\">&#191;No hacen bien Mis palabras</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"MIC.2.7\"><span class=\"content\">Al que camina rectamente?</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"MIC.2.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"MIC.2.8\"><span class=\"label\">8</span><span class=\"content\">-&#187;Hace poco Mi pueblo se ha levantado como enemigo.</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"MIC.2.8\"><span class=\"content\">De sobre las vestiduras arrebatan el manto</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"MIC.2.8\"><span class=\"content\">A los que pasan confiados,</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"MIC.2.8\"><span class=\"content\">  </span><span class=\"it\"><span class=\"content\">A</span></span><span class=\"content\"> los que vuelven de la guerra.</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"MIC.2.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"MIC.2.9\"><span class=\"label\">9</span><span class=\"content\">-&#187;A las mujeres de Mi pueblo arrojan</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"MIC.2.9\"><span class=\"content\">De la casa de sus delicias;</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"MIC.2.9\"><span class=\"content\">De sus hijos arrebatan Mi gloria para siempre.</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"MIC.2.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"MIC.2.10\"><span class=\"label\">10</span><span class=\"content\">-&#187;Lev&#225;ntense y marchen,</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"MIC.2.10\"><span class=\"content\">Pues este no es lugar de descanso</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"MIC.2.10\"><span class=\"content\">Por la impureza que trae destrucci&#243;n,</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"MIC.2.10\"><span class=\"content\">Destrucci&#243;n dolorosa.</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"MIC.2.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"MIC.2.11\"><span class=\"label\">11</span><span class=\"content\">-&#187;Si un hombre, andando tras el viento y la falsedad,</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"MIC.2.11\"><span class=\"content\">Hablara mentiras, diciendo:</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"MIC.2.11\"><span class=\"content\">&#8220;Les hablar&#233; del vino y del licor&#8221;,</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"MIC.2.11\"><span class=\"content\">  </span><span class=\"it\"><span class=\"content\">Ese</span></span><span class=\"content\"> ser&#237;a el profeta para este pueblo.</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"MIC.2.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"MIC.2.12\"><span class=\"label\">12</span><span class=\"content\">&#182;&#187;Ciertamente </span><span class=\"it\"><span class=\"content\">los</span></span><span class=\"content\"> reunir&#233; a todos, oh Jacob,</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"MIC.2.12\"><span class=\"content\">Ciertamente recoger&#233; al remanente de Israel,</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"MIC.2.12\"><span class=\"content\">Los agrupar&#233; como ovejas en el redil;</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"MIC.2.12\"><span class=\"content\">Como reba&#241;o en medio de su pastizal,</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"MIC.2.12\"><span class=\"content\">Har&#225;n estruendo </span><span class=\"it\"><span class=\"content\">por la multitud</span></span><span class=\"content\"> de hombres.</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"MIC.2.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"MIC.2.13\"><span class=\"label\">13</span><span class=\"content\">-&#187;El que abre brecha subir&#225; delante de ellos;</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"MIC.2.13\"><span class=\"content\">Abrir&#225;n brecha, pasar&#225;n la puerta y saldr&#225;n por ella;</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"MIC.2.13\"><span class=\"content\">Su rey pasar&#225; delante de ellos,</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"MIC.2.13\"><span class=\"content\">Y el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> a su cabeza&#187;.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "¡Ay de los que planean la iniquidad,",
+            "Los que traman el mal en sus camas!",
+            "Al clarear la mañana lo ejecutan,",
+            "Porque está en el poder de sus manos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Codician campos y se apoderan de ellos,",
+            "Codician casas y las toman.",
+            "Roban al dueño y a su casa,",
+            "Al hombre y a su heredad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Por tanto, así dice el Señor:",
+            "«Estoy planeando traer contra esta familia un mal,",
+            "Del cual no librarán su cuello.",
+            "No andarán erguidos,",
+            "Porque será un tiempo malo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "-»En aquel día se dirá contra ustedes un refrán",
+            "Y se proferirá esta amarga lamentación:",
+            "“Hemos sido totalmente destruidos;",
+            "Él ha cambiado la porción de mi pueblo.",
+            "¡Cómo me la ha quitado!",
+            "Al infiel ha repartido nuestros campos”."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "-»Por tanto, no habrá quién eche el cordel para ustedes",
+            "Por sorteo en la asamblea del Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "¶“No profeticen”, dicen, y profetizan.",
+            "Aunque ellos no profeticen acerca de estas cosas,",
+            "No serán retenidos los reproches."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "-»¿No se dice, oh casa de Jacob:",
+            "“¿Es impaciente el Espíritu del Señor?",
+            "¿Son estas Sus obras?”?",
+            "¿No hacen bien Mis palabras",
+            "Al que camina rectamente?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "-»Hace poco Mi pueblo se ha levantado como enemigo.",
+            "De sobre las vestiduras arrebatan el manto",
+            "A los que pasan confiados,",
+            "A los que vuelven de la guerra."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "-»A las mujeres de Mi pueblo arrojan",
+            "De la casa de sus delicias;",
+            "De sus hijos arrebatan Mi gloria para siempre."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "-»Levántense y marchen,",
+            "Pues este no es lugar de descanso",
+            "Por la impureza que trae destrucción,",
+            "Destrucción dolorosa."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "-»Si un hombre, andando tras el viento y la falsedad,",
+            "Hablara mentiras, diciendo:",
+            "“Les hablaré del vino y del licor”,",
+            "Ese sería el profeta para este pueblo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "¶»Ciertamente los reuniré a todos, oh Jacob,",
+            "Ciertamente recogeré al remanente de Israel,",
+            "Los agruparé como ovejas en el redil;",
+            "Como rebaño en medio de su pastizal,",
+            "Harán estruendo por la multitud de hombres."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "-»El que abre brecha subirá delante de ellos;",
+            "Abrirán brecha, pasarán la puerta y saldrán por ella;",
+            "Su rey pasará delante de ellos,",
+            "Y el Señor a su cabeza»."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "MIC.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "MIC.3"
+        ],
+        "human": "Miqueas 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "MIC.4"
+        ],
+        "human": "Miqueas 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "MIC.2"
+        ],
+        "human": "Miqueas 2",
+        "toc": true
+      },
+      "chapter_text": "Y dije:\n«Oigan ahora, jefes de Jacob\nY gobernantes de la casa de Israel.\n¿No corresponde a ustedes conocer la justicia?\n-»Ustedes que aborrecen lo bueno y aman lo malo,\nQue le arrancan al pueblo la piel de encima\nY la carne de sobre sus huesos;\nUstedes que comen la carne de mi pueblo,\nLes quitan su piel,\nQuiebran sus huesos,\nY los hacen pedazos como para la olla,\nComo carne dentro de la caldera».\nEntonces clamarán al SEÑOR,\nPero Él no les responderá;\nSino que esconderá de ellos Su rostro en aquel tiempo,\nPorque han hecho malas obras.\n¶Así dice el SEÑOR acerca de los profetas\nQue hacen errar a mi pueblo,\nLos cuales cuando tienen algo que morder,\nProclaman: «Paz».\nPero contra aquel que no les pone nada en la boca,\nDeclaran guerra santa.\nPor tanto, para ustedes será noche sin visión,\nY oscuridad sin adivinación.\nSe pondrá el sol sobre los profetas,\nY se oscurecerá el día sobre ellos.\nLos videntes serán avergonzados,\nY confundidos los adivinos.\nTodos ellos se cubrirán la boca\nPorque no hay respuesta de Dios.\nYo, en cambio, estoy lleno de poder,\nDel Espíritu del SEÑOR,\nY de juicio y de valor,\nPara dar a conocer a Jacob su rebelión,\nY a Israel su pecado.\nOigan ahora esto, jefes de la casa de Jacob\nY gobernantes de la casa de Israel,\nQue aborrecen la justicia\nY tuercen todo lo recto,\nQue edifican a Sión con sangre\nY a Jerusalén con iniquidad.\nSus jefes juzgan por soborno,\nSus sacerdotes enseñan por precio,\nSus profetas adivinan por dinero,\nY se apoyan en el SEÑOR, diciendo:\n«¿No está el SEÑOR en medio de nosotros?\nNo vendrá sobre nosotros mal alguno».\nPor tanto, a causa de ustedes,\nSión será arada como un campo,\nJerusalén se convertirá en un montón de ruinas,\nY el monte del templo será como las alturas de un bosque.",
+      "chapter_html": "<div class=\"version vid103 iso6393spa\" data-vid=\"103\" data-iso6393=\"spa\">\n   <div class=\"book bkMIC\">\n      <div class=\"chapter ch3\" data-usfm=\"MIC.3\">\n         <div class=\"label\">3</div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Denuncia contra los gobernantes</span></span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"MIC.3.1\"><span class=\"label\">1</span><span class=\"content\">Y dije:</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"MIC.3.1\"><span class=\"content\">&#171;Oigan ahora, jefes de Jacob</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"MIC.3.1\"><span class=\"content\">Y gobernantes de la casa de Israel.</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"MIC.3.1\"><span class=\"content\">&#191;No </span><span class=\"it\"><span class=\"content\">corresponde</span></span><span class=\"content\"> a ustedes conocer la justicia</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:1 </span><span class=\"ft\">O <span class=\"it\">el derecho.</span></span></span></span><span class=\"content\">?</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"MIC.3.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"MIC.3.2\"><span class=\"label\">2</span><span class=\"content\">-&#187;Ustedes que aborrecen lo bueno y aman lo malo,</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"MIC.3.2\"><span class=\"content\">Que le arrancan </span><span class=\"it\"><span class=\"content\">al pueblo</span></span><span class=\"content\"> la piel de encima</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"MIC.3.2\"><span class=\"content\">Y la carne de sobre sus huesos;</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"MIC.3.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"MIC.3.3\"><span class=\"label\">3</span><span class=\"content\">Ustedes que comen la carne de mi pueblo,</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"MIC.3.3\"><span class=\"content\">Les quitan su piel,</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"MIC.3.3\"><span class=\"content\">Quiebran sus huesos,</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"MIC.3.3\"><span class=\"content\">Y </span><span class=\"it\"><span class=\"content\">los</span></span><span class=\"content\"> hacen pedazos como para la olla,</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"MIC.3.3\"><span class=\"content\">Como carne dentro de la caldera&#187;.</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"MIC.3.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"MIC.3.4\"><span class=\"label\">4</span><span class=\"content\">Entonces clamar&#225;n al S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\">,</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"MIC.3.4\"><span class=\"content\">Pero &#201;l no les responder&#225;;</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"MIC.3.4\"><span class=\"content\">Sino que esconder&#225; de ellos Su rostro en aquel tiempo,</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"MIC.3.4\"><span class=\"content\">Porque han hecho malas obras.</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"MIC.3.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"MIC.3.5\"><span class=\"label\">5</span><span class=\"content\">&#182;As&#237; dice el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> acerca de los profetas</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"MIC.3.5\"><span class=\"content\">Que hacen errar a mi pueblo,</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"MIC.3.5\"><span class=\"content\">  </span><span class=\"it\"><span class=\"content\">Los cuales</span></span><span class=\"content\"> cuando tienen </span><span class=\"it\"><span class=\"content\">algo</span></span><span class=\"content\"> que morder,</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"MIC.3.5\"><span class=\"content\">Proclaman: &#171;Paz&#187;.</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"MIC.3.5\"><span class=\"content\">Pero contra aquel que no les pone nada en la boca,</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"MIC.3.5\"><span class=\"content\">Declaran guerra santa.</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"MIC.3.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"MIC.3.6\"><span class=\"label\">6</span><span class=\"content\">Por tanto, para ustedes </span><span class=\"it\"><span class=\"content\">ser&#225;</span></span><span class=\"content\"> noche sin visi&#243;n,</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"MIC.3.6\"><span class=\"content\">Y oscuridad sin adivinaci&#243;n.</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"MIC.3.6\"><span class=\"content\">Se pondr&#225; el sol sobre los profetas,</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"MIC.3.6\"><span class=\"content\">Y se oscurecer&#225; el d&#237;a sobre ellos.</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"MIC.3.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"MIC.3.7\"><span class=\"label\">7</span><span class=\"content\">Los videntes ser&#225;n avergonzados,</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"MIC.3.7\"><span class=\"content\">Y confundidos los adivinos.</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"MIC.3.7\"><span class=\"content\">Todos ellos se cubrir&#225;n </span><span class=\"it\"><span class=\"content\">la</span></span><span class=\"content\"> boca</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"MIC.3.7\"><span class=\"content\">Porque no hay respuesta de Dios.</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"MIC.3.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"MIC.3.8\"><span class=\"label\">8</span><span class=\"content\">Yo, en cambio, estoy lleno de poder,</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"MIC.3.8\"><span class=\"content\">Del Esp&#237;ritu del S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\">,</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"MIC.3.8\"><span class=\"content\">Y de juicio y de valor,</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"MIC.3.8\"><span class=\"content\">Para dar a conocer a Jacob su rebeli&#243;n,</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"MIC.3.8\"><span class=\"content\">Y a Israel su pecado.</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"MIC.3.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"MIC.3.9\"><span class=\"label\">9</span><span class=\"content\">Oigan ahora esto, jefes de la casa de Jacob</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"MIC.3.9\"><span class=\"content\">Y gobernantes de la casa de Israel,</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"MIC.3.9\"><span class=\"content\">Que aborrecen la justicia</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:9 </span><span class=\"ft\">O <span class=\"it\">el derecho.</span></span></span></span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"MIC.3.9\"><span class=\"content\">Y tuercen todo lo recto,</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"MIC.3.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"MIC.3.10\"><span class=\"label\">10</span><span class=\"content\">Que edifican a Si&#243;n con sangre</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"MIC.3.10\"><span class=\"content\">Y a Jerusal&#233;n con iniquidad.</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"MIC.3.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"MIC.3.11\"><span class=\"label\">11</span><span class=\"content\">Sus jefes juzgan por soborno,</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"MIC.3.11\"><span class=\"content\">Sus sacerdotes ense&#241;an por precio,</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"MIC.3.11\"><span class=\"content\">Sus profetas adivinan por dinero,</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"MIC.3.11\"><span class=\"content\">Y se apoyan en el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\">, diciendo:</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"MIC.3.11\"><span class=\"content\">&#171;&#191;No est&#225; el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> en medio de nosotros?</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"MIC.3.11\"><span class=\"content\">No vendr&#225; sobre nosotros mal alguno&#187;.</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"MIC.3.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"MIC.3.12\"><span class=\"label\">12</span><span class=\"content\">Por tanto, a causa de ustedes,</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"MIC.3.12\"><span class=\"content\">Si&#243;n ser&#225; arada como un campo,</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"MIC.3.12\"><span class=\"content\">Jerusal&#233;n se convertir&#225; en un mont&#243;n de ruinas,</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"MIC.3.12\"><span class=\"content\">Y el monte del templo </span><span class=\"it\"><span class=\"content\">ser&#225;</span></span><span class=\"content\"> como las alturas de un bosque.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Y dije:",
+            "«Oigan ahora, jefes de Jacob",
+            "Y gobernantes de la casa de Israel.",
+            "¿No corresponde a ustedes conocer la justicia?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "-»Ustedes que aborrecen lo bueno y aman lo malo,",
+            "Que le arrancan al pueblo la piel de encima",
+            "Y la carne de sobre sus huesos;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Ustedes que comen la carne de mi pueblo,",
+            "Les quitan su piel,",
+            "Quiebran sus huesos,",
+            "Y los hacen pedazos como para la olla,",
+            "Como carne dentro de la caldera»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Entonces clamarán al Señor,",
+            "Pero Él no les responderá;",
+            "Sino que esconderá de ellos Su rostro en aquel tiempo,",
+            "Porque han hecho malas obras."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "¶Así dice el Señor acerca de los profetas",
+            "Que hacen errar a mi pueblo,",
+            "Los cuales cuando tienen algo que morder,",
+            "Proclaman: «Paz».",
+            "Pero contra aquel que no les pone nada en la boca,",
+            "Declaran guerra santa."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Por tanto, para ustedes será noche sin visión,",
+            "Y oscuridad sin adivinación.",
+            "Se pondrá el sol sobre los profetas,",
+            "Y se oscurecerá el día sobre ellos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Los videntes serán avergonzados,",
+            "Y confundidos los adivinos.",
+            "Todos ellos se cubrirán la boca",
+            "Porque no hay respuesta de Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Yo, en cambio, estoy lleno de poder,",
+            "Del Espíritu del Señor,",
+            "Y de juicio y de valor,",
+            "Para dar a conocer a Jacob su rebelión,",
+            "Y a Israel su pecado."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Oigan ahora esto, jefes de la casa de Jacob",
+            "Y gobernantes de la casa de Israel,",
+            "Que aborrecen la justicia",
+            "Y tuercen todo lo recto,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Que edifican a Sión con sangre",
+            "Y a Jerusalén con iniquidad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Sus jefes juzgan por soborno,",
+            "Sus sacerdotes enseñan por precio,",
+            "Sus profetas adivinan por dinero,",
+            "Y se apoyan en el Señor, diciendo:",
+            "«¿No está el Señor en medio de nosotros?",
+            "No vendrá sobre nosotros mal alguno»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Por tanto, a causa de ustedes,",
+            "Sión será arada como un campo,",
+            "Jerusalén se convertirá en un montón de ruinas,",
+            "Y el monte del templo será como las alturas de un bosque."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "MIC.4",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "MIC.4"
+        ],
+        "human": "Miqueas 4"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "MIC.5"
+        ],
+        "human": "Miqueas 5",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "MIC.3"
+        ],
+        "human": "Miqueas 3",
+        "toc": true
+      },
+      "chapter_text": "EÑOR\nY sucederá en los últimos días\nQue el monte de la casa del SEÑOR\nSerá establecido como cabeza de los montes;\nSe elevará sobre las colinas,\nY correrán a él los pueblos.\nVendrán muchas naciones y dirán:\n«Vengan y subamos al monte del SEÑOR,\nA la casa del Dios de Jacob,\nPara que Él nos instruya en Sus caminos,\nY nosotros andemos en Sus sendas».\nPorque de Sión saldrá la ley,\nY de Jerusalén la palabra del SEÑOR.\nÉl juzgará entre muchos pueblos,\nY enjuiciará a naciones poderosas y lejanas;\nEntonces forjarán sus espadas en rejas de arado\nY sus lanzas en podaderas.\nNo alzará espada nación contra nación,\nNi se adiestrarán más para la guerra.\nCada uno se sentará bajo su parra\nY bajo su higuera,\nY no habrá quien los atemorice,\nPorque la boca del SEÑOR de los ejércitos ha hablado.\nAunque todos los pueblos anden\nCada uno en el nombre de su dios,\nNosotros andaremos\nEn el nombre del SEÑOR nuestro Dios para siempre.\n¶«En aquel día», declara el SEÑOR,\n«Reuniré a la coja\nY recogeré a la perseguida,\nA las que Yo había maltratado.\n-»Haré de la coja un remanente,\nY de la perseguida una nación fuerte.\nY el SEÑOR reinará sobre ellos en el monte Sión\nDesde ahora y para siempre.\n-»Y tú, torre del rebaño,\nColina de la hija de Sión,\nHasta ti vendrá,\nVendrá el antiguo dominio,\nEl reino de la hija de Jerusalén.\n¶»Ahora, ¿por qué gritas tan fuerte?\n¿No hay rey en ti?\n¿Ha perecido tu consejero,\nQue el dolor te aflige como a mujer de parto?\n-»Retuércete y gime,\nHija de Sión,\nComo mujer de parto,\nPorque ahora saldrás de la ciudad\nY habitarás en el campo,\nE irás hasta Babilonia.\nAllí serás rescatada,\nAllí te redimirá el SEÑOR\nDe la mano de tus enemigos.\n-»Pero ahora se han juntado contra ti muchas naciones,\nQue dicen: “Sea profanada,\nY que se deleiten en Sión nuestros ojos”.\n-»Pero ellos no conocen los pensamientos del SEÑOR,\nNi comprenden Su propósito;\nPorque los ha recogido como gavillas en la era.\n-»Levántate y trilla, hija de Sión,\nPues Yo haré tu cuerno de hierro\nY tus pezuñas de bronce,\nPara que desmenuces a muchos pueblos,\nPara que consagres al SEÑOR su injusta ganancia,\nY sus riquezas al Señor de toda la tierra».",
+      "chapter_html": "<div class=\"version vid103 iso6393spa\" data-vid=\"103\" data-iso6393=\"spa\">\n   <div class=\"book bkMIC\">\n      <div class=\"chapter ch4\" data-usfm=\"MIC.4\">\n         <div class=\"label\">4</div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Reinado futuro del S</span><span class=\"sc\"><span class=\"it\"><span class=\"heading\">e&#241;or</span></span></span></span></div><div class=\"q\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"MIC.4.1\"><span class=\"label\">1</span><span class=\"content\">Y suceder&#225; en los &#250;ltimos d&#237;as</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"MIC.4.1\"><span class=\"content\">Que el monte de la casa del S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"MIC.4.1\"><span class=\"content\">Ser&#225; establecido como cabeza de los montes;</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"MIC.4.1\"><span class=\"content\">Se elevar&#225; sobre las colinas,</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"MIC.4.1\"><span class=\"content\">Y correr&#225;n a &#233;l los pueblos.</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"MIC.4.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"MIC.4.2\"><span class=\"label\">2</span><span class=\"content\">Vendr&#225;n muchas naciones y dir&#225;n:</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"MIC.4.2\"><span class=\"content\">&#171;Vengan y subamos al monte del S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\">,</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"MIC.4.2\"><span class=\"content\">A la casa del Dios de Jacob,</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"MIC.4.2\"><span class=\"content\">Para que &#201;l nos instruya en Sus caminos,</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"MIC.4.2\"><span class=\"content\">Y nosotros andemos en Sus sendas&#187;.</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"MIC.4.2\"><span class=\"content\">Porque de Si&#243;n saldr&#225; la ley,</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"MIC.4.2\"><span class=\"content\">Y de Jerusal&#233;n la palabra del S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\">.</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"MIC.4.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"MIC.4.3\"><span class=\"label\">3</span><span class=\"content\">&#201;l juzgar&#225; entre muchos pueblos,</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"MIC.4.3\"><span class=\"content\">Y enjuiciar&#225; a naciones poderosas y lejanas;</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"MIC.4.3\"><span class=\"content\">Entonces forjar&#225;n sus espadas en rejas de arado</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"MIC.4.3\"><span class=\"content\">Y sus lanzas en podaderas.</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"MIC.4.3\"><span class=\"content\">No alzar&#225; espada naci&#243;n contra naci&#243;n,</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"MIC.4.3\"><span class=\"content\">Ni se adiestrar&#225;n m&#225;s para la guerra.</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"MIC.4.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"MIC.4.4\"><span class=\"label\">4</span><span class=\"content\">Cada uno se sentar&#225; bajo su parra</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"MIC.4.4\"><span class=\"content\">Y bajo su higuera,</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"MIC.4.4\"><span class=\"content\">Y no habr&#225; quien </span><span class=\"it\"><span class=\"content\">los</span></span><span class=\"content\"> atemorice,</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"MIC.4.4\"><span class=\"content\">Porque la boca del S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> de los ej&#233;rcitos ha hablado.</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"MIC.4.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"MIC.4.5\"><span class=\"label\">5</span><span class=\"content\">Aunque todos los pueblos anden</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"MIC.4.5\"><span class=\"content\">Cada uno en el nombre de su dios,</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"MIC.4.5\"><span class=\"content\">Nosotros andaremos</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"MIC.4.5\"><span class=\"content\">En el nombre del S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> nuestro Dios para siempre.</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"MIC.4.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"MIC.4.6\"><span class=\"label\">6</span><span class=\"content\">&#182;&#171;En aquel d&#237;a&#187;, declara el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\">,</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"MIC.4.6\"><span class=\"content\">&#171;Reunir&#233; a la coja</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"MIC.4.6\"><span class=\"content\">Y recoger&#233; a la perseguida,</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"MIC.4.6\"><span class=\"content\">A las que Yo hab&#237;a maltratado.</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"MIC.4.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"MIC.4.7\"><span class=\"label\">7</span><span class=\"content\">-&#187;Har&#233; de la coja un remanente,</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"MIC.4.7\"><span class=\"content\">Y de la perseguida una naci&#243;n fuerte.</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"MIC.4.7\"><span class=\"content\">Y el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> reinar&#225; sobre ellos en el monte Si&#243;n</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"MIC.4.7\"><span class=\"content\">Desde ahora y para siempre.</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"MIC.4.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"MIC.4.8\"><span class=\"label\">8</span><span class=\"content\">-&#187;Y t&#250;, torre del reba&#241;o,</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"MIC.4.8\"><span class=\"content\">Colina de la hija de Si&#243;n,</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"MIC.4.8\"><span class=\"content\">Hasta ti vendr&#225;,</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"MIC.4.8\"><span class=\"content\">Vendr&#225; el antiguo dominio,</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"MIC.4.8\"><span class=\"content\">El reino de la hija de Jerusal&#233;n.</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"MIC.4.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"MIC.4.9\"><span class=\"label\">9</span><span class=\"content\">&#182;&#187;Ahora, &#191;por qu&#233; gritas tan fuerte?</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"MIC.4.9\"><span class=\"content\">&#191;No hay rey en ti?</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"MIC.4.9\"><span class=\"content\">&#191;Ha perecido tu consejero,</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"MIC.4.9\"><span class=\"content\">Que el dolor te aflige como a mujer de parto?</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"MIC.4.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"MIC.4.10\"><span class=\"label\">10</span><span class=\"content\">-&#187;Retu&#233;rcete y gime,</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"MIC.4.10\"><span class=\"content\">Hija de Si&#243;n,</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"MIC.4.10\"><span class=\"content\">Como mujer de parto,</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"MIC.4.10\"><span class=\"content\">Porque ahora saldr&#225;s de la ciudad</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"MIC.4.10\"><span class=\"content\">Y habitar&#225;s en el campo,</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"MIC.4.10\"><span class=\"content\">E ir&#225;s hasta Babilonia.</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"MIC.4.10\"><span class=\"content\">All&#237; ser&#225;s rescatada,</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"MIC.4.10\"><span class=\"content\">All&#237; te redimir&#225; el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"MIC.4.10\"><span class=\"content\">De la mano de tus enemigos.</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"MIC.4.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"MIC.4.11\"><span class=\"label\">11</span><span class=\"content\">-&#187;Pero ahora se han juntado contra ti muchas naciones,</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"MIC.4.11\"><span class=\"content\">Que dicen: &#8220;Sea profanada,</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"MIC.4.11\"><span class=\"content\">Y que se deleiten en Si&#243;n nuestros ojos&#8221;.</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"MIC.4.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"MIC.4.12\"><span class=\"label\">12</span><span class=\"content\">-&#187;Pero ellos no conocen los pensamientos del S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\">,</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"MIC.4.12\"><span class=\"content\">Ni comprenden Su prop&#243;sito;</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"MIC.4.12\"><span class=\"content\">Porque los ha recogido como gavillas en la era.</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"MIC.4.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"MIC.4.13\"><span class=\"label\">13</span><span class=\"content\">-&#187;Lev&#225;ntate y trilla, hija de Si&#243;n,</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"MIC.4.13\"><span class=\"content\">Pues Yo har&#233; tu cuerno de hierro</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"MIC.4.13\"><span class=\"content\">Y tus pezu&#241;as de bronce,</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"MIC.4.13\"><span class=\"content\">Para que desmenuces a muchos pueblos,</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"MIC.4.13\"><span class=\"content\">Para que consagres al S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> su injusta ganancia,</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"MIC.4.13\"><span class=\"content\">Y sus riquezas al Se&#241;or de toda la tierra&#187;.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Y sucederá en los últimos días",
+            "Que el monte de la casa del Señor",
+            "Será establecido como cabeza de los montes;",
+            "Se elevará sobre las colinas,",
+            "Y correrán a él los pueblos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Vendrán muchas naciones y dirán:",
+            "«Vengan y subamos al monte del Señor,",
+            "A la casa del Dios de Jacob,",
+            "Para que Él nos instruya en Sus caminos,",
+            "Y nosotros andemos en Sus sendas».",
+            "Porque de Sión saldrá la ley,",
+            "Y de Jerusalén la palabra del Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Él juzgará entre muchos pueblos,",
+            "Y enjuiciará a naciones poderosas y lejanas;",
+            "Entonces forjarán sus espadas en rejas de arado",
+            "Y sus lanzas en podaderas.",
+            "No alzará espada nación contra nación,",
+            "Ni se adiestrarán más para la guerra."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Cada uno se sentará bajo su parra",
+            "Y bajo su higuera,",
+            "Y no habrá quien los atemorice,",
+            "Porque la boca del Señor de los ejércitos ha hablado."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Aunque todos los pueblos anden",
+            "Cada uno en el nombre de su dios,",
+            "Nosotros andaremos",
+            "En el nombre del Señor nuestro Dios para siempre."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "¶«En aquel día», declara el Señor,",
+            "«Reuniré a la coja",
+            "Y recogeré a la perseguida,",
+            "A las que Yo había maltratado."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "-»Haré de la coja un remanente,",
+            "Y de la perseguida una nación fuerte.",
+            "Y el Señor reinará sobre ellos en el monte Sión",
+            "Desde ahora y para siempre."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "-»Y tú, torre del rebaño,",
+            "Colina de la hija de Sión,",
+            "Hasta ti vendrá,",
+            "Vendrá el antiguo dominio,",
+            "El reino de la hija de Jerusalén."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "¶»Ahora, ¿por qué gritas tan fuerte?",
+            "¿No hay rey en ti?",
+            "¿Ha perecido tu consejero,",
+            "Que el dolor te aflige como a mujer de parto?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "-»Retuércete y gime,",
+            "Hija de Sión,",
+            "Como mujer de parto,",
+            "Porque ahora saldrás de la ciudad",
+            "Y habitarás en el campo,",
+            "E irás hasta Babilonia.",
+            "Allí serás rescatada,",
+            "Allí te redimirá el Señor",
+            "De la mano de tus enemigos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "-»Pero ahora se han juntado contra ti muchas naciones,",
+            "Que dicen: “Sea profanada,",
+            "Y que se deleiten en Sión nuestros ojos”."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "-»Pero ellos no conocen los pensamientos del Señor,",
+            "Ni comprenden Su propósito;",
+            "Porque los ha recogido como gavillas en la era."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "-»Levántate y trilla, hija de Sión,",
+            "Pues Yo haré tu cuerno de hierro",
+            "Y tus pezuñas de bronce,",
+            "Para que desmenuces a muchos pueblos,",
+            "Para que consagres al Señor su injusta ganancia,",
+            "Y sus riquezas al Señor de toda la tierra»."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "MIC.5",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "MIC.5"
+        ],
+        "human": "Miqueas 5"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "MIC.6"
+        ],
+        "human": "Miqueas 6",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "MIC.4"
+        ],
+        "human": "Miqueas 4",
+        "toc": true
+      },
+      "chapter_text": "Reúne ahora tus tropas, hija de guerreros;\nHan puesto sitio contra nosotros.\nCon una vara herirán en la mejilla al juez de Israel.\nPero tú, Belén Efrata,\nAunque eres pequeña entre las familias de Judá,\nDe ti me saldrá el que ha de ser gobernante en Israel.\nY sus orígenes son desde tiempos antiguos,\nDesde los días de la eternidad.\nPor tanto, Él los abandonará hasta el tiempo\nEn que dé a luz la que ha de dar a luz.\nEntonces el resto de sus hermanos\nVolverá a los israelitas.\nY Él se afirmará y pastoreará Su rebaño\nCon el poder del SEÑOR,\nCon la majestad del nombre del SEÑOR Su Dios.\nY permanecerán,\nPorque en aquel tiempo Él será engrandecido\nHasta los confines de la tierra.\nÉl será nuestra paz.\nC uando el asirio invada nuestra tierra,\nY cuando pisotee nuestros palacios,\nLevantaremos contra él\nSiete pastores y ocho príncipes del pueblo.\nY ellos pastorearán la tierra de Asiria con espada,\nLa tierra de Nimrod en sus puertas;\nÉl nos librará del asirio\nCuando invada nuestra tierra\nY pisotee nuestro territorio.\n¶Entonces el remanente de Jacob,\nEn medio de muchos pueblos,\nSerá como rocío que viene del SEÑOR,\nComo lluvias sobre la hierba\nQue no espera al hombre\nNi aguarda a los hijos de los hombres.\nEl remanente de Jacob\nSerá entre las naciones,\nEn medio de muchos pueblos,\nComo león entre las fieras de la selva,\nComo leoncillo entre los rebaños de ovejas,\nQue si pasa,\nPisotea y desgarra,\nY no hay quien libre.\nSe alzará tu mano contra tus adversarios,\nY todos tus enemigos serán exterminados.\n¶«Y sucederá en aquel día», declara el SEÑOR,\n«Que exterminaré tus caballos de en medio de ti,\nTambién destruiré tus carros.\n-»Exterminaré además las ciudades de tu tierra,\nY derribaré todas tus fortalezas.\n-»Exterminaré las hechicerías de tu mano,\nY no tendrás más adivinos.\n-»Exterminaré tus imágenes talladas\nY tus pilares sagrados de en medio de ti,\nY ya no te postrarás más\nAnte la obra de tus manos.\n-»Arrancaré tus Aseras de en medio de ti,\nY destruiré tus ciudades.\n-»Y con ira y furor tomaré venganza\nDe las naciones que no obedecieron».",
+      "chapter_html": "<div class=\"version vid103 iso6393spa\" data-vid=\"103\" data-iso6393=\"spa\">\n   <div class=\"book bkMIC\">\n      <div class=\"chapter ch5\" data-usfm=\"MIC.5\">\n         <div class=\"label\">5</div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Reinado del libertador</span></span></div><div class=\"q\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"MIC.5.1\"><span class=\"label\">1</span><span class=\"content\">  </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">5:1 </span><span class=\"ft\">  </span><span class=\"ft\">En el texto heb. cap. 4:14.</span><span class=\"ft\">  </span></span></span><span class=\"content\">Re&#250;ne ahora tus tropas, hija de guerreros;</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"MIC.5.1\"><span class=\"content\">Han puesto sitio contra nosotros.</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"MIC.5.1\"><span class=\"content\">Con una vara herir&#225;n en la mejilla al juez de Israel.</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"MIC.5.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"MIC.5.2\"><span class=\"label\">2</span><span class=\"content\">  </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">5:2 </span><span class=\"ft\">  </span><span class=\"ft\">En el texto heb. cap. 5:1.</span><span class=\"ft\">  </span></span></span><span class=\"content\">Pero t&#250;, Bel&#233;n Efrata,</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"MIC.5.2\"><span class=\"content\">Aunque eres peque&#241;a entre las familias de Jud&#225;,</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"MIC.5.2\"><span class=\"content\">De ti me saldr&#225; el que ha de ser gobernante en Israel.</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"MIC.5.2\"><span class=\"content\">Y sus or&#237;genes son desde tiempos antiguos,</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"MIC.5.2\"><span class=\"content\">Desde los d&#237;as de la eternidad.</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"MIC.5.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"MIC.5.3\"><span class=\"label\">3</span><span class=\"content\">Por tanto, &#201;l los abandonar&#225; hasta el tiempo</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"MIC.5.3\"><span class=\"content\">En que d&#233; a luz la que ha de dar a luz.</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"MIC.5.3\"><span class=\"content\">Entonces el resto de sus hermanos</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"MIC.5.3\"><span class=\"content\">Volver&#225; a los israelitas.</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"MIC.5.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"MIC.5.4\"><span class=\"label\">4</span><span class=\"content\">Y &#201;l se afirmar&#225; y pastorear&#225; </span><span class=\"it\"><span class=\"content\">Su reba&#241;o</span></span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"MIC.5.4\"><span class=\"content\">Con el poder del S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\">,</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"MIC.5.4\"><span class=\"content\">Con la majestad del nombre del S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> Su Dios.</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"MIC.5.4\"><span class=\"content\">Y permanecer&#225;n,</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"MIC.5.4\"><span class=\"content\">Porque en aquel tiempo &#201;l ser&#225; engrandecido</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"MIC.5.4\"><span class=\"content\">Hasta los confines de la tierra.</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"MIC.5.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"MIC.5.5\"><span class=\"label\">5</span><span class=\"content\">&#201;l ser&#225; </span><span class=\"it\"><span class=\"content\">nuestra</span></span><span class=\"content\"> paz.</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"MIC.5.5\"><span class=\"content\">  </span><span class=\"bd\"><span class=\"content\">C</span></span><span class=\"content\">uando el asirio invada nuestra tierra,</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"MIC.5.5\"><span class=\"content\">Y cuando pisotee nuestros palacios,</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"MIC.5.5\"><span class=\"content\">Levantaremos contra &#233;l</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"MIC.5.5\"><span class=\"content\">Siete pastores y ocho pr&#237;ncipes del pueblo.</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"MIC.5.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"MIC.5.6\"><span class=\"label\">6</span><span class=\"content\">Y ellos pastorear&#225;n la tierra de Asiria con espada,</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"MIC.5.6\"><span class=\"content\">La tierra de Nimrod en sus puertas;</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"MIC.5.6\"><span class=\"content\">&#201;l </span><span class=\"it\"><span class=\"content\">nos</span></span><span class=\"content\"> librar&#225; del asirio</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"MIC.5.6\"><span class=\"content\">Cuando invada nuestra tierra</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"MIC.5.6\"><span class=\"content\">Y pisotee nuestro territorio.</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"MIC.5.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"MIC.5.7\"><span class=\"label\">7</span><span class=\"content\">&#182;Entonces el remanente de Jacob,</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"MIC.5.7\"><span class=\"content\">En medio de muchos pueblos,</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"MIC.5.7\"><span class=\"content\">Ser&#225; como roc&#237;o </span><span class=\"it\"><span class=\"content\">que viene</span></span><span class=\"content\"> del S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\">,</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"MIC.5.7\"><span class=\"content\">Como lluvias sobre la hierba</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"MIC.5.7\"><span class=\"content\">Que no espera al hombre</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"MIC.5.7\"><span class=\"content\">Ni aguarda a los hijos de los hombres.</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"MIC.5.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"MIC.5.8\"><span class=\"label\">8</span><span class=\"content\">El remanente de Jacob</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"MIC.5.8\"><span class=\"content\">Ser&#225; entre las naciones,</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"MIC.5.8\"><span class=\"content\">En medio de muchos pueblos,</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"MIC.5.8\"><span class=\"content\">Como le&#243;n entre las fieras de la selva,</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"MIC.5.8\"><span class=\"content\">Como leoncillo entre los reba&#241;os de ovejas,</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"MIC.5.8\"><span class=\"content\">Que si pasa,</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"MIC.5.8\"><span class=\"content\">Pisotea y desgarra,</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"MIC.5.8\"><span class=\"content\">Y no hay quien libre.</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"MIC.5.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"MIC.5.9\"><span class=\"label\">9</span><span class=\"content\">Se alzar&#225; tu mano contra tus adversarios,</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"MIC.5.9\"><span class=\"content\">Y todos tus enemigos ser&#225;n exterminados.</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"MIC.5.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"MIC.5.10\"><span class=\"label\">10</span><span class=\"content\">&#182;&#171;Y suceder&#225; en aquel d&#237;a&#187;, declara el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\">,</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"MIC.5.10\"><span class=\"content\">&#171;Que exterminar&#233; tus caballos de en medio de ti,</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"MIC.5.10\"><span class=\"content\">Tambi&#233;n destruir&#233; tus carros.</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"MIC.5.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"MIC.5.11\"><span class=\"label\">11</span><span class=\"content\">-&#187;Exterminar&#233; adem&#225;s las ciudades de tu tierra,</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"MIC.5.11\"><span class=\"content\">Y derribar&#233; todas tus fortalezas.</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"MIC.5.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"MIC.5.12\"><span class=\"label\">12</span><span class=\"content\">-&#187;Exterminar&#233; las hechicer&#237;as de tu mano,</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"MIC.5.12\"><span class=\"content\">Y no tendr&#225;s m&#225;s adivinos.</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"MIC.5.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"MIC.5.13\"><span class=\"label\">13</span><span class=\"content\">-&#187;Exterminar&#233; tus im&#225;genes talladas</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"MIC.5.13\"><span class=\"content\">Y tus pilares </span><span class=\"it\"><span class=\"content\">sagrados</span></span><span class=\"content\"> de en medio de ti,</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"MIC.5.13\"><span class=\"content\">Y ya no te postrar&#225;s m&#225;s</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"MIC.5.13\"><span class=\"content\">Ante la obra de tus manos.</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"MIC.5.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"MIC.5.14\"><span class=\"label\">14</span><span class=\"content\">-&#187;Arrancar&#233; tus Aseras</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">5:14 </span><span class=\"ft\">I.e. s&#237;mbolos de madera de una deidad femenina.</span></span></span><span class=\"content\"> de en medio de ti,</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"MIC.5.14\"><span class=\"content\">Y destruir&#233; tus ciudades.</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"MIC.5.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"MIC.5.15\"><span class=\"label\">15</span><span class=\"content\">-&#187;Y con ira y furor tomar&#233; venganza</span></span></div><div class=\"q\"><span class=\"verse v15\" data-usfm=\"MIC.5.15\"><span class=\"content\">De las naciones que no obedecieron&#187;.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Reúne ahora tus tropas, hija de guerreros;",
+            "Han puesto sitio contra nosotros.",
+            "Con una vara herirán en la mejilla al juez de Israel."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Pero tú, Belén Efrata,",
+            "Aunque eres pequeña entre las familias de Judá,",
+            "De ti me saldrá el que ha de ser gobernante en Israel.",
+            "Y sus orígenes son desde tiempos antiguos,",
+            "Desde los días de la eternidad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Por tanto, Él los abandonará hasta el tiempo",
+            "En que dé a luz la que ha de dar a luz.",
+            "Entonces el resto de sus hermanos",
+            "Volverá a los israelitas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Y Él se afirmará y pastoreará Su rebaño",
+            "Con el poder del Señor,",
+            "Con la majestad del nombre del Señor Su Dios.",
+            "Y permanecerán,",
+            "Porque en aquel tiempo Él será engrandecido",
+            "Hasta los confines de la tierra."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Él será nuestra paz.",
+            "Cuando el asirio invada nuestra tierra,",
+            "Y cuando pisotee nuestros palacios,",
+            "Levantaremos contra él",
+            "Siete pastores y ocho príncipes del pueblo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Y ellos pastorearán la tierra de Asiria con espada,",
+            "La tierra de Nimrod en sus puertas;",
+            "Él nos librará del asirio",
+            "Cuando invada nuestra tierra",
+            "Y pisotee nuestro territorio."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "¶Entonces el remanente de Jacob,",
+            "En medio de muchos pueblos,",
+            "Será como rocío que viene del Señor,",
+            "Como lluvias sobre la hierba",
+            "Que no espera al hombre",
+            "Ni aguarda a los hijos de los hombres."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "El remanente de Jacob",
+            "Será entre las naciones,",
+            "En medio de muchos pueblos,",
+            "Como león entre las fieras de la selva,",
+            "Como leoncillo entre los rebaños de ovejas,",
+            "Que si pasa,",
+            "Pisotea y desgarra,",
+            "Y no hay quien libre."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Se alzará tu mano contra tus adversarios,",
+            "Y todos tus enemigos serán exterminados."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "¶«Y sucederá en aquel día», declara el Señor,",
+            "«Que exterminaré tus caballos de en medio de ti,",
+            "También destruiré tus carros."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "-»Exterminaré además las ciudades de tu tierra,",
+            "Y derribaré todas tus fortalezas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "-»Exterminaré las hechicerías de tu mano,",
+            "Y no tendrás más adivinos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "-»Exterminaré tus imágenes talladas",
+            "Y tus pilares sagrados de en medio de ti,",
+            "Y ya no te postrarás más",
+            "Ante la obra de tus manos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "-»Arrancaré tus Aseras de en medio de ti,",
+            "Y destruiré tus ciudades."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "-»Y con ira y furor tomaré venganza",
+            "De las naciones que no obedecieron»."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "MIC.6",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "MIC.6"
+        ],
+        "human": "Miqueas 6"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "MIC.7"
+        ],
+        "human": "Miqueas 7",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "MIC.5"
+        ],
+        "human": "Miqueas 5",
+        "toc": true
+      },
+      "chapter_text": "Oigan ahora lo que dice el SEÑOR:\n«Levántate, litiga con los montes,\nY oigan las colinas tu voz.\n-»Oigan, montes, la acusación del SEÑOR,\nY ustedes, perdurables cimientos de la tierra,\nPorque el SEÑOR tiene litigio contra Su pueblo,\nY con Israel entablará juicio.\n-»Pueblo Mío, ¿qué te he hecho,\nO en qué te he molestado? ¡Respóndeme!\n-»Pues Yo te hice subir de la tierra de Egipto,\nY de la casa de servidumbre te redimí,\nY envié delante de ti a Moisés, a Aarón y a Miriam.\n-»Pueblo Mío, acuérdate ahora\nDe lo que tramó Balac, rey de Moab,\nY de lo que le respondió Balaam, hijo de Beor,\nDesde Sitim hasta Gilgal,\nPara que conozcas las justicias del SEÑOR».\n\n¶¿Con qué me presentaré al SEÑOR\nY me postraré ante el Dios de lo alto?\n¿Me presentaré delante de Él con holocaustos,\nCon becerros de un año?\n¿Se agrada el SEÑOR de millares de carneros,\nDe miríadas de ríos de aceite?\n¿Ofreceré mi primogénito por mi rebeldía,\nEl fruto de mis entrañas por el pecado de mi alma?\nÉl te ha declarado, oh hombre, lo que es bueno.\n¿Y qué es lo que demanda el SEÑOR de ti,\nSino solo practicar la justicia, amar la misericordia,\nY andar humildemente con tu Dios?\n¶La voz del SEÑOR clamará a la ciudad\n(Prudente es temer Tu nombre):\n«Escucha, oh tribu, ¿quién ha señalado su tiempo?\n-»¿Hay todavía alguien en casa del impío\nCon tesoros de impiedad\nY medida escasa que es maldita?\n-»¿Puedo justificar balanzas falsas\nY bolsa de pesas engañosas?\n-»Porque los ricos de la ciudad están llenos de violencia,\nSus habitantes hablan mentiras\nY su lengua es engañosa en su boca.\n-»Por eso Yo también te haré enfermar, hiriéndote,\nAsolándote por tus pecados.\n-»Tú comerás, pero no te saciarás,\nY tu maldad estará en medio de ti.\nApartarás, pero nada salvarás,\nY lo que salves, Yo lo entregaré a la espada.\n-»Sembrarás, pero no segarás;\nPisarás la oliva, pero no te ungirás con aceite,\nY la uva, pero no beberás vino.\n-»Han sido guardados los estatutos de Omri\nY todas las obras de la casa de Acab,\nY andas en sus consejos.\nPor tanto te entregaré a la destrucción,\nY a tus habitantes a la burla.\nUstedes tendrán que soportar el oprobio de Mi pueblo».",
+      "chapter_html": "<div class=\"version vid103 iso6393spa\" data-vid=\"103\" data-iso6393=\"spa\">\n   <div class=\"book bkMIC\">\n      <div class=\"chapter ch6\" data-usfm=\"MIC.6\">\n         <div class=\"label\">6</div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Juicio de Dios contra su pueblo</span></span></div><div class=\"q\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"MIC.6.1\"><span class=\"label\">1</span><span class=\"content\">Oigan ahora lo que dice el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\">:</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"MIC.6.1\"><span class=\"content\">&#171;Lev&#225;ntate, litiga con los montes,</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"MIC.6.1\"><span class=\"content\">Y oigan las colinas tu voz.</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"MIC.6.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"MIC.6.2\"><span class=\"label\">2</span><span class=\"content\">-&#187;Oigan, montes, la acusaci&#243;n del S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\">,</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"MIC.6.2\"><span class=\"content\">Y </span><span class=\"it\"><span class=\"content\">ustedes,</span></span><span class=\"content\"> perdurables cimientos de la tierra,</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"MIC.6.2\"><span class=\"content\">Porque el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> tiene litigio contra Su pueblo,</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"MIC.6.2\"><span class=\"content\">Y con Israel entablar&#225; juicio.</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"MIC.6.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"MIC.6.3\"><span class=\"label\">3</span><span class=\"content\">-&#187;Pueblo M&#237;o, &#191;qu&#233; te he hecho,</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"MIC.6.3\"><span class=\"content\">O en qu&#233; te he molestado? &#161;Resp&#243;ndeme!</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"MIC.6.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"MIC.6.4\"><span class=\"label\">4</span><span class=\"content\">-&#187;Pues Yo te hice subir de la tierra de Egipto,</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"MIC.6.4\"><span class=\"content\">Y de la casa de servidumbre te redim&#237;,</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"MIC.6.4\"><span class=\"content\">Y envi&#233; delante de ti a Mois&#233;s, a Aar&#243;n y a Miriam.</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"MIC.6.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"MIC.6.5\"><span class=\"label\">5</span><span class=\"content\">-&#187;Pueblo M&#237;o, acu&#233;rdate ahora</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"MIC.6.5\"><span class=\"content\">De lo que tram&#243; Balac, rey de Moab,</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"MIC.6.5\"><span class=\"content\">Y de lo que le respondi&#243; Balaam, hijo de Beor,</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"MIC.6.5\"><span class=\"content\">Desde Sitim hasta Gilgal,</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"MIC.6.5\"><span class=\"content\">Para que conozcas las justicias del S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\">&#187;.</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">La injusticia y su castigo</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"MIC.6.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"MIC.6.6\"><span class=\"label\">6</span><span class=\"content\">&#182;&#191;Con qu&#233; me presentar&#233; al S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"MIC.6.6\"><span class=\"content\">  </span><span class=\"it\"><span class=\"content\">Y</span></span><span class=\"content\"> me postrar&#233; ante el Dios de lo alto?</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"MIC.6.6\"><span class=\"content\">&#191;Me presentar&#233; delante de &#201;l con holocaustos,</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"MIC.6.6\"><span class=\"content\">Con becerros de un a&#241;o?</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"MIC.6.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"MIC.6.7\"><span class=\"label\">7</span><span class=\"content\">&#191;Se agrada el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> de millares de carneros,</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"MIC.6.7\"><span class=\"content\">De mir&#237;adas de r&#237;os de aceite?</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"MIC.6.7\"><span class=\"content\">&#191;Ofrecer&#233; mi primog&#233;nito </span><span class=\"it\"><span class=\"content\">por</span></span><span class=\"content\"> mi rebeld&#237;a,</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"MIC.6.7\"><span class=\"content\">El fruto de mis entra&#241;as por el pecado de mi alma?</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"MIC.6.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"MIC.6.8\"><span class=\"label\">8</span><span class=\"content\">&#201;l te ha declarado, oh hombre, lo que es bueno.</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"MIC.6.8\"><span class=\"content\">&#191;Y qu&#233; es lo que demanda el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> de ti,</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"MIC.6.8\"><span class=\"content\">Sino solo practicar la justicia</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">6:8 </span><span class=\"ft\">O <span class=\"it\">el derecho.</span></span></span></span><span class=\"content\">, amar la misericordia</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">6:8 </span><span class=\"ft\">O <span class=\"it\">lealtad.</span></span></span></span><span class=\"content\">,</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"MIC.6.8\"><span class=\"content\">Y andar humildemente con tu Dios?</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"MIC.6.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"MIC.6.9\"><span class=\"label\">9</span><span class=\"content\">&#182;La voz del S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> clamar&#225; a la ciudad</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"MIC.6.9\"><span class=\"content\">(Prudente es temer Tu nombre):</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"MIC.6.9\"><span class=\"content\">&#171;Escucha, oh tribu, &#191;qui&#233;n ha se&#241;alado su tiempo?</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"MIC.6.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"MIC.6.10\"><span class=\"label\">10</span><span class=\"content\">-&#187;&#191;Hay todav&#237;a alguien en casa del imp&#237;o</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"MIC.6.10\"><span class=\"content\">  </span><span class=\"it\"><span class=\"content\">Con</span></span><span class=\"content\"> tesoros de impiedad</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"MIC.6.10\"><span class=\"content\">Y medida</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">6:10 </span><span class=\"ft\">Lit. <span class=\"it\">efa;</span> un efa equivale aprox. a 22 litros.</span></span></span><span class=\"content\"> escasa </span><span class=\"it\"><span class=\"content\">que es</span></span><span class=\"content\"> maldita?</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"MIC.6.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"MIC.6.11\"><span class=\"label\">11</span><span class=\"content\">-&#187;&#191;Puedo justificar balanzas falsas</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"MIC.6.11\"><span class=\"content\">Y bolsa de pesas enga&#241;osas?</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"MIC.6.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"MIC.6.12\"><span class=\"label\">12</span><span class=\"content\">-&#187;Porque los ricos </span><span class=\"it\"><span class=\"content\">de la ciudad</span></span><span class=\"content\"> est&#225;n llenos de violencia,</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"MIC.6.12\"><span class=\"content\">Sus habitantes hablan mentiras</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"MIC.6.12\"><span class=\"content\">Y su lengua es enga&#241;osa en su boca.</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"MIC.6.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"MIC.6.13\"><span class=\"label\">13</span><span class=\"content\">-&#187;Por eso Yo tambi&#233;n </span><span class=\"it\"><span class=\"content\">te</span></span><span class=\"content\"> har&#233; enfermar, hiri&#233;ndote,</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"MIC.6.13\"><span class=\"content\">Asol&#225;ndo</span><span class=\"it\"><span class=\"content\">te</span></span><span class=\"content\"> por tus pecados.</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"MIC.6.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"MIC.6.14\"><span class=\"label\">14</span><span class=\"content\">-&#187;T&#250; comer&#225;s, pero no te saciar&#225;s,</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"MIC.6.14\"><span class=\"content\">Y tu maldad estar&#225; en medio de ti.</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"MIC.6.14\"><span class=\"content\">Apartar&#225;s, pero nada salvar&#225;s,</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"MIC.6.14\"><span class=\"content\">Y lo que salves, Yo lo entregar&#233; a la espada.</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"MIC.6.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"MIC.6.15\"><span class=\"label\">15</span><span class=\"content\">-&#187;Sembrar&#225;s, pero no segar&#225;s;</span></span></div><div class=\"q\"><span class=\"verse v15\" data-usfm=\"MIC.6.15\"><span class=\"content\">Pisar&#225;s la oliva, pero no te ungir&#225;s con aceite,</span></span></div><div class=\"q\"><span class=\"verse v15\" data-usfm=\"MIC.6.15\"><span class=\"content\">Y la uva, pero no beber&#225;s vino.</span></span></div><div class=\"q\"><span class=\"verse v15\" data-usfm=\"MIC.6.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"MIC.6.16\"><span class=\"label\">16</span><span class=\"content\">-&#187;Han sido guardados los estatutos de Omri</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"MIC.6.16\"><span class=\"content\">Y todas las obras de la casa de Acab,</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"MIC.6.16\"><span class=\"content\">Y andas en sus consejos.</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"MIC.6.16\"><span class=\"content\">Por tanto te entregar&#233; a la destrucci&#243;n,</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"MIC.6.16\"><span class=\"content\">Y a tus habitantes a la burla.</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"MIC.6.16\"><span class=\"content\">Ustedes tendr&#225;n que soportar el oprobio de Mi pueblo&#187;.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Oigan ahora lo que dice el Señor:",
+            "«Levántate, litiga con los montes,",
+            "Y oigan las colinas tu voz."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "-»Oigan, montes, la acusación del Señor,",
+            "Y ustedes, perdurables cimientos de la tierra,",
+            "Porque el Señor tiene litigio contra Su pueblo,",
+            "Y con Israel entablará juicio."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "-»Pueblo Mío, ¿qué te he hecho,",
+            "O en qué te he molestado? ¡Respóndeme!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "-»Pues Yo te hice subir de la tierra de Egipto,",
+            "Y de la casa de servidumbre te redimí,",
+            "Y envié delante de ti a Moisés, a Aarón y a Miriam."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "-»Pueblo Mío, acuérdate ahora",
+            "De lo que tramó Balac, rey de Moab,",
+            "Y de lo que le respondió Balaam, hijo de Beor,",
+            "Desde Sitim hasta Gilgal,",
+            "Para que conozcas las justicias del Señor»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "¶¿Con qué me presentaré al Señor",
+            "Y me postraré ante el Dios de lo alto?",
+            "¿Me presentaré delante de Él con holocaustos,",
+            "Con becerros de un año?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "¿Se agrada el Señor de millares de carneros,",
+            "De miríadas de ríos de aceite?",
+            "¿Ofreceré mi primogénito por mi rebeldía,",
+            "El fruto de mis entrañas por el pecado de mi alma?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Él te ha declarado, oh hombre, lo que es bueno.",
+            "¿Y qué es lo que demanda el Señor de ti,",
+            "Sino solo practicar la justicia, amar la misericordia,",
+            "Y andar humildemente con tu Dios?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "¶La voz del Señor clamará a la ciudad",
+            "(Prudente es temer Tu nombre):",
+            "«Escucha, oh tribu, ¿quién ha señalado su tiempo?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "-»¿Hay todavía alguien en casa del impío",
+            "Con tesoros de impiedad",
+            "Y medida escasa que es maldita?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "-»¿Puedo justificar balanzas falsas",
+            "Y bolsa de pesas engañosas?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "-»Porque los ricos de la ciudad están llenos de violencia,",
+            "Sus habitantes hablan mentiras",
+            "Y su lengua es engañosa en su boca."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "-»Por eso Yo también te haré enfermar, hiriéndote,",
+            "Asolándote por tus pecados."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "-»Tú comerás, pero no te saciarás,",
+            "Y tu maldad estará en medio de ti.",
+            "Apartarás, pero nada salvarás,",
+            "Y lo que salves, Yo lo entregaré a la espada."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "-»Sembrarás, pero no segarás;",
+            "Pisarás la oliva, pero no te ungirás con aceite,",
+            "Y la uva, pero no beberás vino."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "-»Han sido guardados los estatutos de Omri",
+            "Y todas las obras de la casa de Acab,",
+            "Y andas en sus consejos.",
+            "Por tanto te entregaré a la destrucción,",
+            "Y a tus habitantes a la burla.",
+            "Ustedes tendrán que soportar el oprobio de Mi pueblo»."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "MIC.7",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "MIC.7"
+        ],
+        "human": "Miqueas 7"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "NAM.1"
+        ],
+        "human": "Nahúm 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "MIC.6"
+        ],
+        "human": "Miqueas 6",
+        "toc": true
+      },
+      "chapter_text": "¡Ay de mí!, porque soy\nComo los recogedores de frutos de verano, como los rebuscadores en la vendimia.\nNo hay racimo de uvas que comer,\nNi higo temprano que tanto deseo.\nHa desaparecido el bondadoso de la tierra,\nY no hay ninguno recto entre los hombres.\nTodos acechan para derramar sangre,\nUnos a otros se echan la red.\nPara el mal las dos manos son diestras.\nEl príncipe pide, y también el juez, una recompensa,\nEl grande habla de lo que desea su alma,\nY juntos lo traman.\nEl mejor de ellos es como un zarzal,\nY el más recto como un seto de espinos.\nEl día que pongas tus centinelas,\nTu castigo llegará.\n¡Entonces será su confusión!\nNo se fíen del vecino,\nNi confíen en el amigo.\nDe la que reposa en tu seno,\nGuarda tus labios.\nPorque el hijo trata con desdén al padre,\nLa hija se levanta contra la madre,\nY la nuera contra su suegra;\nLos enemigos del hombre son los de su propia casa.\n\n¶Pero yo pondré mis ojos en el SEÑOR,\nEsperaré en el Dios de mi salvación.\nMi Dios me oirá.\nNo te alegres de mí, enemiga mía.\nAunque caiga, me levantaré,\nAunque more en tinieblas, el SEÑOR es mi luz.\n¶La indignación del SEÑOR soportaré,\nPorque he pecado contra Él,\nHasta que defienda mi causa y establezca mi derecho.\nÉl me sacará a la luz,\nY yo veré Su justicia.\nEntonces mi enemiga lo verá,\nY se cubrirá de vergüenza la que me decía:\n«¿Dónde está el SEÑOR tu Dios?».\nMis ojos la contemplarán;\nEntonces será pisoteada\nComo el lodo de las calles.\nViene el día para la edificación de tus muros;\nAquel día se extenderán tus límites.\nViene el día cuando ellos vendrán hasta ti\nDesde Asiria y las ciudades de Egipto;\nDesde Egipto hasta el Río,\nDe mar a mar y de monte a monte.\nY la tierra será desolada a causa de sus habitantes,\nPor el fruto de sus obras.\n¶Pastorea a Tu pueblo con Tu cayado,\nEl rebaño de Tu heredad,\nQue mora solo en el bosque,\nEn medio de un campo fértil.\nQue se apacienten en Basán y Galaad\nComo en los días de antaño.\n«Como en los días de tu salida de la tierra de Egipto,\nTe mostraré milagros».\nVerán las naciones y se avergonzarán\nDe todo su poderío;\nSe pondrán la mano sobre la boca,\nSus oídos se ensordecerán.\nLamerán el polvo como la serpiente,\nComo los reptiles de la tierra.\nSaldrán temblando de sus fortalezas,\nAl SEÑOR nuestro Dios vendrán llenos de miedo,\nY temerán delante de ti.\n¿Qué Dios hay como Tú, que perdona la iniquidad\nY pasa por alto la rebeldía del remanente de Su heredad?\nNo persistirá en Su ira para siempre,\nPorque se complace en la misericordia.\nVolverá a compadecerse de nosotros,\nEliminará nuestras iniquidades.\nSí, arrojarás a las profundidades del mar\nTodos nuestros pecados.\nOtorgarás a Jacob la verdad\nY a Abraham la misericordia,\nLas cuales juraste a nuestros padres\nDesde los días de antaño.",
+      "chapter_html": "<div class=\"version vid103 iso6393spa\" data-vid=\"103\" data-iso6393=\"spa\">\n   <div class=\"book bkMIC\">\n      <div class=\"chapter ch7\" data-usfm=\"MIC.7\">\n         <div class=\"label\">7</div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Lamento por la corrupci&#243;n de Israel</span></span></div><div class=\"q\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"MIC.7.1\"><span class=\"label\">1</span><span class=\"content\">&#161;Ay de m&#237;!, porque soy</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"MIC.7.1\"><span class=\"content\">Como los recogedores de frutos de verano, como los rebuscadores en la vendimia.</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"MIC.7.1\"><span class=\"content\">No hay racimo </span><span class=\"it\"><span class=\"content\">de uvas</span></span><span class=\"content\"> que comer,</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"MIC.7.1\"><span class=\"content\">  </span><span class=\"it\"><span class=\"content\">Ni</span></span><span class=\"content\"> higo temprano que tanto deseo.</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"MIC.7.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"MIC.7.2\"><span class=\"label\">2</span><span class=\"content\">Ha desaparecido el bondadoso de la tierra,</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"MIC.7.2\"><span class=\"content\">Y no hay ninguno recto entre los hombres.</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"MIC.7.2\"><span class=\"content\">Todos acechan para derramar sangre,</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"MIC.7.2\"><span class=\"content\">Unos a otros se echan la red.</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"MIC.7.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"MIC.7.3\"><span class=\"label\">3</span><span class=\"content\">Para el mal las dos manos son diestras.</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"MIC.7.3\"><span class=\"content\">El pr&#237;ncipe pide, y </span><span class=\"it\"><span class=\"content\">tambi&#233;n</span></span><span class=\"content\"> el juez, una recompensa,</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"MIC.7.3\"><span class=\"content\">El grande habla de lo que desea su alma,</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"MIC.7.3\"><span class=\"content\">Y juntos lo traman.</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"MIC.7.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"MIC.7.4\"><span class=\"label\">4</span><span class=\"content\">El mejor de ellos es como un zarzal,</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"MIC.7.4\"><span class=\"content\">  </span><span class=\"it\"><span class=\"content\">Y</span></span><span class=\"content\"> el m&#225;s recto como un seto de espinos.</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"MIC.7.4\"><span class=\"content\">El d&#237;a </span><span class=\"it\"><span class=\"content\">que pongas</span></span><span class=\"content\"> tus centinelas,</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"MIC.7.4\"><span class=\"content\">Tu castigo llegar&#225;.</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"MIC.7.4\"><span class=\"content\">&#161;Entonces ser&#225; su confusi&#243;n!</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"MIC.7.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"MIC.7.5\"><span class=\"label\">5</span><span class=\"content\">No se f&#237;en del vecino,</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"MIC.7.5\"><span class=\"content\">Ni conf&#237;en en el amigo.</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"MIC.7.5\"><span class=\"content\">De la que reposa en tu seno,</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"MIC.7.5\"><span class=\"content\">Guarda tus labios.</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"MIC.7.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"MIC.7.6\"><span class=\"label\">6</span><span class=\"content\">Porque el hijo trata con desd&#233;n al padre,</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"MIC.7.6\"><span class=\"content\">La hija se levanta contra la madre,</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"MIC.7.6\"><span class=\"content\">  </span><span class=\"it\"><span class=\"content\">Y</span></span><span class=\"content\"> la nuera contra su suegra;</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"MIC.7.6\"><span class=\"content\">Los enemigos del hombre son los de su propia casa.</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Dios, fuente de luz y salvaci&#243;n</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"MIC.7.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"MIC.7.7\"><span class=\"label\">7</span><span class=\"content\">&#182;Pero yo pondr&#233; mis ojos en el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\">,</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"MIC.7.7\"><span class=\"content\">Esperar&#233; en el Dios de mi salvaci&#243;n.</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"MIC.7.7\"><span class=\"content\">Mi Dios me oir&#225;.</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"MIC.7.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"MIC.7.8\"><span class=\"label\">8</span><span class=\"content\">No te alegres de m&#237;, enemiga m&#237;a.</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"MIC.7.8\"><span class=\"content\">Aunque caiga, me levantar&#233;,</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"MIC.7.8\"><span class=\"content\">Aunque more en tinieblas, el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> es mi luz.</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"MIC.7.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"MIC.7.9\"><span class=\"label\">9</span><span class=\"content\">&#182;La indignaci&#243;n del S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> soportar&#233;,</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"MIC.7.9\"><span class=\"content\">Porque he pecado contra &#201;l,</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"MIC.7.9\"><span class=\"content\">Hasta que defienda mi causa y establezca mi derecho.</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"MIC.7.9\"><span class=\"content\">&#201;l me sacar&#225; a la luz,</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"MIC.7.9\"><span class=\"content\">  </span><span class=\"it\"><span class=\"content\">Y</span></span><span class=\"content\"> yo ver&#233; Su justicia.</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"MIC.7.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"MIC.7.10\"><span class=\"label\">10</span><span class=\"content\">Entonces mi enemiga </span><span class=\"it\"><span class=\"content\">lo</span></span><span class=\"content\"> ver&#225;,</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"MIC.7.10\"><span class=\"content\">Y se cubrir&#225; de verg&#252;enza la que me dec&#237;a:</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"MIC.7.10\"><span class=\"content\">&#171;&#191;D&#243;nde est&#225; el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> tu Dios?&#187;.</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"MIC.7.10\"><span class=\"content\">Mis ojos la contemplar&#225;n;</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"MIC.7.10\"><span class=\"content\">Entonces ser&#225; pisoteada</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"MIC.7.10\"><span class=\"content\">Como el lodo de las calles.</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"MIC.7.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"MIC.7.11\"><span class=\"label\">11</span><span class=\"content\">  </span><span class=\"it\"><span class=\"content\">Viene el</span></span><span class=\"content\"> d&#237;a para la edificaci&#243;n de tus muros;</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"MIC.7.11\"><span class=\"content\">Aquel d&#237;a se extender&#225;n </span><span class=\"it\"><span class=\"content\">tus</span></span><span class=\"content\"> l&#237;mites.</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"MIC.7.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"MIC.7.12\"><span class=\"label\">12</span><span class=\"content\">  </span><span class=\"it\"><span class=\"content\">Viene el</span></span><span class=\"content\"> d&#237;a cuando ellos vendr&#225;n hasta ti</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"MIC.7.12\"><span class=\"content\">Desde Asiria y las ciudades de Egipto;</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"MIC.7.12\"><span class=\"content\">Desde Egipto hasta el R&#237;o</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">7:12 </span><span class=\"ft\">I.e. &#201;ufrates.</span></span></span><span class=\"content\">,</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"MIC.7.12\"><span class=\"content\">De mar a mar y de monte a monte.</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"MIC.7.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"MIC.7.13\"><span class=\"label\">13</span><span class=\"content\">Y la tierra ser&#225; desolada a causa de sus habitantes,</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"MIC.7.13\"><span class=\"content\">Por el fruto de sus obras.</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"MIC.7.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"MIC.7.14\"><span class=\"label\">14</span><span class=\"content\">&#182;Pastorea a Tu pueblo con Tu cayado,</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"MIC.7.14\"><span class=\"content\">El reba&#241;o de Tu heredad,</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"MIC.7.14\"><span class=\"content\">Que mora solo en el bosque,</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"MIC.7.14\"><span class=\"content\">En medio de un campo f&#233;rtil.</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"MIC.7.14\"><span class=\"content\">Que se apacienten en Bas&#225;n y Galaad</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"MIC.7.14\"><span class=\"content\">Como en los d&#237;as de anta&#241;o.</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"MIC.7.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"MIC.7.15\"><span class=\"label\">15</span><span class=\"content\">&#171;Como en los d&#237;as de tu salida de la tierra de Egipto,</span></span></div><div class=\"q\"><span class=\"verse v15\" data-usfm=\"MIC.7.15\"><span class=\"content\">Te mostrar&#233; milagros&#187;.</span></span></div><div class=\"q\"><span class=\"verse v15\" data-usfm=\"MIC.7.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"MIC.7.16\"><span class=\"label\">16</span><span class=\"content\">Ver&#225;n las naciones y se avergonzar&#225;n</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"MIC.7.16\"><span class=\"content\">De todo su poder&#237;o;</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"MIC.7.16\"><span class=\"content\">Se pondr&#225;n la mano sobre la boca,</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"MIC.7.16\"><span class=\"content\">Sus o&#237;dos se ensordecer&#225;n.</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"MIC.7.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"MIC.7.17\"><span class=\"label\">17</span><span class=\"content\">Lamer&#225;n el polvo como la serpiente,</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"MIC.7.17\"><span class=\"content\">Como los reptiles de la tierra.</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"MIC.7.17\"><span class=\"content\">Saldr&#225;n temblando de sus fortalezas,</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"MIC.7.17\"><span class=\"content\">Al S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> nuestro Dios vendr&#225;n llenos de miedo,</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"MIC.7.17\"><span class=\"content\">Y temer&#225;n delante de ti.</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"MIC.7.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"MIC.7.18\"><span class=\"label\">18</span><span class=\"content\">&#191;Qu&#233; Dios hay como T&#250;, que perdona la iniquidad</span></span></div><div class=\"q\"><span class=\"verse v18\" data-usfm=\"MIC.7.18\"><span class=\"content\">Y pasa por alto la rebeld&#237;a del remanente de Su heredad?</span></span></div><div class=\"q\"><span class=\"verse v18\" data-usfm=\"MIC.7.18\"><span class=\"content\">No persistir&#225; en Su ira para siempre,</span></span></div><div class=\"q\"><span class=\"verse v18\" data-usfm=\"MIC.7.18\"><span class=\"content\">Porque se complace en la misericordia.</span></span></div><div class=\"q\"><span class=\"verse v18\" data-usfm=\"MIC.7.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"MIC.7.19\"><span class=\"label\">19</span><span class=\"content\">Volver&#225; a compadecerse de nosotros,</span></span></div><div class=\"q\"><span class=\"verse v19\" data-usfm=\"MIC.7.19\"><span class=\"content\">Eliminar&#225;</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">7:19 </span><span class=\"ft\">O <span class=\"it\">Pisotear&#225;.</span></span></span></span><span class=\"content\"> nuestras iniquidades.</span></span></div><div class=\"q\"><span class=\"verse v19\" data-usfm=\"MIC.7.19\"><span class=\"content\">S&#237;, arrojar&#225;s a las profundidades del mar</span></span></div><div class=\"q\"><span class=\"verse v19\" data-usfm=\"MIC.7.19\"><span class=\"content\">Todos nuestros pecados.</span></span></div><div class=\"q\"><span class=\"verse v19\" data-usfm=\"MIC.7.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"MIC.7.20\"><span class=\"label\">20</span><span class=\"content\">Otorgar&#225;s a Jacob la verdad</span></span></div><div class=\"q\"><span class=\"verse v20\" data-usfm=\"MIC.7.20\"><span class=\"content\">  </span><span class=\"it\"><span class=\"content\">Y</span></span><span class=\"content\"> a Abraham la misericordia,</span></span></div><div class=\"q\"><span class=\"verse v20\" data-usfm=\"MIC.7.20\"><span class=\"content\">Las cuales juraste a nuestros padres</span></span></div><div class=\"q\"><span class=\"verse v20\" data-usfm=\"MIC.7.20\"><span class=\"content\">Desde los d&#237;as de anta&#241;o.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "¡Ay de mí!, porque soy",
+            "Como los recogedores de frutos de verano, como los rebuscadores en la vendimia.",
+            "No hay racimo de uvas que comer,",
+            "Ni higo temprano que tanto deseo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Ha desaparecido el bondadoso de la tierra,",
+            "Y no hay ninguno recto entre los hombres.",
+            "Todos acechan para derramar sangre,",
+            "Unos a otros se echan la red."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Para el mal las dos manos son diestras.",
+            "El príncipe pide, y también el juez, una recompensa,",
+            "El grande habla de lo que desea su alma,",
+            "Y juntos lo traman."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "El mejor de ellos es como un zarzal,",
+            "Y el más recto como un seto de espinos.",
+            "El día que pongas tus centinelas,",
+            "Tu castigo llegará.",
+            "¡Entonces será su confusión!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "No se fíen del vecino,",
+            "Ni confíen en el amigo.",
+            "De la que reposa en tu seno,",
+            "Guarda tus labios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Porque el hijo trata con desdén al padre,",
+            "La hija se levanta contra la madre,",
+            "Y la nuera contra su suegra;",
+            "Los enemigos del hombre son los de su propia casa."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "¶Pero yo pondré mis ojos en el Señor,",
+            "Esperaré en el Dios de mi salvación.",
+            "Mi Dios me oirá."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "No te alegres de mí, enemiga mía.",
+            "Aunque caiga, me levantaré,",
+            "Aunque more en tinieblas, el Señor es mi luz."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "¶La indignación del Señor soportaré,",
+            "Porque he pecado contra Él,",
+            "Hasta que defienda mi causa y establezca mi derecho.",
+            "Él me sacará a la luz,",
+            "Y yo veré Su justicia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Entonces mi enemiga lo verá,",
+            "Y se cubrirá de vergüenza la que me decía:",
+            "«¿Dónde está el Señor tu Dios?».",
+            "Mis ojos la contemplarán;",
+            "Entonces será pisoteada",
+            "Como el lodo de las calles."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Viene el día para la edificación de tus muros;",
+            "Aquel día se extenderán tus límites."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Viene el día cuando ellos vendrán hasta ti",
+            "Desde Asiria y las ciudades de Egipto;",
+            "Desde Egipto hasta el Río,",
+            "De mar a mar y de monte a monte."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Y la tierra será desolada a causa de sus habitantes,",
+            "Por el fruto de sus obras."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "¶Pastorea a Tu pueblo con Tu cayado,",
+            "El rebaño de Tu heredad,",
+            "Que mora solo en el bosque,",
+            "En medio de un campo fértil.",
+            "Que se apacienten en Basán y Galaad",
+            "Como en los días de antaño."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "«Como en los días de tu salida de la tierra de Egipto,",
+            "Te mostraré milagros»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Verán las naciones y se avergonzarán",
+            "De todo su poderío;",
+            "Se pondrán la mano sobre la boca,",
+            "Sus oídos se ensordecerán."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Lamerán el polvo como la serpiente,",
+            "Como los reptiles de la tierra.",
+            "Saldrán temblando de sus fortalezas,",
+            "Al Señor nuestro Dios vendrán llenos de miedo,",
+            "Y temerán delante de ti."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "¿Qué Dios hay como Tú, que perdona la iniquidad",
+            "Y pasa por alto la rebeldía del remanente de Su heredad?",
+            "No persistirá en Su ira para siempre,",
+            "Porque se complace en la misericordia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Volverá a compadecerse de nosotros,",
+            "Eliminará nuestras iniquidades.",
+            "Sí, arrojarás a las profundidades del mar",
+            "Todos nuestros pecados."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Otorgarás a Jacob la verdad",
+            "Y a Abraham la misericordia,",
+            "Las cuales juraste a nuestros padres",
+            "Desde los días de antaño."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

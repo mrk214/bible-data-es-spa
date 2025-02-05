@@ -1,0 +1,1480 @@
+{
+  "book_usfm": "EPH",
+  "name": "Efesios",
+  "local_title": "Traducción en Lenguaje Actual",
+  "local_abbreviation": "TLA",
+  "version_id": 176,
+  "publisher": {
+    "name": "United Bible Societies"
+  },
+  "copyright": {
+    "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+    "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "EPH.INTRO1",
+      "is_chapter": false,
+      "current": {
+        "usfm": [
+          "EPH.INTRO1"
+        ],
+        "human": "Efesios Introducción"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "EPH.1"
+        ],
+        "human": "Efesios 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "GAL.6"
+        ],
+        "human": "Gálatas 6",
+        "toc": true
+      },
+      "chapter_text": "Introducción\nÉfeso era una de las ciudades más importantes del Imperio Romano. Pablo fue a esa ciudad por lo menos en dos ocasiones. La segunda vez, se quedó allí por más de dos años (Hechos 18.19-21, 19.1—20.1). Los seguidores de Cristo en esa ciudad eran muy fieles, y habían sufrido mucho en su vida cristiana (Apocalipsis 2.1-3), pero Pablo considera necesario aclararles algunas enseñanzas.\nLa primera parte de la carta (1.1—3.21) contiene enseñanzas importantes y fundamentales de la vida cristiana. Pablo recalca allí el gran poder de Dios, que se manifestó en la resurrección de Jesús (1.19-20), a quien ha puesto por encima de todo lo que existe (1.21-23). También hace ver a los efesios que su fe en Cristo no es ningún mérito de ellos, «sino que Dios se la regaló» (2.8).\nLa segunda parte (4.1—6.20) contiene enseñanzas prácticas. Allí Pablo compara la relación entre esposo y esposa con la relación que existe entre Cristo y su iglesia, a la cual amó y por la cual dio su vida (5.21-29). Pablo también da instrucciones para las relaciones entre los padres y los hijos, y los amos y los esclavos, haciendo ver que Dios es el dueño de todos ellos (6.1-9).\nLa carta termina con una excelente comparación entre la armadura de un soldado y los recursos del cristiano (6.14-17):\n\n«¡Manténganse alerta! Que la verdad y la justicia de Dios los vistan y protejan como una armadura. Compartan la buena noticia de la paz; ¡estén siempre listos a anunciarla! Que su confianza en Dios sea como un escudo que apague las flechas encendidas que arroja el diablo. Que la salvación los proteja como un casco, y que los defienda la palabra de Dios, que es la espada del Espíritu Santo.»\n\nFinalmente, Pablo se despide de sus hermanos efesios rogando a Dios y a Jesucristo por ellos (6.23-24).",
+      "chapter_html": "<div class=\"version vid176 iso6393spa\" data-vid=\"176\" data-iso6393=\"spa\">\n    <div class=\"book bkEPH\">\n        <div class=\"chapter chINTRO1\" data-usfm=\"EPH.INTRO1\">\n            <div class=\"imt\"><span class=\"content\">Introducci&#243;n</span></div><div class=\"ip\"><span class=\"content\">&#201;feso era una de las ciudades m&#225;s importantes del Imperio Romano. Pablo fue a esa ciudad por lo menos en dos ocasiones. La segunda vez, se qued&#243; all&#237; por m&#225;s de dos a&#241;os (</span><span class=\"content\">Hechos 18.19-21</span><span class=\"content\">, 19.1&#8212;20.1). Los seguidores de Cristo en esa ciudad eran muy fieles, y hab&#237;an sufrido mucho en su vida cristiana (</span><span class=\"content\">Apocalipsis 2.1-3</span><span class=\"content\">), pero Pablo considera necesario aclararles algunas ense&#241;anzas.</span></div><div class=\"ip\"><span class=\"content\">La primera parte de la carta (1.1&#8212;3.21) contiene ense&#241;anzas importantes y fundamentales de la vida cristiana. Pablo recalca all&#237; el gran poder de Dios, que se manifest&#243; en la resurrecci&#243;n de Jes&#250;s (</span><span class=\"content\">1.19-20</span><span class=\"content\">), a quien ha puesto por encima de todo lo que existe (</span><span class=\"content\">1.21-23</span><span class=\"content\">). Tambi&#233;n hace ver a los efesios que su fe en Cristo no es ning&#250;n m&#233;rito de ellos, </span><span class=\"iqt\"><span class=\"content\">&#171;sino que Dios se la regal&#243;&#187;</span></span><span class=\"content\"> (</span><span class=\"content\">2.8</span><span class=\"content\">).</span></div><div class=\"ip\"><span class=\"content\">La segunda parte (4.1&#8212;6.20) contiene ense&#241;anzas pr&#225;cticas. All&#237; Pablo compara la relaci&#243;n entre esposo y esposa con la relaci&#243;n que existe entre Cristo y su iglesia, a la cual am&#243; y por la cual dio su vida (</span><span class=\"content\">5.21-29</span><span class=\"content\">). Pablo tambi&#233;n da instrucciones para las relaciones entre los padres y los hijos, y los amos y los esclavos, haciendo ver que Dios es el due&#241;o de todos ellos (</span><span class=\"content\">6.1-9</span><span class=\"content\">).</span></div><div class=\"ip\"><span class=\"content\">La carta termina con una excelente comparaci&#243;n entre la armadura de un soldado y los recursos del cristiano (</span><span class=\"content\">6.14-17</span><span class=\"content\">):</span></div><div class=\"ib\"></div><div class=\"imq\"><span class=\"content\">&#171;&#161;Mant&#233;nganse alerta! Que la verdad y la justicia de Dios los vistan y protejan como una armadura. Compartan la buena noticia de la paz; &#161;est&#233;n siempre listos a anunciarla! Que su confianza en Dios sea como un escudo que apague las flechas encendidas que arroja el diablo. Que la salvaci&#243;n los proteja como un casco, y que los defienda la palabra de Dios, que es la espada del Esp&#237;ritu Santo.&#187;</span></div><div class=\"ib\"></div><div class=\"ip\"><span class=\"content\">Finalmente, Pablo se despide de sus hermanos efesios rogando a Dios y a Jesucristo por ellos (</span><span class=\"content\">6.23-24</span><span class=\"content\">).</span></div><div class=\"ie\"></div>\n        </div>\n    </div>\n</div>",
+      "items": []
+    },
+    {
+      "chapter_usfm": "EPH.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "EPH.1"
+        ],
+        "human": "Efesios 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "EPH.2"
+        ],
+        "human": "Efesios 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": false,
+        "usfm": [
+          "EPH.INTRO1"
+        ],
+        "human": "Efesios Introducción",
+        "toc": true
+      },
+      "chapter_text": "Queridos hermanos y hermanas de Éfeso:\nA ustedes, que pertenecen al pueblo especial de Dios, y que siguen creyendo en Jesucristo y viven muy unidos a él, les envío mis saludos.\nYo, Pablo, soy apóstol de Jesucristo porque Dios así lo quiso. Les pido a nuestro Padre Dios y al Señor Jesucristo que los amen mucho y les den su paz.\n\nDemos gracias al Dios y Padre de nuestro Señor Jesucristo por las bendiciones espirituales que Cristo nos trajo del cielo. Desde antes de crear el mundo Dios nos eligió, por medio de Cristo, para que fuéramos solo de él y viviéramos sin pecado.\nDios nos amó tanto que decidió enviar a Jesucristo para adoptarnos como hijos suyos, pues así había pensado hacerlo desde un principio. Dios hizo todo eso para que lo alabemos por su grande y maravilloso amor. Gracias a su amor, nos dio la salvación por medio de su amado Hijo. Por la muerte de Cristo en la cruz, Dios perdonó nuestros pecados y nos liberó de toda culpa. Esto lo hizo por su inmenso amor. Por su gran sabiduría y conocimiento, Dios nos mostró el plan que había mantenido en secreto, y que había decidido realizar por medio de Cristo. Cuando llegue el momento preciso, Dios completará su plan y reunirá todas las cosas, tanto en el cielo como en la tierra, y al frente de ellas pondrá como jefe a Cristo.\nPor medio de Cristo, Dios nos eligió desde un principio, para que fuéramos suyos y recibiéramos todo lo que él había prometido. Así lo había decidido Dios, quien siempre lleva a cabo sus planes. Dios quiso que los judíos fuéramos los primeros en poner nuestra esperanza en Cristo, para que lo alabemos por su gran poder.\nUstedes oyeron y creyeron la buena noticia de su salvación, que es un mensaje verdadero, y gracias a Cristo pasaron a formar parte del pueblo de Dios y recibieron el Espíritu Santo, que nos había prometido. Ustedes lo recibieron como prueba de que Dios cumplirá su promesa, cuando haya liberado totalmente a los que formamos su pueblo. Por eso, alabamos la grandeza de Dios.\n\nMe he enterado de que ustedes confían mucho en el Señor Jesús y aman a todos los del pueblo de Dios. Por eso, y por lo que antes dije, me acuerdo de ustedes cuando estoy orando, y le doy gracias a Dios por la confianza que en él tienen. Le pido al Dios de nuestro Señor Jesucristo, es decir, al Padre maravilloso, que les dé su Espíritu, para que sean sabios y puedan entender cómo es Dios. También le pido a Dios que les haga comprender con claridad el gran valor de la esperanza a la que han sido llamados, y de la salvación que él ha dado a los que son suyos. Pido también que entiendan bien el gran poder con que Dios nos ayuda en todo. El poder de Dios no tiene límites; con ese mismo poder Dios resucitó a Cristo y le dio un lugar en el cielo, a la derecha de su trono; con ese mismo poder, Dios le dio a Cristo dominio sobre todos los espíritus que tienen poder y autoridad, y sobre todo lo que existe en este mundo y en el nuevo mundo que vendrá. Dios puso todas las cosas bajo el poder de Cristo, y lo nombró jefe de la iglesia. Cristo es, para la iglesia, lo que la cabeza es para el cuerpo. Con Cristo, que todo lo llena, la iglesia queda completa.",
+      "chapter_html": "<div class=\"version vid176 iso6393spa\" data-vid=\"176\" data-iso6393=\"spa\">\n   <div class=\"book bkEPH\">\n      <div class=\"chapter ch1\" data-usfm=\"EPH.1\">\n         <div class=\"label\">1</div><div class=\"s1\"><span class=\"heading\">Saludo</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"EPH.1.1\"><span class=\"label\">1</span><span class=\"content\">Queridos </span><span class=\"w\"><span class=\"content\">hermanos</span></span><span class=\"content\"> y hermanas de &#201;feso:</span></span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"EPH.1.1\"><span class=\"content\">A ustedes, que pertenecen al pueblo especial de Dios, y que siguen creyendo en Jesucristo y viven muy unidos a &#233;l, les env&#237;o mis saludos.</span></span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"EPH.1.1\"><span class=\"content\">Yo, Pablo, soy </span><span class=\"w\"><span class=\"content\">ap&#243;stol</span></span><span class=\"content\"> de Jesucristo porque Dios as&#237; lo quiso. </span></span><span class=\"verse v2\" data-usfm=\"EPH.1.2\"><span class=\"label\">2</span><span class=\"content\">Les pido a nuestro Padre Dios y al Se&#241;or Jesucristo que los amen mucho y les den su paz.</span></span></div><div class=\"s1\"><span class=\"heading\">Pablo da gracias a Dios</span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"EPH.1.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"EPH.1.3\"><span class=\"label\">3</span><span class=\"content\">Demos gracias al Dios y Padre de nuestro Se&#241;or Jesucristo por las </span><span class=\"w\"><span class=\"content\">bendiciones</span></span><span class=\"content\"> espirituales que </span><span class=\"w\"><span class=\"content\">Cristo</span></span><span class=\"content\"> nos trajo del cielo. </span></span><span class=\"verse v4\" data-usfm=\"EPH.1.4\"><span class=\"label\">4</span><span class=\"content\">Desde antes de crear el mundo Dios nos eligi&#243;, por medio de Cristo, para que fu&#233;ramos solo de &#233;l y vivi&#233;ramos sin </span><span class=\"w\"><span class=\"content\">pecado</span></span><span class=\"content\">.</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"EPH.1.4\"><span class=\"content\">Dios nos am&#243; tanto que </span></span><span class=\"verse v5\" data-usfm=\"EPH.1.5\"><span class=\"label\">5</span><span class=\"content\">decidi&#243; enviar a Jesucristo para adoptarnos como hijos suyos, pues as&#237; hab&#237;a pensado hacerlo desde un principio. </span></span><span class=\"verse v6\" data-usfm=\"EPH.1.6\"><span class=\"label\">6</span><span class=\"content\">Dios hizo todo eso para que lo alabemos por su grande y maravilloso amor. Gracias a su amor, nos dio la </span><span class=\"w\"><span class=\"content\">salvaci&#243;n</span></span><span class=\"content\"> por medio de su amado Hijo. </span></span><span class=\"verse v7 v8\" data-usfm=\"EPH.1.7+EPH.1.8\"><span class=\"label\">7-8</span><span class=\"content\">Por la muerte de Cristo en la cruz, Dios perdon&#243; nuestros pecados y nos liber&#243; de toda culpa. Esto lo hizo por su inmenso amor. Por su gran </span><span class=\"w\"><span class=\"content\">sabidur&#237;a</span></span><span class=\"content\"> y conocimiento, </span></span><span class=\"verse v9\" data-usfm=\"EPH.1.9\"><span class=\"label\">9</span><span class=\"content\">Dios nos mostr&#243; el plan que hab&#237;a mantenido en secreto, y que hab&#237;a decidido realizar por medio de Cristo. </span></span><span class=\"verse v10\" data-usfm=\"EPH.1.10\"><span class=\"label\">10</span><span class=\"content\">Cuando llegue el momento preciso, Dios completar&#225; su plan y reunir&#225; todas las cosas, tanto en el cielo como en la tierra, y al frente de ellas pondr&#225; como jefe a Cristo.</span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"EPH.1.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"EPH.1.11\"><span class=\"label\">11</span><span class=\"content\">Por medio de Cristo, Dios nos eligi&#243; desde un principio, para que fu&#233;ramos suyos y recibi&#233;ramos todo lo que &#233;l hab&#237;a prometido. As&#237; lo hab&#237;a decidido Dios, quien siempre lleva a cabo sus planes. </span></span><span class=\"verse v12\" data-usfm=\"EPH.1.12\"><span class=\"label\">12</span><span class=\"content\">Dios quiso que los jud&#237;os fu&#233;ramos los primeros en poner nuestra esperanza en Cristo, para que lo alabemos por su gran poder.</span></span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"EPH.1.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"EPH.1.13\"><span class=\"label\">13</span><span class=\"content\">Ustedes oyeron y creyeron la buena noticia de su salvaci&#243;n, que es un mensaje verdadero, y gracias a Cristo pasaron a formar parte del pueblo de Dios y recibieron el Esp&#237;ritu Santo, que nos hab&#237;a prometido. </span></span><span class=\"verse v14\" data-usfm=\"EPH.1.14\"><span class=\"label\">14</span><span class=\"content\">Ustedes lo recibieron como prueba de que Dios cumplir&#225; su promesa, cuando haya liberado totalmente a los que formamos su pueblo. Por eso, alabamos la grandeza de Dios.</span></span></div><div class=\"s1\"><span class=\"heading\">Pablo ora por la iglesia en &#201;feso</span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"EPH.1.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"EPH.1.15\"><span class=\"label\">15</span><span class=\"content\">Me he enterado de que ustedes conf&#237;an mucho en el Se&#241;or Jes&#250;s y aman a todos los del pueblo de Dios. Por eso, y por lo que antes dije, </span></span><span class=\"verse v16\" data-usfm=\"EPH.1.16\"><span class=\"label\">16</span><span class=\"content\">me acuerdo de ustedes cuando estoy orando, y le doy gracias a Dios por la confianza que en &#233;l tienen. </span></span><span class=\"verse v17\" data-usfm=\"EPH.1.17\"><span class=\"label\">17</span><span class=\"content\">Le pido al Dios de nuestro Se&#241;or Jesucristo, es decir, al Padre maravilloso, que les d&#233; su Esp&#237;ritu, para que sean </span><span class=\"w\"><span class=\"content\">sabios</span></span><span class=\"content\"> y puedan entender c&#243;mo es Dios. </span></span><span class=\"verse v18\" data-usfm=\"EPH.1.18\"><span class=\"label\">18</span><span class=\"content\">Tambi&#233;n le pido a Dios que les haga comprender con claridad el gran valor de la esperanza a la que han sido llamados, y de la </span><span class=\"w\"><span class=\"content\">salvaci&#243;n</span></span><span class=\"content\"> que &#233;l ha dado a los que son suyos. </span></span><span class=\"verse v19\" data-usfm=\"EPH.1.19\"><span class=\"label\">19</span><span class=\"content\">Pido tambi&#233;n que entiendan bien el gran poder con que Dios nos ayuda en todo. El poder de Dios no tiene l&#237;mites; con ese mismo poder </span></span><span class=\"verse v20\" data-usfm=\"EPH.1.20\"><span class=\"label\">20</span><span class=\"content\">Dios </span><span class=\"w\"><span class=\"content\">resucit&#243;</span></span><span class=\"content\"> a </span><span class=\"w\"><span class=\"content\">Cristo</span></span><span class=\"content\"> y le dio un lugar en el cielo, a la derecha de su trono; </span></span><span class=\"verse v21\" data-usfm=\"EPH.1.21\"><span class=\"label\">21</span><span class=\"content\">con ese mismo poder, Dios le dio a Cristo dominio sobre todos los esp&#237;ritus que tienen poder y autoridad, y sobre todo lo que existe en este mundo y en el nuevo mundo que vendr&#225;. </span></span><span class=\"verse v22 v23\" data-usfm=\"EPH.1.22+EPH.1.23\"><span class=\"label\">22-23</span><span class=\"content\">Dios puso todas las cosas bajo el poder de Cristo, y lo nombr&#243; jefe de la </span><span class=\"w\"><span class=\"content\">iglesia</span></span><span class=\"content\">. Cristo es, para la iglesia, lo que la cabeza es para el cuerpo. Con Cristo, que todo lo llena, la iglesia queda completa.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Saludo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Queridos hermanos y hermanas de Éfeso:",
+            "A ustedes, que pertenecen al pueblo especial de Dios, y que siguen creyendo en Jesucristo y viven muy unidos a él, les envío mis saludos.",
+            "Yo, Pablo, soy apóstol de Jesucristo porque Dios así lo quiso."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Les pido a nuestro Padre Dios y al Señor Jesucristo que los amen mucho y les den su paz."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Pablo da gracias a Dios"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Demos gracias al Dios y Padre de nuestro Señor Jesucristo por las bendiciones espirituales que Cristo nos trajo del cielo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Desde antes de crear el mundo Dios nos eligió, por medio de Cristo, para que fuéramos solo de él y viviéramos sin pecado.",
+            "Dios nos amó tanto que"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "decidió enviar a Jesucristo para adoptarnos como hijos suyos, pues así había pensado hacerlo desde un principio."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Dios hizo todo eso para que lo alabemos por su grande y maravilloso amor. Gracias a su amor, nos dio la salvación por medio de su amado Hijo.",
+            "Por la muerte de Cristo en la cruz, Dios perdonó nuestros pecados y nos liberó de toda culpa. Esto lo hizo por su inmenso amor. Por su gran sabiduría y conocimiento,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Dios nos mostró el plan que había mantenido en secreto, y que había decidido realizar por medio de Cristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Cuando llegue el momento preciso, Dios completará su plan y reunirá todas las cosas, tanto en el cielo como en la tierra, y al frente de ellas pondrá como jefe a Cristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Por medio de Cristo, Dios nos eligió desde un principio, para que fuéramos suyos y recibiéramos todo lo que él había prometido. Así lo había decidido Dios, quien siempre lleva a cabo sus planes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Dios quiso que los judíos fuéramos los primeros en poner nuestra esperanza en Cristo, para que lo alabemos por su gran poder."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Ustedes oyeron y creyeron la buena noticia de su salvación, que es un mensaje verdadero, y gracias a Cristo pasaron a formar parte del pueblo de Dios y recibieron el Espíritu Santo, que nos había prometido."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Ustedes lo recibieron como prueba de que Dios cumplirá su promesa, cuando haya liberado totalmente a los que formamos su pueblo. Por eso, alabamos la grandeza de Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Pablo ora por la iglesia en Éfeso"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Me he enterado de que ustedes confían mucho en el Señor Jesús y aman a todos los del pueblo de Dios. Por eso, y por lo que antes dije,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "me acuerdo de ustedes cuando estoy orando, y le doy gracias a Dios por la confianza que en él tienen."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Le pido al Dios de nuestro Señor Jesucristo, es decir, al Padre maravilloso, que les dé su Espíritu, para que sean sabios y puedan entender cómo es Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "También le pido a Dios que les haga comprender con claridad el gran valor de la esperanza a la que han sido llamados, y de la salvación que él ha dado a los que son suyos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Pido también que entiendan bien el gran poder con que Dios nos ayuda en todo. El poder de Dios no tiene límites; con ese mismo poder"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Dios resucitó a Cristo y le dio un lugar en el cielo, a la derecha de su trono;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "con ese mismo poder, Dios le dio a Cristo dominio sobre todos los espíritus que tienen poder y autoridad, y sobre todo lo que existe en este mundo y en el nuevo mundo que vendrá.",
+            "Dios puso todas las cosas bajo el poder de Cristo, y lo nombró jefe de la iglesia. Cristo es, para la iglesia, lo que la cabeza es para el cuerpo. Con Cristo, que todo lo llena, la iglesia queda completa."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "EPH.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "EPH.2"
+        ],
+        "human": "Efesios 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "EPH.3"
+        ],
+        "human": "Efesios 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "EPH.1"
+        ],
+        "human": "Efesios 1",
+        "toc": true
+      },
+      "chapter_text": "Antes, ustedes estaban muertos para Dios, pues hacían el mal y vivían en pecado; seguían el mal ejemplo de la gente de este mundo, y obedecían al poderoso espíritu en los aires, que gobierna sobre los malos espíritus y domina a las personas que desobedecen a Dios.\nAntes nosotros nos comportábamos así, y vivíamos obedeciendo a los malos deseos de nuestro cuerpo y nuestra mente. ¡Con justa razón merecíamos ser castigados por Dios, como todos los demás! Pero Dios es muy compasivo, y su amor por nosotros es inmenso. Por eso, aunque estábamos muertos por culpa de nuestros pecados, él nos dio vida al resucitar a Cristo. Nos hemos salvado gracias al amor de Dios. Dios, al resucitar a Jesucristo, nos resucitó y nos dio un lugar en el cielo, junto a él. Hizo esto para mostrar, en el futuro, la bondad y el gran amor con que nos amó por medio de Jesucristo. Ustedes han sido salvados porque aceptaron el amor de Dios. Ninguno de ustedes se ganó la salvación, sino que Dios se la regaló. La salvación de ustedes no es el resultado de sus propios esfuerzos. Por eso nadie puede sentirse orgulloso. Nosotros somos creación de Dios. Por nuestra unión con Jesucristo, nos creó para que vivamos haciendo el bien, lo cual Dios ya había planeado desde antes.\n\nLos judíos los llaman a ustedes «los no circuncidados», y ellos a sí mismos se llaman «los circuncidados», pues se circuncidan en el cuerpo. Ustedes no son judíos, y deben recordar que antes no tenían a Cristo ni eran parte del pueblo de Israel. Tampoco formaban parte del pacto ni de la promesa que Dios hizo con su pueblo. Vivían en este mundo sin Dios y sin esperanza. Pero ahora ustedes, que estaban lejos de Dios, ya han sido acercados a él, pues están unidos a Jesucristo por medio de su muerte en la cruz.\nCristo nos ha dado la paz. Por medio de su sacrificio en la cruz, Cristo ha puesto fin al odio que, como una barrera, separaba a los judíos de los que no son judíos, y de dos pueblos ha hecho uno solo. Cristo ha puesto fin a los mandatos y reglas de la ley, y por medio de sí mismo ha creado, con los dos grupos, un solo pueblo amigo. Por medio de su muerte en la cruz, Cristo puso fin a la enemistad que había entre los dos grupos, y los unió, formando así un solo pueblo que viviera en paz con Dios. Cristo vino y anunció las buenas noticias de paz a todos, tanto a ustedes, que no son judíos y estaban lejos de Dios, como a los que son judíos y estaban cerca de él. Por medio de lo que Jesucristo hizo, tanto los judíos como los no judíos tenemos un mismo Espíritu, y podemos acercarnos a Dios el Padre. Por eso, ante Dios ustedes ya no son extranjeros. Al contrario, ahora forman parte de su pueblo y tienen todos los derechos; ahora son de la familia de Dios. Todos los miembros de la iglesia son como un edificio, el cual está construido sobre la enseñanza de los apóstoles y los profetas. En ese edificio Jesucristo es la piedra principal. Es él quien mantiene firme todo el edificio y quien lo hace crecer, para que llegue a formar un templo dedicado al Señor. Por su unión con Jesucristo, ustedes también forman parte de ese edificio, en donde Dios habita por medio de su Espíritu.",
+      "chapter_html": "<div class=\"version vid176 iso6393spa\" data-vid=\"176\" data-iso6393=\"spa\">\n   <div class=\"book bkEPH\">\n      <div class=\"chapter ch2\" data-usfm=\"EPH.2\">\n         <div class=\"label\">2</div><div class=\"s1\"><span class=\"heading\">Dios nos da vida</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"EPH.2.1\"><span class=\"label\">1</span><span class=\"content\">Antes, ustedes estaban muertos para Dios, pues hac&#237;an el mal y viv&#237;an en </span><span class=\"w\"><span class=\"content\">pecado</span></span><span class=\"content\">; </span></span><span class=\"verse v2\" data-usfm=\"EPH.2.2\"><span class=\"label\">2</span><span class=\"content\">segu&#237;an el mal ejemplo de la gente de este mundo, y obedec&#237;an al poderoso esp&#237;ritu en los aires, que gobierna sobre los malos esp&#237;ritus y domina a las personas que desobedecen a Dios.</span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"EPH.2.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"EPH.2.3\"><span class=\"label\">3</span><span class=\"content\">Antes nosotros nos comport&#225;bamos as&#237;, y viv&#237;amos obedeciendo a los malos deseos de nuestro cuerpo y nuestra mente. &#161;Con justa raz&#243;n merec&#237;amos ser castigados por Dios, como todos los dem&#225;s! </span></span><span class=\"verse v4\" data-usfm=\"EPH.2.4\"><span class=\"label\">4</span><span class=\"content\">Pero Dios es muy compasivo, y su amor por nosotros es inmenso. </span></span><span class=\"verse v5\" data-usfm=\"EPH.2.5\"><span class=\"label\">5</span><span class=\"content\">Por eso, aunque est&#225;bamos muertos por culpa de nuestros pecados, &#233;l nos dio vida al </span><span class=\"w\"><span class=\"content\">resucitar</span></span><span class=\"content\"> a </span><span class=\"w\"><span class=\"content\">Cristo</span></span><span class=\"content\">. Nos hemos </span><span class=\"w\"><span class=\"content\">salvado</span></span><span class=\"content\"> gracias al amor de Dios. </span></span><span class=\"verse v6\" data-usfm=\"EPH.2.6\"><span class=\"label\">6</span><span class=\"content\">Dios, al resucitar a Jesucristo, nos resucit&#243; y nos dio un lugar en el cielo, junto a &#233;l. </span></span><span class=\"verse v7\" data-usfm=\"EPH.2.7\"><span class=\"label\">7</span><span class=\"content\">Hizo esto para mostrar, en el futuro, la bondad y el gran amor con que nos am&#243; por medio de Jesucristo. </span></span><span class=\"verse v8\" data-usfm=\"EPH.2.8\"><span class=\"label\">8</span><span class=\"content\">Ustedes han sido salvados porque aceptaron el amor de Dios. Ninguno de ustedes se gan&#243; la salvaci&#243;n, sino que Dios se la regal&#243;. </span></span><span class=\"verse v9\" data-usfm=\"EPH.2.9\"><span class=\"label\">9</span><span class=\"content\">La salvaci&#243;n de ustedes no es el resultado de sus propios esfuerzos. Por eso nadie puede sentirse orgulloso. </span></span><span class=\"verse v10\" data-usfm=\"EPH.2.10\"><span class=\"label\">10</span><span class=\"content\">Nosotros somos creaci&#243;n de Dios. Por nuestra uni&#243;n con Jesucristo, nos cre&#243; para que vivamos haciendo el bien, lo cual Dios ya hab&#237;a planeado desde antes.</span></span></div><div class=\"s1\"><span class=\"heading\">Cristo nos une a todos</span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"EPH.2.10\"><span class=\"content\">  </span></span><span class=\"verse v11 v12\" data-usfm=\"EPH.2.11+EPH.2.12\"><span class=\"label\">11-12</span><span class=\"content\">Los jud&#237;os los llaman a ustedes &#171;los no </span><span class=\"w\"><span class=\"content\">circuncidados</span></span><span class=\"content\">&#187;, y ellos a s&#237; mismos se llaman &#171;los circuncidados&#187;, pues se circuncidan en el cuerpo. Ustedes no son jud&#237;os, y deben recordar que antes no ten&#237;an a </span><span class=\"w\"><span class=\"content\">Cristo</span></span><span class=\"content\"> ni eran parte del pueblo de Israel. Tampoco formaban parte del </span><span class=\"w\"><span class=\"content\">pacto</span></span><span class=\"content\"> ni de la promesa que Dios hizo con su pueblo. Viv&#237;an en este mundo sin Dios y sin esperanza. </span></span><span class=\"verse v13\" data-usfm=\"EPH.2.13\"><span class=\"label\">13</span><span class=\"content\">Pero ahora ustedes, que estaban lejos de Dios, ya han sido acercados a &#233;l, pues est&#225;n unidos a Jesucristo por medio de su muerte en la cruz.</span></span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"EPH.2.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"EPH.2.14\"><span class=\"label\">14</span><span class=\"content\">Cristo nos ha dado la paz. Por medio de su </span><span class=\"w\"><span class=\"content\">sacrificio</span></span><span class=\"content\"> en la cruz, Cristo ha puesto fin al odio que, como una barrera, separaba a los jud&#237;os de los que no son jud&#237;os, y de dos pueblos ha hecho uno solo. </span></span><span class=\"verse v15\" data-usfm=\"EPH.2.15\"><span class=\"label\">15</span><span class=\"content\">Cristo ha puesto fin a los mandatos y reglas de la ley, y por medio de s&#237; mismo ha creado, con los dos grupos, un solo pueblo amigo. </span></span><span class=\"verse v16\" data-usfm=\"EPH.2.16\"><span class=\"label\">16</span><span class=\"content\">Por medio de su muerte en la cruz, Cristo puso fin a la enemistad que hab&#237;a entre los dos grupos, y los uni&#243;, formando as&#237; un solo pueblo que viviera en paz con Dios. </span></span><span class=\"verse v17\" data-usfm=\"EPH.2.17\"><span class=\"label\">17</span><span class=\"content\">Cristo vino y anunci&#243; las </span><span class=\"w\"><span class=\"content\">buenas noticias</span></span><span class=\"content\"> de paz a todos, tanto a ustedes, que no son jud&#237;os y estaban lejos de Dios, como a los que son jud&#237;os y estaban cerca de &#233;l. </span></span><span class=\"verse v18\" data-usfm=\"EPH.2.18\"><span class=\"label\">18</span><span class=\"content\">Por medio de lo que Jesucristo hizo, tanto los jud&#237;os como los no jud&#237;os tenemos un mismo Esp&#237;ritu, y podemos acercarnos a Dios el Padre. </span></span><span class=\"verse v19\" data-usfm=\"EPH.2.19\"><span class=\"label\">19</span><span class=\"content\">Por eso, ante Dios ustedes ya no son extranjeros. Al contrario, ahora forman parte de su pueblo y tienen todos los derechos; ahora son de la familia de Dios. </span></span><span class=\"verse v20\" data-usfm=\"EPH.2.20\"><span class=\"label\">20</span><span class=\"content\">Todos los miembros de la </span><span class=\"w\"><span class=\"content\">iglesia</span></span><span class=\"content\"> son como un edificio, el cual est&#225; construido sobre la ense&#241;anza de los </span><span class=\"w\"><span class=\"content\">ap&#243;stoles</span></span><span class=\"content\"> y los </span><span class=\"w\"><span class=\"content\">profetas</span></span><span class=\"content\">. En ese edificio Jesucristo es la piedra principal. </span></span><span class=\"verse v21\" data-usfm=\"EPH.2.21\"><span class=\"label\">21</span><span class=\"content\">Es &#233;l quien mantiene firme todo el edificio y quien lo hace crecer, para que llegue a formar un templo dedicado al Se&#241;or. </span></span><span class=\"verse v22\" data-usfm=\"EPH.2.22\"><span class=\"label\">22</span><span class=\"content\">Por su uni&#243;n con Jesucristo, ustedes tambi&#233;n forman parte de ese edificio, en donde Dios habita por medio de su Esp&#237;ritu.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Dios nos da vida"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Antes, ustedes estaban muertos para Dios, pues hacían el mal y vivían en pecado;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "seguían el mal ejemplo de la gente de este mundo, y obedecían al poderoso espíritu en los aires, que gobierna sobre los malos espíritus y domina a las personas que desobedecen a Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Antes nosotros nos comportábamos así, y vivíamos obedeciendo a los malos deseos de nuestro cuerpo y nuestra mente. ¡Con justa razón merecíamos ser castigados por Dios, como todos los demás!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Pero Dios es muy compasivo, y su amor por nosotros es inmenso."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Por eso, aunque estábamos muertos por culpa de nuestros pecados, él nos dio vida al resucitar a Cristo. Nos hemos salvado gracias al amor de Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Dios, al resucitar a Jesucristo, nos resucitó y nos dio un lugar en el cielo, junto a él."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Hizo esto para mostrar, en el futuro, la bondad y el gran amor con que nos amó por medio de Jesucristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Ustedes han sido salvados porque aceptaron el amor de Dios. Ninguno de ustedes se ganó la salvación, sino que Dios se la regaló."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "La salvación de ustedes no es el resultado de sus propios esfuerzos. Por eso nadie puede sentirse orgulloso."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Nosotros somos creación de Dios. Por nuestra unión con Jesucristo, nos creó para que vivamos haciendo el bien, lo cual Dios ya había planeado desde antes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Cristo nos une a todos"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Pero ahora ustedes, que estaban lejos de Dios, ya han sido acercados a él, pues están unidos a Jesucristo por medio de su muerte en la cruz."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Cristo nos ha dado la paz. Por medio de su sacrificio en la cruz, Cristo ha puesto fin al odio que, como una barrera, separaba a los judíos de los que no son judíos, y de dos pueblos ha hecho uno solo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Cristo ha puesto fin a los mandatos y reglas de la ley, y por medio de sí mismo ha creado, con los dos grupos, un solo pueblo amigo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Por medio de su muerte en la cruz, Cristo puso fin a la enemistad que había entre los dos grupos, y los unió, formando así un solo pueblo que viviera en paz con Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Cristo vino y anunció las buenas noticias de paz a todos, tanto a ustedes, que no son judíos y estaban lejos de Dios, como a los que son judíos y estaban cerca de él."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Por medio de lo que Jesucristo hizo, tanto los judíos como los no judíos tenemos un mismo Espíritu, y podemos acercarnos a Dios el Padre."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Por eso, ante Dios ustedes ya no son extranjeros. Al contrario, ahora forman parte de su pueblo y tienen todos los derechos; ahora son de la familia de Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Todos los miembros de la iglesia son como un edificio, el cual está construido sobre la enseñanza de los apóstoles y los profetas. En ese edificio Jesucristo es la piedra principal."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "Es él quien mantiene firme todo el edificio y quien lo hace crecer, para que llegue a formar un templo dedicado al Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "Por su unión con Jesucristo, ustedes también forman parte de ese edificio, en donde Dios habita por medio de su Espíritu."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "EPH.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "EPH.3"
+        ],
+        "human": "Efesios 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "EPH.4"
+        ],
+        "human": "Efesios 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "EPH.2"
+        ],
+        "human": "Efesios 2",
+        "toc": true
+      },
+      "chapter_text": "Yo, Pablo, estoy preso porque sirvo a Jesucristo, y trabajo por el bien de ustedes, los que no son judíos. Ustedes ya saben que Dios me encargó anunciarles el plan que, gracias a su gran amor, había preparado. Dios me dio a conocer el plan que tenía en secreto, y del cual ya les he escrito brevemente. Si leen lo que escribí, sabrán cómo entiendo ese plan que Dios ha llevado a cabo por medio de Jesucristo. Tal secreto no se les dio a conocer a los que vivieron antes de nosotros; pero ahora, por medio de su Espíritu, Dios se lo ha mostrado a sus santos apóstoles y profetas. Y este es el plan secreto: por medio de Jesucristo, también los que no son judíos pueden recibir la salvación y las promesas dadas al pueblo de Israel, y formar con Israel un solo pueblo. Todo lo que ustedes tienen que hacer es aceptar esa buena noticia.\nDios ha sido bueno conmigo, y me ha dado el privilegio de anunciar a los que no son judíos la buena noticia de las bendiciones de Cristo, que son tantas que nadie las puede contar. Esto lo hizo gracias a su gran poder, y a pesar de que no lo merezco, pues soy la persona más insignificante en el pueblo de Dios. También me encargó dar a conocer a todos el cumplimiento de su plan. Dios, creador del universo, mantuvo ese plan en secreto durante siglos. Así, por medio de la iglesia, los ángeles y los espíritus poderosos de los aires sabrán ahora que Dios es sabio en todo. Esto era lo que Dios había planeado desde el principio, y que ha hecho realidad por medio de Jesucristo nuestro Señor. Gracias a Cristo, y porque confiamos en él, tenemos libertad para acercarnos a Dios sin temor. Les ruego, entonces, que no se desanimen por mis sufrimientos, pues esto es más bien un honor para ustedes.\n\nPor todo esto, me arrodillo a orar delante de Dios el Padre, creador de todo lo que existe, tanto en el cielo como en la tierra. Por la inmensa riqueza de su gloria, pido a Dios que, por medio de su Espíritu, los haga cristianos fuertes de ánimo. También le pido a Dios que Jesucristo viva en sus corazones, gracias a la confianza que tienen en él, y que ustedes se mantengan firmes en su amor por Dios y por los demás. Así ustedes podrán comprender, junto con todos los que formamos el pueblo de Dios, el amor de Cristo en toda su plenitud. Le pido a Dios que ustedes puedan conocer ese amor, que es más grande de lo que podemos entender, para que reciban todo lo que Dios tiene para darles.\nDios tiene poder para hacer mucho más de lo que le pedimos. ¡Ni siquiera podemos imaginar lo que Dios puede hacer para ayudarnos con su poder! Todos los que pertenecemos a la iglesia de Cristo, debemos alabarlo por siempre. Amén.",
+      "chapter_html": "<div class=\"version vid176 iso6393spa\" data-vid=\"176\" data-iso6393=\"spa\">\n   <div class=\"book bkEPH\">\n      <div class=\"chapter ch3\" data-usfm=\"EPH.3\">\n         <div class=\"label\">3</div><div class=\"s1\"><span class=\"heading\">La misi&#243;n de Pablo</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"EPH.3.1\"><span class=\"label\">1</span><span class=\"content\">Yo, Pablo, estoy preso porque sirvo a Jesucristo, y trabajo por el bien de ustedes, los que no son jud&#237;os. </span></span><span class=\"verse v2\" data-usfm=\"EPH.3.2\"><span class=\"label\">2</span><span class=\"content\">Ustedes ya saben que Dios me encarg&#243; anunciarles el plan que, gracias a su gran amor, hab&#237;a preparado. </span></span><span class=\"verse v3\" data-usfm=\"EPH.3.3\"><span class=\"label\">3</span><span class=\"content\">Dios me dio a conocer el plan que ten&#237;a en secreto, y del cual ya les he escrito brevemente. </span></span><span class=\"verse v4\" data-usfm=\"EPH.3.4\"><span class=\"label\">4</span><span class=\"content\">Si leen lo que escrib&#237;, sabr&#225;n c&#243;mo entiendo ese plan que Dios ha llevado a cabo por medio de Jesucristo. </span></span><span class=\"verse v5\" data-usfm=\"EPH.3.5\"><span class=\"label\">5</span><span class=\"content\">Tal secreto no se les dio a conocer a los que vivieron antes de nosotros; pero ahora, por medio de su Esp&#237;ritu, Dios se lo ha mostrado a sus </span><span class=\"w\"><span class=\"content\">santos</span></span><span class=\"content\">  </span><span class=\"w\"><span class=\"content\">ap&#243;stoles</span></span><span class=\"content\"> y </span><span class=\"w\"><span class=\"content\">profetas</span></span><span class=\"content\">. </span></span><span class=\"verse v6\" data-usfm=\"EPH.3.6\"><span class=\"label\">6</span><span class=\"content\">Y este es el plan secreto: por medio de Jesucristo, tambi&#233;n los que no son jud&#237;os pueden recibir la </span><span class=\"w\"><span class=\"content\">salvaci&#243;n</span></span><span class=\"content\"> y las promesas dadas al pueblo de Israel, y formar con Israel un solo pueblo. Todo lo que ustedes tienen que hacer es aceptar esa buena noticia.</span></span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"EPH.3.6\"><span class=\"content\">  </span></span><span class=\"verse v7 v8\" data-usfm=\"EPH.3.7+EPH.3.8\"><span class=\"label\">7-8</span><span class=\"content\">Dios ha sido bueno conmigo, y me ha dado el privilegio de anunciar a los que no son jud&#237;os la buena noticia de las </span><span class=\"w\"><span class=\"content\">bendiciones</span></span><span class=\"content\"> de </span><span class=\"w\"><span class=\"content\">Cristo</span></span><span class=\"content\">, que son tantas que nadie las puede contar. Esto lo hizo gracias a su gran poder, y a pesar de que no lo merezco, pues soy la persona m&#225;s insignificante en el pueblo de Dios. </span></span><span class=\"verse v9\" data-usfm=\"EPH.3.9\"><span class=\"label\">9</span><span class=\"content\">Tambi&#233;n me encarg&#243; dar a conocer a todos el cumplimiento de su plan. Dios, creador del universo, mantuvo ese plan en secreto durante siglos. </span></span><span class=\"verse v10\" data-usfm=\"EPH.3.10\"><span class=\"label\">10</span><span class=\"content\">As&#237;, por medio de la </span><span class=\"w\"><span class=\"content\">iglesia</span></span><span class=\"content\">, los </span><span class=\"w\"><span class=\"content\">&#225;ngeles</span></span><span class=\"content\"> y los esp&#237;ritus poderosos de los aires sabr&#225;n ahora que Dios es </span><span class=\"w\"><span class=\"content\">sabio</span></span><span class=\"content\"> en todo. </span></span><span class=\"verse v11\" data-usfm=\"EPH.3.11\"><span class=\"label\">11</span><span class=\"content\">Esto era lo que Dios hab&#237;a planeado desde el principio, y que ha hecho realidad por medio de Jesucristo nuestro Se&#241;or. </span></span><span class=\"verse v12\" data-usfm=\"EPH.3.12\"><span class=\"label\">12</span><span class=\"content\">Gracias a Cristo, y porque confiamos en &#233;l, tenemos libertad para acercarnos a Dios sin temor. </span></span><span class=\"verse v13\" data-usfm=\"EPH.3.13\"><span class=\"label\">13</span><span class=\"content\">Les ruego, entonces, que no se desanimen por mis sufrimientos, pues esto es m&#225;s bien un honor para ustedes.</span></span></div><div class=\"s1\"><span class=\"heading\">El amor de Jesucristo</span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"EPH.3.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"EPH.3.14\"><span class=\"label\">14</span><span class=\"content\">Por todo esto, me arrodillo a orar delante de Dios el Padre, </span></span><span class=\"verse v15\" data-usfm=\"EPH.3.15\"><span class=\"label\">15</span><span class=\"content\">creador de todo lo que existe, tanto en el cielo como en la tierra. </span></span><span class=\"verse v16\" data-usfm=\"EPH.3.16\"><span class=\"label\">16</span><span class=\"content\">Por la inmensa riqueza de su </span><span class=\"w\"><span class=\"content\">gloria</span></span><span class=\"content\">, pido a Dios que, por medio de su Esp&#237;ritu, los haga cristianos fuertes de &#225;nimo. </span></span><span class=\"verse v17\" data-usfm=\"EPH.3.17\"><span class=\"label\">17</span><span class=\"content\">Tambi&#233;n le pido a Dios que Jesucristo viva en sus corazones, gracias a la confianza que tienen en &#233;l, y que ustedes se mantengan firmes en su amor por Dios y por los dem&#225;s. </span></span><span class=\"verse v18\" data-usfm=\"EPH.3.18\"><span class=\"label\">18</span><span class=\"content\">As&#237; ustedes podr&#225;n comprender, junto con todos los que formamos el pueblo de Dios, el amor de </span><span class=\"w\"><span class=\"content\">Cristo</span></span><span class=\"content\"> en toda su plenitud. </span></span><span class=\"verse v19\" data-usfm=\"EPH.3.19\"><span class=\"label\">19</span><span class=\"content\">Le pido a Dios que ustedes puedan conocer ese amor, que es m&#225;s grande de lo que podemos entender, para que reciban todo lo que Dios tiene para darles.</span></span></div><div class=\"p\"><span class=\"verse v19\" data-usfm=\"EPH.3.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"EPH.3.20\"><span class=\"label\">20</span><span class=\"content\">Dios tiene poder para hacer mucho m&#225;s de lo que le pedimos. &#161;Ni siquiera podemos imaginar lo que Dios puede hacer para ayudarnos con su poder! </span></span><span class=\"verse v21\" data-usfm=\"EPH.3.21\"><span class=\"label\">21</span><span class=\"content\">Todos los que pertenecemos a la </span><span class=\"w\"><span class=\"content\">iglesia</span></span><span class=\"content\"> de Cristo, debemos alabarlo por siempre. </span><span class=\"w\"><span class=\"content\">Am&#233;n</span></span><span class=\"content\">.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "La misión de Pablo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Yo, Pablo, estoy preso porque sirvo a Jesucristo, y trabajo por el bien de ustedes, los que no son judíos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Ustedes ya saben que Dios me encargó anunciarles el plan que, gracias a su gran amor, había preparado."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Dios me dio a conocer el plan que tenía en secreto, y del cual ya les he escrito brevemente."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Si leen lo que escribí, sabrán cómo entiendo ese plan que Dios ha llevado a cabo por medio de Jesucristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Tal secreto no se les dio a conocer a los que vivieron antes de nosotros; pero ahora, por medio de su Espíritu, Dios se lo ha mostrado a sus santos apóstoles y profetas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Y este es el plan secreto: por medio de Jesucristo, también los que no son judíos pueden recibir la salvación y las promesas dadas al pueblo de Israel, y formar con Israel un solo pueblo. Todo lo que ustedes tienen que hacer es aceptar esa buena noticia.",
+            "Dios ha sido bueno conmigo, y me ha dado el privilegio de anunciar a los que no son judíos la buena noticia de las bendiciones de Cristo, que son tantas que nadie las puede contar. Esto lo hizo gracias a su gran poder, y a pesar de que no lo merezco, pues soy la persona más insignificante en el pueblo de Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "También me encargó dar a conocer a todos el cumplimiento de su plan. Dios, creador del universo, mantuvo ese plan en secreto durante siglos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Así, por medio de la iglesia, los ángeles y los espíritus poderosos de los aires sabrán ahora que Dios es sabio en todo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Esto era lo que Dios había planeado desde el principio, y que ha hecho realidad por medio de Jesucristo nuestro Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Gracias a Cristo, y porque confiamos en él, tenemos libertad para acercarnos a Dios sin temor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Les ruego, entonces, que no se desanimen por mis sufrimientos, pues esto es más bien un honor para ustedes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "El amor de Jesucristo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Por todo esto, me arrodillo a orar delante de Dios el Padre,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "creador de todo lo que existe, tanto en el cielo como en la tierra."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Por la inmensa riqueza de su gloria, pido a Dios que, por medio de su Espíritu, los haga cristianos fuertes de ánimo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "También le pido a Dios que Jesucristo viva en sus corazones, gracias a la confianza que tienen en él, y que ustedes se mantengan firmes en su amor por Dios y por los demás."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Así ustedes podrán comprender, junto con todos los que formamos el pueblo de Dios, el amor de Cristo en toda su plenitud."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Le pido a Dios que ustedes puedan conocer ese amor, que es más grande de lo que podemos entender, para que reciban todo lo que Dios tiene para darles."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Dios tiene poder para hacer mucho más de lo que le pedimos. ¡Ni siquiera podemos imaginar lo que Dios puede hacer para ayudarnos con su poder!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "Todos los que pertenecemos a la iglesia de Cristo, debemos alabarlo por siempre. Amén."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "EPH.4",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "EPH.4"
+        ],
+        "human": "Efesios 4"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "EPH.5"
+        ],
+        "human": "Efesios 5",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "EPH.3"
+        ],
+        "human": "Efesios 3",
+        "toc": true
+      },
+      "chapter_text": "Yo, que estoy preso por servir al Señor Jesús, les ruego que vivan como deben vivir quienes, como ustedes, han sido llamados a formar parte del pueblo de Dios. Sean humildes, amables y pacientes, y bríndense apoyo, por amor, los unos a los otros. Hagan todo lo posible por vivir en paz, para que no pierdan la unidad que el Espíritu les dio. Solo hay una iglesia, solo hay un Espíritu, y Dios los llamó a una sola esperanza de salvación. Solo hay un Señor, una fe y un bautismo. Solo hay un Dios, que es el Padre de todos, gobierna sobre todos, actúa por medio de todos, y está en todos.\nA cada uno de nosotros Cristo nos dio las capacidades que quiso darnos. Como dice la Biblia:\n\n«Cuando subió al cielo,\nllevó muchos prisioneros,\ny dio capacidades a la gente.»\n\nPero, ¿qué significa eso de que «subió»? Pues significa que primero bajó a las partes más profundas de la tierra. Y el que bajó es el mismo que después subió a lo más alto del cielo, para llenar todo el universo. Él fue quien les dio a unos la capacidad de ser apóstoles; a otros, la de ser profetas; a otros, la de ser evangelistas; y a otros, la de ser pastores y maestros. Hizo esto para que todos los que formamos la iglesia, que es su cuerpo, estemos capacitados para servir y dar instrucción a los creyentes. Así seremos un grupo muy unido y llegaremos a tener todo lo que nos falta; seremos perfectos, como lo es Cristo, por conocer al Hijo de Dios y por confiar en él. Ya no seremos como niños, que ahora piensan una cosa y más tarde piensan otra, y que fácilmente son engañados por las falsas enseñanzas de gente astuta, que recurre a toda clase de trampas. Al contrario, el amor debe hacernos decir siempre la verdad, para que en todo lo que hagamos nos parezcamos cada vez más a Cristo, que es quien gobierna la iglesia. Cristo es quien va uniendo a cada miembro de la iglesia, según sus funciones, y quien hace que cada uno trabaje en armonía, para que la iglesia vaya creciendo y cobrando más fuerza por causa del amor.\n\nAhora les pido, de parte del Señor Jesús, que ya no vivan como los que no conocen a Dios, pues ellos viven de acuerdo con sus tontas ideas. Son gente ignorante y terca, que no entiende nada, y por eso no disfruta de la vida que Dios da. Han perdido la vergüenza, se han entregado totalmente a los vicios, y hacen toda clase de indecencias.\n¡Pero esto no es lo que ustedes aprendieron acerca de Cristo! Porque ustedes oyeron el mensaje acerca de él, y saben vivir como él manda, siguiendo la verdad que él enseñó. Por eso, ya no vivan ni se conduzcan como antes, cuando los malos deseos dirigían su manera de vivir. Ustedes deben cambiar completamente su manera de pensar, y ser honestos y santos de verdad, como corresponde a personas que Dios ha vuelto a crear, para ser como él.\n\nPor eso, ya no deben mentirse los unos a los otros. Todos nosotros somos miembros de un mismo cuerpo, así que digan siempre la verdad.\nSi se enojan, no permitan que eso los haga pecar. El enojo no debe durarles todo el día, ni deben darle al diablo oportunidad de tentarlos.\nQuien antes fue ladrón, debe dejar de robar, y ahora trabajar bien y con sus propias manos. Así tendrá dinero para ayudar a las personas necesitadas.\nNo digan malas palabras. Al contrario, digan siempre cosas buenas, que ayuden a los demás a crecer espiritualmente, pues eso es muy necesario.\nNo hagan que se ponga triste el Espíritu Santo de Dios, que es como un sello de identidad que Dios puso en ustedes, para reconocerlos cuando llegue el día en que para siempre serán liberados del pecado.\nDejen de estar tristes y enojados. No griten ni insulten a los demás. Dejen de hacer el mal. Por el contrario, sean buenos y compasivos los unos con los otros, y perdónense, así como Dios los perdonó a ustedes por medio de Cristo.",
+      "chapter_html": "<div class=\"version vid176 iso6393spa\" data-vid=\"176\" data-iso6393=\"spa\">\n   <div class=\"book bkEPH\">\n      <div class=\"chapter ch4\" data-usfm=\"EPH.4\">\n         <div class=\"label\">4</div><div class=\"s1\"><span class=\"heading\">Unidad en la iglesia</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"EPH.4.1\"><span class=\"label\">1</span><span class=\"content\">Yo, que estoy preso por servir al Se&#241;or Jes&#250;s, les ruego que vivan como deben vivir quienes, como ustedes, han sido llamados a formar parte del pueblo de Dios. </span></span><span class=\"verse v2\" data-usfm=\"EPH.4.2\"><span class=\"label\">2</span><span class=\"content\">Sean humildes, amables y pacientes, y br&#237;ndense apoyo, por amor, los unos a los otros. </span></span><span class=\"verse v3\" data-usfm=\"EPH.4.3\"><span class=\"label\">3</span><span class=\"content\">Hagan todo lo posible por vivir en paz, para que no pierdan la unidad que el Esp&#237;ritu les dio. </span></span><span class=\"verse v4\" data-usfm=\"EPH.4.4\"><span class=\"label\">4</span><span class=\"content\">Solo hay una </span><span class=\"w\"><span class=\"content\">iglesia</span></span><span class=\"content\">, solo hay un Esp&#237;ritu, y Dios los llam&#243; a una sola esperanza de </span><span class=\"w\"><span class=\"content\">salvaci&#243;n</span></span><span class=\"content\">. </span></span><span class=\"verse v5\" data-usfm=\"EPH.4.5\"><span class=\"label\">5</span><span class=\"content\">Solo hay un Se&#241;or, una fe</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4.5 </span><span class=\"fk\">Fe: </span><span class=\"ft\">La palabra griega que se traduce como </span><span class=\"fk\">fe, </span><span class=\"ft\">puede tambi&#233;n traducirse como </span><span class=\"fqa\">confianza. </span><span class=\"ft\">En este caso, </span><span class=\"fk\">fe </span><span class=\"ft\">se refiere al hecho de que la iglesia cristiana cree en la muerte y la resurrecci&#243;n de Jes&#250;s, y conf&#237;a en &#233;l como su Se&#241;or y Salvador.</span></span></span><span class=\"content\"> y un </span><span class=\"w\"><span class=\"content\">bautismo</span></span><span class=\"content\">. </span></span><span class=\"verse v6\" data-usfm=\"EPH.4.6\"><span class=\"label\">6</span><span class=\"content\">Solo hay un Dios, que es el Padre de todos, gobierna sobre todos, act&#250;a por medio de todos, y est&#225; en todos.</span></span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"EPH.4.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"EPH.4.7\"><span class=\"label\">7</span><span class=\"content\">A cada uno de nosotros </span><span class=\"w\"><span class=\"content\">Cristo</span></span><span class=\"content\"> nos dio las capacidades que quiso darnos. </span></span><span class=\"verse v8\" data-usfm=\"EPH.4.8\"><span class=\"label\">8</span><span class=\"content\">Como dice la </span><span class=\"w\"><span class=\"content\">Biblia</span></span><span class=\"content\">:</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"EPH.4.8\"><span class=\"content\">&#171;Cuando subi&#243; al cielo,</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"EPH.4.8\"><span class=\"content\">llev&#243; muchos prisioneros,</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"EPH.4.8\"><span class=\"content\">y dio capacidades a la gente.&#187;</span></span></div><div class=\"b\"></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"EPH.4.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"EPH.4.9\"><span class=\"label\">9</span><span class=\"content\">Pero, &#191;qu&#233; significa eso de que &#171;subi&#243;&#187;? Pues significa que primero baj&#243; a las partes m&#225;s profundas de la tierra. </span></span><span class=\"verse v10\" data-usfm=\"EPH.4.10\"><span class=\"label\">10</span><span class=\"content\">Y el que baj&#243; es el mismo que despu&#233;s subi&#243; a lo m&#225;s alto del cielo, para llenar todo el universo. </span></span><span class=\"verse v11\" data-usfm=\"EPH.4.11\"><span class=\"label\">11</span><span class=\"content\">&#201;l fue quien les dio a unos la capacidad de ser </span><span class=\"w\"><span class=\"content\">ap&#243;stoles</span></span><span class=\"content\">; a otros, la de ser profetas; a otros, la de ser evangelistas; y a otros, la de ser pastores y maestros. </span></span><span class=\"verse v12\" data-usfm=\"EPH.4.12\"><span class=\"label\">12</span><span class=\"content\">Hizo esto para que todos los que formamos la iglesia, que es su cuerpo, estemos capacitados para servir y dar instrucci&#243;n a los creyentes. </span></span><span class=\"verse v13\" data-usfm=\"EPH.4.13\"><span class=\"label\">13</span><span class=\"content\">As&#237; seremos un grupo muy unido y llegaremos a tener todo lo que nos falta; seremos perfectos, como lo es Cristo, por conocer al Hijo de Dios y por confiar en &#233;l. </span></span><span class=\"verse v14\" data-usfm=\"EPH.4.14\"><span class=\"label\">14</span><span class=\"content\">Ya no seremos como ni&#241;os, que ahora piensan una cosa y m&#225;s tarde piensan otra, y que f&#225;cilmente son enga&#241;ados por las falsas ense&#241;anzas de gente astuta, que recurre a toda clase de trampas. </span></span><span class=\"verse v15\" data-usfm=\"EPH.4.15\"><span class=\"label\">15</span><span class=\"content\">Al contrario, el amor debe hacernos decir siempre la verdad, para que en todo lo que hagamos nos parezcamos cada vez m&#225;s a Cristo, que es quien gobierna la iglesia. </span></span><span class=\"verse v16\" data-usfm=\"EPH.4.16\"><span class=\"label\">16</span><span class=\"content\">Cristo es quien va uniendo a cada miembro de la iglesia, seg&#250;n sus funciones, y quien hace que cada uno trabaje en armon&#237;a, para que la iglesia vaya creciendo y cobrando m&#225;s fuerza por causa del amor.</span></span></div><div class=\"s1\"><span class=\"heading\">Una nueva vida</span></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"EPH.4.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"EPH.4.17\"><span class=\"label\">17</span><span class=\"content\">Ahora les pido, de parte del Se&#241;or Jes&#250;s, que ya no vivan como los que no conocen a Dios, pues ellos viven de acuerdo con sus tontas ideas. </span></span><span class=\"verse v18\" data-usfm=\"EPH.4.18\"><span class=\"label\">18</span><span class=\"content\">Son gente ignorante y terca, que no entiende nada, y por eso no disfruta de la vida que Dios da. </span></span><span class=\"verse v19\" data-usfm=\"EPH.4.19\"><span class=\"label\">19</span><span class=\"content\">Han perdido la verg&#252;enza, se han entregado totalmente a los vicios, y hacen toda clase de indecencias.</span></span></div><div class=\"p\"><span class=\"verse v19\" data-usfm=\"EPH.4.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"EPH.4.20\"><span class=\"label\">20</span><span class=\"content\">&#161;Pero esto no es lo que ustedes aprendieron acerca de </span><span class=\"w\"><span class=\"content\">Cristo</span></span><span class=\"content\">! </span></span><span class=\"verse v21\" data-usfm=\"EPH.4.21\"><span class=\"label\">21</span><span class=\"content\">Porque ustedes oyeron el mensaje acerca de &#233;l, y saben vivir como &#233;l manda, siguiendo la verdad que &#233;l ense&#241;&#243;. </span></span><span class=\"verse v22\" data-usfm=\"EPH.4.22\"><span class=\"label\">22</span><span class=\"content\">Por eso, ya no vivan ni se conduzcan como antes, cuando los malos deseos dirig&#237;an su manera de vivir. </span></span><span class=\"verse v23 v24\" data-usfm=\"EPH.4.23+EPH.4.24\"><span class=\"label\">23-24</span><span class=\"content\">Ustedes deben cambiar completamente su manera de pensar, y ser honestos y </span><span class=\"w\"><span class=\"content\">santos</span></span><span class=\"content\"> de verdad, como corresponde a personas que Dios ha vuelto a crear, para ser como &#233;l.</span></span></div><div class=\"s1\"><span class=\"heading\">C&#243;mo vivir ahora</span></div><div class=\"p\"><span class=\"verse v23 v24\" data-usfm=\"EPH.4.23+EPH.4.24\"><span class=\"content\">  </span></span><span class=\"verse v25\" data-usfm=\"EPH.4.25\"><span class=\"label\">25</span><span class=\"content\">Por eso, ya no deben mentirse los unos a los otros. Todos nosotros somos miembros de un mismo cuerpo, as&#237; que digan siempre la verdad.</span></span></div><div class=\"p\"><span class=\"verse v25\" data-usfm=\"EPH.4.25\"><span class=\"content\">  </span></span><span class=\"verse v26\" data-usfm=\"EPH.4.26\"><span class=\"label\">26</span><span class=\"content\">Si se enojan, no permitan que eso los haga </span><span class=\"w\"><span class=\"content\">pecar</span></span><span class=\"content\">. El enojo no debe durarles todo el d&#237;a, </span></span><span class=\"verse v27\" data-usfm=\"EPH.4.27\"><span class=\"label\">27</span><span class=\"content\">ni deben darle al diablo oportunidad de tentarlos.</span></span></div><div class=\"p\"><span class=\"verse v27\" data-usfm=\"EPH.4.27\"><span class=\"content\">  </span></span><span class=\"verse v28\" data-usfm=\"EPH.4.28\"><span class=\"label\">28</span><span class=\"content\">Quien antes fue ladr&#243;n, debe dejar de robar, y ahora trabajar bien y con sus propias manos. As&#237; tendr&#225; dinero para ayudar a las personas necesitadas.</span></span></div><div class=\"p\"><span class=\"verse v28\" data-usfm=\"EPH.4.28\"><span class=\"content\">  </span></span><span class=\"verse v29\" data-usfm=\"EPH.4.29\"><span class=\"label\">29</span><span class=\"content\">No digan malas palabras. Al contrario, digan siempre cosas buenas, que ayuden a los dem&#225;s a crecer espiritualmente, pues eso es muy necesario.</span></span></div><div class=\"p\"><span class=\"verse v29\" data-usfm=\"EPH.4.29\"><span class=\"content\">  </span></span><span class=\"verse v30\" data-usfm=\"EPH.4.30\"><span class=\"label\">30</span><span class=\"content\">No hagan que se ponga triste el Esp&#237;ritu Santo de Dios, que es como un sello de identidad que Dios puso en ustedes, para reconocerlos cuando llegue el d&#237;a en que para siempre ser&#225;n liberados del pecado.</span></span></div><div class=\"p\"><span class=\"verse v30\" data-usfm=\"EPH.4.30\"><span class=\"content\">  </span></span><span class=\"verse v31\" data-usfm=\"EPH.4.31\"><span class=\"label\">31</span><span class=\"content\">Dejen de estar tristes y enojados. No griten ni insulten a los dem&#225;s. Dejen de hacer el mal. </span></span><span class=\"verse v32\" data-usfm=\"EPH.4.32\"><span class=\"label\">32</span><span class=\"content\">Por el contrario, sean buenos y compasivos los unos con los otros, y perd&#243;nense, as&#237; como Dios los perdon&#243; a ustedes por medio de </span><span class=\"w\"><span class=\"content\">Cristo</span></span><span class=\"content\">.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Unidad en la iglesia"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Yo, que estoy preso por servir al Señor Jesús, les ruego que vivan como deben vivir quienes, como ustedes, han sido llamados a formar parte del pueblo de Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Sean humildes, amables y pacientes, y bríndense apoyo, por amor, los unos a los otros."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Hagan todo lo posible por vivir en paz, para que no pierdan la unidad que el Espíritu les dio."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Solo hay una iglesia, solo hay un Espíritu, y Dios los llamó a una sola esperanza de salvación."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Solo hay un Señor, una fe y un bautismo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Solo hay un Dios, que es el Padre de todos, gobierna sobre todos, actúa por medio de todos, y está en todos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "A cada uno de nosotros Cristo nos dio las capacidades que quiso darnos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Como dice la Biblia:",
+            "«Cuando subió al cielo,",
+            "llevó muchos prisioneros,",
+            "y dio capacidades a la gente.»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Pero, ¿qué significa eso de que «subió»? Pues significa que primero bajó a las partes más profundas de la tierra."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Y el que bajó es el mismo que después subió a lo más alto del cielo, para llenar todo el universo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Él fue quien les dio a unos la capacidad de ser apóstoles; a otros, la de ser profetas; a otros, la de ser evangelistas; y a otros, la de ser pastores y maestros."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Hizo esto para que todos los que formamos la iglesia, que es su cuerpo, estemos capacitados para servir y dar instrucción a los creyentes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Así seremos un grupo muy unido y llegaremos a tener todo lo que nos falta; seremos perfectos, como lo es Cristo, por conocer al Hijo de Dios y por confiar en él."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Ya no seremos como niños, que ahora piensan una cosa y más tarde piensan otra, y que fácilmente son engañados por las falsas enseñanzas de gente astuta, que recurre a toda clase de trampas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Al contrario, el amor debe hacernos decir siempre la verdad, para que en todo lo que hagamos nos parezcamos cada vez más a Cristo, que es quien gobierna la iglesia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Cristo es quien va uniendo a cada miembro de la iglesia, según sus funciones, y quien hace que cada uno trabaje en armonía, para que la iglesia vaya creciendo y cobrando más fuerza por causa del amor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Una nueva vida"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Ahora les pido, de parte del Señor Jesús, que ya no vivan como los que no conocen a Dios, pues ellos viven de acuerdo con sus tontas ideas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Son gente ignorante y terca, que no entiende nada, y por eso no disfruta de la vida que Dios da."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Han perdido la vergüenza, se han entregado totalmente a los vicios, y hacen toda clase de indecencias."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "¡Pero esto no es lo que ustedes aprendieron acerca de Cristo!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "Porque ustedes oyeron el mensaje acerca de él, y saben vivir como él manda, siguiendo la verdad que él enseñó."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "Por eso, ya no vivan ni se conduzcan como antes, cuando los malos deseos dirigían su manera de vivir.",
+            "Ustedes deben cambiar completamente su manera de pensar, y ser honestos y santos de verdad, como corresponde a personas que Dios ha vuelto a crear, para ser como él."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Cómo vivir ahora"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "Por eso, ya no deben mentirse los unos a los otros. Todos nosotros somos miembros de un mismo cuerpo, así que digan siempre la verdad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 26,
+          "lines": [
+            "Si se enojan, no permitan que eso los haga pecar. El enojo no debe durarles todo el día,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 27,
+          "lines": [
+            "ni deben darle al diablo oportunidad de tentarlos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 28,
+          "lines": [
+            "Quien antes fue ladrón, debe dejar de robar, y ahora trabajar bien y con sus propias manos. Así tendrá dinero para ayudar a las personas necesitadas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 29,
+          "lines": [
+            "No digan malas palabras. Al contrario, digan siempre cosas buenas, que ayuden a los demás a crecer espiritualmente, pues eso es muy necesario."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 30,
+          "lines": [
+            "No hagan que se ponga triste el Espíritu Santo de Dios, que es como un sello de identidad que Dios puso en ustedes, para reconocerlos cuando llegue el día en que para siempre serán liberados del pecado."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 31,
+          "lines": [
+            "Dejen de estar tristes y enojados. No griten ni insulten a los demás. Dejen de hacer el mal."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 32,
+          "lines": [
+            "Por el contrario, sean buenos y compasivos los unos con los otros, y perdónense, así como Dios los perdonó a ustedes por medio de Cristo."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "EPH.5",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "EPH.5"
+        ],
+        "human": "Efesios 5"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "EPH.6"
+        ],
+        "human": "Efesios 6",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "EPH.4"
+        ],
+        "human": "Efesios 4",
+        "toc": true
+      },
+      "chapter_text": "Ustedes son hijos de Dios, y él los ama. Por eso deben tratar de ser como él es. Deben amar a los demás, así como Cristo nos amó y murió por nosotros. Para Dios, la muerte de Cristo es como el delicado aroma de una ofrenda.\nUstedes son parte del pueblo de Dios; por eso, ni siquiera deben hablar de pecados sexuales, ni de indecencias ni de ambiciones exageradas. No digan malas palabras, ni tonterías, ni vulgaridades, pues eso no es correcto. Más bien, usen su boca para dar gracias a Dios. Bien saben ustedes que nadie que tenga relaciones sexuales prohibidas o indecentes, o que nunca esté satisfecho con lo mucho que tiene, tendrá parte en el reino de Cristo y de Dios. Eso es tan malo como adorar a un ídolo.\n\nNo se dejen engañar con ideas tontas, pues por cosas así Dios castiga terriblemente a quienes no lo obedecen. Así que, no tengan nada que ver con esa clase de gente.\nNo conocer a Dios es como vivir en la oscuridad, y antes ustedes vivían así, pues no lo conocían. Pero ahora ya lo conocen, y han pasado a la luz; vivan entonces como corresponde a quienes conocen a Dios, pues su Espíritu nos hace actuar con bondad, justicia y verdad. Traten de hacer lo que le agrada a Dios. No se hagan cómplices de los que no conocen a Dios; al contrario, háganles ver su error, pues sus hechos no aprovechan de nada. ¡La verdad es que da vergüenza hablar de lo que ellos hacen a escondidas! Cuando la luz brilla, todo queda al descubierto y puede verse cómo es en realidad. Por eso alguien ha escrito:\n\n«¡Despiértate, tú que duermes!\nLevántate de entre los muertos,\ny Cristo te alumbrará.»\n\nTengan cuidado de cómo se comportan. Vivan como gente que piensa lo que hace, y no como tontos. Aprovechen cada oportunidad que tengan de hacer el bien, porque estamos viviendo tiempos muy malos. No sean tontos, sino traten de averiguar qué es lo que Dios quiere que hagan.\nNo se emborrachen, pues perderán el control de sus actos. Más bien, permitan que sea el Espíritu Santo quien los llene y los controle. Cuando se reúnan, canten salmos, himnos y canciones espirituales. Alaben a Dios el Padre de todo corazón, y denle siempre gracias por todo, en el nombre de nuestro Señor Jesucristo.\nUstedes, que honran a Cristo, deben sujetarse los unos a los otros. Las esposas deben sujetarse a sus esposos, así como lo hacen con Cristo. Porque el esposo es cabeza de su esposa, así como Cristo es cabeza de su iglesia, y también su Salvador. Cristo es la cabeza, y la iglesia es el cuerpo. Por eso, la esposa debe sujetarse a su esposo en todo, así como la iglesia se sujeta a Cristo.\nLos esposos deben amar a sus esposas, así como Cristo amó a la iglesia y dio su vida por ella. Lo hizo para hacerla solo suya, limpiándola por medio de su mensaje y del bautismo. Cristo quiso regalarse a sí mismo una iglesia gloriosa, apartada del mal y perfecta, como un vestido sin una sola arruga ni una sola mancha, ni nada parecido. El esposo debe amar a su esposa, así como ama a su propio cuerpo. El hombre que ama a su esposa se ama a sí mismo. Porque nadie desprecia su propio cuerpo. Al contrario, lo alimenta y lo cuida, del mismo modo que Cristo cuida a la iglesia. En realidad, cada uno de nosotros forma parte de la iglesia, que es el cuerpo de Cristo. Dice la Biblia: «Por eso el hombre deja a su padre y a su madre, y se une a su mujer, para formar un solo cuerpo.» Esa es una verdad muy grande, y yo la uso para hablar de Cristo y de la iglesia. En todo caso, el esposo debe amar a su esposa, como si se tratara de sí mismo, y la esposa debe respetar a su esposo.",
+      "chapter_html": "<div class=\"version vid176 iso6393spa\" data-vid=\"176\" data-iso6393=\"spa\">\n   <div class=\"book bkEPH\">\n      <div class=\"chapter ch5\" data-usfm=\"EPH.5\">\n         <div class=\"label\">5</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"EPH.5.1\"><span class=\"label\">1</span><span class=\"content\">Ustedes son hijos de Dios, y &#233;l los ama. Por eso deben tratar de ser como &#233;l es. </span></span><span class=\"verse v2\" data-usfm=\"EPH.5.2\"><span class=\"label\">2</span><span class=\"content\">Deben amar a los dem&#225;s, as&#237; como </span><span class=\"w\"><span class=\"content\">Cristo</span></span><span class=\"content\"> nos am&#243; y muri&#243; por nosotros. Para Dios, la muerte de Cristo es como el delicado aroma de una </span><span class=\"w\"><span class=\"content\">ofrenda</span></span><span class=\"content\">.</span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"EPH.5.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"EPH.5.3\"><span class=\"label\">3</span><span class=\"content\">Ustedes son parte del pueblo de Dios; por eso, ni siquiera deben hablar de </span><span class=\"w\"><span class=\"content\">pecados</span></span><span class=\"content\"> sexuales, ni de indecencias ni de ambiciones exageradas. </span></span><span class=\"verse v4\" data-usfm=\"EPH.5.4\"><span class=\"label\">4</span><span class=\"content\">No digan malas palabras, ni tonter&#237;as, ni vulgaridades, pues eso no es correcto. M&#225;s bien, usen su boca para dar gracias a Dios. </span></span><span class=\"verse v5\" data-usfm=\"EPH.5.5\"><span class=\"label\">5</span><span class=\"content\">Bien saben ustedes que nadie que tenga relaciones sexuales prohibidas o indecentes, o que nunca est&#233; satisfecho con lo mucho que tiene, tendr&#225; parte en el reino de Cristo y de Dios. Eso es tan malo como </span><span class=\"w\"><span class=\"content\">adorar</span></span><span class=\"content\"> a un </span><span class=\"w\"><span class=\"content\">&#237;dolo</span></span><span class=\"content\">.</span></span></div><div class=\"s1\"><span class=\"heading\">Vivir obedeciendo a Dios</span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"EPH.5.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"EPH.5.6\"><span class=\"label\">6</span><span class=\"content\">No se dejen enga&#241;ar con ideas tontas, pues por cosas as&#237; Dios castiga terriblemente a quienes no lo obedecen. </span></span><span class=\"verse v7\" data-usfm=\"EPH.5.7\"><span class=\"label\">7</span><span class=\"content\">As&#237; que, no tengan nada que ver con esa clase de gente.</span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"EPH.5.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"EPH.5.8\"><span class=\"label\">8</span><span class=\"content\">No conocer a Dios es como vivir en la oscuridad, y antes ustedes viv&#237;an as&#237;, pues no lo conoc&#237;an. Pero ahora ya lo conocen, y han pasado a la luz; vivan entonces como corresponde a quienes conocen a Dios, </span></span><span class=\"verse v9\" data-usfm=\"EPH.5.9\"><span class=\"label\">9</span><span class=\"content\">pues su Esp&#237;ritu nos hace actuar con bondad, justicia y verdad. </span></span><span class=\"verse v10\" data-usfm=\"EPH.5.10\"><span class=\"label\">10</span><span class=\"content\">Traten de hacer lo que le agrada a Dios. </span></span><span class=\"verse v11\" data-usfm=\"EPH.5.11\"><span class=\"label\">11</span><span class=\"content\">No se hagan c&#243;mplices de los que no conocen a Dios; al contrario, h&#225;ganles ver su error, pues sus hechos no aprovechan de nada. </span></span><span class=\"verse v12\" data-usfm=\"EPH.5.12\"><span class=\"label\">12</span><span class=\"content\">&#161;La verdad es que da verg&#252;enza hablar de lo que ellos hacen a escondidas! </span></span><span class=\"verse v13\" data-usfm=\"EPH.5.13\"><span class=\"label\">13</span><span class=\"content\">Cuando la luz brilla, todo queda al descubierto y puede verse c&#243;mo es en realidad. </span></span><span class=\"verse v14\" data-usfm=\"EPH.5.14\"><span class=\"label\">14</span><span class=\"content\">Por eso alguien ha escrito:</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"EPH.5.14\"><span class=\"content\">&#171;&#161;Despi&#233;rtate, t&#250; que duermes!</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"EPH.5.14\"><span class=\"content\">Lev&#225;ntate de entre los muertos,</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"EPH.5.14\"><span class=\"content\">y </span><span class=\"w\"><span class=\"content\">Cristo</span></span><span class=\"content\"> te alumbrar&#225;.&#187;</span></span></div><div class=\"b\"></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"EPH.5.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"EPH.5.15\"><span class=\"label\">15</span><span class=\"content\">Tengan cuidado de c&#243;mo se comportan. Vivan como gente que piensa lo que hace, y no como tontos. </span></span><span class=\"verse v16\" data-usfm=\"EPH.5.16\"><span class=\"label\">16</span><span class=\"content\">Aprovechen cada oportunidad que tengan de hacer el bien, porque estamos viviendo tiempos muy malos. </span></span><span class=\"verse v17\" data-usfm=\"EPH.5.17\"><span class=\"label\">17</span><span class=\"content\">No sean tontos, sino traten de averiguar qu&#233; es lo que Dios quiere que hagan.</span></span></div><div class=\"p\"><span class=\"verse v17\" data-usfm=\"EPH.5.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"EPH.5.18\"><span class=\"label\">18</span><span class=\"content\">No se emborrachen, pues perder&#225;n el control de sus actos. M&#225;s bien, permitan que sea el Esp&#237;ritu Santo quien los llene y los controle. </span></span><span class=\"verse v19 v20\" data-usfm=\"EPH.5.19+EPH.5.20\"><span class=\"label\">19-20</span><span class=\"content\">Cuando se re&#250;nan, canten salmos, himnos y canciones espirituales. Alaben a Dios el Padre de todo coraz&#243;n, y denle siempre gracias por todo, en el nombre de nuestro Se&#241;or Jesucristo.</span></span></div><div class=\"p\"><span class=\"verse v19 v20\" data-usfm=\"EPH.5.19+EPH.5.20\"><span class=\"content\">  </span></span><span class=\"verse v21\" data-usfm=\"EPH.5.21\"><span class=\"label\">21</span><span class=\"content\">Ustedes, que honran a Cristo, deben sujetarse los unos a los otros. </span></span><span class=\"verse v22\" data-usfm=\"EPH.5.22\"><span class=\"label\">22</span><span class=\"content\">Las esposas deben sujetarse a sus esposos, as&#237; como lo hacen con Cristo. </span></span><span class=\"verse v23\" data-usfm=\"EPH.5.23\"><span class=\"label\">23</span><span class=\"content\">Porque el esposo es cabeza de su esposa, as&#237; como Cristo es cabeza de su </span><span class=\"w\"><span class=\"content\">iglesia</span></span><span class=\"content\">, y tambi&#233;n su </span><span class=\"w\"><span class=\"content\">Salvador</span></span><span class=\"content\">. Cristo es la cabeza, y la iglesia es el cuerpo. </span></span><span class=\"verse v24\" data-usfm=\"EPH.5.24\"><span class=\"label\">24</span><span class=\"content\">Por eso, la esposa debe sujetarse a su esposo en todo, as&#237; como la iglesia se sujeta a Cristo.</span></span></div><div class=\"p\"><span class=\"verse v24\" data-usfm=\"EPH.5.24\"><span class=\"content\">  </span></span><span class=\"verse v25\" data-usfm=\"EPH.5.25\"><span class=\"label\">25</span><span class=\"content\">Los esposos deben amar a sus esposas, as&#237; como Cristo am&#243; a la iglesia y dio su vida por ella. </span></span><span class=\"verse v26\" data-usfm=\"EPH.5.26\"><span class=\"label\">26</span><span class=\"content\">Lo hizo para hacerla solo suya, </span><span class=\"w\"><span class=\"content\">limpi&#225;ndola</span></span><span class=\"content\"> por medio de su mensaje y del </span><span class=\"w\"><span class=\"content\">bautismo</span></span><span class=\"content\">. </span></span><span class=\"verse v27\" data-usfm=\"EPH.5.27\"><span class=\"label\">27</span><span class=\"content\">Cristo quiso regalarse a s&#237; mismo una iglesia gloriosa, apartada del mal y perfecta, como un vestido sin una sola arruga ni una sola mancha, ni nada parecido. </span></span><span class=\"verse v28\" data-usfm=\"EPH.5.28\"><span class=\"label\">28</span><span class=\"content\">El esposo debe amar a su esposa, as&#237; como ama a su propio cuerpo. El hombre que ama a su esposa se ama a s&#237; mismo. </span></span><span class=\"verse v29\" data-usfm=\"EPH.5.29\"><span class=\"label\">29</span><span class=\"content\">Porque nadie desprecia su propio cuerpo. Al contrario, lo alimenta y lo cuida, del mismo modo que Cristo cuida a la iglesia. </span></span><span class=\"verse v30\" data-usfm=\"EPH.5.30\"><span class=\"label\">30</span><span class=\"content\">En realidad, cada uno de nosotros forma parte de la iglesia, que es el cuerpo de Cristo. </span></span><span class=\"verse v31\" data-usfm=\"EPH.5.31\"><span class=\"label\">31</span><span class=\"content\">Dice la </span><span class=\"w\"><span class=\"content\">Biblia</span></span><span class=\"content\">: &#171;Por eso el hombre deja a su padre y a su madre, y se une a su mujer, para formar un solo cuerpo.&#187; </span></span><span class=\"verse v32\" data-usfm=\"EPH.5.32\"><span class=\"label\">32</span><span class=\"content\">Esa es una verdad muy grande, y yo la uso para hablar de Cristo y de la iglesia. </span></span><span class=\"verse v33\" data-usfm=\"EPH.5.33\"><span class=\"label\">33</span><span class=\"content\">En todo caso, el esposo debe amar a su esposa, como si se tratara de s&#237; mismo, y la esposa debe respetar a su esposo.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Ustedes son hijos de Dios, y él los ama. Por eso deben tratar de ser como él es."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Deben amar a los demás, así como Cristo nos amó y murió por nosotros. Para Dios, la muerte de Cristo es como el delicado aroma de una ofrenda."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Ustedes son parte del pueblo de Dios; por eso, ni siquiera deben hablar de pecados sexuales, ni de indecencias ni de ambiciones exageradas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "No digan malas palabras, ni tonterías, ni vulgaridades, pues eso no es correcto. Más bien, usen su boca para dar gracias a Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Bien saben ustedes que nadie que tenga relaciones sexuales prohibidas o indecentes, o que nunca esté satisfecho con lo mucho que tiene, tendrá parte en el reino de Cristo y de Dios. Eso es tan malo como adorar a un ídolo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Vivir obedeciendo a Dios"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "No se dejen engañar con ideas tontas, pues por cosas así Dios castiga terriblemente a quienes no lo obedecen."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Así que, no tengan nada que ver con esa clase de gente."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "No conocer a Dios es como vivir en la oscuridad, y antes ustedes vivían así, pues no lo conocían. Pero ahora ya lo conocen, y han pasado a la luz; vivan entonces como corresponde a quienes conocen a Dios,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "pues su Espíritu nos hace actuar con bondad, justicia y verdad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Traten de hacer lo que le agrada a Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "No se hagan cómplices de los que no conocen a Dios; al contrario, háganles ver su error, pues sus hechos no aprovechan de nada."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "¡La verdad es que da vergüenza hablar de lo que ellos hacen a escondidas!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Cuando la luz brilla, todo queda al descubierto y puede verse cómo es en realidad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Por eso alguien ha escrito:",
+            "«¡Despiértate, tú que duermes!",
+            "Levántate de entre los muertos,",
+            "y Cristo te alumbrará.»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Tengan cuidado de cómo se comportan. Vivan como gente que piensa lo que hace, y no como tontos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Aprovechen cada oportunidad que tengan de hacer el bien, porque estamos viviendo tiempos muy malos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "No sean tontos, sino traten de averiguar qué es lo que Dios quiere que hagan."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "No se emborrachen, pues perderán el control de sus actos. Más bien, permitan que sea el Espíritu Santo quien los llene y los controle.",
+            "Cuando se reúnan, canten salmos, himnos y canciones espirituales. Alaben a Dios el Padre de todo corazón, y denle siempre gracias por todo, en el nombre de nuestro Señor Jesucristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "Ustedes, que honran a Cristo, deben sujetarse los unos a los otros."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "Las esposas deben sujetarse a sus esposos, así como lo hacen con Cristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "Porque el esposo es cabeza de su esposa, así como Cristo es cabeza de su iglesia, y también su Salvador. Cristo es la cabeza, y la iglesia es el cuerpo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "Por eso, la esposa debe sujetarse a su esposo en todo, así como la iglesia se sujeta a Cristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "Los esposos deben amar a sus esposas, así como Cristo amó a la iglesia y dio su vida por ella."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 26,
+          "lines": [
+            "Lo hizo para hacerla solo suya, limpiándola por medio de su mensaje y del bautismo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 27,
+          "lines": [
+            "Cristo quiso regalarse a sí mismo una iglesia gloriosa, apartada del mal y perfecta, como un vestido sin una sola arruga ni una sola mancha, ni nada parecido."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 28,
+          "lines": [
+            "El esposo debe amar a su esposa, así como ama a su propio cuerpo. El hombre que ama a su esposa se ama a sí mismo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 29,
+          "lines": [
+            "Porque nadie desprecia su propio cuerpo. Al contrario, lo alimenta y lo cuida, del mismo modo que Cristo cuida a la iglesia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 30,
+          "lines": [
+            "En realidad, cada uno de nosotros forma parte de la iglesia, que es el cuerpo de Cristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 31,
+          "lines": [
+            "Dice la Biblia: «Por eso el hombre deja a su padre y a su madre, y se une a su mujer, para formar un solo cuerpo.»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 32,
+          "lines": [
+            "Esa es una verdad muy grande, y yo la uso para hablar de Cristo y de la iglesia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 33,
+          "lines": [
+            "En todo caso, el esposo debe amar a su esposa, como si se tratara de sí mismo, y la esposa debe respetar a su esposo."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "EPH.6",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "EPH.6"
+        ],
+        "human": "Efesios 6"
+      },
+      "next": {
+        "canonical": false,
+        "usfm": [
+          "PHP.INTRO1"
+        ],
+        "human": "Filipenses Introducción",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "EPH.5"
+        ],
+        "human": "Efesios 5",
+        "toc": true
+      },
+      "chapter_text": "Hijos, obedezcan a sus padres. Ustedes son de Cristo, y eso es lo que les corresponde hacer. El primer mandamiento que va acompañado de una promesa es el siguiente: «Obedezcan y cuiden a su padre y a su madre. Así les irá bien, y podrán vivir muchos años en la tierra.»\nY ustedes, padres, no hagan enojar a sus hijos. Más bien edúquenlos y denles enseñanzas cristianas.\n\nEsclavos y esclavas, obedezcan a los que aquí en la tierra son sus amos. Obedézcanlos con respeto, sinceridad, y de buena gana, como si estuvieran sirviendo a Cristo mismo. Esto deben hacerlo en todo momento, y no solo cuando sus amos los estén viendo. Ustedes son esclavos de Cristo, así que deben hacer con alegría y entusiasmo lo que Dios quiere que hagan, como si lo hicieran para el Señor y no solo para sus amos. Pueden estar seguros de que el Señor premiará a todos por lo bueno que hayan hecho, sin importar que hayan sido esclavos o libres.\nTambién ustedes, amos, deben tratar a sus esclavos con igual respeto, y sin amenazas. Recuerden que tanto ustedes como ellos pertenecen al mismo dueño. Ese dueño es Dios, que está en el cielo, y él no tiene favoritos.\n\nFinalmente, dejen que el gran poder de Cristo les dé las fuerzas necesarias. Protéjanse con la armadura que Dios les ha dado, y así podrán resistir los ataques del diablo. Porque no luchamos contra gente como nosotros, sino contra espíritus malvados que actúan en el cielo. Ellos imponen su autoridad y su poder en el mundo actual. Por lo tanto, ¡protéjanse con la armadura completa! Así, cuando llegue el día malo, podrán resistir los ataques del enemigo y se mantendrán firmes hasta el fin.\n¡Manténganse alerta! Que la verdad y la justicia de Dios los vistan y protejan como una armadura. Compartan la buena noticia de la paz; ¡estén siempre listos a anunciarla! Que su confianza en Dios los proteja como un escudo, y apague las flechas encendidas que arroja el diablo. Que la salvación los proteja como un casco, y que los defienda la palabra de Dios, que es la espada del Espíritu Santo.\nNo se olviden de orar. Y siempre que oren a Dios, dejen que los dirija el Espíritu Santo. Manténganse en estado de alerta, y no se den por vencidos. En sus oraciones, pidan siempre por todos los que forman parte del pueblo de Dios. Oren también por mí, y pídanle a Dios que me dé el valor de anunciar el plan que él había mantenido en secreto. El Señor me envió a anunciar ese plan, y por eso estoy preso. Pídanle a Dios que me dé el valor de anunciar sin ningún temor la buena noticia.\n\nLes envío a Tíquico, nuestro querido compañero y fiel servidor de Cristo, para que los anime y les cuente cómo estoy y qué hago.\nDeseo que Dios el Padre, y el Señor Jesucristo, les den paz, amor y confianza a todos los miembros de la iglesia. Y espero que Dios sea bueno con todos los que nunca dejan de amar a nuestro Señor Jesucristo.",
+      "chapter_html": "<div class=\"version vid176 iso6393spa\" data-vid=\"176\" data-iso6393=\"spa\">\n   <div class=\"book bkEPH\">\n      <div class=\"chapter ch6\" data-usfm=\"EPH.6\">\n         <div class=\"label\">6</div><div class=\"s1\"><span class=\"heading\">Los padres y los hijos</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"EPH.6.1\"><span class=\"label\">1</span><span class=\"content\">Hijos, obedezcan a sus padres. Ustedes son de </span><span class=\"w\"><span class=\"content\">Cristo</span></span><span class=\"content\">, y eso es lo que les corresponde hacer. </span></span><span class=\"verse v2\" data-usfm=\"EPH.6.2\"><span class=\"label\">2</span><span class=\"content\">El primer </span><span class=\"w\"><span class=\"content\">mandamiento</span></span><span class=\"content\"> que va acompa&#241;ado de una promesa es el siguiente: &#171;Obedezcan y cuiden a su padre y a su madre. </span></span><span class=\"verse v3\" data-usfm=\"EPH.6.3\"><span class=\"label\">3</span><span class=\"content\">As&#237; les ir&#225; bien, y podr&#225;n vivir muchos a&#241;os en la tierra.&#187;</span></span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"EPH.6.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"EPH.6.4\"><span class=\"label\">4</span><span class=\"content\">Y ustedes, padres, no hagan enojar a sus hijos. M&#225;s bien ed&#250;quenlos y denles ense&#241;anzas cristianas.</span></span></div><div class=\"s1\"><span class=\"heading\">Los esclavos y sus amos</span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"EPH.6.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"EPH.6.5\"><span class=\"label\">5</span><span class=\"content\">Esclavos y esclavas, obedezcan a los que aqu&#237; en la tierra son sus amos. Obed&#233;zcanlos con respeto, sinceridad, y de buena gana, como si estuvieran sirviendo a </span><span class=\"w\"><span class=\"content\">Cristo</span></span><span class=\"content\"> mismo. </span></span><span class=\"verse v6 v7\" data-usfm=\"EPH.6.6+EPH.6.7\"><span class=\"label\">6-7</span><span class=\"content\">Esto deben hacerlo en todo momento, y no solo cuando sus amos los est&#233;n viendo. Ustedes son esclavos de Cristo, as&#237; que deben hacer con alegr&#237;a y entusiasmo lo que Dios quiere que hagan, como si lo hicieran para el Se&#241;or y no solo para sus amos. </span></span><span class=\"verse v8\" data-usfm=\"EPH.6.8\"><span class=\"label\">8</span><span class=\"content\">Pueden estar seguros de que el Se&#241;or premiar&#225; a todos por lo bueno que hayan hecho, sin importar que hayan sido esclavos o libres.</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"EPH.6.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"EPH.6.9\"><span class=\"label\">9</span><span class=\"content\">Tambi&#233;n ustedes, amos, deben tratar a sus esclavos con igual respeto, y sin amenazas. Recuerden que tanto ustedes como ellos pertenecen al mismo due&#241;o. Ese due&#241;o es Dios, que est&#225; en el cielo, y &#233;l no tiene favoritos.</span></span></div><div class=\"s1\"><span class=\"heading\">La armadura de Dios</span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"EPH.6.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"EPH.6.10\"><span class=\"label\">10</span><span class=\"content\">Finalmente, dejen que el gran poder de </span><span class=\"w\"><span class=\"content\">Cristo</span></span><span class=\"content\"> les d&#233; las fuerzas necesarias. </span></span><span class=\"verse v11\" data-usfm=\"EPH.6.11\"><span class=\"label\">11</span><span class=\"content\">Prot&#233;janse con la armadura que Dios les ha dado, y as&#237; podr&#225;n resistir los ataques del diablo. </span></span><span class=\"verse v12\" data-usfm=\"EPH.6.12\"><span class=\"label\">12</span><span class=\"content\">Porque no luchamos contra gente como nosotros, sino contra esp&#237;ritus malvados que act&#250;an en el cielo. Ellos imponen su autoridad y su poder en el mundo actual. </span></span><span class=\"verse v13\" data-usfm=\"EPH.6.13\"><span class=\"label\">13</span><span class=\"content\">Por lo tanto, &#161;prot&#233;janse con la armadura completa! As&#237;, cuando llegue el d&#237;a malo, podr&#225;n resistir los ataques del enemigo y se mantendr&#225;n firmes hasta el fin.</span></span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"EPH.6.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"EPH.6.14\"><span class=\"label\">14</span><span class=\"content\">&#161;Mant&#233;nganse alerta! Que la verdad y la justicia de Dios los vistan y protejan como una armadura. </span></span><span class=\"verse v15\" data-usfm=\"EPH.6.15\"><span class=\"label\">15</span><span class=\"content\">Compartan la buena noticia de la paz; &#161;est&#233;n siempre listos a anunciarla! </span></span><span class=\"verse v16\" data-usfm=\"EPH.6.16\"><span class=\"label\">16</span><span class=\"content\">Que su confianza en Dios los proteja como un escudo, y apague las flechas encendidas que arroja el diablo. </span></span><span class=\"verse v17\" data-usfm=\"EPH.6.17\"><span class=\"label\">17</span><span class=\"content\">Que la </span><span class=\"w\"><span class=\"content\">salvaci&#243;n</span></span><span class=\"content\"> los proteja como un casco, y que los defienda la palabra de Dios, que es la espada del Esp&#237;ritu Santo.</span></span></div><div class=\"p\"><span class=\"verse v17\" data-usfm=\"EPH.6.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"EPH.6.18\"><span class=\"label\">18</span><span class=\"content\">No se olviden de orar. Y siempre que oren a Dios, dejen que los dirija el Esp&#237;ritu Santo. Mant&#233;nganse en estado de alerta, y no se den por vencidos. En sus oraciones, pidan siempre por todos los que forman parte del pueblo de Dios. </span></span><span class=\"verse v19\" data-usfm=\"EPH.6.19\"><span class=\"label\">19</span><span class=\"content\">Oren tambi&#233;n por m&#237;, y p&#237;danle a Dios que me d&#233; el valor de anunciar el plan que &#233;l hab&#237;a mantenido en secreto. </span></span><span class=\"verse v20\" data-usfm=\"EPH.6.20\"><span class=\"label\">20</span><span class=\"content\">El Se&#241;or me envi&#243; a anunciar ese plan, y por eso estoy preso. P&#237;danle a Dios que me d&#233; el valor de anunciar sin ning&#250;n temor la buena noticia.</span></span></div><div class=\"s1\"><span class=\"heading\">Saludos finales</span></div><div class=\"p\"><span class=\"verse v20\" data-usfm=\"EPH.6.20\"><span class=\"content\">  </span></span><span class=\"verse v21 v22\" data-usfm=\"EPH.6.21+EPH.6.22\"><span class=\"label\">21-22</span><span class=\"content\">Les env&#237;o a T&#237;quico, nuestro querido compa&#241;ero y fiel servidor de </span><span class=\"w\"><span class=\"content\">Cristo</span></span><span class=\"content\">, para que los anime y les cuente c&#243;mo estoy y qu&#233; hago.</span></span></div><div class=\"p\"><span class=\"verse v21 v22\" data-usfm=\"EPH.6.21+EPH.6.22\"><span class=\"content\">  </span></span><span class=\"verse v23\" data-usfm=\"EPH.6.23\"><span class=\"label\">23</span><span class=\"content\">Deseo que Dios el Padre, y el Se&#241;or Jesucristo, les den paz, amor y confianza a todos los miembros de la </span><span class=\"w\"><span class=\"content\">iglesia</span></span><span class=\"content\">. </span></span><span class=\"verse v24\" data-usfm=\"EPH.6.24\"><span class=\"label\">24</span><span class=\"content\">Y espero que Dios sea bueno con todos los que nunca dejan de amar a nuestro Se&#241;or Jesucristo.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Los padres y los hijos"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Hijos, obedezcan a sus padres. Ustedes son de Cristo, y eso es lo que les corresponde hacer."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "El primer mandamiento que va acompañado de una promesa es el siguiente: «Obedezcan y cuiden a su padre y a su madre."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Así les irá bien, y podrán vivir muchos años en la tierra.»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Y ustedes, padres, no hagan enojar a sus hijos. Más bien edúquenlos y denles enseñanzas cristianas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Los esclavos y sus amos"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Esclavos y esclavas, obedezcan a los que aquí en la tierra son sus amos. Obedézcanlos con respeto, sinceridad, y de buena gana, como si estuvieran sirviendo a Cristo mismo.",
+            "Esto deben hacerlo en todo momento, y no solo cuando sus amos los estén viendo. Ustedes son esclavos de Cristo, así que deben hacer con alegría y entusiasmo lo que Dios quiere que hagan, como si lo hicieran para el Señor y no solo para sus amos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Pueden estar seguros de que el Señor premiará a todos por lo bueno que hayan hecho, sin importar que hayan sido esclavos o libres."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "También ustedes, amos, deben tratar a sus esclavos con igual respeto, y sin amenazas. Recuerden que tanto ustedes como ellos pertenecen al mismo dueño. Ese dueño es Dios, que está en el cielo, y él no tiene favoritos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "La armadura de Dios"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Finalmente, dejen que el gran poder de Cristo les dé las fuerzas necesarias."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Protéjanse con la armadura que Dios les ha dado, y así podrán resistir los ataques del diablo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Porque no luchamos contra gente como nosotros, sino contra espíritus malvados que actúan en el cielo. Ellos imponen su autoridad y su poder en el mundo actual."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Por lo tanto, ¡protéjanse con la armadura completa! Así, cuando llegue el día malo, podrán resistir los ataques del enemigo y se mantendrán firmes hasta el fin."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "¡Manténganse alerta! Que la verdad y la justicia de Dios los vistan y protejan como una armadura."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Compartan la buena noticia de la paz; ¡estén siempre listos a anunciarla!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Que su confianza en Dios los proteja como un escudo, y apague las flechas encendidas que arroja el diablo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Que la salvación los proteja como un casco, y que los defienda la palabra de Dios, que es la espada del Espíritu Santo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "No se olviden de orar. Y siempre que oren a Dios, dejen que los dirija el Espíritu Santo. Manténganse en estado de alerta, y no se den por vencidos. En sus oraciones, pidan siempre por todos los que forman parte del pueblo de Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Oren también por mí, y pídanle a Dios que me dé el valor de anunciar el plan que él había mantenido en secreto."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "El Señor me envió a anunciar ese plan, y por eso estoy preso. Pídanle a Dios que me dé el valor de anunciar sin ningún temor la buena noticia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Saludos finales"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "Deseo que Dios el Padre, y el Señor Jesucristo, les den paz, amor y confianza a todos los miembros de la iglesia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "Y espero que Dios sea bueno con todos los que nunca dejan de amar a nuestro Señor Jesucristo."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1086 @@
+{
+  "book_usfm": "1JN",
+  "name": "1 Juan",
+  "local_title": "Dios habla Hoy Estándar",
+  "local_abbreviation": "DHHS94",
+  "version_id": 1846,
+  "publisher": {
+    "name": "United Bible Societies"
+  },
+  "copyright": {
+    "html": "<p>Bible text: LA BIBLIA DIOS HABLA HOY, Tercera edición © Sociedades Bíblicas Unidas 1966, 1970, 1979, 1983, 1994, 1996</p> <p>Todos los derechos reservados. www.unitedbiblesocieties.org/</p>",
+    "text": "Bible text: LA BIBLIA DIOS HABLA HOY, Tercera edición © Sociedades Bíblicas Unidas 1966, 1970, 1979, 1983, 1994, 1996 Todos los derechos reservados. www.unitedbiblesocieties.org/"
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "1JN.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "1JN.1"
+        ],
+        "human": "1 Juan 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "1JN.2"
+        ],
+        "human": "1 Juan 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "2PE.3"
+        ],
+        "human": "2 Pedro 3",
+        "toc": true
+      },
+      "chapter_text": "Les escribimos a ustedes acerca de aquello que ya existía desde el principio, de lo que hemos oído y de lo que hemos visto con nuestros propios ojos. Porque lo hemos visto y lo hemos tocado con nuestras manos. Se trata de la Palabra de vida. Esta vida se manifestó: nosotros la vimos y damos testimonio de ella, y les anunciamos a ustedes esta vida eterna, la cual estaba con el Padre y se nos ha manifestado. Les anunciamos, pues, lo que hemos visto y oído, para que ustedes estén unidos con nosotros, como nosotros estamos unidos con Dios el Padre y con su Hijo Jesucristo. Escribimos estas cosas para que nuestra alegría sea completa.\n\nEste es el mensaje que Jesucristo nos enseñó y que les anunciamos a ustedes: que Dios es luz y que en él no hay ninguna oscuridad. Si decimos que estamos unidos a él, y al mismo tiempo vivimos en la oscuridad, mentimos y no practicamos la verdad. Pero si vivimos en la luz, así como Dios está en la luz, entonces hay unión entre nosotros, y la sangre de su Hijo Jesús nos limpia de todo pecado.\nSi decimos que no tenemos pecado, nos engañamos a nosotros mismos y no hay verdad en nosotros; pero si confesamos nuestros pecados, podemos confiar en que Dios, que es justo, nos perdonará nuestros pecados y nos limpiará de toda maldad. Si decimos que no hemos cometido pecado, hacemos que Dios parezca mentiroso y no hemos aceptado verdaderamente su palabra.",
+      "chapter_html": "<div class=\"version vid1846 iso6393spa\" data-vid=\"1846\" data-iso6393=\"spa\">\n   <div class=\"book bk1JN\">\n      <div class=\"chapter ch1\" data-usfm=\"1JN.1\">\n         <div class=\"label\">1</div><div class=\"s1\"><span class=\"heading\">La palabra de vida </span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"1JN.1.1\"><span class=\"label\">1</span><span class=\"content\">Les escribimos a ustedes acerca de aquello que ya exist&#237;a desde el principio, de lo que hemos o&#237;do y de lo que hemos visto con nuestros propios ojos. Porque lo hemos visto y lo hemos tocado con nuestras manos. Se trata de la Palabra de vida. </span></span><span class=\"verse v2\" data-usfm=\"1JN.1.2\"><span class=\"label\">2</span><span class=\"content\">Esta vida se manifest&#243;: nosotros la vimos y damos testimonio de ella, y les anunciamos a ustedes esta vida eterna, la cual estaba con el Padre y se nos ha manifestado. </span></span><span class=\"verse v3\" data-usfm=\"1JN.1.3\"><span class=\"label\">3</span><span class=\"content\">Les anunciamos, pues, lo que hemos visto y o&#237;do, para que ustedes est&#233;n unidos con nosotros, como nosotros estamos unidos con Dios el Padre y con su Hijo Jesucristo. </span></span><span class=\"verse v4\" data-usfm=\"1JN.1.4\"><span class=\"label\">4</span><span class=\"content\">Escribimos estas cosas para que nuestra alegr&#237;a sea completa.</span></span></div><div class=\"s1\"><span class=\"heading\">Liberaci&#243;n del pecado</span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"1JN.1.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"1JN.1.5\"><span class=\"label\">5</span><span class=\"content\">Este es el mensaje que Jesucristo nos ense&#241;&#243; y que les anunciamos a ustedes: que Dios es luz y que en &#233;l no hay ninguna oscuridad. </span></span><span class=\"verse v6\" data-usfm=\"1JN.1.6\"><span class=\"label\">6</span><span class=\"content\">Si decimos que estamos unidos a &#233;l, y al mismo tiempo vivimos en la oscuridad, mentimos y no practicamos la verdad. </span></span><span class=\"verse v7\" data-usfm=\"1JN.1.7\"><span class=\"label\">7</span><span class=\"content\">Pero si vivimos en la luz, as&#237; como Dios est&#225; en la luz, entonces hay uni&#243;n entre nosotros, y la sangre de su Hijo Jes&#250;s nos limpia de todo pecado.</span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"1JN.1.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"1JN.1.8\"><span class=\"label\">8</span><span class=\"content\">Si decimos que no tenemos pecado, nos enga&#241;amos a nosotros mismos y no hay verdad en nosotros; </span></span><span class=\"verse v9\" data-usfm=\"1JN.1.9\"><span class=\"label\">9</span><span class=\"content\">pero si confesamos nuestros pecados, podemos confiar en que Dios, que es justo, nos perdonar&#225; nuestros pecados y nos limpiar&#225; de toda maldad. </span></span><span class=\"verse v10\" data-usfm=\"1JN.1.10\"><span class=\"label\">10</span><span class=\"content\">Si decimos que no hemos cometido pecado, hacemos que Dios parezca mentiroso y no hemos aceptado verdaderamente su palabra.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "La palabra de vida"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Les escribimos a ustedes acerca de aquello que ya existía desde el principio, de lo que hemos oído y de lo que hemos visto con nuestros propios ojos. Porque lo hemos visto y lo hemos tocado con nuestras manos. Se trata de la Palabra de vida."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Esta vida se manifestó: nosotros la vimos y damos testimonio de ella, y les anunciamos a ustedes esta vida eterna, la cual estaba con el Padre y se nos ha manifestado."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Les anunciamos, pues, lo que hemos visto y oído, para que ustedes estén unidos con nosotros, como nosotros estamos unidos con Dios el Padre y con su Hijo Jesucristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Escribimos estas cosas para que nuestra alegría sea completa."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Liberación del pecado"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Este es el mensaje que Jesucristo nos enseñó y que les anunciamos a ustedes: que Dios es luz y que en él no hay ninguna oscuridad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Si decimos que estamos unidos a él, y al mismo tiempo vivimos en la oscuridad, mentimos y no practicamos la verdad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Pero si vivimos en la luz, así como Dios está en la luz, entonces hay unión entre nosotros, y la sangre de su Hijo Jesús nos limpia de todo pecado."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Si decimos que no tenemos pecado, nos engañamos a nosotros mismos y no hay verdad en nosotros;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "pero si confesamos nuestros pecados, podemos confiar en que Dios, que es justo, nos perdonará nuestros pecados y nos limpiará de toda maldad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Si decimos que no hemos cometido pecado, hacemos que Dios parezca mentiroso y no hemos aceptado verdaderamente su palabra."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "1JN.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "1JN.2"
+        ],
+        "human": "1 Juan 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "1JN.3"
+        ],
+        "human": "1 Juan 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "1JN.1"
+        ],
+        "human": "1 Juan 1",
+        "toc": true
+      },
+      "chapter_text": "Hijitos míos, les escribo estas cosas para que no cometan pecado. Aunque si alguno comete pecado, tenemos ante el Padre un defensor, que es Jesucristo, y él es justo. Jesucristo se ofreció en sacrificio para que nuestros pecados sean perdonados; y no solo los nuestros, sino los de todo el mundo.\n\nSi obedecemos los mandamientos de Dios, podemos estar seguros de que hemos llegado a conocerlo. Pero si alguno dice: «Yo lo conozco», y no obedece sus mandamientos, es un mentiroso y no hay verdad en él. En cambio, si uno obedece su palabra, en él se ha perfeccionado verdaderamente el amor de Dios, y de ese modo sabemos que estamos unidos a él. El que dice que está unido a Dios, debe vivir como vivió Jesucristo.\nQueridos hermanos, este mandamiento que les escribo no es nuevo: es el mismo que ustedes recibieron desde el principio. Este mandamiento antiguo es el mensaje que ya oyeron. Y, sin embargo, esto que les escribo es un mandamiento nuevo, que es verdad tanto en Cristo como en ustedes, porque la oscuridad va pasando y ya brilla la luz verdadera.\nSi alguno dice que está en la luz, pero odia a su hermano, todavía está en la oscuridad. El que ama a su hermano vive en la luz, y no hay nada que lo haga caer. Pero el que odia a su hermano vive y anda en la oscuridad, y no sabe a dónde va, porque la oscuridad lo ha dejado ciego.\n\nHijitos, les escribo a ustedes porque Dios, gracias a Jesucristo, les ha perdonado sus pecados. Padres, les escribo a ustedes porque han conocido al que ya existía desde el principio. Jóvenes, les escribo a ustedes porque han vencido al maligno.\nLes he escrito a ustedes, hijitos, porque han conocido al Padre. Les he escrito a ustedes, padres, porque han conocido al que ya existía desde el principio. Les he escrito también a ustedes, jóvenes, porque son fuertes y han aceptado la palabra de Dios en su corazón, y porque han vencido al maligno.\nNo amen al mundo, ni lo que hay en el mundo. Si alguno ama al mundo, no ama al Padre; porque nada de lo que el mundo ofrece viene del Padre, sino del mundo mismo. Y esto es lo que el mundo ofrece: los malos deseos de la naturaleza humana, el deseo de poseer lo que agrada a los ojos y el orgullo de las riquezas. Pero el mundo se va acabando, con todos sus malos deseos; en cambio, el que hace la voluntad de Dios vive para siempre.\nHijitos, esta es la hora última. Ustedes han oído que viene el Anticristo; pues bien, ahora han aparecido muchos anticristos. Por eso sabemos que es la hora última. Ellos salieron de entre nosotros; pero en realidad no eran de los nuestros, porque si lo hubieran sido se habrían quedado con nosotros. Pero sucedió así para que se viera claramente que no todos son de los nuestros.\nCristo, el Santo, los ha consagrado a ustedes con el Espíritu, y todos ustedes tienen conocimiento. Les escribo, pues, no porque no conozcan la verdad, sino porque la conocen; y ustedes saben que ninguna mentira puede venir de la verdad. ¿Quién es el mentiroso? Precisamente el que dice que Jesús no es el Mesías. Ese es el Anticristo, pues niega tanto al Padre como al Hijo. Cualquiera que niega al Hijo, tampoco tiene al Padre; pero el que se declara a favor del Hijo, tiene también al Padre.\nPor eso, guarden ustedes en su corazón el mensaje que oyeron desde el principio; y si lo que oyeron desde el principio queda en su corazón, también ustedes permanecerán unidos con el Hijo y con el Padre. Esto es precisamente lo que nos ha prometido Jesucristo: la vida eterna.\nLes estoy escribiendo acerca de quienes tratan de engañarlos. Pero ustedes tienen el Espíritu Santo con el que Jesucristo los ha consagrado, y no necesitan que nadie les enseñe, porque el Espíritu que él les ha dado los instruye acerca de todas las cosas, y sus enseñanzas son verdad y no mentira. Permanezcan unidos a Cristo, conforme a lo que el Espíritu les ha enseñado.\nAhora, hijitos, permanezcan unidos a Cristo, para que tengamos confianza cuando él aparezca y no sintamos vergüenza delante de él cuando venga.\n\nYa que ustedes saben que Jesucristo es justo, deben saber también que todos los que hacen lo que es justo son hijos de Dios.",
+      "chapter_html": "<div class=\"version vid1846 iso6393spa\" data-vid=\"1846\" data-iso6393=\"spa\">\n   <div class=\"book bk1JN\">\n      <div class=\"chapter ch2\" data-usfm=\"1JN.2\">\n         <div class=\"label\">2</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"1JN.2.1\"><span class=\"label\">1</span><span class=\"content\">Hijitos m&#237;os, les escribo estas cosas para que no cometan pecado. Aunque si alguno comete pecado, tenemos ante el Padre un defensor, que es Jesucristo, y &#233;l es justo. </span></span><span class=\"verse v2\" data-usfm=\"1JN.2.2\"><span class=\"label\">2</span><span class=\"content\">Jesucristo se ofreci&#243; en sacrificio para que nuestros pecados sean perdonados; y no solo los nuestros, sino los de todo el mundo.</span></span></div><div class=\"s1\"><span class=\"heading\">El mandamiento del amor</span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"1JN.2.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"1JN.2.3\"><span class=\"label\">3</span><span class=\"content\">Si obedecemos los mandamientos de Dios, podemos estar seguros de que hemos llegado a conocerlo. </span></span><span class=\"verse v4\" data-usfm=\"1JN.2.4\"><span class=\"label\">4</span><span class=\"content\">Pero si alguno dice: &#171;Yo lo conozco&#187;, y no obedece sus mandamientos, es un mentiroso y no hay verdad en &#233;l. </span></span><span class=\"verse v5\" data-usfm=\"1JN.2.5\"><span class=\"label\">5</span><span class=\"content\">En cambio, si uno obedece su palabra, en &#233;l se ha perfeccionado verdaderamente el amor de Dios, y de ese modo sabemos que estamos unidos a &#233;l. </span></span><span class=\"verse v6\" data-usfm=\"1JN.2.6\"><span class=\"label\">6</span><span class=\"content\">El que dice que est&#225; unido a Dios, debe vivir como vivi&#243; Jesucristo.</span></span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"1JN.2.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"1JN.2.7\"><span class=\"label\">7</span><span class=\"content\">Queridos hermanos, este mandamiento que les escribo no es nuevo: es el mismo que ustedes recibieron desde el principio. Este mandamiento antiguo es el mensaje que ya oyeron. </span></span><span class=\"verse v8\" data-usfm=\"1JN.2.8\"><span class=\"label\">8</span><span class=\"content\">Y, sin embargo, esto que les escribo es un mandamiento nuevo, que es verdad tanto en Cristo como en ustedes, porque la oscuridad va pasando y ya brilla la luz verdadera.</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"1JN.2.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"1JN.2.9\"><span class=\"label\">9</span><span class=\"content\">Si alguno dice que est&#225; en la luz, pero odia a su hermano, todav&#237;a est&#225; en la oscuridad. </span></span><span class=\"verse v10\" data-usfm=\"1JN.2.10\"><span class=\"label\">10</span><span class=\"content\">El que ama a su hermano vive en la luz, y no hay nada que lo haga caer. </span></span><span class=\"verse v11\" data-usfm=\"1JN.2.11\"><span class=\"label\">11</span><span class=\"content\">Pero el que odia a su hermano vive y anda en la oscuridad, y no sabe a d&#243;nde va, porque la oscuridad lo ha dejado ciego. </span></span></div><div class=\"s1\"><span class=\"heading\">La verdadera fe</span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"1JN.2.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"1JN.2.12\"><span class=\"label\">12</span><span class=\"content\">Hijitos, les escribo a ustedes porque Dios, gracias a Jesucristo, les ha perdonado sus pecados. </span></span><span class=\"verse v13\" data-usfm=\"1JN.2.13\"><span class=\"label\">13</span><span class=\"content\">Padres, les escribo a ustedes porque han conocido al que ya exist&#237;a desde el principio. J&#243;venes, les escribo a ustedes porque han vencido al maligno. </span></span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"1JN.2.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"1JN.2.14\"><span class=\"label\">14</span><span class=\"content\">Les he escrito a ustedes, hijitos, porque han conocido al Padre. Les he escrito a ustedes, padres, porque han conocido al que ya exist&#237;a desde el principio. Les he escrito tambi&#233;n a ustedes, j&#243;venes, porque son fuertes y han aceptado la palabra de Dios en su coraz&#243;n, y porque han vencido al maligno.</span></span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"1JN.2.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"1JN.2.15\"><span class=\"label\">15</span><span class=\"content\">No amen al mundo, ni lo que hay en el mundo. Si alguno ama al mundo, no ama al Padre; </span></span><span class=\"verse v16\" data-usfm=\"1JN.2.16\"><span class=\"label\">16</span><span class=\"content\">porque nada de lo que el mundo ofrece viene del Padre, sino del mundo mismo. Y esto es lo que el mundo ofrece: los malos deseos de la naturaleza humana, el deseo de poseer lo que agrada a los ojos y el orgullo de las riquezas. </span></span><span class=\"verse v17\" data-usfm=\"1JN.2.17\"><span class=\"label\">17</span><span class=\"content\">Pero el mundo se va acabando, con todos sus malos deseos; en cambio, el que hace la voluntad de Dios vive para siempre.</span></span></div><div class=\"p\"><span class=\"verse v17\" data-usfm=\"1JN.2.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"1JN.2.18\"><span class=\"label\">18</span><span class=\"content\">Hijitos, esta es la hora &#250;ltima. Ustedes han o&#237;do que viene el Anticristo; pues bien, ahora han aparecido muchos anticristos. Por eso sabemos que es la hora &#250;ltima. </span></span><span class=\"verse v19\" data-usfm=\"1JN.2.19\"><span class=\"label\">19</span><span class=\"content\">Ellos salieron de entre nosotros; pero en realidad no eran de los nuestros, porque si lo hubieran sido se habr&#237;an quedado con nosotros. Pero sucedi&#243; as&#237; para que se viera claramente que no todos son de los nuestros.</span></span></div><div class=\"p\"><span class=\"verse v19\" data-usfm=\"1JN.2.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"1JN.2.20\"><span class=\"label\">20</span><span class=\"content\">Cristo, el Santo, los ha consagrado a ustedes con el Esp&#237;ritu, y todos ustedes tienen conocimiento. </span></span><span class=\"verse v21\" data-usfm=\"1JN.2.21\"><span class=\"label\">21</span><span class=\"content\">Les escribo, pues, no porque no conozcan la verdad, sino porque la conocen; y ustedes saben que ninguna mentira puede venir de la verdad. </span></span><span class=\"verse v22\" data-usfm=\"1JN.2.22\"><span class=\"label\">22</span><span class=\"content\">&#191;Qui&#233;n es el mentiroso? Precisamente el que dice que Jes&#250;s no es el Mes&#237;as. Ese es el Anticristo, pues niega tanto al Padre como al Hijo. </span></span><span class=\"verse v23\" data-usfm=\"1JN.2.23\"><span class=\"label\">23</span><span class=\"content\">Cualquiera que niega al Hijo, tampoco tiene al Padre; pero el que se declara a favor del Hijo, tiene tambi&#233;n al Padre.</span></span></div><div class=\"p\"><span class=\"verse v23\" data-usfm=\"1JN.2.23\"><span class=\"content\">  </span></span><span class=\"verse v24\" data-usfm=\"1JN.2.24\"><span class=\"label\">24</span><span class=\"content\">Por eso, guarden ustedes en su coraz&#243;n el mensaje que oyeron desde el principio; y si lo que oyeron desde el principio queda en su coraz&#243;n, tambi&#233;n ustedes permanecer&#225;n unidos con el Hijo y con el Padre. </span></span><span class=\"verse v25\" data-usfm=\"1JN.2.25\"><span class=\"label\">25</span><span class=\"content\">Esto es precisamente lo que nos ha prometido Jesucristo: la vida eterna. </span></span></div><div class=\"p\"><span class=\"verse v25\" data-usfm=\"1JN.2.25\"><span class=\"content\">  </span></span><span class=\"verse v26\" data-usfm=\"1JN.2.26\"><span class=\"label\">26</span><span class=\"content\">Les estoy escribiendo acerca de quienes tratan de enga&#241;arlos. </span></span><span class=\"verse v27\" data-usfm=\"1JN.2.27\"><span class=\"label\">27</span><span class=\"content\">Pero ustedes tienen el Esp&#237;ritu Santo con el que Jesucristo los ha consagrado, y no necesitan que nadie les ense&#241;e, porque el Esp&#237;ritu que &#233;l les ha dado los instruye acerca de todas las cosas, y sus ense&#241;anzas son verdad y no mentira. Permanezcan unidos a Cristo, conforme a lo que el Esp&#237;ritu les ha ense&#241;ado.</span></span></div><div class=\"p\"><span class=\"verse v27\" data-usfm=\"1JN.2.27\"><span class=\"content\">  </span></span><span class=\"verse v28\" data-usfm=\"1JN.2.28\"><span class=\"label\">28</span><span class=\"content\">Ahora, hijitos, permanezcan unidos a Cristo, para que tengamos confianza cuando &#233;l aparezca y no sintamos verg&#252;enza delante de &#233;l cuando venga.</span></span></div><div class=\"s1\"><span class=\"heading\">1. Liberaci&#243;n del pecado</span></div><div class=\"p\"><span class=\"verse v28\" data-usfm=\"1JN.2.28\"><span class=\"content\">  </span></span><span class=\"verse v29\" data-usfm=\"1JN.2.29\"><span class=\"label\">29</span><span class=\"content\">Ya que ustedes saben que Jesucristo es justo, deben saber tambi&#233;n que todos los que hacen lo que es justo son hijos de Dios.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Hijitos míos, les escribo estas cosas para que no cometan pecado. Aunque si alguno comete pecado, tenemos ante el Padre un defensor, que es Jesucristo, y él es justo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Jesucristo se ofreció en sacrificio para que nuestros pecados sean perdonados; y no solo los nuestros, sino los de todo el mundo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "El mandamiento del amor"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Si obedecemos los mandamientos de Dios, podemos estar seguros de que hemos llegado a conocerlo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Pero si alguno dice: «Yo lo conozco», y no obedece sus mandamientos, es un mentiroso y no hay verdad en él."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "En cambio, si uno obedece su palabra, en él se ha perfeccionado verdaderamente el amor de Dios, y de ese modo sabemos que estamos unidos a él."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "El que dice que está unido a Dios, debe vivir como vivió Jesucristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Queridos hermanos, este mandamiento que les escribo no es nuevo: es el mismo que ustedes recibieron desde el principio. Este mandamiento antiguo es el mensaje que ya oyeron."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Y, sin embargo, esto que les escribo es un mandamiento nuevo, que es verdad tanto en Cristo como en ustedes, porque la oscuridad va pasando y ya brilla la luz verdadera."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Si alguno dice que está en la luz, pero odia a su hermano, todavía está en la oscuridad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "El que ama a su hermano vive en la luz, y no hay nada que lo haga caer."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Pero el que odia a su hermano vive y anda en la oscuridad, y no sabe a dónde va, porque la oscuridad lo ha dejado ciego."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "La verdadera fe"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Hijitos, les escribo a ustedes porque Dios, gracias a Jesucristo, les ha perdonado sus pecados."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Padres, les escribo a ustedes porque han conocido al que ya existía desde el principio. Jóvenes, les escribo a ustedes porque han vencido al maligno."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Les he escrito a ustedes, hijitos, porque han conocido al Padre. Les he escrito a ustedes, padres, porque han conocido al que ya existía desde el principio. Les he escrito también a ustedes, jóvenes, porque son fuertes y han aceptado la palabra de Dios en su corazón, y porque han vencido al maligno."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "No amen al mundo, ni lo que hay en el mundo. Si alguno ama al mundo, no ama al Padre;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "porque nada de lo que el mundo ofrece viene del Padre, sino del mundo mismo. Y esto es lo que el mundo ofrece: los malos deseos de la naturaleza humana, el deseo de poseer lo que agrada a los ojos y el orgullo de las riquezas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Pero el mundo se va acabando, con todos sus malos deseos; en cambio, el que hace la voluntad de Dios vive para siempre."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Hijitos, esta es la hora última. Ustedes han oído que viene el Anticristo; pues bien, ahora han aparecido muchos anticristos. Por eso sabemos que es la hora última."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Ellos salieron de entre nosotros; pero en realidad no eran de los nuestros, porque si lo hubieran sido se habrían quedado con nosotros. Pero sucedió así para que se viera claramente que no todos son de los nuestros."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Cristo, el Santo, los ha consagrado a ustedes con el Espíritu, y todos ustedes tienen conocimiento."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "Les escribo, pues, no porque no conozcan la verdad, sino porque la conocen; y ustedes saben que ninguna mentira puede venir de la verdad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "¿Quién es el mentiroso? Precisamente el que dice que Jesús no es el Mesías. Ese es el Anticristo, pues niega tanto al Padre como al Hijo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "Cualquiera que niega al Hijo, tampoco tiene al Padre; pero el que se declara a favor del Hijo, tiene también al Padre."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "Por eso, guarden ustedes en su corazón el mensaje que oyeron desde el principio; y si lo que oyeron desde el principio queda en su corazón, también ustedes permanecerán unidos con el Hijo y con el Padre."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "Esto es precisamente lo que nos ha prometido Jesucristo: la vida eterna."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 26,
+          "lines": [
+            "Les estoy escribiendo acerca de quienes tratan de engañarlos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 27,
+          "lines": [
+            "Pero ustedes tienen el Espíritu Santo con el que Jesucristo los ha consagrado, y no necesitan que nadie les enseñe, porque el Espíritu que él les ha dado los instruye acerca de todas las cosas, y sus enseñanzas son verdad y no mentira. Permanezcan unidos a Cristo, conforme a lo que el Espíritu les ha enseñado."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 28,
+          "lines": [
+            "Ahora, hijitos, permanezcan unidos a Cristo, para que tengamos confianza cuando él aparezca y no sintamos vergüenza delante de él cuando venga."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "1. Liberación del pecado"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 29,
+          "lines": [
+            "Ya que ustedes saben que Jesucristo es justo, deben saber también que todos los que hacen lo que es justo son hijos de Dios."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "1JN.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "1JN.3"
+        ],
+        "human": "1 Juan 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "1JN.4"
+        ],
+        "human": "1 Juan 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "1JN.2"
+        ],
+        "human": "1 Juan 2",
+        "toc": true
+      },
+      "chapter_text": "Miren cuánto nos ama Dios el Padre, que se nos puede llamar hijos de Dios, y lo somos. Por eso, los que son del mundo no nos conocen, pues no han conocido a Dios. Queridos hermanos, ya somos hijos de Dios. Y aunque no se ve todavía lo que seremos después, sabemos que cuando Jesucristo aparezca seremos como él, porque lo veremos tal como es. Y todo el que tiene esta esperanza en él, se purifica a sí mismo, de la misma manera que Jesucristo es puro.\nPero todo el que peca, hace maldad; porque el pecado es la maldad. Ustedes ya saben que Jesucristo vino al mundo para quitar los pecados, y que él no tiene pecado alguno. Así pues, todo el que permanece unido a él, no sigue pecando; pero todo el que peca, no lo ha visto ni lo ha conocido. Hijitos míos, que nadie los engañe: el que practica la justicia es justo, como él es justo; pero el que practica el pecado es del diablo, porque el diablo peca desde el principio. Precisamente para esto ha venido el Hijo de Dios: para deshacer lo hecho por el diablo.\nNinguno que sea hijo de Dios practica el pecado, porque tiene en sí mismo el germen de la vida de Dios; y no puede seguir pecando porque es hijo de Dios. Se sabe quiénes son hijos de Dios y quiénes son hijos del diablo, porque cualquiera que no hace el bien o no ama a su hermano, no es de Dios.\n\nEste es el mensaje que han oído ustedes desde el principio: que nos amemos unos a otros. No seamos como Caín, que era del maligno y mató a su hermano. ¿Y por qué lo mató? Pues porque los hechos de Caín eran malos, y los de su hermano, buenos.\nHermanos míos, no se extrañen si los que son del mundo los odian. Nosotros hemos pasado de la muerte a la vida, y lo sabemos porque amamos a nuestros hermanos. El que no ama, aún está muerto. Todo el que odia a su hermano es un asesino, y ustedes saben que ningún asesino puede tener vida eterna en sí mismo. Conocemos lo que es el amor porque Jesucristo dio su vida por nosotros; así también, nosotros debemos dar la vida por nuestros hermanos. Pues si uno es rico y ve que su hermano necesita ayuda, pero no se la da, ¿cómo puede tener amor de Dios en su corazón? Hijitos míos, que nuestro amor no sea solamente de palabra, sino que se demuestre con hechos.\nDe esta manera sabremos que somos de la verdad, y podremos sentirnos seguros delante de Dios; pues si nuestro corazón nos acusa de algo, Dios es más grande que nuestro corazón, y lo sabe todo. Queridos hermanos, si nuestro corazón no nos acusa, tenemos confianza delante de Dios; y él nos dará todo lo que le pidamos, porque obedecemos sus mandamientos y hacemos lo que le agrada. Y su mandamiento es que creamos en su Hijo Jesucristo, y que nos amemos unos a otros como él nos mandó. Los que obedecen sus mandamientos viven en él, y él vive en ellos. Y en esto sabemos que él vive en nosotros: por el Espíritu que nos ha dado.",
+      "chapter_html": "<div class=\"version vid1846 iso6393spa\" data-vid=\"1846\" data-iso6393=\"spa\">\n   <div class=\"book bk1JN\">\n      <div class=\"chapter ch3\" data-usfm=\"1JN.3\">\n         <div class=\"label\">3</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"1JN.3.1\"><span class=\"label\">1</span><span class=\"content\">Miren cu&#225;nto nos ama Dios el Padre, que se nos puede llamar hijos de Dios, y lo somos. Por eso, los que son del mundo no nos conocen, pues no han conocido a Dios. </span></span><span class=\"verse v2\" data-usfm=\"1JN.3.2\"><span class=\"label\">2</span><span class=\"content\">Queridos hermanos, ya somos hijos de Dios. Y aunque no se ve todav&#237;a lo que seremos despu&#233;s, sabemos que cuando Jesucristo aparezca seremos como &#233;l, porque lo veremos tal como es. </span></span><span class=\"verse v3\" data-usfm=\"1JN.3.3\"><span class=\"label\">3</span><span class=\"content\">Y todo el que tiene esta esperanza en &#233;l, se purifica a s&#237; mismo, de la misma manera que Jesucristo es puro.</span></span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"1JN.3.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"1JN.3.4\"><span class=\"label\">4</span><span class=\"content\">Pero todo el que peca, hace maldad; porque el pecado es la maldad. </span></span><span class=\"verse v5\" data-usfm=\"1JN.3.5\"><span class=\"label\">5</span><span class=\"content\">Ustedes ya saben que Jesucristo vino al mundo para quitar los pecados, y que &#233;l no tiene pecado alguno. </span></span><span class=\"verse v6\" data-usfm=\"1JN.3.6\"><span class=\"label\">6</span><span class=\"content\">As&#237; pues, todo el que permanece unido a &#233;l, no sigue pecando; pero todo el que peca, no lo ha visto ni lo ha conocido. </span></span><span class=\"verse v7\" data-usfm=\"1JN.3.7\"><span class=\"label\">7</span><span class=\"content\">Hijitos m&#237;os, que nadie los enga&#241;e: el que practica la justicia es justo, como &#233;l es justo; </span></span><span class=\"verse v8\" data-usfm=\"1JN.3.8\"><span class=\"label\">8</span><span class=\"content\">pero el que practica el pecado es del diablo, porque el diablo peca desde el principio. Precisamente para esto ha venido el Hijo de Dios: para deshacer lo hecho por el diablo.</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"1JN.3.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"1JN.3.9\"><span class=\"label\">9</span><span class=\"content\">Ninguno que sea hijo de Dios practica el pecado, porque tiene en s&#237; mismo el germen de la vida de Dios; y no puede seguir pecando porque es hijo de Dios. </span></span><span class=\"verse v10\" data-usfm=\"1JN.3.10\"><span class=\"label\">10</span><span class=\"content\">Se sabe qui&#233;nes son hijos de Dios y qui&#233;nes son hijos del diablo, porque cualquiera que no hace el bien o no ama a su hermano, no es de Dios.</span></span></div><div class=\"s1\"><span class=\"heading\">El mandamiento del amor</span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"1JN.3.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"1JN.3.11\"><span class=\"label\">11</span><span class=\"content\">Este es el mensaje que han o&#237;do ustedes desde el principio: que nos amemos unos a otros. </span></span><span class=\"verse v12\" data-usfm=\"1JN.3.12\"><span class=\"label\">12</span><span class=\"content\">No seamos como Ca&#237;n, que era del maligno y mat&#243; a su hermano. &#191;Y por qu&#233; lo mat&#243;? Pues porque los hechos de Ca&#237;n eran malos, y los de su hermano, buenos. </span></span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"1JN.3.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"1JN.3.13\"><span class=\"label\">13</span><span class=\"content\">Hermanos m&#237;os, no se extra&#241;en si los que son del mundo los odian. </span></span><span class=\"verse v14\" data-usfm=\"1JN.3.14\"><span class=\"label\">14</span><span class=\"content\">Nosotros hemos pasado de la muerte a la vida, y lo sabemos porque amamos a nuestros hermanos. El que no ama, a&#250;n est&#225; muerto. </span></span><span class=\"verse v15\" data-usfm=\"1JN.3.15\"><span class=\"label\">15</span><span class=\"content\">Todo el que odia a su hermano es un asesino, y ustedes saben que ning&#250;n asesino puede tener vida eterna en s&#237; mismo. </span></span><span class=\"verse v16\" data-usfm=\"1JN.3.16\"><span class=\"label\">16</span><span class=\"content\">Conocemos lo que es el amor porque Jesucristo dio su vida por nosotros; as&#237; tambi&#233;n, nosotros debemos dar la vida por nuestros hermanos. </span></span><span class=\"verse v17\" data-usfm=\"1JN.3.17\"><span class=\"label\">17</span><span class=\"content\">Pues si uno es rico y ve que su hermano necesita ayuda, pero no se la da, &#191;c&#243;mo puede tener amor de Dios en su coraz&#243;n? </span></span><span class=\"verse v18\" data-usfm=\"1JN.3.18\"><span class=\"label\">18</span><span class=\"content\">Hijitos m&#237;os, que nuestro amor no sea solamente de palabra, sino que se demuestre con hechos.</span></span></div><div class=\"p\"><span class=\"verse v18\" data-usfm=\"1JN.3.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"1JN.3.19\"><span class=\"label\">19</span><span class=\"content\">De esta manera sabremos que somos de la verdad, y podremos sentirnos seguros delante de Dios; </span></span><span class=\"verse v20\" data-usfm=\"1JN.3.20\"><span class=\"label\">20</span><span class=\"content\">pues si nuestro coraz&#243;n nos acusa de algo, Dios es m&#225;s grande que nuestro coraz&#243;n, y lo sabe todo. </span></span><span class=\"verse v21\" data-usfm=\"1JN.3.21\"><span class=\"label\">21</span><span class=\"content\">Queridos hermanos, si nuestro coraz&#243;n no nos acusa, tenemos confianza delante de Dios; </span></span><span class=\"verse v22\" data-usfm=\"1JN.3.22\"><span class=\"label\">22</span><span class=\"content\">y &#233;l nos dar&#225; todo lo que le pidamos, porque obedecemos sus mandamientos y hacemos lo que le agrada. </span></span><span class=\"verse v23\" data-usfm=\"1JN.3.23\"><span class=\"label\">23</span><span class=\"content\">Y su mandamiento es que creamos en su Hijo Jesucristo, y que nos amemos unos a otros como &#233;l nos mand&#243;. </span></span><span class=\"verse v24\" data-usfm=\"1JN.3.24\"><span class=\"label\">24</span><span class=\"content\">Los que obedecen sus mandamientos viven en &#233;l, y &#233;l vive en ellos. Y en esto sabemos que &#233;l vive en nosotros: por el Esp&#237;ritu que nos ha dado. </span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Miren cuánto nos ama Dios el Padre, que se nos puede llamar hijos de Dios, y lo somos. Por eso, los que son del mundo no nos conocen, pues no han conocido a Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Queridos hermanos, ya somos hijos de Dios. Y aunque no se ve todavía lo que seremos después, sabemos que cuando Jesucristo aparezca seremos como él, porque lo veremos tal como es."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Y todo el que tiene esta esperanza en él, se purifica a sí mismo, de la misma manera que Jesucristo es puro."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Pero todo el que peca, hace maldad; porque el pecado es la maldad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Ustedes ya saben que Jesucristo vino al mundo para quitar los pecados, y que él no tiene pecado alguno."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Así pues, todo el que permanece unido a él, no sigue pecando; pero todo el que peca, no lo ha visto ni lo ha conocido."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Hijitos míos, que nadie los engañe: el que practica la justicia es justo, como él es justo;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "pero el que practica el pecado es del diablo, porque el diablo peca desde el principio. Precisamente para esto ha venido el Hijo de Dios: para deshacer lo hecho por el diablo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Ninguno que sea hijo de Dios practica el pecado, porque tiene en sí mismo el germen de la vida de Dios; y no puede seguir pecando porque es hijo de Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Se sabe quiénes son hijos de Dios y quiénes son hijos del diablo, porque cualquiera que no hace el bien o no ama a su hermano, no es de Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "El mandamiento del amor"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Este es el mensaje que han oído ustedes desde el principio: que nos amemos unos a otros."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "No seamos como Caín, que era del maligno y mató a su hermano. ¿Y por qué lo mató? Pues porque los hechos de Caín eran malos, y los de su hermano, buenos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Hermanos míos, no se extrañen si los que son del mundo los odian."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Nosotros hemos pasado de la muerte a la vida, y lo sabemos porque amamos a nuestros hermanos. El que no ama, aún está muerto."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Todo el que odia a su hermano es un asesino, y ustedes saben que ningún asesino puede tener vida eterna en sí mismo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Conocemos lo que es el amor porque Jesucristo dio su vida por nosotros; así también, nosotros debemos dar la vida por nuestros hermanos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Pues si uno es rico y ve que su hermano necesita ayuda, pero no se la da, ¿cómo puede tener amor de Dios en su corazón?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Hijitos míos, que nuestro amor no sea solamente de palabra, sino que se demuestre con hechos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "De esta manera sabremos que somos de la verdad, y podremos sentirnos seguros delante de Dios;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "pues si nuestro corazón nos acusa de algo, Dios es más grande que nuestro corazón, y lo sabe todo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "Queridos hermanos, si nuestro corazón no nos acusa, tenemos confianza delante de Dios;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "y él nos dará todo lo que le pidamos, porque obedecemos sus mandamientos y hacemos lo que le agrada."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "Y su mandamiento es que creamos en su Hijo Jesucristo, y que nos amemos unos a otros como él nos mandó."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "Los que obedecen sus mandamientos viven en él, y él vive en ellos. Y en esto sabemos que él vive en nosotros: por el Espíritu que nos ha dado."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "1JN.4",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "1JN.4"
+        ],
+        "human": "1 Juan 4"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "1JN.5"
+        ],
+        "human": "1 Juan 5",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "1JN.3"
+        ],
+        "human": "1 Juan 3",
+        "toc": true
+      },
+      "chapter_text": "Queridos hermanos, no crean ustedes a todos los que dicen estar inspirados por Dios, sino pónganlos a prueba, a ver si el espíritu que hay en ellos es de Dios o no. Porque el mundo está lleno de falsos profetas. De esta manera pueden ustedes saber quién tiene el Espíritu de Dios: todo el que reconoce que Jesucristo vino como hombre verdadero, tiene el Espíritu de Dios. El que no reconoce así a Jesús, no tiene el Espíritu de Dios; al contrario, tiene el espíritu del Anticristo. Ustedes han oído que ese espíritu ha de venir; pues bien, ya está en el mundo.\nHijitos, ustedes son de Dios y han vencido a esos mentirosos, porque el que está en ustedes es más poderoso que el que está en el mundo. Ellos son del mundo; por eso hablan de las cosas del mundo, y los que son del mundo los escuchan. En cambio, nosotros somos de Dios. El que conoce a Dios nos escucha, pero el que no es de Dios no nos escucha. En esto, pues, podemos conocer quién tiene el espíritu de la verdad y quién tiene el espíritu del engaño.\n\nQueridos hermanos, debemos amarnos unos a otros, porque el amor viene de Dios. Todo el que ama es hijo de Dios y conoce a Dios. El que no ama no ha conocido a Dios, porque Dios es amor. Dios mostró su amor hacia nosotros al enviar a su Hijo único al mundo para que tengamos vida por él. El amor consiste en esto: no en que nosotros hayamos amado a Dios, sino en que él nos amó a nosotros y envió a su Hijo, para que, ofreciéndose en sacrificio, nuestros pecados quedaran perdonados.\nQueridos hermanos, si Dios nos ha amado así, nosotros también debemos amarnos unos a otros. A Dios nunca lo ha visto nadie; pero si nos amamos unos a otros, Dios vive en nosotros y su amor se hace realidad en nosotros. La prueba de que nosotros vivimos en Dios y de que él vive en nosotros, es que nos ha dado su Espíritu. Y nosotros mismos hemos visto y declaramos que el Padre envió a su Hijo para salvar al mundo. Cualquiera que reconoce que Jesús es el Hijo de Dios, vive en Dios y Dios en él.\nAsí hemos llegado a saber y creer que Dios nos ama. Dios es amor, y el que vive en el amor, vive en Dios y Dios en él. De esta manera se hace realidad el amor en nosotros, para que en el día del juicio tengamos confianza; porque nosotros somos en este mundo tal como es Jesucristo. Donde hay amor no hay miedo. Al contrario, el amor perfecto echa fuera el miedo, pues el miedo supone el castigo. Por eso, si alguien tiene miedo, es que no ha llegado a amar perfectamente.\nNosotros amamos porque él nos amó primero. Si alguno dice: «Yo amo a Dios», y al mismo tiempo odia a su hermano, es un mentiroso. Pues si uno no ama a su hermano, a quien ve, tampoco puede amar a Dios, a quien no ve. Jesucristo nos ha dado este mandamiento: que el que ama a Dios, ame también a su hermano.",
+      "chapter_html": "<div class=\"version vid1846 iso6393spa\" data-vid=\"1846\" data-iso6393=\"spa\">\n   <div class=\"book bk1JN\">\n      <div class=\"chapter ch4\" data-usfm=\"1JN.4\">\n         <div class=\"label\">4</div><div class=\"s1\"><span class=\"heading\">La verdadera fe</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"1JN.4.1\"><span class=\"label\">1</span><span class=\"content\">Queridos hermanos, no crean ustedes a todos los que dicen estar inspirados por Dios, sino p&#243;nganlos a prueba, a ver si el esp&#237;ritu que hay en ellos es de Dios o no. Porque el mundo est&#225; lleno de falsos profetas. </span></span><span class=\"verse v2\" data-usfm=\"1JN.4.2\"><span class=\"label\">2</span><span class=\"content\">De esta manera pueden ustedes saber qui&#233;n tiene el Esp&#237;ritu de Dios: todo el que reconoce que Jesucristo vino como hombre verdadero, tiene el Esp&#237;ritu de Dios. </span></span><span class=\"verse v3\" data-usfm=\"1JN.4.3\"><span class=\"label\">3</span><span class=\"content\">El que no reconoce as&#237; a Jes&#250;s, no tiene el Esp&#237;ritu de Dios; al contrario, tiene el esp&#237;ritu del Anticristo. Ustedes han o&#237;do que ese esp&#237;ritu ha de venir; pues bien, ya est&#225; en el mundo.</span></span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"1JN.4.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"1JN.4.4\"><span class=\"label\">4</span><span class=\"content\">Hijitos, ustedes son de Dios y han vencido a esos mentirosos, porque el que est&#225; en ustedes es m&#225;s poderoso que el que est&#225; en el mundo. </span></span><span class=\"verse v5\" data-usfm=\"1JN.4.5\"><span class=\"label\">5</span><span class=\"content\">Ellos son del mundo; por eso hablan de las cosas del mundo, y los que son del mundo los escuchan. </span></span><span class=\"verse v6\" data-usfm=\"1JN.4.6\"><span class=\"label\">6</span><span class=\"content\">En cambio, nosotros somos de Dios. El que conoce a Dios nos escucha, pero el que no es de Dios no nos escucha. En esto, pues, podemos conocer qui&#233;n tiene el esp&#237;ritu de la verdad y qui&#233;n tiene el esp&#237;ritu del enga&#241;o.</span></span></div><div class=\"s1\"><span class=\"heading\">El amor, se&#241;al de nuestra comuni&#243;n con Dios</span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"1JN.4.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"1JN.4.7\"><span class=\"label\">7</span><span class=\"content\">Queridos hermanos, debemos amarnos unos a otros, porque el amor viene de Dios. Todo el que ama es hijo de Dios y conoce a Dios. </span></span><span class=\"verse v8\" data-usfm=\"1JN.4.8\"><span class=\"label\">8</span><span class=\"content\">El que no ama no ha conocido a Dios, porque Dios es amor. </span></span><span class=\"verse v9\" data-usfm=\"1JN.4.9\"><span class=\"label\">9</span><span class=\"content\">Dios mostr&#243; su amor hacia nosotros al enviar a su Hijo &#250;nico al mundo para que tengamos vida por &#233;l. </span></span><span class=\"verse v10\" data-usfm=\"1JN.4.10\"><span class=\"label\">10</span><span class=\"content\">El amor consiste en esto: no en que nosotros hayamos amado a Dios, sino en que &#233;l nos am&#243; a nosotros y envi&#243; a su Hijo, para que, ofreci&#233;ndose en sacrificio, nuestros pecados quedaran perdonados. </span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"1JN.4.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"1JN.4.11\"><span class=\"label\">11</span><span class=\"content\">Queridos hermanos, si Dios nos ha amado as&#237;, nosotros tambi&#233;n debemos amarnos unos a otros. </span></span><span class=\"verse v12\" data-usfm=\"1JN.4.12\"><span class=\"label\">12</span><span class=\"content\">A Dios nunca lo ha visto nadie; pero si nos amamos unos a otros, Dios vive en nosotros y su amor se hace realidad en nosotros. </span></span><span class=\"verse v13\" data-usfm=\"1JN.4.13\"><span class=\"label\">13</span><span class=\"content\">La prueba de que nosotros vivimos en Dios y de que &#233;l vive en nosotros, es que nos ha dado su Esp&#237;ritu. </span></span><span class=\"verse v14\" data-usfm=\"1JN.4.14\"><span class=\"label\">14</span><span class=\"content\">Y nosotros mismos hemos visto y declaramos que el Padre envi&#243; a su Hijo para salvar al mundo. </span></span><span class=\"verse v15\" data-usfm=\"1JN.4.15\"><span class=\"label\">15</span><span class=\"content\">Cualquiera que reconoce que Jes&#250;s es el Hijo de Dios, vive en Dios y Dios en &#233;l.</span></span></div><div class=\"p\"><span class=\"verse v15\" data-usfm=\"1JN.4.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"1JN.4.16\"><span class=\"label\">16</span><span class=\"content\">As&#237; hemos llegado a saber y creer que Dios nos ama. Dios es amor, y el que vive en el amor, vive en Dios y Dios en &#233;l. </span></span><span class=\"verse v17\" data-usfm=\"1JN.4.17\"><span class=\"label\">17</span><span class=\"content\">De esta manera se hace realidad el amor en nosotros, para que en el d&#237;a del juicio tengamos confianza; porque nosotros somos en este mundo tal como es Jesucristo. </span></span><span class=\"verse v18\" data-usfm=\"1JN.4.18\"><span class=\"label\">18</span><span class=\"content\">Donde hay amor no hay miedo. Al contrario, el amor perfecto echa fuera el miedo, pues el miedo supone el castigo. Por eso, si alguien tiene miedo, es que no ha llegado a amar perfectamente.</span></span></div><div class=\"p\"><span class=\"verse v18\" data-usfm=\"1JN.4.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"1JN.4.19\"><span class=\"label\">19</span><span class=\"content\">Nosotros amamos porque &#233;l nos am&#243; primero. </span></span><span class=\"verse v20\" data-usfm=\"1JN.4.20\"><span class=\"label\">20</span><span class=\"content\">Si alguno dice: &#171;Yo amo a Dios&#187;, y al mismo tiempo odia a su hermano, es un mentiroso. Pues si uno no ama a su hermano, a quien ve, tampoco puede amar a Dios, a quien no ve. </span></span><span class=\"verse v21\" data-usfm=\"1JN.4.21\"><span class=\"label\">21</span><span class=\"content\">Jesucristo nos ha dado este mandamiento: que el que ama a Dios, ame tambi&#233;n a su hermano. </span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "La verdadera fe"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Queridos hermanos, no crean ustedes a todos los que dicen estar inspirados por Dios, sino pónganlos a prueba, a ver si el espíritu que hay en ellos es de Dios o no. Porque el mundo está lleno de falsos profetas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "De esta manera pueden ustedes saber quién tiene el Espíritu de Dios: todo el que reconoce que Jesucristo vino como hombre verdadero, tiene el Espíritu de Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "El que no reconoce así a Jesús, no tiene el Espíritu de Dios; al contrario, tiene el espíritu del Anticristo. Ustedes han oído que ese espíritu ha de venir; pues bien, ya está en el mundo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Hijitos, ustedes son de Dios y han vencido a esos mentirosos, porque el que está en ustedes es más poderoso que el que está en el mundo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Ellos son del mundo; por eso hablan de las cosas del mundo, y los que son del mundo los escuchan."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "En cambio, nosotros somos de Dios. El que conoce a Dios nos escucha, pero el que no es de Dios no nos escucha. En esto, pues, podemos conocer quién tiene el espíritu de la verdad y quién tiene el espíritu del engaño."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "El amor, señal de nuestra comunión con Dios"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Queridos hermanos, debemos amarnos unos a otros, porque el amor viene de Dios. Todo el que ama es hijo de Dios y conoce a Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "El que no ama no ha conocido a Dios, porque Dios es amor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Dios mostró su amor hacia nosotros al enviar a su Hijo único al mundo para que tengamos vida por él."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "El amor consiste en esto: no en que nosotros hayamos amado a Dios, sino en que él nos amó a nosotros y envió a su Hijo, para que, ofreciéndose en sacrificio, nuestros pecados quedaran perdonados."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Queridos hermanos, si Dios nos ha amado así, nosotros también debemos amarnos unos a otros."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "A Dios nunca lo ha visto nadie; pero si nos amamos unos a otros, Dios vive en nosotros y su amor se hace realidad en nosotros."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "La prueba de que nosotros vivimos en Dios y de que él vive en nosotros, es que nos ha dado su Espíritu."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Y nosotros mismos hemos visto y declaramos que el Padre envió a su Hijo para salvar al mundo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Cualquiera que reconoce que Jesús es el Hijo de Dios, vive en Dios y Dios en él."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Así hemos llegado a saber y creer que Dios nos ama. Dios es amor, y el que vive en el amor, vive en Dios y Dios en él."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "De esta manera se hace realidad el amor en nosotros, para que en el día del juicio tengamos confianza; porque nosotros somos en este mundo tal como es Jesucristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Donde hay amor no hay miedo. Al contrario, el amor perfecto echa fuera el miedo, pues el miedo supone el castigo. Por eso, si alguien tiene miedo, es que no ha llegado a amar perfectamente."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Nosotros amamos porque él nos amó primero."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Si alguno dice: «Yo amo a Dios», y al mismo tiempo odia a su hermano, es un mentiroso. Pues si uno no ama a su hermano, a quien ve, tampoco puede amar a Dios, a quien no ve."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "Jesucristo nos ha dado este mandamiento: que el que ama a Dios, ame también a su hermano."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "1JN.5",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "1JN.5"
+        ],
+        "human": "1 Juan 5"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "2JN.1"
+        ],
+        "human": "2 Juan 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "1JN.4"
+        ],
+        "human": "1 Juan 4",
+        "toc": true
+      },
+      "chapter_text": "Todo el que tiene fe en que Jesús es el Mesías, es hijo de Dios; y el que ama a un padre, ama también a los hijos de ese padre. Cuando amamos a Dios y hacemos lo que él manda, sabemos que amamos también a los hijos de Dios. El amar a Dios consiste en obedecer sus mandamientos; y sus mandamientos no son una carga, porque todo el que es hijo de Dios vence al mundo. Y nuestra fe nos ha dado la victoria sobre el mundo. El que cree que Jesús es el Hijo de Dios, vence al mundo.\nLa venida de Jesucristo quedó señalada con agua y sangre; no solo con agua, sino con agua y sangre. El Espíritu mismo es testigo de esto, y el Espíritu es la verdad. Tres son los testigos: el Espíritu, el agua y la sangre; y los tres están de acuerdo. Aceptamos el testimonio de los hombres, pero el testimonio de Dios es de mucho más valor, porque consiste en el testimonio que Dios ha dado acerca de su Hijo. El que cree en el Hijo de Dios, lleva este testimonio en su propio corazón; el que no cree en Dios, lo hace aparecer como mentiroso, porque no cree en el testimonio que Dios ha dado acerca de su Hijo. Este testimonio es que Dios nos ha dado vida eterna, y que esta vida está en su Hijo. El que tiene al Hijo de Dios, tiene también esta vida; pero el que no tiene al Hijo de Dios, no la tiene.\nLes escribo esto a ustedes que creen en el Hijo de Dios, para que sepan que tienen vida eterna.\nTenemos confianza en Dios, porque sabemos que si le pedimos algo conforme a su voluntad, él nos oye. Y así como sabemos que Dios oye nuestras oraciones, también sabemos que ya tenemos lo que le hemos pedido.\nSi alguno ve que su hermano está cometiendo un pecado que no lleva a la muerte, debe orar, y Dios dará vida al hermano, si se trata de un pecado que no lleva a la muerte. Hay un pecado que lleva a la muerte, y por ese pecado no digo que se deba orar. Toda maldad es pecado; pero hay pecado que no lleva a la muerte.\nSabemos que el que tiene a Dios como Padre, no sigue pecando, porque el Hijo de Dios lo cuida, y el maligno no lo toca. Sabemos que somos de Dios y que el mundo entero está bajo el poder del maligno. Sabemos también que el Hijo de Dios ha venido y nos ha dado entendimiento para conocer al Dios verdadero. Vivimos unidos al que es verdadero, es decir, a su Hijo Jesucristo. Este es el Dios verdadero y la vida eterna. Hijitos, cuídense de los dioses falsos.",
+      "chapter_html": "<div class=\"version vid1846 iso6393spa\" data-vid=\"1846\" data-iso6393=\"spa\">\n   <div class=\"book bk1JN\">\n      <div class=\"chapter ch5\" data-usfm=\"1JN.5\">\n         <div class=\"label\">5</div><div class=\"s1\"><span class=\"heading\">La fe, ra&#237;z del amor</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"1JN.5.1\"><span class=\"label\">1</span><span class=\"content\">Todo el que tiene fe en que Jes&#250;s es el Mes&#237;as, es hijo de Dios; y el que ama a un padre, ama tambi&#233;n a los hijos de ese padre. </span></span><span class=\"verse v2\" data-usfm=\"1JN.5.2\"><span class=\"label\">2</span><span class=\"content\">Cuando amamos a Dios y hacemos lo que &#233;l manda, sabemos que amamos tambi&#233;n a los hijos de Dios. </span></span><span class=\"verse v3\" data-usfm=\"1JN.5.3\"><span class=\"label\">3</span><span class=\"content\">El amar a Dios consiste en obedecer sus mandamientos; y sus mandamientos no son una carga, </span></span><span class=\"verse v4\" data-usfm=\"1JN.5.4\"><span class=\"label\">4</span><span class=\"content\">porque todo el que es hijo de Dios vence al mundo. Y nuestra fe nos ha dado la victoria sobre el mundo. </span></span><span class=\"verse v5\" data-usfm=\"1JN.5.5\"><span class=\"label\">5</span><span class=\"content\">El que cree que Jes&#250;s es el Hijo de Dios, vence al mundo.</span></span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"1JN.5.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"1JN.5.6\"><span class=\"label\">6</span><span class=\"content\">La venida de Jesucristo qued&#243; se&#241;alada con agua y sangre; no solo con agua, sino con agua y sangre. El Esp&#237;ritu mismo es testigo de esto, y el Esp&#237;ritu es la verdad. </span></span><span class=\"verse v7\" data-usfm=\"1JN.5.7\"><span class=\"label\">7</span><span class=\"content\">Tres son los testigos: </span></span><span class=\"verse v8\" data-usfm=\"1JN.5.8\"><span class=\"label\">8</span><span class=\"content\">el Esp&#237;ritu, el agua y la sangre; y los tres est&#225;n de acuerdo. </span></span><span class=\"verse v9\" data-usfm=\"1JN.5.9\"><span class=\"label\">9</span><span class=\"content\">Aceptamos el testimonio de los hombres, pero el testimonio de Dios es de mucho m&#225;s valor, porque consiste en el testimonio que Dios ha dado acerca de su Hijo. </span></span><span class=\"verse v10\" data-usfm=\"1JN.5.10\"><span class=\"label\">10</span><span class=\"content\">El que cree en el Hijo de Dios, lleva este testimonio en su propio coraz&#243;n; el que no cree en Dios, lo hace aparecer como mentiroso, porque no cree en el testimonio que Dios ha dado acerca de su Hijo. </span></span><span class=\"verse v11\" data-usfm=\"1JN.5.11\"><span class=\"label\">11</span><span class=\"content\">Este testimonio es que Dios nos ha dado vida eterna, y que esta vida est&#225; en su Hijo. </span></span><span class=\"verse v12\" data-usfm=\"1JN.5.12\"><span class=\"label\">12</span><span class=\"content\">El que tiene al Hijo de Dios, tiene tambi&#233;n esta vida; pero el que no tiene al Hijo de Dios, no la tiene.</span></span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"1JN.5.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"1JN.5.13\"><span class=\"label\">13</span><span class=\"content\">Les escribo esto a ustedes que creen en el Hijo de Dios, para que sepan que tienen vida eterna.</span></span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"1JN.5.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"1JN.5.14\"><span class=\"label\">14</span><span class=\"content\">Tenemos confianza en Dios, porque sabemos que si le pedimos algo conforme a su voluntad, &#233;l nos oye. </span></span><span class=\"verse v15\" data-usfm=\"1JN.5.15\"><span class=\"label\">15</span><span class=\"content\">Y as&#237; como sabemos que Dios oye nuestras oraciones, tambi&#233;n sabemos que ya tenemos lo que le hemos pedido. </span></span></div><div class=\"p\"><span class=\"verse v15\" data-usfm=\"1JN.5.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"1JN.5.16\"><span class=\"label\">16</span><span class=\"content\">Si alguno ve que su hermano est&#225; cometiendo un pecado que no lleva a la muerte, debe orar, y Dios dar&#225; vida al hermano, si se trata de un pecado que no lleva a la muerte. Hay un pecado que lleva a la muerte, y por ese pecado no digo que se deba orar. </span></span><span class=\"verse v17\" data-usfm=\"1JN.5.17\"><span class=\"label\">17</span><span class=\"content\">Toda maldad es pecado; pero hay pecado que no lleva a la muerte.</span></span></div><div class=\"p\"><span class=\"verse v17\" data-usfm=\"1JN.5.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"1JN.5.18\"><span class=\"label\">18</span><span class=\"content\">Sabemos que el que tiene a Dios como Padre, no sigue pecando, porque el Hijo de Dios lo cuida, y el maligno no lo toca. </span></span><span class=\"verse v19\" data-usfm=\"1JN.5.19\"><span class=\"label\">19</span><span class=\"content\">Sabemos que somos de Dios y que el mundo entero est&#225; bajo el poder del maligno. </span></span><span class=\"verse v20\" data-usfm=\"1JN.5.20\"><span class=\"label\">20</span><span class=\"content\">Sabemos tambi&#233;n que el Hijo de Dios ha venido y nos ha dado entendimiento para conocer al Dios verdadero. Vivimos unidos al que es verdadero, es decir, a su Hijo Jesucristo. Este es el Dios verdadero y la vida eterna. </span></span><span class=\"verse v21\" data-usfm=\"1JN.5.21\"><span class=\"label\">21</span><span class=\"content\">Hijitos, cu&#237;dense de los dioses falsos.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "La fe, raíz del amor"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Todo el que tiene fe en que Jesús es el Mesías, es hijo de Dios; y el que ama a un padre, ama también a los hijos de ese padre."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Cuando amamos a Dios y hacemos lo que él manda, sabemos que amamos también a los hijos de Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "El amar a Dios consiste en obedecer sus mandamientos; y sus mandamientos no son una carga,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "porque todo el que es hijo de Dios vence al mundo. Y nuestra fe nos ha dado la victoria sobre el mundo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "El que cree que Jesús es el Hijo de Dios, vence al mundo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "La venida de Jesucristo quedó señalada con agua y sangre; no solo con agua, sino con agua y sangre. El Espíritu mismo es testigo de esto, y el Espíritu es la verdad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Tres son los testigos:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "el Espíritu, el agua y la sangre; y los tres están de acuerdo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Aceptamos el testimonio de los hombres, pero el testimonio de Dios es de mucho más valor, porque consiste en el testimonio que Dios ha dado acerca de su Hijo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "El que cree en el Hijo de Dios, lleva este testimonio en su propio corazón; el que no cree en Dios, lo hace aparecer como mentiroso, porque no cree en el testimonio que Dios ha dado acerca de su Hijo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Este testimonio es que Dios nos ha dado vida eterna, y que esta vida está en su Hijo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "El que tiene al Hijo de Dios, tiene también esta vida; pero el que no tiene al Hijo de Dios, no la tiene."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Les escribo esto a ustedes que creen en el Hijo de Dios, para que sepan que tienen vida eterna."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Tenemos confianza en Dios, porque sabemos que si le pedimos algo conforme a su voluntad, él nos oye."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Y así como sabemos que Dios oye nuestras oraciones, también sabemos que ya tenemos lo que le hemos pedido."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Si alguno ve que su hermano está cometiendo un pecado que no lleva a la muerte, debe orar, y Dios dará vida al hermano, si se trata de un pecado que no lleva a la muerte. Hay un pecado que lleva a la muerte, y por ese pecado no digo que se deba orar."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Toda maldad es pecado; pero hay pecado que no lleva a la muerte."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Sabemos que el que tiene a Dios como Padre, no sigue pecando, porque el Hijo de Dios lo cuida, y el maligno no lo toca."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Sabemos que somos de Dios y que el mundo entero está bajo el poder del maligno."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Sabemos también que el Hijo de Dios ha venido y nos ha dado entendimiento para conocer al Dios verdadero. Vivimos unidos al que es verdadero, es decir, a su Hijo Jesucristo. Este es el Dios verdadero y la vida eterna."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "Hijitos, cuídense de los dioses falsos."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

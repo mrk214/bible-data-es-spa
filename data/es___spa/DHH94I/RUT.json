@@ -1,0 +1,913 @@
+{
+  "book_usfm": "RUT",
+  "name": "Rut",
+  "local_title": "Biblia Dios Habla Hoy",
+  "local_abbreviation": "DHH94I",
+  "version_id": 52,
+  "publisher": {
+    "name": "United Bible Societies"
+  },
+  "copyright": {
+    "html": "<p>Texto © Sociedades Bíblicas Unidas, 1994.</p>",
+    "text": "Texto © Sociedades Bíblicas Unidas, 1994."
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "RUT.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "RUT.1"
+        ],
+        "human": "Rut 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "RUT.2"
+        ],
+        "human": "Rut 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "JDG.21"
+        ],
+        "human": "Jueces 21",
+        "toc": true
+      },
+      "chapter_text": "En el tiempo en que Israel era gobernado por caudillos, hubo una época de hambre en toda la región. Entonces un hombre de Belén de Judá, llamado Elimélec, se fue a vivir por algún tiempo al país de Moab. Con él fueron también su esposa Noemí y sus dos hijos, Mahlón y Quilión. Todos ellos eran efrateos, es decir, de Belén. Llegaron, pues, a Moab, y se quedaron a vivir allí.\nPero sucedió que murió Elimélec, el marido de Noemí, y ella se quedó sola con sus dos hijos. Más tarde, ellos se casaron con dos mujeres moabitas; una de ellas se llamaba Orfá y la otra Rut. Pero al cabo de unos diez años murieron también Mahlón y Quilión, y Noemí se encontró desamparada, sin hijos y sin marido.\n\nUn día Noemí oyó decir en Moab que el Señor se había compadecido de su pueblo y que había puesto fin a la época de hambre. Entonces decidió volver a Judá y, acompañada de sus nueras, salió del lugar donde vivían; pero en el camino les dijo:\n—Anden, vuelvan a su casa, con su madre. Que el Señor las trate siempre con bondad, como también ustedes nos trataron a mí y a mis hijos, y que les permita casarse otra vez y formar un hogar feliz.\nLuego Noemí les dio un beso de despedida, pero ellas se echaron a llorar y le dijeron:\n—¡No! ¡Nosotras volveremos contigo a tu país!\nNoemí insistió:\n—Váyanse, hijas mías, ¿para qué quieren seguir conmigo? Yo ya no voy a tener más hijos que puedan casarse con ustedes. Anden, vuelvan a su casa. Yo soy muy vieja para volverme a casar. Y aunque tuviera aún esa esperanza, y esta misma noche me casara y llegara a tener más hijos, ¿iban ustedes a esperar hasta que fueran mayores, para casarse con ellos? ¿Se quedarían sin casar por esperarlos? No, hijas mías, de ninguna manera. El Señor me ha enviado amargos sufrimientos, pero más amarga sería mi pena si las viera sufrir a ustedes.\nEllas se pusieron a llorar nuevamente. Por fin, Orfá se despidió de su suegra con un beso, pero Rut se quedó con ella. Entonces Noemí le dijo:\n—Mira, tu concuñada se vuelve a su país y a sus dioses. Vete tú con ella.\nPero Rut le contestó:\n—¡No me pidas que te deje y que me separe de ti! Iré a donde tú vayas, y viviré donde tú vivas. Tu pueblo será mi pueblo, y tu Dios será mi Dios. Moriré donde tú mueras, y allí quiero ser enterrada. ¡Que el Señor me castigue con toda dureza si me separo de ti, a menos que sea por la muerte!\nAl ver Noemí que Rut estaba decidida a acompañarla, no le insistió más, y así las dos siguieron su camino hasta que llegaron a Belén.\nCuando entraron en Belén, hubo un gran revuelo en todo el pueblo. Las mujeres decían:\n—¿No es esta Noemí?\nPero ella les respondía:\n—Ya no me llamen Noemí; llámenme Mará, porque el Dios todopoderoso me ha llenado de amargura. Salí de aquí con las manos llenas, y ahora las traigo vacías porque así lo ha querido el Señor. ¿Por qué me llaman Noemí, si el Señor todopoderoso me ha condenado y afligido?\nAsí fue como Noemí volvió de Moab con Rut, su nuera moabita. Llegaron a Belén cuando comenzaba la cosecha de la cebada.",
+      "chapter_html": "<div class=\"version vid52 iso6393spa\" data-vid=\"52\" data-iso6393=\"spa\">\n   <div class=\"book bkRUT\">\n      <div class=\"chapter ch1\" data-usfm=\"RUT.1\">\n         <div class=\"label\">1</div><div class=\"s1\"><span class=\"heading\">La familia de Elim&#233;lec en Moab</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1 v2\" data-usfm=\"RUT.1.1+RUT.1.2\"><span class=\"label\">1-2</span><span class=\"content\">En el tiempo en que Israel era gobernado por caudillos,</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1.1-2 </span><span class=\"fk\">Caudillos: </span><span class=\"ft\">t&#233;rmino que suele traducirse por <span class=\"it\">jueces.</span> Quienes lo traducen as&#237; hacen notar, sin embargo, que tales <span class=\"it\">jueces</span> no eran simples magistrados que administraban justicia, sino l&#237;deres carism&#225;ticos llamados y enviados por el Se&#241;or para liberar a su pueblo de una situaci&#243;n opresiva. V&#233;ase la <span class=\"it\">Introducci&#243;n</span> al libro de los <span class=\"bk\">Jueces</span>. En n&#250;meros redondos, esta &#233;poca se sit&#250;a entre los a&#241;os 1200 y 1050 a.C.</span></span></span><span class=\"content\"> hubo una &#233;poca de hambre en toda la regi&#243;n. Entonces un hombre de Bel&#233;n de Jud&#225;,</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1.1-2 </span><span class=\"fq\">Bel&#233;n de Jud&#225;: </span><span class=\"ft\">Uno de los lugares m&#225;s c&#233;lebres de la historia b&#237;blica, situado a 8 km. al sur de Jerusal&#233;n. Cf. 1&#160;S 17.12,15; 20.6,28; Miq 5.2(1); Mt 2.1-6; Lc 2.4; Jn 7.42 (V&#233;ase el <span class=\"it\">&#205;ndice de mapas</span>). Se lo llama <span class=\"it\">Bel&#233;n de Jud&#225;</span> para distinguirlo de Bel&#233;n de Zabul&#243;n, que estaba a unos 10 km. al noroeste de Nazaret (v&#233;ase Jos 19.15&#160;n.).</span></span></span><span class=\"content\"> llamado Elim&#233;lec,</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1.1-2 </span><span class=\"fk\">Elim&#233;lec, </span><span class=\"ft\">en hebreo, significa <span class=\"it\">mi Dios es rey</span>.</span></span></span><span class=\"content\"> se fue a vivir por alg&#250;n tiempo al pa&#237;s de Moab.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1.1-2 </span><span class=\"ft\">El <span class=\"it\">pa&#237;s de Moab</span> se encontraba al sur de la Transjordania y al este del Mar Muerto (v&#233;anse Dt 2.9 nota y el <span class=\"it\">&#205;ndice de mapas</span>).</span></span></span><span class=\"content\"> Con &#233;l fueron tambi&#233;n su esposa Noem&#237;</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1.1-2 </span><span class=\"ft\">El nombre <span class=\"it\">Noem&#237;,</span> en hebreo, significa <span class=\"it\">mi dulzura</span>.</span></span></span><span class=\"content\"> y sus dos hijos, Mahl&#243;n y Quili&#243;n.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1.1-2 </span><span class=\"ft\">Es probable que los nombres <span class=\"it\">Mahl&#243;n</span> y <span class=\"it\">Quili&#243;n,</span> en su forma hebrea, signifiquen, respectivamente, <span class=\"it\">enfermedad</span> y <span class=\"it\">agotamiento.</span> En tal caso, ambos nombres aludir&#237;an a la muerte prematura de los hijos de Noem&#237; (cf. v. 5).</span></span></span><span class=\"content\"> Todos ellos eran efrateos, es decir, de Bel&#233;n.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1.1-2 </span><span class=\"fk\">Efrateos: </span><span class=\"ft\">Otro nombre de <span class=\"it\">Bel&#233;n</span> era Efrata. Cf. 1&#160;Cr 4.3-4; Miq 5.2(1).</span></span></span><span class=\"content\"> Llegaron, pues, a Moab, y se quedaron a vivir all&#237;.</span></span></div><div class=\"p\"><span class=\"verse v1 v2\" data-usfm=\"RUT.1.1+RUT.1.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"RUT.1.3\"><span class=\"label\">3</span><span class=\"content\">Pero sucedi&#243; que muri&#243; Elim&#233;lec, el marido de Noem&#237;, y ella se qued&#243; sola con sus dos hijos. </span></span><span class=\"verse v4\" data-usfm=\"RUT.1.4\"><span class=\"label\">4</span><span class=\"content\">M&#225;s tarde, ellos se casaron con dos mujeres moabitas;</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1.4 </span><span class=\"ft\">Aunque los <span class=\"it\">moabitas</span> eran un pueblo emparentado con Israel (cf. Gn 19.30-38), esta clase de matrimonios estaba severamente prohibida por la ley de Mois&#233;s (cf. Dt 23.3[4]; Esd 9.1-2; 10).</span></span></span><span class=\"content\"> una de ellas se llamaba Orf&#225; y la otra Rut.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1.4 </span><span class=\"fk\">Orf&#225;: </span><span class=\"ft\">Se desconce el significado exacto de este nombre; algunos lo traducen por <span class=\"it\">obstinaci&#243;n</span> o <span class=\"it\">rebeld&#237;a. Rut</span> significa, probablemente, <span class=\"it\">amiga</span>.</span></span></span><span class=\"content\"> Pero al cabo de unos diez a&#241;os </span></span><span class=\"verse v5\" data-usfm=\"RUT.1.5\"><span class=\"label\">5</span><span class=\"content\">murieron tambi&#233;n Mahl&#243;n y Quili&#243;n, y Noem&#237; se encontr&#243; desamparada, sin hijos y sin marido.</span></span></div><div class=\"s1\"><span class=\"heading\">Noem&#237; y Rut van a Bel&#233;n</span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"RUT.1.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"RUT.1.6\"><span class=\"label\">6</span><span class=\"content\">Un d&#237;a Noem&#237; oy&#243; decir en Moab que el Se&#241;or se hab&#237;a compadecido de su pueblo y que hab&#237;a puesto fin a la &#233;poca de hambre. </span></span><span class=\"verse v7\" data-usfm=\"RUT.1.7\"><span class=\"label\">7</span><span class=\"content\">Entonces decidi&#243; volver a Jud&#225; y, acompa&#241;ada de sus nueras, sali&#243; del lugar donde viv&#237;an; </span></span><span class=\"verse v8\" data-usfm=\"RUT.1.8\"><span class=\"label\">8</span><span class=\"content\">pero en el camino les dijo:</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"RUT.1.8\"><span class=\"content\">&#8212;Anden, vuelvan a su casa, con su madre. Que el Se&#241;or las trate siempre con bondad, como tambi&#233;n ustedes nos trataron a m&#237; y a mis hijos, </span></span><span class=\"verse v9\" data-usfm=\"RUT.1.9\"><span class=\"label\">9</span><span class=\"content\">y que les permita casarse otra vez y formar un hogar feliz.</span></span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"RUT.1.9\"><span class=\"content\">Luego Noem&#237; les dio un beso de despedida, pero ellas se echaron a llorar </span></span><span class=\"verse v10\" data-usfm=\"RUT.1.10\"><span class=\"label\">10</span><span class=\"content\">y le dijeron:</span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"RUT.1.10\"><span class=\"content\">&#8212;&#161;No! &#161;Nosotras volveremos contigo a tu pa&#237;s!</span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"RUT.1.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"RUT.1.11\"><span class=\"label\">11</span><span class=\"content\">Noem&#237; insisti&#243;:</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"RUT.1.11\"><span class=\"content\">&#8212;V&#225;yanse, hijas m&#237;as, &#191;para qu&#233; quieren seguir conmigo? Yo ya no voy a tener m&#225;s hijos que puedan casarse con ustedes. </span></span><span class=\"verse v12\" data-usfm=\"RUT.1.12\"><span class=\"label\">12</span><span class=\"content\">Anden, vuelvan a su casa. Yo soy muy vieja para volverme a casar. Y aunque tuviera a&#250;n esa esperanza, y esta misma noche me casara y llegara a tener m&#225;s hijos, </span></span><span class=\"verse v13\" data-usfm=\"RUT.1.13\"><span class=\"label\">13</span><span class=\"content\">&#191;iban ustedes a esperar hasta que fueran mayores, para casarse con ellos? &#191;Se quedar&#237;an sin casar por esperarlos? No, hijas m&#237;as, de ninguna manera. El Se&#241;or me ha enviado amargos sufrimientos, pero m&#225;s amarga ser&#237;a mi pena si las viera sufrir a ustedes.</span></span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"RUT.1.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"RUT.1.14\"><span class=\"label\">14</span><span class=\"content\">Ellas se pusieron a llorar nuevamente. Por fin, Orf&#225; se despidi&#243; de su suegra con un beso, pero Rut se qued&#243; con ella. </span></span><span class=\"verse v15\" data-usfm=\"RUT.1.15\"><span class=\"label\">15</span><span class=\"content\">Entonces Noem&#237; le dijo:</span></span></div><div class=\"p\"><span class=\"verse v15\" data-usfm=\"RUT.1.15\"><span class=\"content\">&#8212;Mira, tu concu&#241;ada se vuelve a su pa&#237;s y a sus dioses. Vete t&#250; con ella.</span></span></div><div class=\"p\"><span class=\"verse v15\" data-usfm=\"RUT.1.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"RUT.1.16\"><span class=\"label\">16</span><span class=\"content\">Pero Rut le contest&#243;:</span></span></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"RUT.1.16\"><span class=\"content\">&#8212;&#161;No me pidas que te deje y que me separe de ti! Ir&#233; a donde t&#250; vayas, y vivir&#233; donde t&#250; vivas. Tu pueblo ser&#225; mi pueblo, y tu Dios ser&#225; mi Dios. </span></span><span class=\"verse v17\" data-usfm=\"RUT.1.17\"><span class=\"label\">17</span><span class=\"content\">Morir&#233; donde t&#250; mueras, y all&#237; quiero ser enterrada. &#161;Que el Se&#241;or me castigue con toda dureza si me separo de ti, a menos que sea por la muerte!</span></span></div><div class=\"p\"><span class=\"verse v17\" data-usfm=\"RUT.1.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"RUT.1.18\"><span class=\"label\">18</span><span class=\"content\">Al ver Noem&#237; que Rut estaba decidida a acompa&#241;arla, no le insisti&#243; m&#225;s, </span></span><span class=\"verse v19\" data-usfm=\"RUT.1.19\"><span class=\"label\">19</span><span class=\"content\">y as&#237; las dos siguieron su camino hasta que llegaron a Bel&#233;n.</span></span></div><div class=\"p\"><span class=\"verse v19\" data-usfm=\"RUT.1.19\"><span class=\"content\">Cuando entraron en Bel&#233;n, hubo un gran revuelo en todo el pueblo. Las mujeres dec&#237;an:</span></span></div><div class=\"p\"><span class=\"verse v19\" data-usfm=\"RUT.1.19\"><span class=\"content\">&#8212;&#191;No es esta Noem&#237;?</span></span></div><div class=\"p\"><span class=\"verse v19\" data-usfm=\"RUT.1.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"RUT.1.20\"><span class=\"label\">20</span><span class=\"content\">Pero ella les respond&#237;a:</span></span></div><div class=\"p\"><span class=\"verse v20\" data-usfm=\"RUT.1.20\"><span class=\"content\">&#8212;Ya no me llamen Noem&#237;; ll&#225;menme Mar&#225;,</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1.20 </span><span class=\"fk\">Noem&#237;: </span><span class=\"ft\">V&#233;ase Rt 1.1-2 nota. <span class=\"it\">Mar&#225;,</span> en hebreo, significa <span class=\"it\">amarga</span>.</span></span></span><span class=\"content\"> porque el Dios todopoderoso me ha llenado de amargura. </span></span><span class=\"verse v21\" data-usfm=\"RUT.1.21\"><span class=\"label\">21</span><span class=\"content\">Sal&#237; de aqu&#237; con las manos llenas, y ahora las traigo vac&#237;as porque as&#237; lo ha querido el Se&#241;or. &#191;Por qu&#233; me llaman Noem&#237;, si el Se&#241;or todopoderoso</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1.21 </span><span class=\"fk\">Todopoderoso: </span><span class=\"ft\">en hebreo, <span class=\"it\">Shadai,</span> antiguo t&#237;tulo del Se&#241;or. V&#233;ase Gn 17.1&#160;n.</span></span></span><span class=\"content\"> me ha condenado y afligido?</span></span></div><div class=\"p\"><span class=\"verse v21\" data-usfm=\"RUT.1.21\"><span class=\"content\">  </span></span><span class=\"verse v22\" data-usfm=\"RUT.1.22\"><span class=\"label\">22</span><span class=\"content\">As&#237; fue como Noem&#237; volvi&#243; de Moab con Rut, su nuera moabita. Llegaron a Bel&#233;n cuando comenzaba la cosecha de la cebada.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1.22 </span><span class=\"fq\">La cosecha de la cebada, </span><span class=\"ft\">en la primera quincena de mayo. Cf. Ex 9.31; Rt 2.23; 2&#160;S 21.9-10.</span></span></span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "La familia de Elimélec en Moab"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": -1,
+          "lines": [
+            "En el tiempo en que Israel era gobernado por caudillos, hubo una época de hambre en toda la región. Entonces un hombre de Belén de Judá, llamado Elimélec, se fue a vivir por algún tiempo al país de Moab. Con él fueron también su esposa Noemí y sus dos hijos, Mahlón y Quilión. Todos ellos eran efrateos, es decir, de Belén. Llegaron, pues, a Moab, y se quedaron a vivir allí."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Pero sucedió que murió Elimélec, el marido de Noemí, y ella se quedó sola con sus dos hijos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Más tarde, ellos se casaron con dos mujeres moabitas; una de ellas se llamaba Orfá y la otra Rut. Pero al cabo de unos diez años"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "murieron también Mahlón y Quilión, y Noemí se encontró desamparada, sin hijos y sin marido."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Noemí y Rut van a Belén"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Un día Noemí oyó decir en Moab que el Señor se había compadecido de su pueblo y que había puesto fin a la época de hambre."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Entonces decidió volver a Judá y, acompañada de sus nueras, salió del lugar donde vivían;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "pero en el camino les dijo:",
+            "—Anden, vuelvan a su casa, con su madre. Que el Señor las trate siempre con bondad, como también ustedes nos trataron a mí y a mis hijos,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "y que les permita casarse otra vez y formar un hogar feliz.",
+            "Luego Noemí les dio un beso de despedida, pero ellas se echaron a llorar"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "y le dijeron:",
+            "—¡No! ¡Nosotras volveremos contigo a tu país!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Noemí insistió:",
+            "—Váyanse, hijas mías, ¿para qué quieren seguir conmigo? Yo ya no voy a tener más hijos que puedan casarse con ustedes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Anden, vuelvan a su casa. Yo soy muy vieja para volverme a casar. Y aunque tuviera aún esa esperanza, y esta misma noche me casara y llegara a tener más hijos,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "¿iban ustedes a esperar hasta que fueran mayores, para casarse con ellos? ¿Se quedarían sin casar por esperarlos? No, hijas mías, de ninguna manera. El Señor me ha enviado amargos sufrimientos, pero más amarga sería mi pena si las viera sufrir a ustedes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Ellas se pusieron a llorar nuevamente. Por fin, Orfá se despidió de su suegra con un beso, pero Rut se quedó con ella."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Entonces Noemí le dijo:",
+            "—Mira, tu concuñada se vuelve a su país y a sus dioses. Vete tú con ella."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Pero Rut le contestó:",
+            "—¡No me pidas que te deje y que me separe de ti! Iré a donde tú vayas, y viviré donde tú vivas. Tu pueblo será mi pueblo, y tu Dios será mi Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Moriré donde tú mueras, y allí quiero ser enterrada. ¡Que el Señor me castigue con toda dureza si me separo de ti, a menos que sea por la muerte!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Al ver Noemí que Rut estaba decidida a acompañarla, no le insistió más,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "y así las dos siguieron su camino hasta que llegaron a Belén.",
+            "Cuando entraron en Belén, hubo un gran revuelo en todo el pueblo. Las mujeres decían:",
+            "—¿No es esta Noemí?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Pero ella les respondía:",
+            "—Ya no me llamen Noemí; llámenme Mará, porque el Dios todopoderoso me ha llenado de amargura."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "Salí de aquí con las manos llenas, y ahora las traigo vacías porque así lo ha querido el Señor. ¿Por qué me llaman Noemí, si el Señor todopoderoso me ha condenado y afligido?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "Así fue como Noemí volvió de Moab con Rut, su nuera moabita. Llegaron a Belén cuando comenzaba la cosecha de la cebada."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "RUT.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "RUT.2"
+        ],
+        "human": "Rut 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "RUT.3"
+        ],
+        "human": "Rut 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "RUT.1"
+        ],
+        "human": "Rut 1",
+        "toc": true
+      },
+      "chapter_text": "Noemí tenía un pariente por parte de su esposo Elimélec, que se llamaba Booz y era muy rico e influyente.\nUn día Rut le dijo a Noemí:\n—Déjame que vaya al campo, a ver si algún segador me permite ir detrás de él recogiendo espigas.\n—Ve, hija mía —le respondió su suegra.\nRut, pues, fue al campo y se puso a recoger las espigas que dejaban los segadores. Y tuvo la suerte de que aquel campo fuera de Booz, el pariente de Elimélec. En eso, Booz llegó de Belén y saludó a los segadores:\n—¡Que el Señor esté con ustedes!\n—¡Que el Señor le bendiga a usted! —le respondieron ellos.\nLuego Booz le preguntó al capataz de los segadores:\n—¿De qué familia es esa muchacha?\nEl capataz le contestó:\n—Es una moabita, que vino de Moab con Noemí. Me pidió permiso para ir detrás de los segadores recogiendo espigas, y se ha pasado trabajando toda la mañana, hasta ahora mismo que ha venido a descansar un poco.\nEntonces Booz le dijo a Rut:\n—Escucha, hija mía, no vayas a recoger espigas a ningún otro campo. Quédate aquí, con mis criadas, y luego síguelas a donde veas que los segadores están trabajando. Ya he dado órdenes a mis criados para que nadie te moleste. Cuando tengas sed, ve a donde están las vasijas del agua y toma de la que ellos sacan.\nRut se inclinó hasta el suelo en señal de respeto, y le preguntó a Booz:\n—¿Por qué se ha fijado usted en mí y es tan amable conmigo, siendo yo una extranjera?\nBooz respondió:\n—Sé muy bien todo lo que has hecho por tu suegra desde que murió tu marido, y también sé que dejaste a tus padres y a tu patria por venir a vivir con nosotros, que éramos gente desconocida para ti. ¡Que Dios te lo pague! ¡Que el Señor y Dios de Israel, en quien has buscado amparo, te premie por todo lo que has hecho!\nElla le contestó:\n—Usted es muy amable conmigo, y sus palabras me llenan de aliento. Me ha hablado usted con cariño, aunque yo ni siquiera soy como una de sus criadas.\nA la hora de comer, Booz llamó a Rut y le dijo:\n—Ven acá, toma un pedazo de pan y mójalo en esta salsa de vinagre.\nRut se sentó junto a los segadores, y Booz le dio grano tostado. Ella comió hasta quedar satisfecha, y todavía le sobró. Luego, cuando fue otra vez a recoger espigas, Booz ordenó a sus criados:\n—Dejen que también recoja espigas entre los manojos de cebada. No se lo impidan. Y aun dejen caer algunas espigas de sus propios manojos, para que ella las recoja. ¡Que nadie la moleste!\nRut recogió espigas en el campo de Booz hasta que llegó la noche. Y lo recogido por ella dio, al desgranarlo, más de veinte kilos de cebada. Regresó entonces a la ciudad cargada con el grano, y fue a mostrárselo a su suegra. Después sacó lo que le había sobrado de la comida y se lo dio a Noemí.\n—¿Dónde trabajaste hoy? —le preguntó Noemí—. ¿Dónde recogiste tantas espigas? ¡Bendito sea el que te ha ayudado de esa manera!\nRut le contó a su suegra con quién había estado trabajando.\n—El hombre con quien he trabajado se llama Booz —le dijo.\nY Noemí le contestó:\n—¡Que el Señor lo bendiga! Él ha sido bondadoso con nosotras ahora, como antes lo fue con los que ya han muerto. Ese hombre es pariente cercano de nosotras, y por eso es uno de los que tienen el deber de protegernos.\nRut añadió:\n—También me dijo que siga yo trabajando con sus criadas hasta que se termine la cosecha.\nEntonces Noemí respondió a su nuera:\n—Hija mía, me parece bien que te quedes con sus criadas y que no vayas a ningún otro campo, para que nadie te moleste.\nRut siguió, pues, recogiendo espigas con las criadas de Booz hasta que se terminó la cosecha de la cebada y el trigo. Mientras tanto, vivía en compañía de su suegra.",
+      "chapter_html": "<div class=\"version vid52 iso6393spa\" data-vid=\"52\" data-iso6393=\"spa\">\n   <div class=\"book bkRUT\">\n      <div class=\"chapter ch2\" data-usfm=\"RUT.2\">\n         <div class=\"label\">2</div><div class=\"s1\"><span class=\"heading\">Rut en el campo de Booz</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"RUT.2.1\"><span class=\"label\">1</span><span class=\"content\">Noem&#237; ten&#237;a un pariente por parte de su esposo Elim&#233;lec, que se llamaba Booz</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2.1 </span><span class=\"ft\">El nombre <span class=\"it\">Booz</span> (heb. <span class=\"tl\">B&#243;az</span>) podr&#237;a significar <span class=\"it\">en &#233;l</span> (es decir, <span class=\"it\">en el Se&#241;or</span>) <span class=\"it\">est&#225; la fuerza.</span> V&#233;ase en 1&#160;R 7.21&#160;n. el nombre de una de las columnas que estaban a la entrada del templo de Jerusal&#233;n.</span></span></span><span class=\"content\"> y era muy rico e influyente.</span></span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"RUT.2.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"RUT.2.2\"><span class=\"label\">2</span><span class=\"content\">Un d&#237;a Rut le dijo a Noem&#237;:</span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"RUT.2.2\"><span class=\"content\">&#8212;D&#233;jame que vaya al campo, a ver si alg&#250;n segador me permite ir detr&#225;s de &#233;l recogiendo espigas.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2.2 </span><span class=\"ft\">La Ley permit&#237;a a los pobres recoger las espigas que iban cayendo detr&#225;s de los segadores (cf. Lv 19.9-10; 23.22; Dt 24.19).</span></span></span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"RUT.2.2\"><span class=\"content\">&#8212;Ve, hija m&#237;a &#8212;le respondi&#243; su suegra.</span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"RUT.2.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"RUT.2.3\"><span class=\"label\">3</span><span class=\"content\">Rut, pues, fue al campo y se puso a recoger las espigas que dejaban los segadores. Y tuvo la suerte de que aquel campo fuera de Booz, el pariente de Elim&#233;lec. </span></span><span class=\"verse v4\" data-usfm=\"RUT.2.4\"><span class=\"label\">4</span><span class=\"content\">En eso, Booz lleg&#243; de Bel&#233;n y salud&#243; a los segadores:</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"RUT.2.4\"><span class=\"content\">&#8212;&#161;Que el Se&#241;or est&#233; con ustedes!</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"RUT.2.4\"><span class=\"content\">&#8212;&#161;Que el Se&#241;or le bendiga a usted! &#8212;le respondieron ellos.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2.4 </span><span class=\"ft\">Cf. Nm 6.24; Sal 129.8.</span></span></span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"RUT.2.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"RUT.2.5\"><span class=\"label\">5</span><span class=\"content\">Luego Booz le pregunt&#243; al capataz de los segadores:</span></span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"RUT.2.5\"><span class=\"content\">&#8212;&#191;De qu&#233; familia es esa muchacha?</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2.5 </span><span class=\"fq\">&#191;De qu&#233; familia es &#233;sta muchacha?: </span><span class=\"ft\">Lit. </span><span class=\"fqa\">&#191;A qui&#233;n pertenece esta muchacha?, </span><span class=\"ft\">pregunta muy comprensible en una &#233;poca en que la mujer, debido a su condici&#243;n social, depend&#237;a necesariamente de su padre, esposo, hermano o due&#241;o.</span></span></span></span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"RUT.2.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"RUT.2.6\"><span class=\"label\">6</span><span class=\"content\">El capataz le contest&#243;:</span></span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"RUT.2.6\"><span class=\"content\">&#8212;Es una moabita, que vino de Moab con Noem&#237;. </span></span><span class=\"verse v7\" data-usfm=\"RUT.2.7\"><span class=\"label\">7</span><span class=\"content\">Me pidi&#243; permiso para ir detr&#225;s de los segadores recogiendo espigas, y se ha pasado trabajando toda la ma&#241;ana, hasta ahora mismo que ha venido a descansar un poco.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2.7 </span><span class=\"fq\">Para ir detr&#225;s... un poco: </span><span class=\"ft\">traducci&#243;n probable. Heb. oscuro.</span></span></span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"RUT.2.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"RUT.2.8\"><span class=\"label\">8</span><span class=\"content\">Entonces Booz le dijo a Rut:</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"RUT.2.8\"><span class=\"content\">&#8212;Escucha, hija m&#237;a, no vayas a recoger espigas a ning&#250;n otro campo. Qu&#233;date aqu&#237;, con mis criadas, </span></span><span class=\"verse v9\" data-usfm=\"RUT.2.9\"><span class=\"label\">9</span><span class=\"content\">y luego s&#237;guelas a donde veas que los segadores est&#225;n trabajando. Ya he dado &#243;rdenes a mis criados para que nadie te moleste. Cuando tengas sed, ve a donde est&#225;n las vasijas del agua y toma de la que ellos sacan.</span></span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"RUT.2.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"RUT.2.10\"><span class=\"label\">10</span><span class=\"content\">Rut se inclin&#243; hasta el suelo en se&#241;al de respeto, y le pregunt&#243; a Booz:</span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"RUT.2.10\"><span class=\"content\">&#8212;&#191;Por qu&#233; se ha fijado usted en m&#237; y es tan amable conmigo, siendo yo una extranjera?</span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"RUT.2.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"RUT.2.11\"><span class=\"label\">11</span><span class=\"content\">Booz respondi&#243;:</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"RUT.2.11\"><span class=\"content\">&#8212;S&#233; muy bien todo lo que has hecho por tu suegra desde que muri&#243; tu marido, y tambi&#233;n s&#233; que dejaste a tus padres y a tu patria por venir a vivir con nosotros, que &#233;ramos gente desconocida para ti. </span></span><span class=\"verse v12\" data-usfm=\"RUT.2.12\"><span class=\"label\">12</span><span class=\"content\">&#161;Que Dios te lo pague! &#161;Que el Se&#241;or y Dios de Israel, en quien has buscado amparo,</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2.12 </span><span class=\"fq\">En quien has buscado amparo: </span><span class=\"ft\">Lit. </span><span class=\"fqa\">bajo cuyas alas te has amparado. </span><span class=\"ft\">V&#233;ase Sal 17.8 nota; cf. Dt 32.11.</span></span></span><span class=\"content\"> te premie por todo lo que has hecho!</span></span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"RUT.2.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"RUT.2.13\"><span class=\"label\">13</span><span class=\"content\">Ella le contest&#243;:</span></span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"RUT.2.13\"><span class=\"content\">&#8212;Usted es muy amable conmigo, y sus palabras me llenan de aliento. Me ha hablado usted con cari&#241;o, aunque yo ni siquiera soy como una de sus criadas.</span></span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"RUT.2.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"RUT.2.14\"><span class=\"label\">14</span><span class=\"content\">A la hora de comer, Booz llam&#243; a Rut y le dijo:</span></span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"RUT.2.14\"><span class=\"content\">&#8212;Ven ac&#225;, toma un pedazo de pan y m&#243;jalo en esta salsa de vinagre.</span></span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"RUT.2.14\"><span class=\"content\">Rut se sent&#243; junto a los segadores, y Booz le dio grano tostado. Ella comi&#243; hasta quedar satisfecha, y todav&#237;a le sobr&#243;. </span></span><span class=\"verse v15\" data-usfm=\"RUT.2.15\"><span class=\"label\">15</span><span class=\"content\">Luego, cuando fue otra vez a recoger espigas, Booz orden&#243; a sus criados:</span></span></div><div class=\"p\"><span class=\"verse v15\" data-usfm=\"RUT.2.15\"><span class=\"content\">&#8212;Dejen que tambi&#233;n recoja espigas entre los manojos de cebada. No se lo impidan. </span></span><span class=\"verse v16\" data-usfm=\"RUT.2.16\"><span class=\"label\">16</span><span class=\"content\">Y aun dejen caer algunas espigas de sus propios manojos, para que ella las recoja. &#161;Que nadie la moleste!</span></span></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"RUT.2.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"RUT.2.17\"><span class=\"label\">17</span><span class=\"content\">Rut recogi&#243; espigas en el campo de Booz hasta que lleg&#243; la noche. Y lo recogido por ella dio, al desgranarlo, m&#225;s de veinte kilos de cebada. </span></span><span class=\"verse v18\" data-usfm=\"RUT.2.18\"><span class=\"label\">18</span><span class=\"content\">Regres&#243; entonces a la ciudad cargada con el grano, y fue a mostr&#225;rselo a su suegra. Despu&#233;s sac&#243; lo que le hab&#237;a sobrado de la comida y se lo dio a Noem&#237;.</span></span></div><div class=\"p\"><span class=\"verse v18\" data-usfm=\"RUT.2.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"RUT.2.19\"><span class=\"label\">19</span><span class=\"content\">&#8212;&#191;D&#243;nde trabajaste hoy? &#8212;le pregunt&#243; Noem&#237;&#8212;. &#191;D&#243;nde recogiste tantas espigas? &#161;Bendito sea el que te ha ayudado de esa manera!</span></span></div><div class=\"p\"><span class=\"verse v19\" data-usfm=\"RUT.2.19\"><span class=\"content\">Rut le cont&#243; a su suegra con qui&#233;n hab&#237;a estado trabajando.</span></span></div><div class=\"p\"><span class=\"verse v19\" data-usfm=\"RUT.2.19\"><span class=\"content\">&#8212;El hombre con quien he trabajado se llama Booz &#8212;le dijo.</span></span></div><div class=\"p\"><span class=\"verse v19\" data-usfm=\"RUT.2.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"RUT.2.20\"><span class=\"label\">20</span><span class=\"content\">Y Noem&#237; le contest&#243;:</span></span></div><div class=\"p\"><span class=\"verse v20\" data-usfm=\"RUT.2.20\"><span class=\"content\">&#8212;&#161;Que el Se&#241;or lo bendiga! &#201;l ha sido bondadoso con nosotras ahora, como antes lo fue con los que ya han muerto. Ese hombre es pariente cercano de nosotras, y por eso es uno de los que tienen el deber de protegernos.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2.20 </span><span class=\"ft\">El <span class=\"it\">pariente cercano</span> (heb. <span class=\"it\">goel,</span> &#171;el que rescata o libera&#187;) ten&#237;a en este caso una doble obligaci&#243;n: rescatar la parcela de terreno que Noem&#237; hab&#237;a puesto en venta (Rt 4.3) y casarse con Rut para asegurarle una descendencia a Elim&#233;lec (Rt 1.1-5). De hecho, el hijo que Booz tendr&#225; de Rut ser&#225; considerado hijo de Mahl&#243;n (Rt 4.10), el cual, a su vez, era hijo de Elim&#233;lec y de Noem&#237; (cf. Rt 4.17). Cf. Dt 25.5-10, y v&#233;ase Ex 6.6&#160;n.</span></span></span></span></div><div class=\"p\"><span class=\"verse v20\" data-usfm=\"RUT.2.20\"><span class=\"content\">  </span></span><span class=\"verse v21\" data-usfm=\"RUT.2.21\"><span class=\"label\">21</span><span class=\"content\">Rut a&#241;adi&#243;:</span></span></div><div class=\"p\"><span class=\"verse v21\" data-usfm=\"RUT.2.21\"><span class=\"content\">&#8212;Tambi&#233;n me dijo que siga yo trabajando con sus criadas hasta que se termine la cosecha.</span></span></div><div class=\"p\"><span class=\"verse v21\" data-usfm=\"RUT.2.21\"><span class=\"content\">  </span></span><span class=\"verse v22\" data-usfm=\"RUT.2.22\"><span class=\"label\">22</span><span class=\"content\">Entonces Noem&#237; respondi&#243; a su nuera:</span></span></div><div class=\"p\"><span class=\"verse v22\" data-usfm=\"RUT.2.22\"><span class=\"content\">&#8212;Hija m&#237;a, me parece bien que te quedes con sus criadas y que no vayas a ning&#250;n otro campo, para que nadie te moleste.</span></span></div><div class=\"p\"><span class=\"verse v22\" data-usfm=\"RUT.2.22\"><span class=\"content\">  </span></span><span class=\"verse v23\" data-usfm=\"RUT.2.23\"><span class=\"label\">23</span><span class=\"content\">Rut sigui&#243;, pues, recogiendo espigas con las criadas de Booz hasta que se termin&#243; la cosecha de la cebada y el trigo.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2.23 </span><span class=\"ft\">La cosecha del <span class=\"it\">trigo</span> empezaba unos 15 d&#237;as despu&#233;s de <span class=\"it\">la cosecha de la cebada</span> (cf. Ex 9.31-32).</span></span></span><span class=\"content\"> Mientras tanto, viv&#237;a en compa&#241;&#237;a de su suegra.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Rut en el campo de Booz"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Noemí tenía un pariente por parte de su esposo Elimélec, que se llamaba Booz y era muy rico e influyente."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Un día Rut le dijo a Noemí:",
+            "—Déjame que vaya al campo, a ver si algún segador me permite ir detrás de él recogiendo espigas.",
+            "—Ve, hija mía —le respondió su suegra."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Rut, pues, fue al campo y se puso a recoger las espigas que dejaban los segadores. Y tuvo la suerte de que aquel campo fuera de Booz, el pariente de Elimélec."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "En eso, Booz llegó de Belén y saludó a los segadores:",
+            "—¡Que el Señor esté con ustedes!",
+            "—¡Que el Señor le bendiga a usted! —le respondieron ellos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Luego Booz le preguntó al capataz de los segadores:",
+            "—¿De qué familia es esa muchacha?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "El capataz le contestó:",
+            "—Es una moabita, que vino de Moab con Noemí."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Me pidió permiso para ir detrás de los segadores recogiendo espigas, y se ha pasado trabajando toda la mañana, hasta ahora mismo que ha venido a descansar un poco."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Entonces Booz le dijo a Rut:",
+            "—Escucha, hija mía, no vayas a recoger espigas a ningún otro campo. Quédate aquí, con mis criadas,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "y luego síguelas a donde veas que los segadores están trabajando. Ya he dado órdenes a mis criados para que nadie te moleste. Cuando tengas sed, ve a donde están las vasijas del agua y toma de la que ellos sacan."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Rut se inclinó hasta el suelo en señal de respeto, y le preguntó a Booz:",
+            "—¿Por qué se ha fijado usted en mí y es tan amable conmigo, siendo yo una extranjera?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Booz respondió:",
+            "—Sé muy bien todo lo que has hecho por tu suegra desde que murió tu marido, y también sé que dejaste a tus padres y a tu patria por venir a vivir con nosotros, que éramos gente desconocida para ti."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "¡Que Dios te lo pague! ¡Que el Señor y Dios de Israel, en quien has buscado amparo, te premie por todo lo que has hecho!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Ella le contestó:",
+            "—Usted es muy amable conmigo, y sus palabras me llenan de aliento. Me ha hablado usted con cariño, aunque yo ni siquiera soy como una de sus criadas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "A la hora de comer, Booz llamó a Rut y le dijo:",
+            "—Ven acá, toma un pedazo de pan y mójalo en esta salsa de vinagre.",
+            "Rut se sentó junto a los segadores, y Booz le dio grano tostado. Ella comió hasta quedar satisfecha, y todavía le sobró."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Luego, cuando fue otra vez a recoger espigas, Booz ordenó a sus criados:",
+            "—Dejen que también recoja espigas entre los manojos de cebada. No se lo impidan."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Y aun dejen caer algunas espigas de sus propios manojos, para que ella las recoja. ¡Que nadie la moleste!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Rut recogió espigas en el campo de Booz hasta que llegó la noche. Y lo recogido por ella dio, al desgranarlo, más de veinte kilos de cebada."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Regresó entonces a la ciudad cargada con el grano, y fue a mostrárselo a su suegra. Después sacó lo que le había sobrado de la comida y se lo dio a Noemí."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "—¿Dónde trabajaste hoy? —le preguntó Noemí—. ¿Dónde recogiste tantas espigas? ¡Bendito sea el que te ha ayudado de esa manera!",
+            "Rut le contó a su suegra con quién había estado trabajando.",
+            "—El hombre con quien he trabajado se llama Booz —le dijo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Y Noemí le contestó:",
+            "—¡Que el Señor lo bendiga! Él ha sido bondadoso con nosotras ahora, como antes lo fue con los que ya han muerto. Ese hombre es pariente cercano de nosotras, y por eso es uno de los que tienen el deber de protegernos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "Rut añadió:",
+            "—También me dijo que siga yo trabajando con sus criadas hasta que se termine la cosecha."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "Entonces Noemí respondió a su nuera:",
+            "—Hija mía, me parece bien que te quedes con sus criadas y que no vayas a ningún otro campo, para que nadie te moleste."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "Rut siguió, pues, recogiendo espigas con las criadas de Booz hasta que se terminó la cosecha de la cebada y el trigo. Mientras tanto, vivía en compañía de su suegra."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "RUT.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "RUT.3"
+        ],
+        "human": "Rut 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "RUT.4"
+        ],
+        "human": "Rut 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "RUT.2"
+        ],
+        "human": "Rut 2",
+        "toc": true
+      },
+      "chapter_text": "Un día Noemí le dijo a Rut:\n—Hija mía, yo debo buscarte un esposo que te haga feliz. Mira, nuestro pariente Booz, con cuyas criadas estuviste trabajando, va a ir esta noche al campo a separar el grano de la paja. Haz, pues, lo siguiente: Báñate, perfúmate y ponte tu mejor vestido, y vete allá. Pero no dejes que Booz te reconozca antes que termine de comer y beber. Fíjate bien en dónde se acuesta a dormir. Entonces ve y destápale los pies, y acuéstate allí. Luego, él mismo te dirá lo que debes hacer.\nRut contestó:\n—Haré todo lo que me has dicho.\nRut se fue al campo e hizo todo lo que su suegra le había mandado. Booz comió, bebió y se mostró muy contento. Luego se acostó a dormir junto al montón de grano. Más tarde Rut llegó sin hacer ruido, le destapó los pies y se acostó allí. A medianoche, Booz se despertó de pronto, y al darse una vuelta se sorprendió de que una mujer estuviera acostada a sus pies.\n—¿Quién eres tú? —preguntó Booz.\n—Soy Rut, su servidora —contestó ella—. Usted es mi pariente más cercano y tiene el deber de ampararme. Quiero que se case usted conmigo.\n—¡Que el Señor te bendiga! —dijo Booz—. Ahora más que nunca has mostrado que eres fiel a tu difunto esposo. Bien podrías haber buscado a otro más joven que yo, pobre o rico, pero no lo has hecho. No tengas miedo, hija mía, que todos en mi pueblo saben ya que eres una mujer ejemplar. Por eso, yo haré lo que me pidas. Sin embargo, aunque es verdad que soy pariente cercano tuyo, tú tienes otro pariente aún más cercano que yo. Quédate aquí esta noche. Si mañana él quiere cumplir con sus deberes de pariente, que lo haga; pero si no lo hace, te prometo delante del Señor que yo lo haré. Ahora duérmete hasta que amanezca.\nRut durmió aquella noche a los pies de Booz. Al día siguiente se levantó antes del amanecer, cuando todavía estaba muy oscuro, porque Booz había dicho: «Nadie debe saber que esta mujer ha venido al campo.»\nEntonces Booz le dijo:\n—Quítate la capa y sujétala bien.\nMientras Rut sostenía su capa, Booz echó en ella más de cuarenta kilos de cebada. Luego la ayudó a echarse la carga sobre el hombro, y ella se fue a la ciudad.\nCuando Rut llegó a donde estaba su suegra, esta le preguntó:\n—¿Qué tal te fue, hija mía?\nRut le contó todo lo que Booz había hecho por ella, y añadió:\n—Me dio toda esta cebada, y me dijo: «No debes volver a tu suegra con las manos vacías.»\nEntonces Noemí dijo:\n—Ahora, hija mía, espera a ver qué pasa. Este hombre no descansará hoy hasta dejar resuelto el asunto.",
+      "chapter_html": "<div class=\"version vid52 iso6393spa\" data-vid=\"52\" data-iso6393=\"spa\">\n   <div class=\"book bkRUT\">\n      <div class=\"chapter ch3\" data-usfm=\"RUT.3\">\n         <div class=\"label\">3</div><div class=\"s1\"><span class=\"heading\">La bondad de Booz</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"RUT.3.1\"><span class=\"label\">1</span><span class=\"content\">Un d&#237;a Noem&#237; le dijo a Rut:</span></span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"RUT.3.1\"><span class=\"content\">&#8212;Hija m&#237;a, yo debo buscarte un esposo</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3.1 </span><span class=\"fq\">Yo debo buscarte un esposo: </span><span class=\"ft\">Lit. </span><span class=\"fqa\">&#191;no debo buscarte un lugar de reposo? </span><span class=\"ft\">La imagen del lugar donde descansar se emplea para referirse al matrimonio.</span></span></span><span class=\"content\"> que te haga feliz. </span></span><span class=\"verse v2\" data-usfm=\"RUT.3.2\"><span class=\"label\">2</span><span class=\"content\">Mira, nuestro pariente Booz, con cuyas criadas estuviste trabajando, va a ir esta noche al campo a separar el grano de la paja.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3.2 </span><span class=\"ft\">V&#233;ase Mt 3.12&#160;n.; cf. Sal 1.4.</span></span></span><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"RUT.3.3\"><span class=\"label\">3</span><span class=\"content\">Haz, pues, lo siguiente: B&#225;&#241;ate, perf&#250;mate</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3.3 </span><span class=\"fq\">Perf&#250;mate: </span><span class=\"ft\">como la novia que va al encuentro de su esposo (cf. Ez 16.8-13).</span></span></span><span class=\"content\"> y ponte tu mejor vestido, y vete all&#225;. Pero no dejes que Booz te reconozca antes que termine de comer y beber. </span></span><span class=\"verse v4\" data-usfm=\"RUT.3.4\"><span class=\"label\">4</span><span class=\"content\">F&#237;jate bien en d&#243;nde se acuesta a dormir. Entonces ve y dest&#225;pale los pies, y acu&#233;state all&#237;. Luego, &#233;l mismo te dir&#225; lo que debes hacer.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3.1-4 </span><span class=\"ft\">Noem&#237; hace que Rut tome conciencia de su derecho y le da las indicaciones pertinentes para que ella misma lo haga valer delante de su pariente cercano (heb. <span class=\"it\">goel;</span> v&#233;ase Rt 2.20&#160;n.).</span></span></span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"RUT.3.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"RUT.3.5\"><span class=\"label\">5</span><span class=\"content\">Rut contest&#243;:</span></span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"RUT.3.5\"><span class=\"content\">&#8212;Har&#233; todo lo que me has dicho.</span></span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"RUT.3.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"RUT.3.6\"><span class=\"label\">6</span><span class=\"content\">Rut se fue al campo e hizo todo lo que su suegra le hab&#237;a mandado. </span></span><span class=\"verse v7\" data-usfm=\"RUT.3.7\"><span class=\"label\">7</span><span class=\"content\">Booz comi&#243;, bebi&#243; y se mostr&#243; muy contento. Luego se acost&#243; a dormir junto al mont&#243;n de grano. M&#225;s tarde Rut lleg&#243; sin hacer ruido, le destap&#243; los pies y se acost&#243; all&#237;.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3.7 </span><span class=\"ft\">Cf. en Gn 38.13-19 la estratagema de que se vali&#243; Tamar, la nuera de Jud&#225;, para que se le reconociera este mismo derecho.</span></span></span><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"RUT.3.8\"><span class=\"label\">8</span><span class=\"content\">A medianoche, Booz se despert&#243; de pronto, y al darse una vuelta se sorprendi&#243; de que una mujer estuviera acostada a sus pies.</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"RUT.3.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"RUT.3.9\"><span class=\"label\">9</span><span class=\"content\">&#8212;&#191;Qui&#233;n eres t&#250;? &#8212;pregunt&#243; Booz.</span></span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"RUT.3.9\"><span class=\"content\">&#8212;Soy Rut, su servidora &#8212;contest&#243; ella&#8212;. Usted es mi pariente m&#225;s cercano y tiene el deber de ampararme. Quiero que se case usted conmigo.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3.9 </span><span class=\"fq\">Quiero... conmigo: </span><span class=\"ft\">Lit. </span><span class=\"fqa\">quiero que extienda sobre m&#237; el borde de su manto. </span><span class=\"ft\">Seg&#250;n las costumbres de la &#233;poca, el gesto de echar encima el manto era una forma simb&#243;lica de tomar posesi&#243;n. En este caso, la toma de posesi&#243;n reca&#237;a sobre la mujer aceptada como esposa. V&#233;ase 1&#160;R 19.19 nota.</span></span></span></span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"RUT.3.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"RUT.3.10\"><span class=\"label\">10</span><span class=\"content\">&#8212;&#161;Que el Se&#241;or te bendiga! &#8212;dijo Booz&#8212;. Ahora m&#225;s que nunca has mostrado que eres fiel a tu difunto esposo. Bien podr&#237;as haber buscado a otro m&#225;s joven que yo, pobre o rico, pero no lo has hecho. </span></span><span class=\"verse v11\" data-usfm=\"RUT.3.11\"><span class=\"label\">11</span><span class=\"content\">No tengas miedo, hija m&#237;a, que todos en mi pueblo</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3.11 </span><span class=\"fq\">Todos en mi pueblo: </span><span class=\"ft\">Lit. </span><span class=\"fqa\">toda la puerta de mi pueblo. </span><span class=\"ft\">Alusi&#243;n a la puerta por la que se entraba en una ciudad amurallada (cf. Jos 2.7) y que era el punto de reuni&#243;n de toda la gente del lugar. V&#233;ase Rt 4.1&#160;n.; cf. Job 29.7-10.</span></span></span><span class=\"content\"> saben ya que eres una mujer ejemplar. Por eso, yo har&#233; lo que me pidas. </span></span><span class=\"verse v12\" data-usfm=\"RUT.3.12\"><span class=\"label\">12</span><span class=\"content\">Sin embargo, aunque es verdad que soy pariente cercano tuyo, t&#250; tienes otro pariente a&#250;n m&#225;s cercano que yo.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3.12 </span><span class=\"ft\">A este pariente m&#225;s cercano le correspond&#237;a la obligaci&#243;n y el derecho de cumplir con sus funciones de <span class=\"it\">goel</span> (v&#233;ase Rt 2.20&#160;n.), en primer lugar el de casarse con Rut. Cf. Rt 4.3-6.</span></span></span><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"RUT.3.13\"><span class=\"label\">13</span><span class=\"content\">Qu&#233;date aqu&#237; esta noche. Si ma&#241;ana &#233;l quiere cumplir con sus deberes de pariente, que lo haga; pero si no lo hace, te prometo delante del Se&#241;or que yo lo har&#233;. Ahora du&#233;rmete hasta que amanezca.</span></span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"RUT.3.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"RUT.3.14\"><span class=\"label\">14</span><span class=\"content\">Rut durmi&#243; aquella noche a los pies de Booz. Al d&#237;a siguiente se levant&#243; antes del amanecer, cuando todav&#237;a estaba muy oscuro, porque Booz hab&#237;a dicho: &#171;Nadie debe saber que esta mujer ha venido al campo.&#187;</span></span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"RUT.3.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"RUT.3.15\"><span class=\"label\">15</span><span class=\"content\">Entonces Booz le dijo:</span></span></div><div class=\"p\"><span class=\"verse v15\" data-usfm=\"RUT.3.15\"><span class=\"content\">&#8212;Qu&#237;tate la capa y suj&#233;tala bien.</span></span></div><div class=\"p\"><span class=\"verse v15\" data-usfm=\"RUT.3.15\"><span class=\"content\">Mientras Rut sosten&#237;a su capa, Booz ech&#243; en ella m&#225;s de cuarenta kilos de cebada. Luego la ayud&#243; a echarse la carga sobre el hombro, y ella se fue a la ciudad.</span></span></div><div class=\"p\"><span class=\"verse v15\" data-usfm=\"RUT.3.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"RUT.3.16\"><span class=\"label\">16</span><span class=\"content\">Cuando Rut lleg&#243; a donde estaba su suegra, esta le pregunt&#243;:</span></span></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"RUT.3.16\"><span class=\"content\">&#8212;&#191;Qu&#233; tal te fue, hija m&#237;a?</span></span></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"RUT.3.16\"><span class=\"content\">Rut le cont&#243; todo lo que Booz hab&#237;a hecho por ella, </span></span><span class=\"verse v17\" data-usfm=\"RUT.3.17\"><span class=\"label\">17</span><span class=\"content\">y a&#241;adi&#243;:</span></span></div><div class=\"p\"><span class=\"verse v17\" data-usfm=\"RUT.3.17\"><span class=\"content\">&#8212;Me dio toda esta cebada, y me dijo: &#171;No debes volver a tu suegra con las manos vac&#237;as.&#187;</span></span></div><div class=\"p\"><span class=\"verse v17\" data-usfm=\"RUT.3.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"RUT.3.18\"><span class=\"label\">18</span><span class=\"content\">Entonces Noem&#237; dijo:</span></span></div><div class=\"p\"><span class=\"verse v18\" data-usfm=\"RUT.3.18\"><span class=\"content\">&#8212;Ahora, hija m&#237;a, espera a ver qu&#233; pasa. Este hombre no descansar&#225; hoy hasta dejar resuelto el asunto.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "La bondad de Booz"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Un día Noemí le dijo a Rut:",
+            "—Hija mía, yo debo buscarte un esposo que te haga feliz."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Mira, nuestro pariente Booz, con cuyas criadas estuviste trabajando, va a ir esta noche al campo a separar el grano de la paja."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Haz, pues, lo siguiente: Báñate, perfúmate y ponte tu mejor vestido, y vete allá. Pero no dejes que Booz te reconozca antes que termine de comer y beber."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Fíjate bien en dónde se acuesta a dormir. Entonces ve y destápale los pies, y acuéstate allí. Luego, él mismo te dirá lo que debes hacer."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Rut contestó:",
+            "—Haré todo lo que me has dicho."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Rut se fue al campo e hizo todo lo que su suegra le había mandado."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Booz comió, bebió y se mostró muy contento. Luego se acostó a dormir junto al montón de grano. Más tarde Rut llegó sin hacer ruido, le destapó los pies y se acostó allí."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "A medianoche, Booz se despertó de pronto, y al darse una vuelta se sorprendió de que una mujer estuviera acostada a sus pies."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "—¿Quién eres tú? —preguntó Booz.",
+            "—Soy Rut, su servidora —contestó ella—. Usted es mi pariente más cercano y tiene el deber de ampararme. Quiero que se case usted conmigo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "—¡Que el Señor te bendiga! —dijo Booz—. Ahora más que nunca has mostrado que eres fiel a tu difunto esposo. Bien podrías haber buscado a otro más joven que yo, pobre o rico, pero no lo has hecho."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "No tengas miedo, hija mía, que todos en mi pueblo saben ya que eres una mujer ejemplar. Por eso, yo haré lo que me pidas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Sin embargo, aunque es verdad que soy pariente cercano tuyo, tú tienes otro pariente aún más cercano que yo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Quédate aquí esta noche. Si mañana él quiere cumplir con sus deberes de pariente, que lo haga; pero si no lo hace, te prometo delante del Señor que yo lo haré. Ahora duérmete hasta que amanezca."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Rut durmió aquella noche a los pies de Booz. Al día siguiente se levantó antes del amanecer, cuando todavía estaba muy oscuro, porque Booz había dicho: «Nadie debe saber que esta mujer ha venido al campo.»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Entonces Booz le dijo:",
+            "—Quítate la capa y sujétala bien.",
+            "Mientras Rut sostenía su capa, Booz echó en ella más de cuarenta kilos de cebada. Luego la ayudó a echarse la carga sobre el hombro, y ella se fue a la ciudad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Cuando Rut llegó a donde estaba su suegra, esta le preguntó:",
+            "—¿Qué tal te fue, hija mía?",
+            "Rut le contó todo lo que Booz había hecho por ella,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "y añadió:",
+            "—Me dio toda esta cebada, y me dijo: «No debes volver a tu suegra con las manos vacías.»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Entonces Noemí dijo:",
+            "—Ahora, hija mía, espera a ver qué pasa. Este hombre no descansará hoy hasta dejar resuelto el asunto."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "RUT.4",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "RUT.4"
+        ],
+        "human": "Rut 4"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "1SA.1"
+        ],
+        "human": "1 Samuel 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "RUT.3"
+        ],
+        "human": "Rut 3",
+        "toc": true
+      },
+      "chapter_text": "Más tarde, Booz fue a sentarse a la entrada del pueblo, que era el lugar donde se reunía la gente. En aquel momento pasaba por allí el pariente del cual Booz había hablado.\n—Oye —le dijo Booz—, ven acá y siéntate.\nEl pariente fue y se sentó. En seguida Booz llamó a diez ancianos del pueblo, y también les pidió que se sentaran con él. Cuando ellos se sentaron, Booz le dijo a su pariente:\n—Noemí, que ha vuelto de Moab, está decidida a vender el terreno que perteneció a nuestro pariente Elimélec. Quiero que lo sepas, para que, si te interesa comprarlo, lo hagas ahora delante de estos testigos y de los ancianos del pueblo. Como tú eres el pariente más cercano de Elimélec, tienes el derecho de comprar su tierra. Pero si tú no la compras, házmelo saber, pues después de ti yo soy quien tiene ese derecho.\nEl pariente contestó:\n—La compro.\nEntonces Booz le hizo esta aclaración:\n—Ten en cuenta que si compras el terreno de Noemí, quedas también obligado a casarte con Rut, la viuda moabita, para que la propiedad siga a nombre del difunto.\nAl oír esto, el pariente contestó:\n—En ese caso no puedo hacer la compra, porque podría perjudicar mi herencia. Pero si tú quieres comprar, hazlo; yo te cedo mis derechos de compra.\nEn aquellos tiempos había en Israel una costumbre: cuando uno cedía a otro el derecho de parentesco, o cuando se cerraba un contrato de compra-venta, el que cedía o vendía se quitaba una sandalia y se la daba al otro. De acuerdo, pues, con esta costumbre, el pariente de Booz se quitó la sandalia, se la dio a Booz y le dijo:\n—Compra tú.\nEntonces Booz dijo a los ancianos y a los allí presentes:\n—Todos ustedes son hoy testigos de que le compro a Noemí las propiedades de Elimélec, Quilión y Mahlón. También son testigos de que tomo por esposa a Rut, la viuda moabita, para que la propiedad se mantenga a nombre de Mahlón, su difunto esposo. Así no se borrará el nombre de Mahlón de entre los suyos, ni será olvidado en este pueblo. Hoy son ustedes testigos.\nLos ancianos y todos los presentes contestaron:\n—Sí, lo somos. ¡El Señor haga que la mujer que va a entrar en tu casa sea como Raquel y Lía, de quienes descendemos todos los israelitas! Y tú, sé un hombre ilustre en Efrata, un hombre notable en Belén. Que el Señor te dé muchos hijos de esta mujer. Que tengas una familia numerosa, como la tuvo Fares, el hijo de Tamar y Judá.\nAsí fue como Booz se casó con Rut. Y se unió a ella, y el Señor permitió que quedara embarazada y que tuviera un hijo.\nEntonces las mujeres decían a Noemí:\n—¡Alabado sea el Señor, que te ha dado hoy un nieto para que cuide de ti! ¡Ojalá tu nieto sea famoso en Israel! Él te dará ánimos y te sostendrá en tu vejez, porque es el hijo de tu nuera, la que tanto te quiere y que vale para ti más que siete hijos.\nNoemí tomó al niño en su regazo y se encargó de criarlo. Al verlo, las vecinas decían:\n—¡Le ha nacido un hijo a Noemí!\nY le pusieron por nombre Obed. Este fue el padre de Jesé y abuelo de David.\n\nEstos fueron los descendientes de Fares: Fares fue el padre de Hesrón, Hesrón fue el padre de Ram, Ram fue el padre de Aminadab, Aminadab fue el padre de Nahasón, Nahasón fue el padre de Salmón, Salmón fue el padre de Booz, Booz fue el padre de Obed, Obed fue el padre de Jesé, y Jesé fue el padre de David.",
+      "chapter_html": "<div class=\"version vid52 iso6393spa\" data-vid=\"52\" data-iso6393=\"spa\">\n   <div class=\"book bkRUT\">\n      <div class=\"chapter ch4\" data-usfm=\"RUT.4\">\n         <div class=\"label\">4</div><div class=\"s1\"><span class=\"heading\">Boda de Booz y Rut</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"RUT.4.1\"><span class=\"label\">1</span><span class=\"content\">M&#225;s tarde, Booz fue a sentarse a la entrada del pueblo,</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4.1 </span><span class=\"fq\">La entrada del pueblo: </span><span class=\"ft\">Lit. </span><span class=\"fqa\">la puerta de la ciudad, </span><span class=\"ft\">que era el lugar donde se comunicaban las noticias, se arreglaban los negocios y se administraba justicia (Dt 25.7; 2&#160;S 15.2). V&#233;ase tambi&#233;n Rt 3.11&#160;n.</span></span></span><span class=\"content\"> que era el lugar donde se reun&#237;a la gente. En aquel momento pasaba por all&#237; el pariente del cual Booz hab&#237;a hablado.</span></span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"RUT.4.1\"><span class=\"content\">&#8212;Oye &#8212;le dijo Booz&#8212;, ven ac&#225; y si&#233;ntate.</span></span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"RUT.4.1\"><span class=\"content\">El pariente fue y se sent&#243;. </span></span><span class=\"verse v2\" data-usfm=\"RUT.4.2\"><span class=\"label\">2</span><span class=\"content\">En seguida Booz llam&#243; a diez ancianos del pueblo, y tambi&#233;n les pidi&#243; que se sentaran con &#233;l. Cuando ellos se sentaron, </span></span><span class=\"verse v3\" data-usfm=\"RUT.4.3\"><span class=\"label\">3</span><span class=\"content\">Booz le dijo a su pariente:</span></span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"RUT.4.3\"><span class=\"content\">&#8212;Noem&#237;, que ha vuelto de Moab, est&#225; decidida a vender el terreno que perteneci&#243; a nuestro pariente Elim&#233;lec. </span></span><span class=\"verse v4\" data-usfm=\"RUT.4.4\"><span class=\"label\">4</span><span class=\"content\">Quiero que lo sepas, para que, si te interesa comprarlo, lo hagas ahora delante de estos testigos y de los ancianos del pueblo. Como t&#250; eres el pariente m&#225;s cercano de Elim&#233;lec, tienes el derecho de comprar su tierra. Pero si t&#250; no la compras, h&#225;zmelo saber, pues despu&#233;s de ti yo soy quien tiene ese derecho.</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"RUT.4.4\"><span class=\"content\">El pariente contest&#243;:</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"RUT.4.4\"><span class=\"content\">&#8212;La compro.</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"RUT.4.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"RUT.4.5\"><span class=\"label\">5</span><span class=\"content\">Entonces Booz le hizo esta aclaraci&#243;n:</span></span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"RUT.4.5\"><span class=\"content\">&#8212;Ten en cuenta que si compras el terreno de Noem&#237;, quedas tambi&#233;n obligado a casarte con Rut, la viuda moabita, para que la propiedad siga a nombre del difunto.</span></span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"RUT.4.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"RUT.4.6\"><span class=\"label\">6</span><span class=\"content\">Al o&#237;r esto, el pariente contest&#243;:</span></span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"RUT.4.6\"><span class=\"content\">&#8212;En ese caso no puedo hacer la compra, porque podr&#237;a perjudicar mi herencia. Pero si t&#250; quieres comprar, hazlo; yo te cedo mis derechos de compra.</span></span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"RUT.4.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"RUT.4.7\"><span class=\"label\">7</span><span class=\"content\">En aquellos tiempos hab&#237;a en Israel una costumbre: cuando uno ced&#237;a a otro</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4.7 </span><span class=\"ft\">La necesidad de hacer esta aclaraci&#243;n muestra que esta antigua costumbre hab&#237;a ca&#237;do en desuso y ya no era comprendida cuando el relato recibi&#243; su forma final.</span></span></span><span class=\"content\"> el derecho de parentesco, o cuando se cerraba un contrato de compra-venta, el que ced&#237;a o vend&#237;a se quitaba una sandalia y se la daba al otro. De acuerdo, pues, con esta costumbre, </span></span><span class=\"verse v8\" data-usfm=\"RUT.4.8\"><span class=\"label\">8</span><span class=\"content\">el pariente de Booz se quit&#243; la sandalia, se la dio a Booz y le dijo:</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"RUT.4.8\"><span class=\"content\">&#8212;Compra t&#250;.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4.7-8 </span><span class=\"ft\">En este gesto simb&#243;lico, la <span class=\"it\">sandalia</span> representa el derecho de propiedad sobre un bien inmueble; la acci&#243;n de quitarse la sandalia y de entregarla expresa la renuncia a ese derecho en beneficio de otro. N&#243;tese la diferencia entre el gesto aqu&#237; descrito y el que se prescribe en Dt 25.7-10.</span></span></span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"RUT.4.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"RUT.4.9\"><span class=\"label\">9</span><span class=\"content\">Entonces Booz dijo a los ancianos y a los all&#237; presentes:</span></span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"RUT.4.9\"><span class=\"content\">&#8212;Todos ustedes son hoy testigos de que le compro a Noem&#237; las propiedades de Elim&#233;lec, Quili&#243;n y Mahl&#243;n. </span></span><span class=\"verse v10\" data-usfm=\"RUT.4.10\"><span class=\"label\">10</span><span class=\"content\">Tambi&#233;n son testigos de que tomo por esposa a Rut, la viuda moabita, para que la propiedad se mantenga a nombre de Mahl&#243;n, su difunto esposo. As&#237; no se borrar&#225; el nombre de Mahl&#243;n de entre los suyos, ni ser&#225; olvidado en este pueblo.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4.10 </span><span class=\"fq\">As&#237; no se borrar&#225;... en este pueblo: </span><span class=\"ft\">V&#233;ase Gn 38.8&#160;n.</span></span></span><span class=\"content\"> Hoy son ustedes testigos.</span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"RUT.4.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"RUT.4.11\"><span class=\"label\">11</span><span class=\"content\">Los ancianos y todos los presentes contestaron:</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"RUT.4.11\"><span class=\"content\">&#8212;S&#237;, lo somos. &#161;El Se&#241;or haga que la mujer que va a entrar en tu casa sea como Raquel y L&#237;a, de quienes descendemos todos los israelitas!</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4.11 </span><span class=\"ft\">Gn 35.22b-26.</span></span></span><span class=\"content\"> Y t&#250;, s&#233; un hombre ilustre en Efrata,</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4.11 </span><span class=\"fk\">Efrata: </span><span class=\"ft\">V&#233;ase Rt 1.1-2 nota.</span></span></span><span class=\"content\"> un hombre notable en Bel&#233;n. </span></span><span class=\"verse v12\" data-usfm=\"RUT.4.12\"><span class=\"label\">12</span><span class=\"content\">Que el Se&#241;or te d&#233; muchos hijos de esta mujer. Que tengas una familia numerosa, como la tuvo Fares, el hijo de Tamar y Jud&#225;.</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Gn 38.27-30.</span></span></span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"RUT.4.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"RUT.4.13\"><span class=\"label\">13</span><span class=\"content\">As&#237; fue como Booz se cas&#243; con Rut. Y se uni&#243; a ella, y el Se&#241;or permiti&#243; que quedara embarazada y que tuviera un hijo.</span></span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"RUT.4.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"RUT.4.14\"><span class=\"label\">14</span><span class=\"content\">Entonces las mujeres dec&#237;an a Noem&#237;:</span></span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"RUT.4.14\"><span class=\"content\">&#8212;&#161;Alabado sea el Se&#241;or, que te ha dado hoy un nieto para que cuide de ti! &#161;Ojal&#225; tu nieto sea famoso en Israel! </span></span><span class=\"verse v15\" data-usfm=\"RUT.4.15\"><span class=\"label\">15</span><span class=\"content\">&#201;l te dar&#225; &#225;nimos y te sostendr&#225; en tu vejez, porque es el hijo de tu nuera, la que tanto te quiere y que vale para ti m&#225;s que siete hijos.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4.15 </span><span class=\"ft\">Para una mujer israelita, tener <span class=\"it\">siete hijos</span> era una bendici&#243;n divina y un gran honor (Job 1.2; cf. 1&#160;S 2.5; Jer 15.9).</span></span></span></span></div><div class=\"p\"><span class=\"verse v15\" data-usfm=\"RUT.4.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"RUT.4.16\"><span class=\"label\">16</span><span class=\"content\">Noem&#237; tom&#243; al ni&#241;o en su regazo</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4.16 </span><span class=\"fq\">Tom&#243; al ni&#241;o en su regazo: </span><span class=\"ft\">No se trata de un acto de adopci&#243;n (v&#233;ase Gn 30.3&#160;n.), sino del gesto de una persona que toma a su cargo el cuidado y la crianza de un ni&#241;o.</span></span></span><span class=\"content\"> y se encarg&#243; de criarlo. </span></span><span class=\"verse v17\" data-usfm=\"RUT.4.17\"><span class=\"label\">17</span><span class=\"content\">Al verlo, las vecinas dec&#237;an:</span></span></div><div class=\"p\"><span class=\"verse v17\" data-usfm=\"RUT.4.17\"><span class=\"content\">&#8212;&#161;Le ha nacido un hijo a Noem&#237;!</span></span></div><div class=\"p\"><span class=\"verse v17\" data-usfm=\"RUT.4.17\"><span class=\"content\">Y le pusieron por nombre Obed.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4.17 </span><span class=\"fq\">Y le pusieron por nombre Obed: </span><span class=\"ft\">Se trata de un hecho inusual, ya que el nombre lo pon&#237;a la madre (cf. Is 7.14), y a veces el padre (cf. Lc 1.62-63), pero nunca <span class=\"it\">las vecinas</span>.</span></span></span><span class=\"content\"> Este fue el padre de Jes&#233; y abuelo de David.</span></span></div><div class=\"s1\"><span class=\"heading\">Los antepasados de David</span></div><div class=\"p\"><span class=\"verse v17\" data-usfm=\"RUT.4.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"RUT.4.18\"><span class=\"label\">18</span><span class=\"content\">Estos fueron los descendientes de Fares: Fares fue el padre de Hesr&#243;n, </span></span><span class=\"verse v19\" data-usfm=\"RUT.4.19\"><span class=\"label\">19</span><span class=\"content\">Hesr&#243;n fue el padre de Ram, Ram fue el padre de Aminadab, </span></span><span class=\"verse v20\" data-usfm=\"RUT.4.20\"><span class=\"label\">20</span><span class=\"content\">Aminadab fue el padre de Nahas&#243;n, Nahas&#243;n fue el padre de Salm&#243;n, </span></span><span class=\"verse v21\" data-usfm=\"RUT.4.21\"><span class=\"label\">21</span><span class=\"content\">Salm&#243;n fue el padre de Booz, Booz fue el padre de Obed, </span></span><span class=\"verse v22\" data-usfm=\"RUT.4.22\"><span class=\"label\">22</span><span class=\"content\">Obed fue el padre de Jes&#233;, y Jes&#233; fue el padre de David.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4.18-22 </span><span class=\"ft\">El relato termina con esta genealog&#237;a del rey <span class=\"it\">David,</span> que est&#225; elaborada con nombres de los descendientes de <span class=\"it\">Fares</span> mencionados en 1&#160;Cr 2.5-15. La misma lista se vuelve a encontrar, ligeramente modificada, en forma descendente, en Mt 1.3-6, y en forma ascendente, en Lc 3.32-33.</span></span></span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Boda de Booz y Rut"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Más tarde, Booz fue a sentarse a la entrada del pueblo, que era el lugar donde se reunía la gente. En aquel momento pasaba por allí el pariente del cual Booz había hablado.",
+            "—Oye —le dijo Booz—, ven acá y siéntate.",
+            "El pariente fue y se sentó."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "En seguida Booz llamó a diez ancianos del pueblo, y también les pidió que se sentaran con él. Cuando ellos se sentaron,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Booz le dijo a su pariente:",
+            "—Noemí, que ha vuelto de Moab, está decidida a vender el terreno que perteneció a nuestro pariente Elimélec."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Quiero que lo sepas, para que, si te interesa comprarlo, lo hagas ahora delante de estos testigos y de los ancianos del pueblo. Como tú eres el pariente más cercano de Elimélec, tienes el derecho de comprar su tierra. Pero si tú no la compras, házmelo saber, pues después de ti yo soy quien tiene ese derecho.",
+            "El pariente contestó:",
+            "—La compro."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Entonces Booz le hizo esta aclaración:",
+            "—Ten en cuenta que si compras el terreno de Noemí, quedas también obligado a casarte con Rut, la viuda moabita, para que la propiedad siga a nombre del difunto."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Al oír esto, el pariente contestó:",
+            "—En ese caso no puedo hacer la compra, porque podría perjudicar mi herencia. Pero si tú quieres comprar, hazlo; yo te cedo mis derechos de compra."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "En aquellos tiempos había en Israel una costumbre: cuando uno cedía a otro el derecho de parentesco, o cuando se cerraba un contrato de compra-venta, el que cedía o vendía se quitaba una sandalia y se la daba al otro. De acuerdo, pues, con esta costumbre,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "el pariente de Booz se quitó la sandalia, se la dio a Booz y le dijo:",
+            "—Compra tú."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Entonces Booz dijo a los ancianos y a los allí presentes:",
+            "—Todos ustedes son hoy testigos de que le compro a Noemí las propiedades de Elimélec, Quilión y Mahlón."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "También son testigos de que tomo por esposa a Rut, la viuda moabita, para que la propiedad se mantenga a nombre de Mahlón, su difunto esposo. Así no se borrará el nombre de Mahlón de entre los suyos, ni será olvidado en este pueblo. Hoy son ustedes testigos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Los ancianos y todos los presentes contestaron:",
+            "—Sí, lo somos. ¡El Señor haga que la mujer que va a entrar en tu casa sea como Raquel y Lía, de quienes descendemos todos los israelitas! Y tú, sé un hombre ilustre en Efrata, un hombre notable en Belén."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Que el Señor te dé muchos hijos de esta mujer. Que tengas una familia numerosa, como la tuvo Fares, el hijo de Tamar y Judá."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Así fue como Booz se casó con Rut. Y se unió a ella, y el Señor permitió que quedara embarazada y que tuviera un hijo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Entonces las mujeres decían a Noemí:",
+            "—¡Alabado sea el Señor, que te ha dado hoy un nieto para que cuide de ti! ¡Ojalá tu nieto sea famoso en Israel!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Él te dará ánimos y te sostendrá en tu vejez, porque es el hijo de tu nuera, la que tanto te quiere y que vale para ti más que siete hijos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Noemí tomó al niño en su regazo y se encargó de criarlo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Al verlo, las vecinas decían:",
+            "—¡Le ha nacido un hijo a Noemí!",
+            "Y le pusieron por nombre Obed. Este fue el padre de Jesé y abuelo de David."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Los antepasados de David"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Estos fueron los descendientes de Fares: Fares fue el padre de Hesrón,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Hesrón fue el padre de Ram, Ram fue el padre de Aminadab,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Aminadab fue el padre de Nahasón, Nahasón fue el padre de Salmón,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "Salmón fue el padre de Booz, Booz fue el padre de Obed,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "Obed fue el padre de Jesé, y Jesé fue el padre de David."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

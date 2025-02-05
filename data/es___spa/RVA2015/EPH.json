@@ -1,0 +1,1535 @@
+{
+  "book_usfm": "EPH",
+  "name": "Efesios",
+  "local_title": "Reina Valera Actualizada",
+  "local_abbreviation": "RVA2015",
+  "version_id": 1782,
+  "publisher": {
+    "name": "Editorial Mundo Hispano"
+  },
+  "copyright": {
+    "html": "<p>Copyright © 2015 by Editorial Mundo Hispano</p>",
+    "text": "Copyright © 2015 by Editorial Mundo Hispano"
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "EPH.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "EPH.1"
+        ],
+        "human": "Efesios 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "EPH.2"
+        ],
+        "human": "Efesios 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "GAL.6"
+        ],
+        "human": "Gálatas 6",
+        "toc": true
+      },
+      "chapter_text": "Pablo, apóstol de Jesucristo por la voluntad de Dios a los santos y fieles en Cristo Jesús que están en Éfeso: Gracia a ustedes y paz de parte de Dios nuestro Padre y del Señor Jesucristo.\n\nBendito sea el Dios y Padre de nuestro Señor Jesucristo, quien nos ha bendecido en Cristo con toda bendición espiritual en los lugares celestiales. Asimismo, nos escogió en él desde antes de la fundación del mundo para que fuéramos santos y sin mancha delante de él. En amor nos predestinó por medio de Jesucristo para adopción como hijos suyos, según el beneplácito de su voluntad, para la alabanza de la gloria de su gracia que nos dio gratuitamente en el Amado. En él tenemos redención por medio de su sangre, el perdón de nuestras transgresiones, según las riquezas de su gracia que hizo sobreabundar para con nosotros en toda sabiduría y entendimiento. Él nos ha dado a conocer el misterio de su voluntad, según el beneplácito que se propuso en Cristo, a manera de plan para el cumplimiento de los tiempos: que en Cristo sean reunidas bajo una cabeza todas las cosas, tanto las que están en los cielos como las que están en la tierra. En él también recibimos herencia, habiendo sido predestinados según el propósito de aquel que realiza todas las cosas conforme al consejo de su voluntad, para que nosotros, que primero hemos esperado en Cristo, seamos para la alabanza de su gloria. En él también ustedes, habiendo oído la palabra de verdad, el evangelio de su salvación, y habiendo creído en él, fueron sellados con el Espíritu Santo que había sido prometido, quien es la garantía de nuestra herencia para la redención de lo adquirido, para la alabanza de su gloria.\n\nPor esta razón, yo también, habiendo oído de la fe que tienen en el Señor Jesús y de su amor para con todos los santos, no ceso de dar gracias por ustedes recordándoles en mis oraciones. Pido que el Dios de nuestro Señor Jesucristo, el Padre de gloria, les dé espíritu de sabiduría y de revelación en el pleno conocimiento de él; habiendo sido iluminados los ojos de su entendimiento para que conozcan cuál es la esperanza a la que los ha llamado, cuáles las riquezas de la gloria de su herencia en los santos, y cuál la inmensurable grandeza de su poder para con nosotros los que creemos, conforme a la operación del dominio de su fuerza. Dios la ejerció en Cristo cuando lo resucitó de entre los muertos y lo hizo sentar a su diestra en los lugares celestiales, por encima de todo principado, autoridad, poder, señorío y todo nombre que sea nombrado, no solo en esta edad sino también en la venidera. Aun todas las cosas las sometió Dios bajo sus pies y lo puso a él por cabeza sobre todas las cosas para la iglesia, la cual es su cuerpo, la plenitud de aquel que todo lo llena en todo.",
+      "chapter_html": "<div class=\"version vid1782 iso6393spa\" data-vid=\"1782\" data-iso6393=\"spa\">\n   <div class=\"book bkEPH\">\n      <div class=\"chapter ch1\" data-usfm=\"EPH.1\">\n         <div class=\"label\">1</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"EPH.1.1\"><span class=\"label\">1</span><span class=\"content\">Pablo, ap&#243;stol de Jesucristo por la voluntad de Dios a los santos y fieles en Cristo Jes&#250;s que est&#225;n en &#201;feso</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">Algunos mss. antiguos no incluyen </span><span class=\"it\">en &#201;feso.</span></span></span><span class=\"content\">: </span></span><span class=\"verse v2\" data-usfm=\"EPH.1.2\"><span class=\"label\">2</span><span class=\"content\">Gracia a ustedes y paz de parte de Dios nuestro Padre y del Se&#241;or Jesucristo.</span></span></div><div class=\"s1\"><span class=\"heading\">Bendiciones de Dios en Cristo</span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"EPH.1.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"EPH.1.3\"><span class=\"label\">3</span><span class=\"content\">Bendito sea el Dios y Padre de nuestro Se&#241;or Jesucristo, quien nos ha bendecido en Cristo con toda bendici&#243;n espiritual en los lugares celestiales. </span></span><span class=\"verse v4\" data-usfm=\"EPH.1.4\"><span class=\"label\">4</span><span class=\"content\">Asimismo, nos escogi&#243; en &#233;l desde antes de la fundaci&#243;n del mundo para que fu&#233;ramos santos y sin mancha delante de &#233;l. </span></span><span class=\"verse v5\" data-usfm=\"EPH.1.5\"><span class=\"label\">5</span><span class=\"content\">En amor nos predestin&#243; por medio de Jesucristo para adopci&#243;n como hijos suyos, seg&#250;n el benepl&#225;cito de su voluntad, </span></span><span class=\"verse v6\" data-usfm=\"EPH.1.6\"><span class=\"label\">6</span><span class=\"content\">para la alabanza de la gloria de su gracia que nos dio gratuitamente en el Amado. </span></span><span class=\"verse v7\" data-usfm=\"EPH.1.7\"><span class=\"label\">7</span><span class=\"content\">En &#233;l tenemos redenci&#243;n por medio de su sangre, el perd&#243;n de nuestras transgresiones, seg&#250;n las riquezas de su gracia </span></span><span class=\"verse v8\" data-usfm=\"EPH.1.8\"><span class=\"label\">8</span><span class=\"content\">que hizo sobreabundar para con nosotros en toda sabidur&#237;a y entendimiento. </span></span><span class=\"verse v9\" data-usfm=\"EPH.1.9\"><span class=\"label\">9</span><span class=\"content\">&#201;l nos ha dado a conocer el misterio de su voluntad, seg&#250;n el benepl&#225;cito que se propuso en Cristo, </span></span><span class=\"verse v10\" data-usfm=\"EPH.1.10\"><span class=\"label\">10</span><span class=\"content\">a manera de plan</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">Gr., </span><span class=\"it\">oikonomia</span><span class=\"ft\">; otra trad., </span><span class=\"it\">para el plan del.</span></span></span><span class=\"content\"> para el cumplimiento de los tiempos: que en Cristo sean reunidas bajo una cabeza todas las cosas, tanto las que est&#225;n en los cielos como las que est&#225;n en la tierra. </span></span><span class=\"verse v11\" data-usfm=\"EPH.1.11\"><span class=\"label\">11</span><span class=\"content\">En &#233;l tambi&#233;n recibimos herencia, habiendo sido predestinados seg&#250;n el prop&#243;sito de aquel que realiza todas las cosas conforme al consejo de su voluntad, </span></span><span class=\"verse v12\" data-usfm=\"EPH.1.12\"><span class=\"label\">12</span><span class=\"content\">para que nosotros, que primero hemos esperado en Cristo, seamos para la alabanza de su gloria. </span></span><span class=\"verse v13\" data-usfm=\"EPH.1.13\"><span class=\"label\">13</span><span class=\"content\">En &#233;l tambi&#233;n ustedes, habiendo o&#237;do la palabra de verdad, el evangelio de su salvaci&#243;n, y habiendo cre&#237;do en &#233;l, fueron sellados con el Esp&#237;ritu Santo que hab&#237;a sido prometido, </span></span><span class=\"verse v14\" data-usfm=\"EPH.1.14\"><span class=\"label\">14</span><span class=\"content\">quien</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">Algunos mss. antiguos tienen </span><span class=\"it\">lo cual.</span></span></span><span class=\"content\"> es la garant&#237;a de nuestra herencia para la redenci&#243;n de lo adquirido, para la alabanza de su gloria.</span></span></div><div class=\"s1\"><span class=\"heading\">Acci&#243;n de gracias e intercesi&#243;n</span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"EPH.1.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"EPH.1.15\"><span class=\"label\">15</span><span class=\"content\">Por esta raz&#243;n, yo tambi&#233;n, habiendo o&#237;do de la fe que tienen en el Se&#241;or Jes&#250;s y de su amor para con todos los santos, </span></span><span class=\"verse v16\" data-usfm=\"EPH.1.16\"><span class=\"label\">16</span><span class=\"content\">no ceso de dar gracias por ustedes record&#225;ndoles en mis oraciones. </span></span><span class=\"verse v17\" data-usfm=\"EPH.1.17\"><span class=\"label\">17</span><span class=\"content\">Pido que el Dios de nuestro Se&#241;or Jesucristo, el Padre de gloria, les d&#233; esp&#237;ritu de sabidur&#237;a y de revelaci&#243;n en el pleno conocimiento de &#233;l; </span></span><span class=\"verse v18\" data-usfm=\"EPH.1.18\"><span class=\"label\">18</span><span class=\"content\">habiendo sido iluminados los ojos de su entendimiento para que conozcan cu&#225;l es la esperanza a la que los ha llamado, cu&#225;les las riquezas de la gloria de su herencia en los santos, </span></span><span class=\"verse v19\" data-usfm=\"EPH.1.19\"><span class=\"label\">19</span><span class=\"content\">y cu&#225;l la inmensurable grandeza de su poder para con nosotros los que creemos, conforme a la operaci&#243;n del dominio de su fuerza. </span></span><span class=\"verse v20\" data-usfm=\"EPH.1.20\"><span class=\"label\">20</span><span class=\"content\">Dios la ejerci&#243; en Cristo cuando lo resucit&#243; de entre los muertos y lo hizo sentar a su diestra en los lugares celestiales, </span></span><span class=\"verse v21\" data-usfm=\"EPH.1.21\"><span class=\"label\">21</span><span class=\"content\">por encima de todo principado, autoridad, poder, se&#241;or&#237;o y todo nombre que sea nombrado, no solo en esta edad sino tambi&#233;n en la venidera. </span></span><span class=\"verse v22\" data-usfm=\"EPH.1.22\"><span class=\"label\">22</span><span class=\"content\">Aun todas las cosas las someti&#243; Dios bajo sus pies y lo puso a &#233;l por cabeza sobre todas las cosas para la iglesia, </span></span><span class=\"verse v23\" data-usfm=\"EPH.1.23\"><span class=\"label\">23</span><span class=\"content\">la cual es su cuerpo, la plenitud de aquel que todo lo llena en todo.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Pablo, apóstol de Jesucristo por la voluntad de Dios a los santos y fieles en Cristo Jesús que están en Éfeso:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Gracia a ustedes y paz de parte de Dios nuestro Padre y del Señor Jesucristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Bendiciones de Dios en Cristo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Bendito sea el Dios y Padre de nuestro Señor Jesucristo, quien nos ha bendecido en Cristo con toda bendición espiritual en los lugares celestiales."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Asimismo, nos escogió en él desde antes de la fundación del mundo para que fuéramos santos y sin mancha delante de él."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "En amor nos predestinó por medio de Jesucristo para adopción como hijos suyos, según el beneplácito de su voluntad,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "para la alabanza de la gloria de su gracia que nos dio gratuitamente en el Amado."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "En él tenemos redención por medio de su sangre, el perdón de nuestras transgresiones, según las riquezas de su gracia"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "que hizo sobreabundar para con nosotros en toda sabiduría y entendimiento."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Él nos ha dado a conocer el misterio de su voluntad, según el beneplácito que se propuso en Cristo,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "a manera de plan para el cumplimiento de los tiempos: que en Cristo sean reunidas bajo una cabeza todas las cosas, tanto las que están en los cielos como las que están en la tierra."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "En él también recibimos herencia, habiendo sido predestinados según el propósito de aquel que realiza todas las cosas conforme al consejo de su voluntad,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "para que nosotros, que primero hemos esperado en Cristo, seamos para la alabanza de su gloria."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "En él también ustedes, habiendo oído la palabra de verdad, el evangelio de su salvación, y habiendo creído en él, fueron sellados con el Espíritu Santo que había sido prometido,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "quien es la garantía de nuestra herencia para la redención de lo adquirido, para la alabanza de su gloria."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Acción de gracias e intercesión"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Por esta razón, yo también, habiendo oído de la fe que tienen en el Señor Jesús y de su amor para con todos los santos,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "no ceso de dar gracias por ustedes recordándoles en mis oraciones."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Pido que el Dios de nuestro Señor Jesucristo, el Padre de gloria, les dé espíritu de sabiduría y de revelación en el pleno conocimiento de él;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "habiendo sido iluminados los ojos de su entendimiento para que conozcan cuál es la esperanza a la que los ha llamado, cuáles las riquezas de la gloria de su herencia en los santos,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "y cuál la inmensurable grandeza de su poder para con nosotros los que creemos, conforme a la operación del dominio de su fuerza."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Dios la ejerció en Cristo cuando lo resucitó de entre los muertos y lo hizo sentar a su diestra en los lugares celestiales,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "por encima de todo principado, autoridad, poder, señorío y todo nombre que sea nombrado, no solo en esta edad sino también en la venidera."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "Aun todas las cosas las sometió Dios bajo sus pies y lo puso a él por cabeza sobre todas las cosas para la iglesia,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "la cual es su cuerpo, la plenitud de aquel que todo lo llena en todo."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "EPH.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "EPH.2"
+        ],
+        "human": "Efesios 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "EPH.3"
+        ],
+        "human": "Efesios 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "EPH.1"
+        ],
+        "human": "Efesios 1",
+        "toc": true
+      },
+      "chapter_text": "En cuanto a ustedes, estaban muertos en sus delitos y pecados, en los cuales anduvieron en otro tiempo conforme a la corriente de este mundo y al príncipe de la potestad del aire, el espíritu que ahora actúa en los hijos de desobediencia. En otro tiempo todos nosotros vivimos entre ellos en las pasiones de nuestra carne, haciendo la voluntad de la carne y de la mente; y por naturaleza éramos hijos de ira, como los demás. Pero Dios, quien es rico en misericordia, a causa de su gran amor con que nos amó, aun estando nosotros muertos en delitos, nos dio vida juntamente con Cristo. ¡Por gracia son salvos! Y juntamente con Cristo Jesús, nos resucitó y nos hizo sentar en los lugares celestiales para mostrar en las edades venideras las superabundantes riquezas de su gracia, por su bondad hacia nosotros en Cristo Jesús. Porque por gracia son salvos por medio de la fe; y esto no de ustedes pues es don de Dios. No es por obras, para que nadie se gloríe. Porque somos hechura de Dios, creados en Cristo Jesús para hacer las buenas obras que Dios preparó de antemano para que anduviésemos en ellas.\n\nPor tanto, acuérdense de que en otro tiempo ustedes, los gentiles en la carne, eran llamados incircuncisión por los de la llamada circuncisión que es hecha con mano en la carne. Y acuérdense de que en aquel tiempo estaban sin Cristo, apartados de la ciudadanía de Israel y ajenos a los pactos de la promesa, estando sin esperanza y sin Dios en el mundo. Pero ahora en Cristo Jesús ustedes, que en otro tiempo estaban lejos han sido acercados por la sangre de Cristo.\nPorque él es nuestra paz, quien de ambos nos hizo uno. Él derribó en su carne la barrera de división, es decir, la hostilidad, y abolió la ley de los mandamientos formulados en ordenanzas para crear en sí mismo de los dos hombres un solo hombre nuevo, haciendo así la paz. También reconcilió con Dios a ambos en un solo cuerpo por medio de la cruz, dando muerte en ella a la enemistad. Y vino y anunció las buenas nuevas: paz para ustedes que estaban lejos y paz para los que estaban cerca, ya que por medio de él ambos tenemos acceso al Padre en un solo Espíritu.\nPor lo tanto, ya no son extranjeros ni forasteros sino conciudadanos de los santos y miembros de la familia de Dios. Han sido edificados sobre el fundamento de los apóstoles y de los profetas, siendo Jesucristo mismo la piedra angular. En él todo el edificio, bien ensamblado, va creciendo hasta ser un templo santo en el Señor. En él también ustedes son juntamente edificados para morada de Dios en el Espíritu.",
+      "chapter_html": "<div class=\"version vid1782 iso6393spa\" data-vid=\"1782\" data-iso6393=\"spa\">\n   <div class=\"book bkEPH\">\n      <div class=\"chapter ch2\" data-usfm=\"EPH.2\">\n         <div class=\"label\">2</div><div class=\"s1\"><span class=\"heading\">Salvos por la gracia</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"EPH.2.1\"><span class=\"label\">1</span><span class=\"content\">En cuanto a ustedes, estaban muertos en sus delitos y pecados, </span></span><span class=\"verse v2\" data-usfm=\"EPH.2.2\"><span class=\"label\">2</span><span class=\"content\">en los cuales anduvieron en otro tiempo conforme a la corriente de este mundo y al pr&#237;ncipe de la potestad del aire, el esp&#237;ritu que ahora act&#250;a en los hijos de desobediencia. </span></span><span class=\"verse v3\" data-usfm=\"EPH.2.3\"><span class=\"label\">3</span><span class=\"content\">En otro tiempo todos nosotros vivimos entre ellos en las pasiones de nuestra carne, haciendo la voluntad de la carne y de la mente; y por naturaleza &#233;ramos hijos de ira, como los dem&#225;s. </span></span><span class=\"verse v4\" data-usfm=\"EPH.2.4\"><span class=\"label\">4</span><span class=\"content\">Pero Dios, quien es rico en misericordia, a causa de su gran amor con que nos am&#243;, </span></span><span class=\"verse v5\" data-usfm=\"EPH.2.5\"><span class=\"label\">5</span><span class=\"content\">aun estando nosotros muertos en delitos, nos dio vida juntamente con Cristo. &#161;Por gracia son salvos! </span></span><span class=\"verse v6\" data-usfm=\"EPH.2.6\"><span class=\"label\">6</span><span class=\"content\">Y juntamente con Cristo Jes&#250;s, nos resucit&#243; y nos hizo sentar en los lugares celestiales </span></span><span class=\"verse v7\" data-usfm=\"EPH.2.7\"><span class=\"label\">7</span><span class=\"content\">para mostrar en las edades venideras las superabundantes riquezas de su gracia, por su bondad hacia nosotros en Cristo Jes&#250;s. </span></span><span class=\"verse v8\" data-usfm=\"EPH.2.8\"><span class=\"label\">8</span><span class=\"content\">Porque por gracia son salvos</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">Lit., </span><span class=\"it\">han sido salvados.</span></span></span><span class=\"content\"> por medio de la fe; y esto no de ustedes pues es don de Dios. </span></span><span class=\"verse v9\" data-usfm=\"EPH.2.9\"><span class=\"label\">9</span><span class=\"content\">No es por obras, para que nadie se glor&#237;e. </span></span><span class=\"verse v10\" data-usfm=\"EPH.2.10\"><span class=\"label\">10</span><span class=\"content\">Porque somos hechura de Dios, creados en Cristo Jes&#250;s para hacer las buenas obras que Dios prepar&#243; de antemano para que anduvi&#233;semos en ellas.</span></span></div><div class=\"s1\"><span class=\"heading\">Nueva comunidad en Cristo</span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"EPH.2.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"EPH.2.11\"><span class=\"label\">11</span><span class=\"content\">Por tanto, acu&#233;rdense de que en otro tiempo ustedes, los gentiles en la carne, eran llamados incircuncisi&#243;n por los de la llamada circuncisi&#243;n que es hecha con mano en la carne. </span></span><span class=\"verse v12\" data-usfm=\"EPH.2.12\"><span class=\"label\">12</span><span class=\"content\">Y acu&#233;rdense de que en aquel tiempo estaban sin Cristo, apartados de la ciudadan&#237;a de Israel y ajenos a los pactos de la promesa, estando sin esperanza y sin Dios en el mundo. </span></span><span class=\"verse v13\" data-usfm=\"EPH.2.13\"><span class=\"label\">13</span><span class=\"content\">Pero ahora en Cristo Jes&#250;s ustedes, que en otro tiempo estaban lejos han sido acercados por la sangre de Cristo.</span></span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"EPH.2.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"EPH.2.14\"><span class=\"label\">14</span><span class=\"content\">Porque &#233;l es nuestra paz, quien de ambos nos hizo uno. &#201;l derrib&#243; en su carne la barrera de divisi&#243;n, es decir, la hostilidad, </span></span><span class=\"verse v15\" data-usfm=\"EPH.2.15\"><span class=\"label\">15</span><span class=\"content\">y aboli&#243; la ley de los mandamientos formulados en ordenanzas para crear en s&#237; mismo de los dos hombres un solo hombre nuevo, haciendo as&#237; la paz. </span></span><span class=\"verse v16\" data-usfm=\"EPH.2.16\"><span class=\"label\">16</span><span class=\"content\">Tambi&#233;n reconcili&#243; con Dios a ambos en un solo cuerpo por medio de la cruz, dando muerte en ella a la enemistad. </span></span><span class=\"verse v17\" data-usfm=\"EPH.2.17\"><span class=\"label\">17</span><span class=\"content\">Y vino y anunci&#243; las buenas nuevas: paz para ustedes que estaban lejos y paz para los que estaban cerca, </span></span><span class=\"verse v18\" data-usfm=\"EPH.2.18\"><span class=\"label\">18</span><span class=\"content\">ya que por medio de &#233;l ambos tenemos acceso al Padre en un solo Esp&#237;ritu.</span></span></div><div class=\"p\"><span class=\"verse v18\" data-usfm=\"EPH.2.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"EPH.2.19\"><span class=\"label\">19</span><span class=\"content\">Por lo tanto, ya no son extranjeros ni forasteros sino conciudadanos de los santos y miembros de la familia de Dios. </span></span><span class=\"verse v20\" data-usfm=\"EPH.2.20\"><span class=\"label\">20</span><span class=\"content\">Han sido edificados sobre el fundamento de los ap&#243;stoles y de los profetas, siendo Jesucristo mismo la piedra angular. </span></span><span class=\"verse v21\" data-usfm=\"EPH.2.21\"><span class=\"label\">21</span><span class=\"content\">En &#233;l todo el edificio, bien ensamblado, va creciendo hasta ser un templo santo en el Se&#241;or. </span></span><span class=\"verse v22\" data-usfm=\"EPH.2.22\"><span class=\"label\">22</span><span class=\"content\">En &#233;l tambi&#233;n ustedes son juntamente edificados para morada de Dios en el Esp&#237;ritu.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Salvos por la gracia"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "En cuanto a ustedes, estaban muertos en sus delitos y pecados,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "en los cuales anduvieron en otro tiempo conforme a la corriente de este mundo y al príncipe de la potestad del aire, el espíritu que ahora actúa en los hijos de desobediencia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "En otro tiempo todos nosotros vivimos entre ellos en las pasiones de nuestra carne, haciendo la voluntad de la carne y de la mente; y por naturaleza éramos hijos de ira, como los demás."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Pero Dios, quien es rico en misericordia, a causa de su gran amor con que nos amó,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "aun estando nosotros muertos en delitos, nos dio vida juntamente con Cristo. ¡Por gracia son salvos!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Y juntamente con Cristo Jesús, nos resucitó y nos hizo sentar en los lugares celestiales"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "para mostrar en las edades venideras las superabundantes riquezas de su gracia, por su bondad hacia nosotros en Cristo Jesús."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Porque por gracia son salvos por medio de la fe; y esto no de ustedes pues es don de Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "No es por obras, para que nadie se gloríe."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Porque somos hechura de Dios, creados en Cristo Jesús para hacer las buenas obras que Dios preparó de antemano para que anduviésemos en ellas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Nueva comunidad en Cristo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Por tanto, acuérdense de que en otro tiempo ustedes, los gentiles en la carne, eran llamados incircuncisión por los de la llamada circuncisión que es hecha con mano en la carne."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Y acuérdense de que en aquel tiempo estaban sin Cristo, apartados de la ciudadanía de Israel y ajenos a los pactos de la promesa, estando sin esperanza y sin Dios en el mundo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Pero ahora en Cristo Jesús ustedes, que en otro tiempo estaban lejos han sido acercados por la sangre de Cristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Porque él es nuestra paz, quien de ambos nos hizo uno. Él derribó en su carne la barrera de división, es decir, la hostilidad,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "y abolió la ley de los mandamientos formulados en ordenanzas para crear en sí mismo de los dos hombres un solo hombre nuevo, haciendo así la paz."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "También reconcilió con Dios a ambos en un solo cuerpo por medio de la cruz, dando muerte en ella a la enemistad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Y vino y anunció las buenas nuevas: paz para ustedes que estaban lejos y paz para los que estaban cerca,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "ya que por medio de él ambos tenemos acceso al Padre en un solo Espíritu."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Por lo tanto, ya no son extranjeros ni forasteros sino conciudadanos de los santos y miembros de la familia de Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Han sido edificados sobre el fundamento de los apóstoles y de los profetas, siendo Jesucristo mismo la piedra angular."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "En él todo el edificio, bien ensamblado, va creciendo hasta ser un templo santo en el Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "En él también ustedes son juntamente edificados para morada de Dios en el Espíritu."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "EPH.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "EPH.3"
+        ],
+        "human": "Efesios 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "EPH.4"
+        ],
+        "human": "Efesios 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "EPH.2"
+        ],
+        "human": "Efesios 2",
+        "toc": true
+      },
+      "chapter_text": "Por esta razón yo, Pablo, prisionero de Cristo Jesús a favor de ustedes los gentiles....\nSin duda han oído de la administración de la gracia de Dios que me ha sido conferida en el beneficio de ustedes. Por revelación me fue dado a conocer este misterio, como antes lo he escrito brevemente. Por tanto, leyéndolo, podrán entender cuál es mi comprensión en el misterio de Cristo. En otras generaciones no se dio a conocer este misterio a los hijos de los hombres, como ha sido revelado ahora a sus santos apóstoles y profetas por el Espíritu, a saber: que en Cristo Jesús los gentiles son coherederos, incorporados en el mismo cuerpo y copartícipes de la promesa por medio del evangelio. De este llegué a ser ministro, conforme a la dádiva de la gracia de Dios que me ha sido conferida, según la acción de su poder. A mí, que soy menos que el menor de todos los santos, me ha sido conferida esta gracia de anunciar entre los gentiles el evangelio de las inescrutables riquezas de Cristo y para aclarar a todos cuál es la administración del misterio que desde la eternidad había estado escondido en Dios, quien creó todas las cosas. Todo esto es para que ahora sea dada a conocer, por medio de la iglesia, la multiforme sabiduría de Dios a los principados y las autoridades en los lugares celestiales conforme al propósito eterno que realizó en Cristo Jesús, nuestro Señor. En él tenemos libertad y acceso a Dios con confianza por medio de la fe en él. Por tanto, les pido que no se desanimen por mis tribulaciones a favor de ustedes, pues ellas son la gloria de ustedes.\n\nPor esta razón doblo mis rodillas ante el Padre, de quien toma nombre toda familia en los cielos y en la tierra, a fin de que, conforme a las riquezas de su gloria, les conceda ser fortalecidos con poder por su Espíritu en el hombre interior para que Cristo habite en sus corazones por medio de la fe de modo que, siendo arraigados y fundamentados en amor, ustedes sean plenamente capaces de comprender, junto con todos los santos, cuál es la anchura, la longitud, la altura y la profundidad, y de conocer el amor de Cristo que sobrepasa todo conocimiento para que así sean llenos de toda la plenitud de Dios.\nY a aquel que es poderoso para hacer todas las cosas mucho más abundantemente de lo que pedimos o pensamos, según el poder que actúa en nosotros, a él sea la gloria en la iglesia y en Cristo Jesús, por todas las generaciones de todas las edades, para siempre. Amén.",
+      "chapter_html": "<div class=\"version vid1782 iso6393spa\" data-vid=\"1782\" data-iso6393=\"spa\">\n   <div class=\"book bkEPH\">\n      <div class=\"chapter ch3\" data-usfm=\"EPH.3\">\n         <div class=\"label\">3</div><div class=\"s1\"><span class=\"heading\">Ministerio de Pablo para los gentiles</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"EPH.3.1\"><span class=\"label\">1</span><span class=\"content\">Por esta raz&#243;n yo, Pablo, prisionero de Cristo Jes&#250;s a favor de ustedes los gentiles...</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">Aparentemente esta oraci&#243;n el&#237;ptica contin&#250;a en el v. 14.</span></span></span><span class=\"content\">.</span></span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"EPH.3.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"EPH.3.2\"><span class=\"label\">2</span><span class=\"content\">Sin duda han o&#237;do de la administraci&#243;n de la gracia de Dios que me ha sido conferida en el beneficio de ustedes. </span></span><span class=\"verse v3\" data-usfm=\"EPH.3.3\"><span class=\"label\">3</span><span class=\"content\">Por revelaci&#243;n me fue dado a conocer este misterio, como antes lo he escrito brevemente. </span></span><span class=\"verse v4\" data-usfm=\"EPH.3.4\"><span class=\"label\">4</span><span class=\"content\">Por tanto, ley&#233;ndolo, podr&#225;n entender cu&#225;l es mi comprensi&#243;n en el misterio de Cristo. </span></span><span class=\"verse v5\" data-usfm=\"EPH.3.5\"><span class=\"label\">5</span><span class=\"content\">En otras generaciones no se dio a conocer este misterio a los hijos de los hombres, como ha sido revelado ahora a sus santos ap&#243;stoles y profetas por el Esp&#237;ritu, </span></span><span class=\"verse v6\" data-usfm=\"EPH.3.6\"><span class=\"label\">6</span><span class=\"content\">a saber: que en Cristo Jes&#250;s los gentiles son coherederos, incorporados en el mismo cuerpo y copart&#237;cipes de la promesa por medio del evangelio. </span></span><span class=\"verse v7\" data-usfm=\"EPH.3.7\"><span class=\"label\">7</span><span class=\"content\">De este llegu&#233; a ser ministro, conforme a la d&#225;diva de la gracia de Dios que me ha sido conferida, seg&#250;n la acci&#243;n de su poder. </span></span><span class=\"verse v8\" data-usfm=\"EPH.3.8\"><span class=\"label\">8</span><span class=\"content\">A m&#237;, que soy menos que el menor de todos los santos, me ha sido conferida esta gracia de anunciar entre los gentiles el evangelio de las inescrutables riquezas de Cristo </span></span><span class=\"verse v9\" data-usfm=\"EPH.3.9\"><span class=\"label\">9</span><span class=\"content\">y para aclarar a todos</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">Algunos mss. antiguos no incluyen </span><span class=\"it\">a todos.</span></span></span><span class=\"content\"> cu&#225;l es la administraci&#243;n del misterio que desde la eternidad hab&#237;a estado escondido en Dios, quien cre&#243; todas las cosas. </span></span><span class=\"verse v10\" data-usfm=\"EPH.3.10\"><span class=\"label\">10</span><span class=\"content\">Todo esto es para que ahora sea dada a conocer, por medio de la iglesia, la multiforme sabidur&#237;a de Dios a los principados y las autoridades en los lugares celestiales </span></span><span class=\"verse v11\" data-usfm=\"EPH.3.11\"><span class=\"label\">11</span><span class=\"content\">conforme al prop&#243;sito eterno que realiz&#243; en Cristo Jes&#250;s, nuestro Se&#241;or. </span></span><span class=\"verse v12\" data-usfm=\"EPH.3.12\"><span class=\"label\">12</span><span class=\"content\">En &#233;l tenemos libertad y acceso a Dios con confianza por medio de la fe en &#233;l. </span></span><span class=\"verse v13\" data-usfm=\"EPH.3.13\"><span class=\"label\">13</span><span class=\"content\">Por tanto, les pido que no se desanimen por mis tribulaciones a favor de ustedes, pues ellas son la gloria de ustedes.</span></span></div><div class=\"s1\"><span class=\"heading\">Para conocer el amor de Cristo</span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"EPH.3.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"EPH.3.14\"><span class=\"label\">14</span><span class=\"content\">Por esta raz&#243;n doblo mis rodillas ante el Padre, </span></span><span class=\"verse v15\" data-usfm=\"EPH.3.15\"><span class=\"label\">15</span><span class=\"content\">de quien toma nombre toda familia en los cielos y en la tierra, </span></span><span class=\"verse v16\" data-usfm=\"EPH.3.16\"><span class=\"label\">16</span><span class=\"content\">a fin de que, conforme a las riquezas de su gloria, les conceda ser fortalecidos con poder por su Esp&#237;ritu en el hombre interior </span></span><span class=\"verse v17\" data-usfm=\"EPH.3.17\"><span class=\"label\">17</span><span class=\"content\">para que Cristo habite en sus corazones por medio de la fe de modo que, siendo arraigados y fundamentados en amor, </span></span><span class=\"verse v18\" data-usfm=\"EPH.3.18\"><span class=\"label\">18</span><span class=\"content\">ustedes sean plenamente capaces de comprender, junto con todos los santos, cu&#225;l es la anchura, la longitud, la altura y la profundidad, </span></span><span class=\"verse v19\" data-usfm=\"EPH.3.19\"><span class=\"label\">19</span><span class=\"content\">y de conocer el amor de Cristo que sobrepasa todo conocimiento para que as&#237; sean llenos de toda la plenitud de Dios.</span></span></div><div class=\"p\"><span class=\"verse v19\" data-usfm=\"EPH.3.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"EPH.3.20\"><span class=\"label\">20</span><span class=\"content\">Y a aquel que es poderoso para hacer todas las cosas mucho m&#225;s abundantemente de lo que pedimos o pensamos, seg&#250;n el poder que act&#250;a en nosotros, </span></span><span class=\"verse v21\" data-usfm=\"EPH.3.21\"><span class=\"label\">21</span><span class=\"content\">a &#233;l sea la gloria en la iglesia y en Cristo Jes&#250;s, por todas las generaciones de todas las edades, para siempre. Am&#233;n.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Ministerio de Pablo para los gentiles"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Por esta razón yo, Pablo, prisionero de Cristo Jesús a favor de ustedes los gentiles...."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Sin duda han oído de la administración de la gracia de Dios que me ha sido conferida en el beneficio de ustedes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Por revelación me fue dado a conocer este misterio, como antes lo he escrito brevemente."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Por tanto, leyéndolo, podrán entender cuál es mi comprensión en el misterio de Cristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "En otras generaciones no se dio a conocer este misterio a los hijos de los hombres, como ha sido revelado ahora a sus santos apóstoles y profetas por el Espíritu,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "a saber: que en Cristo Jesús los gentiles son coherederos, incorporados en el mismo cuerpo y copartícipes de la promesa por medio del evangelio."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "De este llegué a ser ministro, conforme a la dádiva de la gracia de Dios que me ha sido conferida, según la acción de su poder."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "A mí, que soy menos que el menor de todos los santos, me ha sido conferida esta gracia de anunciar entre los gentiles el evangelio de las inescrutables riquezas de Cristo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "y para aclarar a todos cuál es la administración del misterio que desde la eternidad había estado escondido en Dios, quien creó todas las cosas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Todo esto es para que ahora sea dada a conocer, por medio de la iglesia, la multiforme sabiduría de Dios a los principados y las autoridades en los lugares celestiales"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "conforme al propósito eterno que realizó en Cristo Jesús, nuestro Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "En él tenemos libertad y acceso a Dios con confianza por medio de la fe en él."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Por tanto, les pido que no se desanimen por mis tribulaciones a favor de ustedes, pues ellas son la gloria de ustedes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Para conocer el amor de Cristo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Por esta razón doblo mis rodillas ante el Padre,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "de quien toma nombre toda familia en los cielos y en la tierra,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "a fin de que, conforme a las riquezas de su gloria, les conceda ser fortalecidos con poder por su Espíritu en el hombre interior"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "para que Cristo habite en sus corazones por medio de la fe de modo que, siendo arraigados y fundamentados en amor,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "ustedes sean plenamente capaces de comprender, junto con todos los santos, cuál es la anchura, la longitud, la altura y la profundidad,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "y de conocer el amor de Cristo que sobrepasa todo conocimiento para que así sean llenos de toda la plenitud de Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Y a aquel que es poderoso para hacer todas las cosas mucho más abundantemente de lo que pedimos o pensamos, según el poder que actúa en nosotros,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "a él sea la gloria en la iglesia y en Cristo Jesús, por todas las generaciones de todas las edades, para siempre. Amén."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "EPH.4",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "EPH.4"
+        ],
+        "human": "Efesios 4"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "EPH.5"
+        ],
+        "human": "Efesios 5",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "EPH.3"
+        ],
+        "human": "Efesios 3",
+        "toc": true
+      },
+      "chapter_text": "Por eso yo, prisionero en el Señor, les exhorto a que anden como es digno del llamamiento con que fueron llamados: con toda humildad y mansedumbre, con paciencia, soportándose los unos a los otros en amor, procurando con diligencia guardar la unidad del Espíritu en el vínculo de la paz. Hay un solo cuerpo y un solo Espíritu, así como han sido llamados a una sola esperanza de su llamamiento. Hay un solo Señor, una sola fe, un solo bautismo, un solo Dios y Padre de todos quien es sobre todos, a través de todos y en todos.\nSin embargo, a cada uno de nosotros nos ha sido conferida la gracia conforme a la medida de la dádiva de Cristo. Por esto dice: Subiendo a lo alto, llevó cautiva la cautividad y dio dones a los hombres. Pero esto de que subió, ¿qué quiere decir, a menos que hubiera descendido también a las partes más bajas de la tierra? El que descendió es el mismo que también ascendió por encima de todos los cielos para llenarlo todo. Y él mismo constituyó a unos apóstoles, a otros profetas, a otros evangelistas, y a otros pastores y maestros, a fin de capacitar a los santos para la obra del ministerio, para la edificación del cuerpo de Cristo, hasta que todos alcancemos la unidad de la fe y del conocimiento del Hijo de Dios, hasta ser un hombre de plena madurez, hasta la medida de la estatura de la plenitud de Cristo. Esto, para que ya no seamos niños, sacudidos a la deriva y llevados a dondequiera por todo viento de doctrina por estratagema de hombres que, para engañar, emplean con astucia las artimañas del error sino que, siguiendo la verdad con amor, crezcamos en todo hacia aquel que es la cabeza: Cristo. De parte de él todo el cuerpo, bien concertado y entrelazado por la cohesión que aportan todos los ligamentos, recibe su crecimiento de acuerdo con la actividad proporcionada a cada uno de los miembros para ir edificándose en amor.\n\nEsto digo e insisto en el Señor: que no se conduzcan más como se conducen los gentiles, en la vanidad de sus mentes, teniendo el entendimiento entenebrecido, alejados de la vida de Dios por la ignorancia que hay en ellos, debido a la dureza de su corazón. Una vez perdida toda sensibilidad, se entregaron a la sensualidad para cometer ávidamente toda clase de impurezas. Pero ustedes no han aprendido así a Cristo, si en verdad le han oído y han sido enseñados en él, así como la verdad está en Jesús. Con respecto a su antigua manera de vivir, despójense del viejo hombre que está viciado por los deseos engañosos; pero renuévense en el espíritu de su mente y vístanse del nuevo hombre que ha sido creado a semejanza de Dios en justicia y santidad de verdad.\nPor lo tanto, habiendo dejado la mentira, hablen la verdad cada uno con su prójimo, porque somos miembros los unos de los otros. Enójense, pero no pequen; no se ponga el sol sobre su enojo ni den lugar al diablo. El que robaba no robe más sino que trabaje esforzadamente, haciendo con sus propias manos lo que es bueno para tener qué compartir con el que tenga necesidad. Ninguna palabra obscena salga de su boca sino la que sea buena para edificación, según sea necesaria, para que imparta gracia a los que oyen. Y no entristezcan al Espíritu Santo de Dios en quien fueron sellados para el día de la redención.\nQuítense de ustedes toda amargura, enojo, ira, gritos y calumnia, junto con toda maldad. Más bien, sean bondadosos y misericordiosos los unos con los otros, perdonándose unos a otros como Dios también los perdonó a ustedes en Cristo.",
+      "chapter_html": "<div class=\"version vid1782 iso6393spa\" data-vid=\"1782\" data-iso6393=\"spa\">\n   <div class=\"book bkEPH\">\n      <div class=\"chapter ch4\" data-usfm=\"EPH.4\">\n         <div class=\"label\">4</div><div class=\"s1\"><span class=\"heading\">La unidad, los dones y el crecimiento</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"EPH.4.1\"><span class=\"label\">1</span><span class=\"content\">Por eso yo, prisionero en el Se&#241;or, les exhorto a que anden como es digno del llamamiento con que fueron llamados: </span></span><span class=\"verse v2\" data-usfm=\"EPH.4.2\"><span class=\"label\">2</span><span class=\"content\">con toda humildad y mansedumbre, con paciencia, soport&#225;ndose los unos a los otros en amor, </span></span><span class=\"verse v3\" data-usfm=\"EPH.4.3\"><span class=\"label\">3</span><span class=\"content\">procurando con diligencia guardar la unidad del Esp&#237;ritu en el v&#237;nculo de la paz. </span></span><span class=\"verse v4\" data-usfm=\"EPH.4.4\"><span class=\"label\">4</span><span class=\"content\">Hay un solo cuerpo y un solo Esp&#237;ritu, as&#237; como han sido llamados a una sola esperanza de su llamamiento. </span></span><span class=\"verse v5\" data-usfm=\"EPH.4.5\"><span class=\"label\">5</span><span class=\"content\">Hay un solo Se&#241;or, una sola fe, un solo bautismo, </span></span><span class=\"verse v6\" data-usfm=\"EPH.4.6\"><span class=\"label\">6</span><span class=\"content\">un solo Dios y Padre de todos quien es sobre todos, a trav&#233;s de todos y en todos.</span></span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"EPH.4.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"EPH.4.7\"><span class=\"label\">7</span><span class=\"content\">Sin embargo, a cada uno de nosotros nos ha sido conferida la gracia conforme a la medida de la d&#225;diva de Cristo. </span></span><span class=\"verse v8\" data-usfm=\"EPH.4.8\"><span class=\"label\">8</span><span class=\"content\">Por esto dice: </span><span class=\"it\"><span class=\"content\">Subiendo a lo alto, llev&#243; cautiva la cautividad y dio dones a los hombres</span></span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">Sal. 68:18 (LXX).</span></span></span><span class=\"content\">. </span></span><span class=\"verse v9\" data-usfm=\"EPH.4.9\"><span class=\"label\">9</span><span class=\"content\">Pero esto de que subi&#243;, &#191;qu&#233; quiere decir, a menos que hubiera descendido</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">Algunos mss. antiguos agregan </span><span class=\"it\">primero.</span></span></span><span class=\"content\"> tambi&#233;n a las partes m&#225;s bajas de la tierra? </span></span><span class=\"verse v10\" data-usfm=\"EPH.4.10\"><span class=\"label\">10</span><span class=\"content\">El que descendi&#243; es el mismo que tambi&#233;n ascendi&#243; por encima de todos los cielos para llenarlo todo. </span></span><span class=\"verse v11\" data-usfm=\"EPH.4.11\"><span class=\"label\">11</span><span class=\"content\">Y &#233;l mismo constituy&#243; a unos ap&#243;stoles, a otros profetas, a otros evangelistas, y a otros pastores y maestros, </span></span><span class=\"verse v12\" data-usfm=\"EPH.4.12\"><span class=\"label\">12</span><span class=\"content\">a fin de capacitar a los santos para la obra del ministerio, para la edificaci&#243;n del cuerpo de Cristo, </span></span><span class=\"verse v13\" data-usfm=\"EPH.4.13\"><span class=\"label\">13</span><span class=\"content\">hasta que todos alcancemos la unidad de la fe y del conocimiento del Hijo de Dios, hasta ser un hombre de plena madurez, hasta la medida de la estatura de la plenitud de Cristo. </span></span><span class=\"verse v14\" data-usfm=\"EPH.4.14\"><span class=\"label\">14</span><span class=\"content\">Esto, para que ya no seamos ni&#241;os, sacudidos a la deriva y llevados a dondequiera por todo viento de doctrina por estratagema de hombres que, para enga&#241;ar, emplean con astucia las artima&#241;as del error </span></span><span class=\"verse v15\" data-usfm=\"EPH.4.15\"><span class=\"label\">15</span><span class=\"content\">sino que, siguiendo la verdad con amor, crezcamos en todo hacia aquel que es la cabeza: Cristo. </span></span><span class=\"verse v16\" data-usfm=\"EPH.4.16\"><span class=\"label\">16</span><span class=\"content\">De parte de &#233;l todo el cuerpo, bien concertado y entrelazado por la cohesi&#243;n que aportan todos los ligamentos, recibe su crecimiento de acuerdo con la actividad proporcionada a cada uno de los miembros para ir edific&#225;ndose en amor.</span></span></div><div class=\"s1\"><span class=\"heading\">La vida del nuevo hombre en Cristo</span></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"EPH.4.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"EPH.4.17\"><span class=\"label\">17</span><span class=\"content\">Esto digo e insisto en el Se&#241;or: que no se conduzcan m&#225;s como se conducen los gentiles, en la vanidad de sus mentes, </span></span><span class=\"verse v18\" data-usfm=\"EPH.4.18\"><span class=\"label\">18</span><span class=\"content\">teniendo el entendimiento entenebrecido, alejados de la vida de Dios por la ignorancia que hay en ellos, debido a la dureza de su coraz&#243;n. </span></span><span class=\"verse v19\" data-usfm=\"EPH.4.19\"><span class=\"label\">19</span><span class=\"content\">Una vez perdida toda sensibilidad, se entregaron a la sensualidad para cometer &#225;vidamente toda clase de impurezas. </span></span><span class=\"verse v20\" data-usfm=\"EPH.4.20\"><span class=\"label\">20</span><span class=\"content\">Pero ustedes no han aprendido as&#237; a Cristo, </span></span><span class=\"verse v21\" data-usfm=\"EPH.4.21\"><span class=\"label\">21</span><span class=\"content\">si en verdad le han o&#237;do y han sido ense&#241;ados en &#233;l, as&#237; como la verdad est&#225; en Jes&#250;s. </span></span><span class=\"verse v22\" data-usfm=\"EPH.4.22\"><span class=\"label\">22</span><span class=\"content\">Con respecto a su antigua manera de vivir, desp&#243;jense del viejo hombre que est&#225; viciado por los deseos enga&#241;osos; </span></span><span class=\"verse v23\" data-usfm=\"EPH.4.23\"><span class=\"label\">23</span><span class=\"content\">pero renu&#233;vense en el esp&#237;ritu de su mente </span></span><span class=\"verse v24\" data-usfm=\"EPH.4.24\"><span class=\"label\">24</span><span class=\"content\">y v&#237;stanse del nuevo hombre que ha sido creado a semejanza de Dios en justicia y santidad de verdad.</span></span></div><div class=\"p\"><span class=\"verse v24\" data-usfm=\"EPH.4.24\"><span class=\"content\">  </span></span><span class=\"verse v25\" data-usfm=\"EPH.4.25\"><span class=\"label\">25</span><span class=\"content\">Por lo tanto, habiendo dejado la mentira, </span><span class=\"it\"><span class=\"content\">hablen la verdad cada uno con su pr&#243;jimo</span></span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">Zac. 8:16.</span></span></span><span class=\"content\">, porque somos miembros los unos de los otros. </span></span><span class=\"verse v26\" data-usfm=\"EPH.4.26\"><span class=\"label\">26</span><span class=\"it\"><span class=\"content\">En&#243;jense, pero no pequen</span></span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">Sal. 4:4 (LXX).</span></span></span><span class=\"content\">; no se ponga el sol sobre su enojo </span></span><span class=\"verse v27\" data-usfm=\"EPH.4.27\"><span class=\"label\">27</span><span class=\"content\">ni den lugar al diablo. </span></span><span class=\"verse v28\" data-usfm=\"EPH.4.28\"><span class=\"label\">28</span><span class=\"content\">El que robaba no robe m&#225;s sino que trabaje esforzadamente, haciendo con sus propias manos lo que es bueno para tener qu&#233; compartir con el que tenga necesidad. </span></span><span class=\"verse v29\" data-usfm=\"EPH.4.29\"><span class=\"label\">29</span><span class=\"content\">Ninguna palabra obscena salga de su boca sino la que sea buena para edificaci&#243;n, seg&#250;n sea necesaria, para que imparta gracia a los que oyen. </span></span><span class=\"verse v30\" data-usfm=\"EPH.4.30\"><span class=\"label\">30</span><span class=\"content\">Y no entristezcan al Esp&#237;ritu Santo de Dios en quien fueron sellados para el d&#237;a de la redenci&#243;n.</span></span></div><div class=\"p\"><span class=\"verse v30\" data-usfm=\"EPH.4.30\"><span class=\"content\">  </span></span><span class=\"verse v31\" data-usfm=\"EPH.4.31\"><span class=\"label\">31</span><span class=\"content\">Qu&#237;tense de ustedes toda amargura, enojo, ira, gritos y calumnia, junto con toda maldad. </span></span><span class=\"verse v32\" data-usfm=\"EPH.4.32\"><span class=\"label\">32</span><span class=\"content\">M&#225;s bien, sean bondadosos y misericordiosos los unos con los otros, perdon&#225;ndose unos a otros como Dios tambi&#233;n los perdon&#243; a ustedes en Cristo.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "La unidad, los dones y el crecimiento"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Por eso yo, prisionero en el Señor, les exhorto a que anden como es digno del llamamiento con que fueron llamados:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "con toda humildad y mansedumbre, con paciencia, soportándose los unos a los otros en amor,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "procurando con diligencia guardar la unidad del Espíritu en el vínculo de la paz."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Hay un solo cuerpo y un solo Espíritu, así como han sido llamados a una sola esperanza de su llamamiento."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Hay un solo Señor, una sola fe, un solo bautismo,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "un solo Dios y Padre de todos quien es sobre todos, a través de todos y en todos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Sin embargo, a cada uno de nosotros nos ha sido conferida la gracia conforme a la medida de la dádiva de Cristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Por esto dice: Subiendo a lo alto, llevó cautiva la cautividad y dio dones a los hombres."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Pero esto de que subió, ¿qué quiere decir, a menos que hubiera descendido también a las partes más bajas de la tierra?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "El que descendió es el mismo que también ascendió por encima de todos los cielos para llenarlo todo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Y él mismo constituyó a unos apóstoles, a otros profetas, a otros evangelistas, y a otros pastores y maestros,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "a fin de capacitar a los santos para la obra del ministerio, para la edificación del cuerpo de Cristo,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "hasta que todos alcancemos la unidad de la fe y del conocimiento del Hijo de Dios, hasta ser un hombre de plena madurez, hasta la medida de la estatura de la plenitud de Cristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Esto, para que ya no seamos niños, sacudidos a la deriva y llevados a dondequiera por todo viento de doctrina por estratagema de hombres que, para engañar, emplean con astucia las artimañas del error"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "sino que, siguiendo la verdad con amor, crezcamos en todo hacia aquel que es la cabeza: Cristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "De parte de él todo el cuerpo, bien concertado y entrelazado por la cohesión que aportan todos los ligamentos, recibe su crecimiento de acuerdo con la actividad proporcionada a cada uno de los miembros para ir edificándose en amor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "La vida del nuevo hombre en Cristo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Esto digo e insisto en el Señor: que no se conduzcan más como se conducen los gentiles, en la vanidad de sus mentes,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "teniendo el entendimiento entenebrecido, alejados de la vida de Dios por la ignorancia que hay en ellos, debido a la dureza de su corazón."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Una vez perdida toda sensibilidad, se entregaron a la sensualidad para cometer ávidamente toda clase de impurezas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Pero ustedes no han aprendido así a Cristo,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "si en verdad le han oído y han sido enseñados en él, así como la verdad está en Jesús."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "Con respecto a su antigua manera de vivir, despójense del viejo hombre que está viciado por los deseos engañosos;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "pero renuévense en el espíritu de su mente"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "y vístanse del nuevo hombre que ha sido creado a semejanza de Dios en justicia y santidad de verdad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "Por lo tanto, habiendo dejado la mentira, hablen la verdad cada uno con su prójimo, porque somos miembros los unos de los otros."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 26,
+          "lines": [
+            "Enójense, pero no pequen; no se ponga el sol sobre su enojo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 27,
+          "lines": [
+            "ni den lugar al diablo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 28,
+          "lines": [
+            "El que robaba no robe más sino que trabaje esforzadamente, haciendo con sus propias manos lo que es bueno para tener qué compartir con el que tenga necesidad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 29,
+          "lines": [
+            "Ninguna palabra obscena salga de su boca sino la que sea buena para edificación, según sea necesaria, para que imparta gracia a los que oyen."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 30,
+          "lines": [
+            "Y no entristezcan al Espíritu Santo de Dios en quien fueron sellados para el día de la redención."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 31,
+          "lines": [
+            "Quítense de ustedes toda amargura, enojo, ira, gritos y calumnia, junto con toda maldad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 32,
+          "lines": [
+            "Más bien, sean bondadosos y misericordiosos los unos con los otros, perdonándose unos a otros como Dios también los perdonó a ustedes en Cristo."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "EPH.5",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "EPH.5"
+        ],
+        "human": "Efesios 5"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "EPH.6"
+        ],
+        "human": "Efesios 6",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "EPH.4"
+        ],
+        "human": "Efesios 4",
+        "toc": true
+      },
+      "chapter_text": "Por tanto, sean imitadores de Dios como hijos amados, y anden en amor, como Cristo también nos amó y se entregó a sí mismo por nosotros como ofrenda y sacrificio en olor fragante a Dios. Pero la inmoralidad sexual y toda impureza o avaricia no se nombren más entre ustedes, como corresponde a santos; ni tampoco la conducta indecente ni tonterías ni bromas groseras, cosas que no son apropiadas sino, más bien, acciones de gracias. Porque esto lo saben muy bien: que ningún inmoral ni impuro ni avaro, el cual es idólatra, tiene herencia en el reino de Cristo y de Dios.\n\nNadie los engañe con vanas palabras, porque a causa de estas cosas viene la ira de Dios sobre los hijos de desobediencia. Por eso, no sean partícipes con ellos porque, si bien en otro tiempo eran tinieblas, ahora son luz en el Señor. ¡Anden como hijos de luz! Pues el fruto de la luz consiste en toda bondad, justicia y verdad. Aprueben lo que es agradable al Señor y no tengan ninguna participación en las infructuosas obras de las tinieblas sino, más bien, denúncienlas. Porque da vergüenza aun mencionar lo que ellos hacen en secreto. Pero cuando son denunciadas, todas las cosas son puestas en evidencia por la luz; pues lo que hace que todo sea visible es la luz. Por eso dice:\n\n“¡Despiértate, tú que duermes,\ny levántate de entre los muertos,\ny te alumbrará Cristo!”.\n\nMiren, pues, con cuidado, cómo se comportan; no como imprudentes sino como prudentes, redimiendo el tiempo porque los días son malos. Por tanto, no sean insensatos sino comprendan cuál es la voluntad del Señor. Y no se embriaguen con vino, pues en esto hay desenfreno. Más bien, sean llenos del Espíritu, hablando entre ustedes con salmos, himnos y canciones espirituales; cantando y alabando al Señor en su corazón; dando gracias siempre por todo al Dios y Padre en el nombre de nuestro Señor Jesucristo; y sometiéndose unos a otros en el temor de Cristo: Las casadas estén sujetas a sus propios esposos como al Señor, porque el esposo es cabeza de la esposa así como Cristo es cabeza de la iglesia, y él mismo es salvador de su cuerpo. Así que, como la iglesia está sujeta a Cristo, de igual manera las esposas lo estén a sus esposos en todo.\nEsposos, amen a sus esposas así como también Cristo amó a la iglesia y se entregó a sí mismo por ella, a fin de santificarla, habiéndola purificado en el lavamiento del agua con la palabra, para presentársela a sí mismo una iglesia gloriosa que no tenga mancha ni arruga ni cosa semejante sino que sea santa y sin falta. De igual manera, los esposos deben amar a sus esposas como a sus propios cuerpos. El que ama a su esposa, a sí mismo se ama. Porque nadie aborreció jamás a su propio cuerpo; más bien, lo sustenta y lo cuida tal como Cristo a la iglesia, porque somos miembros de su cuerpo. Por esto dejará el hombre a su padre y a su madre y se unirá a su mujer, y serán los dos una sola carne. Grande es este misterio, pero lo digo respecto de Cristo y de la iglesia. Por tanto, cada uno de ustedes ame a su esposa como a sí mismo, y la esposa respete a su esposo.",
+      "chapter_html": "<div class=\"version vid1782 iso6393spa\" data-vid=\"1782\" data-iso6393=\"spa\">\n   <div class=\"book bkEPH\">\n      <div class=\"chapter ch5\" data-usfm=\"EPH.5\">\n         <div class=\"label\">5</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"EPH.5.1\"><span class=\"label\">1</span><span class=\"content\">Por tanto, sean imitadores de Dios como hijos amados, </span></span><span class=\"verse v2\" data-usfm=\"EPH.5.2\"><span class=\"label\">2</span><span class=\"content\">y anden en amor, como Cristo tambi&#233;n nos am&#243; y se entreg&#243; a s&#237; mismo por nosotros como ofrenda y sacrificio en olor fragante a Dios. </span></span><span class=\"verse v3\" data-usfm=\"EPH.5.3\"><span class=\"label\">3</span><span class=\"content\">Pero la inmoralidad sexual y toda impureza o avaricia no se nombren m&#225;s entre ustedes, como corresponde a santos; </span></span><span class=\"verse v4\" data-usfm=\"EPH.5.4\"><span class=\"label\">4</span><span class=\"content\">ni tampoco la conducta indecente ni tonter&#237;as ni bromas groseras, cosas que no son apropiadas sino, m&#225;s bien, acciones de gracias. </span></span><span class=\"verse v5\" data-usfm=\"EPH.5.5\"><span class=\"label\">5</span><span class=\"content\">Porque esto lo saben muy bien: que ning&#250;n inmoral ni impuro ni avaro, el cual es id&#243;latra, tiene herencia en el reino de Cristo y de Dios.</span></span></div><div class=\"s1\"><span class=\"heading\">La conducta de los hijos de luz</span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"EPH.5.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"EPH.5.6\"><span class=\"label\">6</span><span class=\"content\">Nadie los enga&#241;e con vanas palabras, porque a causa de estas cosas viene la ira de Dios sobre los hijos de desobediencia. </span></span><span class=\"verse v7\" data-usfm=\"EPH.5.7\"><span class=\"label\">7</span><span class=\"content\">Por eso, no sean part&#237;cipes con ellos </span></span><span class=\"verse v8\" data-usfm=\"EPH.5.8\"><span class=\"label\">8</span><span class=\"content\">porque, si bien en otro tiempo eran tinieblas, ahora son luz en el Se&#241;or. &#161;Anden como hijos de luz! </span></span><span class=\"verse v9\" data-usfm=\"EPH.5.9\"><span class=\"label\">9</span><span class=\"content\">Pues el fruto de la luz</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">Algunos mss. antiguos tienen </span><span class=\"it\">del Esp&#237;ritu.</span></span></span><span class=\"content\"> consiste en toda bondad, justicia y verdad. </span></span><span class=\"verse v10\" data-usfm=\"EPH.5.10\"><span class=\"label\">10</span><span class=\"content\">Aprueben lo que es agradable al Se&#241;or </span></span><span class=\"verse v11\" data-usfm=\"EPH.5.11\"><span class=\"label\">11</span><span class=\"content\">y no tengan ninguna participaci&#243;n en las infructuosas obras de las tinieblas sino, m&#225;s bien, den&#250;ncienlas. </span></span><span class=\"verse v12\" data-usfm=\"EPH.5.12\"><span class=\"label\">12</span><span class=\"content\">Porque da verg&#252;enza aun mencionar lo que ellos hacen en secreto. </span></span><span class=\"verse v13\" data-usfm=\"EPH.5.13\"><span class=\"label\">13</span><span class=\"content\">Pero cuando son denunciadas, todas las cosas son puestas en evidencia por la luz; pues lo que hace que todo sea visible es la luz. </span></span><span class=\"verse v14\" data-usfm=\"EPH.5.14\"><span class=\"label\">14</span><span class=\"content\">Por eso dice:</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"EPH.5.14\"><span class=\"content\">&#8220;&#161;Despi&#233;rtate, t&#250; que duermes,</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"EPH.5.14\"><span class=\"content\">y lev&#225;ntate de entre los muertos,</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"EPH.5.14\"><span class=\"content\">y te alumbrar&#225; Cristo!&#8221;</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">Cf. Isa. 26:19; 60:1.</span></span></span><span class=\"content\">.</span></span></div><div class=\"b\"></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"EPH.5.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"EPH.5.15\"><span class=\"label\">15</span><span class=\"content\">Miren, pues, con cuidado, c&#243;mo se comportan; no como imprudentes sino como prudentes, </span></span><span class=\"verse v16\" data-usfm=\"EPH.5.16\"><span class=\"label\">16</span><span class=\"content\">redimiendo el tiempo porque los d&#237;as son malos. </span></span><span class=\"verse v17\" data-usfm=\"EPH.5.17\"><span class=\"label\">17</span><span class=\"content\">Por tanto, no sean insensatos sino comprendan cu&#225;l es la voluntad del Se&#241;or. </span></span><span class=\"verse v18\" data-usfm=\"EPH.5.18\"><span class=\"label\">18</span><span class=\"content\">Y no se embriaguen con vino, pues en esto hay desenfreno</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">Cf. Col. 3:18&#8212;4:1; 1 Ped. 3:1-7.</span></span></span><span class=\"content\">. M&#225;s bien, sean llenos del Esp&#237;ritu, </span></span><span class=\"verse v19\" data-usfm=\"EPH.5.19\"><span class=\"label\">19</span><span class=\"content\">hablando entre ustedes con salmos, himnos y canciones espirituales; cantando y alabando al Se&#241;or en su coraz&#243;n; </span></span><span class=\"verse v20\" data-usfm=\"EPH.5.20\"><span class=\"label\">20</span><span class=\"content\">dando gracias siempre por todo al Dios y Padre en el nombre de nuestro Se&#241;or Jesucristo; </span></span><span class=\"verse v21\" data-usfm=\"EPH.5.21\"><span class=\"label\">21</span><span class=\"content\">y someti&#233;ndose unos a otros en el temor de Cristo: </span></span><span class=\"verse v22\" data-usfm=\"EPH.5.22\"><span class=\"label\">22</span><span class=\"content\">Las casadas</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">Los mss. m&#225;s recientes incluyen </span><span class=\"it\">est&#233;n sujetas.</span></span></span><span class=\"content\"> est&#233;n sujetas a sus propios esposos como al Se&#241;or, </span></span><span class=\"verse v23\" data-usfm=\"EPH.5.23\"><span class=\"label\">23</span><span class=\"content\">porque el esposo es cabeza de la esposa as&#237; como Cristo es cabeza de la iglesia, y &#233;l mismo es salvador de su cuerpo. </span></span><span class=\"verse v24\" data-usfm=\"EPH.5.24\"><span class=\"label\">24</span><span class=\"content\">As&#237; que, como la iglesia est&#225; sujeta a Cristo, de igual manera las esposas lo est&#233;n a sus esposos en todo.</span></span></div><div class=\"p\"><span class=\"verse v24\" data-usfm=\"EPH.5.24\"><span class=\"content\">  </span></span><span class=\"verse v25\" data-usfm=\"EPH.5.25\"><span class=\"label\">25</span><span class=\"content\">Esposos, amen a sus esposas as&#237; como tambi&#233;n Cristo am&#243; a la iglesia y se entreg&#243; a s&#237; mismo por ella, </span></span><span class=\"verse v26\" data-usfm=\"EPH.5.26\"><span class=\"label\">26</span><span class=\"content\">a fin de santificarla, habi&#233;ndola purificado en el lavamiento del agua con la palabra, </span></span><span class=\"verse v27\" data-usfm=\"EPH.5.27\"><span class=\"label\">27</span><span class=\"content\">para present&#225;rsela a s&#237; mismo una iglesia gloriosa que no tenga mancha ni arruga ni cosa semejante sino que sea santa y sin falta. </span></span><span class=\"verse v28\" data-usfm=\"EPH.5.28\"><span class=\"label\">28</span><span class=\"content\">De igual manera, los esposos deben amar a sus esposas como a sus propios cuerpos. El que ama a su esposa, a s&#237; mismo se ama. </span></span><span class=\"verse v29\" data-usfm=\"EPH.5.29\"><span class=\"label\">29</span><span class=\"content\">Porque nadie aborreci&#243; jam&#225;s a su propio cuerpo; m&#225;s bien, lo sustenta y lo cuida tal como Cristo a la iglesia, </span></span><span class=\"verse v30\" data-usfm=\"EPH.5.30\"><span class=\"label\">30</span><span class=\"content\">porque somos miembros de su cuerpo</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">Algunos mss. antiguos tienen </span><span class=\"it\">&#8230;cuerpo de su carne y de sus huesos.</span></span></span><span class=\"content\">. </span></span><span class=\"verse v31\" data-usfm=\"EPH.5.31\"><span class=\"label\">31</span><span class=\"it\"><span class=\"content\">Por esto dejar&#225; el hombre a su padre y a su madre y se unir&#225; a su mujer, y ser&#225;n los dos una sola carne</span></span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">G&#233;n. 2:24; cf. Mat. 19:5.</span></span></span><span class=\"content\">. </span></span><span class=\"verse v32\" data-usfm=\"EPH.5.32\"><span class=\"label\">32</span><span class=\"content\">Grande es este misterio, pero lo digo respecto de Cristo y de la iglesia. </span></span><span class=\"verse v33\" data-usfm=\"EPH.5.33\"><span class=\"label\">33</span><span class=\"content\">Por tanto, cada uno de ustedes ame a su esposa como a s&#237; mismo, y la esposa respete a su esposo.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Por tanto, sean imitadores de Dios como hijos amados,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "y anden en amor, como Cristo también nos amó y se entregó a sí mismo por nosotros como ofrenda y sacrificio en olor fragante a Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Pero la inmoralidad sexual y toda impureza o avaricia no se nombren más entre ustedes, como corresponde a santos;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "ni tampoco la conducta indecente ni tonterías ni bromas groseras, cosas que no son apropiadas sino, más bien, acciones de gracias."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Porque esto lo saben muy bien: que ningún inmoral ni impuro ni avaro, el cual es idólatra, tiene herencia en el reino de Cristo y de Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "La conducta de los hijos de luz"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Nadie los engañe con vanas palabras, porque a causa de estas cosas viene la ira de Dios sobre los hijos de desobediencia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Por eso, no sean partícipes con ellos"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "porque, si bien en otro tiempo eran tinieblas, ahora son luz en el Señor. ¡Anden como hijos de luz!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Pues el fruto de la luz consiste en toda bondad, justicia y verdad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Aprueben lo que es agradable al Señor"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "y no tengan ninguna participación en las infructuosas obras de las tinieblas sino, más bien, denúncienlas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Porque da vergüenza aun mencionar lo que ellos hacen en secreto."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Pero cuando son denunciadas, todas las cosas son puestas en evidencia por la luz; pues lo que hace que todo sea visible es la luz."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Por eso dice:",
+            "“¡Despiértate, tú que duermes,",
+            "y levántate de entre los muertos,",
+            "y te alumbrará Cristo!”."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Miren, pues, con cuidado, cómo se comportan; no como imprudentes sino como prudentes,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "redimiendo el tiempo porque los días son malos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Por tanto, no sean insensatos sino comprendan cuál es la voluntad del Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Y no se embriaguen con vino, pues en esto hay desenfreno. Más bien, sean llenos del Espíritu,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "hablando entre ustedes con salmos, himnos y canciones espirituales; cantando y alabando al Señor en su corazón;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "dando gracias siempre por todo al Dios y Padre en el nombre de nuestro Señor Jesucristo;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "y sometiéndose unos a otros en el temor de Cristo:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "Las casadas estén sujetas a sus propios esposos como al Señor,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "porque el esposo es cabeza de la esposa así como Cristo es cabeza de la iglesia, y él mismo es salvador de su cuerpo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "Así que, como la iglesia está sujeta a Cristo, de igual manera las esposas lo estén a sus esposos en todo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "Esposos, amen a sus esposas así como también Cristo amó a la iglesia y se entregó a sí mismo por ella,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 26,
+          "lines": [
+            "a fin de santificarla, habiéndola purificado en el lavamiento del agua con la palabra,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 27,
+          "lines": [
+            "para presentársela a sí mismo una iglesia gloriosa que no tenga mancha ni arruga ni cosa semejante sino que sea santa y sin falta."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 28,
+          "lines": [
+            "De igual manera, los esposos deben amar a sus esposas como a sus propios cuerpos. El que ama a su esposa, a sí mismo se ama."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 29,
+          "lines": [
+            "Porque nadie aborreció jamás a su propio cuerpo; más bien, lo sustenta y lo cuida tal como Cristo a la iglesia,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 30,
+          "lines": [
+            "porque somos miembros de su cuerpo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 31,
+          "lines": [
+            "Por esto dejará el hombre a su padre y a su madre y se unirá a su mujer, y serán los dos una sola carne."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 32,
+          "lines": [
+            "Grande es este misterio, pero lo digo respecto de Cristo y de la iglesia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 33,
+          "lines": [
+            "Por tanto, cada uno de ustedes ame a su esposa como a sí mismo, y la esposa respete a su esposo."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "EPH.6",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "EPH.6"
+        ],
+        "human": "Efesios 6"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "PHP.1"
+        ],
+        "human": "Filipenses 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "EPH.5"
+        ],
+        "human": "Efesios 5",
+        "toc": true
+      },
+      "chapter_text": "Hijos, obedezcan en el Señor a sus padres, porque esto es justo. Honra a tu padre y a tu madre (que es el primer mandamiento con promesa), para que te vaya bien y vivas largo tiempo sobre la tierra.\nY ustedes, padres, no provoquen a ira a sus hijos, sino críenlos en la disciplina y la instrucción del Señor.\nSiervos, obedezcan a los que son sus amos en la tierra con temor y temblor, con sinceridad de corazón, como a Cristo; no sirviendo solo cuando se les esté mirando, como los que quieren quedar bien con los hombres, sino como siervos de Cristo, haciendo la voluntad de Dios con ánimo. Sirvan de buena voluntad, como al Señor, no como a los hombres, sabiendo que el bien que haga cada uno eso recibirá de parte del Señor, sea siervo o libre.\nY ustedes, amos, hagan con ellos lo mismo, dejando las amenazas porque ustedes saben que el mismo Señor de ellos y de ustedes está en los cielos, y que no hay distinción de personas delante de él.\n\nPor lo demás, fortalézcanse en el Señor y en el poder de su fuerza. Vístanse de toda la armadura de Dios, para que puedan hacer frente a las intrigas del diablo; porque nuestra lucha no es contra sangre ni carne, sino contra principados, contra autoridades, contra los gobernantes de estas tinieblas, contra espíritus de maldad en los lugares celestiales.\nPor esta causa, tomen toda la armadura de Dios para que puedan resistir en el día malo y, después de haberlo logrado todo, quedar firmes. Permanezcan, pues, firmes, ceñidos con el cinturón de la verdad, vestidos con la coraza de justicia y calzados sus pies con la preparación para proclamar el evangelio de paz. Y sobre todo, ármense con el escudo de la fe con que podrán apagar todos los dardos de fuego del maligno. Tomen también el casco de la salvación y la espada del Espíritu, que es la palabra de Dios, orando en todo tiempo en el Espíritu con toda oración y ruego, vigilando con toda perseverancia y ruego por todos los santos. Y también oren por mí, para que al abrir la boca me sean conferidas palabras para dar a conocer con confianza el misterio del evangelio por el cual soy embajador en cadenas; a fin de que por ello yo hable con valentía, como debo hablar.\n\nAhora bien, para que también ustedes sepan cómo me va y qué estoy haciendo, todo les informará Tíquico, hermano amado y fiel ministro en el Señor. Por esto mismo lo he enviado a ustedes para que sepan lo tocante a nosotros y para que él anime sus corazones. Paz sea a los hermanos, y amor con fe, de parte de Dios Padre y del Señor Jesucristo. La gracia sea con todos los que aman a nuestro Señor Jesucristo con amor incorruptible.",
+      "chapter_html": "<div class=\"version vid1782 iso6393spa\" data-vid=\"1782\" data-iso6393=\"spa\">\n   <div class=\"book bkEPH\">\n      <div class=\"chapter ch6\" data-usfm=\"EPH.6\">\n         <div class=\"label\">6</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"EPH.6.1\"><span class=\"label\">1</span><span class=\"content\">Hijos, obedezcan en el Se&#241;or</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">Algunos mss. antiguos no incluyen </span><span class=\"it\">en el Se&#241;or.</span></span></span><span class=\"content\"> a sus padres, porque esto es justo. </span></span><span class=\"verse v2\" data-usfm=\"EPH.6.2\"><span class=\"label\">2</span><span class=\"it\"><span class=\"content\">Honra a tu padre y a tu madre</span></span><span class=\"content\"> (que es el primer mandamiento con promesa), </span></span><span class=\"verse v3\" data-usfm=\"EPH.6.3\"><span class=\"label\">3</span><span class=\"it\"><span class=\"content\">para que te vaya bien y vivas largo tiempo sobre la tierra</span></span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">&#201;xo. 20:12; Deut. 5:16.</span></span></span><span class=\"content\">.</span></span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"EPH.6.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"EPH.6.4\"><span class=\"label\">4</span><span class=\"content\">Y ustedes, padres, no provoquen a ira a sus hijos, sino cr&#237;enlos en la disciplina y la instrucci&#243;n del Se&#241;or.</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"EPH.6.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"EPH.6.5\"><span class=\"label\">5</span><span class=\"content\">Siervos, obedezcan a los que son sus amos en la tierra con temor y temblor, con sinceridad de coraz&#243;n, como a Cristo; </span></span><span class=\"verse v6\" data-usfm=\"EPH.6.6\"><span class=\"label\">6</span><span class=\"content\">no sirviendo solo cuando se les est&#233; mirando, como los que quieren quedar bien con los hombres, sino como siervos de Cristo, haciendo la voluntad de Dios con &#225;nimo. </span></span><span class=\"verse v7\" data-usfm=\"EPH.6.7\"><span class=\"label\">7</span><span class=\"content\">Sirvan de buena voluntad, como al Se&#241;or, no como a los hombres, </span></span><span class=\"verse v8\" data-usfm=\"EPH.6.8\"><span class=\"label\">8</span><span class=\"content\">sabiendo que el bien que haga cada uno eso recibir&#225; de parte del Se&#241;or, sea siervo o libre.</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"EPH.6.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"EPH.6.9\"><span class=\"label\">9</span><span class=\"content\">Y ustedes, amos, hagan con ellos lo mismo, dejando las amenazas porque ustedes saben que el mismo Se&#241;or de ellos y de ustedes est&#225; en los cielos, y que no hay distinci&#243;n de personas delante de &#233;l.</span></span></div><div class=\"s1\"><span class=\"heading\">La armadura que Dios ha provisto</span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"EPH.6.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"EPH.6.10\"><span class=\"label\">10</span><span class=\"content\">Por lo dem&#225;s</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">Algunos mss. antiguos incluyen </span><span class=\"it\">hermanos m&#237;os.</span></span></span><span class=\"content\">, fortal&#233;zcanse en el Se&#241;or y en el poder de su fuerza. </span></span><span class=\"verse v11\" data-usfm=\"EPH.6.11\"><span class=\"label\">11</span><span class=\"content\">V&#237;stanse de toda la armadura de Dios, para que puedan hacer frente a las intrigas del diablo; </span></span><span class=\"verse v12\" data-usfm=\"EPH.6.12\"><span class=\"label\">12</span><span class=\"content\">porque nuestra lucha no es contra sangre ni carne, sino contra principados, contra autoridades, contra los gobernantes de estas tinieblas, contra esp&#237;ritus de maldad en los lugares celestiales.</span></span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"EPH.6.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"EPH.6.13\"><span class=\"label\">13</span><span class=\"content\">Por esta causa, tomen toda la armadura de Dios para que puedan resistir en el d&#237;a malo y, despu&#233;s de haberlo logrado todo, quedar firmes. </span></span><span class=\"verse v14\" data-usfm=\"EPH.6.14\"><span class=\"label\">14</span><span class=\"content\">Permanezcan, pues, firmes, ce&#241;idos con el cintur&#243;n de la verdad, vestidos con la coraza de justicia </span></span><span class=\"verse v15\" data-usfm=\"EPH.6.15\"><span class=\"label\">15</span><span class=\"content\">y calzados sus pies con la preparaci&#243;n para proclamar el evangelio de paz. </span></span><span class=\"verse v16\" data-usfm=\"EPH.6.16\"><span class=\"label\">16</span><span class=\"content\">Y sobre todo, &#225;rmense con el escudo de la fe con que podr&#225;n apagar todos los dardos de fuego del maligno. </span></span><span class=\"verse v17\" data-usfm=\"EPH.6.17\"><span class=\"label\">17</span><span class=\"content\">Tomen tambi&#233;n el casco de la salvaci&#243;n y la espada del Esp&#237;ritu, que es la palabra de Dios, </span></span><span class=\"verse v18\" data-usfm=\"EPH.6.18\"><span class=\"label\">18</span><span class=\"content\">orando en todo tiempo en el Esp&#237;ritu con toda oraci&#243;n y ruego, vigilando con toda perseverancia y ruego por todos los santos. </span></span><span class=\"verse v19\" data-usfm=\"EPH.6.19\"><span class=\"label\">19</span><span class=\"content\">Y tambi&#233;n oren por m&#237;, para que al abrir la boca me sean conferidas palabras para dar a conocer con confianza el misterio del evangelio </span></span><span class=\"verse v20\" data-usfm=\"EPH.6.20\"><span class=\"label\">20</span><span class=\"content\">por el cual soy embajador en cadenas; a fin de que por ello yo hable con valent&#237;a, como debo hablar.</span></span></div><div class=\"s1\"><span class=\"heading\">Conclusi&#243;n</span></div><div class=\"p\"><span class=\"verse v20\" data-usfm=\"EPH.6.20\"><span class=\"content\">  </span></span><span class=\"verse v21\" data-usfm=\"EPH.6.21\"><span class=\"label\">21</span><span class=\"content\">Ahora bien, para que tambi&#233;n ustedes sepan c&#243;mo me va y qu&#233; estoy haciendo, todo les informar&#225; T&#237;quico, hermano amado y fiel ministro en el Se&#241;or. </span></span><span class=\"verse v22\" data-usfm=\"EPH.6.22\"><span class=\"label\">22</span><span class=\"content\">Por esto mismo lo he enviado a ustedes para que sepan lo tocante a nosotros y para que &#233;l anime sus corazones. </span></span><span class=\"verse v23\" data-usfm=\"EPH.6.23\"><span class=\"label\">23</span><span class=\"content\">Paz sea a los hermanos, y amor con fe, de parte de Dios Padre y del Se&#241;or Jesucristo. </span></span><span class=\"verse v24\" data-usfm=\"EPH.6.24\"><span class=\"label\">24</span><span class=\"content\">La gracia sea con todos los que aman a nuestro Se&#241;or Jesucristo con amor incorruptible</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">Algunos mss. tard&#237;os agregan </span><span class=\"it\">Am&#233;n.</span></span></span><span class=\"content\">.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Hijos, obedezcan en el Señor a sus padres, porque esto es justo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Honra a tu padre y a tu madre (que es el primer mandamiento con promesa),"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "para que te vaya bien y vivas largo tiempo sobre la tierra."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Y ustedes, padres, no provoquen a ira a sus hijos, sino críenlos en la disciplina y la instrucción del Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Siervos, obedezcan a los que son sus amos en la tierra con temor y temblor, con sinceridad de corazón, como a Cristo;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "no sirviendo solo cuando se les esté mirando, como los que quieren quedar bien con los hombres, sino como siervos de Cristo, haciendo la voluntad de Dios con ánimo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Sirvan de buena voluntad, como al Señor, no como a los hombres,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "sabiendo que el bien que haga cada uno eso recibirá de parte del Señor, sea siervo o libre."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Y ustedes, amos, hagan con ellos lo mismo, dejando las amenazas porque ustedes saben que el mismo Señor de ellos y de ustedes está en los cielos, y que no hay distinción de personas delante de él."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "La armadura que Dios ha provisto"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Por lo demás, fortalézcanse en el Señor y en el poder de su fuerza."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Vístanse de toda la armadura de Dios, para que puedan hacer frente a las intrigas del diablo;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "porque nuestra lucha no es contra sangre ni carne, sino contra principados, contra autoridades, contra los gobernantes de estas tinieblas, contra espíritus de maldad en los lugares celestiales."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Por esta causa, tomen toda la armadura de Dios para que puedan resistir en el día malo y, después de haberlo logrado todo, quedar firmes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Permanezcan, pues, firmes, ceñidos con el cinturón de la verdad, vestidos con la coraza de justicia"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "y calzados sus pies con la preparación para proclamar el evangelio de paz."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Y sobre todo, ármense con el escudo de la fe con que podrán apagar todos los dardos de fuego del maligno."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Tomen también el casco de la salvación y la espada del Espíritu, que es la palabra de Dios,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "orando en todo tiempo en el Espíritu con toda oración y ruego, vigilando con toda perseverancia y ruego por todos los santos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Y también oren por mí, para que al abrir la boca me sean conferidas palabras para dar a conocer con confianza el misterio del evangelio"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "por el cual soy embajador en cadenas; a fin de que por ello yo hable con valentía, como debo hablar."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Conclusión"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "Ahora bien, para que también ustedes sepan cómo me va y qué estoy haciendo, todo les informará Tíquico, hermano amado y fiel ministro en el Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "Por esto mismo lo he enviado a ustedes para que sepan lo tocante a nosotros y para que él anime sus corazones."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "Paz sea a los hermanos, y amor con fe, de parte de Dios Padre y del Señor Jesucristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "La gracia sea con todos los que aman a nuestro Señor Jesucristo con amor incorruptible."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

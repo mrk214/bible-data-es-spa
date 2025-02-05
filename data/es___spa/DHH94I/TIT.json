@@ -1,0 +1,538 @@
+{
+  "book_usfm": "TIT",
+  "name": "Tito",
+  "local_title": "Biblia Dios Habla Hoy",
+  "local_abbreviation": "DHH94I",
+  "version_id": 52,
+  "publisher": {
+    "name": "United Bible Societies"
+  },
+  "copyright": {
+    "html": "<p>Texto © Sociedades Bíblicas Unidas, 1994.</p>",
+    "text": "Texto © Sociedades Bíblicas Unidas, 1994."
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "TIT.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "TIT.1"
+        ],
+        "human": "Tito 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "TIT.2"
+        ],
+        "human": "Tito 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "2TI.4"
+        ],
+        "human": "2 Timoteo 4",
+        "toc": true
+      },
+      "chapter_text": "Carta de Pablo, siervo de Dios y apóstol de Jesucristo, enviado por él para que los elegidos de Dios lleguen a la fe y al conocimiento de la verdad que se encuentra en nuestra religión, sostenidos por la esperanza de la vida eterna. Dios, que no miente, prometió esta vida desde la eternidad, y ahora, a su debido tiempo, ha dado a conocer su mensaje por medio de la predicación que me ha sido confiada por mandato de Dios nuestro Salvador. A Tito, verdadero hijo en la fe común a los dos. Que Dios nuestro Padre y Jesucristo nuestro Salvador derramen su gracia y su paz sobre ti.\n\n\n\nCuando te dejé en la isla de Creta, lo hice para que arreglaras lo que quedaba por arreglar y para que, en cada pueblo, nombraras ancianos de la iglesia, de acuerdo con lo que yo te encargué. Un anciano debe llevar una vida irreprochable. Debe ser esposo de una sola mujer, y sus hijos deben ser creyentes y no estar acusados de mala conducta o de ser rebeldes. Pues el que preside la comunidad está encargado de las cosas de Dios, y por eso es necesario que lleve una vida irreprochable. No debe ser terco, ni de mal genio; no debe ser borracho, ni amigo de peleas, ni desear ganancias mal habidas. Al contrario, siempre debe estar dispuesto a hospedar gente en su casa, y debe ser un hombre de bien, de buen juicio, justo, santo y disciplinado. Debe apegarse al verdadero mensaje que se le enseñó, para que también pueda animar a otros con la sana enseñanza y convencer a los que contradicen.\n\nPorque hay muchos rebeldes, sobre todo entre los que vienen del judaísmo, que dicen cosas sin sentido y engañan a la gente. A esos hay que taparles la boca, pues trastornan familias enteras, enseñando lo que no deben para obtener ganancias mal habidas.\nFue un profeta de la misma isla de Creta quien dijo de sus paisanos: «Los cretenses, siempre mentirosos, salvajes, glotones y perezosos.» Y dijo la verdad; por eso, repréndelos duramente, para que sean sanos en su fe y para que no hagan caso de cuentos inventados por los judíos, ni de lo que ordenan los que dan la espalda a la verdad. Para los puros todas las cosas son puras; pero para los que son impuros y no aceptan la fe, nada hay puro, pues tienen impuras la mente y la conciencia. Dicen conocer a Dios, pero con sus hechos lo niegan; son odiosos y rebeldes, incapaces de ninguna obra buena.",
+      "chapter_html": "<div class=\"version vid52 iso6393spa\" data-vid=\"52\" data-iso6393=\"spa\">\n   <div class=\"book bkTIT\">\n      <div class=\"chapter ch1\" data-usfm=\"TIT.1\">\n         <div class=\"label\">1</div><div class=\"ms3\"><span class=\"heading\">Saludo</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\"><span class=\"heading\">1.1-4 </span></span><span class=\"ft\"><span class=\"heading\">Al saludo de costumbre (v&#233;anse Ro 1.1-7&#160;n. e </span><span class=\"it\"><span class=\"heading\">Introducci&#243;n a las cartas</span></span><span class=\"heading\">) se agregan ciertas declaraciones acerca de </span><span class=\"it\"><span class=\"heading\">Dios</span></span><span class=\"heading\"> y de </span><span class=\"it\"><span class=\"heading\">la vida eterna</span></span><span class=\"heading\">.</span></span></span></span></div><div class=\"mr\"><span class=\"heading\">(</span><span class=\"heading\">1.1-4</span><span class=\"heading\">)</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"TIT.1.1\"><span class=\"label\">1</span><span class=\"content\">Carta de Pablo, siervo de Dios y ap&#243;stol de Jesucristo, enviado por &#233;l para que los elegidos de Dios lleguen a la fe y al conocimiento de la verdad que se encuentra en nuestra religi&#243;n, </span></span><span class=\"verse v2\" data-usfm=\"TIT.1.2\"><span class=\"label\">2</span><span class=\"content\">sostenidos por la esperanza de la vida eterna. Dios, que no miente,</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">2~Ti 2.13.</span></span><span class=\"content\"> prometi&#243; esta vida desde la eternidad, </span></span><span class=\"verse v3\" data-usfm=\"TIT.1.3\"><span class=\"label\">3</span><span class=\"content\">y ahora, a su debido tiempo,</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">1~Ti 2.6.</span></span><span class=\"content\"> ha dado a conocer su mensaje por medio de la predicaci&#243;n que me ha sido confiada por mandato de Dios nuestro Salvador.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1.3 </span><span class=\"fq\">Dios nuestro Salvador: </span><span class=\"ft\">expresi&#243;n t&#237;pica de las cartas pastorales (1&#160;Ti 1.1; 2.3; Tit 2.10; 3.4).</span></span></span><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"TIT.1.4\"><span class=\"label\">4</span><span class=\"content\">A Tito,</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1.4 </span><span class=\"fk\">Tito: </span><span class=\"ft\">cristiano griego, colega y ayudante de Pablo (2&#160;Co 7.6; 8.6,16-17,23; Gl 2.1,3; 2&#160;Ti 4.10). <span class=\"it\">Hijo en la fe:</span> V&#233;ase 1&#160;Ti 1.2&#160;n.</span></span></span><span class=\"content\"> verdadero hijo en la fe com&#250;n a los dos. Que Dios nuestro Padre y Jesucristo nuestro Salvador derramen su gracia y su paz sobre ti.</span></span></div><div class=\"ms3\"><span class=\"heading\">Responsabilidades de Tito en Creta</span></div><div class=\"mr\"><span class=\"heading\">(</span><span class=\"heading\">1.5&#8212;3.14</span><span class=\"heading\">)</span></div><div class=\"s1\"><span class=\"heading\">Con los que presiden la comunidad</span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"TIT.1.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"TIT.1.5\"><span class=\"label\">5</span><span class=\"content\">Cuando te dej&#233; en la isla de Creta, lo hice para que arreglaras lo que quedaba por arreglar y para que, en cada pueblo, nombraras ancianos de la iglesia, de acuerdo con lo que yo te encargu&#233;.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1.5 </span><span class=\"fk\">Creta: </span><span class=\"ft\">isla del mar Mediterr&#225;neo, al sudeste de Grecia. En Hch no se menciona el trabajo de Pablo en Creta, ni tampoco las circunstancias en que dej&#243; a Tito all&#237;.</span></span></span><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"TIT.1.6\"><span class=\"label\">6</span><span class=\"content\">Un anciano</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1.6-7 </span><span class=\"fk\">Anciano: </span><span class=\"ft\">un dirigente de la iglesia. En el v. 7, <span class=\"it\">el que preside la comunidad,</span> refiri&#233;ndose al mismo oficio, es Lit. </span><span class=\"fqa\">obispo </span><span class=\"ft\">(v&#233;ase 1&#160;Ti 3.1 nota, y tambi&#233;n Hch 20.28 nota).</span></span></span><span class=\"content\"> debe llevar una vida irreprochable.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1.6-9 </span><span class=\"ft\">Cf. las listas de recomendaciones en 1&#160;Ti 3.2-7,8-12.</span></span></span><span class=\"content\"> Debe ser esposo de una sola mujer,</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1.6 </span><span class=\"fq\">Esposo de una sola mujer: </span><span class=\"ft\">V&#233;ase 1&#160;Ti 3.2 nota.</span></span></span><span class=\"content\"> y sus hijos deben ser creyentes y no estar acusados de mala conducta o de ser rebeldes. </span></span><span class=\"verse v7\" data-usfm=\"TIT.1.7\"><span class=\"label\">7</span><span class=\"content\">Pues el que preside la comunidad est&#225; encargado de las cosas de Dios, y por eso es necesario que lleve una vida irreprochable. No debe ser terco, ni de mal genio; no debe ser borracho, ni amigo de peleas, ni desear ganancias mal habidas. </span></span><span class=\"verse v8\" data-usfm=\"TIT.1.8\"><span class=\"label\">8</span><span class=\"content\">Al contrario, siempre debe estar dispuesto a hospedar gente en su casa,</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1.8 </span><span class=\"fq\">Dispuesto a hospedar: </span><span class=\"ft\">V&#233;ase 1&#160;Ti 3.2 nota.</span></span></span><span class=\"content\"> y debe ser un hombre de bien, de buen juicio, justo, santo y disciplinado. </span></span><span class=\"verse v9\" data-usfm=\"TIT.1.9\"><span class=\"label\">9</span><span class=\"content\">Debe apegarse al verdadero mensaje que se le ense&#241;&#243;, para que tambi&#233;n pueda animar a otros con la sana ense&#241;anza</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1.9 </span><span class=\"fq\">Al verdadero mensaje: </span><span class=\"ft\">o </span><span class=\"fqa\">al mensaje fidedigno. </span><span class=\"fq\">Sana ense&#241;anza: </span><span class=\"ft\">expresi&#243;n t&#237;pica de las cartas pastorales; v&#233;ase 1 Ti 1.10 nota.</span></span></span><span class=\"content\"> y convencer a los que contradicen.</span></span></div><div class=\"s1\"><span class=\"heading\">Frente a los falsos maestros</span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"TIT.1.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"TIT.1.10\"><span class=\"label\">10</span><span class=\"content\">Porque hay muchos rebeldes, sobre todo entre los que vienen del juda&#237;smo,</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1.10 </span><span class=\"fq\">Los que vienen del juda&#237;smo: </span><span class=\"ft\">Lit. </span><span class=\"fqa\">los que vienen de la circuncisi&#243;n. </span><span class=\"ft\">Aqu&#237; se refiere a algunos jud&#237;os convertidos que insist&#237;an en la observancia de las leyes y costumbres jud&#237;as (v&#233;ase Hch 11.2&#160;n.).</span></span></span><span class=\"content\"> que dicen cosas sin sentido y enga&#241;an a la gente. </span></span><span class=\"verse v11\" data-usfm=\"TIT.1.11\"><span class=\"label\">11</span><span class=\"content\">A esos hay que taparles la boca, pues trastornan familias enteras, ense&#241;ando lo que no deben para obtener ganancias mal habidas.</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"TIT.1.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"TIT.1.12\"><span class=\"label\">12</span><span class=\"content\">Fue un profeta de la misma isla de Creta quien dijo de sus paisanos: &#171;Los cretenses, siempre mentirosos, salvajes, glotones y perezosos.&#187;</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1.12 </span><span class=\"ft\">Cita de Epim&#233;nides, poeta cretense del siglo VI a.C.</span></span></span><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"TIT.1.13\"><span class=\"label\">13</span><span class=\"content\">Y dijo la verdad; por eso, repr&#233;ndelos duramente, para que sean sanos en su fe </span></span><span class=\"verse v14\" data-usfm=\"TIT.1.14\"><span class=\"label\">14</span><span class=\"content\">y para que no hagan caso de cuentos inventados por los jud&#237;os,</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1.14 </span><span class=\"ft\">V&#233;ase 1&#160;Ti 1.4 nota; cf. 1&#160;Ti 1.6; 4.7; 2&#160;Ti 2.14.</span></span></span><span class=\"content\"> ni de lo que ordenan los que dan la espalda a la verdad.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1.14 </span><span class=\"ft\">1&#160;Ti 6.5; 2&#160;Ti 3.8; 4.4. <span class=\"it\">Lo que ordenan:</span> A la luz del v. 15, esto se refiere a los que proh&#237;ben el matrimonio y ciertos alimentos (1&#160;Ti 4.3-5), cosas que <span class=\"it\">son puras</span> porque han sido dadas por Dios (Mt 15.11; Mc 7.18-19; Ro 14.14,20).</span></span></span><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"TIT.1.15\"><span class=\"label\">15</span><span class=\"content\">Para los puros todas las cosas son puras; pero para los que son impuros y no aceptan la fe, nada hay puro,</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1.15 </span><span class=\"fq\">Nada hay puro: </span><span class=\"ft\">Cf. Hag 2.10-14.</span></span></span><span class=\"content\"> pues tienen impuras la mente y la conciencia. </span></span><span class=\"verse v16\" data-usfm=\"TIT.1.16\"><span class=\"label\">16</span><span class=\"content\">Dicen conocer a Dios, pero con sus hechos lo niegan;</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1.16 </span><span class=\"ft\">2&#160;Ti 3.5; cf. Mt 7.21; 1&#160;Jn 1.6; 2.4.</span></span></span><span class=\"content\"> son odiosos y rebeldes, incapaces de ninguna obra buena.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "section2",
+          "verse_number": -1,
+          "lines": [
+            "(1.1-4)"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Carta de Pablo, siervo de Dios y apóstol de Jesucristo, enviado por él para que los elegidos de Dios lleguen a la fe y al conocimiento de la verdad que se encuentra en nuestra religión,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "sostenidos por la esperanza de la vida eterna. Dios, que no miente, prometió esta vida desde la eternidad,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "y ahora, a su debido tiempo, ha dado a conocer su mensaje por medio de la predicación que me ha sido confiada por mandato de Dios nuestro Salvador."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "A Tito, verdadero hijo en la fe común a los dos. Que Dios nuestro Padre y Jesucristo nuestro Salvador derramen su gracia y su paz sobre ti."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "section2",
+          "verse_number": -1,
+          "lines": [
+            "(1.5—3.14)"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Con los que presiden la comunidad"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Cuando te dejé en la isla de Creta, lo hice para que arreglaras lo que quedaba por arreglar y para que, en cada pueblo, nombraras ancianos de la iglesia, de acuerdo con lo que yo te encargué."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Un anciano debe llevar una vida irreprochable. Debe ser esposo de una sola mujer, y sus hijos deben ser creyentes y no estar acusados de mala conducta o de ser rebeldes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Pues el que preside la comunidad está encargado de las cosas de Dios, y por eso es necesario que lleve una vida irreprochable. No debe ser terco, ni de mal genio; no debe ser borracho, ni amigo de peleas, ni desear ganancias mal habidas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Al contrario, siempre debe estar dispuesto a hospedar gente en su casa, y debe ser un hombre de bien, de buen juicio, justo, santo y disciplinado."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Debe apegarse al verdadero mensaje que se le enseñó, para que también pueda animar a otros con la sana enseñanza y convencer a los que contradicen."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Frente a los falsos maestros"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Porque hay muchos rebeldes, sobre todo entre los que vienen del judaísmo, que dicen cosas sin sentido y engañan a la gente."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "A esos hay que taparles la boca, pues trastornan familias enteras, enseñando lo que no deben para obtener ganancias mal habidas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Fue un profeta de la misma isla de Creta quien dijo de sus paisanos: «Los cretenses, siempre mentirosos, salvajes, glotones y perezosos.»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Y dijo la verdad; por eso, repréndelos duramente, para que sean sanos en su fe"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "y para que no hagan caso de cuentos inventados por los judíos, ni de lo que ordenan los que dan la espalda a la verdad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Para los puros todas las cosas son puras; pero para los que son impuros y no aceptan la fe, nada hay puro, pues tienen impuras la mente y la conciencia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Dicen conocer a Dios, pero con sus hechos lo niegan; son odiosos y rebeldes, incapaces de ninguna obra buena."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "TIT.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "TIT.2"
+        ],
+        "human": "Tito 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "TIT.3"
+        ],
+        "human": "Tito 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "TIT.1"
+        ],
+        "human": "Tito 1",
+        "toc": true
+      },
+      "chapter_text": "Lo que digas debe estar siempre de acuerdo con la sana enseñanza. Los ancianos deben ser serios, respetables y de buen juicio; sanos en su fe, en su amor y en su fortaleza para soportar el sufrimiento. Igualmente, las ancianas deben portarse con reverencia, y no ser chismosas, ni emborracharse. Deben dar buen ejemplo y enseñar a las jóvenes a amar a sus esposos y a sus hijos, a ser juiciosas, puras, cuidadosas del hogar, bondadosas y sujetas a sus esposos, para que nadie pueda hablar mal del mensaje de Dios.\nAnima igualmente a los jóvenes a ser juiciosos en todo, y dales tú mismo ejemplo de cómo hacer el bien. Al enseñarles, hazlo con toda pureza y dignidad, hablando de una manera sana, que nadie pueda condenar. Así sentirá vergüenza cualquiera que se ponga en contra, pues no podrá decir nada malo de nosotros.\nAconseja a los siervos que obedezcan en todo a sus amos; que sean amables y no respondones. Que no roben, sino que sean completamente honrados, para mostrar en todo qué hermosa es la enseñanza de Dios nuestro Salvador.\nPues Dios ha mostrado su bondad, al ofrecer la salvación a toda la humanidad. Esa bondad de Dios nos enseña a renunciar a la maldad y a los deseos mundanos, y a llevar en el tiempo presente una vida de buen juicio, rectitud y piedad, mientras llega el feliz cumplimiento de nuestra esperanza: el regreso glorioso de nuestro gran Dios y Salvador Jesucristo. Él se entregó a la muerte por nosotros, para rescatarnos de toda maldad y limpiarnos completamente, haciendo de nosotros el pueblo de su propiedad, empeñados en hacer el bien.\nEsto es lo que tienes que enseñar, animando y reprendiendo con toda autoridad. Que nadie te desprecie.",
+      "chapter_html": "<div class=\"version vid52 iso6393spa\" data-vid=\"52\" data-iso6393=\"spa\">\n   <div class=\"book bkTIT\">\n      <div class=\"chapter ch2\" data-usfm=\"TIT.2\">\n         <div class=\"label\">2</div><div class=\"s1\"><span class=\"heading\">Frente a los miembros de la comunidad</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"TIT.2.1\"><span class=\"label\">1</span><span class=\"content\">Lo que digas debe estar siempre de acuerdo con la sana ense&#241;anza.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2.1 </span><span class=\"fq\">Sana ense&#241;anza: </span><span class=\"ft\">V&#233;ase Tit 1.9&#160;n.</span></span></span><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"TIT.2.2\"><span class=\"label\">2</span><span class=\"content\">Los ancianos</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2.2 </span><span class=\"fk\">Ancianos: </span><span class=\"ft\">Aqu&#237;, usado junto a <span class=\"it\">ancianas</span> (v. 3), se refiere a los de edad avanzada (cf. 1&#160;Ti 5.1).</span></span></span><span class=\"content\"> deben ser serios, respetables y de buen juicio; sanos en su fe, en su amor y en su fortaleza para soportar el sufrimiento.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2.2 </span><span class=\"ft\">Cf. la relaci&#243;n establecida por Pablo entre fe, esperanza y amor (1&#160;Co 13.13; Col 1.4-5; 1&#160;Ts 1.3; 5.8).</span></span></span><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"TIT.2.3\"><span class=\"label\">3</span><span class=\"content\">Igualmente, las ancianas deben portarse con reverencia, y no ser chismosas,</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">1~Ti 3.11.</span></span><span class=\"content\"> ni emborracharse. Deben dar buen ejemplo</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2.3 </span><span class=\"fq\">Buen ejemplo: </span><span class=\"ft\">o <span class=\"it\">buenos consejos</span>.</span></span></span><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"TIT.2.4\"><span class=\"label\">4</span><span class=\"content\">y ense&#241;ar a las j&#243;venes a amar a sus esposos y a sus hijos, </span></span><span class=\"verse v5\" data-usfm=\"TIT.2.5\"><span class=\"label\">5</span><span class=\"content\">a ser juiciosas, puras, cuidadosas del hogar, bondadosas y sujetas a sus esposos,</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2.5 </span><span class=\"fq\">Sujetas a sus esposos: </span><span class=\"ft\">V&#233;ase Ef 5.22&#160;n., y cf. 1&#160;Co 14.34; Col 3.18; 1&#160;Ti 2.11-12; 1&#160;P 3.1.</span></span></span><span class=\"content\"> para que nadie pueda hablar mal del mensaje de Dios.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2.5 </span><span class=\"ft\">1&#160;P 3.1-2,16.</span></span></span></span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"TIT.2.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"TIT.2.6\"><span class=\"label\">6</span><span class=\"content\">Anima igualmente a los j&#243;venes a ser juiciosos </span></span><span class=\"verse v7\" data-usfm=\"TIT.2.7\"><span class=\"label\">7</span><span class=\"content\">en todo, y dales t&#250; mismo ejemplo de c&#243;mo hacer el bien.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2.7 </span><span class=\"fq\">Ejemplo de c&#243;mo hacer el bien: </span><span class=\"ft\">1&#160;Ti 4.12; 1&#160;P 5.2-3.</span></span></span><span class=\"content\"> Al ense&#241;arles, hazlo con toda pureza</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2.7 </span><span class=\"fk\">Pureza </span><span class=\"ft\">(o <span class=\"it\">integridad</span>): o pureza de motivos o bien integridad de doctrina, as&#237; como en los casos de la &#171;sana ense&#241;anza&#187; (v&#233;ase 1&#160;Ti 1.10 nota).</span></span></span><span class=\"content\"> y dignidad, </span></span><span class=\"verse v8\" data-usfm=\"TIT.2.8\"><span class=\"label\">8</span><span class=\"content\">hablando de una manera sana,</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2.8 </span><span class=\"fk\">Sana: </span><span class=\"ft\">V&#233;ase 1&#160;Ti 1.10 nota.</span></span></span><span class=\"content\"> que nadie pueda condenar. As&#237; sentir&#225; verg&#252;enza cualquiera que se ponga en contra, pues no podr&#225; decir nada malo de nosotros.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2.8 </span><span class=\"ft\">Cf. 1&#160;P 2.15.</span></span></span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"TIT.2.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"TIT.2.9\"><span class=\"label\">9</span><span class=\"content\">Aconseja a los siervos que obedezcan en todo a sus amos;</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2.9-10 </span><span class=\"ft\">1&#160;Ti 6.1-2; cf. tambi&#233;n Ef 6.5-9; Col 3.22&#8212;4.1; 1&#160;P 2.18. <span class=\"it\">Siervos</span> (o <span class=\"it\">esclavos</span>): Sobre la esclavitud en el NT, v&#233;ase Col 3.22&#160;n.</span></span></span><span class=\"content\"> que sean amables y no respondones. </span></span><span class=\"verse v10\" data-usfm=\"TIT.2.10\"><span class=\"label\">10</span><span class=\"content\">Que no roben, sino que sean completamente honrados, para mostrar en todo qu&#233; hermosa es la ense&#241;anza de Dios nuestro Salvador.</span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"TIT.2.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"TIT.2.11\"><span class=\"label\">11</span><span class=\"content\">Pues Dios ha mostrado su bondad, al ofrecer la salvaci&#243;n a toda la humanidad.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2.11-14 </span><span class=\"ft\">Aqu&#237; se utilizan f&#243;rmulas tradicionales para hacer un resumen de la doctrina cristiana (v&#233;ase tambi&#233;n Tit 3.3-7&#160;n.).</span></span></span><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"TIT.2.12\"><span class=\"label\">12</span><span class=\"content\">Esa bondad de Dios nos ense&#241;a a renunciar a la maldad y a los deseos mundanos, y a llevar en el tiempo presente una vida de buen juicio, rectitud y piedad, </span></span><span class=\"verse v13\" data-usfm=\"TIT.2.13\"><span class=\"label\">13</span><span class=\"content\">mientras llega el feliz cumplimiento de nuestra esperanza:</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2.13 </span><span class=\"ft\">Cf. 1&#160;Co 1.7; Flp 3.20. Se mantiene viva la esperanza del regreso de Jesucristo.</span></span></span><span class=\"content\"> el regreso glorioso de nuestro gran Dios y Salvador Jesucristo.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2.13 </span><span class=\"ft\">2&#160;P 1.1. <span class=\"it\">Nuestro gran Dios y Salvador Jesucristo:</span> Algunos traducen: <span class=\"it\">el gran Dios y nuestro Salvador Jesucristo</span>.</span></span></span><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"TIT.2.14\"><span class=\"label\">14</span><span class=\"content\">&#201;l se entreg&#243; a la muerte por nosotros,</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2.14 </span><span class=\"ft\">1&#160;Ti 2.6; cf. Mt 20.28; Mc 10.45; Gl 1.4; 2.20.</span></span></span><span class=\"content\"> para rescatarnos de toda maldad</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Sal 130.8; Mt 1.21.</span></span><span class=\"content\"> y limpiarnos completamente, haciendo de nosotros el pueblo de su propiedad,</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2.14 </span><span class=\"ft\">Ex 19.5; Dt 4.20; 7.6; 14.2; Ez 37.23; 1 P 2.9.</span></span></span><span class=\"content\"> empe&#241;ados en hacer el bien.</span></span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"TIT.2.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"TIT.2.15\"><span class=\"label\">15</span><span class=\"content\">Esto es lo que tienes que ense&#241;ar, animando y reprendiendo con toda autoridad. Que nadie te desprecie.</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">1~Ti 4.12.</span></span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Frente a los miembros de la comunidad"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Lo que digas debe estar siempre de acuerdo con la sana enseñanza."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Los ancianos deben ser serios, respetables y de buen juicio; sanos en su fe, en su amor y en su fortaleza para soportar el sufrimiento."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Igualmente, las ancianas deben portarse con reverencia, y no ser chismosas, ni emborracharse. Deben dar buen ejemplo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "y enseñar a las jóvenes a amar a sus esposos y a sus hijos,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "a ser juiciosas, puras, cuidadosas del hogar, bondadosas y sujetas a sus esposos, para que nadie pueda hablar mal del mensaje de Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Anima igualmente a los jóvenes a ser juiciosos"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "en todo, y dales tú mismo ejemplo de cómo hacer el bien. Al enseñarles, hazlo con toda pureza y dignidad,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "hablando de una manera sana, que nadie pueda condenar. Así sentirá vergüenza cualquiera que se ponga en contra, pues no podrá decir nada malo de nosotros."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Aconseja a los siervos que obedezcan en todo a sus amos; que sean amables y no respondones."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Que no roben, sino que sean completamente honrados, para mostrar en todo qué hermosa es la enseñanza de Dios nuestro Salvador."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Pues Dios ha mostrado su bondad, al ofrecer la salvación a toda la humanidad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Esa bondad de Dios nos enseña a renunciar a la maldad y a los deseos mundanos, y a llevar en el tiempo presente una vida de buen juicio, rectitud y piedad,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "mientras llega el feliz cumplimiento de nuestra esperanza: el regreso glorioso de nuestro gran Dios y Salvador Jesucristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Él se entregó a la muerte por nosotros, para rescatarnos de toda maldad y limpiarnos completamente, haciendo de nosotros el pueblo de su propiedad, empeñados en hacer el bien."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Esto es lo que tienes que enseñar, animando y reprendiendo con toda autoridad. Que nadie te desprecie."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "TIT.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "TIT.3"
+        ],
+        "human": "Tito 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "PHM.1"
+        ],
+        "human": "Filemón 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "TIT.2"
+        ],
+        "human": "Tito 2",
+        "toc": true
+      },
+      "chapter_text": "Recuerda a los otros que se sometan al gobierno y a las autoridades, que sean obedientes y que siempre estén dispuestos a hacer lo bueno. Que no hablen mal de nadie, que sean pacíficos y bondadosos, y que se muestren humildes de corazón en su trato con todos.\nPorque antes también nosotros éramos insensatos y rebeldes; andábamos perdidos y éramos esclavos de toda clase de deseos y placeres. Vivíamos en maldad y envidia, odiados y odiándonos unos a otros. Pero Dios nuestro Salvador mostró su bondad y su amor por la humanidad, y, sin que nosotros hubiéramos hecho nada bueno, por pura misericordia nos salvó lavándonos y regenerándonos, y dándonos nueva vida por el Espíritu Santo. Pues por medio de Jesucristo nuestro Salvador nos dio en abundancia el Espíritu Santo, para que, después de hacernos justos por su bondad, tengamos la esperanza de recibir en herencia la vida eterna.\nEsto es muy cierto, y quiero que insistas mucho en ello, para que los que creen en Dios se ocupen en hacer el bien. Estas cosas son buenas y útiles para todos. Pero evita las discusiones tontas, las leyendas acerca de los antepasados, las discordias y las peleas por cuestiones de la ley de Moisés. Son cosas inútiles y sin sentido.\nSi alguien causa divisiones en la iglesia, llámale la atención una y dos veces; pero si no te hace caso, expúlsalo de ella, pues debes saber que esa persona se ha pervertido y que su mismo pecado la está condenando.\n\nCuando yo te mande a Artemas o a Tíquico, haz lo posible por ir a Nicópolis a verme, porque he decidido pasar allí el invierno. Ayuda en todo lo que puedas al abogado Zenas y a Apolo, dándoles lo necesario para que sigan su viaje y no les falte nada. Y que los nuestros aprendan también a hacer el bien y a ayudar en casos de necesidad, para que sus vidas sean útiles.\n\nTodos los que están conmigo te mandan saludos. Saluda a nuestros queridos amigos en la fe. Que Dios derrame su gracia sobre todos ustedes.",
+      "chapter_html": "<div class=\"version vid52 iso6393spa\" data-vid=\"52\" data-iso6393=\"spa\">\n   <div class=\"book bkTIT\">\n      <div class=\"chapter ch3\" data-usfm=\"TIT.3\">\n         <div class=\"label\">3</div><div class=\"s1\"><span class=\"heading\">Deberes de todos los creyentes</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"TIT.3.1\"><span class=\"label\">1</span><span class=\"content\">Recuerda a los otros que se sometan al gobierno y a las autoridades,</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3.1 </span><span class=\"ft\">Acerca de la relaci&#243;n entre el cristiano y la vida civil, v&#233;ase 1&#160;Ti 2.1-4&#160;n. y cf. Ro 13.1-7; 1&#160;P 2.13-17.</span></span></span><span class=\"content\"> que sean obedientes y que siempre est&#233;n dispuestos a hacer lo bueno.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3.1 </span><span class=\"ft\">Tit 3.8,14; cf. Ef 4.28.</span></span></span><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"TIT.3.2\"><span class=\"label\">2</span><span class=\"content\">Que no hablen mal de nadie, que sean pac&#237;ficos y bondadosos, y que se muestren humildes de coraz&#243;n en su trato con todos.</span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"TIT.3.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"TIT.3.3\"><span class=\"label\">3</span><span class=\"content\">Porque antes tambi&#233;n nosotros</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3.3 </span><span class=\"fk\">Nosotros: </span><span class=\"ft\">todos los cristianos.</span></span></span><span class=\"content\"> &#233;ramos insensatos y rebeldes; and&#225;bamos perdidos y &#233;ramos esclavos de toda clase de deseos y placeres. Viv&#237;amos en maldad y envidia, odiados y odi&#225;ndonos unos a otros.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3.3-7 </span><span class=\"ft\">Este p&#225;rrafo, as&#237; como el de Tit 2.11-14, utiliza expresiones tradicionales.</span></span></span><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"TIT.3.4\"><span class=\"label\">4</span><span class=\"content\">Pero Dios nuestro Salvador</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3.4 </span><span class=\"fq\">Dios nuestro Salvador: </span><span class=\"ft\">V&#233;ase Tit 1.3 nota.</span></span></span><span class=\"content\"> mostr&#243; su bondad y su amor por la humanidad, </span></span><span class=\"verse v5\" data-usfm=\"TIT.3.5\"><span class=\"label\">5</span><span class=\"content\">y, sin que nosotros hubi&#233;ramos hecho nada bueno, por pura misericordia nos salv&#243;</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3.5 </span><span class=\"ft\">Cf. 2&#160;Ti 1.9, y tambi&#233;n Dn 9.18; Ro 3.27-28; 4.2,5; Gl 2.16; Ef 2.8-9.</span></span></span><span class=\"content\"> lav&#225;ndonos</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3.5 </span><span class=\"fk\">Lav&#225;ndonos: </span><span class=\"ft\">La mayor&#237;a de los int&#233;rpretes ve en este t&#233;rmino una alusi&#243;n al bautismo (cf. Jn 3.3-7; 1&#160;Co 6.11; Ef 5.25-27; 1&#160;P 1.3,21; 3.21); otros lo entienden s&#243;lo como expresi&#243;n simb&#243;lica de la purificaci&#243;n interior realizada por el Esp&#237;ritu Santo.</span></span></span><span class=\"content\"> y regener&#225;ndonos, y d&#225;ndonos nueva vida</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3.5 </span><span class=\"fq\">Nueva vida: </span><span class=\"ft\">Cf. Ro 6.3-4; 2&#160;Co 5.17.</span></span></span><span class=\"content\"> por el Esp&#237;ritu Santo. </span></span><span class=\"verse v6\" data-usfm=\"TIT.3.6\"><span class=\"label\">6</span><span class=\"content\">Pues por medio de Jesucristo nuestro Salvador nos dio en abundancia el Esp&#237;ritu Santo,</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3.6 </span><span class=\"fq\">Dio en abundancia: </span><span class=\"ft\">Lit. </span><span class=\"fqa\">derram&#243; abundantemente; </span><span class=\"ft\">la expresi&#243;n recuerda Jl 2.28&#160;(3.1). (V&#233;ase tambi&#233;n Hch 2.17 nota.)</span></span></span><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"TIT.3.7\"><span class=\"label\">7</span><span class=\"content\">para que, despu&#233;s de hacernos justos por su bondad, tengamos la esperanza de recibir en herencia la vida eterna.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3.7 </span><span class=\"ft\">Cf. Ro 3.24. <span class=\"it\">Hacernos justos:</span> V&#233;ase Ro 1.17 nota.</span></span></span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"TIT.3.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"TIT.3.8\"><span class=\"label\">8</span><span class=\"content\">Esto es muy cierto,</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3.8 </span><span class=\"fq\">Esto es muy cierto: </span><span class=\"ft\">Lit. </span><span class=\"fqa\">El dicho es fidedigno; </span><span class=\"ft\">expresi&#243;n com&#250;n en las cartas pastorales (v&#233;ase 1&#160;Ti 1.15 nota) y que aqu&#237; se refiere al p&#225;rrafo anterior (vv. 3-7).</span></span></span><span class=\"content\"> y quiero que insistas mucho en ello, para que los que creen en Dios se ocupen en hacer el bien. Estas cosas son buenas y &#250;tiles para todos. </span></span><span class=\"verse v9\" data-usfm=\"TIT.3.9\"><span class=\"label\">9</span><span class=\"content\">Pero evita las discusiones tontas, las leyendas acerca de los antepasados, las discordias y las peleas por cuestiones de la ley de Mois&#233;s. Son cosas in&#250;tiles y sin sentido.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3.9 </span><span class=\"ft\">V&#233;ase 1&#160;Ti 1.4 nota, y cf. 1&#160;Ti 4.7; 6.20; Tit 1.14. <span class=\"it\">La ley de Mois&#233;s:</span> es decir, los cinco primeros libros del AT.</span></span></span></span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"TIT.3.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"TIT.3.10\"><span class=\"label\">10</span><span class=\"content\">Si alguien causa divisiones en la iglesia, ll&#225;male la atenci&#243;n una y dos veces; pero si no te hace caso, exp&#250;lsalo de ella,</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3.10 </span><span class=\"ft\">Cf. Mt 18.15-17; 2&#160;Ts 3.14. <span class=\"it\">Si alguien causa divisiones:</span> Ro 16.17; 1&#160;Co 1.10; Jud 19.</span></span></span><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"TIT.3.11\"><span class=\"label\">11</span><span class=\"content\">pues debes saber que esa persona se ha pervertido</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">1~Ti 6.5.</span></span><span class=\"content\"> y que su mismo pecado la est&#225; condenando.</span></span></div><div class=\"s1\"><span class=\"heading\">Recomendaciones personales</span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"TIT.3.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"TIT.3.12\"><span class=\"label\">12</span><span class=\"content\">Cuando yo te mande a Artemas</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3.12 </span><span class=\"fk\">Artemas: </span><span class=\"ft\">mencionado &#250;nicamente aqu&#237;, en el NT.</span></span></span><span class=\"content\"> o a T&#237;quico,</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3.12 </span><span class=\"fk\">T&#237;quico: </span><span class=\"ft\">Hch 20.4; Ef 6.21-22; Col 4.7-8; 2 Ti 4.12.</span></span></span><span class=\"content\"> haz lo posible por ir a Nic&#243;polis</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3.12 </span><span class=\"fk\">Nic&#243;polis: </span><span class=\"ft\">probablemente la ciudad de este nombre que se hallaba en la costa occidental de Grecia, al noroeste de Corinto.</span></span></span><span class=\"content\"> a verme, porque he decidido pasar all&#237; el invierno. </span></span><span class=\"verse v13\" data-usfm=\"TIT.3.13\"><span class=\"label\">13</span><span class=\"content\">Ayuda en todo lo que puedas al abogado Zenas</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3.13 </span><span class=\"fk\">Zenas: </span><span class=\"ft\">mencionado &#250;nicamente aqu&#237;, en el NT.</span></span></span><span class=\"content\"> y a Apolo,</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3.13 </span><span class=\"fk\">Apolo: </span><span class=\"ft\">Hch 18.24; 1&#160;Co 3.5-6; 16.12.</span></span></span><span class=\"content\"> d&#225;ndoles lo necesario para que sigan su viaje y no les falte nada. </span></span><span class=\"verse v14\" data-usfm=\"TIT.3.14\"><span class=\"label\">14</span><span class=\"content\">Y que los nuestros aprendan tambi&#233;n a hacer el bien y a ayudar en casos de necesidad,</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3.14 </span><span class=\"fq\">Ayudar en casos de necesidad: </span><span class=\"ft\">Hch 20.35; Ef 4.28. Tambi&#233;n puede traducirse <span class=\"it\">atender a las necesidades de la vida</span> (cf. 1&#160;Ts 4.11-12; 2&#160;Ts 3.12).</span></span></span><span class=\"content\"> para que sus vidas sean &#250;tiles.</span></span></div><div class=\"ms3\"><span class=\"heading\">Despedida</span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"TIT.3.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"TIT.3.15\"><span class=\"label\">15</span><span class=\"content\">Todos los que est&#225;n conmigo te mandan saludos. Saluda a nuestros queridos amigos en la fe.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3.15 </span><span class=\"fq\">A nuestros queridos amigos en la fe: </span><span class=\"ft\">otra posible traducci&#243;n: </span><span class=\"fqa\">a nuestros amigos fieles</span><span class=\"ft\">.</span></span></span><span class=\"content\"> Que Dios derrame su gracia sobre todos ustedes.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Deberes de todos los creyentes"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Recuerda a los otros que se sometan al gobierno y a las autoridades, que sean obedientes y que siempre estén dispuestos a hacer lo bueno."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Que no hablen mal de nadie, que sean pacíficos y bondadosos, y que se muestren humildes de corazón en su trato con todos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Porque antes también nosotros éramos insensatos y rebeldes; andábamos perdidos y éramos esclavos de toda clase de deseos y placeres. Vivíamos en maldad y envidia, odiados y odiándonos unos a otros."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Pero Dios nuestro Salvador mostró su bondad y su amor por la humanidad,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "y, sin que nosotros hubiéramos hecho nada bueno, por pura misericordia nos salvó lavándonos y regenerándonos, y dándonos nueva vida por el Espíritu Santo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Pues por medio de Jesucristo nuestro Salvador nos dio en abundancia el Espíritu Santo,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "para que, después de hacernos justos por su bondad, tengamos la esperanza de recibir en herencia la vida eterna."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Esto es muy cierto, y quiero que insistas mucho en ello, para que los que creen en Dios se ocupen en hacer el bien. Estas cosas son buenas y útiles para todos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Pero evita las discusiones tontas, las leyendas acerca de los antepasados, las discordias y las peleas por cuestiones de la ley de Moisés. Son cosas inútiles y sin sentido."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Si alguien causa divisiones en la iglesia, llámale la atención una y dos veces; pero si no te hace caso, expúlsalo de ella,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "pues debes saber que esa persona se ha pervertido y que su mismo pecado la está condenando."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Recomendaciones personales"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Cuando yo te mande a Artemas o a Tíquico, haz lo posible por ir a Nicópolis a verme, porque he decidido pasar allí el invierno."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Ayuda en todo lo que puedas al abogado Zenas y a Apolo, dándoles lo necesario para que sigan su viaje y no les falte nada."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Y que los nuestros aprendan también a hacer el bien y a ayudar en casos de necesidad, para que sus vidas sean útiles."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Todos los que están conmigo te mandan saludos. Saluda a nuestros queridos amigos en la fe. Que Dios derrame su gracia sobre todos ustedes."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

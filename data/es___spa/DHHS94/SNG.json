@@ -1,0 +1,1959 @@
+{
+  "book_usfm": "SNG",
+  "name": "Cantares",
+  "local_title": "Dios habla Hoy Estándar",
+  "local_abbreviation": "DHHS94",
+  "version_id": 1846,
+  "publisher": {
+    "name": "United Bible Societies"
+  },
+  "copyright": {
+    "html": "<p>Bible text: LA BIBLIA DIOS HABLA HOY, Tercera edición © Sociedades Bíblicas Unidas 1966, 1970, 1979, 1983, 1994, 1996</p> <p>Todos los derechos reservados. www.unitedbiblesocieties.org/</p>",
+    "text": "Bible text: LA BIBLIA DIOS HABLA HOY, Tercera edición © Sociedades Bíblicas Unidas 1966, 1970, 1979, 1983, 1994, 1996 Todos los derechos reservados. www.unitedbiblesocieties.org/"
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "SNG.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "SNG.1"
+        ],
+        "human": "Cantares 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "SNG.2"
+        ],
+        "human": "Cantares 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "ECC.12"
+        ],
+        "human": "Eclesiastés 12",
+        "toc": true
+      },
+      "chapter_text": "El más hermoso de los poemas de Salomón.\n\n\n¡Dame un beso de tus labios!\nSon más dulces que el vino tus caricias,\ndeliciosos al olfato tus perfumes,\ntu nombre es perfume derramado.\n¡Por eso te aman las mujeres!\n\n¡Llévame pronto contigo!\n¡Llévame, oh rey, a tus habitaciones!\n\nContigo estaremos muy alegres;\nevocaremos tus caricias más que el vino.\n¡Con razón te aman las mujeres!\n\nMujeres de Jerusalén,\nsoy morena, pero hermosa;\nmorena como los campamentos de Quedar,\nhermosa como las cortinas de Salomón.\nNo se fijen en que soy morena,\nni en que el sol me ha quemado la piel.\nMis hermanos se enojaron conmigo\ny me pusieron a cuidar las viñas,\n¡y mi propia viña descuidé!\n\nDime, amor de mi vida,\n¿dónde apacientas tus rebaños?,\n¿dónde los llevas a descansar al mediodía?\n¿Por qué he de andar como una vagabunda,\njunto a los rebaños de tus compañeros?\n\nSi no lo sabes tú,\nhermosa entre las hermosas,\nsigue las pisadas del rebaño\ny apacienta tus cabritos\njunto a las chozas de los pastores.\n\nTú eres para mí, amor mío,\ncual fina yegua del carro del faraón.\n¡Qué lindas son tus mejillas\nentre los pendientes!\n¡Qué lindo es tu cuello\nentre los collares de perlas!\n¡Te haremos pendientes de oro\ncon incrustaciones de plata!\n\nMientras el rey se sienta a la mesa,\nmi nardo esparce su fragancia.\n\nMi amado es para mí como el saquito de mirra\nque está siempre entre mis pechos.\nMi amado es para mí como flor de alheña\nen los viñedos de En-gadi.\n\n¡Qué hermosa eres, amor mío,\nqué hermosa eres!\n¡Tus ojos son dos palomas!\n\n¡Qué hermoso eres, amor mío,\nqué hermoso eres!\n\n¡La verde hierba es nuestro lecho!\nLos cedros son las vigas de la casa,\ny los cipreses, el techo que nos cubre.",
+      "chapter_html": "<div class=\"version vid1846 iso6393spa\" data-vid=\"1846\" data-iso6393=\"spa\">\n   <div class=\"book bkSNG\">\n      <div class=\"chapter ch1\" data-usfm=\"SNG.1\">\n         <div class=\"label\">1</div><div class=\"s1\"><span class=\"heading\">T&#237;tulo</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"SNG.1.1\"><span class=\"label\">1</span><span class=\"content\">El m&#225;s hermoso de los poemas de Salom&#243;n. </span></span></div><div class=\"s1\"><span class=\"heading\">Primer canto</span></div><div class=\"sp\"><span class=\"heading\">Ella</span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.1.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"SNG.1.2\"><span class=\"label\">2</span><span class=\"content\">&#161;Dame un beso de tus labios!</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.1.2\"><span class=\"content\">Son m&#225;s dulces que el vino tus caricias,</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.1.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"SNG.1.3\"><span class=\"label\">3</span><span class=\"content\">deliciosos al olfato tus perfumes,</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.1.3\"><span class=\"content\">tu nombre es perfume derramado.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.1.3\"><span class=\"content\">&#161;Por eso te aman las mujeres!</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.1.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"SNG.1.4\"><span class=\"label\">4</span><span class=\"content\">&#161;Ll&#233;vame pronto contigo!</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.1.4\"><span class=\"content\">&#161;Ll&#233;vame, oh rey, a tus habitaciones!</span></span></div><div class=\"sp\"><span class=\"heading\">Coro</span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.1.4\"><span class=\"content\">Contigo estaremos muy alegres;</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.1.4\"><span class=\"content\">evocaremos tus caricias m&#225;s que el vino.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.1.4\"><span class=\"content\">&#161;Con raz&#243;n te aman las mujeres!</span></span></div><div class=\"sp\"><span class=\"heading\">Ella</span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.1.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"SNG.1.5\"><span class=\"label\">5</span><span class=\"content\">Mujeres de Jerusal&#233;n,</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.1.5\"><span class=\"content\">soy morena, pero hermosa;</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.1.5\"><span class=\"content\">morena como los campamentos de Quedar, </span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.1.5\"><span class=\"content\">hermosa como las cortinas de Salom&#243;n.</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.1.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"SNG.1.6\"><span class=\"label\">6</span><span class=\"content\">No se fijen en que soy morena,</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.1.6\"><span class=\"content\">ni en que el sol me ha quemado la piel.</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.1.6\"><span class=\"content\">Mis hermanos se enojaron conmigo</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.1.6\"><span class=\"content\">y me pusieron a cuidar las vi&#241;as,</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.1.6\"><span class=\"content\">&#161;y mi propia vi&#241;a descuid&#233;!</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.1.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"SNG.1.7\"><span class=\"label\">7</span><span class=\"content\">Dime, amor de mi vida,</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.1.7\"><span class=\"content\">&#191;d&#243;nde apacientas tus reba&#241;os?,</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.1.7\"><span class=\"content\">&#191;d&#243;nde los llevas a descansar al mediod&#237;a?</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.1.7\"><span class=\"content\">&#191;Por qu&#233; he de andar como una vagabunda,</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.1.7\"><span class=\"content\">junto a los reba&#241;os de tus compa&#241;eros?</span></span></div><div class=\"sp\"><span class=\"heading\">Coro</span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.1.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"SNG.1.8\"><span class=\"label\">8</span><span class=\"content\">Si no lo sabes t&#250;,</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.1.8\"><span class=\"content\">hermosa entre las hermosas,</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.1.8\"><span class=\"content\">sigue las pisadas del reba&#241;o</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.1.8\"><span class=\"content\">y apacienta tus cabritos</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.1.8\"><span class=\"content\">junto a las chozas de los pastores.</span></span></div><div class=\"sp\"><span class=\"heading\">&#201;l</span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.1.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"SNG.1.9\"><span class=\"label\">9</span><span class=\"content\">T&#250; eres para m&#237;, amor m&#237;o,</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.1.9\"><span class=\"content\">cual fina yegua del carro del fara&#243;n.</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.1.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"SNG.1.10\"><span class=\"label\">10</span><span class=\"content\">&#161;Qu&#233; lindas son tus mejillas</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.1.10\"><span class=\"content\">entre los pendientes!</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.1.10\"><span class=\"content\">&#161;Qu&#233; lindo es tu cuello</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.1.10\"><span class=\"content\">entre los collares de perlas!</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.1.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"SNG.1.11\"><span class=\"label\">11</span><span class=\"content\">&#161;Te haremos pendientes de oro</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"SNG.1.11\"><span class=\"content\">con incrustaciones de plata!</span></span></div><div class=\"sp\"><span class=\"heading\">Ella</span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"SNG.1.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"SNG.1.12\"><span class=\"label\">12</span><span class=\"content\">Mientras el rey se sienta a la mesa,</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"SNG.1.12\"><span class=\"content\">mi nardo esparce su fragancia.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"SNG.1.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"SNG.1.13\"><span class=\"label\">13</span><span class=\"content\">Mi amado es para m&#237; como el saquito de mirra </span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"SNG.1.13\"><span class=\"content\">que est&#225; siempre entre mis pechos.</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"SNG.1.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"SNG.1.14\"><span class=\"label\">14</span><span class=\"content\">Mi amado es para m&#237; como flor de alhe&#241;a </span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"SNG.1.14\"><span class=\"content\">en los vi&#241;edos de En-gadi.</span></span></div><div class=\"sp\"><span class=\"heading\">&#201;l</span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"SNG.1.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"SNG.1.15\"><span class=\"label\">15</span><span class=\"content\">&#161;Qu&#233; hermosa eres, amor m&#237;o,</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"SNG.1.15\"><span class=\"content\">qu&#233; hermosa eres!</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"SNG.1.15\"><span class=\"content\">&#161;Tus ojos son dos palomas!</span></span></div><div class=\"sp\"><span class=\"heading\">Ella</span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"SNG.1.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"SNG.1.16\"><span class=\"label\">16</span><span class=\"content\">&#161;Qu&#233; hermoso eres, amor m&#237;o,</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"SNG.1.16\"><span class=\"content\">qu&#233; hermoso eres!</span></span></div><div class=\"sp\"><span class=\"heading\">&#201;l</span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"SNG.1.16\"><span class=\"content\">&#161;La verde hierba es nuestro lecho!</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"SNG.1.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"SNG.1.17\"><span class=\"label\">17</span><span class=\"content\">Los cedros son las vigas de la casa,</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"SNG.1.17\"><span class=\"content\">y los cipreses, el techo que nos cubre.</span></span></div><div class=\"b\"></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Título"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "El más hermoso de los poemas de Salomón."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Primer canto"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Ella"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "¡Dame un beso de tus labios!",
+            "Son más dulces que el vino tus caricias,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "deliciosos al olfato tus perfumes,",
+            "tu nombre es perfume derramado.",
+            "¡Por eso te aman las mujeres!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "¡Llévame pronto contigo!",
+            "¡Llévame, oh rey, a tus habitaciones!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Coro"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Contigo estaremos muy alegres;",
+            "evocaremos tus caricias más que el vino.",
+            "¡Con razón te aman las mujeres!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Ella"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Mujeres de Jerusalén,",
+            "soy morena, pero hermosa;",
+            "morena como los campamentos de Quedar,",
+            "hermosa como las cortinas de Salomón."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "No se fijen en que soy morena,",
+            "ni en que el sol me ha quemado la piel.",
+            "Mis hermanos se enojaron conmigo",
+            "y me pusieron a cuidar las viñas,",
+            "¡y mi propia viña descuidé!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Dime, amor de mi vida,",
+            "¿dónde apacientas tus rebaños?,",
+            "¿dónde los llevas a descansar al mediodía?",
+            "¿Por qué he de andar como una vagabunda,",
+            "junto a los rebaños de tus compañeros?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Coro"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Si no lo sabes tú,",
+            "hermosa entre las hermosas,",
+            "sigue las pisadas del rebaño",
+            "y apacienta tus cabritos",
+            "junto a las chozas de los pastores."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Él"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Tú eres para mí, amor mío,",
+            "cual fina yegua del carro del faraón."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "¡Qué lindas son tus mejillas",
+            "entre los pendientes!",
+            "¡Qué lindo es tu cuello",
+            "entre los collares de perlas!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "¡Te haremos pendientes de oro",
+            "con incrustaciones de plata!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Ella"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Mientras el rey se sienta a la mesa,",
+            "mi nardo esparce su fragancia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Mi amado es para mí como el saquito de mirra",
+            "que está siempre entre mis pechos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Mi amado es para mí como flor de alheña",
+            "en los viñedos de En-gadi."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Él"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "¡Qué hermosa eres, amor mío,",
+            "qué hermosa eres!",
+            "¡Tus ojos son dos palomas!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Ella"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "¡Qué hermoso eres, amor mío,",
+            "qué hermoso eres!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Él"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "¡La verde hierba es nuestro lecho!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Los cedros son las vigas de la casa,",
+            "y los cipreses, el techo que nos cubre."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "SNG.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "SNG.2"
+        ],
+        "human": "Cantares 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "SNG.3"
+        ],
+        "human": "Cantares 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "SNG.1"
+        ],
+        "human": "Cantares 1",
+        "toc": true
+      },
+      "chapter_text": "Soy la flor de los llanos de Sarón,\nsoy la rosa de los valles.\n\nMi amada es, entre las mujeres,\ncomo una rosa entre los espinos.\n\nMi amado es, entre los hombres,\ncomo un manzano entre los árboles del bosque.\n\n¡Qué agradable es sentarme a su sombra!\n¡Qué dulce me sabe su fruta!\nMe llevó a la sala de banquetes\ny sus miradas para mí fueron de amor.\n\n¡Reanímenme con tortas de pasas,\naliméntenme con manzanas,\nporque me muero de amor!\n¡Que ponga él su izquierda bajo mi cabeza,\ny que con su derecha me abrace!\n\nPrométanme, mujeres de Jerusalén,\npor las gacelas y cervatillas del bosque,\nno interrumpir el sueño de mi amor.\n¡Déjenla dormir hasta que quiera despertar!\n\n\n¡Ya viene mi amado!\n¡Ya escucho su voz!\nViene saltando sobre los montes,\nviene saltando por las colinas.\nMi amado es como un venado:\ncomo un venado pequeño.\n¡Aquí está ya, tras la puerta,\nasomándose a la ventana,\nespiando a través de la reja!\n\nMi amado me dijo:\n«Levántate, amor mío;\nanda, cariño, vamos.\n¡Mira! El invierno ha pasado\ny con él se han ido las lluvias.\nYa han brotado flores en el campo,\nya ha llegado el tiempo de cantar,\nya se escucha en nuestra tierra\nel arrullo de las tórtolas.\nYa tiene higos la higuera,\ny los viñedos esparcen su aroma.\n\n»Levántate, amor mío;\nanda, cariño, vamos.\n\n»Paloma mía, que te escondes en las rocas,\nen altos y escabrosos escondites,\ndéjame ver tu rostro,\ndéjame escuchar tu voz.\n¡Es tan agradable el verte!\n¡Es tan dulce el escucharte!»\n\nAtrapen las zorras, las zorras pequeñas\nque arruinan nuestros viñedos,\nnuestros viñedos en flor.\n\nMi amado es mío, y yo soy suya.\nÉl apacienta sus rebaños entre las rosas.\n\nMientras llega el día\ny huyen las sombras,\nvuelve, amado mío;\nsé como un venado,\ncomo un venado pequeño\npor los montes escarpados.",
+      "chapter_html": "<div class=\"version vid1846 iso6393spa\" data-vid=\"1846\" data-iso6393=\"spa\">\n   <div class=\"book bkSNG\">\n      <div class=\"chapter ch2\" data-usfm=\"SNG.2\">\n         <div class=\"label\">2</div><div class=\"sp\"><span class=\"heading\">Ella</span></div><div class=\"q1\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"SNG.2.1\"><span class=\"label\">1</span><span class=\"content\">Soy la flor de los llanos de Sar&#243;n,</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.2.1\"><span class=\"content\">soy la rosa de los valles.</span></span></div><div class=\"sp\"><span class=\"heading\">&#201;l</span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.2.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"SNG.2.2\"><span class=\"label\">2</span><span class=\"content\">Mi amada es, entre las mujeres,</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.2.2\"><span class=\"content\">como una rosa entre los espinos.</span></span></div><div class=\"sp\"><span class=\"heading\">Ella</span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.2.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"SNG.2.3\"><span class=\"label\">3</span><span class=\"content\">Mi amado es, entre los hombres,</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.2.3\"><span class=\"content\">como un manzano entre los &#225;rboles del bosque.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.2.3\"><span class=\"content\">&#161;Qu&#233; agradable es sentarme a su sombra!</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.2.3\"><span class=\"content\">&#161;Qu&#233; dulce me sabe su fruta!</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.2.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"SNG.2.4\"><span class=\"label\">4</span><span class=\"content\">Me llev&#243; a la sala de banquetes</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.2.4\"><span class=\"content\">y sus miradas para m&#237; fueron de amor.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.2.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"SNG.2.5\"><span class=\"label\">5</span><span class=\"content\">&#161;Rean&#237;menme con tortas de pasas,</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.2.5\"><span class=\"content\">alim&#233;ntenme con manzanas,</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.2.5\"><span class=\"content\">porque me muero de amor!</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.2.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"SNG.2.6\"><span class=\"label\">6</span><span class=\"content\">&#161;Que ponga &#233;l su izquierda bajo mi cabeza,</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.2.6\"><span class=\"content\">y que con su derecha me abrace!</span></span></div><div class=\"sp\"><span class=\"heading\">&#201;l</span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.2.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"SNG.2.7\"><span class=\"label\">7</span><span class=\"content\">Prom&#233;tanme, mujeres de Jerusal&#233;n,</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.2.7\"><span class=\"content\">por las gacelas y cervatillas del bosque,</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.2.7\"><span class=\"content\">no interrumpir el sue&#241;o de mi amor.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.2.7\"><span class=\"content\">&#161;D&#233;jenla dormir hasta que quiera despertar!</span></span></div><div class=\"s1\"><span class=\"heading\">Segundo canto</span></div><div class=\"sp\"><span class=\"heading\">Ella</span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.2.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"SNG.2.8\"><span class=\"label\">8</span><span class=\"content\">&#161;Ya viene mi amado!</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.2.8\"><span class=\"content\">&#161;Ya escucho su voz!</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.2.8\"><span class=\"content\">Viene saltando sobre los montes,</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.2.8\"><span class=\"content\">viene saltando por las colinas.</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.2.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"SNG.2.9\"><span class=\"label\">9</span><span class=\"content\">Mi amado es como un venado:</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.2.9\"><span class=\"content\">como un venado peque&#241;o.</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.2.9\"><span class=\"content\">&#161;Aqu&#237; est&#225; ya, tras la puerta,</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.2.9\"><span class=\"content\">asom&#225;ndose a la ventana,</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.2.9\"><span class=\"content\">espiando a trav&#233;s de la reja!</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.2.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"SNG.2.10\"><span class=\"label\">10</span><span class=\"content\">Mi amado me dijo:</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.2.10\"><span class=\"content\">&#171;Lev&#225;ntate, amor m&#237;o;</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.2.10\"><span class=\"content\">anda, cari&#241;o, vamos.</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.2.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"SNG.2.11\"><span class=\"label\">11</span><span class=\"content\">&#161;Mira! El invierno ha pasado</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"SNG.2.11\"><span class=\"content\">y con &#233;l se han ido las lluvias.</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"SNG.2.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"SNG.2.12\"><span class=\"label\">12</span><span class=\"content\">Ya han brotado flores en el campo,</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"SNG.2.12\"><span class=\"content\">ya ha llegado el tiempo de cantar, </span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"SNG.2.12\"><span class=\"content\">ya se escucha en nuestra tierra</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"SNG.2.12\"><span class=\"content\">el arrullo de las t&#243;rtolas.</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"SNG.2.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"SNG.2.13\"><span class=\"label\">13</span><span class=\"content\">Ya tiene higos la higuera,</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"SNG.2.13\"><span class=\"content\">y los vi&#241;edos esparcen su aroma.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"SNG.2.13\"><span class=\"content\">&#187;Lev&#225;ntate, amor m&#237;o;</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"SNG.2.13\"><span class=\"content\">anda, cari&#241;o, vamos.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"SNG.2.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"SNG.2.14\"><span class=\"label\">14</span><span class=\"content\">&#187;Paloma m&#237;a, que te escondes en las rocas,</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"SNG.2.14\"><span class=\"content\">en altos y escabrosos escondites,</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"SNG.2.14\"><span class=\"content\">d&#233;jame ver tu rostro,</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"SNG.2.14\"><span class=\"content\">d&#233;jame escuchar tu voz.</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"SNG.2.14\"><span class=\"content\">&#161;Es tan agradable el verte!</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"SNG.2.14\"><span class=\"content\">&#161;Es tan dulce el escucharte!&#187;</span></span></div><div class=\"sp\"><span class=\"heading\">Los dos</span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"SNG.2.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"SNG.2.15\"><span class=\"label\">15</span><span class=\"content\">Atrapen las zorras, las zorras peque&#241;as</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"SNG.2.15\"><span class=\"content\">que arruinan nuestros vi&#241;edos,</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"SNG.2.15\"><span class=\"content\">nuestros vi&#241;edos en flor.</span></span></div><div class=\"sp\"><span class=\"heading\">Ella</span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"SNG.2.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"SNG.2.16\"><span class=\"label\">16</span><span class=\"content\">Mi amado es m&#237;o, y yo soy suya.</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"SNG.2.16\"><span class=\"content\">&#201;l apacienta sus reba&#241;os entre las rosas.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"SNG.2.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"SNG.2.17\"><span class=\"label\">17</span><span class=\"content\">Mientras llega el d&#237;a</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"SNG.2.17\"><span class=\"content\">y huyen las sombras,</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"SNG.2.17\"><span class=\"content\">vuelve, amado m&#237;o;</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"SNG.2.17\"><span class=\"content\">s&#233; como un venado,</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"SNG.2.17\"><span class=\"content\">como un venado peque&#241;o</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"SNG.2.17\"><span class=\"content\">por los montes escarpados.</span></span></div><div class=\"b\"></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Ella"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Soy la flor de los llanos de Sarón,",
+            "soy la rosa de los valles."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Él"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Mi amada es, entre las mujeres,",
+            "como una rosa entre los espinos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Ella"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Mi amado es, entre los hombres,",
+            "como un manzano entre los árboles del bosque.",
+            "¡Qué agradable es sentarme a su sombra!",
+            "¡Qué dulce me sabe su fruta!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Me llevó a la sala de banquetes",
+            "y sus miradas para mí fueron de amor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "¡Reanímenme con tortas de pasas,",
+            "aliméntenme con manzanas,",
+            "porque me muero de amor!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "¡Que ponga él su izquierda bajo mi cabeza,",
+            "y que con su derecha me abrace!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Él"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Prométanme, mujeres de Jerusalén,",
+            "por las gacelas y cervatillas del bosque,",
+            "no interrumpir el sueño de mi amor.",
+            "¡Déjenla dormir hasta que quiera despertar!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Segundo canto"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Ella"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "¡Ya viene mi amado!",
+            "¡Ya escucho su voz!",
+            "Viene saltando sobre los montes,",
+            "viene saltando por las colinas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Mi amado es como un venado:",
+            "como un venado pequeño.",
+            "¡Aquí está ya, tras la puerta,",
+            "asomándose a la ventana,",
+            "espiando a través de la reja!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Mi amado me dijo:",
+            "«Levántate, amor mío;",
+            "anda, cariño, vamos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "¡Mira! El invierno ha pasado",
+            "y con él se han ido las lluvias."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Ya han brotado flores en el campo,",
+            "ya ha llegado el tiempo de cantar,",
+            "ya se escucha en nuestra tierra",
+            "el arrullo de las tórtolas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Ya tiene higos la higuera,",
+            "y los viñedos esparcen su aroma.",
+            "»Levántate, amor mío;",
+            "anda, cariño, vamos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "»Paloma mía, que te escondes en las rocas,",
+            "en altos y escabrosos escondites,",
+            "déjame ver tu rostro,",
+            "déjame escuchar tu voz.",
+            "¡Es tan agradable el verte!",
+            "¡Es tan dulce el escucharte!»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Los dos"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Atrapen las zorras, las zorras pequeñas",
+            "que arruinan nuestros viñedos,",
+            "nuestros viñedos en flor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Ella"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Mi amado es mío, y yo soy suya.",
+            "Él apacienta sus rebaños entre las rosas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Mientras llega el día",
+            "y huyen las sombras,",
+            "vuelve, amado mío;",
+            "sé como un venado,",
+            "como un venado pequeño",
+            "por los montes escarpados."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "SNG.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "SNG.3"
+        ],
+        "human": "Cantares 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "SNG.4"
+        ],
+        "human": "Cantares 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "SNG.2"
+        ],
+        "human": "Cantares 2",
+        "toc": true
+      },
+      "chapter_text": "En mi cama, por las noches,\nbusqué al amor de mi vida.\nLo busqué y no lo encontré.\nEntonces me levanté\ny recorrí la ciudad\nbuscando al amor de mi vida\npor las calles y las plazas.\nLo busqué y no lo encontré.\nPregunté a los guardias\nque hacen la ronda de la ciudad:\n«¿No han visto ustedes al amor de mi vida?»\n\nApenas me había alejado de ellos,\ncuando encontré al amor de mi vida.\nLo tomé de la mano, y sin soltarlo\nlo llevé a las habitaciones de mi madre.\n\nPrométanme, mujeres de Jerusalén,\npor las gacelas y cervatillas del bosque,\nno interrumpir el sueño de mi amor.\n¡Déjenla dormir hasta que quiera despertar!\n\n\n¿Qué es eso que viene del desierto\ny avanza entre columnas de humo,\nentre humo de mirra y de incienso\ny de toda clase de perfumes?\n\n¡Es la litera de Salomón!\nViene escoltada por sesenta soldados\nde los más valientes de Israel;\ntodos ellos manejan la espada\ny son expertos guerreros;\ncada uno lleva la espada al cinto\nen previsión de peligros nocturnos.\n\nEl rey Salomón se ha hecho una litera\ncon finas maderas del Líbano.\nLas columnas son de plata;\nel respaldo, de oro;\nel asiento, tapizado de púrpura;\nel interior, decorado con amor\npor las mujeres de Jerusalén.\n\nMujeres de Sión,\n¡salgan a ver al rey Salomón!\nLleva puesta la corona\nque le hizo su madre para el día de su boda,\npara el día más feliz de su vida.",
+      "chapter_html": "<div class=\"version vid1846 iso6393spa\" data-vid=\"1846\" data-iso6393=\"spa\">\n   <div class=\"book bkSNG\">\n      <div class=\"chapter ch3\" data-usfm=\"SNG.3\">\n         <div class=\"label\">3</div><div class=\"q1\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"SNG.3.1\"><span class=\"label\">1</span><span class=\"content\">En mi cama, por las noches,</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.3.1\"><span class=\"content\">busqu&#233; al amor de mi vida.</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.3.1\"><span class=\"content\">Lo busqu&#233; y no lo encontr&#233;.</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.3.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"SNG.3.2\"><span class=\"label\">2</span><span class=\"content\">Entonces me levant&#233;</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.3.2\"><span class=\"content\">y recorr&#237; la ciudad</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.3.2\"><span class=\"content\">buscando al amor de mi vida</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.3.2\"><span class=\"content\">por las calles y las plazas.</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.3.2\"><span class=\"content\">Lo busqu&#233; y no lo encontr&#233;.</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.3.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"SNG.3.3\"><span class=\"label\">3</span><span class=\"content\">Pregunt&#233; a los guardias</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.3.3\"><span class=\"content\">que hacen la ronda de la ciudad:</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.3.3\"><span class=\"content\">&#171;&#191;No han visto ustedes al amor de mi vida?&#187;</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.3.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"SNG.3.4\"><span class=\"label\">4</span><span class=\"content\">Apenas me hab&#237;a alejado de ellos,</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.3.4\"><span class=\"content\">cuando encontr&#233; al amor de mi vida.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.3.4\"><span class=\"content\">Lo tom&#233; de la mano, y sin soltarlo</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.3.4\"><span class=\"content\">lo llev&#233; a las habitaciones de mi madre.</span></span></div><div class=\"sp\"><span class=\"heading\">&#201;l</span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.3.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"SNG.3.5\"><span class=\"label\">5</span><span class=\"content\">Prom&#233;tanme, mujeres de Jerusal&#233;n,</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.3.5\"><span class=\"content\">por las gacelas y cervatillas del bosque,</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.3.5\"><span class=\"content\">no interrumpir el sue&#241;o de mi amor.</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.3.5\"><span class=\"content\">&#161;D&#233;jenla dormir hasta que quiera despertar!</span></span></div><div class=\"s1\"><span class=\"heading\">Tercer canto</span></div><div class=\"sp\"><span class=\"heading\">Coro</span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.3.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"SNG.3.6\"><span class=\"label\">6</span><span class=\"content\">&#191;Qu&#233; es eso que viene del desierto</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.3.6\"><span class=\"content\">y avanza entre columnas de humo,</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.3.6\"><span class=\"content\">entre humo de mirra y de incienso</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.3.6\"><span class=\"content\">y de toda clase de perfumes?</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.3.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"SNG.3.7\"><span class=\"label\">7</span><span class=\"content\">&#161;Es la litera de Salom&#243;n!</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.3.7\"><span class=\"content\">Viene escoltada por sesenta soldados</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.3.7\"><span class=\"content\">de los m&#225;s valientes de Israel;</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.3.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"SNG.3.8\"><span class=\"label\">8</span><span class=\"content\">todos ellos manejan la espada</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.3.8\"><span class=\"content\">y son expertos guerreros;</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.3.8\"><span class=\"content\">cada uno lleva la espada al cinto</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.3.8\"><span class=\"content\">en previsi&#243;n de peligros nocturnos.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.3.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"SNG.3.9\"><span class=\"label\">9</span><span class=\"content\">El rey Salom&#243;n se ha hecho una litera</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.3.9\"><span class=\"content\">con finas maderas del L&#237;bano. </span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.3.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"SNG.3.10\"><span class=\"label\">10</span><span class=\"content\">Las columnas son de plata;</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.3.10\"><span class=\"content\">el respaldo, de oro;</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.3.10\"><span class=\"content\">el asiento, tapizado de p&#250;rpura;</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.3.10\"><span class=\"content\">el interior, decorado con amor</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.3.10\"><span class=\"content\">por las mujeres de Jerusal&#233;n.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.3.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"SNG.3.11\"><span class=\"label\">11</span><span class=\"content\">Mujeres de Si&#243;n,</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"SNG.3.11\"><span class=\"content\">&#161;salgan a ver al rey Salom&#243;n!</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"SNG.3.11\"><span class=\"content\">Lleva puesta la corona</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"SNG.3.11\"><span class=\"content\">que le hizo su madre para el d&#237;a de su boda,</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"SNG.3.11\"><span class=\"content\">para el d&#237;a m&#225;s feliz de su vida.</span></span></div><div class=\"b\"></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "En mi cama, por las noches,",
+            "busqué al amor de mi vida.",
+            "Lo busqué y no lo encontré."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Entonces me levanté",
+            "y recorrí la ciudad",
+            "buscando al amor de mi vida",
+            "por las calles y las plazas.",
+            "Lo busqué y no lo encontré."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Pregunté a los guardias",
+            "que hacen la ronda de la ciudad:",
+            "«¿No han visto ustedes al amor de mi vida?»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Apenas me había alejado de ellos,",
+            "cuando encontré al amor de mi vida.",
+            "Lo tomé de la mano, y sin soltarlo",
+            "lo llevé a las habitaciones de mi madre."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Él"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Prométanme, mujeres de Jerusalén,",
+            "por las gacelas y cervatillas del bosque,",
+            "no interrumpir el sueño de mi amor.",
+            "¡Déjenla dormir hasta que quiera despertar!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Tercer canto"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Coro"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "¿Qué es eso que viene del desierto",
+            "y avanza entre columnas de humo,",
+            "entre humo de mirra y de incienso",
+            "y de toda clase de perfumes?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "¡Es la litera de Salomón!",
+            "Viene escoltada por sesenta soldados",
+            "de los más valientes de Israel;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "todos ellos manejan la espada",
+            "y son expertos guerreros;",
+            "cada uno lleva la espada al cinto",
+            "en previsión de peligros nocturnos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "El rey Salomón se ha hecho una litera",
+            "con finas maderas del Líbano."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Las columnas son de plata;",
+            "el respaldo, de oro;",
+            "el asiento, tapizado de púrpura;",
+            "el interior, decorado con amor",
+            "por las mujeres de Jerusalén."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Mujeres de Sión,",
+            "¡salgan a ver al rey Salomón!",
+            "Lleva puesta la corona",
+            "que le hizo su madre para el día de su boda,",
+            "para el día más feliz de su vida."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "SNG.4",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "SNG.4"
+        ],
+        "human": "Cantares 4"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "SNG.5"
+        ],
+        "human": "Cantares 5",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "SNG.3"
+        ],
+        "human": "Cantares 3",
+        "toc": true
+      },
+      "chapter_text": "¡Qué hermosa eres, amor mío!\n¡Qué hermosa eres!\nTus ojos son dos palomas\nescondidas tras tu velo;\ntus cabellos son como cabritos\nque retozan por los montes de Galaad.\nTus dientes, todos perfectos,\nson cual rebaño de ovejas\nrecién salidas del baño\ny listas para la trasquila.\nTus labios son rojos\ncomo hilos de escarlata,\ny encantadoras tus palabras.\nTus mejillas son dos gajos de granada\nescondidos tras tu velo.\nTu cuello es semejante\na la bella torre de cantería\nque se construyó para David.\nDe ella cuelgan mil escudos,\nescudos de valientes.\nTus pechos son dos gacelas,\ndos gacelas mellizas\nque pastan entre las rosas.\n\nMientras llega el día\ny huyen las sombras,\nme iré al monte de la mirra,\na la colina del incienso.\n\n¡Tú eres hermosa, amor mío;\nhermosa de pies a cabeza!\n¡En ti no hay defecto alguno!\n\nBaja conmigo del Líbano, novia mía;\nbaja conmigo del Líbano.\nContempla el valle desde la cumbre del Amaná,\ndesde la cumbre del Senir y del Hermón;\ndesde las cuevas de los leones,\ndesde los montes de los leopardos.\n\nMe robaste el corazón,\nhermanita, novia mía;\nme robaste el corazón\ncon una sola mirada tuya,\ncon uno de los hilos de tu collar.\n\n¡Qué gratas son tus caricias,\nhermanita, novia mía!\n¡Son tus caricias más dulces que el vino,\ny más deliciosos tus perfumes\nque todas las especias aromáticas!\n\nNovia mía,\nde tus labios brota miel.\n¡Miel y leche hay debajo de tu lengua!\n¡Como fragancia del Líbano\nes la fragancia de tu vestido!\n\nTú, hermanita, novia mía,\neres jardín cerrado,\ncerrada fuente,\nsellado manantial;\njardín donde brotan los granados\nde frutos exquisitos;\njardín donde hay flores de alheña,\nnardos y azafrán,\ncaña aromática y canela,\ny toda clase de árboles de incienso,\nde mirra y de áloe;\n¡todas las mejores especias aromáticas!\nLa fuente del jardín\nes un pozo del cual brota\nel agua que baja desde el Líbano.\n\nViento del norte, ¡despierta!\nViento del sur, ¡ven acá!\n¡Soplen en mi jardín y esparzan su perfume!\n\nVen, amado mío, a tu jardín,\ny come de sus frutos exquisitos.",
+      "chapter_html": "<div class=\"version vid1846 iso6393spa\" data-vid=\"1846\" data-iso6393=\"spa\">\n   <div class=\"book bkSNG\">\n      <div class=\"chapter ch4\" data-usfm=\"SNG.4\">\n         <div class=\"label\">4</div><div class=\"sp\"><span class=\"heading\">&#201;l</span></div><div class=\"q1\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"SNG.4.1\"><span class=\"label\">1</span><span class=\"content\">&#161;Qu&#233; hermosa eres, amor m&#237;o!</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.4.1\"><span class=\"content\">&#161;Qu&#233; hermosa eres!</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.4.1\"><span class=\"content\">Tus ojos son dos palomas</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.4.1\"><span class=\"content\">escondidas tras tu velo;</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.4.1\"><span class=\"content\">tus cabellos son como cabritos</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.4.1\"><span class=\"content\">que retozan por los montes de Galaad.</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.4.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"SNG.4.2\"><span class=\"label\">2</span><span class=\"content\">Tus dientes, todos perfectos,</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.4.2\"><span class=\"content\">son cual reba&#241;o de ovejas</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.4.2\"><span class=\"content\">reci&#233;n salidas del ba&#241;o</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.4.2\"><span class=\"content\">y listas para la trasquila.</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.4.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"SNG.4.3\"><span class=\"label\">3</span><span class=\"content\">Tus labios son rojos</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.4.3\"><span class=\"content\">como hilos de escarlata,</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.4.3\"><span class=\"content\">y encantadoras tus palabras.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.4.3\"><span class=\"content\">Tus mejillas son dos gajos de granada</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.4.3\"><span class=\"content\">escondidos tras tu velo.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.4.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"SNG.4.4\"><span class=\"label\">4</span><span class=\"content\">Tu cuello es semejante</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.4.4\"><span class=\"content\">a la bella torre de canter&#237;a</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.4.4\"><span class=\"content\">que se construy&#243; para David.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.4.4\"><span class=\"content\">De ella cuelgan mil escudos,</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.4.4\"><span class=\"content\">escudos de valientes.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.4.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"SNG.4.5\"><span class=\"label\">5</span><span class=\"content\">Tus pechos son dos gacelas,</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.4.5\"><span class=\"content\">dos gacelas mellizas</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.4.5\"><span class=\"content\">que pastan entre las rosas.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.4.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"SNG.4.6\"><span class=\"label\">6</span><span class=\"content\">Mientras llega el d&#237;a</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.4.6\"><span class=\"content\">y huyen las sombras,</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.4.6\"><span class=\"content\">me ir&#233; al monte de la mirra,</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.4.6\"><span class=\"content\">a la colina del incienso.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.4.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"SNG.4.7\"><span class=\"label\">7</span><span class=\"content\">&#161;T&#250; eres hermosa, amor m&#237;o;</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.4.7\"><span class=\"content\">hermosa de pies a cabeza!</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.4.7\"><span class=\"content\">&#161;En ti no hay defecto alguno!</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.4.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"SNG.4.8\"><span class=\"label\">8</span><span class=\"content\">Baja conmigo del L&#237;bano, novia m&#237;a;</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.4.8\"><span class=\"content\">baja conmigo del L&#237;bano.</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.4.8\"><span class=\"content\">Contempla el valle desde la cumbre del Aman&#225;,</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.4.8\"><span class=\"content\">desde la cumbre del Senir y del Herm&#243;n;</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.4.8\"><span class=\"content\">desde las cuevas de los leones,</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.4.8\"><span class=\"content\">desde los montes de los leopardos.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.4.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"SNG.4.9\"><span class=\"label\">9</span><span class=\"content\">Me robaste el coraz&#243;n,</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.4.9\"><span class=\"content\">hermanita, novia m&#237;a;</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.4.9\"><span class=\"content\">me robaste el coraz&#243;n</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.4.9\"><span class=\"content\">con una sola mirada tuya,</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.4.9\"><span class=\"content\">con uno de los hilos de tu collar.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.4.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"SNG.4.10\"><span class=\"label\">10</span><span class=\"content\">&#161;Qu&#233; gratas son tus caricias,</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.4.10\"><span class=\"content\">hermanita, novia m&#237;a!</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.4.10\"><span class=\"content\">&#161;Son tus caricias m&#225;s dulces que el vino,</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.4.10\"><span class=\"content\">y m&#225;s deliciosos tus perfumes</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.4.10\"><span class=\"content\">que todas las especias arom&#225;ticas!</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.4.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"SNG.4.11\"><span class=\"label\">11</span><span class=\"content\">Novia m&#237;a,</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"SNG.4.11\"><span class=\"content\">de tus labios brota miel.</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"SNG.4.11\"><span class=\"content\">&#161;Miel y leche hay debajo de tu lengua!</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"SNG.4.11\"><span class=\"content\">&#161;Como fragancia del L&#237;bano</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"SNG.4.11\"><span class=\"content\">es la fragancia de tu vestido!</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"SNG.4.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"SNG.4.12\"><span class=\"label\">12</span><span class=\"content\">T&#250;, hermanita, novia m&#237;a,</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"SNG.4.12\"><span class=\"content\">eres jard&#237;n cerrado,</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"SNG.4.12\"><span class=\"content\">cerrada fuente,</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"SNG.4.12\"><span class=\"content\">sellado manantial;</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"SNG.4.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"SNG.4.13\"><span class=\"label\">13</span><span class=\"content\">jard&#237;n donde brotan los granados</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"SNG.4.13\"><span class=\"content\">de frutos exquisitos;</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"SNG.4.13\"><span class=\"content\">jard&#237;n donde hay flores de alhe&#241;a, </span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"SNG.4.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"SNG.4.14\"><span class=\"label\">14</span><span class=\"content\">nardos y azafr&#225;n,</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"SNG.4.14\"><span class=\"content\">ca&#241;a arom&#225;tica y canela,</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"SNG.4.14\"><span class=\"content\">y toda clase de &#225;rboles de incienso,</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"SNG.4.14\"><span class=\"content\">de mirra y de &#225;loe; </span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"SNG.4.14\"><span class=\"content\">&#161;todas las mejores especias arom&#225;ticas!</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"SNG.4.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"SNG.4.15\"><span class=\"label\">15</span><span class=\"content\">La fuente del jard&#237;n</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"SNG.4.15\"><span class=\"content\">es un pozo del cual brota</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"SNG.4.15\"><span class=\"content\">el agua que baja desde el L&#237;bano.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"SNG.4.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"SNG.4.16\"><span class=\"label\">16</span><span class=\"content\">Viento del norte, &#161;despierta!</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"SNG.4.16\"><span class=\"content\">Viento del sur, &#161;ven ac&#225;!</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"SNG.4.16\"><span class=\"content\">&#161;Soplen en mi jard&#237;n y esparzan su perfume!</span></span></div><div class=\"sp\"><span class=\"heading\">Ella</span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"SNG.4.16\"><span class=\"content\">Ven, amado m&#237;o, a tu jard&#237;n,</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"SNG.4.16\"><span class=\"content\">y come de sus frutos exquisitos.</span></span></div><div class=\"b\"></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Él"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "¡Qué hermosa eres, amor mío!",
+            "¡Qué hermosa eres!",
+            "Tus ojos son dos palomas",
+            "escondidas tras tu velo;",
+            "tus cabellos son como cabritos",
+            "que retozan por los montes de Galaad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Tus dientes, todos perfectos,",
+            "son cual rebaño de ovejas",
+            "recién salidas del baño",
+            "y listas para la trasquila."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Tus labios son rojos",
+            "como hilos de escarlata,",
+            "y encantadoras tus palabras.",
+            "Tus mejillas son dos gajos de granada",
+            "escondidos tras tu velo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Tu cuello es semejante",
+            "a la bella torre de cantería",
+            "que se construyó para David.",
+            "De ella cuelgan mil escudos,",
+            "escudos de valientes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Tus pechos son dos gacelas,",
+            "dos gacelas mellizas",
+            "que pastan entre las rosas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Mientras llega el día",
+            "y huyen las sombras,",
+            "me iré al monte de la mirra,",
+            "a la colina del incienso."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "¡Tú eres hermosa, amor mío;",
+            "hermosa de pies a cabeza!",
+            "¡En ti no hay defecto alguno!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Baja conmigo del Líbano, novia mía;",
+            "baja conmigo del Líbano.",
+            "Contempla el valle desde la cumbre del Amaná,",
+            "desde la cumbre del Senir y del Hermón;",
+            "desde las cuevas de los leones,",
+            "desde los montes de los leopardos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Me robaste el corazón,",
+            "hermanita, novia mía;",
+            "me robaste el corazón",
+            "con una sola mirada tuya,",
+            "con uno de los hilos de tu collar."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "¡Qué gratas son tus caricias,",
+            "hermanita, novia mía!",
+            "¡Son tus caricias más dulces que el vino,",
+            "y más deliciosos tus perfumes",
+            "que todas las especias aromáticas!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Novia mía,",
+            "de tus labios brota miel.",
+            "¡Miel y leche hay debajo de tu lengua!",
+            "¡Como fragancia del Líbano",
+            "es la fragancia de tu vestido!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Tú, hermanita, novia mía,",
+            "eres jardín cerrado,",
+            "cerrada fuente,",
+            "sellado manantial;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "jardín donde brotan los granados",
+            "de frutos exquisitos;",
+            "jardín donde hay flores de alheña,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "nardos y azafrán,",
+            "caña aromática y canela,",
+            "y toda clase de árboles de incienso,",
+            "de mirra y de áloe;",
+            "¡todas las mejores especias aromáticas!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "La fuente del jardín",
+            "es un pozo del cual brota",
+            "el agua que baja desde el Líbano."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Viento del norte, ¡despierta!",
+            "Viento del sur, ¡ven acá!",
+            "¡Soplen en mi jardín y esparzan su perfume!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Ella"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Ven, amado mío, a tu jardín,",
+            "y come de sus frutos exquisitos."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "SNG.5",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "SNG.5"
+        ],
+        "human": "Cantares 5"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "SNG.6"
+        ],
+        "human": "Cantares 6",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "SNG.4"
+        ],
+        "human": "Cantares 4",
+        "toc": true
+      },
+      "chapter_text": "Ya he entrado en mi jardín,\nhermanita, novia mía.\nYa he tomado mi mirra y mis perfumes,\nya he probado la miel de mi panal,\nya he bebido mi vino y mi leche.\n\nQueridos amigos,\ncoman y beban,\n¡beban todo lo que quieran!\n\n\nYo dormía, pero no mi corazón.\nY oí que mi amado llamaba a la puerta:\n«¡Ábreme, amor mío;\nhermanita,\npalomita virginal!\n¡Mi cabeza está empapada de rocío!\n¡El rocío nocturno me corre por el cabello!»\n\n«Ya me he quitado la ropa;\n¡tendría que volver a vestirme!\nYa me he lavado los pies;\n¡se me volverían a llenar de polvo!»\n\nMi amado metió la mano\npor el agujero de la puerta.\n¡Eso me conmovió profundamente!\nEntonces me levanté\npara abrirle a mi amado.\nDe mis manos y mis dedos\ncayeron gotitas de mirra\nsobre el pasador de la puerta.\n¡Al oírlo hablar\nsentí que me moría!\n\nAbrí la puerta a mi amado,\npero él ya no estaba allí.\nLo busqué y no lo encontré,\nlo llamé y no me respondió.\nMe encontraron los guardias\nque hacen la ronda de la ciudad;\nme golpearon, me hirieron;\n¡los que cuidan la entrada de la ciudad\nme arrancaron el velo con violencia!\n\nMujeres de Jerusalén,\nsi encuentran a mi amado,\nprométanme decirle\nque me estoy muriendo de amor.\n\n¿Qué de especial tiene tu amado,\nhermosa entre las hermosas?\n¿Qué de especial tiene tu amado\nque nos pides hacerte tal promesa?\n\nMi amado es trigueño claro,\ninconfundible entre miles de hombres.\nSu cabeza es oro puro;\nsu cabello es ondulado\ny negro como un cuervo;\nsus ojos son dos palomas bañadas en leche,\nposadas junto a un estanque;\nsus mejillas son amplios jardines\nde fragantes flores.\nSus labios son rosas\npor las que ruedan gotitas de mirra;\nsus manos son abrazaderas de oro cubiertas de topacios;\nsu cuerpo es pulido marfil\ncon incrustaciones de zafiros;\nsus piernas son columnas de mármol\nafirmadas sobre bases de oro puro;\nsu aspecto es distinguido\ncomo los cedros del Líbano;\nsu paladar es dulcísimo.\n¡Todo él es un encanto!\n\nAsí es mi amado,\nasí es el amor mío,\nmujeres de Jerusalén.",
+      "chapter_html": "<div class=\"version vid1846 iso6393spa\" data-vid=\"1846\" data-iso6393=\"spa\">\n   <div class=\"book bkSNG\">\n      <div class=\"chapter ch5\" data-usfm=\"SNG.5\">\n         <div class=\"label\">5</div><div class=\"sp\"><span class=\"heading\">&#201;l</span></div><div class=\"q1\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"SNG.5.1\"><span class=\"label\">1</span><span class=\"content\">Ya he entrado en mi jard&#237;n,</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.5.1\"><span class=\"content\">hermanita, novia m&#237;a.</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.5.1\"><span class=\"content\">Ya he tomado mi mirra y mis perfumes,</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.5.1\"><span class=\"content\">ya he probado la miel de mi panal,</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.5.1\"><span class=\"content\">ya he bebido mi vino y mi leche.</span></span></div><div class=\"sp\"><span class=\"heading\">Coro</span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.5.1\"><span class=\"content\">Queridos amigos,</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.5.1\"><span class=\"content\">coman y beban,</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.5.1\"><span class=\"content\">&#161;beban todo lo que quieran!</span></span></div><div class=\"s1\"><span class=\"heading\">Cuarto canto</span></div><div class=\"sp\"><span class=\"heading\">Ella</span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.5.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"SNG.5.2\"><span class=\"label\">2</span><span class=\"content\">Yo dorm&#237;a, pero no mi coraz&#243;n.</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.5.2\"><span class=\"content\">Y o&#237; que mi amado llamaba a la puerta:</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.5.2\"><span class=\"content\">&#171;&#161;&#193;breme, amor m&#237;o;</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.5.2\"><span class=\"content\">hermanita,</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.5.2\"><span class=\"content\">palomita virginal!</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.5.2\"><span class=\"content\">&#161;Mi cabeza est&#225; empapada de roc&#237;o!</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.5.2\"><span class=\"content\">&#161;El roc&#237;o nocturno me corre por el cabello!&#187;</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.5.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"SNG.5.3\"><span class=\"label\">3</span><span class=\"content\">&#171;Ya me he quitado la ropa;</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.5.3\"><span class=\"content\">&#161;tendr&#237;a que volver a vestirme!</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.5.3\"><span class=\"content\">Ya me he lavado los pies;</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.5.3\"><span class=\"content\">&#161;se me volver&#237;an a llenar de polvo!&#187;</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.5.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"SNG.5.4\"><span class=\"label\">4</span><span class=\"content\">Mi amado meti&#243; la mano</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.5.4\"><span class=\"content\">por el agujero de la puerta.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.5.4\"><span class=\"content\">&#161;Eso me conmovi&#243; profundamente!</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.5.4\"><span class=\"content\">  </span></span><span class=\"verse v5 v6\" data-usfm=\"SNG.5.5+SNG.5.6\"><span class=\"label\">5-6</span><span class=\"content\">Entonces me levant&#233;</span></span></div><div class=\"q1\"><span class=\"verse v5 v6\" data-usfm=\"SNG.5.5+SNG.5.6\"><span class=\"content\">para abrirle a mi amado.</span></span></div><div class=\"q1\"><span class=\"verse v5 v6\" data-usfm=\"SNG.5.5+SNG.5.6\"><span class=\"content\">De mis manos y mis dedos</span></span></div><div class=\"q1\"><span class=\"verse v5 v6\" data-usfm=\"SNG.5.5+SNG.5.6\"><span class=\"content\">cayeron gotitas de mirra</span></span></div><div class=\"q1\"><span class=\"verse v5 v6\" data-usfm=\"SNG.5.5+SNG.5.6\"><span class=\"content\">sobre el pasador de la puerta.</span></span></div><div class=\"q1\"><span class=\"verse v5 v6\" data-usfm=\"SNG.5.5+SNG.5.6\"><span class=\"content\">&#161;Al o&#237;rlo hablar</span></span></div><div class=\"q1\"><span class=\"verse v5 v6\" data-usfm=\"SNG.5.5+SNG.5.6\"><span class=\"content\">sent&#237; que me mor&#237;a!</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v5 v6\" data-usfm=\"SNG.5.5+SNG.5.6\"><span class=\"content\">Abr&#237; la puerta a mi amado,</span></span></div><div class=\"q1\"><span class=\"verse v5 v6\" data-usfm=\"SNG.5.5+SNG.5.6\"><span class=\"content\">pero &#233;l ya no estaba all&#237;.</span></span></div><div class=\"q1\"><span class=\"verse v5 v6\" data-usfm=\"SNG.5.5+SNG.5.6\"><span class=\"content\">Lo busqu&#233; y no lo encontr&#233;,</span></span></div><div class=\"q1\"><span class=\"verse v5 v6\" data-usfm=\"SNG.5.5+SNG.5.6\"><span class=\"content\">lo llam&#233; y no me respondi&#243;.</span></span></div><div class=\"q1\"><span class=\"verse v5 v6\" data-usfm=\"SNG.5.5+SNG.5.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"SNG.5.7\"><span class=\"label\">7</span><span class=\"content\">Me encontraron los guardias</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.5.7\"><span class=\"content\">que hacen la ronda de la ciudad;</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.5.7\"><span class=\"content\">me golpearon, me hirieron;</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.5.7\"><span class=\"content\">&#161;los que cuidan la entrada de la ciudad</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.5.7\"><span class=\"content\">me arrancaron el velo con violencia!</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.5.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"SNG.5.8\"><span class=\"label\">8</span><span class=\"content\">Mujeres de Jerusal&#233;n,</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.5.8\"><span class=\"content\">si encuentran a mi amado,</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.5.8\"><span class=\"content\">prom&#233;tanme decirle</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.5.8\"><span class=\"content\">que me estoy muriendo de amor.</span></span></div><div class=\"sp\"><span class=\"heading\">Coro</span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.5.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"SNG.5.9\"><span class=\"label\">9</span><span class=\"content\">&#191;Qu&#233; de especial tiene tu amado,</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.5.9\"><span class=\"content\">hermosa entre las hermosas?</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.5.9\"><span class=\"content\">&#191;Qu&#233; de especial tiene tu amado</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.5.9\"><span class=\"content\">que nos pides hacerte tal promesa?</span></span></div><div class=\"sp\"><span class=\"heading\">Ella</span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.5.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"SNG.5.10\"><span class=\"label\">10</span><span class=\"content\">Mi amado es trigue&#241;o claro,</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.5.10\"><span class=\"content\">inconfundible entre miles de hombres.</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.5.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"SNG.5.11\"><span class=\"label\">11</span><span class=\"content\">Su cabeza es oro puro;</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"SNG.5.11\"><span class=\"content\">su cabello es ondulado</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"SNG.5.11\"><span class=\"content\">y negro como un cuervo;</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"SNG.5.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"SNG.5.12\"><span class=\"label\">12</span><span class=\"content\">sus ojos son dos palomas ba&#241;adas en leche,</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"SNG.5.12\"><span class=\"content\">posadas junto a un estanque;</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"SNG.5.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"SNG.5.13\"><span class=\"label\">13</span><span class=\"content\">sus mejillas son amplios jardines</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"SNG.5.13\"><span class=\"content\">de fragantes flores.</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"SNG.5.13\"><span class=\"content\">Sus labios son rosas</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"SNG.5.13\"><span class=\"content\">por las que ruedan gotitas de mirra;</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"SNG.5.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"SNG.5.14\"><span class=\"label\">14</span><span class=\"content\">sus manos son abrazaderas de oro cubiertas de topacios;</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"SNG.5.14\"><span class=\"content\">su cuerpo es pulido marfil</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"SNG.5.14\"><span class=\"content\">con incrustaciones de zafiros;</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"SNG.5.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"SNG.5.15\"><span class=\"label\">15</span><span class=\"content\">sus piernas son columnas de m&#225;rmol</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"SNG.5.15\"><span class=\"content\">afirmadas sobre bases de oro puro;</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"SNG.5.15\"><span class=\"content\">su aspecto es distinguido</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"SNG.5.15\"><span class=\"content\">como los cedros del L&#237;bano;</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"SNG.5.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"SNG.5.16\"><span class=\"label\">16</span><span class=\"content\">su paladar es dulc&#237;simo.</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"SNG.5.16\"><span class=\"content\">&#161;Todo &#233;l es un encanto!</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"SNG.5.16\"><span class=\"content\">As&#237; es mi amado,</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"SNG.5.16\"><span class=\"content\">as&#237; es el amor m&#237;o,</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"SNG.5.16\"><span class=\"content\">mujeres de Jerusal&#233;n.</span></span></div><div class=\"b\"></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Él"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Ya he entrado en mi jardín,",
+            "hermanita, novia mía.",
+            "Ya he tomado mi mirra y mis perfumes,",
+            "ya he probado la miel de mi panal,",
+            "ya he bebido mi vino y mi leche."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Coro"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Queridos amigos,",
+            "coman y beban,",
+            "¡beban todo lo que quieran!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Cuarto canto"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Ella"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Yo dormía, pero no mi corazón.",
+            "Y oí que mi amado llamaba a la puerta:",
+            "«¡Ábreme, amor mío;",
+            "hermanita,",
+            "palomita virginal!",
+            "¡Mi cabeza está empapada de rocío!",
+            "¡El rocío nocturno me corre por el cabello!»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "«Ya me he quitado la ropa;",
+            "¡tendría que volver a vestirme!",
+            "Ya me he lavado los pies;",
+            "¡se me volverían a llenar de polvo!»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Mi amado metió la mano",
+            "por el agujero de la puerta.",
+            "¡Eso me conmovió profundamente!",
+            "Entonces me levanté",
+            "para abrirle a mi amado.",
+            "De mis manos y mis dedos",
+            "cayeron gotitas de mirra",
+            "sobre el pasador de la puerta.",
+            "¡Al oírlo hablar",
+            "sentí que me moría!",
+            "Abrí la puerta a mi amado,",
+            "pero él ya no estaba allí.",
+            "Lo busqué y no lo encontré,",
+            "lo llamé y no me respondió."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Me encontraron los guardias",
+            "que hacen la ronda de la ciudad;",
+            "me golpearon, me hirieron;",
+            "¡los que cuidan la entrada de la ciudad",
+            "me arrancaron el velo con violencia!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Mujeres de Jerusalén,",
+            "si encuentran a mi amado,",
+            "prométanme decirle",
+            "que me estoy muriendo de amor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Coro"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "¿Qué de especial tiene tu amado,",
+            "hermosa entre las hermosas?",
+            "¿Qué de especial tiene tu amado",
+            "que nos pides hacerte tal promesa?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Ella"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Mi amado es trigueño claro,",
+            "inconfundible entre miles de hombres."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Su cabeza es oro puro;",
+            "su cabello es ondulado",
+            "y negro como un cuervo;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "sus ojos son dos palomas bañadas en leche,",
+            "posadas junto a un estanque;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "sus mejillas son amplios jardines",
+            "de fragantes flores.",
+            "Sus labios son rosas",
+            "por las que ruedan gotitas de mirra;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "sus manos son abrazaderas de oro cubiertas de topacios;",
+            "su cuerpo es pulido marfil",
+            "con incrustaciones de zafiros;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "sus piernas son columnas de mármol",
+            "afirmadas sobre bases de oro puro;",
+            "su aspecto es distinguido",
+            "como los cedros del Líbano;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "su paladar es dulcísimo.",
+            "¡Todo él es un encanto!",
+            "Así es mi amado,",
+            "así es el amor mío,",
+            "mujeres de Jerusalén."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "SNG.6",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "SNG.6"
+        ],
+        "human": "Cantares 6"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "SNG.7"
+        ],
+        "human": "Cantares 7",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "SNG.5"
+        ],
+        "human": "Cantares 5",
+        "toc": true
+      },
+      "chapter_text": "¿A dónde se ha ido tu amado,\nhermosa entre las hermosas?\n¿A dónde se ha dirigido?\n¡Iremos contigo a buscarlo!\n\nMi amado ha ido a su jardín,\na su jardín perfumado,\na apacentar su rebaño\ny cortar las rosas.\n\nYo soy de mi amado, y él es mío.\nÉl apacienta sus rebaños entre las rosas.\n\n\nTú, amor mío,\neres hermosa y encantadora\ncomo las ciudades de Tirsá y Jerusalén;\nirresistible como un ejército en marcha.\n¡Deja ya de mirarme,\npues tus ojos me han vencido!\n\nTus cabellos son como cabritos\nque retozan por los montes de Galaad.\nTus dientes, todos perfectos,\nson cual rebaño de ovejas\nrecién salidas del baño\ny listas para la trasquila.\nTus mejillas son dos gajos de granada\nescondidos tras tu velo.\n\nSesenta son las reinas,\nochenta las concubinas\ny muchísimas las doncellas,\npero mi palomita virginal es una sola;\nuna sola es la hija preferida\nde la mujer que la dio a luz.\nAl verla, las jóvenes la felicitan;\nreinas y concubinas la alaban.\n\n¿Quién es esta que se asoma\ncomo el sol en la mañana?\nEs hermosa como la luna,\nradiante como el sol,\n¡irresistible como un ejército en marcha!\n\nFui al bosque de los nogales\na admirar el verdor en el arroyo;\nquería ver los brotes de los viñedos\ny las flores de los granados.\nDespués ya no supe qué pasó\nhasta que me vi en un carro junto a mi príncipe.\n\n13 (7.1) ¡Regresa, Sulamita, regresa!\n¡Regresa, queremos verte!\n\n¿Y qué quieren ver de la Sulamita?\n\n¡Una danza, como en los campamentos!",
+      "chapter_html": "<div class=\"version vid1846 iso6393spa\" data-vid=\"1846\" data-iso6393=\"spa\">\n   <div class=\"book bkSNG\">\n      <div class=\"chapter ch6\" data-usfm=\"SNG.6\">\n         <div class=\"label\">6</div><div class=\"sp\"><span class=\"heading\">Coro</span></div><div class=\"q1\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"SNG.6.1\"><span class=\"label\">1</span><span class=\"content\">&#191;A d&#243;nde se ha ido tu amado,</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.6.1\"><span class=\"content\">hermosa entre las hermosas?</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.6.1\"><span class=\"content\">&#191;A d&#243;nde se ha dirigido?</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.6.1\"><span class=\"content\">&#161;Iremos contigo a buscarlo!</span></span></div><div class=\"sp\"><span class=\"heading\">Ella</span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.6.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"SNG.6.2\"><span class=\"label\">2</span><span class=\"content\">Mi amado ha ido a su jard&#237;n,</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.6.2\"><span class=\"content\">a su jard&#237;n perfumado,</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.6.2\"><span class=\"content\">a apacentar su reba&#241;o</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.6.2\"><span class=\"content\">y cortar las rosas.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.6.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"SNG.6.3\"><span class=\"label\">3</span><span class=\"content\">Yo soy de mi amado, y &#233;l es m&#237;o.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.6.3\"><span class=\"content\">&#201;l apacienta sus reba&#241;os entre las rosas.</span></span></div><div class=\"s1\"><span class=\"heading\">Quinto canto</span></div><div class=\"sp\"><span class=\"heading\">&#201;l</span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.6.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"SNG.6.4\"><span class=\"label\">4</span><span class=\"content\">T&#250;, amor m&#237;o,</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.6.4\"><span class=\"content\">eres hermosa y encantadora</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.6.4\"><span class=\"content\">como las ciudades de Tirs&#225; y Jerusal&#233;n;</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.6.4\"><span class=\"content\">irresistible como un ej&#233;rcito en marcha.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.6.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"SNG.6.5\"><span class=\"label\">5</span><span class=\"content\">&#161;Deja ya de mirarme,</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.6.5\"><span class=\"content\">pues tus ojos me han vencido!</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.6.5\"><span class=\"content\">Tus cabellos son como cabritos</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.6.5\"><span class=\"content\">que retozan por los montes de Galaad.</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.6.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"SNG.6.6\"><span class=\"label\">6</span><span class=\"content\">Tus dientes, todos perfectos,</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.6.6\"><span class=\"content\">son cual reba&#241;o de ovejas</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.6.6\"><span class=\"content\">reci&#233;n salidas del ba&#241;o</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.6.6\"><span class=\"content\">y listas para la trasquila.</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.6.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"SNG.6.7\"><span class=\"label\">7</span><span class=\"content\">Tus mejillas son dos gajos de granada</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.6.7\"><span class=\"content\">escondidos tras tu velo.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.6.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"SNG.6.8\"><span class=\"label\">8</span><span class=\"content\">Sesenta son las reinas,</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.6.8\"><span class=\"content\">ochenta las concubinas</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.6.8\"><span class=\"content\">y much&#237;simas las doncellas,</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.6.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"SNG.6.9\"><span class=\"label\">9</span><span class=\"content\">pero mi palomita virginal es una sola;</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.6.9\"><span class=\"content\">una sola es la hija preferida</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.6.9\"><span class=\"content\">de la mujer que la dio a luz.</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.6.9\"><span class=\"content\">Al verla, las j&#243;venes la felicitan;</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.6.9\"><span class=\"content\">reinas y concubinas la alaban.</span></span></div><div class=\"sp\"><span class=\"heading\">Coro</span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.6.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"SNG.6.10\"><span class=\"label\">10</span><span class=\"content\">&#191;Qui&#233;n es esta que se asoma</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.6.10\"><span class=\"content\">como el sol en la ma&#241;ana?</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.6.10\"><span class=\"content\">Es hermosa como la luna,</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.6.10\"><span class=\"content\">radiante como el sol,</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.6.10\"><span class=\"content\">&#161;irresistible como un ej&#233;rcito en marcha!</span></span></div><div class=\"sp\"><span class=\"heading\">Ella</span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.6.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"SNG.6.11\"><span class=\"label\">11</span><span class=\"content\">Fui al bosque de los nogales</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"SNG.6.11\"><span class=\"content\">a admirar el verdor en el arroyo;</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"SNG.6.11\"><span class=\"content\">quer&#237;a ver los brotes de los vi&#241;edos</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"SNG.6.11\"><span class=\"content\">y las flores de los granados.</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"SNG.6.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"SNG.6.12\"><span class=\"label\">12</span><span class=\"content\">Despu&#233;s ya no supe qu&#233; pas&#243;</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"SNG.6.12\"><span class=\"content\">hasta que me vi en un carro junto a mi pr&#237;ncipe.</span></span></div><div class=\"sp\"><span class=\"heading\">Coro</span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"SNG.6.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"SNG.6.13\"><span class=\"label\">13</span><span class=\"content\">  </span><span class=\"vp\"><span class=\"content\">13 (7.1)</span></span><span class=\"content\"> &#161;Regresa, Sulamita, regresa!</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"SNG.6.13\"><span class=\"content\">&#161;Regresa, queremos verte!</span></span></div><div class=\"sp\"><span class=\"heading\">Ella</span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"SNG.6.13\"><span class=\"content\">&#191;Y qu&#233; quieren ver de la Sulamita?</span></span></div><div class=\"sp\"><span class=\"heading\">Coro</span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"SNG.6.13\"><span class=\"content\">&#161;Una danza, como en los campamentos!</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Coro"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "¿A dónde se ha ido tu amado,",
+            "hermosa entre las hermosas?",
+            "¿A dónde se ha dirigido?",
+            "¡Iremos contigo a buscarlo!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Ella"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Mi amado ha ido a su jardín,",
+            "a su jardín perfumado,",
+            "a apacentar su rebaño",
+            "y cortar las rosas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Yo soy de mi amado, y él es mío.",
+            "Él apacienta sus rebaños entre las rosas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Quinto canto"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Él"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Tú, amor mío,",
+            "eres hermosa y encantadora",
+            "como las ciudades de Tirsá y Jerusalén;",
+            "irresistible como un ejército en marcha."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "¡Deja ya de mirarme,",
+            "pues tus ojos me han vencido!",
+            "Tus cabellos son como cabritos",
+            "que retozan por los montes de Galaad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Tus dientes, todos perfectos,",
+            "son cual rebaño de ovejas",
+            "recién salidas del baño",
+            "y listas para la trasquila."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Tus mejillas son dos gajos de granada",
+            "escondidos tras tu velo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Sesenta son las reinas,",
+            "ochenta las concubinas",
+            "y muchísimas las doncellas,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "pero mi palomita virginal es una sola;",
+            "una sola es la hija preferida",
+            "de la mujer que la dio a luz.",
+            "Al verla, las jóvenes la felicitan;",
+            "reinas y concubinas la alaban."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Coro"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "¿Quién es esta que se asoma",
+            "como el sol en la mañana?",
+            "Es hermosa como la luna,",
+            "radiante como el sol,",
+            "¡irresistible como un ejército en marcha!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Ella"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Fui al bosque de los nogales",
+            "a admirar el verdor en el arroyo;",
+            "quería ver los brotes de los viñedos",
+            "y las flores de los granados."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Después ya no supe qué pasó",
+            "hasta que me vi en un carro junto a mi príncipe."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Coro"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "13 (7.1) ¡Regresa, Sulamita, regresa!",
+            "¡Regresa, queremos verte!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Ella"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "¿Y qué quieren ver de la Sulamita?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Coro"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "¡Una danza, como en los campamentos!"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "SNG.7",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "SNG.7"
+        ],
+        "human": "Cantares 7"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "SNG.8"
+        ],
+        "human": "Cantares 8",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "SNG.6"
+        ],
+        "human": "Cantares 6",
+        "toc": true
+      },
+      "chapter_text": "1 (2) ¡Qué hermosos son tus pies\nen las sandalias, princesa!\nLas curvas de tus caderas\nson como adornos de oro fino\nhechos por manos expertas.\n2 (3) Tu ombligo es una copa redonda\ndonde no falta el buen vino;\ntu vientre es una pila de trigo\nrodeada de rosas.\n3 (4) Tus pechos son dos gacelas,\ndos gacelas mellizas.\n4 (5) Tu cuello es una torre de marfil;\ntus ojos son dos estanques\nde la ciudad de Hesbón,\njunto a la puerta de Bat-rabim;\ntu nariz es como la torre del Líbano\nque mira hacia la ciudad de Damasco.\n5 (6) Tu cabeza, sobre tu cuerpo,\nes como el monte Carmelo;\nhilos de púrpura son tus cabellos:\n¡un rey está preso entre sus rizos!\n\n6 (7) Amor mío, mujer encantadora,\n¡qué bella, qué hermosa eres!\n7 (8) Tu porte es como el porte de una palmera;\ntus pechos son como racimos.\n8 (9) Yo pienso subir a la palmera\ny adueñarme de sus racimos.\nTus pechos serán entonces\ncomo racimos de uvas;\ntu aliento, perfume de manzanas;\n9 (10) tu paladar, como el buen vino\nque resbala suavemente\npor los labios y los dientes.\n\n10 (11) Yo soy de mi amado:\nlos impulsos de su amor lo atraen a mí.\n\n11 (12) ¡Anda, amado mío, vayamos al campo!\nPasaremos la noche entre flores de alheña.\n12 (13) Por la mañana iremos a los viñedos,\na ver si ya tienen brotes,\nsi se abren ya sus botones,\nsi ya han florecido los granados.\n¡Allí te daré mi amor!\n\n13 (14) Las mandrágoras esparcen su aroma.\nA nuestra puerta hay fruta de todas clases:\nfruta seca y fruta recién cortada,\nque para ti, amado mío, aparté.",
+      "chapter_html": "<div class=\"version vid1846 iso6393spa\" data-vid=\"1846\" data-iso6393=\"spa\">\n   <div class=\"book bkSNG\">\n      <div class=\"chapter ch7\" data-usfm=\"SNG.7\">\n         <div class=\"label\">7</div><div class=\"sp\"><span class=\"heading\">&#201;l</span></div><div class=\"q1\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"SNG.7.1\"><span class=\"label\">1</span><span class=\"content\">  </span><span class=\"vp\"><span class=\"content\">1 (2)</span></span><span class=\"content\"> &#161;Qu&#233; hermosos son tus pies</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.7.1\"><span class=\"content\">en las sandalias, princesa!</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.7.1\"><span class=\"content\">Las curvas de tus caderas</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.7.1\"><span class=\"content\">son como adornos de oro fino</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.7.1\"><span class=\"content\">hechos por manos expertas.</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.7.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"SNG.7.2\"><span class=\"label\">2</span><span class=\"content\">  </span><span class=\"vp\"><span class=\"content\">2 (3)</span></span><span class=\"content\"> Tu ombligo es una copa redonda</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.7.2\"><span class=\"content\">donde no falta el buen vino;</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.7.2\"><span class=\"content\">tu vientre es una pila de trigo</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.7.2\"><span class=\"content\">rodeada de rosas.</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.7.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"SNG.7.3\"><span class=\"label\">3</span><span class=\"content\">  </span><span class=\"vp\"><span class=\"content\">3 (4)</span></span><span class=\"content\"> Tus pechos son dos gacelas,</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.7.3\"><span class=\"content\">dos gacelas mellizas.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.7.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"SNG.7.4\"><span class=\"label\">4</span><span class=\"content\">  </span><span class=\"vp\"><span class=\"content\">4 (5)</span></span><span class=\"content\"> Tu cuello es una torre de marfil;</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.7.4\"><span class=\"content\">tus ojos son dos estanques</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.7.4\"><span class=\"content\">de la ciudad de Hesb&#243;n,</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.7.4\"><span class=\"content\">junto a la puerta de Bat-rabim;</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.7.4\"><span class=\"content\">tu nariz es como la torre del L&#237;bano </span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.7.4\"><span class=\"content\">que mira hacia la ciudad de Damasco.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.7.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"SNG.7.5\"><span class=\"label\">5</span><span class=\"content\">  </span><span class=\"vp\"><span class=\"content\">5 (6)</span></span><span class=\"content\"> Tu cabeza, sobre tu cuerpo,</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.7.5\"><span class=\"content\">es como el monte Carmelo;</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.7.5\"><span class=\"content\">hilos de p&#250;rpura son tus cabellos:</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.7.5\"><span class=\"content\">&#161;un rey est&#225; preso entre sus rizos!</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.7.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"SNG.7.6\"><span class=\"label\">6</span><span class=\"content\">  </span><span class=\"vp\"><span class=\"content\">6 (7)</span></span><span class=\"content\"> Amor m&#237;o, mujer encantadora,</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.7.6\"><span class=\"content\">&#161;qu&#233; bella, qu&#233; hermosa eres!</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.7.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"SNG.7.7\"><span class=\"label\">7</span><span class=\"content\">  </span><span class=\"vp\"><span class=\"content\">7 (8)</span></span><span class=\"content\"> Tu porte es como el porte de una palmera;</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.7.7\"><span class=\"content\">tus pechos son como racimos.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.7.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"SNG.7.8\"><span class=\"label\">8</span><span class=\"content\">  </span><span class=\"vp\"><span class=\"content\">8 (9)</span></span><span class=\"content\"> Yo pienso subir a la palmera</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.7.8\"><span class=\"content\">y adue&#241;arme de sus racimos.</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.7.8\"><span class=\"content\">Tus pechos ser&#225;n entonces</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.7.8\"><span class=\"content\">como racimos de uvas;</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.7.8\"><span class=\"content\">tu aliento, perfume de manzanas;</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.7.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"SNG.7.9\"><span class=\"label\">9</span><span class=\"content\">  </span><span class=\"vp\"><span class=\"content\">9 (10)</span></span><span class=\"content\"> tu paladar, como el buen vino</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.7.9\"><span class=\"content\">que resbala suavemente</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.7.9\"><span class=\"content\">por los labios y los dientes.</span></span></div><div class=\"sp\"><span class=\"heading\">Ella</span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.7.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"SNG.7.10\"><span class=\"label\">10</span><span class=\"content\">  </span><span class=\"vp\"><span class=\"content\">10 (11)</span></span><span class=\"content\"> Yo soy de mi amado:</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.7.10\"><span class=\"content\">los impulsos de su amor lo atraen a m&#237;.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.7.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"SNG.7.11\"><span class=\"label\">11</span><span class=\"content\">  </span><span class=\"vp\"><span class=\"content\">11 (12)</span></span><span class=\"content\"> &#161;Anda, amado m&#237;o, vayamos al campo!</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"SNG.7.11\"><span class=\"content\">Pasaremos la noche entre flores de alhe&#241;a.</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"SNG.7.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"SNG.7.12\"><span class=\"label\">12</span><span class=\"content\">  </span><span class=\"vp\"><span class=\"content\">12 (13)</span></span><span class=\"content\"> Por la ma&#241;ana iremos a los vi&#241;edos,</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"SNG.7.12\"><span class=\"content\">a ver si ya tienen brotes,</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"SNG.7.12\"><span class=\"content\">si se abren ya sus botones,</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"SNG.7.12\"><span class=\"content\">si ya han florecido los granados.</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"SNG.7.12\"><span class=\"content\">&#161;All&#237; te dar&#233; mi amor!</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"SNG.7.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"SNG.7.13\"><span class=\"label\">13</span><span class=\"content\">  </span><span class=\"vp\"><span class=\"content\">13 (14)</span></span><span class=\"content\"> Las mandr&#225;goras esparcen su aroma.</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"SNG.7.13\"><span class=\"content\">A nuestra puerta hay fruta de todas clases:</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"SNG.7.13\"><span class=\"content\">fruta seca y fruta reci&#233;n cortada,</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"SNG.7.13\"><span class=\"content\">que para ti, amado m&#237;o, apart&#233;.</span></span></div><div class=\"b\"></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Él"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "1 (2) ¡Qué hermosos son tus pies",
+            "en las sandalias, princesa!",
+            "Las curvas de tus caderas",
+            "son como adornos de oro fino",
+            "hechos por manos expertas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "2 (3) Tu ombligo es una copa redonda",
+            "donde no falta el buen vino;",
+            "tu vientre es una pila de trigo",
+            "rodeada de rosas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "3 (4) Tus pechos son dos gacelas,",
+            "dos gacelas mellizas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "4 (5) Tu cuello es una torre de marfil;",
+            "tus ojos son dos estanques",
+            "de la ciudad de Hesbón,",
+            "junto a la puerta de Bat-rabim;",
+            "tu nariz es como la torre del Líbano",
+            "que mira hacia la ciudad de Damasco."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "5 (6) Tu cabeza, sobre tu cuerpo,",
+            "es como el monte Carmelo;",
+            "hilos de púrpura son tus cabellos:",
+            "¡un rey está preso entre sus rizos!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "6 (7) Amor mío, mujer encantadora,",
+            "¡qué bella, qué hermosa eres!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "7 (8) Tu porte es como el porte de una palmera;",
+            "tus pechos son como racimos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "8 (9) Yo pienso subir a la palmera",
+            "y adueñarme de sus racimos.",
+            "Tus pechos serán entonces",
+            "como racimos de uvas;",
+            "tu aliento, perfume de manzanas;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "9 (10) tu paladar, como el buen vino",
+            "que resbala suavemente",
+            "por los labios y los dientes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Ella"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "10 (11) Yo soy de mi amado:",
+            "los impulsos de su amor lo atraen a mí."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "11 (12) ¡Anda, amado mío, vayamos al campo!",
+            "Pasaremos la noche entre flores de alheña."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "12 (13) Por la mañana iremos a los viñedos,",
+            "a ver si ya tienen brotes,",
+            "si se abren ya sus botones,",
+            "si ya han florecido los granados.",
+            "¡Allí te daré mi amor!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "13 (14) Las mandrágoras esparcen su aroma.",
+            "A nuestra puerta hay fruta de todas clases:",
+            "fruta seca y fruta recién cortada,",
+            "que para ti, amado mío, aparté."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "SNG.8",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "SNG.8"
+        ],
+        "human": "Cantares 8"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "ISA.1"
+        ],
+        "human": "Isaías 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "SNG.7"
+        ],
+        "human": "Cantares 7",
+        "toc": true
+      },
+      "chapter_text": "¡Ojalá fueras tú un hermano mío,\ncriado a los pechos de mi madre!\nAsí, al encontrarte en la calle,\npodría besarte y nadie se burlaría de mí;\npodría llevarte a la casa de mi madre,\nte haría entrar en ella,\ny tú serías mi maestro.\nYo te daría a beber del mejor vino\ny del jugo de mis granadas.\n\n¡Que ponga él su izquierda bajo mi cabeza,\ny que con su derecha me abrace!\n\nPrométanme, mujeres de Jerusalén,\nno interrumpir el sueño de mi amor.\n¡Déjenla dormir hasta que quiera despertar!\n\n\n¿Quién es esta que viene del desierto,\nrecostada en el hombro de su amado?\n\nBajo un manzano interrumpí tu sueño:\nallí donde tu madre tuvo dolores;\nallí donde tu madre te dio a luz.\n\nLlévame grabada en tu corazón,\n¡llévame grabada en tu brazo!\nEl amor es inquebrantable como la muerte;\nla pasión, inflexible como el sepulcro.\n¡El fuego ardiente del amor\nes una llama divina!\nEl agua de todos los mares\nno podría apagar el amor;\ntampoco los ríos podrían extinguirlo.\nSi alguien ofreciera todas sus riquezas\na cambio del amor,\nburlas tan solo recibiría.\n\nNuestra hermanita no tiene pechos.\n¿Qué vamos a hacer con ella\ncuando vengan a pedirla?\nSi fuera una muralla,\nconstruiríamos sobre ella almenas de plata;\nsi fuera una puerta,\nla recubriríamos con tablas de cedro.\n\nYo soy como una muralla,\ny mis pechos como torres.\nPor eso, a los ojos de él,\nya he encontrado la felicidad.\n\nSalomón tenía un viñedo en Baal-hamón.\nLo dejó al cuidado de unos guardianes,\nque al llegar la cosecha le entregaban\nmil monedas de plata cada uno.\nLas mil monedas son para ti, Salomón,\ny doscientas para los guardianes;\n¡yo cuido mi propia viña!\n\n¡Déjame oír tu voz,\noh reina de los jardines!\n¡Nuestros amigos esperan escucharla!\n\n¡Corre, amado mío,\ncorre como un venado,\ncomo el hijo de una gacela\nsobre los montes llenos de aromas!",
+      "chapter_html": "<div class=\"version vid1846 iso6393spa\" data-vid=\"1846\" data-iso6393=\"spa\">\n   <div class=\"book bkSNG\">\n      <div class=\"chapter ch8\" data-usfm=\"SNG.8\">\n         <div class=\"label\">8</div><div class=\"q1\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"SNG.8.1\"><span class=\"label\">1</span><span class=\"content\">&#161;Ojal&#225; fueras t&#250; un hermano m&#237;o, </span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.8.1\"><span class=\"content\">criado a los pechos de mi madre!</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.8.1\"><span class=\"content\">As&#237;, al encontrarte en la calle,</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.8.1\"><span class=\"content\">podr&#237;a besarte y nadie se burlar&#237;a de m&#237;;</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.8.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"SNG.8.2\"><span class=\"label\">2</span><span class=\"content\">podr&#237;a llevarte a la casa de mi madre,</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.8.2\"><span class=\"content\">te har&#237;a entrar en ella,</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.8.2\"><span class=\"content\">y t&#250; ser&#237;as mi maestro.</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.8.2\"><span class=\"content\">Yo te dar&#237;a a beber del mejor vino</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.8.2\"><span class=\"content\">y del jugo de mis granadas.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.8.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"SNG.8.3\"><span class=\"label\">3</span><span class=\"content\">&#161;Que ponga &#233;l su izquierda bajo mi cabeza,</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.8.3\"><span class=\"content\">y que con su derecha me abrace!</span></span></div><div class=\"sp\"><span class=\"heading\">&#201;l</span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.8.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"SNG.8.4\"><span class=\"label\">4</span><span class=\"content\">Prom&#233;tanme, mujeres de Jerusal&#233;n,</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.8.4\"><span class=\"content\">no interrumpir el sue&#241;o de mi amor.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.8.4\"><span class=\"content\">&#161;D&#233;jenla dormir hasta que quiera despertar!</span></span></div><div class=\"s1\"><span class=\"heading\">Sexto canto</span></div><div class=\"sp\"><span class=\"heading\">Coro</span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.8.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"SNG.8.5\"><span class=\"label\">5</span><span class=\"content\">&#191;Qui&#233;n es esta que viene del desierto,</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.8.5\"><span class=\"content\">recostada en el hombro de su amado?</span></span></div><div class=\"sp\"><span class=\"heading\">&#201;l</span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.8.5\"><span class=\"content\">Bajo un manzano interrump&#237; tu sue&#241;o:</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.8.5\"><span class=\"content\">all&#237; donde tu madre tuvo dolores;</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.8.5\"><span class=\"content\">all&#237; donde tu madre te dio a luz.</span></span></div><div class=\"sp\"><span class=\"heading\">Ella</span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.8.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"SNG.8.6\"><span class=\"label\">6</span><span class=\"content\">Ll&#233;vame grabada en tu coraz&#243;n,</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.8.6\"><span class=\"content\">&#161;ll&#233;vame grabada en tu brazo!</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.8.6\"><span class=\"content\">El amor es inquebrantable como la muerte;</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.8.6\"><span class=\"content\">la pasi&#243;n, inflexible como el sepulcro.</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.8.6\"><span class=\"content\">&#161;El fuego ardiente del amor</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.8.6\"><span class=\"content\">es una llama divina!</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.8.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"SNG.8.7\"><span class=\"label\">7</span><span class=\"content\">El agua de todos los mares </span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.8.7\"><span class=\"content\">no podr&#237;a apagar el amor;</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.8.7\"><span class=\"content\">tampoco los r&#237;os podr&#237;an extinguirlo.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.8.7\"><span class=\"content\">Si alguien ofreciera todas sus riquezas</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.8.7\"><span class=\"content\">a cambio del amor,</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.8.7\"><span class=\"content\">burlas tan solo recibir&#237;a.</span></span></div><div class=\"sp\"><span class=\"heading\">Coro</span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.8.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"SNG.8.8\"><span class=\"label\">8</span><span class=\"content\">Nuestra hermanita no tiene pechos.</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.8.8\"><span class=\"content\">&#191;Qu&#233; vamos a hacer con ella</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.8.8\"><span class=\"content\">cuando vengan a pedirla?</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.8.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"SNG.8.9\"><span class=\"label\">9</span><span class=\"content\">Si fuera una muralla,</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.8.9\"><span class=\"content\">construir&#237;amos sobre ella almenas de plata;</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.8.9\"><span class=\"content\">si fuera una puerta,</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.8.9\"><span class=\"content\">la recubrir&#237;amos con tablas de cedro.</span></span></div><div class=\"sp\"><span class=\"heading\">Ella</span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.8.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"SNG.8.10\"><span class=\"label\">10</span><span class=\"content\">Yo soy como una muralla,</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.8.10\"><span class=\"content\">y mis pechos como torres.</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.8.10\"><span class=\"content\">Por eso, a los ojos de &#233;l,</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.8.10\"><span class=\"content\">ya he encontrado la felicidad.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.8.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"SNG.8.11\"><span class=\"label\">11</span><span class=\"content\">Salom&#243;n ten&#237;a un vi&#241;edo en Baal-ham&#243;n.</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"SNG.8.11\"><span class=\"content\">Lo dej&#243; al cuidado de unos guardianes,</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"SNG.8.11\"><span class=\"content\">que al llegar la cosecha le entregaban</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"SNG.8.11\"><span class=\"content\">mil monedas de plata cada uno.</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"SNG.8.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"SNG.8.12\"><span class=\"label\">12</span><span class=\"content\">Las mil monedas son para ti, Salom&#243;n,</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"SNG.8.12\"><span class=\"content\">y doscientas para los guardianes;</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"SNG.8.12\"><span class=\"content\">&#161;yo cuido mi propia vi&#241;a!</span></span></div><div class=\"sp\"><span class=\"heading\">&#201;l</span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"SNG.8.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"SNG.8.13\"><span class=\"label\">13</span><span class=\"content\">&#161;D&#233;jame o&#237;r tu voz,</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"SNG.8.13\"><span class=\"content\">oh reina de los jardines!</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"SNG.8.13\"><span class=\"content\">&#161;Nuestros amigos esperan escucharla!</span></span></div><div class=\"sp\"><span class=\"heading\">Ella</span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"SNG.8.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"SNG.8.14\"><span class=\"label\">14</span><span class=\"content\">&#161;Corre, amado m&#237;o,</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"SNG.8.14\"><span class=\"content\">corre como un venado,</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"SNG.8.14\"><span class=\"content\">como el hijo de una gacela</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"SNG.8.14\"><span class=\"content\">sobre los montes llenos de aromas!</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "¡Ojalá fueras tú un hermano mío,",
+            "criado a los pechos de mi madre!",
+            "Así, al encontrarte en la calle,",
+            "podría besarte y nadie se burlaría de mí;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "podría llevarte a la casa de mi madre,",
+            "te haría entrar en ella,",
+            "y tú serías mi maestro.",
+            "Yo te daría a beber del mejor vino",
+            "y del jugo de mis granadas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "¡Que ponga él su izquierda bajo mi cabeza,",
+            "y que con su derecha me abrace!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Él"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Prométanme, mujeres de Jerusalén,",
+            "no interrumpir el sueño de mi amor.",
+            "¡Déjenla dormir hasta que quiera despertar!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Sexto canto"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Coro"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "¿Quién es esta que viene del desierto,",
+            "recostada en el hombro de su amado?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Él"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Bajo un manzano interrumpí tu sueño:",
+            "allí donde tu madre tuvo dolores;",
+            "allí donde tu madre te dio a luz."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Ella"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Llévame grabada en tu corazón,",
+            "¡llévame grabada en tu brazo!",
+            "El amor es inquebrantable como la muerte;",
+            "la pasión, inflexible como el sepulcro.",
+            "¡El fuego ardiente del amor",
+            "es una llama divina!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "El agua de todos los mares",
+            "no podría apagar el amor;",
+            "tampoco los ríos podrían extinguirlo.",
+            "Si alguien ofreciera todas sus riquezas",
+            "a cambio del amor,",
+            "burlas tan solo recibiría."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Coro"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Nuestra hermanita no tiene pechos.",
+            "¿Qué vamos a hacer con ella",
+            "cuando vengan a pedirla?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Si fuera una muralla,",
+            "construiríamos sobre ella almenas de plata;",
+            "si fuera una puerta,",
+            "la recubriríamos con tablas de cedro."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Ella"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Yo soy como una muralla,",
+            "y mis pechos como torres.",
+            "Por eso, a los ojos de él,",
+            "ya he encontrado la felicidad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Salomón tenía un viñedo en Baal-hamón.",
+            "Lo dejó al cuidado de unos guardianes,",
+            "que al llegar la cosecha le entregaban",
+            "mil monedas de plata cada uno."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Las mil monedas son para ti, Salomón,",
+            "y doscientas para los guardianes;",
+            "¡yo cuido mi propia viña!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Él"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "¡Déjame oír tu voz,",
+            "oh reina de los jardines!",
+            "¡Nuestros amigos esperan escucharla!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Ella"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "¡Corre, amado mío,",
+            "corre como un venado,",
+            "como el hijo de una gacela",
+            "sobre los montes llenos de aromas!"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

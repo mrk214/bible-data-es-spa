@@ -1,0 +1,728 @@
+{
+  "book_usfm": "HAB",
+  "name": "Habacuc",
+  "local_title": "Dios habla Hoy Estándar",
+  "local_abbreviation": "DHHS94",
+  "version_id": 1846,
+  "publisher": {
+    "name": "United Bible Societies"
+  },
+  "copyright": {
+    "html": "<p>Bible text: LA BIBLIA DIOS HABLA HOY, Tercera edición © Sociedades Bíblicas Unidas 1966, 1970, 1979, 1983, 1994, 1996</p> <p>Todos los derechos reservados. www.unitedbiblesocieties.org/</p>",
+    "text": "Bible text: LA BIBLIA DIOS HABLA HOY, Tercera edición © Sociedades Bíblicas Unidas 1966, 1970, 1979, 1983, 1994, 1996 Todos los derechos reservados. www.unitedbiblesocieties.org/"
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "HAB.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "HAB.1"
+        ],
+        "human": "Habacuc 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "HAB.2"
+        ],
+        "human": "Habacuc 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "NAM.3"
+        ],
+        "human": "Nahúm 3",
+        "toc": true
+      },
+      "chapter_text": "Este es el mensaje que el Señor reveló al profeta Habacuc.\nSeñor, ¿hasta cuándo gritaré pidiendo ayuda\nsin que tú me escuches?\n¿Hasta cuándo clamaré a causa de la violencia\nsin que vengas a librarnos?\n¿Por qué me haces ver\ntanta angustia y maldad?\nEstoy rodeado de violencia y destrucción;\npor todas partes hay pleitos y luchas.\nNo se aplica la ley,\nse pisotea el derecho,\nel malo persigue al bueno\ny se tuerce la justicia.\n«Miren ustedes a las naciones que los rodean;\nmírenlas y llénense de espanto.\nEstoy a punto de hacer cosas tales\nque ustedes no las creerían, si alguien se las contara.\nVoy a poner en pie de guerra a los caldeos,\nque son gente cruel, que siempre están dispuestos\na recorrer el mundo de lado a lado\npara adueñarse de tierras que no les pertenecen.\nSon espantosos y terribles,\ny no reconocen más ley que la suya.\nSus caballos son más veloces que los leopardos,\nmás salvajes que los lobos del desierto.\nSus jinetes galopan en gran número\ny se lanzan al ataque desde lejos,\ncomo el águila se lanza sobre su presa.\nTodo lo destruyen a su paso;\nen su avance van sembrando el terror,\ny son más los prisioneros que hacen\nque las arenas que hay en el mar.\nSe burlan de los reyes\ny de la gente importante.\nSe ríen de las fortalezas,\npues levantan rampas ante ellas\ny las toman por asalto.\nPasan como un huracán;\nno reconocen más dios que su propia fuerza.»\nSeñor, ¿acaso no existes tú eternamente,\nmi Dios santo e inmortal?\nSeñor y protector mío,\ntú has dado fuerza a los caldeos\npara que ellos ejecuten tu justicia.\nTú eres demasiado puro para consentir el mal,\npara contemplar con agrado la iniquidad;\n¿cómo, pues, contemplas callado a los criminales,\ny guardas silencio mientras el malvado\ndestruye a los que son mejores que él?\n¿Por qué tratas a los hombres\ncomo a peces del mar,\ncomo a animales sin gobierno?\nLos caldeos se apoderan de otras naciones\ncomo el pescador se apodera del pescado:\nlo atrapa con anzuelos y con redes,\ny luego, al verlo todo junto, se llena de alegría.\nPor eso el pescador adora sus redes y anzuelos,\ny ofrece sacrificios y quema incienso en su honor,\npues gracias a ellos tiene comida buena y abundante.\nAsí, ¿seguirán los caldeos pescándonos con sus redes?\n¿Seguirán matando sin compasión a la gente?",
+      "chapter_html": "<div class=\"version vid1846 iso6393spa\" data-vid=\"1846\" data-iso6393=\"spa\">\n   <div class=\"book bkHAB\">\n      <div class=\"chapter ch1\" data-usfm=\"HAB.1\">\n         <div class=\"label\">1</div><div class=\"s1\"><span class=\"heading\">Di&#225;logo entre el profeta y el Se&#241;or</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"HAB.1.1\"><span class=\"label\">1</span><span class=\"content\">Este es el mensaje que el Se&#241;or revel&#243; al profeta Habacuc.</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"HAB.1.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"HAB.1.2\"><span class=\"label\">2</span><span class=\"content\">Se&#241;or, &#191;hasta cu&#225;ndo gritar&#233; pidiendo ayuda</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"HAB.1.2\"><span class=\"content\">sin que t&#250; me escuches?</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"HAB.1.2\"><span class=\"content\">&#191;Hasta cu&#225;ndo clamar&#233; a causa de la violencia</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"HAB.1.2\"><span class=\"content\">sin que vengas a librarnos?</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"HAB.1.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"HAB.1.3\"><span class=\"label\">3</span><span class=\"content\">&#191;Por qu&#233; me haces ver</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"HAB.1.3\"><span class=\"content\">tanta angustia y maldad?</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"HAB.1.3\"><span class=\"content\">Estoy rodeado de violencia y destrucci&#243;n;</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"HAB.1.3\"><span class=\"content\">por todas partes hay pleitos y luchas.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"HAB.1.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"HAB.1.4\"><span class=\"label\">4</span><span class=\"content\">No se aplica la ley,</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"HAB.1.4\"><span class=\"content\">se pisotea el derecho,</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"HAB.1.4\"><span class=\"content\">el malo persigue al bueno</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"HAB.1.4\"><span class=\"content\">y se tuerce la justicia.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"HAB.1.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"HAB.1.5\"><span class=\"label\">5</span><span class=\"content\">&#171;Miren ustedes a las naciones que los rodean;</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"HAB.1.5\"><span class=\"content\">m&#237;renlas y ll&#233;nense de espanto.</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"HAB.1.5\"><span class=\"content\">Estoy a punto de hacer cosas tales</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"HAB.1.5\"><span class=\"content\">que ustedes no las creer&#237;an, si alguien se las contara. </span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"HAB.1.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"HAB.1.6\"><span class=\"label\">6</span><span class=\"content\">Voy a poner en pie de guerra a los caldeos, </span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"HAB.1.6\"><span class=\"content\">que son gente cruel, que siempre est&#225;n dispuestos</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"HAB.1.6\"><span class=\"content\">a recorrer el mundo de lado a lado</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"HAB.1.6\"><span class=\"content\">para adue&#241;arse de tierras que no les pertenecen.</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"HAB.1.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"HAB.1.7\"><span class=\"label\">7</span><span class=\"content\">Son espantosos y terribles,</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"HAB.1.7\"><span class=\"content\">y no reconocen m&#225;s ley que la suya.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"HAB.1.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"HAB.1.8\"><span class=\"label\">8</span><span class=\"content\">Sus caballos son m&#225;s veloces que los leopardos,</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"HAB.1.8\"><span class=\"content\">m&#225;s salvajes que los lobos del desierto.</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"HAB.1.8\"><span class=\"content\">Sus jinetes galopan en gran n&#250;mero</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"HAB.1.8\"><span class=\"content\">y se lanzan al ataque desde lejos,</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"HAB.1.8\"><span class=\"content\">como el &#225;guila se lanza sobre su presa.</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"HAB.1.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"HAB.1.9\"><span class=\"label\">9</span><span class=\"content\">Todo lo destruyen a su paso;</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"HAB.1.9\"><span class=\"content\">en su avance van sembrando el terror,</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"HAB.1.9\"><span class=\"content\">y son m&#225;s los prisioneros que hacen</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"HAB.1.9\"><span class=\"content\">que las arenas que hay en el mar.</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"HAB.1.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"HAB.1.10\"><span class=\"label\">10</span><span class=\"content\">Se burlan de los reyes</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"HAB.1.10\"><span class=\"content\">y de la gente importante.</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"HAB.1.10\"><span class=\"content\">Se r&#237;en de las fortalezas,</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"HAB.1.10\"><span class=\"content\">pues levantan rampas ante ellas</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"HAB.1.10\"><span class=\"content\">y las toman por asalto.</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"HAB.1.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"HAB.1.11\"><span class=\"label\">11</span><span class=\"content\">Pasan como un hurac&#225;n;</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"HAB.1.11\"><span class=\"content\">no reconocen m&#225;s dios que su propia fuerza.&#187;</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"HAB.1.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"HAB.1.12\"><span class=\"label\">12</span><span class=\"content\">Se&#241;or, &#191;acaso no existes t&#250; eternamente,</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"HAB.1.12\"><span class=\"content\">mi Dios santo e inmortal?</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"HAB.1.12\"><span class=\"content\">Se&#241;or y protector m&#237;o,</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"HAB.1.12\"><span class=\"content\">t&#250; has dado fuerza a los caldeos</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"HAB.1.12\"><span class=\"content\">para que ellos ejecuten tu justicia.</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"HAB.1.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"HAB.1.13\"><span class=\"label\">13</span><span class=\"content\">T&#250; eres demasiado puro para consentir el mal,</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"HAB.1.13\"><span class=\"content\">para contemplar con agrado la iniquidad;</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"HAB.1.13\"><span class=\"content\">&#191;c&#243;mo, pues, contemplas callado a los criminales,</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"HAB.1.13\"><span class=\"content\">y guardas silencio mientras el malvado</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"HAB.1.13\"><span class=\"content\">destruye a los que son mejores que &#233;l?</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"HAB.1.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"HAB.1.14\"><span class=\"label\">14</span><span class=\"content\">&#191;Por qu&#233; tratas a los hombres</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"HAB.1.14\"><span class=\"content\">como a peces del mar,</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"HAB.1.14\"><span class=\"content\">como a animales sin gobierno?</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"HAB.1.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"HAB.1.15\"><span class=\"label\">15</span><span class=\"content\">Los caldeos se apoderan de otras naciones</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"HAB.1.15\"><span class=\"content\">como el pescador se apodera del pescado:</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"HAB.1.15\"><span class=\"content\">lo atrapa con anzuelos y con redes,</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"HAB.1.15\"><span class=\"content\">y luego, al verlo todo junto, se llena de alegr&#237;a.</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"HAB.1.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"HAB.1.16\"><span class=\"label\">16</span><span class=\"content\">Por eso el pescador adora sus redes y anzuelos,</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"HAB.1.16\"><span class=\"content\">y ofrece sacrificios y quema incienso en su honor,</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"HAB.1.16\"><span class=\"content\">pues gracias a ellos tiene comida buena y abundante.</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"HAB.1.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"HAB.1.17\"><span class=\"label\">17</span><span class=\"content\">As&#237;, &#191;seguir&#225;n los caldeos pesc&#225;ndonos con sus redes?</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"HAB.1.17\"><span class=\"content\">&#191;Seguir&#225;n matando sin compasi&#243;n a la gente?</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Diálogo entre el profeta y el Señor"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Este es el mensaje que el Señor reveló al profeta Habacuc."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Señor, ¿hasta cuándo gritaré pidiendo ayuda",
+            "sin que tú me escuches?",
+            "¿Hasta cuándo clamaré a causa de la violencia",
+            "sin que vengas a librarnos?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "¿Por qué me haces ver",
+            "tanta angustia y maldad?",
+            "Estoy rodeado de violencia y destrucción;",
+            "por todas partes hay pleitos y luchas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "No se aplica la ley,",
+            "se pisotea el derecho,",
+            "el malo persigue al bueno",
+            "y se tuerce la justicia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "«Miren ustedes a las naciones que los rodean;",
+            "mírenlas y llénense de espanto.",
+            "Estoy a punto de hacer cosas tales",
+            "que ustedes no las creerían, si alguien se las contara."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Voy a poner en pie de guerra a los caldeos,",
+            "que son gente cruel, que siempre están dispuestos",
+            "a recorrer el mundo de lado a lado",
+            "para adueñarse de tierras que no les pertenecen."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Son espantosos y terribles,",
+            "y no reconocen más ley que la suya."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Sus caballos son más veloces que los leopardos,",
+            "más salvajes que los lobos del desierto.",
+            "Sus jinetes galopan en gran número",
+            "y se lanzan al ataque desde lejos,",
+            "como el águila se lanza sobre su presa."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Todo lo destruyen a su paso;",
+            "en su avance van sembrando el terror,",
+            "y son más los prisioneros que hacen",
+            "que las arenas que hay en el mar."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Se burlan de los reyes",
+            "y de la gente importante.",
+            "Se ríen de las fortalezas,",
+            "pues levantan rampas ante ellas",
+            "y las toman por asalto."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Pasan como un huracán;",
+            "no reconocen más dios que su propia fuerza.»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Señor, ¿acaso no existes tú eternamente,",
+            "mi Dios santo e inmortal?",
+            "Señor y protector mío,",
+            "tú has dado fuerza a los caldeos",
+            "para que ellos ejecuten tu justicia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Tú eres demasiado puro para consentir el mal,",
+            "para contemplar con agrado la iniquidad;",
+            "¿cómo, pues, contemplas callado a los criminales,",
+            "y guardas silencio mientras el malvado",
+            "destruye a los que son mejores que él?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "¿Por qué tratas a los hombres",
+            "como a peces del mar,",
+            "como a animales sin gobierno?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Los caldeos se apoderan de otras naciones",
+            "como el pescador se apodera del pescado:",
+            "lo atrapa con anzuelos y con redes,",
+            "y luego, al verlo todo junto, se llena de alegría."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Por eso el pescador adora sus redes y anzuelos,",
+            "y ofrece sacrificios y quema incienso en su honor,",
+            "pues gracias a ellos tiene comida buena y abundante."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Así, ¿seguirán los caldeos pescándonos con sus redes?",
+            "¿Seguirán matando sin compasión a la gente?"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "HAB.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "HAB.2"
+        ],
+        "human": "Habacuc 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "HAB.3"
+        ],
+        "human": "Habacuc 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "HAB.1"
+        ],
+        "human": "Habacuc 1",
+        "toc": true
+      },
+      "chapter_text": "Estaré atento y vigilante,\ncomo lo está el centinela en su puesto,\npara ver qué me dice el Señor\ny qué respuesta da a mis quejas.\n\nEl Señor me contestó:\n«Escribe en tablas de barro lo que te voy a mostrar,\nde modo que pueda leerse de corrido.\nAún no ha llegado el momento\nde que esta visión se cumpla;\npero no dejará de cumplirse.\nTú espera, aunque parezca tardar,\npues llegará en el momento preciso.\n\nEscribe que los malvados son orgullosos,\npero los justos vivirán por su fidelidad a Dios.»\nLos hombres orgullosos desean el poder;\nlo buscan sin descanso y siempre quieren más,\naun cuando el poder es traicionero.\nAbren su boca, como el sepulcro;\nson insaciables, como la muerte,\ny por eso se lanzan a conquistar\nnación tras nación.\nPero todas las naciones conquistadas\nse burlarán del que las conquistó, cantándole:\n«¡Ay de ti, que te haces rico\ncon lo que no te pertenece!\n¿Hasta cuándo seguirás amontonando\nlas riquezas que tomaste prestadas?»\n\nCuando menos lo esperes, llegarán tus acreedores,\ndespertarán los que te atormentan\ny te dejarán desnudo.\nLas naciones se unirán en contra tuya\ny te saquearán como tú las saqueaste a ellas.\nTe harán pagar todos tus crímenes,\nlas violencias que cometiste en el país\ncontra las ciudades y sus habitantes.\n\n¡Ay de ti, que has llenado tu casa\ncon el producto de tus robos,\npara ponerte a salvo de todo peligro!\nDe ese modo has cubierto tu casa de vergüenza,\ny has causado tu propia destrucción\nal destruir a numerosas naciones.\nAun las piedras de los muros\ny la madera de las vigas\ngritarán en contra tuya.\n\n¡Ay de ti, que construyes tus ciudades\nsobre la base del crimen y la injusticia!\nEl Señor todopoderoso\nva a hacer inútil tu trabajo y tu fatiga,\npues todas tus obras serán destruidas por el fuego.\nY el conocimiento de la gloria del Señor\nllenará entonces toda la tierra,\ncomo las aguas llenan el mar.\n\n¡Ay de ti, que emborrachas a tus vecinos\ndándoles vino mezclado con drogas,\npara humillarlos contemplando su desnudez!\nEn lugar de honor, te cubrirás de vergüenza,\nporque el Señor va a darte a beber una copa\nque te hará mostrar tu incircuncisión\ny convertirá en humillación tu gloria.\nLas violencias que le hiciste al monte Líbano\nse volverán en contra tuya,\ny te espantarás por la matanza de sus animales.\nEsto te vendrá a causa de tus crímenes\ny de las violencias que cometiste en el país\ncontra las ciudades y sus habitantes.\n\n¿De qué sirve una escultura\nen cuanto ha sido terminada?\n¿De qué sirve una imagen\nque solo lleva a la mentira?\nLos ídolos no pueden hablar;\n¿cómo, pues, podrá confiar en ellos\nel hombre que los fabrica?\n\n¡Ay de ti, que a un ídolo de madera\nle dices que despierte,\ny a una piedra muda, que se ponga de pie!\n¿Podrán ellos comunicar mensaje alguno?\n¡No, porque no tienen vida propia,\naunque estén recubiertos de oro y plata!\nPero el Señor está en su santo templo:\n¡guarde silencio delante de él toda la tierra!",
+      "chapter_html": "<div class=\"version vid1846 iso6393spa\" data-vid=\"1846\" data-iso6393=\"spa\">\n   <div class=\"book bkHAB\">\n      <div class=\"chapter ch2\" data-usfm=\"HAB.2\">\n         <div class=\"label\">2</div><div class=\"q1\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"HAB.2.1\"><span class=\"label\">1</span><span class=\"content\">Estar&#233; atento y vigilante,</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"HAB.2.1\"><span class=\"content\">como lo est&#225; el centinela en su puesto,</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"HAB.2.1\"><span class=\"content\">para ver qu&#233; me dice el Se&#241;or</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"HAB.2.1\"><span class=\"content\">y qu&#233; respuesta da a mis quejas.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"HAB.2.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"HAB.2.2\"><span class=\"label\">2</span><span class=\"content\">El Se&#241;or me contest&#243;:</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"HAB.2.2\"><span class=\"content\">&#171;Escribe en tablas de barro lo que te voy a mostrar,</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"HAB.2.2\"><span class=\"content\">de modo que pueda leerse de corrido. </span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"HAB.2.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"HAB.2.3\"><span class=\"label\">3</span><span class=\"content\">A&#250;n no ha llegado el momento</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"HAB.2.3\"><span class=\"content\">de que esta visi&#243;n se cumpla;</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"HAB.2.3\"><span class=\"content\">pero no dejar&#225; de cumplirse.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"HAB.2.3\"><span class=\"content\">T&#250; espera, aunque parezca tardar,</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"HAB.2.3\"><span class=\"content\">pues llegar&#225; en el momento preciso.</span></span></div><div class=\"s1\"><span class=\"heading\">El destino de los opresores</span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"HAB.2.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"HAB.2.4\"><span class=\"label\">4</span><span class=\"content\">Escribe que los malvados son orgullosos,</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"HAB.2.4\"><span class=\"content\">pero los justos vivir&#225;n por su fidelidad a Dios.&#187; </span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"HAB.2.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"HAB.2.5\"><span class=\"label\">5</span><span class=\"content\"> Los hombres orgullosos desean el poder;</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"HAB.2.5\"><span class=\"content\">lo buscan sin descanso y siempre quieren m&#225;s,</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"HAB.2.5\"><span class=\"content\">aun cuando el poder es traicionero. </span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"HAB.2.5\"><span class=\"content\">Abren su boca, como el sepulcro;</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"HAB.2.5\"><span class=\"content\">son insaciables, como la muerte,</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"HAB.2.5\"><span class=\"content\">y por eso se lanzan a conquistar</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"HAB.2.5\"><span class=\"content\">naci&#243;n tras naci&#243;n.</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"HAB.2.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"HAB.2.6\"><span class=\"label\">6</span><span class=\"content\">Pero todas las naciones conquistadas</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"HAB.2.6\"><span class=\"content\">se burlar&#225;n del que las conquist&#243;, cant&#225;ndole:</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"HAB.2.6\"><span class=\"content\">&#171;&#161;Ay de ti, que te haces rico</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"HAB.2.6\"><span class=\"content\">con lo que no te pertenece!</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"HAB.2.6\"><span class=\"content\">&#191;Hasta cu&#225;ndo seguir&#225;s amontonando</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"HAB.2.6\"><span class=\"content\">las riquezas que tomaste prestadas?&#187;</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"HAB.2.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"HAB.2.7\"><span class=\"label\">7</span><span class=\"content\">Cuando menos lo esperes, llegar&#225;n tus acreedores,</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"HAB.2.7\"><span class=\"content\">despertar&#225;n los que te atormentan</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"HAB.2.7\"><span class=\"content\">y te dejar&#225;n desnudo.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"HAB.2.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"HAB.2.8\"><span class=\"label\">8</span><span class=\"content\">Las naciones se unir&#225;n en contra tuya</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"HAB.2.8\"><span class=\"content\">y te saquear&#225;n como t&#250; las saqueaste a ellas.</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"HAB.2.8\"><span class=\"content\">Te har&#225;n pagar todos tus cr&#237;menes,</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"HAB.2.8\"><span class=\"content\">las violencias que cometiste en el pa&#237;s</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"HAB.2.8\"><span class=\"content\">contra las ciudades y sus habitantes.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"HAB.2.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"HAB.2.9\"><span class=\"label\">9</span><span class=\"content\">&#161;Ay de ti, que has llenado tu casa</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"HAB.2.9\"><span class=\"content\">con el producto de tus robos,</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"HAB.2.9\"><span class=\"content\">para ponerte a salvo de todo peligro!</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"HAB.2.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"HAB.2.10\"><span class=\"label\">10</span><span class=\"content\">De ese modo has cubierto tu casa de verg&#252;enza,</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"HAB.2.10\"><span class=\"content\">y has causado tu propia destrucci&#243;n</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"HAB.2.10\"><span class=\"content\">al destruir a numerosas naciones.</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"HAB.2.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"HAB.2.11\"><span class=\"label\">11</span><span class=\"content\">Aun las piedras de los muros</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"HAB.2.11\"><span class=\"content\">y la madera de las vigas</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"HAB.2.11\"><span class=\"content\">gritar&#225;n en contra tuya.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"HAB.2.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"HAB.2.12\"><span class=\"label\">12</span><span class=\"content\">&#161;Ay de ti, que construyes tus ciudades</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"HAB.2.12\"><span class=\"content\">sobre la base del crimen y la injusticia!</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"HAB.2.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"HAB.2.13\"><span class=\"label\">13</span><span class=\"content\">El Se&#241;or todopoderoso</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"HAB.2.13\"><span class=\"content\">va a hacer in&#250;til tu trabajo y tu fatiga,</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"HAB.2.13\"><span class=\"content\">pues todas tus obras ser&#225;n destruidas por el fuego.</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"HAB.2.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"HAB.2.14\"><span class=\"label\">14</span><span class=\"content\">Y el conocimiento de la gloria del Se&#241;or</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"HAB.2.14\"><span class=\"content\">llenar&#225; entonces toda la tierra,</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"HAB.2.14\"><span class=\"content\">como las aguas llenan el mar.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"HAB.2.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"HAB.2.15\"><span class=\"label\">15</span><span class=\"content\">&#161;Ay de ti, que emborrachas a tus vecinos</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"HAB.2.15\"><span class=\"content\">d&#225;ndoles vino mezclado con drogas,</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"HAB.2.15\"><span class=\"content\">para humillarlos contemplando su desnudez!</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"HAB.2.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"HAB.2.16\"><span class=\"label\">16</span><span class=\"content\">En lugar de honor, te cubrir&#225;s de verg&#252;enza,</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"HAB.2.16\"><span class=\"content\">porque el Se&#241;or va a darte a beber una copa</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"HAB.2.16\"><span class=\"content\">que te har&#225; mostrar tu incircuncisi&#243;n</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"HAB.2.16\"><span class=\"content\">y convertir&#225; en humillaci&#243;n tu gloria.</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"HAB.2.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"HAB.2.17\"><span class=\"label\">17</span><span class=\"content\">Las violencias que le hiciste al monte L&#237;bano</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"HAB.2.17\"><span class=\"content\">se volver&#225;n en contra tuya,</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"HAB.2.17\"><span class=\"content\">y te espantar&#225;s por la matanza de sus animales.</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"HAB.2.17\"><span class=\"content\">Esto te vendr&#225; a causa de tus cr&#237;menes</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"HAB.2.17\"><span class=\"content\">y de las violencias que cometiste en el pa&#237;s</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"HAB.2.17\"><span class=\"content\">contra las ciudades y sus habitantes.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"HAB.2.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"HAB.2.18\"><span class=\"label\">18</span><span class=\"content\">&#191;De qu&#233; sirve una escultura</span></span></div><div class=\"q1\"><span class=\"verse v18\" data-usfm=\"HAB.2.18\"><span class=\"content\">en cuanto ha sido terminada?</span></span></div><div class=\"q1\"><span class=\"verse v18\" data-usfm=\"HAB.2.18\"><span class=\"content\">&#191;De qu&#233; sirve una imagen</span></span></div><div class=\"q1\"><span class=\"verse v18\" data-usfm=\"HAB.2.18\"><span class=\"content\">que solo lleva a la mentira?</span></span></div><div class=\"q1\"><span class=\"verse v18\" data-usfm=\"HAB.2.18\"><span class=\"content\">Los &#237;dolos no pueden hablar;</span></span></div><div class=\"q1\"><span class=\"verse v18\" data-usfm=\"HAB.2.18\"><span class=\"content\">&#191;c&#243;mo, pues, podr&#225; confiar en ellos</span></span></div><div class=\"q1\"><span class=\"verse v18\" data-usfm=\"HAB.2.18\"><span class=\"content\">el hombre que los fabrica?</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v18\" data-usfm=\"HAB.2.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"HAB.2.19\"><span class=\"label\">19</span><span class=\"content\">&#161;Ay de ti, que a un &#237;dolo de madera</span></span></div><div class=\"q1\"><span class=\"verse v19\" data-usfm=\"HAB.2.19\"><span class=\"content\">le dices que despierte,</span></span></div><div class=\"q1\"><span class=\"verse v19\" data-usfm=\"HAB.2.19\"><span class=\"content\">y a una piedra muda, que se ponga de pie!</span></span></div><div class=\"q1\"><span class=\"verse v19\" data-usfm=\"HAB.2.19\"><span class=\"content\">&#191;Podr&#225;n ellos comunicar mensaje alguno?</span></span></div><div class=\"q1\"><span class=\"verse v19\" data-usfm=\"HAB.2.19\"><span class=\"content\">&#161;No, porque no tienen vida propia,</span></span></div><div class=\"q1\"><span class=\"verse v19\" data-usfm=\"HAB.2.19\"><span class=\"content\">aunque est&#233;n recubiertos de oro y plata!</span></span></div><div class=\"q1\"><span class=\"verse v19\" data-usfm=\"HAB.2.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"HAB.2.20\"><span class=\"label\">20</span><span class=\"content\">Pero el Se&#241;or est&#225; en su santo templo:</span></span></div><div class=\"q1\"><span class=\"verse v20\" data-usfm=\"HAB.2.20\"><span class=\"content\">&#161;guarde silencio delante de &#233;l toda la tierra!</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Estaré atento y vigilante,",
+            "como lo está el centinela en su puesto,",
+            "para ver qué me dice el Señor",
+            "y qué respuesta da a mis quejas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "El Señor me contestó:",
+            "«Escribe en tablas de barro lo que te voy a mostrar,",
+            "de modo que pueda leerse de corrido."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Aún no ha llegado el momento",
+            "de que esta visión se cumpla;",
+            "pero no dejará de cumplirse.",
+            "Tú espera, aunque parezca tardar,",
+            "pues llegará en el momento preciso."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "El destino de los opresores"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Escribe que los malvados son orgullosos,",
+            "pero los justos vivirán por su fidelidad a Dios.»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Los hombres orgullosos desean el poder;",
+            "lo buscan sin descanso y siempre quieren más,",
+            "aun cuando el poder es traicionero.",
+            "Abren su boca, como el sepulcro;",
+            "son insaciables, como la muerte,",
+            "y por eso se lanzan a conquistar",
+            "nación tras nación."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Pero todas las naciones conquistadas",
+            "se burlarán del que las conquistó, cantándole:",
+            "«¡Ay de ti, que te haces rico",
+            "con lo que no te pertenece!",
+            "¿Hasta cuándo seguirás amontonando",
+            "las riquezas que tomaste prestadas?»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Cuando menos lo esperes, llegarán tus acreedores,",
+            "despertarán los que te atormentan",
+            "y te dejarán desnudo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Las naciones se unirán en contra tuya",
+            "y te saquearán como tú las saqueaste a ellas.",
+            "Te harán pagar todos tus crímenes,",
+            "las violencias que cometiste en el país",
+            "contra las ciudades y sus habitantes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "¡Ay de ti, que has llenado tu casa",
+            "con el producto de tus robos,",
+            "para ponerte a salvo de todo peligro!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "De ese modo has cubierto tu casa de vergüenza,",
+            "y has causado tu propia destrucción",
+            "al destruir a numerosas naciones."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Aun las piedras de los muros",
+            "y la madera de las vigas",
+            "gritarán en contra tuya."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "¡Ay de ti, que construyes tus ciudades",
+            "sobre la base del crimen y la injusticia!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "El Señor todopoderoso",
+            "va a hacer inútil tu trabajo y tu fatiga,",
+            "pues todas tus obras serán destruidas por el fuego."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Y el conocimiento de la gloria del Señor",
+            "llenará entonces toda la tierra,",
+            "como las aguas llenan el mar."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "¡Ay de ti, que emborrachas a tus vecinos",
+            "dándoles vino mezclado con drogas,",
+            "para humillarlos contemplando su desnudez!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "En lugar de honor, te cubrirás de vergüenza,",
+            "porque el Señor va a darte a beber una copa",
+            "que te hará mostrar tu incircuncisión",
+            "y convertirá en humillación tu gloria."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Las violencias que le hiciste al monte Líbano",
+            "se volverán en contra tuya,",
+            "y te espantarás por la matanza de sus animales.",
+            "Esto te vendrá a causa de tus crímenes",
+            "y de las violencias que cometiste en el país",
+            "contra las ciudades y sus habitantes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "¿De qué sirve una escultura",
+            "en cuanto ha sido terminada?",
+            "¿De qué sirve una imagen",
+            "que solo lleva a la mentira?",
+            "Los ídolos no pueden hablar;",
+            "¿cómo, pues, podrá confiar en ellos",
+            "el hombre que los fabrica?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "¡Ay de ti, que a un ídolo de madera",
+            "le dices que despierte,",
+            "y a una piedra muda, que se ponga de pie!",
+            "¿Podrán ellos comunicar mensaje alguno?",
+            "¡No, porque no tienen vida propia,",
+            "aunque estén recubiertos de oro y plata!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Pero el Señor está en su santo templo:",
+            "¡guarde silencio delante de él toda la tierra!"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "HAB.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "HAB.3"
+        ],
+        "human": "Habacuc 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "ZEP.1"
+        ],
+        "human": "Sofonías 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "HAB.2"
+        ],
+        "human": "Habacuc 2",
+        "toc": true
+      },
+      "chapter_text": "Esta es una oración del profeta Habacuc.\n\nLo que oigo acerca de ti, Señor,\ny de todo lo que has hecho,\nme llena de profunda reverencia.\nRealiza ahora, en nuestra vida,\ntus grandes acciones de otros tiempos,\npara que nosotros también las conozcamos.\nMuéstranos así tu compasión\naun en medio de tu enojo.\n\nDios viene de la región de Temán;\ndel monte Parán viene el Dios Santo.\nSu gloria se extiende por todo el cielo,\ny el mundo entero se llena de su alabanza.\nViene envuelto en brillante resplandor,\ny de sus manos brotan rayos de luz\nque muestran el poder que en él se esconde.\nDelante de él llegan plagas terribles,\ny detrás la fiebre abrasadora.\nLa tierra tiembla cuando él se detiene;\nse estremecen las naciones cuando las mira;\nlas viejas montañas se derrumban\ny se deshacen los montes antiguos;\npero los caminos de Dios son eternos.\n\nYo he visto a la gente de Cusán\nhundida en la desgracia,\na los habitantes de Madián\nencogidos por el miedo.\n¿Te has enojado, Señor, contra los ríos?\n¿Se ha encendido tu furor contra los mares?\n¿Cabalgas por eso en tus caballos\ny montas así en tu carro victorioso?\n\nTienes el arco preparado\ny dispuestas todas tus flechas.\nCon los ríos has abierto surcos en la tierra.\nLas montañas tiemblan al verte;\ncae del cielo la lluvia torrencial,\ny el mar profundo da su rugido\nmientras se alzan sus olas inmensas.\nEl sol y la luna no salen de su escondite\nante el vivo resplandor de tus flechas\ny la luz relampagueante de tu lanza.\nEn tu enojo recorres toda la tierra;\nen tu furor pisoteas las naciones.\nTú has salido en ayuda de tu pueblo\ny del rey que tú mismo escogiste.\nHas destruido el techo de la casa del malvado,\ny has descubierto hasta la roca sus cimientos.\nMataste a su jefe con sus propias flechas,\ncuando sus jinetes, como una tempestad,\nse lanzaron arrogantes\na dispersar a los indefensos,\npara destruirlos en secreto.\n\nCon tus caballos recorres el mar,\nla gran extensión de las aguas profundas.\n\nAl oír todo esto tuve miedo.\nMis labios se pusieron a temblar,\nmis piernas dejaron de sostenerme\ny todo mi cuerpo perdió sus fuerzas.\nAun así, esperaré tranquilo\nel día en que Dios ponga en angustia\nal ejército de nuestros opresores.\n\nEntonces me llenaré de alegría\na causa del Señor mi salvador.\nLe alabaré aunque no florezcan las higueras\nni den fruto los viñedos y los olivares;\naunque los campos no den su cosecha;\naunque se acaben los rebaños de ovejas\ny no haya reses en los establos.\nPorque el Señor me da fuerzas;\nda a mis piernas la ligereza del ciervo\ny me lleva a alturas donde estaré a salvo.",
+      "chapter_html": "<div class=\"version vid1846 iso6393spa\" data-vid=\"1846\" data-iso6393=\"spa\">\n   <div class=\"book bkHAB\">\n      <div class=\"chapter ch3\" data-usfm=\"HAB.3\">\n         <div class=\"label\">3</div><div class=\"s1\"><span class=\"heading\">Oraci&#243;n de Habacuc</span></div><div class=\"q1\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"HAB.3.1\"><span class=\"label\">1</span><span class=\"content\">Esta es una oraci&#243;n del profeta Habacuc.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"HAB.3.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"HAB.3.2\"><span class=\"label\">2</span><span class=\"content\">Lo que oigo acerca de ti, Se&#241;or,</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"HAB.3.2\"><span class=\"content\">y de todo lo que has hecho,</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"HAB.3.2\"><span class=\"content\">me llena de profunda reverencia.</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"HAB.3.2\"><span class=\"content\">Realiza ahora, en nuestra vida,</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"HAB.3.2\"><span class=\"content\">tus grandes acciones de otros tiempos,</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"HAB.3.2\"><span class=\"content\">para que nosotros tambi&#233;n las conozcamos.</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"HAB.3.2\"><span class=\"content\">Mu&#233;stranos as&#237; tu compasi&#243;n</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"HAB.3.2\"><span class=\"content\">aun en medio de tu enojo.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"HAB.3.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"HAB.3.3\"><span class=\"label\">3</span><span class=\"content\">Dios viene de la regi&#243;n de Tem&#225;n;</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"HAB.3.3\"><span class=\"content\">del monte Par&#225;n viene el Dios Santo.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"HAB.3.3\"><span class=\"content\">Su gloria se extiende por todo el cielo,</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"HAB.3.3\"><span class=\"content\">y el mundo entero se llena de su alabanza.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"HAB.3.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"HAB.3.4\"><span class=\"label\">4</span><span class=\"content\">Viene envuelto en brillante resplandor,</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"HAB.3.4\"><span class=\"content\">y de sus manos brotan rayos de luz</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"HAB.3.4\"><span class=\"content\">que muestran el poder que en &#233;l se esconde.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"HAB.3.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"HAB.3.5\"><span class=\"label\">5</span><span class=\"content\">Delante de &#233;l llegan plagas terribles,</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"HAB.3.5\"><span class=\"content\">y detr&#225;s la fiebre abrasadora.</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"HAB.3.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"HAB.3.6\"><span class=\"label\">6</span><span class=\"content\">La tierra tiembla cuando &#233;l se detiene;</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"HAB.3.6\"><span class=\"content\">se estremecen las naciones cuando las mira;</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"HAB.3.6\"><span class=\"content\">las viejas monta&#241;as se derrumban</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"HAB.3.6\"><span class=\"content\">y se deshacen los montes antiguos;</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"HAB.3.6\"><span class=\"content\">pero los caminos de Dios son eternos.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"HAB.3.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"HAB.3.7\"><span class=\"label\">7</span><span class=\"content\">Yo he visto a la gente de Cus&#225;n</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"HAB.3.7\"><span class=\"content\">hundida en la desgracia,</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"HAB.3.7\"><span class=\"content\">a los habitantes de Madi&#225;n</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"HAB.3.7\"><span class=\"content\">encogidos por el miedo.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"HAB.3.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"HAB.3.8\"><span class=\"label\">8</span><span class=\"content\">&#191;Te has enojado, Se&#241;or, contra los r&#237;os?</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"HAB.3.8\"><span class=\"content\">&#191;Se ha encendido tu furor contra los mares?</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"HAB.3.8\"><span class=\"content\">&#191;Cabalgas por eso en tus caballos</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"HAB.3.8\"><span class=\"content\">y montas as&#237; en tu carro victorioso?</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"HAB.3.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"HAB.3.9\"><span class=\"label\">9</span><span class=\"content\">Tienes el arco preparado</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"HAB.3.9\"><span class=\"content\">y dispuestas todas tus flechas.</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"HAB.3.9\"><span class=\"content\">Con los r&#237;os has abierto surcos en la tierra.</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"HAB.3.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"HAB.3.10\"><span class=\"label\">10</span><span class=\"content\">Las monta&#241;as tiemblan al verte;</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"HAB.3.10\"><span class=\"content\">cae del cielo la lluvia torrencial,</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"HAB.3.10\"><span class=\"content\">y el mar profundo da su rugido</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"HAB.3.10\"><span class=\"content\">mientras se alzan sus olas inmensas.</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"HAB.3.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"HAB.3.11\"><span class=\"label\">11</span><span class=\"content\">El sol y la luna no salen de su escondite</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"HAB.3.11\"><span class=\"content\">ante el vivo resplandor de tus flechas</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"HAB.3.11\"><span class=\"content\">y la luz relampagueante de tu lanza.</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"HAB.3.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"HAB.3.12\"><span class=\"label\">12</span><span class=\"content\">En tu enojo recorres toda la tierra;</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"HAB.3.12\"><span class=\"content\">en tu furor pisoteas las naciones.</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"HAB.3.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"HAB.3.13\"><span class=\"label\">13</span><span class=\"content\">T&#250; has salido en ayuda de tu pueblo</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"HAB.3.13\"><span class=\"content\">y del rey que t&#250; mismo escogiste.</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"HAB.3.13\"><span class=\"content\">Has destruido el techo de la casa del malvado,</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"HAB.3.13\"><span class=\"content\">y has descubierto hasta la roca sus cimientos.</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"HAB.3.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"HAB.3.14\"><span class=\"label\">14</span><span class=\"content\">Mataste a su jefe con sus propias flechas,</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"HAB.3.14\"><span class=\"content\">cuando sus jinetes, como una tempestad,</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"HAB.3.14\"><span class=\"content\">se lanzaron arrogantes</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"HAB.3.14\"><span class=\"content\">a dispersar a los indefensos,</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"HAB.3.14\"><span class=\"content\">para destruirlos en secreto.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"HAB.3.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"HAB.3.15\"><span class=\"label\">15</span><span class=\"content\">Con tus caballos recorres el mar,</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"HAB.3.15\"><span class=\"content\">la gran extensi&#243;n de las aguas profundas. </span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"HAB.3.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"HAB.3.16\"><span class=\"label\">16</span><span class=\"content\">Al o&#237;r todo esto tuve miedo.</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"HAB.3.16\"><span class=\"content\">Mis labios se pusieron a temblar,</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"HAB.3.16\"><span class=\"content\">mis piernas dejaron de sostenerme</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"HAB.3.16\"><span class=\"content\">y todo mi cuerpo perdi&#243; sus fuerzas.</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"HAB.3.16\"><span class=\"content\">Aun as&#237;, esperar&#233; tranquilo</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"HAB.3.16\"><span class=\"content\">el d&#237;a en que Dios ponga en angustia</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"HAB.3.16\"><span class=\"content\">al ej&#233;rcito de nuestros opresores.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"HAB.3.16\"><span class=\"content\">  </span></span><span class=\"verse v17 v18\" data-usfm=\"HAB.3.17+HAB.3.18\"><span class=\"label\">17-18</span><span class=\"content\">Entonces me llenar&#233; de alegr&#237;a</span></span></div><div class=\"q1\"><span class=\"verse v17 v18\" data-usfm=\"HAB.3.17+HAB.3.18\"><span class=\"content\">a causa del Se&#241;or mi salvador.</span></span></div><div class=\"q1\"><span class=\"verse v17 v18\" data-usfm=\"HAB.3.17+HAB.3.18\"><span class=\"content\">Le alabar&#233; aunque no florezcan las higueras</span></span></div><div class=\"q1\"><span class=\"verse v17 v18\" data-usfm=\"HAB.3.17+HAB.3.18\"><span class=\"content\">ni den fruto los vi&#241;edos y los olivares;</span></span></div><div class=\"q1\"><span class=\"verse v17 v18\" data-usfm=\"HAB.3.17+HAB.3.18\"><span class=\"content\">aunque los campos no den su cosecha;</span></span></div><div class=\"q1\"><span class=\"verse v17 v18\" data-usfm=\"HAB.3.17+HAB.3.18\"><span class=\"content\">aunque se acaben los reba&#241;os de ovejas</span></span></div><div class=\"q1\"><span class=\"verse v17 v18\" data-usfm=\"HAB.3.17+HAB.3.18\"><span class=\"content\">y no haya reses en los establos.</span></span></div><div class=\"q1\"><span class=\"verse v17 v18\" data-usfm=\"HAB.3.17+HAB.3.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"HAB.3.19\"><span class=\"label\">19</span><span class=\"content\">Porque el Se&#241;or me da fuerzas;</span></span></div><div class=\"q1\"><span class=\"verse v19\" data-usfm=\"HAB.3.19\"><span class=\"content\">da a mis piernas la ligereza del ciervo</span></span></div><div class=\"q1\"><span class=\"verse v19\" data-usfm=\"HAB.3.19\"><span class=\"content\">y me lleva a alturas donde estar&#233; a salvo.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Oración de Habacuc"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Esta es una oración del profeta Habacuc."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Lo que oigo acerca de ti, Señor,",
+            "y de todo lo que has hecho,",
+            "me llena de profunda reverencia.",
+            "Realiza ahora, en nuestra vida,",
+            "tus grandes acciones de otros tiempos,",
+            "para que nosotros también las conozcamos.",
+            "Muéstranos así tu compasión",
+            "aun en medio de tu enojo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Dios viene de la región de Temán;",
+            "del monte Parán viene el Dios Santo.",
+            "Su gloria se extiende por todo el cielo,",
+            "y el mundo entero se llena de su alabanza."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Viene envuelto en brillante resplandor,",
+            "y de sus manos brotan rayos de luz",
+            "que muestran el poder que en él se esconde."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Delante de él llegan plagas terribles,",
+            "y detrás la fiebre abrasadora."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "La tierra tiembla cuando él se detiene;",
+            "se estremecen las naciones cuando las mira;",
+            "las viejas montañas se derrumban",
+            "y se deshacen los montes antiguos;",
+            "pero los caminos de Dios son eternos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Yo he visto a la gente de Cusán",
+            "hundida en la desgracia,",
+            "a los habitantes de Madián",
+            "encogidos por el miedo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "¿Te has enojado, Señor, contra los ríos?",
+            "¿Se ha encendido tu furor contra los mares?",
+            "¿Cabalgas por eso en tus caballos",
+            "y montas así en tu carro victorioso?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Tienes el arco preparado",
+            "y dispuestas todas tus flechas.",
+            "Con los ríos has abierto surcos en la tierra."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Las montañas tiemblan al verte;",
+            "cae del cielo la lluvia torrencial,",
+            "y el mar profundo da su rugido",
+            "mientras se alzan sus olas inmensas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "El sol y la luna no salen de su escondite",
+            "ante el vivo resplandor de tus flechas",
+            "y la luz relampagueante de tu lanza."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "En tu enojo recorres toda la tierra;",
+            "en tu furor pisoteas las naciones."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Tú has salido en ayuda de tu pueblo",
+            "y del rey que tú mismo escogiste.",
+            "Has destruido el techo de la casa del malvado,",
+            "y has descubierto hasta la roca sus cimientos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Mataste a su jefe con sus propias flechas,",
+            "cuando sus jinetes, como una tempestad,",
+            "se lanzaron arrogantes",
+            "a dispersar a los indefensos,",
+            "para destruirlos en secreto."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Con tus caballos recorres el mar,",
+            "la gran extensión de las aguas profundas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Al oír todo esto tuve miedo.",
+            "Mis labios se pusieron a temblar,",
+            "mis piernas dejaron de sostenerme",
+            "y todo mi cuerpo perdió sus fuerzas.",
+            "Aun así, esperaré tranquilo",
+            "el día en que Dios ponga en angustia",
+            "al ejército de nuestros opresores.",
+            "Entonces me llenaré de alegría",
+            "a causa del Señor mi salvador.",
+            "Le alabaré aunque no florezcan las higueras",
+            "ni den fruto los viñedos y los olivares;",
+            "aunque los campos no den su cosecha;",
+            "aunque se acaben los rebaños de ovejas",
+            "y no haya reses en los establos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Porque el Señor me da fuerzas;",
+            "da a mis piernas la ligereza del ciervo",
+            "y me lleva a alturas donde estaré a salvo."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1273 @@
+{
+  "book_usfm": "BAR",
+  "name": "Baruc",
+  "local_title": "Traducción en Lenguaje Actual Interconfesional",
+  "local_abbreviation": "TLAI",
+  "version_id": 178,
+  "publisher": {
+    "name": "United Bible Societies"
+  },
+  "copyright": {
+    "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+    "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "BAR.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "BAR.1"
+        ],
+        "human": "Baruc 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "BAR.2"
+        ],
+        "human": "Baruc 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "SIR.51"
+        ],
+        "human": "Eclesiástico 51",
+        "toc": true
+      },
+      "chapter_text": "Este es el libro que Baruc escribió en Babilonia. Baruc era hijo de Nerías, y sus antepasados fueron Maaseías, Sedequías, Hasadías e Hilquías. Baruc escribió este libro el día siete del mes de Ab, cinco años después de que Nabucodonosor, rey de Babilonia, entró en la ciudad de Jerusalén y la incendió. Este rey sacó del templo de Jerusalén muchos objetos de plata y se los llevó a su país. También se llevó presos a Joaquín y a la gente más importante y poderosa de Judá. Tiempo después, el día diez del mes de Siván, Baruc recuperó esos objetos de plata, los cuales había mandado a fabricar Sedequías hijo de Josías, rey de Judá.\nBaruc leyó su libro en presencia del rey Joaquín hijo de Joacín, rey de Judá. Todo el pueblo se había reunido para escucharlo, incluyendo a los que vivían a orillas del río Sud en Babilonia. Allí también estaban los funcionarios y familiares del rey, y los líderes.\nCuando Baruc terminó la lectura del libro, todos comenzaron a llorar, y decidieron ayunar y dedicarse a la oración. Además, recogieron dinero para que la gente de Jerusalén lo usara en el templo. Cada uno dio de acuerdo con lo que podía dar. Ese dinero se lo entregaron a los sacerdotes que estaban bajo las órdenes de Joaquín, que era hijo de Hilquías y nieto de Salom. Junto con el dinero, los israelitas enviaron la siguiente carta:\n\n«Este dinero es para que compren incienso y animales, para que los ofrezcan sobre el altar, y para las ofrendas por el perdón de pecados. Así podrán celebrar el culto en el templo de nuestro Dios.\n»Oren por Nabucodonosor, el rey de Babilonia, y por su hijo Belsasar, para que se mantengan en buena salud y vivan muchos años. Oren también para que a nosotros nos conceda fuerzas y sabiduría, y que así podamos vivir bajo la protección del rey y de su hijo, para que les sirvamos por mucho tiempo, y que siempre ellos nos traten bien.\n»Rueguen por nosotros a nuestro Dios, pues lo hemos ofendido y por eso sigue enojado con nosotros.\n»Cuando se reúnan en el templo para celebrar la fiesta de las enramadas, y en otros días especiales, lean este libro que les enviamos, y confiesen sus pecados».\n\nBaruc le dijo a los israelitas:\n\n«Pidan perdón a Dios de la siguiente manera:\n»Dios nuestro, reconocemos que hemos pecado contra ti. Tanto nosotros como nuestros reyes y gobernantes, nuestros sacerdotes y profetas, y aun nuestros antepasados, merecemos la vergüenza que ahora sufrimos. De esto tú no tienes la culpa; la tenemos nosotros por no hacerte caso ni obedecerte.\n»Tú libraste a nuestros antepasados de la esclavitud en el país de Egipto, y les diste un país muy fértil, donde siempre hay abundancia de alimentos. Pero desde ese día y hasta la fecha, todos hemos desobedecido tus leyes; ¡hemos sido rebeldes! Por eso estamos sufriendo tanto. La maldición que tú anunciaste por medio de Moisés a nuestros antepasados, ahora la sufrimos nosotros por nuestro pecado.\n»Dios nuestro, tú nos enviaste profetas para recordarnos lo que tú quieres de nosotros; pero no les hicimos caso. Al contrario, cada uno de nosotros prefirió hacer lo que quería, y nos dedicamos a adorar dioses falsos, y a hacer lo que no te agrada».",
+      "chapter_html": "<div class=\"version vid178 iso6393spa\" data-vid=\"178\" data-iso6393=\"spa\">\n   <div class=\"book bkBAR\">\n      <div class=\"chapter ch1\" data-usfm=\"BAR.1\">\n         <div class=\"label\">1</div><div class=\"s1\"><span class=\"heading\">Baruc lee su libro ante el pueblo</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"BAR.1.1\"><span class=\"label\">1</span><span class=\"content\">Este es el libro que Baruc escribi&#243; en Babilonia. Baruc era hijo de Ner&#237;as, y sus antepasados fueron Maase&#237;as, Sedequ&#237;as, Hasad&#237;as e Hilqu&#237;as. </span></span><span class=\"verse v2 v3 v4 v5 v6 v7 v8 v9 v10\" data-usfm=\"BAR.1.2+BAR.1.3+BAR.1.4+BAR.1.5+BAR.1.6+BAR.1.7+BAR.1.8+BAR.1.9+BAR.1.10\"><span class=\"label\">2-10</span><span class=\"content\">Baruc escribi&#243; este libro el d&#237;a siete del mes de Ab, cinco a&#241;os despu&#233;s de que Nabucodonosor, rey de Babilonia, entr&#243; en la ciudad de Jerusal&#233;n y la incendi&#243;. Este rey sac&#243; del templo de Jerusal&#233;n muchos objetos de plata y se los llev&#243; a su pa&#237;s. Tambi&#233;n se llev&#243; presos a Joaqu&#237;n y a la gente m&#225;s importante y poderosa de Jud&#225;. Tiempo despu&#233;s, el d&#237;a diez del mes de Siv&#225;n, Baruc recuper&#243; esos objetos de plata, los cuales hab&#237;a mandado a fabricar Sedequ&#237;as hijo de Jos&#237;as, rey de Jud&#225;.</span></span></div><div class=\"p\"><span class=\"verse v2 v3 v4 v5 v6 v7 v8 v9 v10\" data-usfm=\"BAR.1.2+BAR.1.3+BAR.1.4+BAR.1.5+BAR.1.6+BAR.1.7+BAR.1.8+BAR.1.9+BAR.1.10\"><span class=\"content\">Baruc ley&#243; su libro en presencia del rey Joaqu&#237;n hijo de Joac&#237;n, rey de Jud&#225;. Todo el pueblo se hab&#237;a reunido para escucharlo, incluyendo a los que viv&#237;an a orillas del r&#237;o Sud en Babilonia. All&#237; tambi&#233;n estaban los funcionarios y familiares del rey, y los l&#237;deres.</span></span></div><div class=\"p\"><span class=\"verse v2 v3 v4 v5 v6 v7 v8 v9 v10\" data-usfm=\"BAR.1.2+BAR.1.3+BAR.1.4+BAR.1.5+BAR.1.6+BAR.1.7+BAR.1.8+BAR.1.9+BAR.1.10\"><span class=\"content\">Cuando Baruc termin&#243; la lectura del libro, todos comenzaron a llorar, y decidieron ayunar y dedicarse a la oraci&#243;n. Adem&#225;s, recogieron dinero para que la gente de Jerusal&#233;n lo usara en el templo. Cada uno dio de acuerdo con lo que pod&#237;a dar. Ese dinero se lo entregaron a los sacerdotes que estaban bajo las &#243;rdenes de Joaqu&#237;n, que era hijo de Hilqu&#237;as y nieto de Salom. Junto con el dinero, los israelitas enviaron la siguiente carta:</span></span></div><div class=\"b\"></div><div class=\"p\"><span class=\"verse v2 v3 v4 v5 v6 v7 v8 v9 v10\" data-usfm=\"BAR.1.2+BAR.1.3+BAR.1.4+BAR.1.5+BAR.1.6+BAR.1.7+BAR.1.8+BAR.1.9+BAR.1.10\"><span class=\"content\">&#171;Este dinero es para que compren incienso y animales, para que los ofrezcan sobre el altar, y para las ofrendas por el perd&#243;n de pecados. As&#237; podr&#225;n celebrar el culto en el templo de nuestro Dios.</span></span></div><div class=\"p\"><span class=\"verse v2 v3 v4 v5 v6 v7 v8 v9 v10\" data-usfm=\"BAR.1.2+BAR.1.3+BAR.1.4+BAR.1.5+BAR.1.6+BAR.1.7+BAR.1.8+BAR.1.9+BAR.1.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"BAR.1.11\"><span class=\"label\">11</span><span class=\"content\">&#187;Oren por Nabucodonosor, el rey de Babilonia, y por su hijo Belsasar, para que se mantengan en buena salud y vivan muchos a&#241;os. </span></span><span class=\"verse v12\" data-usfm=\"BAR.1.12\"><span class=\"label\">12</span><span class=\"content\">Oren tambi&#233;n para que a nosotros nos conceda fuerzas y sabidur&#237;a, y que as&#237; podamos vivir bajo la protecci&#243;n del rey y de su hijo, para que les sirvamos por mucho tiempo, y que siempre ellos nos traten bien.</span></span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"BAR.1.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"BAR.1.13\"><span class=\"label\">13</span><span class=\"content\">&#187;Rueguen por nosotros a nuestro Dios, pues lo hemos ofendido y por eso sigue enojado con nosotros.</span></span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"BAR.1.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"BAR.1.14\"><span class=\"label\">14</span><span class=\"content\">&#187;Cuando se re&#250;nan en el templo para celebrar la fiesta de las enramadas, y en otros d&#237;as especiales, lean este libro que les enviamos, y confiesen sus pecados&#187;.</span></span></div><div class=\"s1\"><span class=\"heading\">Oraci&#243;n de confesi&#243;n</span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"BAR.1.14\"><span class=\"content\">  </span></span><span class=\"verse v15 v16 v17\" data-usfm=\"BAR.1.15+BAR.1.16+BAR.1.17\"><span class=\"label\">15-17</span><span class=\"content\">Baruc le dijo a los israelitas:</span></span></div><div class=\"b\"></div><div class=\"p\"><span class=\"verse v15 v16 v17\" data-usfm=\"BAR.1.15+BAR.1.16+BAR.1.17\"><span class=\"content\">&#171;Pidan perd&#243;n a Dios de la siguiente manera:</span></span></div><div class=\"p\"><span class=\"verse v15 v16 v17\" data-usfm=\"BAR.1.15+BAR.1.16+BAR.1.17\"><span class=\"content\">&#187;Dios nuestro, reconocemos que hemos pecado contra ti. Tanto nosotros como nuestros reyes y gobernantes, nuestros sacerdotes y profetas, y aun nuestros antepasados, merecemos la verg&#252;enza que ahora sufrimos. De esto t&#250; no tienes la culpa; </span></span><span class=\"verse v18\" data-usfm=\"BAR.1.18\"><span class=\"label\">18</span><span class=\"content\">la tenemos nosotros por no hacerte caso ni obedecerte.</span></span></div><div class=\"p\"><span class=\"verse v18\" data-usfm=\"BAR.1.18\"><span class=\"content\">  </span></span><span class=\"verse v19 v20\" data-usfm=\"BAR.1.19+BAR.1.20\"><span class=\"label\">19-20</span><span class=\"content\">&#187;T&#250; libraste a nuestros antepasados de la esclavitud en el pa&#237;s de Egipto, y les diste un pa&#237;s muy f&#233;rtil, donde siempre hay abundancia de alimentos. Pero desde ese d&#237;a y hasta la fecha, todos hemos desobedecido tus leyes; &#161;hemos sido rebeldes! Por eso estamos sufriendo tanto. La maldici&#243;n que t&#250; anunciaste por medio de Mois&#233;s a nuestros antepasados, ahora la sufrimos nosotros por nuestro pecado.</span></span></div><div class=\"p\"><span class=\"verse v19 v20\" data-usfm=\"BAR.1.19+BAR.1.20\"><span class=\"content\">  </span></span><span class=\"verse v21\" data-usfm=\"BAR.1.21\"><span class=\"label\">21</span><span class=\"content\">&#187;Dios nuestro, t&#250; nos enviaste profetas para recordarnos lo que t&#250; quieres de nosotros; pero no les hicimos caso. </span></span><span class=\"verse v22\" data-usfm=\"BAR.1.22\"><span class=\"label\">22</span><span class=\"content\">Al contrario, cada uno de nosotros prefiri&#243; hacer lo que quer&#237;a, y nos dedicamos a adorar dioses falsos, y a hacer lo que no te agrada&#187;.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Baruc lee su libro ante el pueblo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Este es el libro que Baruc escribió en Babilonia. Baruc era hijo de Nerías, y sus antepasados fueron Maaseías, Sedequías, Hasadías e Hilquías.",
+            "Baruc escribió este libro el día siete del mes de Ab, cinco años después de que Nabucodonosor, rey de Babilonia, entró en la ciudad de Jerusalén y la incendió. Este rey sacó del templo de Jerusalén muchos objetos de plata y se los llevó a su país. También se llevó presos a Joaquín y a la gente más importante y poderosa de Judá. Tiempo después, el día diez del mes de Siván, Baruc recuperó esos objetos de plata, los cuales había mandado a fabricar Sedequías hijo de Josías, rey de Judá.",
+            "Baruc leyó su libro en presencia del rey Joaquín hijo de Joacín, rey de Judá. Todo el pueblo se había reunido para escucharlo, incluyendo a los que vivían a orillas del río Sud en Babilonia. Allí también estaban los funcionarios y familiares del rey, y los líderes.",
+            "Cuando Baruc terminó la lectura del libro, todos comenzaron a llorar, y decidieron ayunar y dedicarse a la oración. Además, recogieron dinero para que la gente de Jerusalén lo usara en el templo. Cada uno dio de acuerdo con lo que podía dar. Ese dinero se lo entregaron a los sacerdotes que estaban bajo las órdenes de Joaquín, que era hijo de Hilquías y nieto de Salom. Junto con el dinero, los israelitas enviaron la siguiente carta:",
+            "«Este dinero es para que compren incienso y animales, para que los ofrezcan sobre el altar, y para las ofrendas por el perdón de pecados. Así podrán celebrar el culto en el templo de nuestro Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "»Oren por Nabucodonosor, el rey de Babilonia, y por su hijo Belsasar, para que se mantengan en buena salud y vivan muchos años."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Oren también para que a nosotros nos conceda fuerzas y sabiduría, y que así podamos vivir bajo la protección del rey y de su hijo, para que les sirvamos por mucho tiempo, y que siempre ellos nos traten bien."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "»Rueguen por nosotros a nuestro Dios, pues lo hemos ofendido y por eso sigue enojado con nosotros."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "»Cuando se reúnan en el templo para celebrar la fiesta de las enramadas, y en otros días especiales, lean este libro que les enviamos, y confiesen sus pecados»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Oración de confesión"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "la tenemos nosotros por no hacerte caso ni obedecerte.",
+            "»Tú libraste a nuestros antepasados de la esclavitud en el país de Egipto, y les diste un país muy fértil, donde siempre hay abundancia de alimentos. Pero desde ese día y hasta la fecha, todos hemos desobedecido tus leyes; ¡hemos sido rebeldes! Por eso estamos sufriendo tanto. La maldición que tú anunciaste por medio de Moisés a nuestros antepasados, ahora la sufrimos nosotros por nuestro pecado."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "»Dios nuestro, tú nos enviaste profetas para recordarnos lo que tú quieres de nosotros; pero no les hicimos caso."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "Al contrario, cada uno de nosotros prefirió hacer lo que quería, y nos dedicamos a adorar dioses falsos, y a hacer lo que no te agrada»."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "BAR.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "BAR.2"
+        ],
+        "human": "Baruc 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "BAR.3"
+        ],
+        "human": "Baruc 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "BAR.1"
+        ],
+        "human": "Baruc 1",
+        "toc": true
+      },
+      "chapter_text": "Baruc continuó diciendo:\n\n«Dios nos castigó tal como lo había anunciado. Todos sufrimos el castigo: tanto el rey y los gobernantes como los que pertenecemos a Israel y a Judá.\n»En Jerusalén pasaron cosas terribles que nadie en este mundo había sufrido. Ya Moisés lo había anunciado en el libro de la Ley: nosotros llegaríamos al extremo de comernos a nuestros propios hijos e hijas. Por eso Dios nos hizo esclavos de las naciones vecinas y convirtió nuestro territorio en un desierto. También hizo que la gente de esas naciones se burlara de nosotros. De jefes pasamos a ser esclavos, y todo esto por desobedecer a nuestro Dios.\n»Realmente nuestro Dios es justo, y nosotros merecemos este castigo, pues no obedecimos sus mandamientos. Todas las desgracias que Dios nos anunció, nos han caído encima, ¡y ni siquiera así abandonamos nuestra mala conducta, ni oramos a Dios pidiendo su perdón!»\n\nBaruc dijo:\n\n«Dios de Israel, tú demostraste tu gran poder al librar a tu pueblo de la esclavitud en Egipto. Lo hiciste por medio de milagros y maravillas; por eso sigues siendo muy famoso. En cambio, nosotros no hemos hecho más que ofenderte y desobedecer tus mandamientos. Por eso nos enviaste como esclavos a otras naciones. Pero ahora te rogamos que no sigas enojado con nosotros, pues quedamos muy pocos en esos países.\n»¡Dios, escucha nuestras súplicas y oraciones! Libéranos, y haz que nos traten bien quienes ahora nos tienen bajo su dominio. Así sabrán que tú eres un Dios de poder, y que tú elegiste a Israel y a sus descendientes para ser su pueblo.\n»¡Dios, desde el lugar donde tú vives, míranos! ¡Por favor, Dios, escúchanos! Los que estamos vivos podemos adorarte y reconocer que actúas con justicia, a pesar de estar tristes, sin fuerzas y hambrientos. En cambio, los muertos no pueden hacerlo, ¡pues están encerrados en sus tumbas!\n\n»Al pedirte esto, Dios nuestro, no lo hacemos confiados en las buenas obras de nuestros antepasados y de nuestros reyes. Nosotros mismos merecemos el castigo tan duro que nos diste, pues ya nos lo habías advertido por medio de tus servidores, los profetas. Por medio de ellos nos dijiste que nos sometiéramos al rey de Babilonia y lo sirviéramos, pues solo de esa manera podríamos seguir viviendo en la tierra que les diste a nuestros antepasados. Nos dijiste: “Si no obedecen esto que les digo, pondré fin a las fiestas y a las canciones de alegría en Jerusalén y en las demás ciudades de Judá; todo el país quedará deshabitado y convertido en un desierto”.\n»Dios nuestro, como no te obedecimos, cumpliste tus amenazas: los huesos de nuestros reyes y de nuestros antepasados fueron sacados de sus tumbas y quedaron abandonados por las calles, bajo el calor del día y el frío de la noche. De hecho, ellos ya habían sufrido mucho de hambre, plagas y guerra. Además, tu templo quedó en la terrible situación en que hoy se encuentra, por el pecado y la maldad de la gente de Israel y de Judá.\n\n»A pesar de todo esto, Dios nuestro, tú nos has tratado con mucha bondad y cariño. Lo hiciste para cumplir tu promesa a Moisés, cuando en presencia de los israelitas le ordenaste que pusiera por escrito tus enseñanzas. Dijiste:\n“Si este pueblo escandaloso no me obedece, llegará a ser tan solo un puñado de gente, aunque ahora sea muy numeroso. Quedará esparcido por todas las naciones a donde lo enviaré como esclavo. Estoy seguro de que no me va a obedecer, porque es un pueblo rebelde.\n”Pero cuando este pueblo se encuentre esparcido por esas naciones, va a tener tiempo de pensar en lo que hizo, y se dará cuenta que yo soy su único Dios. Entonces, yo le daré un corazón dispuesto a obedecerme. Y se acordará de mí y me alabará en el lugar donde se encuentre esparcido. Este pueblo dejará de ser rebelde y abandonará su mala conducta cuando recuerde lo que les pasó a sus antepasados por pecar contra mí.\n”Entonces yo lo traeré de nuevo al país que juré entregarles a sus antepasados Abraham, Isaac y Jacob. Y otra vez será el dueño de ese país. Llegará a ser un gran pueblo, y no volverá a ser reducido a un puñado de gente. Además, haré con este pueblo una alianza que durará por siempre: Yo me comprometeré a ser su Dios, y ellos se comprometerán a ser mi pueblo. De mi parte, ya no los volveré a expulsar de su país”».",
+      "chapter_html": "<div class=\"version vid178 iso6393spa\" data-vid=\"178\" data-iso6393=\"spa\">\n   <div class=\"book bkBAR\">\n      <div class=\"chapter ch2\" data-usfm=\"BAR.2\">\n         <div class=\"label\">2</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"BAR.2.1\"><span class=\"label\">1</span><span class=\"content\">Baruc continu&#243; diciendo:</span></span></div><div class=\"b\"></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"BAR.2.1\"><span class=\"content\">&#171;Dios nos castig&#243; tal como lo hab&#237;a anunciado. Todos sufrimos el castigo: tanto el rey y los gobernantes como los que pertenecemos a Israel y a Jud&#225;.</span></span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"BAR.2.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"BAR.2.2\"><span class=\"label\">2</span><span class=\"content\">&#187;En Jerusal&#233;n pasaron cosas terribles que nadie en este mundo hab&#237;a sufrido. Ya Mois&#233;s lo hab&#237;a anunciado en el libro de la Ley: </span></span><span class=\"verse v3\" data-usfm=\"BAR.2.3\"><span class=\"label\">3</span><span class=\"content\">nosotros llegar&#237;amos al extremo de comernos a nuestros propios hijos e hijas. </span></span><span class=\"verse v4\" data-usfm=\"BAR.2.4\"><span class=\"label\">4</span><span class=\"content\">Por eso Dios nos hizo esclavos de las naciones vecinas y convirti&#243; nuestro territorio en un desierto. Tambi&#233;n hizo que la gente de esas naciones se burlara de nosotros. </span></span><span class=\"verse v5\" data-usfm=\"BAR.2.5\"><span class=\"label\">5</span><span class=\"content\">De jefes pasamos a ser esclavos, y todo esto por desobedecer a nuestro Dios.</span></span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"BAR.2.5\"><span class=\"content\">  </span></span><span class=\"verse v6 v7 v8 v9 v10\" data-usfm=\"BAR.2.6+BAR.2.7+BAR.2.8+BAR.2.9+BAR.2.10\"><span class=\"label\">6-10</span><span class=\"content\">&#187;Realmente nuestro Dios es justo, y nosotros merecemos este castigo, pues no obedecimos sus mandamientos. Todas las desgracias que Dios nos anunci&#243;, nos han ca&#237;do encima, &#161;y ni siquiera as&#237; abandonamos nuestra mala conducta, ni oramos a Dios pidiendo su perd&#243;n!&#187;</span></span></div><div class=\"s1\"><span class=\"heading\">Oraci&#243;n pidiendo libertad</span></div><div class=\"p\"><span class=\"verse v6 v7 v8 v9 v10\" data-usfm=\"BAR.2.6+BAR.2.7+BAR.2.8+BAR.2.9+BAR.2.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"BAR.2.11\"><span class=\"label\">11</span><span class=\"content\">Baruc dijo:</span></span></div><div class=\"b\"></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"BAR.2.11\"><span class=\"content\">&#171;Dios de Israel, t&#250; demostraste tu gran poder al librar a tu pueblo de la esclavitud en Egipto. Lo hiciste por medio de milagros y maravillas; por eso sigues siendo muy famoso. </span></span><span class=\"verse v12\" data-usfm=\"BAR.2.12\"><span class=\"label\">12</span><span class=\"content\">En cambio, nosotros no hemos hecho m&#225;s que ofenderte y desobedecer tus mandamientos. </span></span><span class=\"verse v13\" data-usfm=\"BAR.2.13\"><span class=\"label\">13</span><span class=\"content\">Por eso nos enviaste como esclavos a otras naciones. Pero ahora te rogamos que no sigas enojado con nosotros, pues quedamos muy pocos en esos pa&#237;ses.</span></span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"BAR.2.13\"><span class=\"content\">  </span></span><span class=\"verse v14 v15\" data-usfm=\"BAR.2.14+BAR.2.15\"><span class=\"label\">14-15</span><span class=\"content\">&#187;&#161;Dios, escucha nuestras s&#250;plicas y oraciones! Lib&#233;ranos, y haz que nos traten bien quienes ahora nos tienen bajo su dominio. As&#237; sabr&#225;n que t&#250; eres un Dios de poder, y que t&#250; elegiste a Israel y a sus descendientes para ser su pueblo.</span></span></div><div class=\"p\"><span class=\"verse v14 v15\" data-usfm=\"BAR.2.14+BAR.2.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"BAR.2.16\"><span class=\"label\">16</span><span class=\"content\">&#187;&#161;Dios, desde el lugar donde t&#250; vives, m&#237;ranos! &#161;Por favor, Dios, esc&#250;chanos! </span></span><span class=\"verse v17 v18\" data-usfm=\"BAR.2.17+BAR.2.18\"><span class=\"label\">17-18</span><span class=\"content\">Los que estamos vivos podemos adorarte y reconocer que act&#250;as con justicia, a pesar de estar tristes, sin fuerzas y hambrientos. En cambio, los muertos no pueden hacerlo, &#161;pues est&#225;n encerrados en sus tumbas!</span></span></div><div class=\"s1\"><span class=\"heading\">El castigo es justo</span></div><div class=\"p\"><span class=\"verse v17 v18\" data-usfm=\"BAR.2.17+BAR.2.18\"><span class=\"content\">  </span></span><span class=\"verse v19 v20 v21 v22 v23 v24\" data-usfm=\"BAR.2.19+BAR.2.20+BAR.2.21+BAR.2.22+BAR.2.23+BAR.2.24\"><span class=\"label\">19-24</span><span class=\"content\">&#187;Al pedirte esto, Dios nuestro, no lo hacemos confiados en las buenas obras de nuestros antepasados y de nuestros reyes. Nosotros mismos merecemos el castigo tan duro que nos diste, pues ya nos lo hab&#237;as advertido por medio de tus servidores, los profetas. Por medio de ellos nos dijiste que nos someti&#233;ramos al rey de Babilonia y lo sirvi&#233;ramos, pues solo de esa manera podr&#237;amos seguir viviendo en la tierra que les diste a nuestros antepasados. Nos dijiste: &#8220;Si no obedecen esto que les digo, pondr&#233; fin a las fiestas y a las canciones de alegr&#237;a en Jerusal&#233;n y en las dem&#225;s ciudades de Jud&#225;; todo el pa&#237;s quedar&#225; deshabitado y convertido en un desierto&#8221;.</span></span></div><div class=\"p\"><span class=\"verse v19 v20 v21 v22 v23 v24\" data-usfm=\"BAR.2.19+BAR.2.20+BAR.2.21+BAR.2.22+BAR.2.23+BAR.2.24\"><span class=\"content\">&#187;Dios nuestro, como no te obedecimos, cumpliste tus amenazas: los huesos de nuestros reyes y de nuestros antepasados fueron sacados de sus tumbas </span></span><span class=\"verse v25\" data-usfm=\"BAR.2.25\"><span class=\"label\">25</span><span class=\"content\">y quedaron abandonados por las calles, bajo el calor del d&#237;a y el fr&#237;o de la noche. De hecho, ellos ya hab&#237;an sufrido mucho de hambre, plagas y guerra. </span></span><span class=\"verse v26\" data-usfm=\"BAR.2.26\"><span class=\"label\">26</span><span class=\"content\">Adem&#225;s, tu templo qued&#243; en la terrible situaci&#243;n en que hoy se encuentra, por el pecado y la maldad de la gente de Israel y de Jud&#225;.</span></span></div><div class=\"s1\"><span class=\"heading\">Confianza en la promesa de Dios</span></div><div class=\"p\"><span class=\"verse v26\" data-usfm=\"BAR.2.26\"><span class=\"content\">  </span></span><span class=\"verse v27\" data-usfm=\"BAR.2.27\"><span class=\"label\">27</span><span class=\"content\">&#187;A pesar de todo esto, Dios nuestro, t&#250; nos has tratado con mucha bondad y cari&#241;o. </span></span><span class=\"verse v28\" data-usfm=\"BAR.2.28\"><span class=\"label\">28</span><span class=\"content\">Lo hiciste para cumplir tu promesa a Mois&#233;s, cuando en presencia de los israelitas le ordenaste que pusiera por escrito tus ense&#241;anzas. Dijiste:</span></span></div><div class=\"p\"><span class=\"verse v28\" data-usfm=\"BAR.2.28\"><span class=\"content\">  </span></span><span class=\"verse v29\" data-usfm=\"BAR.2.29\"><span class=\"label\">29</span><span class=\"content\">&#8220;Si este pueblo escandaloso no me obedece, llegar&#225; a ser tan solo un pu&#241;ado de gente, aunque ahora sea muy numeroso. Quedar&#225; esparcido por todas las naciones a donde lo enviar&#233; como esclavo. </span></span><span class=\"verse v30\" data-usfm=\"BAR.2.30\"><span class=\"label\">30</span><span class=\"content\">Estoy seguro de que no me va a obedecer, porque es un pueblo rebelde.</span></span></div><div class=\"p\"><span class=\"verse v30\" data-usfm=\"BAR.2.30\"><span class=\"content\">&#8221;Pero cuando este pueblo se encuentre esparcido por esas naciones, va a tener tiempo de pensar en lo que hizo, </span></span><span class=\"verse v31\" data-usfm=\"BAR.2.31\"><span class=\"label\">31</span><span class=\"content\">y se dar&#225; cuenta que yo soy su &#250;nico Dios. Entonces, yo le dar&#233; un coraz&#243;n dispuesto a obedecerme. </span></span><span class=\"verse v32\" data-usfm=\"BAR.2.32\"><span class=\"label\">32</span><span class=\"content\">Y se acordar&#225; de m&#237; y me alabar&#225; en el lugar donde se encuentre esparcido. </span></span><span class=\"verse v33\" data-usfm=\"BAR.2.33\"><span class=\"label\">33</span><span class=\"content\">Este pueblo dejar&#225; de ser rebelde y abandonar&#225; su mala conducta cuando recuerde lo que les pas&#243; a sus antepasados por pecar contra m&#237;.</span></span></div><div class=\"p\"><span class=\"verse v33\" data-usfm=\"BAR.2.33\"><span class=\"content\">  </span></span><span class=\"verse v34\" data-usfm=\"BAR.2.34\"><span class=\"label\">34</span><span class=\"content\">&#8221;Entonces yo lo traer&#233; de nuevo al pa&#237;s que jur&#233; entregarles a sus antepasados Abraham, Isaac y Jacob. Y otra vez ser&#225; el due&#241;o de ese pa&#237;s. Llegar&#225; a ser un gran pueblo, y no volver&#225; a ser reducido a un pu&#241;ado de gente. </span></span><span class=\"verse v35\" data-usfm=\"BAR.2.35\"><span class=\"label\">35</span><span class=\"content\">Adem&#225;s, har&#233; con este pueblo una alianza que durar&#225; por siempre: Yo me comprometer&#233; a ser su Dios, y ellos se comprometer&#225;n a ser mi pueblo. De mi parte, ya no los volver&#233; a expulsar de su pa&#237;s&#8221;&#187;.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Baruc continuó diciendo:",
+            "«Dios nos castigó tal como lo había anunciado. Todos sufrimos el castigo: tanto el rey y los gobernantes como los que pertenecemos a Israel y a Judá."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "»En Jerusalén pasaron cosas terribles que nadie en este mundo había sufrido. Ya Moisés lo había anunciado en el libro de la Ley:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "nosotros llegaríamos al extremo de comernos a nuestros propios hijos e hijas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Por eso Dios nos hizo esclavos de las naciones vecinas y convirtió nuestro territorio en un desierto. También hizo que la gente de esas naciones se burlara de nosotros."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "De jefes pasamos a ser esclavos, y todo esto por desobedecer a nuestro Dios.",
+            "»Realmente nuestro Dios es justo, y nosotros merecemos este castigo, pues no obedecimos sus mandamientos. Todas las desgracias que Dios nos anunció, nos han caído encima, ¡y ni siquiera así abandonamos nuestra mala conducta, ni oramos a Dios pidiendo su perdón!»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Oración pidiendo libertad"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Baruc dijo:",
+            "«Dios de Israel, tú demostraste tu gran poder al librar a tu pueblo de la esclavitud en Egipto. Lo hiciste por medio de milagros y maravillas; por eso sigues siendo muy famoso."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "En cambio, nosotros no hemos hecho más que ofenderte y desobedecer tus mandamientos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Por eso nos enviaste como esclavos a otras naciones. Pero ahora te rogamos que no sigas enojado con nosotros, pues quedamos muy pocos en esos países.",
+            "»¡Dios, escucha nuestras súplicas y oraciones! Libéranos, y haz que nos traten bien quienes ahora nos tienen bajo su dominio. Así sabrán que tú eres un Dios de poder, y que tú elegiste a Israel y a sus descendientes para ser su pueblo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "»¡Dios, desde el lugar donde tú vives, míranos! ¡Por favor, Dios, escúchanos!",
+            "Los que estamos vivos podemos adorarte y reconocer que actúas con justicia, a pesar de estar tristes, sin fuerzas y hambrientos. En cambio, los muertos no pueden hacerlo, ¡pues están encerrados en sus tumbas!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "El castigo es justo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "y quedaron abandonados por las calles, bajo el calor del día y el frío de la noche. De hecho, ellos ya habían sufrido mucho de hambre, plagas y guerra."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 26,
+          "lines": [
+            "Además, tu templo quedó en la terrible situación en que hoy se encuentra, por el pecado y la maldad de la gente de Israel y de Judá."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Confianza en la promesa de Dios"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 27,
+          "lines": [
+            "»A pesar de todo esto, Dios nuestro, tú nos has tratado con mucha bondad y cariño."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 28,
+          "lines": [
+            "Lo hiciste para cumplir tu promesa a Moisés, cuando en presencia de los israelitas le ordenaste que pusiera por escrito tus enseñanzas. Dijiste:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 29,
+          "lines": [
+            "“Si este pueblo escandaloso no me obedece, llegará a ser tan solo un puñado de gente, aunque ahora sea muy numeroso. Quedará esparcido por todas las naciones a donde lo enviaré como esclavo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 30,
+          "lines": [
+            "Estoy seguro de que no me va a obedecer, porque es un pueblo rebelde.",
+            "”Pero cuando este pueblo se encuentre esparcido por esas naciones, va a tener tiempo de pensar en lo que hizo,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 31,
+          "lines": [
+            "y se dará cuenta que yo soy su único Dios. Entonces, yo le daré un corazón dispuesto a obedecerme."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 32,
+          "lines": [
+            "Y se acordará de mí y me alabará en el lugar donde se encuentre esparcido."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 33,
+          "lines": [
+            "Este pueblo dejará de ser rebelde y abandonará su mala conducta cuando recuerde lo que les pasó a sus antepasados por pecar contra mí."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 34,
+          "lines": [
+            "”Entonces yo lo traeré de nuevo al país que juré entregarles a sus antepasados Abraham, Isaac y Jacob. Y otra vez será el dueño de ese país. Llegará a ser un gran pueblo, y no volverá a ser reducido a un puñado de gente."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 35,
+          "lines": [
+            "Además, haré con este pueblo una alianza que durará por siempre: Yo me comprometeré a ser su Dios, y ellos se comprometerán a ser mi pueblo. De mi parte, ya no los volveré a expulsar de su país”»."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "BAR.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "BAR.3"
+        ],
+        "human": "Baruc 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "BAR.4"
+        ],
+        "human": "Baruc 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "BAR.2"
+        ],
+        "human": "Baruc 2",
+        "toc": true
+      },
+      "chapter_text": "Baruc continuó diciendo:\n\n«Todopoderoso Dios de Israel, con mucho dolor y tristeza te rogamos:\n“¡Escucha nuestros gritos! ¡Hemos pecado contra ti, pero por favor, escúchanos! ¡Ten compasión de nosotros! Tú siempre serás rey; nosotros, en cambio, siempre seremos unos simples mortales.\n”Todopoderoso Dios de Israel, escucha nuestros ruegos. Nosotros, los israelitas, somos los hijos de aquellos que pecaron contra ti y no te obedecieron. Por eso nos han llegado estas desgracias. ¡Pero olvida los pecados de nuestros antepasados! ¡Recuerda más bien tu poder y tu fama!\n”¡Tú eres nuestro Dios, y nosotros queremos alabarte! Tú pusiste en nosotros el deseo de obedecerte y buscarte en oración. Y queremos alabarte aquí, lejos de nuestra tierra. Ya no pecamos como lo hicieron nuestros antepasados. ¡Míranos, Dios nuestro! Aquí estamos, sufriendo insultos y burlas lejos de nuestra tierra. Ese castigo lo merecían nuestros antepasados, pues ellos fueron los que en verdad te olvidaron”».\n\nBaruc dijo:\n\n«Israelitas,\nobedezcan los mandamientos,\npues dan vida y sabiduría.\n\n»Ustedes abandonaron a Dios,\nel Dios que da sabiduría;\npor eso viven en un país enemigo.\n\n»Allí se pondrán viejos,\ny vivirán como si estuvieran muertos.\nSi hubieran obedecido a Dios,\nsiempre disfrutarían de paz.\n\n»Busquen la prudencia,\nel valor y la inteligencia.\nAsí encontrarán la alegría,\nla paz y una larga vida.\n\n»Hasta ahora nadie sabe\ndónde está la sabiduría,\nni dónde guarda sus tesoros.\n\n»¿Dónde están los reyes\nque dominan a las fieras,\ny se divierten con las aves?\n\n»¿Dónde están aquellos\nque adoran al dinero?\n¡Esos que amontonan oro y plata\ny nunca se cansan de hacerlo!\n\n»¿Dónde están los joyeros\nque hacen obras de arte\nque nadie puede imitar?\n¡Ya están muertos!\n¡Su lugar lo ocupan otros!\nAhora son los jóvenes\nlos que gobiernan este mundo.\n\n»Pero tampoco esos jóvenes\nsaben qué es la sabiduría.\nTodavía no la encuentran,\nni podrán jamás alcanzarla.\nA sus hijos no les interesa\nalcanzar la sabiduría.\n\n»Los habitantes de Canaán\nnunca supieron de la sabiduría;\ntampoco los de Temán\noyeron hablar de ella.\n\n»Los árabes aman la aventura,\npero de sabios no tienen nada.\nLos comerciantes de Madián y Temán\ntampoco llegaron a ser sabios.\nLos filósofos ni siquiera saben\nqué es la sabiduría,\ny los que escriben historias,\nni idea tienen de qué se trata.\n\n»¡Israelitas,\nqué inmenso es el universo!\n¡Qué enorme es el hogar de Dios!\n¡Qué grandioso es su imperio!\nSu grandeza no tiene límites,\n¡nadie lo puede medir!\n\n»En el imperio de Dios nacieron\nlos gigantes de la antigüedad;\nhombres fuertes y famosos,\nguerreros excelentes.\nPero Dios no los eligió a ellos,\nni les mostró el camino\nque lleva a la sabiduría.\nSu imprudencia los mató;\n¡su locura acabó con ellos!\n\n»¿Y dónde está la sabiduría?\nNinguno de nosotros\npuede llegar a ella.\nAunque subamos a las nubes,\no lleguemos a lo más alto del cielo;\naunque crucemos al otro lado del mar,\no tengamos todo el dinero del mundo,\n¡no la encontraremos!\n\n»¡Solo Dios conoce la sabiduría,\npues él todo lo sabe!\nDios creó la tierra,\ny la llenó de animales.\nDios ordena que salga la luz,\ny la luz le obedece;\ny cuando la llama,\nella viene temblando.\nDios puso en el cielo las estrellas,\ny ellas brillan de felicidad.\nCuando las llama,\nellas responden: “Aquí estamos”;\ny brillan contentas para su Creador.\n\n»¡Ese es nuestro Dios!\n¡No hay nadie como él!\n\n»Dios le enseñó a Israel\ncómo alcanzar la sabiduría,\ny ella vino a este mundo\ny se quedó a vivir entre nosotros.",
+      "chapter_html": "<div class=\"version vid178 iso6393spa\" data-vid=\"178\" data-iso6393=\"spa\">\n   <div class=\"book bkBAR\">\n      <div class=\"chapter ch3\" data-usfm=\"BAR.3\">\n         <div class=\"label\">3</div><div class=\"s1\"><span class=\"heading\">Oraci&#243;n pidiendo perd&#243;n</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"BAR.3.1\"><span class=\"label\">1</span><span class=\"content\">Baruc continu&#243; diciendo:</span></span></div><div class=\"b\"></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"BAR.3.1\"><span class=\"content\">&#171;Todopoderoso Dios de Israel, con mucho dolor y tristeza te rogamos:</span></span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"BAR.3.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"BAR.3.2\"><span class=\"label\">2</span><span class=\"content\">&#8220;&#161;Escucha nuestros gritos! &#161;Hemos pecado contra ti, pero por favor, esc&#250;chanos! &#161;Ten compasi&#243;n de nosotros! </span></span><span class=\"verse v3\" data-usfm=\"BAR.3.3\"><span class=\"label\">3</span><span class=\"content\">T&#250; siempre ser&#225;s rey; nosotros, en cambio, siempre seremos unos simples mortales.</span></span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"BAR.3.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"BAR.3.4\"><span class=\"label\">4</span><span class=\"content\">&#8221;Todopoderoso Dios de Israel, escucha nuestros ruegos. Nosotros, los israelitas, somos los hijos de aquellos que pecaron contra ti y no te obedecieron. Por eso nos han llegado estas desgracias. </span></span><span class=\"verse v5\" data-usfm=\"BAR.3.5\"><span class=\"label\">5</span><span class=\"content\">&#161;Pero olvida los pecados de nuestros antepasados! &#161;Recuerda m&#225;s bien tu poder y tu fama!</span></span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"BAR.3.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"BAR.3.6\"><span class=\"label\">6</span><span class=\"content\">&#8221;&#161;T&#250; eres nuestro Dios, y nosotros queremos alabarte! </span></span><span class=\"verse v7\" data-usfm=\"BAR.3.7\"><span class=\"label\">7</span><span class=\"content\">T&#250; pusiste en nosotros el deseo de obedecerte y buscarte en oraci&#243;n. Y queremos alabarte aqu&#237;, lejos de nuestra tierra. Ya no pecamos como lo hicieron nuestros antepasados. </span></span><span class=\"verse v8\" data-usfm=\"BAR.3.8\"><span class=\"label\">8</span><span class=\"content\">&#161;M&#237;ranos, Dios nuestro! Aqu&#237; estamos, sufriendo insultos y burlas lejos de nuestra tierra. Ese castigo lo merec&#237;an nuestros antepasados, pues ellos fueron los que en verdad te olvidaron&#8221;&#187;.</span></span></div><div class=\"s1\"><span class=\"heading\">Poema a la sabidur&#237;a</span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"BAR.3.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"BAR.3.9\"><span class=\"label\">9</span><span class=\"content\">Baruc dijo:</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"BAR.3.9\"><span class=\"content\">&#171;Israelitas,</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"BAR.3.9\"><span class=\"content\">obedezcan los mandamientos,</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"BAR.3.9\"><span class=\"content\">pues dan vida y sabidur&#237;a.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"BAR.3.9\"><span class=\"content\">  </span></span><span class=\"verse v10 v11 v12\" data-usfm=\"BAR.3.10+BAR.3.11+BAR.3.12\"><span class=\"label\">10-12</span><span class=\"content\">&#187;Ustedes abandonaron a Dios,</span></span></div><div class=\"q1\"><span class=\"verse v10 v11 v12\" data-usfm=\"BAR.3.10+BAR.3.11+BAR.3.12\"><span class=\"content\">el Dios que da sabidur&#237;a;</span></span></div><div class=\"q1\"><span class=\"verse v10 v11 v12\" data-usfm=\"BAR.3.10+BAR.3.11+BAR.3.12\"><span class=\"content\">por eso viven en un pa&#237;s enemigo.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v10 v11 v12\" data-usfm=\"BAR.3.10+BAR.3.11+BAR.3.12\"><span class=\"content\">&#187;All&#237; se pondr&#225;n viejos,</span></span></div><div class=\"q1\"><span class=\"verse v10 v11 v12\" data-usfm=\"BAR.3.10+BAR.3.11+BAR.3.12\"><span class=\"content\">y vivir&#225;n como si estuvieran muertos.</span></span></div><div class=\"q1\"><span class=\"verse v10 v11 v12\" data-usfm=\"BAR.3.10+BAR.3.11+BAR.3.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"BAR.3.13\"><span class=\"label\">13</span><span class=\"content\">Si hubieran obedecido a Dios,</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"BAR.3.13\"><span class=\"content\">siempre disfrutar&#237;an de paz.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"BAR.3.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"BAR.3.14\"><span class=\"label\">14</span><span class=\"content\">&#187;Busquen la prudencia,</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"BAR.3.14\"><span class=\"content\">el valor y la inteligencia.</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"BAR.3.14\"><span class=\"content\">As&#237; encontrar&#225;n la alegr&#237;a,</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"BAR.3.14\"><span class=\"content\">la paz y una larga vida.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"BAR.3.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"BAR.3.15\"><span class=\"label\">15</span><span class=\"content\">&#187;Hasta ahora nadie sabe</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"BAR.3.15\"><span class=\"content\">d&#243;nde est&#225; la sabidur&#237;a,</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"BAR.3.15\"><span class=\"content\">ni d&#243;nde guarda sus tesoros.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"BAR.3.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"BAR.3.16\"><span class=\"label\">16</span><span class=\"content\">&#187;&#191;D&#243;nde est&#225;n los reyes</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"BAR.3.16\"><span class=\"content\">que dominan a las fieras,</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"BAR.3.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"BAR.3.17\"><span class=\"label\">17</span><span class=\"content\">y se divierten con las aves?</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"BAR.3.17\"><span class=\"content\">&#187;&#191;D&#243;nde est&#225;n aquellos</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"BAR.3.17\"><span class=\"content\">que adoran al dinero?</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"BAR.3.17\"><span class=\"content\">&#161;Esos que amontonan oro y plata</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"BAR.3.17\"><span class=\"content\">y nunca se cansan de hacerlo!</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"BAR.3.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"BAR.3.18\"><span class=\"label\">18</span><span class=\"content\">&#187;&#191;D&#243;nde est&#225;n los joyeros</span></span></div><div class=\"q1\"><span class=\"verse v18\" data-usfm=\"BAR.3.18\"><span class=\"content\">que hacen obras de arte</span></span></div><div class=\"q1\"><span class=\"verse v18\" data-usfm=\"BAR.3.18\"><span class=\"content\">que nadie puede imitar?</span></span></div><div class=\"q1\"><span class=\"verse v18\" data-usfm=\"BAR.3.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"BAR.3.19\"><span class=\"label\">19</span><span class=\"content\">&#161;Ya est&#225;n muertos!</span></span></div><div class=\"q1\"><span class=\"verse v19\" data-usfm=\"BAR.3.19\"><span class=\"content\">&#161;Su lugar lo ocupan otros!</span></span></div><div class=\"q1\"><span class=\"verse v19\" data-usfm=\"BAR.3.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"BAR.3.20\"><span class=\"label\">20</span><span class=\"content\">Ahora son los j&#243;venes</span></span></div><div class=\"q1\"><span class=\"verse v20\" data-usfm=\"BAR.3.20\"><span class=\"content\">los que gobiernan este mundo.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v20\" data-usfm=\"BAR.3.20\"><span class=\"content\">&#187;Pero tampoco esos j&#243;venes</span></span></div><div class=\"q1\"><span class=\"verse v20\" data-usfm=\"BAR.3.20\"><span class=\"content\">saben qu&#233; es la sabidur&#237;a.</span></span></div><div class=\"q1\"><span class=\"verse v20\" data-usfm=\"BAR.3.20\"><span class=\"content\">  </span></span><span class=\"verse v21\" data-usfm=\"BAR.3.21\"><span class=\"label\">21</span><span class=\"content\">Todav&#237;a no la encuentran,</span></span></div><div class=\"q1\"><span class=\"verse v21\" data-usfm=\"BAR.3.21\"><span class=\"content\">ni podr&#225;n jam&#225;s alcanzarla.</span></span></div><div class=\"q1\"><span class=\"verse v21\" data-usfm=\"BAR.3.21\"><span class=\"content\">A sus hijos no les interesa</span></span></div><div class=\"q1\"><span class=\"verse v21\" data-usfm=\"BAR.3.21\"><span class=\"content\">alcanzar la sabidur&#237;a.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v21\" data-usfm=\"BAR.3.21\"><span class=\"content\">  </span></span><span class=\"verse v22\" data-usfm=\"BAR.3.22\"><span class=\"label\">22</span><span class=\"content\">&#187;Los habitantes de Cana&#225;n</span></span></div><div class=\"q1\"><span class=\"verse v22\" data-usfm=\"BAR.3.22\"><span class=\"content\">nunca supieron de la sabidur&#237;a;</span></span></div><div class=\"q1\"><span class=\"verse v22\" data-usfm=\"BAR.3.22\"><span class=\"content\">tampoco los de Tem&#225;n</span></span></div><div class=\"q1\"><span class=\"verse v22\" data-usfm=\"BAR.3.22\"><span class=\"content\">oyeron hablar de ella.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v22\" data-usfm=\"BAR.3.22\"><span class=\"content\">  </span></span><span class=\"verse v23\" data-usfm=\"BAR.3.23\"><span class=\"label\">23</span><span class=\"content\">&#187;Los &#225;rabes aman la aventura,</span></span></div><div class=\"q1\"><span class=\"verse v23\" data-usfm=\"BAR.3.23\"><span class=\"content\">pero de sabios no tienen nada.</span></span></div><div class=\"q1\"><span class=\"verse v23\" data-usfm=\"BAR.3.23\"><span class=\"content\">Los comerciantes de Madi&#225;n y Tem&#225;n</span></span></div><div class=\"q1\"><span class=\"verse v23\" data-usfm=\"BAR.3.23\"><span class=\"content\">tampoco llegaron a ser sabios.</span></span></div><div class=\"q1\"><span class=\"verse v23\" data-usfm=\"BAR.3.23\"><span class=\"content\">Los fil&#243;sofos ni siquiera saben</span></span></div><div class=\"q1\"><span class=\"verse v23\" data-usfm=\"BAR.3.23\"><span class=\"content\">qu&#233; es la sabidur&#237;a,</span></span></div><div class=\"q1\"><span class=\"verse v23\" data-usfm=\"BAR.3.23\"><span class=\"content\">y los que escriben historias,</span></span></div><div class=\"q1\"><span class=\"verse v23\" data-usfm=\"BAR.3.23\"><span class=\"content\">ni idea tienen de qu&#233; se trata.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v23\" data-usfm=\"BAR.3.23\"><span class=\"content\">  </span></span><span class=\"verse v24\" data-usfm=\"BAR.3.24\"><span class=\"label\">24</span><span class=\"content\">&#187;&#161;Israelitas,</span></span></div><div class=\"q1\"><span class=\"verse v24\" data-usfm=\"BAR.3.24\"><span class=\"content\">qu&#233; inmenso es el universo!</span></span></div><div class=\"q1\"><span class=\"verse v24\" data-usfm=\"BAR.3.24\"><span class=\"content\">&#161;Qu&#233; enorme es el hogar de Dios!</span></span></div><div class=\"q1\"><span class=\"verse v24\" data-usfm=\"BAR.3.24\"><span class=\"content\">&#161;Qu&#233; grandioso es su imperio!</span></span></div><div class=\"q1\"><span class=\"verse v24\" data-usfm=\"BAR.3.24\"><span class=\"content\">  </span></span><span class=\"verse v25\" data-usfm=\"BAR.3.25\"><span class=\"label\">25</span><span class=\"content\">Su grandeza no tiene l&#237;mites,</span></span></div><div class=\"q1\"><span class=\"verse v25\" data-usfm=\"BAR.3.25\"><span class=\"content\">&#161;nadie lo puede medir!</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v25\" data-usfm=\"BAR.3.25\"><span class=\"content\">  </span></span><span class=\"verse v26\" data-usfm=\"BAR.3.26\"><span class=\"label\">26</span><span class=\"content\">&#187;En el imperio de Dios nacieron</span></span></div><div class=\"q1\"><span class=\"verse v26\" data-usfm=\"BAR.3.26\"><span class=\"content\">los gigantes de la antig&#252;edad;</span></span></div><div class=\"q1\"><span class=\"verse v26\" data-usfm=\"BAR.3.26\"><span class=\"content\">hombres fuertes y famosos,</span></span></div><div class=\"q1\"><span class=\"verse v26\" data-usfm=\"BAR.3.26\"><span class=\"content\">guerreros excelentes.</span></span></div><div class=\"q1\"><span class=\"verse v26\" data-usfm=\"BAR.3.26\"><span class=\"content\">  </span></span><span class=\"verse v27\" data-usfm=\"BAR.3.27\"><span class=\"label\">27</span><span class=\"content\">Pero Dios no los eligi&#243; a ellos,</span></span></div><div class=\"q1\"><span class=\"verse v27\" data-usfm=\"BAR.3.27\"><span class=\"content\">ni les mostr&#243; el camino</span></span></div><div class=\"q1\"><span class=\"verse v27\" data-usfm=\"BAR.3.27\"><span class=\"content\">que lleva a la sabidur&#237;a.</span></span></div><div class=\"q1\"><span class=\"verse v27\" data-usfm=\"BAR.3.27\"><span class=\"content\">  </span></span><span class=\"verse v28\" data-usfm=\"BAR.3.28\"><span class=\"label\">28</span><span class=\"content\">Su imprudencia los mat&#243;;</span></span></div><div class=\"q1\"><span class=\"verse v28\" data-usfm=\"BAR.3.28\"><span class=\"content\">&#161;su locura acab&#243; con ellos!</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v28\" data-usfm=\"BAR.3.28\"><span class=\"content\">  </span></span><span class=\"verse v29 v30 v31\" data-usfm=\"BAR.3.29+BAR.3.30+BAR.3.31\"><span class=\"label\">29-31</span><span class=\"content\">&#187;&#191;Y d&#243;nde est&#225; la sabidur&#237;a?</span></span></div><div class=\"q1\"><span class=\"verse v29 v30 v31\" data-usfm=\"BAR.3.29+BAR.3.30+BAR.3.31\"><span class=\"content\">Ninguno de nosotros</span></span></div><div class=\"q1\"><span class=\"verse v29 v30 v31\" data-usfm=\"BAR.3.29+BAR.3.30+BAR.3.31\"><span class=\"content\">puede llegar a ella.</span></span></div><div class=\"q1\"><span class=\"verse v29 v30 v31\" data-usfm=\"BAR.3.29+BAR.3.30+BAR.3.31\"><span class=\"content\">Aunque subamos a las nubes,</span></span></div><div class=\"q1\"><span class=\"verse v29 v30 v31\" data-usfm=\"BAR.3.29+BAR.3.30+BAR.3.31\"><span class=\"content\">o lleguemos a lo m&#225;s alto del cielo;</span></span></div><div class=\"q1\"><span class=\"verse v29 v30 v31\" data-usfm=\"BAR.3.29+BAR.3.30+BAR.3.31\"><span class=\"content\">aunque crucemos al otro lado del mar,</span></span></div><div class=\"q1\"><span class=\"verse v29 v30 v31\" data-usfm=\"BAR.3.29+BAR.3.30+BAR.3.31\"><span class=\"content\">o tengamos todo el dinero del mundo,</span></span></div><div class=\"q1\"><span class=\"verse v29 v30 v31\" data-usfm=\"BAR.3.29+BAR.3.30+BAR.3.31\"><span class=\"content\">&#161;no la encontraremos!</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v29 v30 v31\" data-usfm=\"BAR.3.29+BAR.3.30+BAR.3.31\"><span class=\"content\">  </span></span><span class=\"verse v32\" data-usfm=\"BAR.3.32\"><span class=\"label\">32</span><span class=\"content\">&#187;&#161;Solo Dios conoce la sabidur&#237;a,</span></span></div><div class=\"q1\"><span class=\"verse v32\" data-usfm=\"BAR.3.32\"><span class=\"content\">pues &#233;l todo lo sabe!</span></span></div><div class=\"q1\"><span class=\"verse v32\" data-usfm=\"BAR.3.32\"><span class=\"content\">Dios cre&#243; la tierra,</span></span></div><div class=\"q1\"><span class=\"verse v32\" data-usfm=\"BAR.3.32\"><span class=\"content\">y la llen&#243; de animales.</span></span></div><div class=\"q1\"><span class=\"verse v32\" data-usfm=\"BAR.3.32\"><span class=\"content\">  </span></span><span class=\"verse v33\" data-usfm=\"BAR.3.33\"><span class=\"label\">33</span><span class=\"content\">Dios ordena que salga la luz,</span></span></div><div class=\"q1\"><span class=\"verse v33\" data-usfm=\"BAR.3.33\"><span class=\"content\">y la luz le obedece;</span></span></div><div class=\"q1\"><span class=\"verse v33\" data-usfm=\"BAR.3.33\"><span class=\"content\">y cuando la llama,</span></span></div><div class=\"q1\"><span class=\"verse v33\" data-usfm=\"BAR.3.33\"><span class=\"content\">ella viene temblando.</span></span></div><div class=\"q1\"><span class=\"verse v33\" data-usfm=\"BAR.3.33\"><span class=\"content\">  </span></span><span class=\"verse v34\" data-usfm=\"BAR.3.34\"><span class=\"label\">34</span><span class=\"content\">Dios puso en el cielo las estrellas,</span></span></div><div class=\"q1\"><span class=\"verse v34\" data-usfm=\"BAR.3.34\"><span class=\"content\">y ellas brillan de felicidad.</span></span></div><div class=\"q1\"><span class=\"verse v34\" data-usfm=\"BAR.3.34\"><span class=\"content\">  </span></span><span class=\"verse v35\" data-usfm=\"BAR.3.35\"><span class=\"label\">35</span><span class=\"content\">Cuando las llama,</span></span></div><div class=\"q1\"><span class=\"verse v35\" data-usfm=\"BAR.3.35\"><span class=\"content\">ellas responden: &#8220;Aqu&#237; estamos&#8221;;</span></span></div><div class=\"q1\"><span class=\"verse v35\" data-usfm=\"BAR.3.35\"><span class=\"content\">y brillan contentas para su Creador.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v35\" data-usfm=\"BAR.3.35\"><span class=\"content\">  </span></span><span class=\"verse v36\" data-usfm=\"BAR.3.36\"><span class=\"label\">36</span><span class=\"content\">&#187;&#161;Ese es nuestro Dios!</span></span></div><div class=\"q1\"><span class=\"verse v36\" data-usfm=\"BAR.3.36\"><span class=\"content\">&#161;No hay nadie como &#233;l!</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v36\" data-usfm=\"BAR.3.36\"><span class=\"content\">  </span></span><span class=\"verse v37\" data-usfm=\"BAR.3.37\"><span class=\"label\">37</span><span class=\"content\">&#187;Dios le ense&#241;&#243; a Israel</span></span></div><div class=\"q1\"><span class=\"verse v37\" data-usfm=\"BAR.3.37\"><span class=\"content\">c&#243;mo alcanzar la sabidur&#237;a,</span></span></div><div class=\"q1\"><span class=\"verse v37\" data-usfm=\"BAR.3.37\"><span class=\"content\">  </span></span><span class=\"verse v38\" data-usfm=\"BAR.3.38\"><span class=\"label\">38</span><span class=\"content\">y ella vino a este mundo</span></span></div><div class=\"q1\"><span class=\"verse v38\" data-usfm=\"BAR.3.38\"><span class=\"content\">y se qued&#243; a vivir entre nosotros.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Oración pidiendo perdón"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Baruc continuó diciendo:",
+            "«Todopoderoso Dios de Israel, con mucho dolor y tristeza te rogamos:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "“¡Escucha nuestros gritos! ¡Hemos pecado contra ti, pero por favor, escúchanos! ¡Ten compasión de nosotros!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Tú siempre serás rey; nosotros, en cambio, siempre seremos unos simples mortales."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "”Todopoderoso Dios de Israel, escucha nuestros ruegos. Nosotros, los israelitas, somos los hijos de aquellos que pecaron contra ti y no te obedecieron. Por eso nos han llegado estas desgracias."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "¡Pero olvida los pecados de nuestros antepasados! ¡Recuerda más bien tu poder y tu fama!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "”¡Tú eres nuestro Dios, y nosotros queremos alabarte!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Tú pusiste en nosotros el deseo de obedecerte y buscarte en oración. Y queremos alabarte aquí, lejos de nuestra tierra. Ya no pecamos como lo hicieron nuestros antepasados."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "¡Míranos, Dios nuestro! Aquí estamos, sufriendo insultos y burlas lejos de nuestra tierra. Ese castigo lo merecían nuestros antepasados, pues ellos fueron los que en verdad te olvidaron”»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Poema a la sabiduría"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Baruc dijo:",
+            "«Israelitas,",
+            "obedezcan los mandamientos,",
+            "pues dan vida y sabiduría.",
+            "»Ustedes abandonaron a Dios,",
+            "el Dios que da sabiduría;",
+            "por eso viven en un país enemigo.",
+            "»Allí se pondrán viejos,",
+            "y vivirán como si estuvieran muertos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Si hubieran obedecido a Dios,",
+            "siempre disfrutarían de paz."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "»Busquen la prudencia,",
+            "el valor y la inteligencia.",
+            "Así encontrarán la alegría,",
+            "la paz y una larga vida."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "»Hasta ahora nadie sabe",
+            "dónde está la sabiduría,",
+            "ni dónde guarda sus tesoros."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "»¿Dónde están los reyes",
+            "que dominan a las fieras,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "y se divierten con las aves?",
+            "»¿Dónde están aquellos",
+            "que adoran al dinero?",
+            "¡Esos que amontonan oro y plata",
+            "y nunca se cansan de hacerlo!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "»¿Dónde están los joyeros",
+            "que hacen obras de arte",
+            "que nadie puede imitar?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "¡Ya están muertos!",
+            "¡Su lugar lo ocupan otros!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Ahora son los jóvenes",
+            "los que gobiernan este mundo.",
+            "»Pero tampoco esos jóvenes",
+            "saben qué es la sabiduría."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "Todavía no la encuentran,",
+            "ni podrán jamás alcanzarla.",
+            "A sus hijos no les interesa",
+            "alcanzar la sabiduría."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "»Los habitantes de Canaán",
+            "nunca supieron de la sabiduría;",
+            "tampoco los de Temán",
+            "oyeron hablar de ella."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "»Los árabes aman la aventura,",
+            "pero de sabios no tienen nada.",
+            "Los comerciantes de Madián y Temán",
+            "tampoco llegaron a ser sabios.",
+            "Los filósofos ni siquiera saben",
+            "qué es la sabiduría,",
+            "y los que escriben historias,",
+            "ni idea tienen de qué se trata."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "»¡Israelitas,",
+            "qué inmenso es el universo!",
+            "¡Qué enorme es el hogar de Dios!",
+            "¡Qué grandioso es su imperio!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "Su grandeza no tiene límites,",
+            "¡nadie lo puede medir!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 26,
+          "lines": [
+            "»En el imperio de Dios nacieron",
+            "los gigantes de la antigüedad;",
+            "hombres fuertes y famosos,",
+            "guerreros excelentes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 27,
+          "lines": [
+            "Pero Dios no los eligió a ellos,",
+            "ni les mostró el camino",
+            "que lleva a la sabiduría."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 28,
+          "lines": [
+            "Su imprudencia los mató;",
+            "¡su locura acabó con ellos!",
+            "»¿Y dónde está la sabiduría?",
+            "Ninguno de nosotros",
+            "puede llegar a ella.",
+            "Aunque subamos a las nubes,",
+            "o lleguemos a lo más alto del cielo;",
+            "aunque crucemos al otro lado del mar,",
+            "o tengamos todo el dinero del mundo,",
+            "¡no la encontraremos!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 32,
+          "lines": [
+            "»¡Solo Dios conoce la sabiduría,",
+            "pues él todo lo sabe!",
+            "Dios creó la tierra,",
+            "y la llenó de animales."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 33,
+          "lines": [
+            "Dios ordena que salga la luz,",
+            "y la luz le obedece;",
+            "y cuando la llama,",
+            "ella viene temblando."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 34,
+          "lines": [
+            "Dios puso en el cielo las estrellas,",
+            "y ellas brillan de felicidad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 35,
+          "lines": [
+            "Cuando las llama,",
+            "ellas responden: “Aquí estamos”;",
+            "y brillan contentas para su Creador."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 36,
+          "lines": [
+            "»¡Ese es nuestro Dios!",
+            "¡No hay nadie como él!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 37,
+          "lines": [
+            "»Dios le enseñó a Israel",
+            "cómo alcanzar la sabiduría,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 38,
+          "lines": [
+            "y ella vino a este mundo",
+            "y se quedó a vivir entre nosotros."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "BAR.4",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "BAR.4"
+        ],
+        "human": "Baruc 4"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "BAR.5"
+        ],
+        "human": "Baruc 5",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "BAR.3"
+        ],
+        "human": "Baruc 3",
+        "toc": true
+      },
+      "chapter_text": "»¡Las enseñanzas de Dios\nson la sabiduría misma,\ny durarán para siempre!\nSi las obedeces, vivirás;\nsi las desobedeces, morirás.\n\n»Pueblo de Israel,\n¡vuelve a Dios, y acepta su sabiduría!\n¡Déjate guiar por su luz!\n¡No dejes que otros gocen\nde tus privilegios!\n¡No pongas tu grandeza\nen manos de extranjeros!\n\n»Los israelitas somos felices,\npues sabemos lo que Dios quiere.»\n\n«¡Israelitas, pueblo mío,\nden rienda suelta a su alegría!\nUstedes hicieron enojar a Dios,\npero él no los destruirá.\nDios los entregó a sus enemigos,\ny permitió que los vendieran\na otras naciones,\npero él no los destruirá.\n\n»Ustedes ofrecieron sacrificios\na los demonios,\nolvidaron a Dios, su creador,\ny por eso lo hicieron enojar.\nSe olvidaron del Dios eterno,\nque tuvo cuidado de ustedes,\ny le causaron dolor a Jerusalén,\nla ciudad que los vio crecer.\n\n»Cuando se supo\nque Dios iba a castigarlos,\nJerusalén dijo:\n\n“¡Ciudades vecinas, escuchen:\nDios me envió un dolor muy grande!\nYo vi cómo el Dios eterno\nmandaba presos a mis habitantes.\nCon alegría los vi crecer,\npero con gran dolor los vi partir.\nQue nadie se alegre al verme\nsola y abandonada por todos.\nMe quedé sin habitantes\nporque ellos pecaron contra Dios\ny no obedecieron sus mandamientos.\nNo permitieron que él les enseñara\ncómo vivir en este mundo.\nPor eso, ¡vengan ciudades vecinas!\n¡Recuerden que el Dios eterno\nhizo que a mis habitantes\nse los llevaran prisioneros!\n\n”Dios hizo que viniera de muy lejos\nuna nación de malvados\nque hablaba otro idioma,\nque no respetaba a los ancianos,\nni tenía compasión de los niños.\nEsos malvados me quitaron\na los que yo tanto quería,\ny me dejaron sola y abandonada.\nYo nada puedo hacer\npara ayudar a mi pueblo.\nDios le envió esos males,\ny solo él puede librarlo\nde sus enemigos.\n\n”¡Marchen, habitantes míos, marchen!\n¡Yo me quedaré sola!\nYa he guardado los vestidos de fiesta,\ny me he puesto la ropa de luto;\ncada día de mi vida\npediré a Dios por ustedes.\n¡Pueblo mío, ten confianza!\nPídele a Dios que te ayude\ny te libre del poder del enemigo.\nHe esperado mucho tiempo\nque el Dios eterno los salve.\nY él me dio este consuelo:\nMe dijo que muy pronto\nles tendrá compasión\ny los librará de sus enemigos.\n\n”Cuando salieron de aquí,\nlos despedí con lágrimas en los ojos;\npero cuando Dios me los devuelva,\ntendré gozo y alegría para siempre.\nMuy pronto las ciudades vecinas\nque los vieron irse presos,\nverán el poder del Dios eterno\nque los traerá de vuelta a su tierra.\n\n”¡Pueblo mío, soporta con valor\nel castigo que Dios te ha mandado!\nTus enemigos te persiguieron,\npero pronto serán destruidos,\ny quedarán bajo tu poder.\n\n”Querido pueblo,\nanduviste por lugares peligrosos.\nEl enemigo te arrebató,\ncomo el lobo arrebata a las ovejas.\n¡No te desanimes, pueblo mío!\nPídele a Dios que te ayude;\nes verdad que te castigó,\npero también te salvará.\nPueblo mío, busca a Dios\ncon la misma insistencia\ncon que te alejaste de él.\nEs verdad que te castigó,\npero también te regalará\nsalvación y alegría eterna”.»\n\nBaruc continuó diciendo:\n\n«¡Ten ánimo, ciudad de Jerusalén!\nDios te conoce por nombre,\ny él mismo te consolará.\n\n»¡Qué mal les va a ir\na los que te causaron daño\ny se alegraron al verte sufrir!\n¡Qué mal les va a ir\na las malvadas ciudades\nque esclavizaron a tus habitantes!\n\n»¡Qué mal le va a ir\na la ciudad de Babilonia\nque mantuvo presos a tus habitantes!\nAsí como gritó de alegría\npor tu desgracia y caída,\nasí gritará de dolor\ncuando quede en ruinas.\nDios le quitará el orgullo\nde ser una ciudad muy importante;\nsu orgullo se convertirá en tristeza.\nEl Dios eterno enviará sobre ella\nun fuego que arderá por muchos días,\ny durante muchos años\nsolo demonios vivirán en ella.\n\n»¡Jerusalén,\nmira hacia donde sale el sol,\ny verás con alegría lo que Dios te trae!\n¡Mira, ya vuelven tus habitantes,\nlos que un día viste partir!\nEl Dios único los ha reunido;\nlos ha llamado de todas las naciones\ndonde estaban prisioneros.\nVienen llenos de felicidad\nporque han visto el poder de Dios.",
+      "chapter_html": "<div class=\"version vid178 iso6393spa\" data-vid=\"178\" data-iso6393=\"spa\">\n   <div class=\"book bkBAR\">\n      <div class=\"chapter ch4\" data-usfm=\"BAR.4\">\n         <div class=\"label\">4</div><div class=\"q1\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"BAR.4.1\"><span class=\"label\">1</span><span class=\"content\">&#187;&#161;Las ense&#241;anzas de Dios</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"BAR.4.1\"><span class=\"content\">son la sabidur&#237;a misma,</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"BAR.4.1\"><span class=\"content\">y durar&#225;n para siempre!</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"BAR.4.1\"><span class=\"content\">Si las obedeces, vivir&#225;s;</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"BAR.4.1\"><span class=\"content\">si las desobedeces, morir&#225;s.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"BAR.4.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"BAR.4.2\"><span class=\"label\">2</span><span class=\"content\">&#187;Pueblo de Israel,</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"BAR.4.2\"><span class=\"content\">&#161;vuelve a Dios, y acepta su sabidur&#237;a!</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"BAR.4.2\"><span class=\"content\">&#161;D&#233;jate guiar por su luz!</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"BAR.4.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"BAR.4.3\"><span class=\"label\">3</span><span class=\"content\">&#161;No dejes que otros gocen</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"BAR.4.3\"><span class=\"content\">de tus privilegios!</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"BAR.4.3\"><span class=\"content\">&#161;No pongas tu grandeza</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"BAR.4.3\"><span class=\"content\">en manos de extranjeros!</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"BAR.4.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"BAR.4.4\"><span class=\"label\">4</span><span class=\"content\">&#187;Los israelitas somos felices,</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"BAR.4.4\"><span class=\"content\">pues sabemos lo que Dios quiere.&#187;</span></span></div><div class=\"s1\"><span class=\"heading\">Mensaje de consuelo</span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"BAR.4.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"BAR.4.5\"><span class=\"label\">5</span><span class=\"content\">&#171;&#161;Israelitas, pueblo m&#237;o,</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"BAR.4.5\"><span class=\"content\">den rienda suelta a su alegr&#237;a!</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"BAR.4.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"BAR.4.6\"><span class=\"label\">6</span><span class=\"content\">Ustedes hicieron enojar a Dios,</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"BAR.4.6\"><span class=\"content\">pero &#233;l no los destruir&#225;.</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"BAR.4.6\"><span class=\"content\">Dios los entreg&#243; a sus enemigos,</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"BAR.4.6\"><span class=\"content\">y permiti&#243; que los vendieran</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"BAR.4.6\"><span class=\"content\">a otras naciones,</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"BAR.4.6\"><span class=\"content\">pero &#233;l no los destruir&#225;.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"BAR.4.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"BAR.4.7\"><span class=\"label\">7</span><span class=\"content\">&#187;Ustedes ofrecieron sacrificios</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"BAR.4.7\"><span class=\"content\">a los demonios,</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"BAR.4.7\"><span class=\"content\">olvidaron a Dios, su creador,</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"BAR.4.7\"><span class=\"content\">y por eso lo hicieron enojar.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"BAR.4.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"BAR.4.8\"><span class=\"label\">8</span><span class=\"content\">Se olvidaron del Dios eterno,</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"BAR.4.8\"><span class=\"content\">que tuvo cuidado de ustedes,</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"BAR.4.8\"><span class=\"content\">y le causaron dolor a Jerusal&#233;n,</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"BAR.4.8\"><span class=\"content\">la ciudad que los vio crecer.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"BAR.4.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"BAR.4.9\"><span class=\"label\">9</span><span class=\"content\">&#187;Cuando se supo</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"BAR.4.9\"><span class=\"content\">que Dios iba a castigarlos,</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"BAR.4.9\"><span class=\"content\">Jerusal&#233;n dijo:</span></span></div><div class=\"b\"></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"BAR.4.9\"><span class=\"content\">&#8220;&#161;Ciudades vecinas, escuchen:</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"BAR.4.9\"><span class=\"content\">Dios me envi&#243; un dolor muy grande!</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"BAR.4.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"BAR.4.10\"><span class=\"label\">10</span><span class=\"content\">Yo vi c&#243;mo el Dios eterno</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"BAR.4.10\"><span class=\"content\">mandaba presos a mis habitantes.</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"BAR.4.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"BAR.4.11\"><span class=\"label\">11</span><span class=\"content\">Con alegr&#237;a los vi crecer,</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"BAR.4.11\"><span class=\"content\">pero con gran dolor los vi partir.</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"BAR.4.11\"><span class=\"content\">  </span></span><span class=\"verse v12 v13\" data-usfm=\"BAR.4.12+BAR.4.13\"><span class=\"label\">12-13</span><span class=\"content\">Que nadie se alegre al verme</span></span></div><div class=\"q2\"><span class=\"verse v12 v13\" data-usfm=\"BAR.4.12+BAR.4.13\"><span class=\"content\">sola y abandonada por todos.</span></span></div><div class=\"q2\"><span class=\"verse v12 v13\" data-usfm=\"BAR.4.12+BAR.4.13\"><span class=\"content\">Me qued&#233; sin habitantes</span></span></div><div class=\"q2\"><span class=\"verse v12 v13\" data-usfm=\"BAR.4.12+BAR.4.13\"><span class=\"content\">porque ellos pecaron contra Dios</span></span></div><div class=\"q2\"><span class=\"verse v12 v13\" data-usfm=\"BAR.4.12+BAR.4.13\"><span class=\"content\">y no obedecieron sus mandamientos.</span></span></div><div class=\"q2\"><span class=\"verse v12 v13\" data-usfm=\"BAR.4.12+BAR.4.13\"><span class=\"content\">No permitieron que &#233;l les ense&#241;ara</span></span></div><div class=\"q2\"><span class=\"verse v12 v13\" data-usfm=\"BAR.4.12+BAR.4.13\"><span class=\"content\">c&#243;mo vivir en este mundo.</span></span></div><div class=\"q2\"><span class=\"verse v12 v13\" data-usfm=\"BAR.4.12+BAR.4.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"BAR.4.14\"><span class=\"label\">14</span><span class=\"content\">Por eso, &#161;vengan ciudades vecinas!</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"BAR.4.14\"><span class=\"content\">&#161;Recuerden que el Dios eterno</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"BAR.4.14\"><span class=\"content\">hizo que a mis habitantes</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"BAR.4.14\"><span class=\"content\">se los llevaran prisioneros!</span></span></div><div class=\"b\"></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"BAR.4.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"BAR.4.15\"><span class=\"label\">15</span><span class=\"content\">&#8221;Dios hizo que viniera de muy lejos</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"BAR.4.15\"><span class=\"content\">una naci&#243;n de malvados</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"BAR.4.15\"><span class=\"content\">que hablaba otro idioma,</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"BAR.4.15\"><span class=\"content\">que no respetaba a los ancianos,</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"BAR.4.15\"><span class=\"content\">ni ten&#237;a compasi&#243;n de los ni&#241;os.</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"BAR.4.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"BAR.4.16\"><span class=\"label\">16</span><span class=\"content\">Esos malvados me quitaron</span></span></div><div class=\"q2\"><span class=\"verse v16\" data-usfm=\"BAR.4.16\"><span class=\"content\">a los que yo tanto quer&#237;a,</span></span></div><div class=\"q2\"><span class=\"verse v16\" data-usfm=\"BAR.4.16\"><span class=\"content\">y me dejaron sola y abandonada.</span></span></div><div class=\"q2\"><span class=\"verse v16\" data-usfm=\"BAR.4.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"BAR.4.17\"><span class=\"label\">17</span><span class=\"content\">Yo nada puedo hacer</span></span></div><div class=\"q2\"><span class=\"verse v17\" data-usfm=\"BAR.4.17\"><span class=\"content\">para ayudar a mi pueblo.</span></span></div><div class=\"q2\"><span class=\"verse v17\" data-usfm=\"BAR.4.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"BAR.4.18\"><span class=\"label\">18</span><span class=\"content\">Dios le envi&#243; esos males,</span></span></div><div class=\"q2\"><span class=\"verse v18\" data-usfm=\"BAR.4.18\"><span class=\"content\">y solo &#233;l puede librarlo</span></span></div><div class=\"q2\"><span class=\"verse v18\" data-usfm=\"BAR.4.18\"><span class=\"content\">de sus enemigos.</span></span></div><div class=\"b\"></div><div class=\"q2\"><span class=\"verse v18\" data-usfm=\"BAR.4.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"BAR.4.19\"><span class=\"label\">19</span><span class=\"content\">&#8221;&#161;Marchen, habitantes m&#237;os, marchen!</span></span></div><div class=\"q2\"><span class=\"verse v19\" data-usfm=\"BAR.4.19\"><span class=\"content\">&#161;Yo me quedar&#233; sola!</span></span></div><div class=\"q2\"><span class=\"verse v19\" data-usfm=\"BAR.4.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"BAR.4.20\"><span class=\"label\">20</span><span class=\"content\">Ya he guardado los vestidos de fiesta,</span></span></div><div class=\"q2\"><span class=\"verse v20\" data-usfm=\"BAR.4.20\"><span class=\"content\">y me he puesto la ropa de luto;</span></span></div><div class=\"q2\"><span class=\"verse v20\" data-usfm=\"BAR.4.20\"><span class=\"content\">cada d&#237;a de mi vida</span></span></div><div class=\"q2\"><span class=\"verse v20\" data-usfm=\"BAR.4.20\"><span class=\"content\">pedir&#233; a Dios por ustedes.</span></span></div><div class=\"q2\"><span class=\"verse v20\" data-usfm=\"BAR.4.20\"><span class=\"content\">  </span></span><span class=\"verse v21\" data-usfm=\"BAR.4.21\"><span class=\"label\">21</span><span class=\"content\">&#161;Pueblo m&#237;o, ten confianza!</span></span></div><div class=\"q2\"><span class=\"verse v21\" data-usfm=\"BAR.4.21\"><span class=\"content\">P&#237;dele a Dios que te ayude</span></span></div><div class=\"q2\"><span class=\"verse v21\" data-usfm=\"BAR.4.21\"><span class=\"content\">y te libre del poder del enemigo.</span></span></div><div class=\"q2\"><span class=\"verse v21\" data-usfm=\"BAR.4.21\"><span class=\"content\">  </span></span><span class=\"verse v22\" data-usfm=\"BAR.4.22\"><span class=\"label\">22</span><span class=\"content\">He esperado mucho tiempo</span></span></div><div class=\"q2\"><span class=\"verse v22\" data-usfm=\"BAR.4.22\"><span class=\"content\">que el Dios eterno los salve.</span></span></div><div class=\"q2\"><span class=\"verse v22\" data-usfm=\"BAR.4.22\"><span class=\"content\">Y &#233;l me dio este consuelo:</span></span></div><div class=\"q2\"><span class=\"verse v22\" data-usfm=\"BAR.4.22\"><span class=\"content\">Me dijo que muy pronto</span></span></div><div class=\"q2\"><span class=\"verse v22\" data-usfm=\"BAR.4.22\"><span class=\"content\">les tendr&#225; compasi&#243;n</span></span></div><div class=\"q2\"><span class=\"verse v22\" data-usfm=\"BAR.4.22\"><span class=\"content\">y los librar&#225; de sus enemigos.</span></span></div><div class=\"b\"></div><div class=\"q2\"><span class=\"verse v22\" data-usfm=\"BAR.4.22\"><span class=\"content\">  </span></span><span class=\"verse v23\" data-usfm=\"BAR.4.23\"><span class=\"label\">23</span><span class=\"content\">&#8221;Cuando salieron de aqu&#237;,</span></span></div><div class=\"q2\"><span class=\"verse v23\" data-usfm=\"BAR.4.23\"><span class=\"content\">los desped&#237; con l&#225;grimas en los ojos;</span></span></div><div class=\"q2\"><span class=\"verse v23\" data-usfm=\"BAR.4.23\"><span class=\"content\">pero cuando Dios me los devuelva,</span></span></div><div class=\"q2\"><span class=\"verse v23\" data-usfm=\"BAR.4.23\"><span class=\"content\">tendr&#233; gozo y alegr&#237;a para siempre.</span></span></div><div class=\"q2\"><span class=\"verse v23\" data-usfm=\"BAR.4.23\"><span class=\"content\">  </span></span><span class=\"verse v24\" data-usfm=\"BAR.4.24\"><span class=\"label\">24</span><span class=\"content\">Muy pronto las ciudades vecinas</span></span></div><div class=\"q2\"><span class=\"verse v24\" data-usfm=\"BAR.4.24\"><span class=\"content\">que los vieron irse presos,</span></span></div><div class=\"q2\"><span class=\"verse v24\" data-usfm=\"BAR.4.24\"><span class=\"content\">ver&#225;n el poder del Dios eterno</span></span></div><div class=\"q2\"><span class=\"verse v24\" data-usfm=\"BAR.4.24\"><span class=\"content\">que los traer&#225; de vuelta a su tierra.</span></span></div><div class=\"b\"></div><div class=\"q2\"><span class=\"verse v24\" data-usfm=\"BAR.4.24\"><span class=\"content\">  </span></span><span class=\"verse v25\" data-usfm=\"BAR.4.25\"><span class=\"label\">25</span><span class=\"content\">&#8221;&#161;Pueblo m&#237;o, soporta con valor</span></span></div><div class=\"q2\"><span class=\"verse v25\" data-usfm=\"BAR.4.25\"><span class=\"content\">el castigo que Dios te ha mandado!</span></span></div><div class=\"q2\"><span class=\"verse v25\" data-usfm=\"BAR.4.25\"><span class=\"content\">Tus enemigos te persiguieron,</span></span></div><div class=\"q2\"><span class=\"verse v25\" data-usfm=\"BAR.4.25\"><span class=\"content\">pero pronto ser&#225;n destruidos,</span></span></div><div class=\"q2\"><span class=\"verse v25\" data-usfm=\"BAR.4.25\"><span class=\"content\">y quedar&#225;n bajo tu poder.</span></span></div><div class=\"b\"></div><div class=\"q2\"><span class=\"verse v25\" data-usfm=\"BAR.4.25\"><span class=\"content\">  </span></span><span class=\"verse v26\" data-usfm=\"BAR.4.26\"><span class=\"label\">26</span><span class=\"content\">&#8221;Querido pueblo,</span></span></div><div class=\"q2\"><span class=\"verse v26\" data-usfm=\"BAR.4.26\"><span class=\"content\">anduviste por lugares peligrosos.</span></span></div><div class=\"q2\"><span class=\"verse v26\" data-usfm=\"BAR.4.26\"><span class=\"content\">El enemigo te arrebat&#243;,</span></span></div><div class=\"q2\"><span class=\"verse v26\" data-usfm=\"BAR.4.26\"><span class=\"content\">como el lobo arrebata a las ovejas.</span></span></div><div class=\"q2\"><span class=\"verse v26\" data-usfm=\"BAR.4.26\"><span class=\"content\">  </span></span><span class=\"verse v27\" data-usfm=\"BAR.4.27\"><span class=\"label\">27</span><span class=\"content\">&#161;No te desanimes, pueblo m&#237;o!</span></span></div><div class=\"q2\"><span class=\"verse v27\" data-usfm=\"BAR.4.27\"><span class=\"content\">P&#237;dele a Dios que te ayude;</span></span></div><div class=\"q2\"><span class=\"verse v27\" data-usfm=\"BAR.4.27\"><span class=\"content\">es verdad que te castig&#243;,</span></span></div><div class=\"q2\"><span class=\"verse v27\" data-usfm=\"BAR.4.27\"><span class=\"content\">pero tambi&#233;n te salvar&#225;.</span></span></div><div class=\"q2\"><span class=\"verse v27\" data-usfm=\"BAR.4.27\"><span class=\"content\">  </span></span><span class=\"verse v28\" data-usfm=\"BAR.4.28\"><span class=\"label\">28</span><span class=\"content\">Pueblo m&#237;o, busca a Dios</span></span></div><div class=\"q2\"><span class=\"verse v28\" data-usfm=\"BAR.4.28\"><span class=\"content\">con la misma insistencia</span></span></div><div class=\"q2\"><span class=\"verse v28\" data-usfm=\"BAR.4.28\"><span class=\"content\">con que te alejaste de &#233;l.</span></span></div><div class=\"q2\"><span class=\"verse v28\" data-usfm=\"BAR.4.28\"><span class=\"content\">  </span></span><span class=\"verse v29\" data-usfm=\"BAR.4.29\"><span class=\"label\">29</span><span class=\"content\">Es verdad que te castig&#243;,</span></span></div><div class=\"q2\"><span class=\"verse v29\" data-usfm=\"BAR.4.29\"><span class=\"content\">pero tambi&#233;n te regalar&#225;</span></span></div><div class=\"q2\"><span class=\"verse v29\" data-usfm=\"BAR.4.29\"><span class=\"content\">salvaci&#243;n y alegr&#237;a eterna&#8221;.&#187;</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v29\" data-usfm=\"BAR.4.29\"><span class=\"content\">  </span></span><span class=\"verse v30\" data-usfm=\"BAR.4.30\"><span class=\"label\">30</span><span class=\"content\">Baruc continu&#243; diciendo:</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v30\" data-usfm=\"BAR.4.30\"><span class=\"content\">&#171;&#161;Ten &#225;nimo, ciudad de Jerusal&#233;n!</span></span></div><div class=\"q1\"><span class=\"verse v30\" data-usfm=\"BAR.4.30\"><span class=\"content\">Dios te conoce por nombre,</span></span></div><div class=\"q1\"><span class=\"verse v30\" data-usfm=\"BAR.4.30\"><span class=\"content\">y &#233;l mismo te consolar&#225;.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v30\" data-usfm=\"BAR.4.30\"><span class=\"content\">  </span></span><span class=\"verse v31\" data-usfm=\"BAR.4.31\"><span class=\"label\">31</span><span class=\"content\">&#187;&#161;Qu&#233; mal les va a ir</span></span></div><div class=\"q1\"><span class=\"verse v31\" data-usfm=\"BAR.4.31\"><span class=\"content\">a los que te causaron da&#241;o</span></span></div><div class=\"q1\"><span class=\"verse v31\" data-usfm=\"BAR.4.31\"><span class=\"content\">y se alegraron al verte sufrir!</span></span></div><div class=\"q1\"><span class=\"verse v31\" data-usfm=\"BAR.4.31\"><span class=\"content\">  </span></span><span class=\"verse v32\" data-usfm=\"BAR.4.32\"><span class=\"label\">32</span><span class=\"content\">&#161;Qu&#233; mal les va a ir</span></span></div><div class=\"q1\"><span class=\"verse v32\" data-usfm=\"BAR.4.32\"><span class=\"content\">a las malvadas ciudades</span></span></div><div class=\"q1\"><span class=\"verse v32\" data-usfm=\"BAR.4.32\"><span class=\"content\">que esclavizaron a tus habitantes!</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v32\" data-usfm=\"BAR.4.32\"><span class=\"content\">&#187;&#161;Qu&#233; mal le va a ir</span></span></div><div class=\"q1\"><span class=\"verse v32\" data-usfm=\"BAR.4.32\"><span class=\"content\">a la ciudad de Babilonia</span></span></div><div class=\"q1\"><span class=\"verse v32\" data-usfm=\"BAR.4.32\"><span class=\"content\">que mantuvo presos a tus habitantes!</span></span></div><div class=\"q1\"><span class=\"verse v32\" data-usfm=\"BAR.4.32\"><span class=\"content\">  </span></span><span class=\"verse v33\" data-usfm=\"BAR.4.33\"><span class=\"label\">33</span><span class=\"content\">As&#237; como grit&#243; de alegr&#237;a</span></span></div><div class=\"q1\"><span class=\"verse v33\" data-usfm=\"BAR.4.33\"><span class=\"content\">por tu desgracia y ca&#237;da,</span></span></div><div class=\"q1\"><span class=\"verse v33\" data-usfm=\"BAR.4.33\"><span class=\"content\">as&#237; gritar&#225; de dolor</span></span></div><div class=\"q1\"><span class=\"verse v33\" data-usfm=\"BAR.4.33\"><span class=\"content\">cuando quede en ruinas.</span></span></div><div class=\"q1\"><span class=\"verse v33\" data-usfm=\"BAR.4.33\"><span class=\"content\">  </span></span><span class=\"verse v34\" data-usfm=\"BAR.4.34\"><span class=\"label\">34</span><span class=\"content\">Dios le quitar&#225; el orgullo</span></span></div><div class=\"q1\"><span class=\"verse v34\" data-usfm=\"BAR.4.34\"><span class=\"content\">de ser una ciudad muy importante;</span></span></div><div class=\"q1\"><span class=\"verse v34\" data-usfm=\"BAR.4.34\"><span class=\"content\">su orgullo se convertir&#225; en tristeza.</span></span></div><div class=\"q1\"><span class=\"verse v34\" data-usfm=\"BAR.4.34\"><span class=\"content\">  </span></span><span class=\"verse v35\" data-usfm=\"BAR.4.35\"><span class=\"label\">35</span><span class=\"content\">El Dios eterno enviar&#225; sobre ella</span></span></div><div class=\"q1\"><span class=\"verse v35\" data-usfm=\"BAR.4.35\"><span class=\"content\">un fuego que arder&#225; por muchos d&#237;as,</span></span></div><div class=\"q1\"><span class=\"verse v35\" data-usfm=\"BAR.4.35\"><span class=\"content\">y durante muchos a&#241;os</span></span></div><div class=\"q1\"><span class=\"verse v35\" data-usfm=\"BAR.4.35\"><span class=\"content\">solo demonios vivir&#225;n en ella.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v35\" data-usfm=\"BAR.4.35\"><span class=\"content\">  </span></span><span class=\"verse v36 v37\" data-usfm=\"BAR.4.36+BAR.4.37\"><span class=\"label\">36-37</span><span class=\"content\">&#187;&#161;Jerusal&#233;n,</span></span></div><div class=\"q1\"><span class=\"verse v36 v37\" data-usfm=\"BAR.4.36+BAR.4.37\"><span class=\"content\">mira hacia donde sale el sol,</span></span></div><div class=\"q1\"><span class=\"verse v36 v37\" data-usfm=\"BAR.4.36+BAR.4.37\"><span class=\"content\">y ver&#225;s con alegr&#237;a lo que Dios te trae!</span></span></div><div class=\"q1\"><span class=\"verse v36 v37\" data-usfm=\"BAR.4.36+BAR.4.37\"><span class=\"content\">&#161;Mira, ya vuelven tus habitantes,</span></span></div><div class=\"q1\"><span class=\"verse v36 v37\" data-usfm=\"BAR.4.36+BAR.4.37\"><span class=\"content\">los que un d&#237;a viste partir!</span></span></div><div class=\"q1\"><span class=\"verse v36 v37\" data-usfm=\"BAR.4.36+BAR.4.37\"><span class=\"content\">El Dios &#250;nico los ha reunido;</span></span></div><div class=\"q1\"><span class=\"verse v36 v37\" data-usfm=\"BAR.4.36+BAR.4.37\"><span class=\"content\">los ha llamado de todas las naciones</span></span></div><div class=\"q1\"><span class=\"verse v36 v37\" data-usfm=\"BAR.4.36+BAR.4.37\"><span class=\"content\">donde estaban prisioneros.</span></span></div><div class=\"q1\"><span class=\"verse v36 v37\" data-usfm=\"BAR.4.36+BAR.4.37\"><span class=\"content\">Vienen llenos de felicidad</span></span></div><div class=\"q1\"><span class=\"verse v36 v37\" data-usfm=\"BAR.4.36+BAR.4.37\"><span class=\"content\">porque han visto el poder de Dios.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "»¡Las enseñanzas de Dios",
+            "son la sabiduría misma,",
+            "y durarán para siempre!",
+            "Si las obedeces, vivirás;",
+            "si las desobedeces, morirás."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "»Pueblo de Israel,",
+            "¡vuelve a Dios, y acepta su sabiduría!",
+            "¡Déjate guiar por su luz!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "¡No dejes que otros gocen",
+            "de tus privilegios!",
+            "¡No pongas tu grandeza",
+            "en manos de extranjeros!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "»Los israelitas somos felices,",
+            "pues sabemos lo que Dios quiere.»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Mensaje de consuelo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "«¡Israelitas, pueblo mío,",
+            "den rienda suelta a su alegría!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Ustedes hicieron enojar a Dios,",
+            "pero él no los destruirá.",
+            "Dios los entregó a sus enemigos,",
+            "y permitió que los vendieran",
+            "a otras naciones,",
+            "pero él no los destruirá."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "»Ustedes ofrecieron sacrificios",
+            "a los demonios,",
+            "olvidaron a Dios, su creador,",
+            "y por eso lo hicieron enojar."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Se olvidaron del Dios eterno,",
+            "que tuvo cuidado de ustedes,",
+            "y le causaron dolor a Jerusalén,",
+            "la ciudad que los vio crecer."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "»Cuando se supo",
+            "que Dios iba a castigarlos,",
+            "Jerusalén dijo:",
+            "“¡Ciudades vecinas, escuchen:",
+            "Dios me envió un dolor muy grande!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Yo vi cómo el Dios eterno",
+            "mandaba presos a mis habitantes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Con alegría los vi crecer,",
+            "pero con gran dolor los vi partir.",
+            "Que nadie se alegre al verme",
+            "sola y abandonada por todos.",
+            "Me quedé sin habitantes",
+            "porque ellos pecaron contra Dios",
+            "y no obedecieron sus mandamientos.",
+            "No permitieron que él les enseñara",
+            "cómo vivir en este mundo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Por eso, ¡vengan ciudades vecinas!",
+            "¡Recuerden que el Dios eterno",
+            "hizo que a mis habitantes",
+            "se los llevaran prisioneros!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "”Dios hizo que viniera de muy lejos",
+            "una nación de malvados",
+            "que hablaba otro idioma,",
+            "que no respetaba a los ancianos,",
+            "ni tenía compasión de los niños."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Esos malvados me quitaron",
+            "a los que yo tanto quería,",
+            "y me dejaron sola y abandonada."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Yo nada puedo hacer",
+            "para ayudar a mi pueblo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Dios le envió esos males,",
+            "y solo él puede librarlo",
+            "de sus enemigos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "”¡Marchen, habitantes míos, marchen!",
+            "¡Yo me quedaré sola!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Ya he guardado los vestidos de fiesta,",
+            "y me he puesto la ropa de luto;",
+            "cada día de mi vida",
+            "pediré a Dios por ustedes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "¡Pueblo mío, ten confianza!",
+            "Pídele a Dios que te ayude",
+            "y te libre del poder del enemigo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "He esperado mucho tiempo",
+            "que el Dios eterno los salve.",
+            "Y él me dio este consuelo:",
+            "Me dijo que muy pronto",
+            "les tendrá compasión",
+            "y los librará de sus enemigos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "”Cuando salieron de aquí,",
+            "los despedí con lágrimas en los ojos;",
+            "pero cuando Dios me los devuelva,",
+            "tendré gozo y alegría para siempre."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "Muy pronto las ciudades vecinas",
+            "que los vieron irse presos,",
+            "verán el poder del Dios eterno",
+            "que los traerá de vuelta a su tierra."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "”¡Pueblo mío, soporta con valor",
+            "el castigo que Dios te ha mandado!",
+            "Tus enemigos te persiguieron,",
+            "pero pronto serán destruidos,",
+            "y quedarán bajo tu poder."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 26,
+          "lines": [
+            "”Querido pueblo,",
+            "anduviste por lugares peligrosos.",
+            "El enemigo te arrebató,",
+            "como el lobo arrebata a las ovejas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 27,
+          "lines": [
+            "¡No te desanimes, pueblo mío!",
+            "Pídele a Dios que te ayude;",
+            "es verdad que te castigó,",
+            "pero también te salvará."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 28,
+          "lines": [
+            "Pueblo mío, busca a Dios",
+            "con la misma insistencia",
+            "con que te alejaste de él."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 29,
+          "lines": [
+            "Es verdad que te castigó,",
+            "pero también te regalará",
+            "salvación y alegría eterna”.»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 30,
+          "lines": [
+            "Baruc continuó diciendo:",
+            "«¡Ten ánimo, ciudad de Jerusalén!",
+            "Dios te conoce por nombre,",
+            "y él mismo te consolará."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 31,
+          "lines": [
+            "»¡Qué mal les va a ir",
+            "a los que te causaron daño",
+            "y se alegraron al verte sufrir!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 32,
+          "lines": [
+            "¡Qué mal les va a ir",
+            "a las malvadas ciudades",
+            "que esclavizaron a tus habitantes!",
+            "»¡Qué mal le va a ir",
+            "a la ciudad de Babilonia",
+            "que mantuvo presos a tus habitantes!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 33,
+          "lines": [
+            "Así como gritó de alegría",
+            "por tu desgracia y caída,",
+            "así gritará de dolor",
+            "cuando quede en ruinas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 34,
+          "lines": [
+            "Dios le quitará el orgullo",
+            "de ser una ciudad muy importante;",
+            "su orgullo se convertirá en tristeza."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 35,
+          "lines": [
+            "El Dios eterno enviará sobre ella",
+            "un fuego que arderá por muchos días,",
+            "y durante muchos años",
+            "solo demonios vivirán en ella.",
+            "»¡Jerusalén,",
+            "mira hacia donde sale el sol,",
+            "y verás con alegría lo que Dios te trae!",
+            "¡Mira, ya vuelven tus habitantes,",
+            "los que un día viste partir!",
+            "El Dios único los ha reunido;",
+            "los ha llamado de todas las naciones",
+            "donde estaban prisioneros.",
+            "Vienen llenos de felicidad",
+            "porque han visto el poder de Dios."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "BAR.5",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "BAR.5"
+        ],
+        "human": "Baruc 5"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "LJE.1_1"
+        ],
+        "human": "Carta de Jer 6",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "BAR.4"
+        ],
+        "human": "Baruc 4",
+        "toc": true
+      },
+      "chapter_text": "»Ciudad de Jerusalén,\nquítate esa ropa de luto;\naleja tu tristeza y amargura.\n¡Vístete para siempre\ncon el poder que Dios te da!\nQue la justicia de Dios\nte cubra como un manto,\ny que el poder de Dios\nsea la corona de tu cabeza.\nDios mismo mostrará\ntu grandeza y esplendor,\ny todo el mundo lo verá.\nDios te dará un nuevo nombre,\ny para siempre te llamarán:\n“Paz en la justicia,\ny poder en el servicio”.\n\n»Jerusalén, ponte de pie,\nsube a la colina más alta,\nmira hacia donde sale el sol,\ny contempla a tus habitantes.\nEl Dios todopoderoso\nlos ha reunido y llamado\nde todas las naciones del mundo.\nVienen llenos de alegría,\nporque Dios les ha dado libertad.\n\n»Sus enemigos los tomaron presos,\ny se los llevaron a pie;\npero Dios traerá a tus habitantes\nen carruajes de reyes.\nDios mismo ha dado la orden\nde aplanar montañas y colinas,\ny de rellenar todos los valles,\nhasta que la tierra quede pareja.\nAsí tus habitantes,\nguiados por Dios mismo,\nno encontrarán ningún tropiezo.\nDios también ha ordenado\nque los árboles aromáticos\nden su sombra a los israelitas.\nDios guiará a su pueblo con alegría,\ny los protegerá con su poder,\ncon su amor y su justicia».",
+      "chapter_html": "<div class=\"version vid178 iso6393spa\" data-vid=\"178\" data-iso6393=\"spa\">\n   <div class=\"book bkBAR\">\n      <div class=\"chapter ch5\" data-usfm=\"BAR.5\">\n         <div class=\"label\">5</div><div class=\"q1\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"BAR.5.1\"><span class=\"label\">1</span><span class=\"content\">&#187;Ciudad de Jerusal&#233;n,</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"BAR.5.1\"><span class=\"content\">qu&#237;tate esa ropa de luto;</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"BAR.5.1\"><span class=\"content\">aleja tu tristeza y amargura.</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"BAR.5.1\"><span class=\"content\">&#161;V&#237;stete para siempre</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"BAR.5.1\"><span class=\"content\">con el poder que Dios te da!</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"BAR.5.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"BAR.5.2\"><span class=\"label\">2</span><span class=\"content\">Que la justicia de Dios</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"BAR.5.2\"><span class=\"content\">te cubra como un manto,</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"BAR.5.2\"><span class=\"content\">y que el poder de Dios</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"BAR.5.2\"><span class=\"content\">sea la corona de tu cabeza.</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"BAR.5.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"BAR.5.3\"><span class=\"label\">3</span><span class=\"content\">Dios mismo mostrar&#225;</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"BAR.5.3\"><span class=\"content\">tu grandeza y esplendor,</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"BAR.5.3\"><span class=\"content\">y todo el mundo lo ver&#225;.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"BAR.5.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"BAR.5.4\"><span class=\"label\">4</span><span class=\"content\">Dios te dar&#225; un nuevo nombre,</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"BAR.5.4\"><span class=\"content\">y para siempre te llamar&#225;n:</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"BAR.5.4\"><span class=\"content\">&#8220;Paz en la justicia,</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"BAR.5.4\"><span class=\"content\">y poder en el servicio&#8221;.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"BAR.5.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"BAR.5.5\"><span class=\"label\">5</span><span class=\"content\">&#187;Jerusal&#233;n, ponte de pie,</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"BAR.5.5\"><span class=\"content\">sube a la colina m&#225;s alta,</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"BAR.5.5\"><span class=\"content\">mira hacia donde sale el sol,</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"BAR.5.5\"><span class=\"content\">y contempla a tus habitantes.</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"BAR.5.5\"><span class=\"content\">El Dios todopoderoso</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"BAR.5.5\"><span class=\"content\">los ha reunido y llamado</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"BAR.5.5\"><span class=\"content\">de todas las naciones del mundo.</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"BAR.5.5\"><span class=\"content\">Vienen llenos de alegr&#237;a,</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"BAR.5.5\"><span class=\"content\">porque Dios les ha dado libertad.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"BAR.5.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"BAR.5.6\"><span class=\"label\">6</span><span class=\"content\">&#187;Sus enemigos los tomaron presos,</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"BAR.5.6\"><span class=\"content\">y se los llevaron a pie;</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"BAR.5.6\"><span class=\"content\">pero Dios traer&#225; a tus habitantes</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"BAR.5.6\"><span class=\"content\">en carruajes de reyes.</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"BAR.5.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"BAR.5.7\"><span class=\"label\">7</span><span class=\"content\">Dios mismo ha dado la orden</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"BAR.5.7\"><span class=\"content\">de aplanar monta&#241;as y colinas,</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"BAR.5.7\"><span class=\"content\">y de rellenar todos los valles,</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"BAR.5.7\"><span class=\"content\">hasta que la tierra quede pareja.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"BAR.5.7\"><span class=\"content\">As&#237; tus habitantes,</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"BAR.5.7\"><span class=\"content\">guiados por Dios mismo,</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"BAR.5.7\"><span class=\"content\">no encontrar&#225;n ning&#250;n tropiezo.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"BAR.5.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"BAR.5.8\"><span class=\"label\">8</span><span class=\"content\">Dios tambi&#233;n ha ordenado</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"BAR.5.8\"><span class=\"content\">que los &#225;rboles arom&#225;ticos</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"BAR.5.8\"><span class=\"content\">den su sombra a los israelitas.</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"BAR.5.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"BAR.5.9\"><span class=\"label\">9</span><span class=\"content\">Dios guiar&#225; a su pueblo con alegr&#237;a,</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"BAR.5.9\"><span class=\"content\">y los proteger&#225; con su poder,</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"BAR.5.9\"><span class=\"content\">con su amor y su justicia&#187;.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "»Ciudad de Jerusalén,",
+            "quítate esa ropa de luto;",
+            "aleja tu tristeza y amargura.",
+            "¡Vístete para siempre",
+            "con el poder que Dios te da!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Que la justicia de Dios",
+            "te cubra como un manto,",
+            "y que el poder de Dios",
+            "sea la corona de tu cabeza."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Dios mismo mostrará",
+            "tu grandeza y esplendor,",
+            "y todo el mundo lo verá."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Dios te dará un nuevo nombre,",
+            "y para siempre te llamarán:",
+            "“Paz en la justicia,",
+            "y poder en el servicio”."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "»Jerusalén, ponte de pie,",
+            "sube a la colina más alta,",
+            "mira hacia donde sale el sol,",
+            "y contempla a tus habitantes.",
+            "El Dios todopoderoso",
+            "los ha reunido y llamado",
+            "de todas las naciones del mundo.",
+            "Vienen llenos de alegría,",
+            "porque Dios les ha dado libertad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "»Sus enemigos los tomaron presos,",
+            "y se los llevaron a pie;",
+            "pero Dios traerá a tus habitantes",
+            "en carruajes de reyes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Dios mismo ha dado la orden",
+            "de aplanar montañas y colinas,",
+            "y de rellenar todos los valles,",
+            "hasta que la tierra quede pareja.",
+            "Así tus habitantes,",
+            "guiados por Dios mismo,",
+            "no encontrarán ningún tropiezo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Dios también ha ordenado",
+            "que los árboles aromáticos",
+            "den su sombra a los israelitas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Dios guiará a su pueblo con alegría,",
+            "y los protegerá con su poder,",
+            "con su amor y su justicia»."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

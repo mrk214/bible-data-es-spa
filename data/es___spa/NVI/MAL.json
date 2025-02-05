@@ -1,0 +1,661 @@
+{
+  "book_usfm": "MAL",
+  "name": "Malaquías",
+  "local_title": "Nueva Versión Internacional - Español",
+  "local_abbreviation": "NVI",
+  "version_id": 128,
+  "publisher": {
+    "name": "Biblica, Inc."
+  },
+  "copyright": {
+    "html": "<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>",
+    "text": "Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "MAL.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "MAL.1"
+        ],
+        "human": "Malaquías 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "MAL.2"
+        ],
+        "human": "Malaquías 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "ZEC.14"
+        ],
+        "human": "Zacarías 14",
+        "toc": true
+      },
+      "chapter_text": "Esta profecía es la palabra del SEÑOR dirigida a Israel por medio de Malaquías.\n\n«Yo los he amado», dice el SEÑOR.\n«“¿Y cómo nos has amado?”, preguntan ustedes.\n»¿No era Esaú hermano de Jacob? Sin embargo, amé a Jacob, pero aborrecí a Esaú. Dejé sus montañas devastadas y entregué su heredad a los chacales del desierto».\nEdom dice: «Aunque nos han hecho pedazos, reconstruiremos las ruinas». Pero el SEÑOR de los Ejércitos dice: «Ustedes podrán reconstruir, pero yo derribaré. Serán llamados territorio malvado, pueblo que estará siempre bajo la ira del SEÑOR. Ustedes lo verán con sus propios ojos y dirán: “¡Se ha engrandecido el SEÑOR aun más allá de las fronteras de Israel!”.\nSEÑOR\n»El hijo honra a su padre y el siervo a su señor. Ahora bien, si soy tu padre, ¿dónde está el honor que merezco? Y si soy señor, ¿dónde está el respeto que se me debe? Yo, el SEÑOR de los Ejércitos, les pregunto a ustedes, sacerdotes que desprecian mi nombre.\n»Y encima preguntan: “¿En qué hemos despreciado tu nombre?”.\n»Pues en que ustedes traen a mi altar alimento contaminado.\n»Y todavía preguntan: “¿En qué te hemos profanado?”.\n»Pues en que tienen la mesa del SEÑOR como algo despreciable. Ustedes traen animales ciegos para el sacrificio y piensan que no tiene nada de malo; sacrifican animales lisiados o enfermos y piensan que no tiene nada de malo. ¿Por qué no tratan de ofrecérselos a su gobernante? ¿Creen que él estaría contento con ustedes? ¿Se ganarían su favor? —dice el SEÑOR de los Ejércitos—.\n»Ahora pues, traten de suplicar a Dios para que se apiade de nosotros. ¿Creen que con esta clase de ofrendas los aceptará? —dice el SEÑOR de los Ejércitos—. ¡Cómo quisiera que alguno de ustedes cerrara las puertas del Templo, para que no encendieran en vano el fuego de mi altar! No estoy nada contento con ustedes —dice el SEÑOR de los Ejércitos— y no voy a aceptar ni una sola ofrenda de sus manos. Porque desde donde nace el sol hasta donde se pone, grande es mi nombre entre las naciones. En todo lugar se ofrece incienso y ofrendas puras a mi nombre, porque grande es mi nombre entre las naciones —dice el SEÑOR de los Ejércitos—. Pero ustedes lo profanan cuando dicen que la mesa del Señor está contaminada y que su alimento es despreciable. Y exclaman: “¡Qué carga!”. Y me desprecian —dice el SEÑOR de los Ejércitos—. ¿Y creen que voy a aceptar de sus manos los animales robados, lisiados o enfermos que ustedes me traen como sacrificio? —dice el SEÑOR—.\n»¡Maldito sea el tramposo que, teniendo un macho aceptable en su rebaño, se lo dedica al Señor y luego le ofrece un animal mutilado! Porque yo soy el gran Rey —dice el SEÑOR de los Ejércitos— y mi nombre es temido entre las naciones.",
+      "chapter_html": "<div class=\"version vid128 iso6393spa\" data-vid=\"128\" data-iso6393=\"spa\">\n   <div class=\"book bkMAL\">\n      <div class=\"chapter ch1\" data-usfm=\"MAL.1\">\n         <div class=\"label\">1</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"MAL.1.1\"><span class=\"label\">1</span><span class=\"content\">Esta profec&#237;a es la palabra del </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\"> dirigida a Israel por medio de Malaqu&#237;as.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:1 </span><span class=\"ft\">En hebreo, </span><span class=\"fq\">Malaqu&#237;as </span><span class=\"ft\">significa </span><span class=\"fqa\">mi mensajero.</span></span></span></span></div><div class=\"s1\"><span class=\"heading\">El amor de Dios por su pueblo</span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"MAL.1.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"MAL.1.2\"><span class=\"label\">2</span><span class=\"content\">&#171;Yo los he amado&#187;, dice el </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\">.</span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"MAL.1.2\"><span class=\"content\">&#171;&#8220;&#191;Y c&#243;mo nos has amado?&#8221;, preguntan ustedes.</span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"MAL.1.2\"><span class=\"content\">&#187;&#191;No era Esa&#250; hermano de Jacob? Sin embargo, am&#233; a Jacob, </span></span><span class=\"verse v3\" data-usfm=\"MAL.1.3\"><span class=\"label\">3</span><span class=\"content\">pero aborrec&#237; a Esa&#250;. Dej&#233; sus monta&#241;as devastadas y entregu&#233; su heredad a los chacales del desierto&#187;.</span></span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"MAL.1.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"MAL.1.4\"><span class=\"label\">4</span><span class=\"content\">Edom dice: &#171;Aunque nos han hecho pedazos, reconstruiremos las ruinas&#187;. Pero el </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\"> de los Ej&#233;rcitos dice: &#171;Ustedes podr&#225;n reconstruir, pero yo derribar&#233;. Ser&#225;n llamados territorio malvado, pueblo que estar&#225; siempre bajo la ira del </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\">. </span></span><span class=\"verse v5\" data-usfm=\"MAL.1.5\"><span class=\"label\">5</span><span class=\"content\">Ustedes lo ver&#225;n con sus propios ojos y dir&#225;n: &#8220;&#161;Se ha engrandecido el </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\"> aun m&#225;s all&#225; de las fronteras</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:5 </span><span class=\"fq\">aun m&#225;s all&#225; de las fronteras</span><span class=\"ft\">. Alt. </span><span class=\"fqa\">sobre el territorio.</span></span></span><span class=\"content\"> de Israel!&#8221;.</span></span></div><div class=\"s1\"><span class=\"heading\">El culto al </span><span class=\"nd\"><span class=\"heading\">Se&#241;or</span></span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"MAL.1.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"MAL.1.6\"><span class=\"label\">6</span><span class=\"content\">&#187;El hijo honra a su padre y el siervo a su se&#241;or. Ahora bien, si soy tu padre, &#191;d&#243;nde est&#225; el honor que merezco? Y si soy se&#241;or, &#191;d&#243;nde est&#225; el respeto que se me debe? Yo, el </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\"> de los Ej&#233;rcitos, les pregunto a ustedes, sacerdotes que desprecian mi nombre.</span></span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"MAL.1.6\"><span class=\"content\">&#187;Y encima preguntan: &#8220;&#191;En qu&#233; hemos despreciado tu nombre?&#8221;.</span></span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"MAL.1.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"MAL.1.7\"><span class=\"label\">7</span><span class=\"content\">&#187;Pues en que ustedes traen a mi altar alimento contaminado.</span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"MAL.1.7\"><span class=\"content\">&#187;Y todav&#237;a preguntan: &#8220;&#191;En qu&#233; te hemos profanado?&#8221;.</span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"MAL.1.7\"><span class=\"content\">&#187;Pues en que tienen la mesa del </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\"> como algo despreciable. </span></span><span class=\"verse v8\" data-usfm=\"MAL.1.8\"><span class=\"label\">8</span><span class=\"content\">Ustedes traen animales ciegos para el sacrificio y piensan que no tiene nada de malo; sacrifican animales lisiados o enfermos y piensan que no tiene nada de malo. &#191;Por qu&#233; no tratan de ofrec&#233;rselos a su gobernante? &#191;Creen que &#233;l estar&#237;a contento con ustedes? &#191;Se ganar&#237;an su favor? &#8212;dice el </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\"> de los Ej&#233;rcitos&#8212;.</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"MAL.1.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"MAL.1.9\"><span class=\"label\">9</span><span class=\"content\">&#187;Ahora pues, traten de suplicar a Dios para que se apiade de nosotros. &#191;Creen que con esta clase de ofrendas los aceptar&#225;? &#8212;dice el </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\"> de los Ej&#233;rcitos&#8212;. </span></span><span class=\"verse v10\" data-usfm=\"MAL.1.10\"><span class=\"label\">10</span><span class=\"content\">&#161;C&#243;mo quisiera que alguno de ustedes cerrara las puertas del Templo, para que no encendieran en vano el fuego de mi altar! No estoy nada contento con ustedes &#8212;dice el </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\"> de los Ej&#233;rcitos&#8212; y no voy a aceptar ni una sola ofrenda de sus manos. </span></span><span class=\"verse v11\" data-usfm=\"MAL.1.11\"><span class=\"label\">11</span><span class=\"content\">Porque desde donde nace el sol hasta donde se pone, grande es mi nombre entre las naciones. En todo lugar se ofrece incienso y ofrendas puras a mi nombre, porque grande es mi nombre entre las naciones &#8212;dice el </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\"> de los Ej&#233;rcitos&#8212;. </span></span><span class=\"verse v12\" data-usfm=\"MAL.1.12\"><span class=\"label\">12</span><span class=\"content\">Pero ustedes lo profanan cuando dicen que la mesa del Se&#241;or est&#225; contaminada y que su alimento es despreciable. </span></span><span class=\"verse v13\" data-usfm=\"MAL.1.13\"><span class=\"label\">13</span><span class=\"content\">Y exclaman: &#8220;&#161;Qu&#233; carga!&#8221;. Y me desprecian &#8212;dice el </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\"> de los Ej&#233;rcitos&#8212;. &#191;Y creen que voy a aceptar de sus manos los animales robados, lisiados o enfermos que ustedes me traen como sacrificio? &#8212;dice el </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\">&#8212;.</span></span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"MAL.1.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"MAL.1.14\"><span class=\"label\">14</span><span class=\"content\">&#187;&#161;Maldito sea el tramposo que, teniendo un macho aceptable en su reba&#241;o, se lo dedica al Se&#241;or y luego le ofrece un animal mutilado! Porque yo soy el gran Rey &#8212;dice el </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\"> de los Ej&#233;rcitos&#8212; y mi nombre es temido entre las naciones.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Esta profecía es la palabra del Señor dirigida a Israel por medio de Malaquías."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "El amor de Dios por su pueblo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "«Yo los he amado», dice el Señor.",
+            "«“¿Y cómo nos has amado?”, preguntan ustedes.",
+            "»¿No era Esaú hermano de Jacob? Sin embargo, amé a Jacob,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "pero aborrecí a Esaú. Dejé sus montañas devastadas y entregué su heredad a los chacales del desierto»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Edom dice: «Aunque nos han hecho pedazos, reconstruiremos las ruinas». Pero el Señor de los Ejércitos dice: «Ustedes podrán reconstruir, pero yo derribaré. Serán llamados territorio malvado, pueblo que estará siempre bajo la ira del Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Ustedes lo verán con sus propios ojos y dirán: “¡Se ha engrandecido el Señor aun más allá de las fronteras de Israel!”."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "El culto al Señor"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "»El hijo honra a su padre y el siervo a su señor. Ahora bien, si soy tu padre, ¿dónde está el honor que merezco? Y si soy señor, ¿dónde está el respeto que se me debe? Yo, el Señor de los Ejércitos, les pregunto a ustedes, sacerdotes que desprecian mi nombre.",
+            "»Y encima preguntan: “¿En qué hemos despreciado tu nombre?”."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "»Pues en que ustedes traen a mi altar alimento contaminado.",
+            "»Y todavía preguntan: “¿En qué te hemos profanado?”.",
+            "»Pues en que tienen la mesa del Señor como algo despreciable."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Ustedes traen animales ciegos para el sacrificio y piensan que no tiene nada de malo; sacrifican animales lisiados o enfermos y piensan que no tiene nada de malo. ¿Por qué no tratan de ofrecérselos a su gobernante? ¿Creen que él estaría contento con ustedes? ¿Se ganarían su favor? —dice el Señor de los Ejércitos—."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "»Ahora pues, traten de suplicar a Dios para que se apiade de nosotros. ¿Creen que con esta clase de ofrendas los aceptará? —dice el Señor de los Ejércitos—."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "¡Cómo quisiera que alguno de ustedes cerrara las puertas del Templo, para que no encendieran en vano el fuego de mi altar! No estoy nada contento con ustedes —dice el Señor de los Ejércitos— y no voy a aceptar ni una sola ofrenda de sus manos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Porque desde donde nace el sol hasta donde se pone, grande es mi nombre entre las naciones. En todo lugar se ofrece incienso y ofrendas puras a mi nombre, porque grande es mi nombre entre las naciones —dice el Señor de los Ejércitos—."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Pero ustedes lo profanan cuando dicen que la mesa del Señor está contaminada y que su alimento es despreciable."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Y exclaman: “¡Qué carga!”. Y me desprecian —dice el Señor de los Ejércitos—. ¿Y creen que voy a aceptar de sus manos los animales robados, lisiados o enfermos que ustedes me traen como sacrificio? —dice el Señor—."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "»¡Maldito sea el tramposo que, teniendo un macho aceptable en su rebaño, se lo dedica al Señor y luego le ofrece un animal mutilado! Porque yo soy el gran Rey —dice el Señor de los Ejércitos— y mi nombre es temido entre las naciones."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "MAL.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "MAL.2"
+        ],
+        "human": "Malaquías 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "MAL.3"
+        ],
+        "human": "Malaquías 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "MAL.1"
+        ],
+        "human": "Malaquías 1",
+        "toc": true
+      },
+      "chapter_text": "»Ahora, pues, este mandamiento es para ustedes, los sacerdotes. Si no me hacen caso ni se deciden a honrar mi nombre —dice el SEÑOR de los Ejércitos—, les enviaré una maldición y maldeciré sus bendiciones. Ya las he maldecido, porque ustedes no se han decidido a honrarme.\n»Por esto, voy a reprender a sus descendientes. Les arrojaré a la cara el estiércol de los sacrificios de sus fiestas y los barreré junto con ellos. Entonces sabrán que les he dado este mandamiento, a fin de que continúe mi pacto con Leví —dice el SEÑOR de los Ejércitos—. Mi pacto con él era de vida y paz, y eso le di; era también de respeto y él me respetó y reverenció mi Nombre. En su boca había instrucción veraz; en sus labios no se encontraba perversidad. En paz y rectitud caminó conmigo y apartó del pecado a muchos.\n»Los labios de un sacerdote atesoran sabiduría y de su boca el pueblo busca instrucción, porque es mensajero del SEÑOR de los Ejércitos. Pero ustedes se han desviado del camino y mediante su instrucción han hecho tropezar a muchos; ustedes han arruinado el pacto con Leví —dice el SEÑOR de los Ejércitos—. Por mi parte, yo he hecho que ustedes sean despreciables y viles ante todo el pueblo, porque no han guardado mis caminos, sino que son parciales cuando enseñan la Ley».\n\n¿No tenemos todos un solo Padre? ¿No nos creó un solo Dios? ¿Por qué, pues, profanamos el pacto de nuestros antepasados al traicionarnos unos a otros?\nJudá ha sido infiel. En Israel y en Jerusalén se ha cometido algo detestable: al casarse con mujeres que adoran a un dios extraño, Judá ha profanado el santuario que el SEÑOR ama. En cuanto al hombre que haga eso, quienquiera que sea, que el SEÑOR de los Ejércitos lo excluya de los campamentos de Jacob, aun cuando le lleve ofrendas.\nOtra cosa que ustedes hacen es inundar de lágrimas el altar del SEÑOR; lloran y se lamentan porque él ya no mira con agrado sus ofrendas ni las acepta con placer de sus manos.\nY todavía preguntan: «¿Por qué?».\nPues porque el SEÑOR actúa como testigo entre tú y la esposa de tu juventud, a la que traicionaste aunque es tu compañera, la esposa de tu pacto. ¿Acaso no hizo Dios un solo ser que es cuerpo y espíritu? Y ¿por qué es uno solo? Porque busca descendencia dada por Dios. Así que cuídense ustedes en su propio espíritu y no traicionen a la esposa de su juventud. «El hombre que aborrece y repudia a su esposa —dice el SEÑOR, Dios de Israel—, cubre de violencia sus vestiduras», dice el SEÑOR de los Ejércitos.\nAsí que cuídense en su espíritu y no sean infieles.\n\nUstedes han cansado al SEÑOR con sus palabras.\nY encima preguntan: «¿En qué lo hemos cansado?».\nEn que dicen: «Todo el que hace lo malo agrada al SEÑOR y él se complace con ellos». O se preguntan: «¿Dónde está el Dios de justicia?».",
+      "chapter_html": "<div class=\"version vid128 iso6393spa\" data-vid=\"128\" data-iso6393=\"spa\">\n   <div class=\"book bkMAL\">\n      <div class=\"chapter ch2\" data-usfm=\"MAL.2\">\n         <div class=\"label\">2</div><div class=\"s1\"><span class=\"heading\">Juicio contra los sacerdotes</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"MAL.2.1\"><span class=\"label\">1</span><span class=\"content\">&#187;Ahora, pues, este mandamiento es para ustedes, los sacerdotes. </span></span><span class=\"verse v2\" data-usfm=\"MAL.2.2\"><span class=\"label\">2</span><span class=\"content\">Si no me hacen caso ni se deciden a honrar mi nombre &#8212;dice el </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\"> de los Ej&#233;rcitos&#8212;, les enviar&#233; una maldici&#243;n y maldecir&#233; sus bendiciones. Ya las he maldecido, porque ustedes no se han decidido a honrarme.</span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"MAL.2.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"MAL.2.3\"><span class=\"label\">3</span><span class=\"content\">&#187;Por esto, voy a reprender a sus descendientes. Les arrojar&#233; a la cara el esti&#233;rcol de los sacrificios de sus fiestas y los barrer&#233; junto con ellos. </span></span><span class=\"verse v4\" data-usfm=\"MAL.2.4\"><span class=\"label\">4</span><span class=\"content\">Entonces sabr&#225;n que les he dado este mandamiento, a fin de que contin&#250;e mi pacto con Lev&#237; &#8212;dice el </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\"> de los Ej&#233;rcitos&#8212;. </span></span><span class=\"verse v5\" data-usfm=\"MAL.2.5\"><span class=\"label\">5</span><span class=\"content\">Mi pacto con &#233;l era de vida y paz, y eso le di; era tambi&#233;n de respeto y &#233;l me respet&#243; y reverenci&#243; mi Nombre. </span></span><span class=\"verse v6\" data-usfm=\"MAL.2.6\"><span class=\"label\">6</span><span class=\"content\">En su boca hab&#237;a instrucci&#243;n veraz; en sus labios no se encontraba perversidad. En paz y rectitud camin&#243; conmigo y apart&#243; del pecado a muchos.</span></span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"MAL.2.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"MAL.2.7\"><span class=\"label\">7</span><span class=\"content\">&#187;Los labios de un sacerdote atesoran sabidur&#237;a y de su boca el pueblo busca instrucci&#243;n, porque es mensajero del </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\"> de los Ej&#233;rcitos. </span></span><span class=\"verse v8\" data-usfm=\"MAL.2.8\"><span class=\"label\">8</span><span class=\"content\">Pero ustedes se han desviado del camino y mediante su instrucci&#243;n han hecho tropezar a muchos; ustedes han arruinado el pacto con Lev&#237; &#8212;dice el </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\"> de los Ej&#233;rcitos&#8212;. </span></span><span class=\"verse v9\" data-usfm=\"MAL.2.9\"><span class=\"label\">9</span><span class=\"content\">Por mi parte, yo he hecho que ustedes sean despreciables y viles ante todo el pueblo, porque no han guardado mis caminos, sino que son parciales cuando ense&#241;an la Ley&#187;.</span></span></div><div class=\"s1\"><span class=\"heading\">Deslealtad de Jud&#225;</span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"MAL.2.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"MAL.2.10\"><span class=\"label\">10</span><span class=\"content\">&#191;No tenemos todos un solo Padre? &#191;No nos cre&#243; un solo Dios? &#191;Por qu&#233;, pues, profanamos el pacto de nuestros antepasados al traicionarnos unos a otros?</span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"MAL.2.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"MAL.2.11\"><span class=\"label\">11</span><span class=\"content\">Jud&#225; ha sido infiel. En Israel y en Jerusal&#233;n se ha cometido algo detestable: al casarse con mujeres que adoran a un dios extra&#241;o, Jud&#225; ha profanado el santuario</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:11 </span><span class=\"fq\">el santuario</span><span class=\"ft\">. Alt. </span><span class=\"fqa\">las cosas santas.</span></span></span><span class=\"content\"> que el </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\"> ama. </span></span><span class=\"verse v12\" data-usfm=\"MAL.2.12\"><span class=\"label\">12</span><span class=\"content\">En cuanto al hombre que haga eso, quienquiera que sea, que el </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\"> de los Ej&#233;rcitos lo excluya de los campamentos de Jacob, aun cuando le lleve ofrendas.</span></span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"MAL.2.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"MAL.2.13\"><span class=\"label\">13</span><span class=\"content\">Otra cosa que ustedes hacen es inundar de l&#225;grimas el altar del </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\">; lloran y se lamentan porque &#233;l ya no mira con agrado sus ofrendas ni las acepta con placer de sus manos.</span></span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"MAL.2.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"MAL.2.14\"><span class=\"label\">14</span><span class=\"content\">Y todav&#237;a preguntan: &#171;&#191;Por qu&#233;?&#187;.</span></span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"MAL.2.14\"><span class=\"content\">Pues porque el </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\"> act&#250;a como testigo entre t&#250; y la esposa de tu juventud, a la que traicionaste aunque es tu compa&#241;era, la esposa de tu pacto.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:14 </span><span class=\"fq\">pacto</span><span class=\"ft\">. Alt. </span><span class=\"fqa\">v&#237;nculo matrimonial.</span></span></span><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"MAL.2.15\"><span class=\"label\">15</span><span class=\"content\">&#191;Acaso no hizo Dios un solo ser que es cuerpo y esp&#237;ritu? Y &#191;por qu&#233; es uno solo? Porque busca descendencia dada por Dios.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:15 </span><span class=\"fq\">&#191;Acaso &#8230; Dios</span><span class=\"ft\">. Texto de dif&#237;cil traducci&#243;n.</span></span></span><span class=\"content\"> As&#237; que cu&#237;dense ustedes en su propio esp&#237;ritu y no traicionen a la esposa de su juventud. </span></span><span class=\"verse v16\" data-usfm=\"MAL.2.16\"><span class=\"label\">16</span><span class=\"content\">&#171;El hombre que aborrece y repudia a su esposa &#8212;dice el </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\">, Dios de Israel&#8212;, cubre</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:16 </span><span class=\"fq\">El hombre &#8230; cubre</span><span class=\"ft\">. Alt. </span><span class=\"fqa\">Aborrezco al que odia y se divorcia de su esposa &#8230; pues cubre.</span></span></span><span class=\"content\"> de violencia sus vestiduras&#187;, dice el </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\"> de los Ej&#233;rcitos.</span></span></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"MAL.2.16\"><span class=\"content\">As&#237; que cu&#237;dense en su esp&#237;ritu y no sean infieles.</span></span></div><div class=\"s1\"><span class=\"heading\">Acusaciones contra Jud&#225;</span></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"MAL.2.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"MAL.2.17\"><span class=\"label\">17</span><span class=\"content\">Ustedes han cansado al </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\"> con sus palabras.</span></span></div><div class=\"p\"><span class=\"verse v17\" data-usfm=\"MAL.2.17\"><span class=\"content\">Y encima preguntan: &#171;&#191;En qu&#233; lo hemos cansado?&#187;.</span></span></div><div class=\"p\"><span class=\"verse v17\" data-usfm=\"MAL.2.17\"><span class=\"content\">En que dicen: &#171;Todo el que hace lo malo agrada al </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\"> y &#233;l se complace con ellos&#187;. O se preguntan: &#171;&#191;D&#243;nde est&#225; el Dios de justicia?&#187;.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Juicio contra los sacerdotes"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "»Ahora, pues, este mandamiento es para ustedes, los sacerdotes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Si no me hacen caso ni se deciden a honrar mi nombre —dice el Señor de los Ejércitos—, les enviaré una maldición y maldeciré sus bendiciones. Ya las he maldecido, porque ustedes no se han decidido a honrarme."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "»Por esto, voy a reprender a sus descendientes. Les arrojaré a la cara el estiércol de los sacrificios de sus fiestas y los barreré junto con ellos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Entonces sabrán que les he dado este mandamiento, a fin de que continúe mi pacto con Leví —dice el Señor de los Ejércitos—."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Mi pacto con él era de vida y paz, y eso le di; era también de respeto y él me respetó y reverenció mi Nombre."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "En su boca había instrucción veraz; en sus labios no se encontraba perversidad. En paz y rectitud caminó conmigo y apartó del pecado a muchos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "»Los labios de un sacerdote atesoran sabiduría y de su boca el pueblo busca instrucción, porque es mensajero del Señor de los Ejércitos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Pero ustedes se han desviado del camino y mediante su instrucción han hecho tropezar a muchos; ustedes han arruinado el pacto con Leví —dice el Señor de los Ejércitos—."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Por mi parte, yo he hecho que ustedes sean despreciables y viles ante todo el pueblo, porque no han guardado mis caminos, sino que son parciales cuando enseñan la Ley»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Deslealtad de Judá"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "¿No tenemos todos un solo Padre? ¿No nos creó un solo Dios? ¿Por qué, pues, profanamos el pacto de nuestros antepasados al traicionarnos unos a otros?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Judá ha sido infiel. En Israel y en Jerusalén se ha cometido algo detestable: al casarse con mujeres que adoran a un dios extraño, Judá ha profanado el santuario que el Señor ama."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "En cuanto al hombre que haga eso, quienquiera que sea, que el Señor de los Ejércitos lo excluya de los campamentos de Jacob, aun cuando le lleve ofrendas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Otra cosa que ustedes hacen es inundar de lágrimas el altar del Señor; lloran y se lamentan porque él ya no mira con agrado sus ofrendas ni las acepta con placer de sus manos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Y todavía preguntan: «¿Por qué?».",
+            "Pues porque el Señor actúa como testigo entre tú y la esposa de tu juventud, a la que traicionaste aunque es tu compañera, la esposa de tu pacto."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "¿Acaso no hizo Dios un solo ser que es cuerpo y espíritu? Y ¿por qué es uno solo? Porque busca descendencia dada por Dios. Así que cuídense ustedes en su propio espíritu y no traicionen a la esposa de su juventud."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "«El hombre que aborrece y repudia a su esposa —dice el Señor, Dios de Israel—, cubre de violencia sus vestiduras», dice el Señor de los Ejércitos.",
+            "Así que cuídense en su espíritu y no sean infieles."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Acusaciones contra Judá"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Ustedes han cansado al Señor con sus palabras.",
+            "Y encima preguntan: «¿En qué lo hemos cansado?».",
+            "En que dicen: «Todo el que hace lo malo agrada al Señor y él se complace con ellos». O se preguntan: «¿Dónde está el Dios de justicia?»."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "MAL.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "MAL.3"
+        ],
+        "human": "Malaquías 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "MAL.4"
+        ],
+        "human": "Malaquías 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "MAL.2"
+        ],
+        "human": "Malaquías 2",
+        "toc": true
+      },
+      "chapter_text": "«Yo estoy por enviar a mi mensajero para que prepare el camino delante de mí. De pronto vendrá a su Templo el Señor a quien ustedes buscan; vendrá el mensajero del pacto, a quien ustedes desean» —dice el SEÑOR de los Ejércitos.\nPero ¿quién podrá soportar el día de su venida? ¿Quién podrá mantenerse en pie cuando él aparezca? Porque será como fuego de fundidor o jabón de lavandero. Se sentará como fundidor y purificador de plata; purificará a los levitas y los refinará como se refinan el oro y la plata. Entonces traerán al SEÑOR ofrendas conforme a la justicia, y las ofrendas de Judá y Jerusalén serán aceptables al SEÑOR, como en tiempos antiguos, como en años pasados.\n«De modo que me acercaré a ustedes para juicio. Estaré presto a testificar contra los hechiceros, los adúlteros y los perjuros, contra los que explotan a sus jornaleros; contra los que oprimen a las viudas, a los huérfanos y niegan el derecho del extranjero, sin mostrarme ningún temor —dice el SEÑOR de los Ejércitos—.\n\n»Yo, el SEÑOR, no cambio. Por eso ustedes, descendientes de Jacob, no han sido exterminados. Desde la época de sus antepasados se han apartado de mis estatutos y no los han guardado. Vuélvanse a mí y yo me volveré a ustedes —dice el SEÑOR de los Ejércitos—.\n»Pero ustedes preguntan: “¿En qué sentido tenemos que volvernos?”.\n»¿Acaso roba el ser humano a Dios? ¡Ustedes me están robando!\n»Y todavía preguntan: “¿En qué te robamos?”.\n»En los diezmos y en las ofrendas. Ustedes —la nación entera—, están bajo gran maldición, pues es a mí a quien están robando.\n»Traigan íntegro el diezmo a la tesorería del Templo; así habrá alimento en mi casa. Pruébenme en esto —dice el SEÑOR de los Ejércitos—, y vean si no abro las compuertas del cielo y derramo sobre ustedes bendición hasta que sobreabunde. Reprenderé al devorador para que no arruine sus cultivos y las vides en los campos no pierdan su fruto —dice el SEÑOR de los Ejércitos—. Entonces todas las naciones los llamarán dichosos, porque ustedes tendrán una tierra maravillosa —dice el SEÑOR de los Ejércitos—.\n\n»Ustedes profieren insolencias contra mí —dice el SEÑOR—.\n»Y encima preguntan: “¿Qué hemos dicho contra ti?”.\n»Ustedes han dicho: “Servir a Dios no vale la pena. ¿Qué ganamos con cumplir sus órdenes y vestirnos de luto delante del SEÑOR de los Ejércitos? Por eso llamamos dichosos a los soberbios, pues prosperan los que hacen lo malo e incluso cuando desafían a Dios escapan ilesos”».\nLos que temían al SEÑOR hablaron entre sí, entonces él los escuchó y les prestó atención. Entonces se escribió en su presencia un libro de memorias de aquellos que temen al SEÑOR y honran su nombre. «El día que yo actúe ellos serán mi propiedad exclusiva —dice el SEÑOR de los Ejércitos—. Tendré compasión de ellos, como se compadece un hombre del hijo que le sirve. Y ustedes volverán a distinguir entre el justo y el malvado, entre el que sirve a Dios y el que no le sirve.",
+      "chapter_html": "<div class=\"version vid128 iso6393spa\" data-vid=\"128\" data-iso6393=\"spa\">\n   <div class=\"book bkMAL\">\n      <div class=\"chapter ch3\" data-usfm=\"MAL.3\">\n         <div class=\"label\">3</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"MAL.3.1\"><span class=\"label\">1</span><span class=\"content\">&#171;Yo estoy por enviar a mi mensajero para que prepare el camino delante de m&#237;. De pronto vendr&#225; a su Templo el Se&#241;or a quien ustedes buscan; vendr&#225; el mensajero del pacto, a quien ustedes desean&#187; &#8212;dice el </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\"> de los Ej&#233;rcitos.</span></span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"MAL.3.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"MAL.3.2\"><span class=\"label\">2</span><span class=\"content\">Pero &#191;qui&#233;n podr&#225; soportar el d&#237;a de su venida? &#191;Qui&#233;n podr&#225; mantenerse en pie cuando &#233;l aparezca? Porque ser&#225; como fuego de fundidor o jab&#243;n de lavandero. </span></span><span class=\"verse v3\" data-usfm=\"MAL.3.3\"><span class=\"label\">3</span><span class=\"content\">Se sentar&#225; como fundidor y purificador de plata; purificar&#225; a los levitas y los refinar&#225; como se refinan el oro y la plata. Entonces traer&#225;n al </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\"> ofrendas conforme a la justicia, </span></span><span class=\"verse v4\" data-usfm=\"MAL.3.4\"><span class=\"label\">4</span><span class=\"content\">y las ofrendas de Jud&#225; y Jerusal&#233;n ser&#225;n aceptables al </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\">, como en tiempos antiguos, como en a&#241;os pasados.</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"MAL.3.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"MAL.3.5\"><span class=\"label\">5</span><span class=\"content\">&#171;De modo que me acercar&#233; a ustedes para juicio. Estar&#233; presto a testificar contra los hechiceros, los ad&#250;lteros y los perjuros, contra los que explotan a sus jornaleros; contra los que oprimen a las viudas, a los hu&#233;rfanos y niegan el derecho del extranjero, sin mostrarme ning&#250;n temor &#8212;dice el </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\"> de los Ej&#233;rcitos&#8212;.</span></span></div><div class=\"s1\"><span class=\"heading\">Fidelidad en las ofrendas</span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"MAL.3.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"MAL.3.6\"><span class=\"label\">6</span><span class=\"content\">&#187;Yo, el </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\">, no cambio. Por eso ustedes, descendientes de Jacob, no han sido exterminados. </span></span><span class=\"verse v7\" data-usfm=\"MAL.3.7\"><span class=\"label\">7</span><span class=\"content\">Desde la &#233;poca de sus antepasados se han apartado de mis estatutos y no los han guardado. Vu&#233;lvanse a m&#237; y yo me volver&#233; a ustedes &#8212;dice el </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\"> de los Ej&#233;rcitos&#8212;.</span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"MAL.3.7\"><span class=\"content\">&#187;Pero ustedes preguntan: &#8220;&#191;En qu&#233; sentido tenemos que volvernos?&#8221;.</span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"MAL.3.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"MAL.3.8\"><span class=\"label\">8</span><span class=\"content\">&#187;&#191;Acaso roba el ser humano a Dios? &#161;Ustedes me est&#225;n robando!</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"MAL.3.8\"><span class=\"content\">&#187;Y todav&#237;a preguntan: &#8220;&#191;En qu&#233; te robamos?&#8221;.</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"MAL.3.8\"><span class=\"content\">&#187;En los diezmos y en las ofrendas. </span></span><span class=\"verse v9\" data-usfm=\"MAL.3.9\"><span class=\"label\">9</span><span class=\"content\">Ustedes &#8212;la naci&#243;n entera&#8212;, est&#225;n bajo gran maldici&#243;n, pues es a m&#237; a quien est&#225;n robando.</span></span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"MAL.3.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"MAL.3.10\"><span class=\"label\">10</span><span class=\"content\">&#187;Traigan &#237;ntegro el diezmo a la tesorer&#237;a del Templo; as&#237; habr&#225; alimento en mi casa. Pru&#233;benme en esto &#8212;dice el </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\"> de los Ej&#233;rcitos&#8212;, y vean si no abro las compuertas del cielo y derramo sobre ustedes bendici&#243;n hasta que sobreabunde. </span></span><span class=\"verse v11\" data-usfm=\"MAL.3.11\"><span class=\"label\">11</span><span class=\"content\">Reprender&#233; al devorador para que no arruine sus cultivos y las vides en los campos no pierdan su fruto &#8212;dice el </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\"> de los Ej&#233;rcitos&#8212;. </span></span><span class=\"verse v12\" data-usfm=\"MAL.3.12\"><span class=\"label\">12</span><span class=\"content\">Entonces todas las naciones los llamar&#225;n dichosos, porque ustedes tendr&#225;n una tierra maravillosa &#8212;dice el </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\"> de los Ej&#233;rcitos&#8212;.</span></span></div><div class=\"s1\"><span class=\"heading\">Insolencia de Jud&#225;</span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"MAL.3.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"MAL.3.13\"><span class=\"label\">13</span><span class=\"content\">&#187;Ustedes profieren insolencias contra m&#237; &#8212;dice el </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\">&#8212;.</span></span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"MAL.3.13\"><span class=\"content\">&#187;Y encima preguntan: &#8220;&#191;Qu&#233; hemos dicho contra ti?&#8221;.</span></span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"MAL.3.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"MAL.3.14\"><span class=\"label\">14</span><span class=\"content\">&#187;Ustedes han dicho: &#8220;Servir a Dios no vale la pena. &#191;Qu&#233; ganamos con cumplir sus &#243;rdenes y vestirnos de luto delante del </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\"> de los Ej&#233;rcitos? </span></span><span class=\"verse v15\" data-usfm=\"MAL.3.15\"><span class=\"label\">15</span><span class=\"content\">Por eso llamamos dichosos a los soberbios, pues prosperan los que hacen lo malo e incluso cuando desaf&#237;an a Dios escapan ilesos&#8221;&#187;.</span></span></div><div class=\"p\"><span class=\"verse v15\" data-usfm=\"MAL.3.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"MAL.3.16\"><span class=\"label\">16</span><span class=\"content\">Los que tem&#237;an al </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\"> hablaron entre s&#237;, entonces &#233;l los escuch&#243; y les prest&#243; atenci&#243;n. Entonces se escribi&#243; en su presencia un libro de memorias de aquellos que temen al </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\"> y honran su nombre. </span></span><span class=\"verse v17\" data-usfm=\"MAL.3.17\"><span class=\"label\">17</span><span class=\"content\">&#171;El d&#237;a que yo act&#250;e ellos ser&#225;n mi propiedad exclusiva &#8212;dice el </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\"> de los Ej&#233;rcitos&#8212;. Tendr&#233; compasi&#243;n de ellos, como se compadece un hombre del hijo que le sirve. </span></span><span class=\"verse v18\" data-usfm=\"MAL.3.18\"><span class=\"label\">18</span><span class=\"content\">Y ustedes volver&#225;n a distinguir entre el justo y el malvado, entre el que sirve a Dios y el que no le sirve.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "«Yo estoy por enviar a mi mensajero para que prepare el camino delante de mí. De pronto vendrá a su Templo el Señor a quien ustedes buscan; vendrá el mensajero del pacto, a quien ustedes desean» —dice el Señor de los Ejércitos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Pero ¿quién podrá soportar el día de su venida? ¿Quién podrá mantenerse en pie cuando él aparezca? Porque será como fuego de fundidor o jabón de lavandero."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Se sentará como fundidor y purificador de plata; purificará a los levitas y los refinará como se refinan el oro y la plata. Entonces traerán al Señor ofrendas conforme a la justicia,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "y las ofrendas de Judá y Jerusalén serán aceptables al Señor, como en tiempos antiguos, como en años pasados."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "«De modo que me acercaré a ustedes para juicio. Estaré presto a testificar contra los hechiceros, los adúlteros y los perjuros, contra los que explotan a sus jornaleros; contra los que oprimen a las viudas, a los huérfanos y niegan el derecho del extranjero, sin mostrarme ningún temor —dice el Señor de los Ejércitos—."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Fidelidad en las ofrendas"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "»Yo, el Señor, no cambio. Por eso ustedes, descendientes de Jacob, no han sido exterminados."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Desde la época de sus antepasados se han apartado de mis estatutos y no los han guardado. Vuélvanse a mí y yo me volveré a ustedes —dice el Señor de los Ejércitos—.",
+            "»Pero ustedes preguntan: “¿En qué sentido tenemos que volvernos?”."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "»¿Acaso roba el ser humano a Dios? ¡Ustedes me están robando!",
+            "»Y todavía preguntan: “¿En qué te robamos?”.",
+            "»En los diezmos y en las ofrendas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Ustedes —la nación entera—, están bajo gran maldición, pues es a mí a quien están robando."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "»Traigan íntegro el diezmo a la tesorería del Templo; así habrá alimento en mi casa. Pruébenme en esto —dice el Señor de los Ejércitos—, y vean si no abro las compuertas del cielo y derramo sobre ustedes bendición hasta que sobreabunde."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Reprenderé al devorador para que no arruine sus cultivos y las vides en los campos no pierdan su fruto —dice el Señor de los Ejércitos—."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Entonces todas las naciones los llamarán dichosos, porque ustedes tendrán una tierra maravillosa —dice el Señor de los Ejércitos—."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Insolencia de Judá"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "»Ustedes profieren insolencias contra mí —dice el Señor—.",
+            "»Y encima preguntan: “¿Qué hemos dicho contra ti?”."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "»Ustedes han dicho: “Servir a Dios no vale la pena. ¿Qué ganamos con cumplir sus órdenes y vestirnos de luto delante del Señor de los Ejércitos?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Por eso llamamos dichosos a los soberbios, pues prosperan los que hacen lo malo e incluso cuando desafían a Dios escapan ilesos”»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Los que temían al Señor hablaron entre sí, entonces él los escuchó y les prestó atención. Entonces se escribió en su presencia un libro de memorias de aquellos que temen al Señor y honran su nombre."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "«El día que yo actúe ellos serán mi propiedad exclusiva —dice el Señor de los Ejércitos—. Tendré compasión de ellos, como se compadece un hombre del hijo que le sirve."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Y ustedes volverán a distinguir entre el justo y el malvado, entre el que sirve a Dios y el que no le sirve."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "MAL.4",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "MAL.4"
+        ],
+        "human": "Malaquías 4"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "MAT.1"
+        ],
+        "human": "Mateo 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "MAL.3"
+        ],
+        "human": "Malaquías 3",
+        "toc": true
+      },
+      "chapter_text": "SEÑOR\n»Miren, ya viene el día, ardiente como un horno. Todos los soberbios y todos los malvados serán como paja; ese día les prenderá fuego hasta dejarlos sin raíz ni rama —dice el SEÑOR de los Ejércitos—. Pero para ustedes que temen mi nombre, se levantará el sol de justicia trayendo en sus rayos salud. Y ustedes saldrán saltando como becerros bien alimentados. El día que yo actúe ustedes pisotearán a los malvados y, bajo sus pies, quedarán hechos polvo —dice el SEÑOR de los Ejércitos—.\n»Acuérdense de la Ley de mi siervo Moisés. Recuerden los estatutos y las ordenanzas que di en Horeb para todo Israel.\n»Estoy por enviarles al profeta Elías antes que llegue el día del SEÑOR, día grande y terrible. Él hará que los padres se reconcilien con sus hijos y los hijos con sus padres; así no vendré a herir la tierra con destrucción total».",
+      "chapter_html": "<div class=\"version vid128 iso6393spa\" data-vid=\"128\" data-iso6393=\"spa\">\n   <div class=\"book bkMAL\">\n      <div class=\"chapter ch4\" data-usfm=\"MAL.4\">\n         <div class=\"label\">4</div><div class=\"s1\"><span class=\"heading\">El d&#237;a del </span><span class=\"nd\"><span class=\"heading\">Se&#241;or</span></span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"MAL.4.1\"><span class=\"label\">1</span><span class=\"content\">&#187;Miren, ya viene el d&#237;a, ardiente como un horno. Todos los soberbios y todos los malvados ser&#225;n como paja; ese d&#237;a les prender&#225; fuego hasta dejarlos sin ra&#237;z ni rama &#8212;dice el </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\"> de los Ej&#233;rcitos&#8212;. </span></span><span class=\"verse v2\" data-usfm=\"MAL.4.2\"><span class=\"label\">2</span><span class=\"content\">Pero para ustedes que temen mi nombre, se levantar&#225; el sol de justicia trayendo en sus rayos</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:2 </span><span class=\"fq\">rayos</span><span class=\"ft\">. Lit. </span><span class=\"fqa\">alas.</span></span></span><span class=\"content\"> salud. Y ustedes saldr&#225;n saltando como becerros bien alimentados. </span></span><span class=\"verse v3\" data-usfm=\"MAL.4.3\"><span class=\"label\">3</span><span class=\"content\">El d&#237;a que yo act&#250;e ustedes pisotear&#225;n a los malvados y, bajo sus pies, quedar&#225;n hechos polvo &#8212;dice el </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\"> de los Ej&#233;rcitos&#8212;.</span></span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"MAL.4.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"MAL.4.4\"><span class=\"label\">4</span><span class=\"content\">&#187;Acu&#233;rdense de la Ley de mi siervo Mois&#233;s. Recuerden los estatutos y las ordenanzas que di en Horeb para todo Israel.</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"MAL.4.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"MAL.4.5\"><span class=\"label\">5</span><span class=\"content\">&#187;Estoy por enviarles al profeta El&#237;as antes que llegue el d&#237;a del </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\">, d&#237;a grande y terrible. </span></span><span class=\"verse v6\" data-usfm=\"MAL.4.6\"><span class=\"label\">6</span><span class=\"content\">&#201;l har&#225; que los padres se reconcilien con sus hijos y los hijos con sus padres; as&#237; no vendr&#233; a herir la tierra con destrucci&#243;n total&#187;.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "El día del Señor"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "»Miren, ya viene el día, ardiente como un horno. Todos los soberbios y todos los malvados serán como paja; ese día les prenderá fuego hasta dejarlos sin raíz ni rama —dice el Señor de los Ejércitos—."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Pero para ustedes que temen mi nombre, se levantará el sol de justicia trayendo en sus rayos salud. Y ustedes saldrán saltando como becerros bien alimentados."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "El día que yo actúe ustedes pisotearán a los malvados y, bajo sus pies, quedarán hechos polvo —dice el Señor de los Ejércitos—."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "»Acuérdense de la Ley de mi siervo Moisés. Recuerden los estatutos y las ordenanzas que di en Horeb para todo Israel."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "»Estoy por enviarles al profeta Elías antes que llegue el día del Señor, día grande y terrible."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Él hará que los padres se reconcilien con sus hijos y los hijos con sus padres; así no vendré a herir la tierra con destrucción total»."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

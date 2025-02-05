@@ -1,0 +1,976 @@
+{
+  "book_usfm": "PHP",
+  "name": "Filipenses",
+  "local_title": "Reina Valera Contemporánea",
+  "local_abbreviation": "RVC",
+  "version_id": 146,
+  "publisher": {
+    "name": "United Bible Societies"
+  },
+  "copyright": {
+    "html": "<p>Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010.</p>",
+    "text": "Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010."
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "PHP.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "PHP.1"
+        ],
+        "human": "Filipenses 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "PHP.2"
+        ],
+        "human": "Filipenses 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "EPH.6"
+        ],
+        "human": "Efesios 6",
+        "toc": true
+      },
+      "chapter_text": "Pablo y Timoteo, siervos de Jesucristo, a todos los santos en Cristo Jesús que están en Filipos, junto con los obispos y diáconos:\nGracia y paz reciban ustedes de Dios nuestro Padre y del Señor Jesucristo.\n\nDoy gracias a mi Dios cada vez que me acuerdo de ustedes.\nEn todas mis oraciones siempre ruego con gozo por todos ustedes,\npor su comunión en el evangelio, desde el primer día hasta ahora.\nEstoy persuadido de que el que comenzó en ustedes la buena obra, la perfeccionará hasta el día de Jesucristo.\nEs justo que yo sienta esto por todos ustedes, porque los llevo en el corazón. Tanto en mis prisiones como en la defensa y confirmación del evangelio, todos ustedes participan conmigo de la gracia.\nPorque Dios me es testigo de cuánto los amo a todos ustedes con el entrañable amor de Jesucristo.\nY esto le pido en oración: que el amor de ustedes abunde aún más y más en ciencia y en todo conocimiento,\npara que aprueben lo mejor, a fin de que sean sinceros e irreprensibles para el día de Cristo,\nllenos de los frutos de justicia que vienen por medio de Jesucristo, para gloria y alabanza de Dios.\n\nQuiero que sepan, hermanos, que lo que me ha sucedido más bien ha servido para el avance del evangelio,\nde tal modo que mis encarcelamientos por Cristo se han hecho evidentes en todo el pretorio, y a todos los demás.\nCon mis encarcelamientos, la mayoría de los hermanos ha cobrado ánimo en el Señor, y más y más se atreven a hablar la palabra sin temor.\nA decir verdad, algunos predican a Cristo por envidia y por pelear; pero otros lo hacen de buena voluntad.\nUnos anuncian a Cristo por pelear, y no con sinceridad, pues creen que así añaden aflicción a mis prisiones;\npero otros lo hacen por amor, y saben que estoy aquí para defender al evangelio.\n¿Qué diré, entonces? Pues que a pesar de todo, y de todas maneras, sea por pretexto o por verdad, Cristo es anunciado. Y en esto me gozo, y me gozaré aún.\nYo sé que por la oración de ustedes, y con el apoyo del Espíritu de Jesucristo, esto redundará en mi liberación,\nconforme a mi anhelo y esperanza de que en nada seré avergonzado, sino que con toda confianza, y como siempre, también ahora Cristo será magnificado en mi cuerpo, ya sea por vida o por muerte.\nPorque para mí el vivir es Cristo, y el morir es ganancia.\nPero si el vivir en la carne resulta para mí en beneficio de la obra, no sé entonces qué escoger.\nPor ambas cosas me encuentro en un dilema, pues tengo el deseo de partir y estar con Cristo, lo cual es muchísimo mejor;\npero quedarme en la carne es más necesario por causa de ustedes.\nY confío en esto, y sé que me quedaré, que aún permaneceré con todos ustedes, para su provecho y gozo de la fe,\npara que abunde su vanagloria por mí en Cristo Jesús, por mi presencia otra vez entre ustedes.\nSolo compórtense ustedes como es digno del evangelio de Cristo, para que ya sea que vaya a verlos, o que me encuentre ausente, sepa yo que ustedes siguen firmes, en un mismo espíritu y luchando unánimes por la fe del evangelio,\nsin que en nada los intimiden los que se oponen. Para ellos, ciertamente, es indicio de perdición, pero para ustedes lo es de salvación; y esto de parte de Dios.\nPorque, por causa de Cristo, a ustedes les es concedido no solo creer en él, sino también padecer por él\ny tener el mismo conflicto que han visto en mí, y que ahora saben que hay en mí.",
+      "chapter_html": "<div class=\"version vid146 iso6393spa\" data-vid=\"146\" data-iso6393=\"spa\">\n   <div class=\"book bkPHP\">\n      <div class=\"chapter ch1\" data-usfm=\"PHP.1\">\n         <div class=\"label\">1</div><div class=\"s\"><span class=\"heading\">Saludo</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"PHP.1.1\"><span class=\"label\">1</span><span class=\"content\">Pablo y Timoteo, siervos de Jesucristo, a todos los santos en Cristo Jes&#250;s que est&#225;n en Filipos, junto con los obispos y di&#225;conos:</span></span></div><div class=\"m\"><span class=\"verse v1\" data-usfm=\"PHP.1.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"PHP.1.2\"><span class=\"label\">2</span><span class=\"content\">Gracia y paz reciban ustedes de Dios nuestro Padre y del Se&#241;or Jesucristo.</span></span></div><div class=\"s\"><span class=\"heading\">Oraci&#243;n de Pablo por los creyentes</span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"PHP.1.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"PHP.1.3\"><span class=\"label\">3</span><span class=\"content\">Doy gracias a mi Dios cada vez que me acuerdo de ustedes.</span></span></div><div class=\"m\"><span class=\"verse v3\" data-usfm=\"PHP.1.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"PHP.1.4\"><span class=\"label\">4</span><span class=\"content\">En todas mis oraciones siempre ruego con gozo por todos ustedes,</span></span></div><div class=\"m\"><span class=\"verse v4\" data-usfm=\"PHP.1.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"PHP.1.5\"><span class=\"label\">5</span><span class=\"content\">por su comuni&#243;n en el evangelio, desde el primer d&#237;a hasta ahora.</span></span></div><div class=\"m\"><span class=\"verse v5\" data-usfm=\"PHP.1.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"PHP.1.6\"><span class=\"label\">6</span><span class=\"content\">Estoy persuadido de que el que comenz&#243; en ustedes la buena obra, la perfeccionar&#225; hasta el d&#237;a de Jesucristo.</span></span></div><div class=\"m\"><span class=\"verse v6\" data-usfm=\"PHP.1.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"PHP.1.7\"><span class=\"label\">7</span><span class=\"content\">Es justo que yo sienta esto por todos ustedes, porque los llevo en el coraz&#243;n. Tanto en mis prisiones como en la defensa y confirmaci&#243;n del evangelio, todos ustedes participan conmigo de la gracia.</span></span></div><div class=\"m\"><span class=\"verse v7\" data-usfm=\"PHP.1.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"PHP.1.8\"><span class=\"label\">8</span><span class=\"content\">Porque Dios me es testigo de cu&#225;nto los amo a todos ustedes con el entra&#241;able amor de Jesucristo.</span></span></div><div class=\"m\"><span class=\"verse v8\" data-usfm=\"PHP.1.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"PHP.1.9\"><span class=\"label\">9</span><span class=\"content\">Y esto le pido en oraci&#243;n: que el amor de ustedes abunde a&#250;n m&#225;s y m&#225;s en ciencia y en todo conocimiento,</span></span></div><div class=\"m\"><span class=\"verse v9\" data-usfm=\"PHP.1.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"PHP.1.10\"><span class=\"label\">10</span><span class=\"content\">para que aprueben lo mejor, a fin de que sean sinceros e irreprensibles para el d&#237;a de Cristo,</span></span></div><div class=\"m\"><span class=\"verse v10\" data-usfm=\"PHP.1.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"PHP.1.11\"><span class=\"label\">11</span><span class=\"content\">llenos de los frutos de justicia que vienen por medio de Jesucristo, para gloria y alabanza de Dios.</span></span></div><div class=\"s\"><span class=\"heading\">Para m&#237; el vivir es Cristo</span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"PHP.1.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"PHP.1.12\"><span class=\"label\">12</span><span class=\"content\">Quiero que sepan, hermanos, que lo que me ha sucedido m&#225;s bien ha servido para el avance del evangelio,</span></span></div><div class=\"m\"><span class=\"verse v12\" data-usfm=\"PHP.1.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"PHP.1.13\"><span class=\"label\">13</span><span class=\"content\">de tal modo que mis encarcelamientos por Cristo se han hecho evidentes en todo el pretorio, y a todos los dem&#225;s.</span></span></div><div class=\"m\"><span class=\"verse v13\" data-usfm=\"PHP.1.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"PHP.1.14\"><span class=\"label\">14</span><span class=\"content\">Con mis encarcelamientos, la mayor&#237;a de los hermanos ha cobrado &#225;nimo en el Se&#241;or, y m&#225;s y m&#225;s se atreven a hablar la palabra sin temor.</span></span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"PHP.1.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"PHP.1.15\"><span class=\"label\">15</span><span class=\"content\">A decir verdad, algunos predican a Cristo por envidia y por pelear; pero otros lo hacen de buena voluntad.</span></span></div><div class=\"m\"><span class=\"verse v15\" data-usfm=\"PHP.1.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"PHP.1.16\"><span class=\"label\">16</span><span class=\"content\">Unos anuncian a Cristo por pelear, y no con sinceridad, pues creen que as&#237; a&#241;aden aflicci&#243;n a mis prisiones;</span></span></div><div class=\"m\"><span class=\"verse v16\" data-usfm=\"PHP.1.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"PHP.1.17\"><span class=\"label\">17</span><span class=\"content\">pero otros lo hacen por amor, y saben que estoy aqu&#237; para defender al evangelio.</span></span></div><div class=\"m\"><span class=\"verse v17\" data-usfm=\"PHP.1.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"PHP.1.18\"><span class=\"label\">18</span><span class=\"content\">&#191;Qu&#233; dir&#233;, entonces? Pues que a pesar de todo, y de todas maneras, sea por pretexto o por verdad, Cristo es anunciado. Y en esto me gozo, y me gozar&#233; a&#250;n.</span></span></div><div class=\"p\"><span class=\"verse v18\" data-usfm=\"PHP.1.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"PHP.1.19\"><span class=\"label\">19</span><span class=\"content\">Yo s&#233; que por la oraci&#243;n de ustedes, y con el apoyo del Esp&#237;ritu de Jesucristo, esto redundar&#225; en mi liberaci&#243;n,</span></span></div><div class=\"m\"><span class=\"verse v19\" data-usfm=\"PHP.1.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"PHP.1.20\"><span class=\"label\">20</span><span class=\"content\">conforme a mi anhelo y esperanza de que en nada ser&#233; avergonzado, sino que con toda confianza, y como siempre, tambi&#233;n ahora Cristo ser&#225; magnificado en mi cuerpo, ya sea por vida o por muerte.</span></span></div><div class=\"m\"><span class=\"verse v20\" data-usfm=\"PHP.1.20\"><span class=\"content\">  </span></span><span class=\"verse v21\" data-usfm=\"PHP.1.21\"><span class=\"label\">21</span><span class=\"content\">Porque para m&#237; el vivir es Cristo, y el morir es ganancia.</span></span></div><div class=\"m\"><span class=\"verse v21\" data-usfm=\"PHP.1.21\"><span class=\"content\">  </span></span><span class=\"verse v22\" data-usfm=\"PHP.1.22\"><span class=\"label\">22</span><span class=\"content\">Pero si el vivir en la carne resulta para m&#237; en beneficio de la obra, no s&#233; entonces qu&#233; escoger.</span></span></div><div class=\"m\"><span class=\"verse v22\" data-usfm=\"PHP.1.22\"><span class=\"content\">  </span></span><span class=\"verse v23\" data-usfm=\"PHP.1.23\"><span class=\"label\">23</span><span class=\"content\">Por ambas cosas me encuentro en un dilema, pues tengo el deseo de partir y estar con Cristo, lo cual es much&#237;simo mejor;</span></span></div><div class=\"m\"><span class=\"verse v23\" data-usfm=\"PHP.1.23\"><span class=\"content\">  </span></span><span class=\"verse v24\" data-usfm=\"PHP.1.24\"><span class=\"label\">24</span><span class=\"content\">pero quedarme en la carne es m&#225;s necesario por causa de ustedes.</span></span></div><div class=\"m\"><span class=\"verse v24\" data-usfm=\"PHP.1.24\"><span class=\"content\">  </span></span><span class=\"verse v25\" data-usfm=\"PHP.1.25\"><span class=\"label\">25</span><span class=\"content\">Y conf&#237;o en esto, y s&#233; que me quedar&#233;, que a&#250;n permanecer&#233; con todos ustedes, para su provecho y gozo de la fe,</span></span></div><div class=\"m\"><span class=\"verse v25\" data-usfm=\"PHP.1.25\"><span class=\"content\">  </span></span><span class=\"verse v26\" data-usfm=\"PHP.1.26\"><span class=\"label\">26</span><span class=\"content\">para que abunde su vanagloria por m&#237; en Cristo Jes&#250;s, por mi presencia otra vez entre ustedes.</span></span></div><div class=\"p\"><span class=\"verse v26\" data-usfm=\"PHP.1.26\"><span class=\"content\">  </span></span><span class=\"verse v27\" data-usfm=\"PHP.1.27\"><span class=\"label\">27</span><span class=\"content\">Solo comp&#243;rtense ustedes como es digno del evangelio de Cristo, para que ya sea que vaya a verlos, o que me encuentre ausente, sepa yo que ustedes siguen firmes, en un mismo esp&#237;ritu y luchando un&#225;nimes por la fe del evangelio,</span></span></div><div class=\"m\"><span class=\"verse v27\" data-usfm=\"PHP.1.27\"><span class=\"content\">  </span></span><span class=\"verse v28\" data-usfm=\"PHP.1.28\"><span class=\"label\">28</span><span class=\"content\">sin que en nada los intimiden los que se oponen. Para ellos, ciertamente, es indicio de perdici&#243;n, pero para ustedes lo es de salvaci&#243;n; y esto de parte de Dios.</span></span></div><div class=\"m\"><span class=\"verse v28\" data-usfm=\"PHP.1.28\"><span class=\"content\">  </span></span><span class=\"verse v29\" data-usfm=\"PHP.1.29\"><span class=\"label\">29</span><span class=\"content\">Porque, por causa de Cristo, a ustedes les es concedido no solo creer en &#233;l, sino tambi&#233;n padecer por &#233;l</span></span></div><div class=\"m\"><span class=\"verse v29\" data-usfm=\"PHP.1.29\"><span class=\"content\">  </span></span><span class=\"verse v30\" data-usfm=\"PHP.1.30\"><span class=\"label\">30</span><span class=\"content\">y tener el mismo conflicto que han visto en m&#237;, y que ahora saben que hay en m&#237;.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Pablo y Timoteo, siervos de Jesucristo, a todos los santos en Cristo Jesús que están en Filipos, junto con los obispos y diáconos:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Gracia y paz reciban ustedes de Dios nuestro Padre y del Señor Jesucristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Doy gracias a mi Dios cada vez que me acuerdo de ustedes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "En todas mis oraciones siempre ruego con gozo por todos ustedes,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "por su comunión en el evangelio, desde el primer día hasta ahora."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Estoy persuadido de que el que comenzó en ustedes la buena obra, la perfeccionará hasta el día de Jesucristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Es justo que yo sienta esto por todos ustedes, porque los llevo en el corazón. Tanto en mis prisiones como en la defensa y confirmación del evangelio, todos ustedes participan conmigo de la gracia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Porque Dios me es testigo de cuánto los amo a todos ustedes con el entrañable amor de Jesucristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Y esto le pido en oración: que el amor de ustedes abunde aún más y más en ciencia y en todo conocimiento,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "para que aprueben lo mejor, a fin de que sean sinceros e irreprensibles para el día de Cristo,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "llenos de los frutos de justicia que vienen por medio de Jesucristo, para gloria y alabanza de Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Quiero que sepan, hermanos, que lo que me ha sucedido más bien ha servido para el avance del evangelio,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "de tal modo que mis encarcelamientos por Cristo se han hecho evidentes en todo el pretorio, y a todos los demás."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Con mis encarcelamientos, la mayoría de los hermanos ha cobrado ánimo en el Señor, y más y más se atreven a hablar la palabra sin temor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "A decir verdad, algunos predican a Cristo por envidia y por pelear; pero otros lo hacen de buena voluntad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Unos anuncian a Cristo por pelear, y no con sinceridad, pues creen que así añaden aflicción a mis prisiones;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "pero otros lo hacen por amor, y saben que estoy aquí para defender al evangelio."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "¿Qué diré, entonces? Pues que a pesar de todo, y de todas maneras, sea por pretexto o por verdad, Cristo es anunciado. Y en esto me gozo, y me gozaré aún."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Yo sé que por la oración de ustedes, y con el apoyo del Espíritu de Jesucristo, esto redundará en mi liberación,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "conforme a mi anhelo y esperanza de que en nada seré avergonzado, sino que con toda confianza, y como siempre, también ahora Cristo será magnificado en mi cuerpo, ya sea por vida o por muerte."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "Porque para mí el vivir es Cristo, y el morir es ganancia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "Pero si el vivir en la carne resulta para mí en beneficio de la obra, no sé entonces qué escoger."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "Por ambas cosas me encuentro en un dilema, pues tengo el deseo de partir y estar con Cristo, lo cual es muchísimo mejor;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "pero quedarme en la carne es más necesario por causa de ustedes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "Y confío en esto, y sé que me quedaré, que aún permaneceré con todos ustedes, para su provecho y gozo de la fe,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 26,
+          "lines": [
+            "para que abunde su vanagloria por mí en Cristo Jesús, por mi presencia otra vez entre ustedes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 27,
+          "lines": [
+            "Solo compórtense ustedes como es digno del evangelio de Cristo, para que ya sea que vaya a verlos, o que me encuentre ausente, sepa yo que ustedes siguen firmes, en un mismo espíritu y luchando unánimes por la fe del evangelio,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 28,
+          "lines": [
+            "sin que en nada los intimiden los que se oponen. Para ellos, ciertamente, es indicio de perdición, pero para ustedes lo es de salvación; y esto de parte de Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 29,
+          "lines": [
+            "Porque, por causa de Cristo, a ustedes les es concedido no solo creer en él, sino también padecer por él"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 30,
+          "lines": [
+            "y tener el mismo conflicto que han visto en mí, y que ahora saben que hay en mí."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "PHP.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "PHP.2"
+        ],
+        "human": "Filipenses 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "PHP.3"
+        ],
+        "human": "Filipenses 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "PHP.1"
+        ],
+        "human": "Filipenses 1",
+        "toc": true
+      },
+      "chapter_text": "Por tanto, si hay alguna consolación en Cristo, si algún consuelo de amor, si alguna comunión del Espíritu, si algún afecto entrañable, si alguna misericordia,\ncompleten mi gozo sintiendo lo mismo, teniendo el mismo amor, unánimes, sintiendo una misma cosa.\nNo hagan nada por contienda o por vanagloria. Al contrario, háganlo con humildad y considerando cada uno a los demás como superiores a sí mismo.\nNo busque cada uno su propio interés, sino cada cual también el de los demás.\nQue haya en ustedes el mismo sentir que hubo en Cristo Jesús,\nquien, siendo en forma de Dios, no estimó el ser igual a Dios como cosa a que aferrarse,\nsino que se despojó a sí mismo y tomó forma de siervo, y se hizo semejante a los hombres;\ny estando en la condición de hombre, se humilló a sí mismo y se hizo obediente hasta la muerte, y muerte de cruz.\nPor lo cual Dios también lo exaltó hasta lo sumo, y le dio un nombre que es sobre todo nombre,\npara que en el nombre de Jesús se doble toda rodilla de los que están en los cielos, y en la tierra, y debajo de la tierra;\ny toda lengua confiese que Jesucristo es el Señor, para gloria de Dios el Padre.\n\nPor tanto, amados míos, ya que siempre han obedecido, no solo en mi presencia, sino mucho más ahora en mi ausencia, ocúpense en su salvación con temor y temblor,\nporque Dios es el que produce en ustedes lo mismo el querer como el hacer, por su buena voluntad.\nHáganlo todo sin murmuraciones ni peleas,\npara que sean irreprensibles y sencillos, e intachables hijos de Dios en medio de una generación maligna y perversa, en medio de la cual ustedes resplandecen como luminares en el mundo,\naferrados a la palabra de vida, para que en el día de Cristo yo pueda gloriarme de que no he corrido ni trabajado en vano.\nY aunque mi vida sea derramada en libación sobre el sacrificio y servicio de la fe de ustedes, me gozo y regocijo con todos ustedes.\nY asimismo, también ustedes gócense y regocíjense conmigo.\n\nEspero en el Señor Jesús enviarles pronto a Timoteo, para que yo también pueda regocijarme al saber cómo se encuentran ustedes;\npues no tengo a nadie con ese mismo ánimo, y que con tanta sinceridad se interese por ustedes.\nPorque todos buscan su propio interés, y no lo que es de Cristo Jesús.\nPero ya conocen los méritos de él, que ha servido conmigo en el evangelio como sirve un hijo a su padre.\nAsí que espero enviarlo a ustedes tan pronto vea yo cómo van mis asuntos,\ny confío en el Señor que yo también iré pronto a ustedes.\nPero consideré necesario enviarles a Epafrodito, mi hermano y colaborador y compañero de lucha, y además mensajero de ustedes y proveedor de mis necesidades,\nporque él tenía grandes deseos de verlos a todos ustedes, y se angustió mucho al saber que ustedes se enteraron de su enfermedad.\nA decir verdad, sí estuvo enfermo y a punto de morir; pero Dios tuvo misericordia de él, y no solamente de él, sino también de mí, para que yo no añadiera más tristeza a mis tristezas.\nAsí que lo he enviado con la mayor urgencia para que, al verlo de nuevo, ustedes puedan alegrarse y yo tener menos tristeza.\nRecíbanlo en el Señor con todo gozo, y tengan en alta estima a los que son como él;\nporque por la obra de Cristo estuvo a punto de morir, y hasta arriesgó su vida por mí, para suplir el servicio que de ustedes me faltaba.",
+      "chapter_html": "<div class=\"version vid146 iso6393spa\" data-vid=\"146\" data-iso6393=\"spa\">\n   <div class=\"book bkPHP\">\n      <div class=\"chapter ch2\" data-usfm=\"PHP.2\">\n         <div class=\"label\">2</div><div class=\"s\"><span class=\"heading\">Humillaci&#243;n y exaltaci&#243;n de Cristo</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"PHP.2.1\"><span class=\"label\">1</span><span class=\"content\">Por tanto, si hay alguna consolaci&#243;n en Cristo, si alg&#250;n consuelo de amor, si alguna comuni&#243;n del Esp&#237;ritu, si alg&#250;n afecto entra&#241;able, si alguna misericordia,</span></span></div><div class=\"m\"><span class=\"verse v1\" data-usfm=\"PHP.2.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"PHP.2.2\"><span class=\"label\">2</span><span class=\"content\">completen mi gozo sintiendo lo mismo, teniendo el mismo amor, un&#225;nimes, sintiendo una misma cosa.</span></span></div><div class=\"m\"><span class=\"verse v2\" data-usfm=\"PHP.2.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"PHP.2.3\"><span class=\"label\">3</span><span class=\"content\">No hagan nada por contienda o por vanagloria. Al contrario, h&#225;ganlo con humildad y considerando cada uno a los dem&#225;s como superiores a s&#237; mismo.</span></span></div><div class=\"m\"><span class=\"verse v3\" data-usfm=\"PHP.2.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"PHP.2.4\"><span class=\"label\">4</span><span class=\"content\">No busque cada uno su propio inter&#233;s, sino cada cual tambi&#233;n el de los dem&#225;s.</span></span></div><div class=\"m\"><span class=\"verse v4\" data-usfm=\"PHP.2.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"PHP.2.5\"><span class=\"label\">5</span><span class=\"content\">Que haya en ustedes el mismo sentir que hubo en Cristo Jes&#250;s,</span></span></div><div class=\"m\"><span class=\"verse v5\" data-usfm=\"PHP.2.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"PHP.2.6\"><span class=\"label\">6</span><span class=\"content\">quien, siendo en forma de Dios, no estim&#243; el ser igual a Dios como cosa a que aferrarse,</span></span></div><div class=\"m\"><span class=\"verse v6\" data-usfm=\"PHP.2.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"PHP.2.7\"><span class=\"label\">7</span><span class=\"content\">sino que se despoj&#243; a s&#237; mismo y tom&#243; forma de siervo, y se hizo semejante a los hombres;</span></span></div><div class=\"m\"><span class=\"verse v7\" data-usfm=\"PHP.2.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"PHP.2.8\"><span class=\"label\">8</span><span class=\"content\">y estando en la condici&#243;n de hombre, se humill&#243; a s&#237; mismo y se hizo obediente hasta la muerte, y muerte de cruz.</span></span></div><div class=\"m\"><span class=\"verse v8\" data-usfm=\"PHP.2.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"PHP.2.9\"><span class=\"label\">9</span><span class=\"content\">Por lo cual Dios tambi&#233;n lo exalt&#243; hasta lo sumo, y le dio un nombre que es sobre todo nombre,</span></span></div><div class=\"m\"><span class=\"verse v9\" data-usfm=\"PHP.2.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"PHP.2.10\"><span class=\"label\">10</span><span class=\"content\">para que en el nombre de Jes&#250;s se doble toda rodilla de los que est&#225;n en los cielos, y en la tierra, y debajo de la tierra;</span></span></div><div class=\"m\"><span class=\"verse v10\" data-usfm=\"PHP.2.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"PHP.2.11\"><span class=\"label\">11</span><span class=\"content\">y toda lengua confiese que Jesucristo es el Se&#241;or, para gloria de Dios el Padre.</span></span></div><div class=\"s\"><span class=\"heading\">Luminares en el mundo</span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"PHP.2.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"PHP.2.12\"><span class=\"label\">12</span><span class=\"content\">Por tanto, amados m&#237;os, ya que siempre han obedecido, no solo en mi presencia, sino mucho m&#225;s ahora en mi ausencia, oc&#250;pense en su salvaci&#243;n con temor y temblor,</span></span></div><div class=\"m\"><span class=\"verse v12\" data-usfm=\"PHP.2.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"PHP.2.13\"><span class=\"label\">13</span><span class=\"content\">porque Dios es el que produce en ustedes lo mismo el querer como el hacer, por su buena voluntad.</span></span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"PHP.2.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"PHP.2.14\"><span class=\"label\">14</span><span class=\"content\">H&#225;ganlo todo sin murmuraciones ni peleas,</span></span></div><div class=\"m\"><span class=\"verse v14\" data-usfm=\"PHP.2.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"PHP.2.15\"><span class=\"label\">15</span><span class=\"content\">para que sean irreprensibles y sencillos, e intachables hijos de Dios en medio de una generaci&#243;n maligna y perversa, en medio de la cual ustedes resplandecen como luminares en el mundo,</span></span></div><div class=\"m\"><span class=\"verse v15\" data-usfm=\"PHP.2.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"PHP.2.16\"><span class=\"label\">16</span><span class=\"content\">aferrados a la palabra de vida, para que en el d&#237;a de Cristo yo pueda gloriarme de que no he corrido ni trabajado en vano.</span></span></div><div class=\"m\"><span class=\"verse v16\" data-usfm=\"PHP.2.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"PHP.2.17\"><span class=\"label\">17</span><span class=\"content\">Y aunque mi vida sea derramada en libaci&#243;n sobre el sacrificio y servicio de la fe de ustedes, me gozo y regocijo con todos ustedes.</span></span></div><div class=\"m\"><span class=\"verse v17\" data-usfm=\"PHP.2.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"PHP.2.18\"><span class=\"label\">18</span><span class=\"content\">Y asimismo, tambi&#233;n ustedes g&#243;cense y regoc&#237;jense conmigo.</span></span></div><div class=\"s\"><span class=\"heading\">Timoteo y Epafrodito</span></div><div class=\"p\"><span class=\"verse v18\" data-usfm=\"PHP.2.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"PHP.2.19\"><span class=\"label\">19</span><span class=\"content\">Espero en el Se&#241;or Jes&#250;s enviarles pronto a Timoteo, para que yo tambi&#233;n pueda regocijarme al saber c&#243;mo se encuentran ustedes;</span></span></div><div class=\"m\"><span class=\"verse v19\" data-usfm=\"PHP.2.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"PHP.2.20\"><span class=\"label\">20</span><span class=\"content\">pues no tengo a nadie con ese mismo &#225;nimo, y que con tanta sinceridad se interese por ustedes.</span></span></div><div class=\"m\"><span class=\"verse v20\" data-usfm=\"PHP.2.20\"><span class=\"content\">  </span></span><span class=\"verse v21\" data-usfm=\"PHP.2.21\"><span class=\"label\">21</span><span class=\"content\">Porque todos buscan su propio inter&#233;s, y no lo que es de Cristo Jes&#250;s.</span></span></div><div class=\"m\"><span class=\"verse v21\" data-usfm=\"PHP.2.21\"><span class=\"content\">  </span></span><span class=\"verse v22\" data-usfm=\"PHP.2.22\"><span class=\"label\">22</span><span class=\"content\">Pero ya conocen los m&#233;ritos de &#233;l, que ha servido conmigo en el evangelio como sirve un hijo a su padre.</span></span></div><div class=\"m\"><span class=\"verse v22\" data-usfm=\"PHP.2.22\"><span class=\"content\">  </span></span><span class=\"verse v23\" data-usfm=\"PHP.2.23\"><span class=\"label\">23</span><span class=\"content\">As&#237; que espero enviarlo a ustedes tan pronto vea yo c&#243;mo van mis asuntos,</span></span></div><div class=\"m\"><span class=\"verse v23\" data-usfm=\"PHP.2.23\"><span class=\"content\">  </span></span><span class=\"verse v24\" data-usfm=\"PHP.2.24\"><span class=\"label\">24</span><span class=\"content\">y conf&#237;o en el Se&#241;or que yo tambi&#233;n ir&#233; pronto a ustedes.</span></span></div><div class=\"p\"><span class=\"verse v24\" data-usfm=\"PHP.2.24\"><span class=\"content\">  </span></span><span class=\"verse v25\" data-usfm=\"PHP.2.25\"><span class=\"label\">25</span><span class=\"content\">Pero consider&#233; necesario enviarles a Epafrodito, mi hermano y colaborador y compa&#241;ero de lucha, y adem&#225;s mensajero de ustedes y proveedor de mis necesidades,</span></span></div><div class=\"m\"><span class=\"verse v25\" data-usfm=\"PHP.2.25\"><span class=\"content\">  </span></span><span class=\"verse v26\" data-usfm=\"PHP.2.26\"><span class=\"label\">26</span><span class=\"content\">porque &#233;l ten&#237;a grandes deseos de verlos a todos ustedes, y se angusti&#243; mucho al saber que ustedes se enteraron de su enfermedad.</span></span></div><div class=\"m\"><span class=\"verse v26\" data-usfm=\"PHP.2.26\"><span class=\"content\">  </span></span><span class=\"verse v27\" data-usfm=\"PHP.2.27\"><span class=\"label\">27</span><span class=\"content\">A decir verdad, s&#237; estuvo enfermo y a punto de morir; pero Dios tuvo misericordia de &#233;l, y no solamente de &#233;l, sino tambi&#233;n de m&#237;, para que yo no a&#241;adiera m&#225;s tristeza a mis tristezas.</span></span></div><div class=\"m\"><span class=\"verse v27\" data-usfm=\"PHP.2.27\"><span class=\"content\">  </span></span><span class=\"verse v28\" data-usfm=\"PHP.2.28\"><span class=\"label\">28</span><span class=\"content\">As&#237; que lo he enviado con la mayor urgencia para que, al verlo de nuevo, ustedes puedan alegrarse y yo tener menos tristeza.</span></span></div><div class=\"m\"><span class=\"verse v28\" data-usfm=\"PHP.2.28\"><span class=\"content\">  </span></span><span class=\"verse v29\" data-usfm=\"PHP.2.29\"><span class=\"label\">29</span><span class=\"content\">Rec&#237;banlo en el Se&#241;or con todo gozo, y tengan en alta estima a los que son como &#233;l;</span></span></div><div class=\"m\"><span class=\"verse v29\" data-usfm=\"PHP.2.29\"><span class=\"content\">  </span></span><span class=\"verse v30\" data-usfm=\"PHP.2.30\"><span class=\"label\">30</span><span class=\"content\">porque por la obra de Cristo estuvo a punto de morir, y hasta arriesg&#243; su vida por m&#237;, para suplir el servicio que de ustedes me faltaba.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Por tanto, si hay alguna consolación en Cristo, si algún consuelo de amor, si alguna comunión del Espíritu, si algún afecto entrañable, si alguna misericordia,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "completen mi gozo sintiendo lo mismo, teniendo el mismo amor, unánimes, sintiendo una misma cosa."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "No hagan nada por contienda o por vanagloria. Al contrario, háganlo con humildad y considerando cada uno a los demás como superiores a sí mismo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "No busque cada uno su propio interés, sino cada cual también el de los demás."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Que haya en ustedes el mismo sentir que hubo en Cristo Jesús,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "quien, siendo en forma de Dios, no estimó el ser igual a Dios como cosa a que aferrarse,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "sino que se despojó a sí mismo y tomó forma de siervo, y se hizo semejante a los hombres;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "y estando en la condición de hombre, se humilló a sí mismo y se hizo obediente hasta la muerte, y muerte de cruz."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Por lo cual Dios también lo exaltó hasta lo sumo, y le dio un nombre que es sobre todo nombre,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "para que en el nombre de Jesús se doble toda rodilla de los que están en los cielos, y en la tierra, y debajo de la tierra;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "y toda lengua confiese que Jesucristo es el Señor, para gloria de Dios el Padre."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Por tanto, amados míos, ya que siempre han obedecido, no solo en mi presencia, sino mucho más ahora en mi ausencia, ocúpense en su salvación con temor y temblor,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "porque Dios es el que produce en ustedes lo mismo el querer como el hacer, por su buena voluntad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Háganlo todo sin murmuraciones ni peleas,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "para que sean irreprensibles y sencillos, e intachables hijos de Dios en medio de una generación maligna y perversa, en medio de la cual ustedes resplandecen como luminares en el mundo,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "aferrados a la palabra de vida, para que en el día de Cristo yo pueda gloriarme de que no he corrido ni trabajado en vano."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Y aunque mi vida sea derramada en libación sobre el sacrificio y servicio de la fe de ustedes, me gozo y regocijo con todos ustedes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Y asimismo, también ustedes gócense y regocíjense conmigo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Espero en el Señor Jesús enviarles pronto a Timoteo, para que yo también pueda regocijarme al saber cómo se encuentran ustedes;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "pues no tengo a nadie con ese mismo ánimo, y que con tanta sinceridad se interese por ustedes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "Porque todos buscan su propio interés, y no lo que es de Cristo Jesús."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "Pero ya conocen los méritos de él, que ha servido conmigo en el evangelio como sirve un hijo a su padre."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "Así que espero enviarlo a ustedes tan pronto vea yo cómo van mis asuntos,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "y confío en el Señor que yo también iré pronto a ustedes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "Pero consideré necesario enviarles a Epafrodito, mi hermano y colaborador y compañero de lucha, y además mensajero de ustedes y proveedor de mis necesidades,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 26,
+          "lines": [
+            "porque él tenía grandes deseos de verlos a todos ustedes, y se angustió mucho al saber que ustedes se enteraron de su enfermedad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 27,
+          "lines": [
+            "A decir verdad, sí estuvo enfermo y a punto de morir; pero Dios tuvo misericordia de él, y no solamente de él, sino también de mí, para que yo no añadiera más tristeza a mis tristezas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 28,
+          "lines": [
+            "Así que lo he enviado con la mayor urgencia para que, al verlo de nuevo, ustedes puedan alegrarse y yo tener menos tristeza."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 29,
+          "lines": [
+            "Recíbanlo en el Señor con todo gozo, y tengan en alta estima a los que son como él;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 30,
+          "lines": [
+            "porque por la obra de Cristo estuvo a punto de morir, y hasta arriesgó su vida por mí, para suplir el servicio que de ustedes me faltaba."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "PHP.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "PHP.3"
+        ],
+        "human": "Filipenses 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "PHP.4"
+        ],
+        "human": "Filipenses 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "PHP.2"
+        ],
+        "human": "Filipenses 2",
+        "toc": true
+      },
+      "chapter_text": "Por lo demás, hermanos, gócense en el Señor. A mí no me molesta escribirles las mismas cosas, y para ustedes es mejor.\nTengan cuidado de los perros, cuídense de los malos obreros y de los que mutilan el cuerpo.\nPorque nosotros somos la circuncisión; somos los que servimos a Dios en el Espíritu, los que nos gloriamos en Cristo Jesús y no ponemos nuestra confianza en la carne.\nAunque también yo tengo de qué confiar en la carne. Si alguno piensa que tiene de qué confiar en la carne, yo más:\nfui circuncidado al octavo día, y soy del linaje de Israel, de la tribu de Benjamín; soy hebreo de hebreos y, en cuanto a la ley, fariseo;\nen cuanto a celo, perseguidor de la iglesia; en cuanto a la justicia que se basa en la ley, irreprensible.\nPero todo lo que para mí era ganancia, lo he estimado como pérdida, por amor de Cristo.\nY a decir verdad, incluso estimo todo como pérdida por la excelencia del conocimiento de Cristo Jesús, mi Señor. Por su amor lo he perdido todo, y lo veo como basura, para ganar a Cristo\ny ser hallado en él, no por tener mi propia justicia, que viene por la ley, sino por tener la justicia que es de Dios y que viene por la fe, la fe en Cristo;\na fin de conocer a Cristo y el poder de su resurrección, y de participar de sus padecimientos, para llegar a ser semejante a él en su muerte,\nsi es que de alguna manera llego a la resurrección de entre los muertos.\nNo es que ya lo haya alcanzado, ni que ya sea perfecto, sino que sigo adelante, por ver si logro alcanzar aquello para lo cual fui también alcanzado por Cristo Jesús.\nHermanos, yo mismo no pretendo haberlo alcanzado ya; pero una cosa sí hago: me olvido ciertamente de lo que ha quedado atrás, y me extiendo hacia lo que está adelante;\n¡prosigo a la meta, al premio del supremo llamamiento de Dios en Cristo Jesús!\nAsí que, todos los que somos perfectos, sintamos esto mismo; y si ustedes sienten otra cosa, también esto se lo revelará Dios.\nPero en aquello a que hemos llegado, sigamos una misma regla y sintamos una misma cosa.\nHermanos, sean ustedes imitadores de mí, y fíjense en los que así se conducen, según el ejemplo que ustedes tienen de nosotros.\nPorque por ahí andan muchos, de los cuales muchas veces les dije, y llorando vuelvo a decirlo, que son enemigos de la cruz de Cristo.\nEllos solo piensan en lo terrenal. Su dios es el vientre, su orgullo es su vergüenza, y su fin será la perdición.\nPero nuestra ciudadanía está en los cielos, de donde también esperamos al Salvador, al Señor Jesucristo;\nél transformará el cuerpo de nuestra humillación, para que sea semejante al cuerpo de su gloria, por el poder con el que puede también sujetar a sí mismo todas las cosas.",
+      "chapter_html": "<div class=\"version vid146 iso6393spa\" data-vid=\"146\" data-iso6393=\"spa\">\n   <div class=\"book bkPHP\">\n      <div class=\"chapter ch3\" data-usfm=\"PHP.3\">\n         <div class=\"label\">3</div><div class=\"s\"><span class=\"heading\">Prosigo al blanco</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"PHP.3.1\"><span class=\"label\">1</span><span class=\"content\">Por lo dem&#225;s, hermanos, g&#243;cense en el Se&#241;or. A m&#237; no me molesta escribirles las mismas cosas, y para ustedes es mejor.</span></span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"PHP.3.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"PHP.3.2\"><span class=\"label\">2</span><span class=\"content\">Tengan cuidado de los perros, cu&#237;dense de los malos obreros y de los que mutilan el cuerpo.</span></span></div><div class=\"m\"><span class=\"verse v2\" data-usfm=\"PHP.3.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"PHP.3.3\"><span class=\"label\">3</span><span class=\"content\">Porque nosotros somos la circuncisi&#243;n; somos los que servimos a Dios en el Esp&#237;ritu, los que nos gloriamos en Cristo Jes&#250;s y no ponemos nuestra confianza en la carne.</span></span></div><div class=\"m\"><span class=\"verse v3\" data-usfm=\"PHP.3.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"PHP.3.4\"><span class=\"label\">4</span><span class=\"content\">Aunque tambi&#233;n yo tengo de qu&#233; confiar en la carne. Si alguno piensa que tiene de qu&#233; confiar en la carne, yo m&#225;s:</span></span></div><div class=\"m\"><span class=\"verse v4\" data-usfm=\"PHP.3.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"PHP.3.5\"><span class=\"label\">5</span><span class=\"content\">fui circuncidado al octavo d&#237;a, y soy del linaje de Israel, de la tribu de Benjam&#237;n; soy hebreo de hebreos y, en cuanto a la ley, fariseo; </span></span></div><div class=\"m\"><span class=\"verse v5\" data-usfm=\"PHP.3.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"PHP.3.6\"><span class=\"label\">6</span><span class=\"content\">en cuanto a celo, perseguidor de la iglesia; en cuanto a la justicia que se basa en la ley, irreprensible.</span></span></div><div class=\"m\"><span class=\"verse v6\" data-usfm=\"PHP.3.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"PHP.3.7\"><span class=\"label\">7</span><span class=\"content\">Pero todo lo que para m&#237; era ganancia, lo he estimado como p&#233;rdida, por amor de Cristo.</span></span></div><div class=\"m\"><span class=\"verse v7\" data-usfm=\"PHP.3.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"PHP.3.8\"><span class=\"label\">8</span><span class=\"content\">Y a decir verdad, incluso estimo todo como p&#233;rdida por la excelencia del conocimiento de Cristo Jes&#250;s, mi Se&#241;or. Por su amor lo he perdido todo, y lo veo como basura, para ganar a Cristo</span></span></div><div class=\"m\"><span class=\"verse v8\" data-usfm=\"PHP.3.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"PHP.3.9\"><span class=\"label\">9</span><span class=\"content\">y ser hallado en &#233;l, no por tener mi propia justicia, que viene por la ley, sino por tener la justicia que es de Dios y que viene por la fe, la fe en Cristo;</span></span></div><div class=\"m\"><span class=\"verse v9\" data-usfm=\"PHP.3.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"PHP.3.10\"><span class=\"label\">10</span><span class=\"content\">a fin de conocer a Cristo y el poder de su resurrecci&#243;n, y de participar de sus padecimientos, para llegar a ser semejante a &#233;l en su muerte,</span></span></div><div class=\"m\"><span class=\"verse v10\" data-usfm=\"PHP.3.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"PHP.3.11\"><span class=\"label\">11</span><span class=\"content\">si es que de alguna manera llego a la resurrecci&#243;n de entre los muertos.</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"PHP.3.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"PHP.3.12\"><span class=\"label\">12</span><span class=\"content\">No es que ya lo haya alcanzado, ni que ya sea perfecto, sino que sigo adelante, por ver si logro alcanzar aquello para lo cual fui tambi&#233;n alcanzado por Cristo Jes&#250;s.</span></span></div><div class=\"m\"><span class=\"verse v12\" data-usfm=\"PHP.3.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"PHP.3.13\"><span class=\"label\">13</span><span class=\"content\">Hermanos, yo mismo no pretendo haberlo alcanzado ya; pero una cosa s&#237; hago: me olvido ciertamente de lo que ha quedado atr&#225;s, y me extiendo hacia lo que est&#225; adelante;</span></span></div><div class=\"m\"><span class=\"verse v13\" data-usfm=\"PHP.3.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"PHP.3.14\"><span class=\"label\">14</span><span class=\"content\">&#161;prosigo a la meta, al premio del supremo llamamiento de Dios en Cristo Jes&#250;s!</span></span></div><div class=\"m\"><span class=\"verse v14\" data-usfm=\"PHP.3.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"PHP.3.15\"><span class=\"label\">15</span><span class=\"content\">As&#237; que, todos los que somos perfectos, sintamos esto mismo; y si ustedes sienten otra cosa, tambi&#233;n esto se lo revelar&#225; Dios.</span></span></div><div class=\"m\"><span class=\"verse v15\" data-usfm=\"PHP.3.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"PHP.3.16\"><span class=\"label\">16</span><span class=\"content\">Pero en aquello a que hemos llegado, sigamos una misma regla y sintamos una misma cosa.</span></span></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"PHP.3.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"PHP.3.17\"><span class=\"label\">17</span><span class=\"content\">Hermanos, sean ustedes imitadores de m&#237;, y f&#237;jense en los que as&#237; se conducen, seg&#250;n el ejemplo que ustedes tienen de nosotros.</span></span></div><div class=\"m\"><span class=\"verse v17\" data-usfm=\"PHP.3.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"PHP.3.18\"><span class=\"label\">18</span><span class=\"content\">Porque por ah&#237; andan muchos, de los cuales muchas veces les dije, y llorando vuelvo a decirlo, que son enemigos de la cruz de Cristo.</span></span></div><div class=\"m\"><span class=\"verse v18\" data-usfm=\"PHP.3.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"PHP.3.19\"><span class=\"label\">19</span><span class=\"content\">Ellos solo piensan en lo terrenal. Su dios es el vientre, su orgullo es su verg&#252;enza, y su fin ser&#225; la perdici&#243;n.</span></span></div><div class=\"m\"><span class=\"verse v19\" data-usfm=\"PHP.3.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"PHP.3.20\"><span class=\"label\">20</span><span class=\"content\">Pero nuestra ciudadan&#237;a est&#225; en los cielos, de donde tambi&#233;n esperamos al Salvador, al Se&#241;or Jesucristo;</span></span></div><div class=\"m\"><span class=\"verse v20\" data-usfm=\"PHP.3.20\"><span class=\"content\">  </span></span><span class=\"verse v21\" data-usfm=\"PHP.3.21\"><span class=\"label\">21</span><span class=\"content\">&#233;l transformar&#225; el cuerpo de nuestra humillaci&#243;n, para que sea semejante al cuerpo de su gloria, por el poder con el que puede tambi&#233;n sujetar a s&#237; mismo todas las cosas.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Por lo demás, hermanos, gócense en el Señor. A mí no me molesta escribirles las mismas cosas, y para ustedes es mejor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Tengan cuidado de los perros, cuídense de los malos obreros y de los que mutilan el cuerpo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Porque nosotros somos la circuncisión; somos los que servimos a Dios en el Espíritu, los que nos gloriamos en Cristo Jesús y no ponemos nuestra confianza en la carne."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Aunque también yo tengo de qué confiar en la carne. Si alguno piensa que tiene de qué confiar en la carne, yo más:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "fui circuncidado al octavo día, y soy del linaje de Israel, de la tribu de Benjamín; soy hebreo de hebreos y, en cuanto a la ley, fariseo;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "en cuanto a celo, perseguidor de la iglesia; en cuanto a la justicia que se basa en la ley, irreprensible."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Pero todo lo que para mí era ganancia, lo he estimado como pérdida, por amor de Cristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Y a decir verdad, incluso estimo todo como pérdida por la excelencia del conocimiento de Cristo Jesús, mi Señor. Por su amor lo he perdido todo, y lo veo como basura, para ganar a Cristo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "y ser hallado en él, no por tener mi propia justicia, que viene por la ley, sino por tener la justicia que es de Dios y que viene por la fe, la fe en Cristo;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "a fin de conocer a Cristo y el poder de su resurrección, y de participar de sus padecimientos, para llegar a ser semejante a él en su muerte,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "si es que de alguna manera llego a la resurrección de entre los muertos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "No es que ya lo haya alcanzado, ni que ya sea perfecto, sino que sigo adelante, por ver si logro alcanzar aquello para lo cual fui también alcanzado por Cristo Jesús."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Hermanos, yo mismo no pretendo haberlo alcanzado ya; pero una cosa sí hago: me olvido ciertamente de lo que ha quedado atrás, y me extiendo hacia lo que está adelante;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "¡prosigo a la meta, al premio del supremo llamamiento de Dios en Cristo Jesús!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Así que, todos los que somos perfectos, sintamos esto mismo; y si ustedes sienten otra cosa, también esto se lo revelará Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Pero en aquello a que hemos llegado, sigamos una misma regla y sintamos una misma cosa."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Hermanos, sean ustedes imitadores de mí, y fíjense en los que así se conducen, según el ejemplo que ustedes tienen de nosotros."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Porque por ahí andan muchos, de los cuales muchas veces les dije, y llorando vuelvo a decirlo, que son enemigos de la cruz de Cristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Ellos solo piensan en lo terrenal. Su dios es el vientre, su orgullo es su vergüenza, y su fin será la perdición."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Pero nuestra ciudadanía está en los cielos, de donde también esperamos al Salvador, al Señor Jesucristo;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "él transformará el cuerpo de nuestra humillación, para que sea semejante al cuerpo de su gloria, por el poder con el que puede también sujetar a sí mismo todas las cosas."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "PHP.4",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "PHP.4"
+        ],
+        "human": "Filipenses 4"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "COL.1"
+        ],
+        "human": "Colosenses 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "PHP.3"
+        ],
+        "human": "Filipenses 3",
+        "toc": true
+      },
+      "chapter_text": "Así que, hermanos míos, amados y deseados, gozo y corona mía, ¡manténganse firmes en el Señor, amados!\nRuego a Evodia y a Síntique, que se pongan de acuerdo en el Señor.\nTambién a ti, mi compañero fiel, te ruego que ayudes a estas que lucharon conmigo en el evangelio, junto con Clemente y mis otros colaboradores, cuyos nombres están en el libro de la vida.\nRegocíjense en el Señor siempre. Y otra vez les digo, ¡regocíjense!\nQue la gentileza de ustedes sea conocida de todos los hombres. El Señor está cerca.\nNo se preocupen por nada. Que sus peticiones sean conocidas delante de Dios en toda oración y ruego, con acción de gracias,\ny que la paz de Dios, que sobrepasa todo entendimiento, guarde sus corazones y sus pensamientos en Cristo Jesús.\n\nPor lo demás, hermanos, piensen en todo lo que es verdadero, en todo lo honesto, en todo lo justo, en todo lo puro, en todo lo amable, en todo lo que es digno de alabanza; si hay en ello alguna virtud, si hay algo que admirar, piensen en ello.\nLo que ustedes aprendieron y recibieron de mí; lo que de mí vieron y oyeron, pónganlo por obra, y el Dios de paz estará con ustedes.\n\nGrande ha sido mi gozo en el Señor de que al fin han reanudado ustedes su cuidado por mí. Claro, la disposición la tenían, pero les faltaba la oportunidad.\nNo lo digo porque tenga escasez, pues he aprendido a estar contento en cualquier situación.\nSé vivir con limitaciones, y también sé tener abundancia; en todo y por todo estoy enseñado, tanto para estar satisfecho como para tener hambre, lo mismo para tener abundancia que para sufrir necesidad;\n¡todo lo puedo en Cristo que me fortalece!\nSin embargo, hicieron bien en participar conmigo en mi tribulación.\nY bien saben ustedes, hermanos filipenses, que al principio de la predicación del evangelio, cuando partí de Macedonia, ninguna iglesia participó conmigo en cuestiones de dar y recibir, sino solo ustedes.\nIncluso a Tesalónica una y otra vez ustedes me enviaron para cubrir mis necesidades.\nNo es que yo busque dádivas. Lo que busco es que abunde fruto en la cuenta de ustedes.\nPero todo lo he recibido, y tengo abundancia. Estoy lleno, y he recibido de Epafrodito lo que ustedes me enviaron: sacrificio aceptable, de olor fragante y agradable a Dios.\nAsí que mi Dios suplirá todo lo que les falte, conforme a sus riquezas en gloria en Cristo Jesús.\nA nuestro Dios y Padre sea la gloria, por los siglos de los siglos. Amén.\n\nSaluden a todos los santos en Cristo Jesús. Los hermanos que están conmigo les mandan saludos.\nTodos los santos los saludan, y especialmente los de la casa de César.\nLa gracia de nuestro Señor Jesucristo sea con todos ustedes. Amén.",
+      "chapter_html": "<div class=\"version vid146 iso6393spa\" data-vid=\"146\" data-iso6393=\"spa\">\n   <div class=\"book bkPHP\">\n      <div class=\"chapter ch4\" data-usfm=\"PHP.4\">\n         <div class=\"label\">4</div><div class=\"s\"><span class=\"heading\">Regoc&#237;jense en el Se&#241;or siempre</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"PHP.4.1\"><span class=\"label\">1</span><span class=\"content\">As&#237; que, hermanos m&#237;os, amados y deseados, gozo y corona m&#237;a, &#161;mant&#233;nganse firmes en el Se&#241;or, amados!</span></span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"PHP.4.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"PHP.4.2\"><span class=\"label\">2</span><span class=\"content\">Ruego a Evodia y a S&#237;ntique, que se pongan de acuerdo en el Se&#241;or.</span></span></div><div class=\"m\"><span class=\"verse v2\" data-usfm=\"PHP.4.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"PHP.4.3\"><span class=\"label\">3</span><span class=\"content\">Tambi&#233;n a ti, mi compa&#241;ero fiel, te ruego que ayudes a estas que lucharon conmigo en el evangelio, junto con Clemente y mis otros colaboradores, cuyos nombres est&#225;n en el libro de la vida.</span></span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"PHP.4.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"PHP.4.4\"><span class=\"label\">4</span><span class=\"content\">Regoc&#237;jense en el Se&#241;or siempre. Y otra vez les digo, &#161;regoc&#237;jense!</span></span></div><div class=\"m\"><span class=\"verse v4\" data-usfm=\"PHP.4.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"PHP.4.5\"><span class=\"label\">5</span><span class=\"content\">Que la gentileza de ustedes sea conocida de todos los hombres. El Se&#241;or est&#225; cerca.</span></span></div><div class=\"m\"><span class=\"verse v5\" data-usfm=\"PHP.4.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"PHP.4.6\"><span class=\"label\">6</span><span class=\"content\">No se preocupen por nada. Que sus peticiones sean conocidas delante de Dios en toda oraci&#243;n y ruego, con acci&#243;n de gracias,</span></span></div><div class=\"m\"><span class=\"verse v6\" data-usfm=\"PHP.4.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"PHP.4.7\"><span class=\"label\">7</span><span class=\"content\">y que la paz de Dios, que sobrepasa todo entendimiento, guarde sus corazones y sus pensamientos en Cristo Jes&#250;s.</span></span></div><div class=\"s\"><span class=\"heading\">Piensen en todo esto</span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"PHP.4.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"PHP.4.8\"><span class=\"label\">8</span><span class=\"content\">Por lo dem&#225;s, hermanos, piensen en todo lo que es verdadero, en todo lo honesto, en todo lo justo, en todo lo puro, en todo lo amable, en todo lo que es digno de alabanza; si hay en ello alguna virtud, si hay algo que admirar, piensen en ello.</span></span></div><div class=\"m\"><span class=\"verse v8\" data-usfm=\"PHP.4.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"PHP.4.9\"><span class=\"label\">9</span><span class=\"content\">Lo que ustedes aprendieron y recibieron de m&#237;; lo que de m&#237; vieron y oyeron, p&#243;nganlo por obra, y el Dios de paz estar&#225; con ustedes.</span></span></div><div class=\"s\"><span class=\"heading\">D&#225;divas de los filipenses</span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"PHP.4.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"PHP.4.10\"><span class=\"label\">10</span><span class=\"content\">Grande ha sido mi gozo en el Se&#241;or de que al fin han reanudado ustedes su cuidado por m&#237;. Claro, la disposici&#243;n la ten&#237;an, pero les faltaba la oportunidad.</span></span></div><div class=\"m\"><span class=\"verse v10\" data-usfm=\"PHP.4.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"PHP.4.11\"><span class=\"label\">11</span><span class=\"content\">No lo digo porque tenga escasez, pues he aprendido a estar contento en cualquier situaci&#243;n.</span></span></div><div class=\"m\"><span class=\"verse v11\" data-usfm=\"PHP.4.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"PHP.4.12\"><span class=\"label\">12</span><span class=\"content\">S&#233; vivir con limitaciones, y tambi&#233;n s&#233; tener abundancia; en todo y por todo estoy ense&#241;ado, tanto para estar satisfecho como para tener hambre, lo mismo para tener abundancia que para sufrir necesidad;</span></span></div><div class=\"m\"><span class=\"verse v12\" data-usfm=\"PHP.4.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"PHP.4.13\"><span class=\"label\">13</span><span class=\"content\">&#161;todo lo puedo en Cristo que me fortalece!</span></span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"PHP.4.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"PHP.4.14\"><span class=\"label\">14</span><span class=\"content\">Sin embargo, hicieron bien en participar conmigo en mi tribulaci&#243;n.</span></span></div><div class=\"m\"><span class=\"verse v14\" data-usfm=\"PHP.4.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"PHP.4.15\"><span class=\"label\">15</span><span class=\"content\">Y bien saben ustedes, hermanos filipenses, que al principio de la predicaci&#243;n del evangelio, cuando part&#237; de Macedonia, ninguna iglesia particip&#243; conmigo en cuestiones de dar y recibir, sino solo ustedes.</span></span></div><div class=\"m\"><span class=\"verse v15\" data-usfm=\"PHP.4.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"PHP.4.16\"><span class=\"label\">16</span><span class=\"content\">Incluso a Tesal&#243;nica una y otra vez ustedes me enviaron para cubrir mis necesidades. </span></span></div><div class=\"m\"><span class=\"verse v16\" data-usfm=\"PHP.4.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"PHP.4.17\"><span class=\"label\">17</span><span class=\"content\">No es que yo busque d&#225;divas. Lo que busco es que abunde fruto en la cuenta de ustedes.</span></span></div><div class=\"m\"><span class=\"verse v17\" data-usfm=\"PHP.4.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"PHP.4.18\"><span class=\"label\">18</span><span class=\"content\">Pero todo lo he recibido, y tengo abundancia. Estoy lleno, y he recibido de Epafrodito lo que ustedes me enviaron: sacrificio aceptable, de olor fragante y agradable a Dios.</span></span></div><div class=\"m\"><span class=\"verse v18\" data-usfm=\"PHP.4.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"PHP.4.19\"><span class=\"label\">19</span><span class=\"content\">As&#237; que mi Dios suplir&#225; todo lo que les falte, conforme a sus riquezas en gloria en Cristo Jes&#250;s.</span></span></div><div class=\"m\"><span class=\"verse v19\" data-usfm=\"PHP.4.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"PHP.4.20\"><span class=\"label\">20</span><span class=\"content\">A nuestro Dios y Padre sea la gloria, por los siglos de los siglos. Am&#233;n.</span></span></div><div class=\"s\"><span class=\"heading\">Salutaciones finales</span></div><div class=\"p\"><span class=\"verse v20\" data-usfm=\"PHP.4.20\"><span class=\"content\">  </span></span><span class=\"verse v21\" data-usfm=\"PHP.4.21\"><span class=\"label\">21</span><span class=\"content\">Saluden a todos los santos en Cristo Jes&#250;s. Los hermanos que est&#225;n conmigo les mandan saludos.</span></span></div><div class=\"m\"><span class=\"verse v21\" data-usfm=\"PHP.4.21\"><span class=\"content\">  </span></span><span class=\"verse v22\" data-usfm=\"PHP.4.22\"><span class=\"label\">22</span><span class=\"content\">Todos los santos los saludan, y especialmente los de la casa de C&#233;sar.</span></span></div><div class=\"p\"><span class=\"verse v22\" data-usfm=\"PHP.4.22\"><span class=\"content\">  </span></span><span class=\"verse v23\" data-usfm=\"PHP.4.23\"><span class=\"label\">23</span><span class=\"content\">La gracia de nuestro Se&#241;or Jesucristo sea con todos ustedes. Am&#233;n.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Así que, hermanos míos, amados y deseados, gozo y corona mía, ¡manténganse firmes en el Señor, amados!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Ruego a Evodia y a Síntique, que se pongan de acuerdo en el Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "También a ti, mi compañero fiel, te ruego que ayudes a estas que lucharon conmigo en el evangelio, junto con Clemente y mis otros colaboradores, cuyos nombres están en el libro de la vida."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Regocíjense en el Señor siempre. Y otra vez les digo, ¡regocíjense!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Que la gentileza de ustedes sea conocida de todos los hombres. El Señor está cerca."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "No se preocupen por nada. Que sus peticiones sean conocidas delante de Dios en toda oración y ruego, con acción de gracias,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "y que la paz de Dios, que sobrepasa todo entendimiento, guarde sus corazones y sus pensamientos en Cristo Jesús."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Por lo demás, hermanos, piensen en todo lo que es verdadero, en todo lo honesto, en todo lo justo, en todo lo puro, en todo lo amable, en todo lo que es digno de alabanza; si hay en ello alguna virtud, si hay algo que admirar, piensen en ello."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Lo que ustedes aprendieron y recibieron de mí; lo que de mí vieron y oyeron, pónganlo por obra, y el Dios de paz estará con ustedes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Grande ha sido mi gozo en el Señor de que al fin han reanudado ustedes su cuidado por mí. Claro, la disposición la tenían, pero les faltaba la oportunidad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "No lo digo porque tenga escasez, pues he aprendido a estar contento en cualquier situación."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Sé vivir con limitaciones, y también sé tener abundancia; en todo y por todo estoy enseñado, tanto para estar satisfecho como para tener hambre, lo mismo para tener abundancia que para sufrir necesidad;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "¡todo lo puedo en Cristo que me fortalece!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Sin embargo, hicieron bien en participar conmigo en mi tribulación."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Y bien saben ustedes, hermanos filipenses, que al principio de la predicación del evangelio, cuando partí de Macedonia, ninguna iglesia participó conmigo en cuestiones de dar y recibir, sino solo ustedes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Incluso a Tesalónica una y otra vez ustedes me enviaron para cubrir mis necesidades."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "No es que yo busque dádivas. Lo que busco es que abunde fruto en la cuenta de ustedes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Pero todo lo he recibido, y tengo abundancia. Estoy lleno, y he recibido de Epafrodito lo que ustedes me enviaron: sacrificio aceptable, de olor fragante y agradable a Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Así que mi Dios suplirá todo lo que les falte, conforme a sus riquezas en gloria en Cristo Jesús."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "A nuestro Dios y Padre sea la gloria, por los siglos de los siglos. Amén."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "Saluden a todos los santos en Cristo Jesús. Los hermanos que están conmigo les mandan saludos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "Todos los santos los saludan, y especialmente los de la casa de César."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "La gracia de nuestro Señor Jesucristo sea con todos ustedes. Amén."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

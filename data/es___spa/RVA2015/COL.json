@@ -1,0 +1,976 @@
+{
+  "book_usfm": "COL",
+  "name": "Colosenses",
+  "local_title": "Reina Valera Actualizada",
+  "local_abbreviation": "RVA2015",
+  "version_id": 1782,
+  "publisher": {
+    "name": "Editorial Mundo Hispano"
+  },
+  "copyright": {
+    "html": "<p>Copyright © 2015 by Editorial Mundo Hispano</p>",
+    "text": "Copyright © 2015 by Editorial Mundo Hispano"
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "COL.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "COL.1"
+        ],
+        "human": "Colosenses 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "COL.2"
+        ],
+        "human": "Colosenses 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "PHP.4"
+        ],
+        "human": "Filipenses 4",
+        "toc": true
+      },
+      "chapter_text": "Pablo, apóstol de Cristo Jesús por la voluntad de Dios, y el hermano Timoteo, a los hermanos santos y fieles en Cristo que están en Colosas: Gracia a ustedes y paz de parte de Dios nuestro Padre.\n\nDamos gracias a Dios, el Padre de nuestro Señor Jesucristo, orando siempre por ustedes; porque hemos oído de su fe en Cristo Jesús y del amor que tienen por todos los santos, a causa de la esperanza reservada para ustedes en los cielos, de la cual han oído en la palabra de verdad del evangelio que les ha llegado. Y así como está llevando fruto y creciendo en todo el mundo, lo mismo sucede también entre ustedes desde el día en que oyeron y comprendieron de veras la gracia de Dios tal como aprendieron de Epafras, nuestro consiervo amado, quien es fiel ministro de Cristo a favor de ustedes. Él también nos ha informado del amor de ustedes en el Espíritu.\nPor esta razón también nosotros, desde el día en que lo oímos, no cesamos de orar por ustedes y de rogar que sean llenos del conocimiento de su voluntad en toda sabiduría y plena comprensión espiritual, para que anden como es digno del Señor a fin de agradarle en todo; de manera que produzcan fruto en toda buena obra y que crezcan en el conocimiento de Dios; y que sean fortalecidos con todo poder, conforme a su gloriosa potencia, para toda perseverancia y paciencia. Con gozo damos gracias al Padre que les hizo aptos para participar de la herencia de los santos en luz. Él nos ha librado de la autoridad de las tinieblas y nos ha trasladado al reino de su Hijo amado, en quien tenemos redención, el perdón de los pecados.\n\nÉl es la imagen del Dios invisible; el primogénito de toda la creación porque en él fueron creadas todas las cosas que están en los cielos y en la tierra, visibles e invisibles, sean tronos, dominios, principados o autoridades. Todo fue creado por medio de él y para él. Él antecede a todas las cosas, y en él todas las cosas subsisten. Y, además, él es la cabeza del cuerpo que es la iglesia. Él es el principio, el primogénito de entre los muertos para que en todo él sea preeminente; por cuanto agradó al Padre que en él habitara toda plenitud y, por medio de él, reconciliar consigo mismo todas las cosas, tanto sobre la tierra como en los cielos, habiendo hecho la paz mediante la sangre de su cruz.\nA ustedes también, aunque en otro tiempo estaban apartados y eran enemigos por tener la mente ocupada en las malas obras, ahora los ha reconciliado en su cuerpo físico por medio de la muerte para presentarlos santos, sin mancha e irreprensibles delante de él; por cuanto permanecen fundados y firmes en la fe, sin ser removidos de la esperanza del evangelio que han oído, el cual ha sido predicado en toda la creación debajo del cielo.\n\nDe este evangelio yo, Pablo, llegué a ser ministro. Ahora me gozo en lo que padezco por ustedes, y completo en mi propia carne lo que falta de las tribulaciones de Cristo a favor de su cuerpo, que es la iglesia. De ella llegué a ser ministro según el oficio divino que Dios me dio a favor de ustedes, para dar pleno cumplimiento a la palabra de Dios: el misterio de Dios que había estado oculto desde los siglos y las generaciones, pero que ahora ha sido revelado a sus santos. A estos, Dios ha querido dar a conocer cuáles son las riquezas de la gloria de este misterio entre las naciones, el cual es: Cristo en ustedes, la esperanza de gloria. A él anunciamos nosotros, amonestando a todo hombre y enseñando a todo hombre con toda sabiduría, a fin de que presentemos a todo hombre perfecto en Cristo Jesús. Por esto mismo yo trabajo, esforzándome según su potencia que obra poderosamente en mí.",
+      "chapter_html": "<div class=\"version vid1782 iso6393spa\" data-vid=\"1782\" data-iso6393=\"spa\">\n   <div class=\"book bkCOL\">\n      <div class=\"chapter ch1\" data-usfm=\"COL.1\">\n         <div class=\"label\">1</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"COL.1.1\"><span class=\"label\">1</span><span class=\"content\">Pablo, ap&#243;stol de Cristo Jes&#250;s por la voluntad de Dios, y el hermano Timoteo, </span></span><span class=\"verse v2\" data-usfm=\"COL.1.2\"><span class=\"label\">2</span><span class=\"content\">a los hermanos santos y fieles en Cristo que est&#225;n en Colosas: Gracia a ustedes y paz de parte de Dios nuestro Padre</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">Algunos mss. antiguos tienen </span><span class=\"it\">y del Se&#241;or Jesucristo.</span></span></span><span class=\"content\">.</span></span></div><div class=\"s1\"><span class=\"heading\">Acci&#243;n de gracias e intercesi&#243;n</span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"COL.1.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"COL.1.3\"><span class=\"label\">3</span><span class=\"content\">Damos gracias a Dios, el Padre de nuestro Se&#241;or Jesucristo, orando siempre por ustedes; </span></span><span class=\"verse v4\" data-usfm=\"COL.1.4\"><span class=\"label\">4</span><span class=\"content\">porque hemos o&#237;do de su fe en Cristo Jes&#250;s y del amor que tienen por todos los santos, </span></span><span class=\"verse v5\" data-usfm=\"COL.1.5\"><span class=\"label\">5</span><span class=\"content\">a causa de la esperanza reservada para ustedes en los cielos, de la cual han o&#237;do en la palabra de verdad del evangelio </span></span><span class=\"verse v6\" data-usfm=\"COL.1.6\"><span class=\"label\">6</span><span class=\"content\">que les ha llegado. Y as&#237; como est&#225; llevando fruto y creciendo en todo el mundo, lo mismo sucede tambi&#233;n entre ustedes desde el d&#237;a en que oyeron y comprendieron de veras la gracia de Dios </span></span><span class=\"verse v7\" data-usfm=\"COL.1.7\"><span class=\"label\">7</span><span class=\"content\">tal como aprendieron de Epafras, nuestro consiervo amado, quien es fiel ministro de Cristo a favor de ustedes. </span></span><span class=\"verse v8\" data-usfm=\"COL.1.8\"><span class=\"label\">8</span><span class=\"content\">&#201;l tambi&#233;n nos ha informado del amor de ustedes en el Esp&#237;ritu.</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"COL.1.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"COL.1.9\"><span class=\"label\">9</span><span class=\"content\">Por esta raz&#243;n tambi&#233;n nosotros, desde el d&#237;a en que lo o&#237;mos, no cesamos de orar por ustedes y de rogar que sean llenos del conocimiento de su voluntad en toda sabidur&#237;a y plena comprensi&#243;n espiritual, </span></span><span class=\"verse v10\" data-usfm=\"COL.1.10\"><span class=\"label\">10</span><span class=\"content\">para que anden como es digno del Se&#241;or a fin de agradarle en todo; de manera que produzcan fruto en toda buena obra y que crezcan en el conocimiento de Dios; </span></span><span class=\"verse v11\" data-usfm=\"COL.1.11\"><span class=\"label\">11</span><span class=\"content\">y que sean fortalecidos con todo poder, conforme a su gloriosa potencia, para toda perseverancia y paciencia. </span></span><span class=\"verse v12\" data-usfm=\"COL.1.12\"><span class=\"label\">12</span><span class=\"content\">Con gozo damos gracias al Padre que les</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">Algunos mss. antiguos tienen </span><span class=\"it\">nos.</span></span></span><span class=\"content\"> hizo aptos para participar de la herencia de los santos en luz. </span></span><span class=\"verse v13\" data-usfm=\"COL.1.13\"><span class=\"label\">13</span><span class=\"content\">&#201;l nos ha librado de la autoridad de las tinieblas y nos ha trasladado al reino de su Hijo amado, </span></span><span class=\"verse v14\" data-usfm=\"COL.1.14\"><span class=\"label\">14</span><span class=\"content\">en quien tenemos redenci&#243;n</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">Algunos mss. tard&#237;os tienen </span><span class=\"it\">por su sangre</span><span class=\"ft\"> ; cf. Efe. 1:7.</span></span></span><span class=\"content\">, el perd&#243;n de los pecados.</span></span></div><div class=\"s1\"><span class=\"heading\">La preeminencia de Cristo</span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"COL.1.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"COL.1.15\"><span class=\"label\">15</span><span class=\"content\">&#201;l es la imagen del Dios invisible; el primog&#233;nito de toda la creaci&#243;n </span></span><span class=\"verse v16\" data-usfm=\"COL.1.16\"><span class=\"label\">16</span><span class=\"content\">porque en &#233;l fueron creadas todas las cosas que est&#225;n en los cielos y en la tierra, visibles e invisibles, sean tronos, dominios, principados o autoridades. Todo fue creado por medio de &#233;l y para &#233;l. </span></span><span class=\"verse v17\" data-usfm=\"COL.1.17\"><span class=\"label\">17</span><span class=\"content\">&#201;l antecede a todas las cosas, y en &#233;l todas las cosas subsisten. </span></span><span class=\"verse v18\" data-usfm=\"COL.1.18\"><span class=\"label\">18</span><span class=\"content\">Y, adem&#225;s, &#233;l es la cabeza del cuerpo que es la iglesia. &#201;l es el principio, el primog&#233;nito de entre los muertos para que en todo &#233;l sea preeminente; </span></span><span class=\"verse v19\" data-usfm=\"COL.1.19\"><span class=\"label\">19</span><span class=\"content\">por cuanto agrad&#243; al Padre que en &#233;l habitara toda plenitud </span></span><span class=\"verse v20\" data-usfm=\"COL.1.20\"><span class=\"label\">20</span><span class=\"content\">y, por medio de &#233;l, reconciliar consigo mismo todas las cosas, tanto sobre la tierra como en los cielos, habiendo hecho la paz mediante la sangre de su cruz.</span></span></div><div class=\"p\"><span class=\"verse v20\" data-usfm=\"COL.1.20\"><span class=\"content\">  </span></span><span class=\"verse v21\" data-usfm=\"COL.1.21\"><span class=\"label\">21</span><span class=\"content\">A ustedes tambi&#233;n, aunque en otro tiempo estaban apartados y eran enemigos por tener la mente ocupada en las malas obras, ahora los ha reconciliado </span></span><span class=\"verse v22\" data-usfm=\"COL.1.22\"><span class=\"label\">22</span><span class=\"content\">en su cuerpo f&#237;sico por medio de la muerte para presentarlos santos, sin mancha e irreprensibles delante de &#233;l; </span></span><span class=\"verse v23\" data-usfm=\"COL.1.23\"><span class=\"label\">23</span><span class=\"content\">por cuanto permanecen fundados y firmes en la fe, sin ser removidos de la esperanza del evangelio que han o&#237;do, el cual ha sido predicado en toda la creaci&#243;n debajo del cielo.</span></span></div><div class=\"s1\"><span class=\"heading\">Pablo, ministro del evangelio</span></div><div class=\"p\"><span class=\"verse v23\" data-usfm=\"COL.1.23\"><span class=\"content\">De este evangelio yo, Pablo, llegu&#233; a ser ministro. </span></span><span class=\"verse v24\" data-usfm=\"COL.1.24\"><span class=\"label\">24</span><span class=\"content\">Ahora me gozo en lo que padezco por ustedes, y completo en mi propia carne lo que falta de las tribulaciones de Cristo a favor de su cuerpo, que es la iglesia. </span></span><span class=\"verse v25\" data-usfm=\"COL.1.25\"><span class=\"label\">25</span><span class=\"content\">De ella llegu&#233; a ser ministro seg&#250;n el oficio divino que Dios me dio a favor de ustedes, para dar pleno cumplimiento a la palabra de Dios: </span></span><span class=\"verse v26\" data-usfm=\"COL.1.26\"><span class=\"label\">26</span><span class=\"content\">el misterio de Dios que hab&#237;a estado oculto desde los siglos y las generaciones, pero que ahora ha sido revelado a sus santos. </span></span><span class=\"verse v27\" data-usfm=\"COL.1.27\"><span class=\"label\">27</span><span class=\"content\">A estos, Dios ha querido dar a conocer cu&#225;les son las riquezas de la gloria de este misterio entre las naciones, el cual es: Cristo en ustedes, la esperanza de gloria. </span></span><span class=\"verse v28\" data-usfm=\"COL.1.28\"><span class=\"label\">28</span><span class=\"content\">A &#233;l anunciamos nosotros, amonestando a todo hombre y ense&#241;ando a todo hombre con toda sabidur&#237;a, a fin de que presentemos a todo hombre perfecto en Cristo Jes&#250;s. </span></span><span class=\"verse v29\" data-usfm=\"COL.1.29\"><span class=\"label\">29</span><span class=\"content\">Por esto mismo yo trabajo, esforz&#225;ndome seg&#250;n su potencia que obra poderosamente en m&#237;.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Pablo, apóstol de Cristo Jesús por la voluntad de Dios, y el hermano Timoteo,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "a los hermanos santos y fieles en Cristo que están en Colosas: Gracia a ustedes y paz de parte de Dios nuestro Padre."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Acción de gracias e intercesión"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Damos gracias a Dios, el Padre de nuestro Señor Jesucristo, orando siempre por ustedes;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "porque hemos oído de su fe en Cristo Jesús y del amor que tienen por todos los santos,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "a causa de la esperanza reservada para ustedes en los cielos, de la cual han oído en la palabra de verdad del evangelio"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "que les ha llegado. Y así como está llevando fruto y creciendo en todo el mundo, lo mismo sucede también entre ustedes desde el día en que oyeron y comprendieron de veras la gracia de Dios"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "tal como aprendieron de Epafras, nuestro consiervo amado, quien es fiel ministro de Cristo a favor de ustedes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Él también nos ha informado del amor de ustedes en el Espíritu."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Por esta razón también nosotros, desde el día en que lo oímos, no cesamos de orar por ustedes y de rogar que sean llenos del conocimiento de su voluntad en toda sabiduría y plena comprensión espiritual,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "para que anden como es digno del Señor a fin de agradarle en todo; de manera que produzcan fruto en toda buena obra y que crezcan en el conocimiento de Dios;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "y que sean fortalecidos con todo poder, conforme a su gloriosa potencia, para toda perseverancia y paciencia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Con gozo damos gracias al Padre que les hizo aptos para participar de la herencia de los santos en luz."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Él nos ha librado de la autoridad de las tinieblas y nos ha trasladado al reino de su Hijo amado,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "en quien tenemos redención, el perdón de los pecados."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "La preeminencia de Cristo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Él es la imagen del Dios invisible; el primogénito de toda la creación"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "porque en él fueron creadas todas las cosas que están en los cielos y en la tierra, visibles e invisibles, sean tronos, dominios, principados o autoridades. Todo fue creado por medio de él y para él."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Él antecede a todas las cosas, y en él todas las cosas subsisten."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Y, además, él es la cabeza del cuerpo que es la iglesia. Él es el principio, el primogénito de entre los muertos para que en todo él sea preeminente;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "por cuanto agradó al Padre que en él habitara toda plenitud"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "y, por medio de él, reconciliar consigo mismo todas las cosas, tanto sobre la tierra como en los cielos, habiendo hecho la paz mediante la sangre de su cruz."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "A ustedes también, aunque en otro tiempo estaban apartados y eran enemigos por tener la mente ocupada en las malas obras, ahora los ha reconciliado"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "en su cuerpo físico por medio de la muerte para presentarlos santos, sin mancha e irreprensibles delante de él;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "por cuanto permanecen fundados y firmes en la fe, sin ser removidos de la esperanza del evangelio que han oído, el cual ha sido predicado en toda la creación debajo del cielo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Pablo, ministro del evangelio"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "De este evangelio yo, Pablo, llegué a ser ministro."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "Ahora me gozo en lo que padezco por ustedes, y completo en mi propia carne lo que falta de las tribulaciones de Cristo a favor de su cuerpo, que es la iglesia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "De ella llegué a ser ministro según el oficio divino que Dios me dio a favor de ustedes, para dar pleno cumplimiento a la palabra de Dios:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 26,
+          "lines": [
+            "el misterio de Dios que había estado oculto desde los siglos y las generaciones, pero que ahora ha sido revelado a sus santos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 27,
+          "lines": [
+            "A estos, Dios ha querido dar a conocer cuáles son las riquezas de la gloria de este misterio entre las naciones, el cual es: Cristo en ustedes, la esperanza de gloria."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 28,
+          "lines": [
+            "A él anunciamos nosotros, amonestando a todo hombre y enseñando a todo hombre con toda sabiduría, a fin de que presentemos a todo hombre perfecto en Cristo Jesús."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 29,
+          "lines": [
+            "Por esto mismo yo trabajo, esforzándome según su potencia que obra poderosamente en mí."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "COL.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "COL.2"
+        ],
+        "human": "Colosenses 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "COL.3"
+        ],
+        "human": "Colosenses 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "COL.1"
+        ],
+        "human": "Colosenses 1",
+        "toc": true
+      },
+      "chapter_text": "Quiero, pues, que sepan cuán grande conflicto tengo por ustedes, por los de Laodicea y por todos los que nunca me han visto personalmente para que unidos en amor, sus corazones sean reanimados hasta lograr toda la riqueza de la plena certidumbre de entendimiento, para conocer el misterio de Dios; es decir, Cristo mismo. En él están escondidos todos los tesoros de la sabiduría y del conocimiento. Digo esto para que nadie los engañe con falsos argumentos persuasivos. Pues, aunque estoy ausente en el cuerpo, no obstante, en espíritu estoy con ustedes, gozándome y mirando su buen orden y la firmeza de su fe en Cristo.\n\nPor tanto, de la manera que han recibido a Cristo Jesús el Señor, así anden en él, firmemente arraigados y sobreedificados en él, y confirmados por la fe así como han sido enseñados, abundando en acciones de gracias.\nMiren que nadie los lleve cautivos por medio de filosofías y vanas sutilezas, conforme a la tradición de hombres, conforme a los principios elementales del mundo y no conforme a Cristo. Porque en él habita corporalmente toda la plenitud de la Deidad; y ustedes están completos en él, quien es la cabeza de todo principado y autoridad.\nEn él también ustedes fueron circuncidados con una circuncisión no hecha con manos, al despojarlos del cuerpo pecaminoso carnal mediante la circuncisión que viene de Cristo. Fueron sepultados juntamente con él en el bautismo, en el cual también fueron resucitados juntamente con él por medio de la fe en el poder de Dios que lo levantó de entre los muertos. Mientras ustedes estaban muertos en los delitos y en la incircuncisión de su carne, Dios les dio vida juntamente con él, perdonándonos todos los delitos. Él anuló el acta que había contra nosotros, que por sus decretos nos era contraria, y la ha quitado de en medio al clavarla en su cruz. También despojó a los principados y las autoridades, y los exhibió como espectáculo público habiendo triunfado sobre ellos en la cruz.\nPor tanto, nadie los juzgue en asuntos de comida o de bebida, o respecto a días de fiesta, lunas nuevas o sábados. Todo ello es solo una sombra de lo porvenir, pero la realidad pertenece a Cristo. Nadie los prive de su premio fingiendo humildad y culto a los ángeles, haciendo alarde de lo que ha visto, vanamente hinchado por su mente carnal, y no aferrándose a la cabeza de la cual todo el cuerpo, nutrido y unido por coyunturas y ligamentos, crece con el crecimiento que da Dios.\n\nSiendo que la muerte de ustedes con Cristo los separó de los principios elementales del mundo, ¿por qué, como si aún vivieran en el mundo, se someten a ordenanzas como: “No uses ni gustes ni toques”? Tales cosas son destinadas a perecer con el uso pues son según los mandamientos y las doctrinas de hombres. De hecho, semejantes prácticas tienen reputación de ser sabias en una cierta religiosidad, en la humillación y en el duro trato del cuerpo, pero no tienen ningún valor contra la sensualidad.",
+      "chapter_html": "<div class=\"version vid1782 iso6393spa\" data-vid=\"1782\" data-iso6393=\"spa\">\n   <div class=\"book bkCOL\">\n      <div class=\"chapter ch2\" data-usfm=\"COL.2\">\n         <div class=\"label\">2</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"COL.2.1\"><span class=\"label\">1</span><span class=\"content\">Quiero, pues, que sepan cu&#225;n grande conflicto tengo por ustedes, por los de Laodicea y por todos los que nunca me han visto personalmente </span></span><span class=\"verse v2\" data-usfm=\"COL.2.2\"><span class=\"label\">2</span><span class=\"content\">para que unidos en amor, sus corazones sean reanimados hasta lograr toda la riqueza de la plena certidumbre de entendimiento, para conocer el misterio de Dios</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">Algunos mss. tienen </span><span class=\"it\">Dios y Padre y de Cristo.</span></span></span><span class=\"content\">; es decir, Cristo mismo. </span></span><span class=\"verse v3\" data-usfm=\"COL.2.3\"><span class=\"label\">3</span><span class=\"content\">En &#233;l est&#225;n escondidos todos los tesoros de la sabidur&#237;a y del conocimiento. </span></span><span class=\"verse v4\" data-usfm=\"COL.2.4\"><span class=\"label\">4</span><span class=\"content\">Digo esto para que nadie los enga&#241;e con falsos argumentos persuasivos. </span></span><span class=\"verse v5\" data-usfm=\"COL.2.5\"><span class=\"label\">5</span><span class=\"content\">Pues, aunque estoy ausente en el cuerpo, no obstante, en esp&#237;ritu estoy con ustedes, goz&#225;ndome y mirando su buen orden y la firmeza de su fe en Cristo.</span></span></div><div class=\"s1\"><span class=\"heading\">La vida plena en Cristo</span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"COL.2.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"COL.2.6\"><span class=\"label\">6</span><span class=\"content\">Por tanto, de la manera que han recibido a Cristo Jes&#250;s el Se&#241;or, as&#237; anden en &#233;l, </span></span><span class=\"verse v7\" data-usfm=\"COL.2.7\"><span class=\"label\">7</span><span class=\"content\">firmemente arraigados y sobreedificados en &#233;l, y confirmados por la fe as&#237; como han sido ense&#241;ados, abundando en acciones de gracias.</span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"COL.2.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"COL.2.8\"><span class=\"label\">8</span><span class=\"content\">Miren que nadie los lleve cautivos por medio de filosof&#237;as y vanas sutilezas, conforme a la tradici&#243;n de hombres, conforme a los principios elementales del mundo y no conforme a Cristo. </span></span><span class=\"verse v9\" data-usfm=\"COL.2.9\"><span class=\"label\">9</span><span class=\"content\">Porque en &#233;l habita corporalmente toda la plenitud de la Deidad; </span></span><span class=\"verse v10\" data-usfm=\"COL.2.10\"><span class=\"label\">10</span><span class=\"content\">y ustedes est&#225;n completos en &#233;l, quien es la cabeza de todo principado y autoridad.</span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"COL.2.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"COL.2.11\"><span class=\"label\">11</span><span class=\"content\">En &#233;l tambi&#233;n ustedes fueron circuncidados con una circuncisi&#243;n no hecha con manos, al despojarlos del cuerpo pecaminoso carnal mediante la circuncisi&#243;n que viene de Cristo. </span></span><span class=\"verse v12\" data-usfm=\"COL.2.12\"><span class=\"label\">12</span><span class=\"content\">Fueron sepultados juntamente con &#233;l en el bautismo, en el cual tambi&#233;n fueron resucitados juntamente con &#233;l por medio de la fe en el poder de Dios que lo levant&#243; de entre los muertos. </span></span><span class=\"verse v13\" data-usfm=\"COL.2.13\"><span class=\"label\">13</span><span class=\"content\">Mientras ustedes estaban muertos en los delitos y en la incircuncisi&#243;n de su carne, Dios les dio vida juntamente con &#233;l, perdon&#225;ndonos todos los delitos. </span></span><span class=\"verse v14\" data-usfm=\"COL.2.14\"><span class=\"label\">14</span><span class=\"content\">&#201;l anul&#243; el acta que hab&#237;a contra nosotros, que por sus decretos nos era contraria, y la ha quitado de en medio al clavarla en su cruz. </span></span><span class=\"verse v15\" data-usfm=\"COL.2.15\"><span class=\"label\">15</span><span class=\"content\">Tambi&#233;n despoj&#243; a los principados y las autoridades, y los exhibi&#243; como espect&#225;culo p&#250;blico habiendo triunfado sobre ellos en la cruz.</span></span></div><div class=\"p\"><span class=\"verse v15\" data-usfm=\"COL.2.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"COL.2.16\"><span class=\"label\">16</span><span class=\"content\">Por tanto, nadie los juzgue en asuntos de comida o de bebida, o respecto a d&#237;as de fiesta, lunas nuevas o s&#225;bados. </span></span><span class=\"verse v17\" data-usfm=\"COL.2.17\"><span class=\"label\">17</span><span class=\"content\">Todo ello es solo una sombra de lo porvenir, pero la realidad pertenece a Cristo. </span></span><span class=\"verse v18\" data-usfm=\"COL.2.18\"><span class=\"label\">18</span><span class=\"content\">Nadie los prive de su premio fingiendo humildad y culto a los &#225;ngeles, haciendo alarde de lo que ha visto</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">Algunos mss. antiguos tienen </span><span class=\"it\">de lo que no han visto.</span></span></span><span class=\"content\">, vanamente hinchado por su mente carnal, </span></span><span class=\"verse v19\" data-usfm=\"COL.2.19\"><span class=\"label\">19</span><span class=\"content\">y no aferr&#225;ndose a la cabeza de la cual todo el cuerpo, nutrido y unido por coyunturas y ligamentos, crece con el crecimiento que da Dios.</span></span></div><div class=\"s1\"><span class=\"heading\">La vida nueva en Cristo</span></div><div class=\"p\"><span class=\"verse v19\" data-usfm=\"COL.2.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"COL.2.20\"><span class=\"label\">20</span><span class=\"content\">Siendo que la muerte de ustedes con Cristo los separ&#243; de los principios elementales del mundo, &#191;por qu&#233;, como si a&#250;n vivieran en el mundo, se someten a ordenanzas como: </span></span><span class=\"verse v21\" data-usfm=\"COL.2.21\"><span class=\"label\">21</span><span class=\"content\">&#8220;No uses ni gustes ni toques&#8221;? </span></span><span class=\"verse v22\" data-usfm=\"COL.2.22\"><span class=\"label\">22</span><span class=\"content\">Tales cosas son destinadas a perecer con el uso pues son seg&#250;n los mandamientos y las doctrinas de hombres. </span></span><span class=\"verse v23\" data-usfm=\"COL.2.23\"><span class=\"label\">23</span><span class=\"content\">De hecho, semejantes pr&#225;cticas tienen reputaci&#243;n de ser sabias en una cierta religiosidad, en la humillaci&#243;n y en el duro trato del cuerpo, pero no tienen ning&#250;n valor contra la sensualidad.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Quiero, pues, que sepan cuán grande conflicto tengo por ustedes, por los de Laodicea y por todos los que nunca me han visto personalmente"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "para que unidos en amor, sus corazones sean reanimados hasta lograr toda la riqueza de la plena certidumbre de entendimiento, para conocer el misterio de Dios; es decir, Cristo mismo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "En él están escondidos todos los tesoros de la sabiduría y del conocimiento."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Digo esto para que nadie los engañe con falsos argumentos persuasivos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Pues, aunque estoy ausente en el cuerpo, no obstante, en espíritu estoy con ustedes, gozándome y mirando su buen orden y la firmeza de su fe en Cristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "La vida plena en Cristo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Por tanto, de la manera que han recibido a Cristo Jesús el Señor, así anden en él,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "firmemente arraigados y sobreedificados en él, y confirmados por la fe así como han sido enseñados, abundando en acciones de gracias."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Miren que nadie los lleve cautivos por medio de filosofías y vanas sutilezas, conforme a la tradición de hombres, conforme a los principios elementales del mundo y no conforme a Cristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Porque en él habita corporalmente toda la plenitud de la Deidad;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "y ustedes están completos en él, quien es la cabeza de todo principado y autoridad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "En él también ustedes fueron circuncidados con una circuncisión no hecha con manos, al despojarlos del cuerpo pecaminoso carnal mediante la circuncisión que viene de Cristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Fueron sepultados juntamente con él en el bautismo, en el cual también fueron resucitados juntamente con él por medio de la fe en el poder de Dios que lo levantó de entre los muertos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Mientras ustedes estaban muertos en los delitos y en la incircuncisión de su carne, Dios les dio vida juntamente con él, perdonándonos todos los delitos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Él anuló el acta que había contra nosotros, que por sus decretos nos era contraria, y la ha quitado de en medio al clavarla en su cruz."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "También despojó a los principados y las autoridades, y los exhibió como espectáculo público habiendo triunfado sobre ellos en la cruz."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Por tanto, nadie los juzgue en asuntos de comida o de bebida, o respecto a días de fiesta, lunas nuevas o sábados."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Todo ello es solo una sombra de lo porvenir, pero la realidad pertenece a Cristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Nadie los prive de su premio fingiendo humildad y culto a los ángeles, haciendo alarde de lo que ha visto, vanamente hinchado por su mente carnal,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "y no aferrándose a la cabeza de la cual todo el cuerpo, nutrido y unido por coyunturas y ligamentos, crece con el crecimiento que da Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "La vida nueva en Cristo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Siendo que la muerte de ustedes con Cristo los separó de los principios elementales del mundo, ¿por qué, como si aún vivieran en el mundo, se someten a ordenanzas como:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "“No uses ni gustes ni toques”?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "Tales cosas son destinadas a perecer con el uso pues son según los mandamientos y las doctrinas de hombres."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "De hecho, semejantes prácticas tienen reputación de ser sabias en una cierta religiosidad, en la humillación y en el duro trato del cuerpo, pero no tienen ningún valor contra la sensualidad."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "COL.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "COL.3"
+        ],
+        "human": "Colosenses 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "COL.4"
+        ],
+        "human": "Colosenses 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "COL.2"
+        ],
+        "human": "Colosenses 2",
+        "toc": true
+      },
+      "chapter_text": "Siendo, pues, que ustedes han resucitado con Cristo, busquen las cosas de arriba donde Cristo está sentado a la diestra de Dios. Ocupen la mente en las cosas de arriba, no en las de la tierra; porque han muerto, y su vida está escondida con Cristo en Dios. Y cuando se manifieste Cristo, la vida de ustedes, entonces también ustedes serán manifestados con él en gloria.\nPor lo tanto, hagan morir lo terrenal en sus miembros: inmoralidad sexual, impureza, bajas pasiones, malos deseos y la avaricia, que es idolatría. A causa de estas cosas viene la ira de Dios sobre los rebeldes. En ellas anduvieron también ustedes en otro tiempo cuando vivían entre ellos. Pero ahora, dejen también todas estas cosas: ira, enojo, malicia, blasfemia y palabras groseras de su boca. No se mientan los unos a los otros; porque se han despojado del viejo hombre con sus prácticas y se han vestido del nuevo, el cual se renueva para un pleno conocimiento conforme a la imagen de aquel que lo creó. Aquí no hay griego ni judío, circuncisión ni incircuncisión, bárbaro ni escita, esclavo ni libre; sino que Cristo es todo y en todos.\nPor tanto —como escogidos de Dios, santos y amados— vístanse de profunda compasión, de benignidad, de humildad, de mansedumbre y de paciencia; soportándose los unos a los otros y perdonándose los unos a los otros, cuando alguien tenga queja del otro. De la manera que el Señor los perdonó, así también háganlo ustedes. Pero sobre todas estas cosas, vístanse de amor, que es el vínculo perfecto. Y la paz de Cristo gobierne en su corazón, pues a ella fueron llamados en un solo cuerpo, y sean agradecidos.\nLa palabra de Cristo habite abundantemente en ustedes, enseñándose y amonestándose los unos a los otros en toda sabiduría con salmos, himnos y canciones espirituales, cantando con gracia a Dios en su corazón. Y todo lo que hagan, sea de palabra o de hecho, háganlo todo en el nombre del Señor Jesús, dando gracias a Dios Padre por medio de él.\nEsposas, estén sujetas a su esposo como conviene en el Señor.\nEsposos, amen a su esposa y no se amarguen contra ella.\nHijos, obedezcan a sus padres en todo porque esto es agradable en el Señor.\nPadres, no irriten a sus hijos para que no se desanimen.\nSiervos, obedezcan en todo a sus amos humanos; no sirviendo solo cuando se les está mirando, como los que agradan a los hombres, sino con sencillez de corazón, temiendo a Dios. Y todo lo que hagan, háganlo de buen ánimo como para el Señor y no para los hombres, sabiendo que del Señor recibirán la recompensa de la herencia. ¡A Cristo el Señor sirven! Pero el que comete injusticia recibirá la injusticia que haga porque no hay distinción de personas.",
+      "chapter_html": "<div class=\"version vid1782 iso6393spa\" data-vid=\"1782\" data-iso6393=\"spa\">\n   <div class=\"book bkCOL\">\n      <div class=\"chapter ch3\" data-usfm=\"COL.3\">\n         <div class=\"label\">3</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"COL.3.1\"><span class=\"label\">1</span><span class=\"content\">Siendo, pues, que ustedes han resucitado con Cristo, busquen las cosas de arriba donde Cristo est&#225; sentado a la diestra de Dios. </span></span><span class=\"verse v2\" data-usfm=\"COL.3.2\"><span class=\"label\">2</span><span class=\"content\">Ocupen la mente en las cosas de arriba, no en las de la tierra; </span></span><span class=\"verse v3\" data-usfm=\"COL.3.3\"><span class=\"label\">3</span><span class=\"content\">porque han muerto, y su vida est&#225; escondida con Cristo en Dios. </span></span><span class=\"verse v4\" data-usfm=\"COL.3.4\"><span class=\"label\">4</span><span class=\"content\">Y cuando se manifieste Cristo, la vida de ustedes, entonces tambi&#233;n ustedes ser&#225;n manifestados con &#233;l en gloria.</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"COL.3.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"COL.3.5\"><span class=\"label\">5</span><span class=\"content\">Por lo tanto, hagan morir lo terrenal en sus miembros: inmoralidad sexual, impureza, bajas pasiones, malos deseos y la avaricia, que es idolatr&#237;a. </span></span><span class=\"verse v6\" data-usfm=\"COL.3.6\"><span class=\"label\">6</span><span class=\"content\">A causa de estas cosas viene la ira de Dios sobre los rebeldes. </span></span><span class=\"verse v7\" data-usfm=\"COL.3.7\"><span class=\"label\">7</span><span class=\"content\">En ellas anduvieron tambi&#233;n ustedes en otro tiempo cuando viv&#237;an entre ellos. </span></span><span class=\"verse v8\" data-usfm=\"COL.3.8\"><span class=\"label\">8</span><span class=\"content\">Pero ahora, dejen tambi&#233;n todas estas cosas: ira, enojo, malicia, blasfemia y palabras groseras de su boca. </span></span><span class=\"verse v9\" data-usfm=\"COL.3.9\"><span class=\"label\">9</span><span class=\"content\">No se mientan los unos a los otros; porque se han despojado del viejo hombre con sus pr&#225;cticas </span></span><span class=\"verse v10\" data-usfm=\"COL.3.10\"><span class=\"label\">10</span><span class=\"content\">y se han vestido del nuevo, el cual se renueva para un pleno conocimiento conforme a la imagen de aquel que lo cre&#243;. </span></span><span class=\"verse v11\" data-usfm=\"COL.3.11\"><span class=\"label\">11</span><span class=\"content\">Aqu&#237; no hay griego ni jud&#237;o, circuncisi&#243;n ni incircuncisi&#243;n, b&#225;rbaro ni escita, esclavo ni libre; sino que Cristo es todo y en todos.</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"COL.3.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"COL.3.12\"><span class=\"label\">12</span><span class=\"content\">Por tanto &#8212;como escogidos de Dios, santos y amados&#8212; v&#237;stanse de profunda compasi&#243;n, de benignidad, de humildad, de mansedumbre y de paciencia; </span></span><span class=\"verse v13\" data-usfm=\"COL.3.13\"><span class=\"label\">13</span><span class=\"content\">soport&#225;ndose los unos a los otros y perdon&#225;ndose los unos a los otros, cuando alguien tenga queja del otro. De la manera que el Se&#241;or los perdon&#243;, as&#237; tambi&#233;n h&#225;ganlo ustedes. </span></span><span class=\"verse v14\" data-usfm=\"COL.3.14\"><span class=\"label\">14</span><span class=\"content\">Pero sobre todas estas cosas, v&#237;stanse de amor, que es el v&#237;nculo perfecto. </span></span><span class=\"verse v15\" data-usfm=\"COL.3.15\"><span class=\"label\">15</span><span class=\"content\">Y la paz de Cristo gobierne en su coraz&#243;n, pues a ella fueron llamados en un solo cuerpo, y sean agradecidos.</span></span></div><div class=\"p\"><span class=\"verse v15\" data-usfm=\"COL.3.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"COL.3.16\"><span class=\"label\">16</span><span class=\"content\">La palabra de Cristo habite abundantemente en ustedes, ense&#241;&#225;ndose y amonest&#225;ndose los unos a los otros en toda sabidur&#237;a con salmos, himnos y canciones espirituales, cantando con gracia a Dios en su coraz&#243;n. </span></span><span class=\"verse v17\" data-usfm=\"COL.3.17\"><span class=\"label\">17</span><span class=\"content\">Y todo lo que hagan, sea de palabra o de hecho, h&#225;ganlo todo en el nombre del Se&#241;or Jes&#250;s, dando gracias a Dios Padre por medio de &#233;l.</span></span></div><div class=\"p\"><span class=\"verse v17\" data-usfm=\"COL.3.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"COL.3.18\"><span class=\"label\">18</span><span class=\"content\">Esposas, est&#233;n sujetas a su esposo como conviene en el Se&#241;or.</span></span></div><div class=\"p\"><span class=\"verse v18\" data-usfm=\"COL.3.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"COL.3.19\"><span class=\"label\">19</span><span class=\"content\">Esposos, amen a su esposa y no se amarguen contra ella.</span></span></div><div class=\"p\"><span class=\"verse v19\" data-usfm=\"COL.3.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"COL.3.20\"><span class=\"label\">20</span><span class=\"content\">Hijos, obedezcan a sus padres en todo porque esto es agradable en el Se&#241;or.</span></span></div><div class=\"p\"><span class=\"verse v20\" data-usfm=\"COL.3.20\"><span class=\"content\">  </span></span><span class=\"verse v21\" data-usfm=\"COL.3.21\"><span class=\"label\">21</span><span class=\"content\">Padres, no irriten a sus hijos para que no se desanimen.</span></span></div><div class=\"p\"><span class=\"verse v21\" data-usfm=\"COL.3.21\"><span class=\"content\">  </span></span><span class=\"verse v22\" data-usfm=\"COL.3.22\"><span class=\"label\">22</span><span class=\"content\">Siervos, obedezcan en todo a sus amos humanos; no sirviendo solo cuando se les est&#225; mirando, como los que agradan a los hombres, sino con sencillez de coraz&#243;n, temiendo a Dios. </span></span><span class=\"verse v23\" data-usfm=\"COL.3.23\"><span class=\"label\">23</span><span class=\"content\">Y todo lo que hagan, h&#225;ganlo de buen &#225;nimo como para el Se&#241;or y no para los hombres, </span></span><span class=\"verse v24\" data-usfm=\"COL.3.24\"><span class=\"label\">24</span><span class=\"content\">sabiendo que del Se&#241;or recibir&#225;n la recompensa de la herencia. &#161;A Cristo el Se&#241;or sirven! </span></span><span class=\"verse v25\" data-usfm=\"COL.3.25\"><span class=\"label\">25</span><span class=\"content\">Pero el que comete injusticia recibir&#225; la injusticia que haga porque no hay distinci&#243;n de personas.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Siendo, pues, que ustedes han resucitado con Cristo, busquen las cosas de arriba donde Cristo está sentado a la diestra de Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Ocupen la mente en las cosas de arriba, no en las de la tierra;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "porque han muerto, y su vida está escondida con Cristo en Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Y cuando se manifieste Cristo, la vida de ustedes, entonces también ustedes serán manifestados con él en gloria."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Por lo tanto, hagan morir lo terrenal en sus miembros: inmoralidad sexual, impureza, bajas pasiones, malos deseos y la avaricia, que es idolatría."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "A causa de estas cosas viene la ira de Dios sobre los rebeldes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "En ellas anduvieron también ustedes en otro tiempo cuando vivían entre ellos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Pero ahora, dejen también todas estas cosas: ira, enojo, malicia, blasfemia y palabras groseras de su boca."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "No se mientan los unos a los otros; porque se han despojado del viejo hombre con sus prácticas"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "y se han vestido del nuevo, el cual se renueva para un pleno conocimiento conforme a la imagen de aquel que lo creó."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Aquí no hay griego ni judío, circuncisión ni incircuncisión, bárbaro ni escita, esclavo ni libre; sino que Cristo es todo y en todos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Por tanto —como escogidos de Dios, santos y amados— vístanse de profunda compasión, de benignidad, de humildad, de mansedumbre y de paciencia;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "soportándose los unos a los otros y perdonándose los unos a los otros, cuando alguien tenga queja del otro. De la manera que el Señor los perdonó, así también háganlo ustedes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Pero sobre todas estas cosas, vístanse de amor, que es el vínculo perfecto."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Y la paz de Cristo gobierne en su corazón, pues a ella fueron llamados en un solo cuerpo, y sean agradecidos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "La palabra de Cristo habite abundantemente en ustedes, enseñándose y amonestándose los unos a los otros en toda sabiduría con salmos, himnos y canciones espirituales, cantando con gracia a Dios en su corazón."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Y todo lo que hagan, sea de palabra o de hecho, háganlo todo en el nombre del Señor Jesús, dando gracias a Dios Padre por medio de él."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Esposas, estén sujetas a su esposo como conviene en el Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Esposos, amen a su esposa y no se amarguen contra ella."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Hijos, obedezcan a sus padres en todo porque esto es agradable en el Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "Padres, no irriten a sus hijos para que no se desanimen."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "Siervos, obedezcan en todo a sus amos humanos; no sirviendo solo cuando se les está mirando, como los que agradan a los hombres, sino con sencillez de corazón, temiendo a Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "Y todo lo que hagan, háganlo de buen ánimo como para el Señor y no para los hombres,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "sabiendo que del Señor recibirán la recompensa de la herencia. ¡A Cristo el Señor sirven!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "Pero el que comete injusticia recibirá la injusticia que haga porque no hay distinción de personas."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "COL.4",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "COL.4"
+        ],
+        "human": "Colosenses 4"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "1TH.1"
+        ],
+        "human": "1 Tesalonicenses 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "COL.3"
+        ],
+        "human": "Colosenses 3",
+        "toc": true
+      },
+      "chapter_text": "Amos, hagan lo que es justo y equitativo con sus siervos, sabiendo que también tienen un amo en los cielos.\n\nPerseveren siempre en la oración, vigilando en ella con acción de gracias. A la vez, oren también por nosotros a fin de que el Señor nos abra una puerta para la palabra para comunicar el misterio de Cristo, por lo cual estoy aún preso. Oren para que yo lo presente con claridad, como me es preciso hablar.\nAnden sabiamente para con los de afuera, redimiendo el tiempo. Que la palabra de ustedes sea siempre agradable, sazonada con sal, para que sepan cómo les conviene responder a cada uno.\n\nTodos mis asuntos se los hará saber Tíquico, hermano amado, fiel ministro y consiervo en el Señor. Lo envío a ustedes con este fin: para que conozcan nuestros asuntos y para que él anime sus corazones. Lo envío con Onésimo, el fiel y amado hermano, quien es uno de ustedes. Ellos les informarán de todo lo que pasa aquí.\n\nLos saludan Aristarco, prisionero conmigo; Marcos, el primo de Bernabé (ya han recibido instrucciones acerca de él; si va a ustedes, recíbanle) y Jesús, llamado Justo. Ellos son los únicos de la circuncisión que son colaboradores conmigo en el reino de Dios y que me han servido de consuelo. Los saluda Epafras, quien es uno de ustedes, siervo de Cristo, siempre solícito por ustedes en oración, para que estén firmes como hombres maduros y completamente entregados a toda la voluntad de Dios. Porque doy testimonio de él, de que tiene gran celo por ustedes, por los de Laodicea y por los de Hierápolis. Los saludan Lucas, el médico amado, y Demas.\nSaluden a los hermanos que están en Laodicea: a Ninfa y a la iglesia que está en su casa. Cuando esta carta haya sido leída entre ustedes, hagan que se lea también en la iglesia de los laodicenses; y la de Laodicea léanla también ustedes.\nDigan a Arquipo: “Cuida el ministerio que has recibido del Señor, para que lo cumplas”.\nAhora, la salutación de mi propia mano, de Pablo. Acuérdense de mis prisiones. La gracia sea con ustedes.",
+      "chapter_html": "<div class=\"version vid1782 iso6393spa\" data-vid=\"1782\" data-iso6393=\"spa\">\n   <div class=\"book bkCOL\">\n      <div class=\"chapter ch4\" data-usfm=\"COL.4\">\n         <div class=\"label\">4</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"COL.4.1\"><span class=\"label\">1</span><span class=\"content\">Amos, hagan lo que es justo y equitativo con sus siervos, sabiendo que tambi&#233;n tienen un amo</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">O: </span><span class=\"it\">un Se&#241;or.</span></span></span><span class=\"content\"> en los cielos.</span></span></div><div class=\"s1\"><span class=\"heading\">La oraci&#243;n y el testimonio personal</span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"COL.4.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"COL.4.2\"><span class=\"label\">2</span><span class=\"content\">Perseveren siempre en la oraci&#243;n, vigilando en ella con acci&#243;n de gracias. </span></span><span class=\"verse v3\" data-usfm=\"COL.4.3\"><span class=\"label\">3</span><span class=\"content\">A la vez, oren tambi&#233;n por nosotros a fin de que el Se&#241;or nos abra una puerta para la palabra para comunicar el misterio de Cristo, por lo cual estoy a&#250;n preso. </span></span><span class=\"verse v4\" data-usfm=\"COL.4.4\"><span class=\"label\">4</span><span class=\"content\">Oren para que yo lo presente con claridad, como me es preciso hablar.</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"COL.4.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"COL.4.5\"><span class=\"label\">5</span><span class=\"content\">Anden sabiamente para con los de afuera, redimiendo el tiempo. </span></span><span class=\"verse v6\" data-usfm=\"COL.4.6\"><span class=\"label\">6</span><span class=\"content\">Que la palabra de ustedes sea siempre agradable, sazonada con sal, para que sepan c&#243;mo les conviene responder a cada uno.</span></span></div><div class=\"s1\"><span class=\"heading\">La misi&#243;n de T&#237;quico y On&#233;simo</span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"COL.4.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"COL.4.7\"><span class=\"label\">7</span><span class=\"content\">Todos mis asuntos se los har&#225; saber T&#237;quico, hermano amado, fiel ministro y consiervo en el Se&#241;or. </span></span><span class=\"verse v8\" data-usfm=\"COL.4.8\"><span class=\"label\">8</span><span class=\"content\">Lo env&#237;o a ustedes con este fin: para que conozcan nuestros asuntos</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">Algunos mss. antiguos tienen </span><span class=\"it\">que conozca yo los asuntos de ustedes.</span></span></span><span class=\"content\"> y para que &#233;l anime sus corazones. </span></span><span class=\"verse v9\" data-usfm=\"COL.4.9\"><span class=\"label\">9</span><span class=\"content\">Lo env&#237;o con On&#233;simo, el fiel y amado hermano, quien es uno de ustedes. Ellos les informar&#225;n de todo lo que pasa aqu&#237;.</span></span></div><div class=\"s1\"><span class=\"heading\">Saludos finales</span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"COL.4.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"COL.4.10\"><span class=\"label\">10</span><span class=\"content\">Los saludan Aristarco, prisionero conmigo; Marcos, el primo de Bernab&#233; (ya han recibido instrucciones acerca de &#233;l; si va a ustedes, rec&#237;banle) </span></span><span class=\"verse v11\" data-usfm=\"COL.4.11\"><span class=\"label\">11</span><span class=\"content\">y Jes&#250;s, llamado Justo. Ellos son los &#250;nicos de la circuncisi&#243;n que son colaboradores conmigo en el reino de Dios y que me han servido de consuelo. </span></span><span class=\"verse v12\" data-usfm=\"COL.4.12\"><span class=\"label\">12</span><span class=\"content\">Los saluda Epafras, quien es uno de ustedes, siervo de Cristo, siempre sol&#237;cito por ustedes en oraci&#243;n, para que est&#233;n firmes como hombres maduros y completamente entregados a toda la voluntad de Dios. </span></span><span class=\"verse v13\" data-usfm=\"COL.4.13\"><span class=\"label\">13</span><span class=\"content\">Porque doy testimonio de &#233;l, de que tiene gran celo por ustedes, por los de Laodicea y por los de Hier&#225;polis. </span></span><span class=\"verse v14\" data-usfm=\"COL.4.14\"><span class=\"label\">14</span><span class=\"content\">Los saludan Lucas, el m&#233;dico amado, y Demas.</span></span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"COL.4.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"COL.4.15\"><span class=\"label\">15</span><span class=\"content\">Saluden a los hermanos que est&#225;n en Laodicea: a Ninfa y a la iglesia que est&#225; en su casa. </span></span><span class=\"verse v16\" data-usfm=\"COL.4.16\"><span class=\"label\">16</span><span class=\"content\">Cuando esta carta haya sido le&#237;da entre ustedes, hagan que se lea tambi&#233;n en la iglesia de los laodicenses; y la de Laodicea l&#233;anla tambi&#233;n ustedes.</span></span></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"COL.4.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"COL.4.17\"><span class=\"label\">17</span><span class=\"content\">Digan a Arquipo: &#8220;Cuida el ministerio que has recibido del Se&#241;or, para que lo cumplas&#8221;.</span></span></div><div class=\"p\"><span class=\"verse v17\" data-usfm=\"COL.4.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"COL.4.18\"><span class=\"label\">18</span><span class=\"content\">Ahora, la salutaci&#243;n de mi propia mano, de Pablo. Acu&#233;rdense de mis prisiones. La gracia sea con ustedes</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">Algunos mss. antiguos tienen </span><span class=\"it\">Am&#233;n;</span><span class=\"ft\"> otros mss. tard&#237;os tienen </span><span class=\"it\">&#8230;sea con todos ustedes. Am&#233;n.</span></span></span><span class=\"content\">.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Amos, hagan lo que es justo y equitativo con sus siervos, sabiendo que también tienen un amo en los cielos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "La oración y el testimonio personal"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Perseveren siempre en la oración, vigilando en ella con acción de gracias."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "A la vez, oren también por nosotros a fin de que el Señor nos abra una puerta para la palabra para comunicar el misterio de Cristo, por lo cual estoy aún preso."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Oren para que yo lo presente con claridad, como me es preciso hablar."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Anden sabiamente para con los de afuera, redimiendo el tiempo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Que la palabra de ustedes sea siempre agradable, sazonada con sal, para que sepan cómo les conviene responder a cada uno."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "La misión de Tíquico y Onésimo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Todos mis asuntos se los hará saber Tíquico, hermano amado, fiel ministro y consiervo en el Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Lo envío a ustedes con este fin: para que conozcan nuestros asuntos y para que él anime sus corazones."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Lo envío con Onésimo, el fiel y amado hermano, quien es uno de ustedes. Ellos les informarán de todo lo que pasa aquí."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Saludos finales"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Los saludan Aristarco, prisionero conmigo; Marcos, el primo de Bernabé (ya han recibido instrucciones acerca de él; si va a ustedes, recíbanle)"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "y Jesús, llamado Justo. Ellos son los únicos de la circuncisión que son colaboradores conmigo en el reino de Dios y que me han servido de consuelo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Los saluda Epafras, quien es uno de ustedes, siervo de Cristo, siempre solícito por ustedes en oración, para que estén firmes como hombres maduros y completamente entregados a toda la voluntad de Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Porque doy testimonio de él, de que tiene gran celo por ustedes, por los de Laodicea y por los de Hierápolis."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Los saludan Lucas, el médico amado, y Demas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Saluden a los hermanos que están en Laodicea: a Ninfa y a la iglesia que está en su casa."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Cuando esta carta haya sido leída entre ustedes, hagan que se lea también en la iglesia de los laodicenses; y la de Laodicea léanla también ustedes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Digan a Arquipo: “Cuida el ministerio que has recibido del Señor, para que lo cumplas”."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Ahora, la salutación de mi propia mano, de Pablo. Acuérdense de mis prisiones. La gracia sea con ustedes."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

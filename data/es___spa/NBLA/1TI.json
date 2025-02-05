@@ -1,0 +1,1115 @@
+{
+  "book_usfm": "1TI",
+  "name": "1 Timoteo",
+  "local_title": "Nueva Biblia de las Américas",
+  "local_abbreviation": "NBLA",
+  "version_id": 103,
+  "publisher": {
+    "name": "The Lockman Foundation"
+  },
+  "copyright": {
+    "html": "1986, 1995, 1997, 2005 by The Lockman Foundation",
+    "text": "1986, 1995, 1997, 2005 by The Lockman Foundation"
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "1TI.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "1TI.1"
+        ],
+        "human": "1 Timoteo 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "1TI.2"
+        ],
+        "human": "1 Timoteo 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "2TH.3"
+        ],
+        "human": "2 Tesalonicenses 3",
+        "toc": true
+      },
+      "chapter_text": "Pablo, apóstol de Cristo Jesús por mandato de Dios nuestro Salvador, y de Cristo Jesús nuestra esperanza, a Timoteo, verdadero hijo en la fe: Gracia, misericordia y paz de parte de Dios Padre y de Cristo Jesús nuestro Señor.\n\nTal como te rogué al salir para Macedonia que te quedaras en Éfeso para que instruyeras a algunos que no enseñaran doctrinas extrañas, ni prestaran atención a mitos y genealogías interminables, lo que da lugar a discusiones inútiles en vez de hacer avanzar el plan de Dios que es por fe, así te encargo ahora.\nPero el propósito de nuestra instrucción es el amor nacido de un corazón puro, de una buena conciencia y de una fe sincera. Pues algunos, desviándose de estas cosas, se han apartado hacia una vana palabrería. Quieren ser maestros de la ley, aunque no saben lo que dicen ni entienden las cosas acerca de las cuales hacen declaraciones categóricas. Pero nosotros sabemos que la ley es buena, si uno la usa legítimamente.\nReconozcamos esto: que la ley no ha sido instituida para el justo, sino para los transgresores y rebeldes, para los impíos y pecadores, para los irreverentes y profanos, para los que matan a sus padres o a sus madres, para los asesinos, para los inmorales, homosexuales, secuestradores, mentirosos, los que juran en falso, y para cualquier otra cosa que es contraria a la sana doctrina, según el glorioso evangelio del Dios bendito, que me ha sido encomendado.\n\nDoy gracias a Cristo Jesús nuestro Señor, que me ha fortalecido, porque me tuvo por fiel, poniéndome en el ministerio, aun habiendo sido yo antes blasfemo, perseguidor y agresor. Sin embargo, se me mostró misericordia porque lo hice por ignorancia en mi incredulidad. Pero la gracia de nuestro Señor fue más que abundante, con la fe y el amor que se hallan en Cristo Jesús.\nPalabra fiel y digna de ser aceptada por todos: Cristo Jesús vino al mundo para salvar a los pecadores, entre los cuales yo soy el primero. Sin embargo, por esto hallé misericordia, para que en mí, como el primero, Jesucristo demostrara toda Su paciencia como un ejemplo para los que habrían de creer en Él para vida eterna. Por tanto, al Rey eterno, inmortal, invisible, único Dios, a Él sea honor y gloria por los siglos de los siglos. Amén.\n\nEsta comisión te confío, hijo Timoteo, conforme a las profecías que antes se hicieron en cuanto a ti, a fin de que por ellas pelees la buena batalla, guardando la fe y una buena conciencia, que algunos han rechazado y naufragaron en lo que toca a la fe. Entre ellos están Himeneo y Alejandro, a quienes he entregado a Satanás, para que aprendan a no blasfemar.",
+      "chapter_html": "<div class=\"version vid103 iso6393spa\" data-vid=\"103\" data-iso6393=\"spa\">\n   <div class=\"book bk1TI\">\n      <div class=\"chapter ch1\" data-usfm=\"1TI.1\">\n         <div class=\"label\">1</div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Saludo</span></span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"1TI.1.1\"><span class=\"label\">1</span><span class=\"content\">Pablo, ap&#243;stol de Cristo Jes&#250;s por mandato de Dios nuestro Salvador, y de Cristo Jes&#250;s nuestra esperanza, </span></span><span class=\"verse v2\" data-usfm=\"1TI.1.2\"><span class=\"label\">2</span><span class=\"content\">a Timoteo, verdadero hijo en la fe: Gracia, misericordia y paz de parte de Dios Padre y </span><span class=\"it\"><span class=\"content\">de</span></span><span class=\"content\"> Cristo Jes&#250;s nuestro Se&#241;or.</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Advertencia contra doctrinas extra&#241;as</span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"1TI.1.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"1TI.1.3\"><span class=\"label\">3</span><span class=\"content\">Tal como te rogu&#233; al salir para Macedonia que te quedaras en &#201;feso para que instruyeras a algunos que no ense&#241;aran doctrinas extra&#241;as, </span></span><span class=\"verse v4\" data-usfm=\"1TI.1.4\"><span class=\"label\">4</span><span class=\"content\">ni prestaran atenci&#243;n a</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:4 </span><span class=\"ft\">O <span class=\"it\">ni se ocuparan de.</span></span></span></span><span class=\"content\"> mitos y genealog&#237;as interminables, lo que da lugar a discusiones</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:4 </span><span class=\"ft\">O <span class=\"it\">especulaciones.</span></span></span></span><span class=\"content\"> in&#250;tiles en vez de </span><span class=\"it\"><span class=\"content\">hacer avanzar</span></span><span class=\"content\"> el plan de Dios que es por fe, </span><span class=\"it\"><span class=\"content\">as&#237; te encargo ahora.</span></span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"1TI.1.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"1TI.1.5\"><span class=\"label\">5</span><span class=\"content\">Pero el prop&#243;sito de nuestra instrucci&#243;n</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:5 </span><span class=\"ft\">Lit. <span class=\"it\">nuestro mandamiento.</span></span></span></span><span class=\"content\"> es el amor </span><span class=\"it\"><span class=\"content\">nacido</span></span><span class=\"content\"> de un coraz&#243;n puro, de una buena conciencia y de una fe sincera</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:5 </span><span class=\"ft\">Lit. <span class=\"it\">no fingida.</span></span></span></span><span class=\"content\">. </span></span><span class=\"verse v6\" data-usfm=\"1TI.1.6\"><span class=\"label\">6</span><span class=\"it\"><span class=\"content\">Pues</span></span><span class=\"content\"> algunos, desvi&#225;ndose de estas cosas, se han apartado hacia una vana palabrer&#237;a</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:6 </span><span class=\"ft\">O <span class=\"it\">discusi&#243;n.</span></span></span></span><span class=\"content\">. </span></span><span class=\"verse v7\" data-usfm=\"1TI.1.7\"><span class=\"label\">7</span><span class=\"content\">Quieren ser maestros de la ley, aunque no saben lo que dicen ni </span><span class=\"it\"><span class=\"content\">entienden</span></span><span class=\"content\"> las cosas acerca de las cuales hacen declaraciones categ&#243;ricas. </span></span><span class=\"verse v8\" data-usfm=\"1TI.1.8\"><span class=\"label\">8</span><span class=\"content\">Pero nosotros sabemos que la ley es buena, si uno la usa leg&#237;timamente.</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"1TI.1.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"1TI.1.9\"><span class=\"label\">9</span><span class=\"content\">Reconozcamos esto: que la ley no ha sido instituida para el justo, sino para los transgresores y rebeldes, para los imp&#237;os y pecadores, para los irreverentes y profanos, para los que matan a sus padres o a sus madres, para los asesinos, </span></span><span class=\"verse v10\" data-usfm=\"1TI.1.10\"><span class=\"label\">10</span><span class=\"content\">para los inmorales</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:10 </span><span class=\"ft\">O <span class=\"it\">fornicarios.</span></span></span></span><span class=\"content\">, homosexuales, secuestradores, mentirosos, los que juran en falso, y para cualquier otra cosa que es contraria a la sana doctrina, </span></span><span class=\"verse v11\" data-usfm=\"1TI.1.11\"><span class=\"label\">11</span><span class=\"content\">seg&#250;n el glorioso evangelio del Dios bendito, que me ha sido encomendado.</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Gratitud de Pablo por la gracia de Dios</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"1TI.1.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"1TI.1.12\"><span class=\"label\">12</span><span class=\"content\">Doy gracias a Cristo Jes&#250;s nuestro Se&#241;or, que me ha fortalecido, porque me tuvo por fiel, poni&#233;ndome en el ministerio, </span></span><span class=\"verse v13\" data-usfm=\"1TI.1.13\"><span class=\"label\">13</span><span class=\"content\">aun habiendo sido yo antes blasfemo, perseguidor y agresor. Sin embargo, se me mostr&#243; misericordia porque lo hice por ignorancia en </span><span class=\"it\"><span class=\"content\">mi</span></span><span class=\"content\"> incredulidad. </span></span><span class=\"verse v14\" data-usfm=\"1TI.1.14\"><span class=\"label\">14</span><span class=\"content\">Pero la gracia de nuestro Se&#241;or fue m&#225;s que abundante, con la fe y el amor que </span><span class=\"it\"><span class=\"content\">se hallan</span></span><span class=\"content\"> en Cristo Jes&#250;s.</span></span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"1TI.1.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"1TI.1.15\"><span class=\"label\">15</span><span class=\"content\">Palabra fiel y digna de ser aceptada por todos</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:15 </span><span class=\"ft\">O <span class=\"it\">totalmente.</span></span></span></span><span class=\"content\">: Cristo Jes&#250;s vino al mundo para salvar a los pecadores, entre los cuales yo soy el primero. </span></span><span class=\"verse v16\" data-usfm=\"1TI.1.16\"><span class=\"label\">16</span><span class=\"content\">Sin embargo, por esto hall&#233; misericordia, para que en m&#237;, como el primero, Jesucristo demostrara toda Su paciencia</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:16 </span><span class=\"ft\">O <span class=\"it\">su perfecta paciencia.</span></span></span></span><span class=\"content\"> como un ejemplo para los que habr&#237;an de creer en &#201;l para vida eterna. </span></span><span class=\"verse v17\" data-usfm=\"1TI.1.17\"><span class=\"label\">17</span><span class=\"content\">Por tanto, al Rey eterno</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:17 </span><span class=\"ft\">Lit. <span class=\"it\">de los siglos.</span></span></span></span><span class=\"content\">, inmortal, invisible, &#250;nico Dios, </span><span class=\"it\"><span class=\"content\">a &#201;l sea</span></span><span class=\"content\"> honor y gloria por los siglos de los siglos. Am&#233;n.</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Instrucciones a Timoteo</span></span></div><div class=\"p\"><span class=\"verse v17\" data-usfm=\"1TI.1.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"1TI.1.18\"><span class=\"label\">18</span><span class=\"content\">Esta comisi&#243;n</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:18 </span><span class=\"ft\">O <span class=\"it\">Este mandato.</span></span></span></span><span class=\"content\"> te conf&#237;o, hijo Timoteo, conforme a las profec&#237;as que antes se hicieron en cuanto a ti, a fin de que por ellas pelees la buena batalla, </span></span><span class=\"verse v19\" data-usfm=\"1TI.1.19\"><span class=\"label\">19</span><span class=\"content\">guardando la fe y una buena conciencia, que algunos han rechazado y naufragaron en lo que toca a la fe. </span></span><span class=\"verse v20\" data-usfm=\"1TI.1.20\"><span class=\"label\">20</span><span class=\"content\">Entre ellos est&#225;n Himeneo y Alejandro, a quienes he entregado a Satan&#225;s, para que aprendan a no blasfemar.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Pablo, apóstol de Cristo Jesús por mandato de Dios nuestro Salvador, y de Cristo Jesús nuestra esperanza,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "a Timoteo, verdadero hijo en la fe: Gracia, misericordia y paz de parte de Dios Padre y de Cristo Jesús nuestro Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Tal como te rogué al salir para Macedonia que te quedaras en Éfeso para que instruyeras a algunos que no enseñaran doctrinas extrañas,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "ni prestaran atención a mitos y genealogías interminables, lo que da lugar a discusiones inútiles en vez de hacer avanzar el plan de Dios que es por fe, así te encargo ahora."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Pero el propósito de nuestra instrucción es el amor nacido de un corazón puro, de una buena conciencia y de una fe sincera."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Pues algunos, desviándose de estas cosas, se han apartado hacia una vana palabrería."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Quieren ser maestros de la ley, aunque no saben lo que dicen ni entienden las cosas acerca de las cuales hacen declaraciones categóricas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Pero nosotros sabemos que la ley es buena, si uno la usa legítimamente."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Reconozcamos esto: que la ley no ha sido instituida para el justo, sino para los transgresores y rebeldes, para los impíos y pecadores, para los irreverentes y profanos, para los que matan a sus padres o a sus madres, para los asesinos,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "para los inmorales, homosexuales, secuestradores, mentirosos, los que juran en falso, y para cualquier otra cosa que es contraria a la sana doctrina,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "según el glorioso evangelio del Dios bendito, que me ha sido encomendado."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Doy gracias a Cristo Jesús nuestro Señor, que me ha fortalecido, porque me tuvo por fiel, poniéndome en el ministerio,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "aun habiendo sido yo antes blasfemo, perseguidor y agresor. Sin embargo, se me mostró misericordia porque lo hice por ignorancia en mi incredulidad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Pero la gracia de nuestro Señor fue más que abundante, con la fe y el amor que se hallan en Cristo Jesús."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Palabra fiel y digna de ser aceptada por todos: Cristo Jesús vino al mundo para salvar a los pecadores, entre los cuales yo soy el primero."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Sin embargo, por esto hallé misericordia, para que en mí, como el primero, Jesucristo demostrara toda Su paciencia como un ejemplo para los que habrían de creer en Él para vida eterna."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Por tanto, al Rey eterno, inmortal, invisible, único Dios, a Él sea honor y gloria por los siglos de los siglos. Amén."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Esta comisión te confío, hijo Timoteo, conforme a las profecías que antes se hicieron en cuanto a ti, a fin de que por ellas pelees la buena batalla,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "guardando la fe y una buena conciencia, que algunos han rechazado y naufragaron en lo que toca a la fe."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Entre ellos están Himeneo y Alejandro, a quienes he entregado a Satanás, para que aprendan a no blasfemar."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "1TI.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "1TI.2"
+        ],
+        "human": "1 Timoteo 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "1TI.3"
+        ],
+        "human": "1 Timoteo 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "1TI.1"
+        ],
+        "human": "1 Timoteo 1",
+        "toc": true
+      },
+      "chapter_text": "Exhorto, pues, ante todo que se hagan plegarias, oraciones, peticiones y acciones de gracias por todos los hombres, por los reyes y por todos los que están en autoridad, para que podamos vivir una vida tranquila y sosegada con toda piedad y dignidad. Porque esto es bueno y agradable delante de Dios nuestro Salvador, el cual quiere que todos los hombres sean salvos y vengan al pleno conocimiento de la verdad.\nPorque hay un solo Dios, y también un solo Mediador entre Dios y los hombres, Cristo Jesús hombre, quien se dio a Sí mismo en rescate por todos, testimonio dado a su debido tiempo. Y para esto yo fui constituido predicador y apóstol, (digo la verdad en Cristo, no miento), como maestro de los gentiles en fe y verdad. Por tanto, quiero que en todo lugar los hombres oren levantando manos santas, sin ira ni discusiones.\n\nAsimismo, que las mujeres se vistan con ropa decorosa, con pudor y modestia, no con peinado ostentoso, no con oro, o perlas, o vestidos costosos, sino con buenas obras, como corresponde a las mujeres que profesan la piedad. Que la mujer aprenda calladamente, con toda obediencia. Yo no permito que la mujer enseñe ni que ejerza autoridad sobre el hombre, sino que permanezca callada. Porque Adán fue creado primero, después Eva. Y Adán no fue el engañado, sino que la mujer, siendo engañada completamente, cayó en transgresión. Pero se salvará engendrando hijos, si permanece en fe, amor y santidad, con modestia.",
+      "chapter_html": "<div class=\"version vid103 iso6393spa\" data-vid=\"103\" data-iso6393=\"spa\">\n   <div class=\"book bk1TI\">\n      <div class=\"chapter ch2\" data-usfm=\"1TI.2\">\n         <div class=\"label\">2</div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Llamado a la oraci&#243;n</span></span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"1TI.2.1\"><span class=\"label\">1</span><span class=\"content\">Exhorto, pues, ante todo que se hagan plegarias, oraciones, peticiones </span><span class=\"it\"><span class=\"content\">y</span></span><span class=\"content\"> acciones de gracias por todos los hombres, </span></span><span class=\"verse v2\" data-usfm=\"1TI.2.2\"><span class=\"label\">2</span><span class=\"content\">por los reyes y por todos los que est&#225;n en autoridad</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:2 </span><span class=\"ft\">O <span class=\"it\">eminencia.</span></span></span></span><span class=\"content\">, para que podamos vivir una vida tranquila y sosegada con toda piedad y dignidad</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:2 </span><span class=\"ft\">O <span class=\"it\">seriedad.</span></span></span></span><span class=\"content\">. </span></span><span class=\"verse v3\" data-usfm=\"1TI.2.3\"><span class=\"label\">3</span><span class=\"it\"><span class=\"content\">Porque</span></span><span class=\"content\"> esto es bueno y agradable delante de Dios nuestro Salvador, </span></span><span class=\"verse v4\" data-usfm=\"1TI.2.4\"><span class=\"label\">4</span><span class=\"content\">el cual quiere que todos los hombres sean salvos y vengan al pleno conocimiento</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:4 </span><span class=\"ft\">O <span class=\"it\">reconocimiento.</span></span></span></span><span class=\"content\"> de la verdad.</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"1TI.2.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"1TI.2.5\"><span class=\"label\">5</span><span class=\"content\">Porque hay un solo Dios, </span><span class=\"it\"><span class=\"content\">y</span></span><span class=\"content\"> tambi&#233;n un solo Mediador entre Dios y los hombres, Cristo Jes&#250;s hombre, </span></span><span class=\"verse v6\" data-usfm=\"1TI.2.6\"><span class=\"label\">6</span><span class=\"content\">quien se dio a S&#237; mismo en rescate por todos, testimonio </span><span class=\"it\"><span class=\"content\">dado</span></span><span class=\"content\"> a su debido tiempo</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:6 </span><span class=\"ft\">Lit. <span class=\"it\">sus propios tiempos.</span></span></span></span><span class=\"content\">. </span></span><span class=\"verse v7\" data-usfm=\"1TI.2.7\"><span class=\"label\">7</span><span class=\"content\">Y para esto yo fui constituido predicador</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:7 </span><span class=\"ft\">O <span class=\"it\">heraldo.</span></span></span></span><span class=\"content\"> y ap&#243;stol, (digo la verdad en Cristo</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:7 </span><span class=\"ft\">Algunos mss. antiguos no incluyen: <span class=\"it\">en Cristo.</span></span></span></span><span class=\"content\">, no miento), como maestro de los gentiles en fe y verdad. </span></span><span class=\"verse v8\" data-usfm=\"1TI.2.8\"><span class=\"label\">8</span><span class=\"content\">Por tanto, quiero que en todo lugar los hombres oren levantando manos santas, sin ira ni discusiones.</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Instrucciones para la mujer cristiana</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"1TI.2.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"1TI.2.9\"><span class=\"label\">9</span><span class=\"content\">Asimismo, que las mujeres se vistan con ropa decorosa, con pudor y modestia, no con peinado ostentoso</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:9 </span><span class=\"ft\">Lit. <span class=\"it\">no con trenzas.</span></span></span></span><span class=\"content\">, no con oro, o perlas, o vestidos costosos, </span></span><span class=\"verse v10\" data-usfm=\"1TI.2.10\"><span class=\"label\">10</span><span class=\"content\">sino con buenas obras, como corresponde a las mujeres que profesan la piedad. </span></span><span class=\"verse v11\" data-usfm=\"1TI.2.11\"><span class=\"label\">11</span><span class=\"content\">Que la mujer aprenda calladamente, con toda obediencia. </span></span><span class=\"verse v12\" data-usfm=\"1TI.2.12\"><span class=\"label\">12</span><span class=\"content\">Yo no permito que la mujer ense&#241;e ni que ejerza autoridad sobre el hombre, sino que permanezca callada. </span></span><span class=\"verse v13\" data-usfm=\"1TI.2.13\"><span class=\"label\">13</span><span class=\"content\">Porque Ad&#225;n fue creado</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:13 </span><span class=\"ft\">O <span class=\"it\">formado.</span></span></span></span><span class=\"content\"> primero, despu&#233;s Eva. </span></span><span class=\"verse v14\" data-usfm=\"1TI.2.14\"><span class=\"label\">14</span><span class=\"content\">Y Ad&#225;n no </span><span class=\"it\"><span class=\"content\">fue el</span></span><span class=\"content\"> enga&#241;ado, sino que la mujer, siendo enga&#241;ada completamente, cay&#243; en transgresi&#243;n. </span></span><span class=\"verse v15\" data-usfm=\"1TI.2.15\"><span class=\"label\">15</span><span class=\"content\">Pero se salvar&#225; engendrando hijos, si permanece en fe, amor y santidad, con modestia.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Exhorto, pues, ante todo que se hagan plegarias, oraciones, peticiones y acciones de gracias por todos los hombres,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "por los reyes y por todos los que están en autoridad, para que podamos vivir una vida tranquila y sosegada con toda piedad y dignidad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Porque esto es bueno y agradable delante de Dios nuestro Salvador,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "el cual quiere que todos los hombres sean salvos y vengan al pleno conocimiento de la verdad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Porque hay un solo Dios, y también un solo Mediador entre Dios y los hombres, Cristo Jesús hombre,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "quien se dio a Sí mismo en rescate por todos, testimonio dado a su debido tiempo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Y para esto yo fui constituido predicador y apóstol, (digo la verdad en Cristo, no miento), como maestro de los gentiles en fe y verdad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Por tanto, quiero que en todo lugar los hombres oren levantando manos santas, sin ira ni discusiones."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Asimismo, que las mujeres se vistan con ropa decorosa, con pudor y modestia, no con peinado ostentoso, no con oro, o perlas, o vestidos costosos,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "sino con buenas obras, como corresponde a las mujeres que profesan la piedad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Que la mujer aprenda calladamente, con toda obediencia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Yo no permito que la mujer enseñe ni que ejerza autoridad sobre el hombre, sino que permanezca callada."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Porque Adán fue creado primero, después Eva."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Y Adán no fue el engañado, sino que la mujer, siendo engañada completamente, cayó en transgresión."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Pero se salvará engendrando hijos, si permanece en fe, amor y santidad, con modestia."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "1TI.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "1TI.3"
+        ],
+        "human": "1 Timoteo 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "1TI.4"
+        ],
+        "human": "1 Timoteo 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "1TI.2"
+        ],
+        "human": "1 Timoteo 2",
+        "toc": true
+      },
+      "chapter_text": "Palabra fiel es esta: si alguien aspira al cargo de obispo, buena obra desea hacer. Un obispo debe ser, pues, irreprochable, marido de una sola mujer, sobrio, prudente, de conducta decorosa, hospitalario, apto para enseñar, no dado a la bebida, no pendenciero, sino amable, no contencioso, no avaricioso.\nQue gobierne bien su casa, teniendo a sus hijos sujetos con toda dignidad; (pues si un hombre no sabe cómo gobernar su propia casa, ¿cómo podrá cuidar de la iglesia de Dios?). No debe ser un recién convertido, no sea que se envanezca y caiga en la condenación en que cayó el diablo. Debe gozar también de una buena reputación entre los de afuera de la iglesia, para que no caiga en descrédito y en el lazo del diablo.\n\nDe la misma manera, también los diáconos deben ser dignos, de una sola palabra, no dados al mucho vino, ni amantes de ganancias deshonestas, sino guardando el misterio de la fe con limpia conciencia. Que también estos sean sometidos a prueba primero, y si son irreprensibles, que entonces sirvan como diáconos. De igual manera, las mujeres deben ser dignas, no calumniadoras, sino sobrias, fieles en todo. Que los diáconos sean maridos de una sola mujer, y que gobiernen bien sus hijos y sus propias casas. Pues los que han servido bien como diáconos obtienen para sí una posición honrosa y gran confianza en la fe que es en Cristo Jesús.\n\nTe escribo estas cosas, esperando ir a verte pronto, pero en caso que me tarde, te escribo para que sepas cómo debe conducirse uno en la casa de Dios, que es la iglesia del Dios vivo, columna y sostén de la verdad. E indiscutiblemente, grande es el misterio de la piedad:\nÉl fue manifestado en la carne,\nVindicado en el Espíritu,\nContemplado por ángeles,\nProclamado entre las naciones,\nCreído en el mundo,\nRecibido arriba en gloria.",
+      "chapter_html": "<div class=\"version vid103 iso6393spa\" data-vid=\"103\" data-iso6393=\"spa\">\n   <div class=\"book bk1TI\">\n      <div class=\"chapter ch3\" data-usfm=\"1TI.3\">\n         <div class=\"label\">3</div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Requisitos para los obispos</span></span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"1TI.3.1\"><span class=\"label\">1</span><span class=\"content\">Palabra fiel </span><span class=\"it\"><span class=\"content\">es esta</span></span><span class=\"content\">: si alguien aspira al cargo de obispo</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:1 </span><span class=\"ft\">O <span class=\"it\">supervisor.</span></span></span></span><span class=\"content\">, buena obra desea </span><span class=\"it\"><span class=\"content\">hacer.</span></span><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"1TI.3.2\"><span class=\"label\">2</span><span class=\"content\">Un</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:2 </span><span class=\"ft\">Lit. <span class=\"it\">El.</span></span></span></span><span class=\"content\"> obispo debe ser, pues, irreprochable, marido de una sola mujer, sobrio, prudente, de conducta decorosa, hospitalario, apto para ense&#241;ar, </span></span><span class=\"verse v3\" data-usfm=\"1TI.3.3\"><span class=\"label\">3</span><span class=\"content\">no dado a la bebida</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:3 </span><span class=\"ft\">Lit. <span class=\"it\">al vino.</span></span></span></span><span class=\"content\">, no pendenciero, sino amable, no contencioso, no avaricioso.</span></span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"1TI.3.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"1TI.3.4\"><span class=\"label\">4</span><span class=\"content\">Que gobierne bien su casa, teniendo a sus hijos sujetos con toda dignidad; </span></span><span class=\"verse v5\" data-usfm=\"1TI.3.5\"><span class=\"label\">5</span><span class=\"content\">(pues si un hombre no sabe c&#243;mo gobernar su propia casa, &#191;c&#243;mo podr&#225; cuidar de la iglesia de Dios?). </span></span><span class=\"verse v6\" data-usfm=\"1TI.3.6\"><span class=\"label\">6</span><span class=\"content\">No </span><span class=\"it\"><span class=\"content\">debe ser</span></span><span class=\"content\"> un reci&#233;n convertido, no sea que se envanezca y caiga en la condenaci&#243;n </span><span class=\"it\"><span class=\"content\">en que cay&#243;</span></span><span class=\"content\"> el</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:6 </span><span class=\"ft\">Lit. <span class=\"it\">del.</span></span></span></span><span class=\"content\"> diablo. </span></span><span class=\"verse v7\" data-usfm=\"1TI.3.7\"><span class=\"label\">7</span><span class=\"content\">Debe gozar tambi&#233;n de</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:7 </span><span class=\"ft\">Lit. <span class=\"it\">tener.</span></span></span></span><span class=\"content\"> una buena reputaci&#243;n entre los de afuera </span><span class=\"it\"><span class=\"content\">de la iglesia</span></span><span class=\"content\">, para que no caiga en descr&#233;dito y en el lazo del diablo.</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Requisitos para los di&#225;conos</span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"1TI.3.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"1TI.3.8\"><span class=\"label\">8</span><span class=\"content\">De la misma manera, tambi&#233;n los di&#225;conos </span><span class=\"it\"><span class=\"content\">deben ser</span></span><span class=\"content\"> dignos, de una sola palabra</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:8 </span><span class=\"ft\">Lit. <span class=\"it\">no de doble hablar.</span></span></span></span><span class=\"content\">, no dados al mucho vino, ni amantes de ganancias deshonestas, </span></span><span class=\"verse v9\" data-usfm=\"1TI.3.9\"><span class=\"label\">9</span><span class=\"it\"><span class=\"content\">sino</span></span><span class=\"content\"> guardando el misterio de la fe con limpia conciencia. </span></span><span class=\"verse v10\" data-usfm=\"1TI.3.10\"><span class=\"label\">10</span><span class=\"content\">Que tambi&#233;n estos sean sometidos a prueba primero, y si son irreprensibles, que entonces sirvan como di&#225;conos. </span></span><span class=\"verse v11\" data-usfm=\"1TI.3.11\"><span class=\"label\">11</span><span class=\"content\">De igual manera, las mujeres</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:11 </span><span class=\"ft\">I.e. diaconisas.</span></span></span><span class=\"content\">  </span><span class=\"it\"><span class=\"content\">deben ser</span></span><span class=\"content\"> dignas, no calumniadoras, sino sobrias, fieles en todo. </span></span><span class=\"verse v12\" data-usfm=\"1TI.3.12\"><span class=\"label\">12</span><span class=\"content\">Que los di&#225;conos sean maridos de una </span><span class=\"it\"><span class=\"content\">sola</span></span><span class=\"content\"> mujer, </span><span class=\"it\"><span class=\"content\">y</span></span><span class=\"content\"> que gobiernen bien</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:12 </span><span class=\"ft\">Lit. <span class=\"it\">gobernando bien.</span></span></span></span><span class=\"content\">  </span><span class=\"it\"><span class=\"content\">sus</span></span><span class=\"content\"> hijos y sus propias casas. </span></span><span class=\"verse v13\" data-usfm=\"1TI.3.13\"><span class=\"label\">13</span><span class=\"content\">Pues los que han servido bien como di&#225;conos obtienen para s&#237; una posici&#243;n honrosa</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:13 </span><span class=\"ft\">Lit. <span class=\"it\">una buena posici&#243;n.</span></span></span></span><span class=\"content\"> y gran confianza en la fe que es en Cristo Jes&#250;s.</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">El misterio de la piedad</span></span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"1TI.3.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"1TI.3.14\"><span class=\"label\">14</span><span class=\"content\">Te escribo estas cosas, esperando ir a verte pronto, </span></span><span class=\"verse v15\" data-usfm=\"1TI.3.15\"><span class=\"label\">15</span><span class=\"content\">pero en caso que me tarde</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:15 </span><span class=\"ft\">Lit. <span class=\"it\">si tardo.</span></span></span></span><span class=\"content\">, </span><span class=\"it\"><span class=\"content\">te escribo</span></span><span class=\"content\"> para que sepas c&#243;mo debe conducirse uno</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:15 </span><span class=\"ft\">O <span class=\"it\">c&#243;mo te debes conducir.</span></span></span></span><span class=\"content\"> en la casa de Dios, que es la iglesia del Dios vivo, columna y sost&#233;n de la verdad. </span></span><span class=\"verse v16\" data-usfm=\"1TI.3.16\"><span class=\"label\">16</span><span class=\"content\">E indiscutiblemente</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:16 </span><span class=\"ft\">O <span class=\"it\">Y por confesi&#243;n general.</span></span></span></span><span class=\"content\">, grande es el misterio de la piedad:</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"1TI.3.16\"><span class=\"content\">&#201;l</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:16 </span><span class=\"ft\">Lit. <span class=\"it\">El que;</span> algunos mss. posteriores dicen: <span class=\"it\">Dios.</span></span></span></span><span class=\"content\"> fue manifestado en la carne,</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"1TI.3.16\"><span class=\"content\">Vindicado</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:16 </span><span class=\"ft\">O <span class=\"it\">Justificado.</span></span></span></span><span class=\"content\"> en</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:16 </span><span class=\"ft\">O <span class=\"it\">por.</span></span></span></span><span class=\"content\"> el Esp&#237;ritu,</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"1TI.3.16\"><span class=\"content\">Contemplado por &#225;ngeles,</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"1TI.3.16\"><span class=\"content\">Proclamado entre las naciones,</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"1TI.3.16\"><span class=\"content\">Cre&#237;do en el mundo,</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"1TI.3.16\"><span class=\"content\">Recibido arriba en gloria.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Palabra fiel es esta: si alguien aspira al cargo de obispo, buena obra desea hacer."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Un obispo debe ser, pues, irreprochable, marido de una sola mujer, sobrio, prudente, de conducta decorosa, hospitalario, apto para enseñar,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "no dado a la bebida, no pendenciero, sino amable, no contencioso, no avaricioso."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Que gobierne bien su casa, teniendo a sus hijos sujetos con toda dignidad;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "(pues si un hombre no sabe cómo gobernar su propia casa, ¿cómo podrá cuidar de la iglesia de Dios?)."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "No debe ser un recién convertido, no sea que se envanezca y caiga en la condenación en que cayó el diablo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Debe gozar también de una buena reputación entre los de afuera de la iglesia, para que no caiga en descrédito y en el lazo del diablo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "De la misma manera, también los diáconos deben ser dignos, de una sola palabra, no dados al mucho vino, ni amantes de ganancias deshonestas,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "sino guardando el misterio de la fe con limpia conciencia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Que también estos sean sometidos a prueba primero, y si son irreprensibles, que entonces sirvan como diáconos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "De igual manera, las mujeres deben ser dignas, no calumniadoras, sino sobrias, fieles en todo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Que los diáconos sean maridos de una sola mujer, y que gobiernen bien sus hijos y sus propias casas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Pues los que han servido bien como diáconos obtienen para sí una posición honrosa y gran confianza en la fe que es en Cristo Jesús."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Te escribo estas cosas, esperando ir a verte pronto,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "pero en caso que me tarde, te escribo para que sepas cómo debe conducirse uno en la casa de Dios, que es la iglesia del Dios vivo, columna y sostén de la verdad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "E indiscutiblemente, grande es el misterio de la piedad:",
+            "Él fue manifestado en la carne,",
+            "Vindicado en el Espíritu,",
+            "Contemplado por ángeles,",
+            "Proclamado entre las naciones,",
+            "Creído en el mundo,",
+            "Recibido arriba en gloria."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "1TI.4",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "1TI.4"
+        ],
+        "human": "1 Timoteo 4"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "1TI.5"
+        ],
+        "human": "1 Timoteo 5",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "1TI.3"
+        ],
+        "human": "1 Timoteo 3",
+        "toc": true
+      },
+      "chapter_text": "El Espíritu dice claramente que en los últimos tiempos algunos se apartarán de la fe, prestando atención a espíritus engañadores y a doctrinas de demonios, mediante la hipocresía de mentirosos que tienen cauterizada la conciencia. Esos prohibirán casarse y mandarán abstenerse de algunos alimentos, que Dios los ha creado para que con acción de gracias participen de ellos los que creen y que han conocido la verdad. Porque todo lo creado por Dios es bueno y nada se debe rechazar si se recibe con acción de gracias; porque es santificado mediante la palabra de Dios y la oración.\n\nAl señalar estas cosas a los hermanos serás un buen ministro de Cristo Jesús, nutrido con las palabras de la fe y de la buena doctrina que has seguido. Pero nada tengas que ver con las fábulas profanas propias de viejas. Más bien disciplínate a ti mismo para la piedad. Porque el ejercicio físico aprovecha poco, pero la piedad es provechosa para todo, pues tiene promesa para la vida presente y también para la futura. Palabra fiel es esta, y digna de ser aceptada por todos. Porque por esto trabajamos y nos esforzamos, porque hemos puesto nuestra esperanza en el Dios vivo, que es el Salvador de todos los hombres, especialmente de los creyentes. Esto manda y enseña. No permitas que nadie menosprecie tu juventud, sino sé ejemplo de los creyentes en palabra, conducta, amor, fe y pureza. Entretanto que llego, ocúpate en la lectura de las Escrituras, la exhortación y la enseñanza. No descuides el don espiritual que está en ti, que te fue conferido por medio de la profecía con la imposición de manos del presbiterio. Reflexiona sobre estas cosas; dedícate a ellas, para que tu aprovechamiento sea evidente a todos. Ten cuidado de ti mismo y de la enseñanza. Persevera en estas cosas, porque haciéndolo asegurarás la salvación tanto para ti mismo como para los que te escuchan.",
+      "chapter_html": "<div class=\"version vid103 iso6393spa\" data-vid=\"103\" data-iso6393=\"spa\">\n   <div class=\"book bk1TI\">\n      <div class=\"chapter ch4\" data-usfm=\"1TI.4\">\n         <div class=\"label\">4</div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Predicci&#243;n de la apostas&#237;a</span></span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"1TI.4.1\"><span class=\"label\">1</span><span class=\"content\">El Esp&#237;ritu dice claramente que en los &#250;ltimos tiempos algunos se apartar&#225;n de la fe, prestando atenci&#243;n a esp&#237;ritus enga&#241;adores y a doctrinas de demonios, </span></span><span class=\"verse v2\" data-usfm=\"1TI.4.2\"><span class=\"label\">2</span><span class=\"content\">mediante la hipocres&#237;a de mentirosos que tienen cauterizada la conciencia. </span></span><span class=\"verse v3\" data-usfm=\"1TI.4.3\"><span class=\"label\">3</span><span class=\"content\">Esos prohibir&#225;n casarse </span><span class=\"it\"><span class=\"content\">y mandar&#225;n</span></span><span class=\"content\"> abstenerse de algunos alimentos, que Dios los ha creado para que con acci&#243;n de gracias participen </span><span class=\"it\"><span class=\"content\">de ellos</span></span><span class=\"content\"> los que creen y que han conocido la verdad. </span></span><span class=\"verse v4\" data-usfm=\"1TI.4.4\"><span class=\"label\">4</span><span class=\"content\">Porque todo lo creado por Dios es bueno y nada se debe rechazar si se recibe con acci&#243;n de gracias; </span></span><span class=\"verse v5\" data-usfm=\"1TI.4.5\"><span class=\"label\">5</span><span class=\"content\">porque es santificado mediante la palabra de Dios y la oraci&#243;n.</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">El buen ministro de Cristo</span></span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"1TI.4.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"1TI.4.6\"><span class=\"label\">6</span><span class=\"content\">Al se&#241;alar estas cosas a los hermanos ser&#225;s un buen ministro de Cristo Jes&#250;s, nutrido con las palabras de la fe y de la buena doctrina que has seguido. </span></span><span class=\"verse v7\" data-usfm=\"1TI.4.7\"><span class=\"label\">7</span><span class=\"content\">Pero nada tengas que ver con las f&#225;bulas profanas propias de viejas. M&#225;s bien discipl&#237;nate a ti mismo</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:7 </span><span class=\"ft\">Lit. <span class=\"it\">ejerc&#237;tate.</span></span></span></span><span class=\"content\"> para la piedad. </span></span><span class=\"verse v8\" data-usfm=\"1TI.4.8\"><span class=\"label\">8</span><span class=\"content\">Porque el ejercicio f&#237;sico aprovecha poco, pero la piedad es provechosa para todo, pues tiene promesa para la vida presente y </span><span class=\"it\"><span class=\"content\">tambi&#233;n</span></span><span class=\"content\"> para la futura. </span></span><span class=\"verse v9\" data-usfm=\"1TI.4.9\"><span class=\"label\">9</span><span class=\"content\">Palabra fiel </span><span class=\"it\"><span class=\"content\">es esta</span></span><span class=\"content\">, y digna de ser aceptada por todos</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:9 </span><span class=\"ft\">O <span class=\"it\">totalmente.</span></span></span></span><span class=\"content\">. </span></span><span class=\"verse v10\" data-usfm=\"1TI.4.10\"><span class=\"label\">10</span><span class=\"content\">Porque por esto trabajamos y nos esforzamos, porque hemos puesto nuestra esperanza en el Dios vivo, que es el Salvador de todos los hombres, especialmente de los creyentes. </span></span><span class=\"verse v11\" data-usfm=\"1TI.4.11\"><span class=\"label\">11</span><span class=\"content\">Esto manda y ense&#241;a</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:11 </span><span class=\"ft\">O <span class=\"it\">Contin&#250;a ordenando y ense&#241;ando esto.</span></span></span></span><span class=\"content\">. </span></span><span class=\"verse v12\" data-usfm=\"1TI.4.12\"><span class=\"label\">12</span><span class=\"content\">No permitas que nadie menosprecie tu juventud, sino s&#233; ejemplo de</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:12 </span><span class=\"ft\">O <span class=\"it\">a.</span></span></span></span><span class=\"content\"> los creyentes en palabra, conducta, amor, fe </span><span class=\"it\"><span class=\"content\">y</span></span><span class=\"content\"> pureza. </span></span><span class=\"verse v13\" data-usfm=\"1TI.4.13\"><span class=\"label\">13</span><span class=\"content\">Entretanto que llego</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:13 </span><span class=\"ft\">Lit. <span class=\"it\">voy.</span></span></span></span><span class=\"content\">, oc&#250;pate en la lectura</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:13 </span><span class=\"ft\">O <span class=\"it\">ded&#237;cate a leer.</span></span></span></span><span class=\"content\">  </span><span class=\"it\"><span class=\"content\">de las Escrituras,</span></span><span class=\"content\"> la exhortaci&#243;n y la ense&#241;anza. </span></span><span class=\"verse v14\" data-usfm=\"1TI.4.14\"><span class=\"label\">14</span><span class=\"content\">No descuides el don espiritual que est&#225; en ti, que te fue conferido por medio de la profec&#237;a con la imposici&#243;n de manos del presbiterio</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:14 </span><span class=\"ft\">O <span class=\"it\">grupo de ancianos</span> (gr. presb&#237;teros).</span></span></span><span class=\"content\">. </span></span><span class=\"verse v15\" data-usfm=\"1TI.4.15\"><span class=\"label\">15</span><span class=\"content\">Reflexiona sobre estas cosas; ded&#237;cate a ellas, para que tu aprovechamiento sea evidente a todos. </span></span><span class=\"verse v16\" data-usfm=\"1TI.4.16\"><span class=\"label\">16</span><span class=\"content\">Ten cuidado de ti mismo y de la ense&#241;anza. Persevera en estas cosas, porque haci&#233;ndolo asegurar&#225;s la salvaci&#243;n tanto para ti mismo como para los que te escuchan</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:16 </span><span class=\"ft\">Lit. <span class=\"it\">te salvar&#225;s a ti mismo y a los que te oyen.</span></span></span></span><span class=\"content\">.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "El Espíritu dice claramente que en los últimos tiempos algunos se apartarán de la fe, prestando atención a espíritus engañadores y a doctrinas de demonios,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "mediante la hipocresía de mentirosos que tienen cauterizada la conciencia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Esos prohibirán casarse y mandarán abstenerse de algunos alimentos, que Dios los ha creado para que con acción de gracias participen de ellos los que creen y que han conocido la verdad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Porque todo lo creado por Dios es bueno y nada se debe rechazar si se recibe con acción de gracias;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "porque es santificado mediante la palabra de Dios y la oración."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Al señalar estas cosas a los hermanos serás un buen ministro de Cristo Jesús, nutrido con las palabras de la fe y de la buena doctrina que has seguido."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Pero nada tengas que ver con las fábulas profanas propias de viejas. Más bien disciplínate a ti mismo para la piedad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Porque el ejercicio físico aprovecha poco, pero la piedad es provechosa para todo, pues tiene promesa para la vida presente y también para la futura."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Palabra fiel es esta, y digna de ser aceptada por todos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Porque por esto trabajamos y nos esforzamos, porque hemos puesto nuestra esperanza en el Dios vivo, que es el Salvador de todos los hombres, especialmente de los creyentes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Esto manda y enseña."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "No permitas que nadie menosprecie tu juventud, sino sé ejemplo de los creyentes en palabra, conducta, amor, fe y pureza."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Entretanto que llego, ocúpate en la lectura de las Escrituras, la exhortación y la enseñanza."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "No descuides el don espiritual que está en ti, que te fue conferido por medio de la profecía con la imposición de manos del presbiterio."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Reflexiona sobre estas cosas; dedícate a ellas, para que tu aprovechamiento sea evidente a todos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Ten cuidado de ti mismo y de la enseñanza. Persevera en estas cosas, porque haciéndolo asegurarás la salvación tanto para ti mismo como para los que te escuchan."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "1TI.5",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "1TI.5"
+        ],
+        "human": "1 Timoteo 5"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "1TI.6"
+        ],
+        "human": "1 Timoteo 6",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "1TI.4"
+        ],
+        "human": "1 Timoteo 4",
+        "toc": true
+      },
+      "chapter_text": "No reprendas con dureza al anciano, sino, más bien, exhórtalo como a padre; a los más jóvenes, como a hermanos, a las ancianas, como a madres; a las más jóvenes, como a hermanas, con toda pureza.\n\nHonra a las viudas que en verdad son viudas. Pero si alguna viuda tiene hijos o nietos, que aprendan estos primero a mostrar piedad para con su propia familia y a recompensar a sus padres, porque esto es agradable delante de Dios. Sin embargo la que en verdad es viuda y se ha quedado sola, tiene puesta su esperanza en Dios y continúa en súplicas y oraciones noche y día. Pero la que se entrega a los placeres desenfrenados, aun viviendo, está muerta. Ordena también estas cosas, para que sean irreprochables. Pero si alguien no provee para los suyos, y especialmente para los de su casa, ha negado la fe y es peor que un incrédulo.\nQue la viuda sea puesta en la lista solo si no es menor de sesenta años, habiendo sido la esposa de un solo marido, que tenga testimonio de buenas obras; si ha criado hijos, si ha mostrado hospitalidad a extraños, si ha lavado los pies de los santos, si ha ayudado a los afligidos y si se ha consagrado a toda buena obra.\nPero rehúsa poner en la lista a viudas más jóvenes, porque cuando sienten deseos sensuales, contrarios a Cristo, se quieren casar, incurriendo así en condenación, por haber abandonado su promesa anterior. Y además, aprenden a estar ociosas, yendo de casa en casa. Y no solo son ociosas, sino también charlatanas y entremetidas, hablando de cosas que no son dignas. Por tanto, quiero que las viudas más jóvenes se casen, que tengan hijos, que cuiden su casa y no den al adversario ocasión de reproche. Pues algunas ya se han apartado para seguir a Satanás. Si alguna creyente tiene viudas en la familia, que las mantenga, y que la iglesia no lleve la carga para que pueda ayudar a las que en verdad son viudas.\n\nLos ancianos que gobiernan bien sean considerados dignos de doble honor, principalmente los que trabajan en la predicación y en la enseñanza. Porque la Escritura dice: «NO PONDRáS BOZAL AL BUEY CUANDO TRILLA», y: «El obrero es digno de su salario». No admitas acusación contra un anciano, a menos de que haya dos o tres testigos. A los que continúan en pecado, repréndelos en presencia de todos para que los demás tengan temor de pecar.\nTe encargo solemnemente en la presencia de Dios y de Cristo Jesús y de Sus ángeles escogidos, que conserves estos principios sin prejuicios, no haciendo nada con espíritu de parcialidad. No impongas las manos sobre nadie con ligereza, compartiendo así la responsabilidad por los pecados de otros; guárdate libre de pecado. Ya no bebas agua sola, sino usa un poco de vino por causa de tu estómago y de tus frecuentes enfermedades.\nLos pecados de algunos hombres ya son evidentes, yendo delante de ellos al juicio; pero a otros, sus pecados los siguen. De la misma manera, las buenas obras son evidentes, y las que no lo son no se pueden ocultar.",
+      "chapter_html": "<div class=\"version vid103 iso6393spa\" data-vid=\"103\" data-iso6393=\"spa\">\n   <div class=\"book bk1TI\">\n      <div class=\"chapter ch5\" data-usfm=\"1TI.5\">\n         <div class=\"label\">5</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"1TI.5.1\"><span class=\"label\">1</span><span class=\"content\">No reprendas con dureza al anciano, sino, </span><span class=\"it\"><span class=\"content\">m&#225;s bien,</span></span><span class=\"content\"> exh&#243;rta</span><span class=\"it\"><span class=\"content\">lo</span></span><span class=\"content\"> como a padre; a los m&#225;s j&#243;venes, como a hermanos, </span></span><span class=\"verse v2\" data-usfm=\"1TI.5.2\"><span class=\"label\">2</span><span class=\"content\">a las ancianas, como a madres; a las m&#225;s j&#243;venes, como a hermanas, con toda pureza.</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Responsabilidades hacia las viudas</span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"1TI.5.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"1TI.5.3\"><span class=\"label\">3</span><span class=\"content\">Honra a las viudas que en verdad son viudas. </span></span><span class=\"verse v4\" data-usfm=\"1TI.5.4\"><span class=\"label\">4</span><span class=\"content\">Pero si alguna viuda tiene hijos o nietos, que aprendan </span><span class=\"it\"><span class=\"content\">estos</span></span><span class=\"content\"> primero a mostrar piedad para con su propia familia y a recompensar</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">5:4 </span><span class=\"ft\">Lit. <span class=\"it\">devolver recompensas.</span></span></span></span><span class=\"content\"> a sus padres, porque esto es agradable delante de Dios. </span></span><span class=\"verse v5\" data-usfm=\"1TI.5.5\"><span class=\"label\">5</span><span class=\"content\">Sin embargo la que en verdad es viuda y se ha quedado sola, tiene puesta su esperanza en Dios y contin&#250;a en s&#250;plicas y oraciones noche y d&#237;a. </span></span><span class=\"verse v6\" data-usfm=\"1TI.5.6\"><span class=\"label\">6</span><span class=\"content\">Pero la que se entrega a los placeres desenfrenados, </span><span class=\"it\"><span class=\"content\">aun</span></span><span class=\"content\"> viviendo, est&#225; muerta. </span></span><span class=\"verse v7\" data-usfm=\"1TI.5.7\"><span class=\"label\">7</span><span class=\"content\">Ordena</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">5:7 </span><span class=\"ft\">O <span class=\"it\">Sigue ordenando.</span></span></span></span><span class=\"content\"> tambi&#233;n estas cosas, para que sean irreprochables. </span></span><span class=\"verse v8\" data-usfm=\"1TI.5.8\"><span class=\"label\">8</span><span class=\"content\">Pero si alguien no provee para los suyos, y especialmente para los de su casa, ha negado la fe y es peor que un incr&#233;dulo.</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"1TI.5.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"1TI.5.9\"><span class=\"label\">9</span><span class=\"content\">Que la viuda sea puesta en la lista solo si no es menor de sesenta a&#241;os, </span><span class=\"it\"><span class=\"content\">habiendo sido</span></span><span class=\"content\"> la esposa de un solo marido, </span></span><span class=\"verse v10\" data-usfm=\"1TI.5.10\"><span class=\"label\">10</span><span class=\"content\">que tenga testimonio de buenas obras; si ha criado hijos, si ha mostrado hospitalidad a extra&#241;os, si ha lavado los pies de los santos, si ha ayudado a los afligidos </span><span class=\"it\"><span class=\"content\">y</span></span><span class=\"content\"> si se ha consagrado</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">5:10 </span><span class=\"ft\">O <span class=\"it\">dedicado.</span></span></span></span><span class=\"content\"> a toda buena obra.</span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"1TI.5.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"1TI.5.11\"><span class=\"label\">11</span><span class=\"content\">Pero reh&#250;sa </span><span class=\"it\"><span class=\"content\">poner en la lista</span></span><span class=\"content\"> a viudas m&#225;s j&#243;venes, porque cuando sienten deseos sensuales, contrarios a Cristo, se quieren casar, </span></span><span class=\"verse v12\" data-usfm=\"1TI.5.12\"><span class=\"label\">12</span><span class=\"content\">incurriendo </span><span class=\"it\"><span class=\"content\">as&#237;</span></span><span class=\"content\"> en condenaci&#243;n, por haber abandonado su promesa</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">5:12 </span><span class=\"ft\">Lit. <span class=\"it\">fe.</span></span></span></span><span class=\"content\"> anterior. </span></span><span class=\"verse v13\" data-usfm=\"1TI.5.13\"><span class=\"label\">13</span><span class=\"content\">Y adem&#225;s, aprenden </span><span class=\"it\"><span class=\"content\">a estar</span></span><span class=\"content\"> ociosas, yendo de casa en casa. Y no solo son ociosas, sino tambi&#233;n charlatanas y entremetidas, hablando de cosas que no </span><span class=\"it\"><span class=\"content\">son</span></span><span class=\"content\"> dignas. </span></span><span class=\"verse v14\" data-usfm=\"1TI.5.14\"><span class=\"label\">14</span><span class=\"content\">Por tanto, quiero que las </span><span class=\"it\"><span class=\"content\">viudas</span></span><span class=\"content\"> m&#225;s j&#243;venes se casen, que tengan hijos, que cuiden </span><span class=\"it\"><span class=\"content\">su</span></span><span class=\"content\"> casa </span><span class=\"it\"><span class=\"content\">y</span></span><span class=\"content\"> no den al adversario ocasi&#243;n de reproche. </span></span><span class=\"verse v15\" data-usfm=\"1TI.5.15\"><span class=\"label\">15</span><span class=\"content\">Pues algunas ya se han apartado para seguir a Satan&#225;s. </span></span><span class=\"verse v16\" data-usfm=\"1TI.5.16\"><span class=\"label\">16</span><span class=\"content\">Si alguna creyente tiene viudas </span><span class=\"it\"><span class=\"content\">en la familia</span></span><span class=\"content\">, que las mantenga, y que la iglesia no lleve la carga para que pueda ayudar a las que en verdad son viudas.</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Otras recomendaciones</span></span></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"1TI.5.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"1TI.5.17\"><span class=\"label\">17</span><span class=\"content\">Los ancianos que gobiernan bien sean considerados dignos de doble honor, principalmente los que trabajan en la predicaci&#243;n</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">5:17 </span><span class=\"ft\">Lit. <span class=\"it\">palabra.</span></span></span></span><span class=\"content\"> y en la ense&#241;anza. </span></span><span class=\"verse v18\" data-usfm=\"1TI.5.18\"><span class=\"label\">18</span><span class=\"content\">Porque la Escritura dice: &#171;N</span><span class=\"sc\"><span class=\"content\">o pondr&#225;s bozal al buey cuando trilla</span></span><span class=\"content\">&#187;, y: &#171;El obrero es digno de su salario&#187;. </span></span><span class=\"verse v19\" data-usfm=\"1TI.5.19\"><span class=\"label\">19</span><span class=\"content\">No admitas acusaci&#243;n contra un anciano, a menos de que haya</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">5:19 </span><span class=\"ft\">Lit. <span class=\"it\">sobre la base de.</span></span></span></span><span class=\"content\"> dos o tres testigos. </span></span><span class=\"verse v20\" data-usfm=\"1TI.5.20\"><span class=\"label\">20</span><span class=\"content\">A los que contin&#250;an en pecado, repr&#233;ndelos en presencia de todos para que los dem&#225;s tengan temor </span><span class=\"it\"><span class=\"content\">de pecar</span></span><span class=\"content\">.</span></span></div><div class=\"p\"><span class=\"verse v20\" data-usfm=\"1TI.5.20\"><span class=\"content\">  </span></span><span class=\"verse v21\" data-usfm=\"1TI.5.21\"><span class=\"label\">21</span><span class=\"content\">Te encargo solemnemente en la presencia de Dios y de Cristo Jes&#250;s y de </span><span class=\"it\"><span class=\"content\">Sus</span></span><span class=\"content\"> &#225;ngeles escogidos, que conserves estos </span><span class=\"it\"><span class=\"content\">principios</span></span><span class=\"content\"> sin prejuicios, no haciendo nada con </span><span class=\"it\"><span class=\"content\">esp&#237;ritu de</span></span><span class=\"content\"> parcialidad. </span></span><span class=\"verse v22\" data-usfm=\"1TI.5.22\"><span class=\"label\">22</span><span class=\"content\">No impongas las manos sobre nadie con ligereza, compartiendo</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">5:22 </span><span class=\"ft\">Lit. <span class=\"it\">no compartas.</span></span></span></span><span class=\"content\"> as&#237; </span><span class=\"it\"><span class=\"content\">la responsabilidad por</span></span><span class=\"content\"> los pecados de otros; gu&#225;rdate libre de pecado. </span></span><span class=\"verse v23\" data-usfm=\"1TI.5.23\"><span class=\"label\">23</span><span class=\"content\">Ya no bebas agua </span><span class=\"it\"><span class=\"content\">sola,</span></span><span class=\"content\"> sino usa un poco de vino por causa de tu est&#243;mago y de tus frecuentes enfermedades.</span></span></div><div class=\"p\"><span class=\"verse v23\" data-usfm=\"1TI.5.23\"><span class=\"content\">  </span></span><span class=\"verse v24\" data-usfm=\"1TI.5.24\"><span class=\"label\">24</span><span class=\"content\">Los pecados de algunos hombres ya son evidentes, yendo delante de ellos al juicio; pero a otros, </span><span class=\"it\"><span class=\"content\">sus pecados</span></span><span class=\"content\"> los siguen. </span></span><span class=\"verse v25\" data-usfm=\"1TI.5.25\"><span class=\"label\">25</span><span class=\"content\">De la misma manera, las buenas obras son evidentes, y las que no lo son no se pueden ocultar.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "No reprendas con dureza al anciano, sino, más bien, exhórtalo como a padre; a los más jóvenes, como a hermanos,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "a las ancianas, como a madres; a las más jóvenes, como a hermanas, con toda pureza."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Honra a las viudas que en verdad son viudas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Pero si alguna viuda tiene hijos o nietos, que aprendan estos primero a mostrar piedad para con su propia familia y a recompensar a sus padres, porque esto es agradable delante de Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Sin embargo la que en verdad es viuda y se ha quedado sola, tiene puesta su esperanza en Dios y continúa en súplicas y oraciones noche y día."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Pero la que se entrega a los placeres desenfrenados, aun viviendo, está muerta."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Ordena también estas cosas, para que sean irreprochables."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Pero si alguien no provee para los suyos, y especialmente para los de su casa, ha negado la fe y es peor que un incrédulo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Que la viuda sea puesta en la lista solo si no es menor de sesenta años, habiendo sido la esposa de un solo marido,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "que tenga testimonio de buenas obras; si ha criado hijos, si ha mostrado hospitalidad a extraños, si ha lavado los pies de los santos, si ha ayudado a los afligidos y si se ha consagrado a toda buena obra."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Pero rehúsa poner en la lista a viudas más jóvenes, porque cuando sienten deseos sensuales, contrarios a Cristo, se quieren casar,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "incurriendo así en condenación, por haber abandonado su promesa anterior."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Y además, aprenden a estar ociosas, yendo de casa en casa. Y no solo son ociosas, sino también charlatanas y entremetidas, hablando de cosas que no son dignas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Por tanto, quiero que las viudas más jóvenes se casen, que tengan hijos, que cuiden su casa y no den al adversario ocasión de reproche."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Pues algunas ya se han apartado para seguir a Satanás."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Si alguna creyente tiene viudas en la familia, que las mantenga, y que la iglesia no lleve la carga para que pueda ayudar a las que en verdad son viudas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Los ancianos que gobiernan bien sean considerados dignos de doble honor, principalmente los que trabajan en la predicación y en la enseñanza."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Porque la Escritura dice: «No pondrás bozal al buey cuando trilla», y: «El obrero es digno de su salario»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "No admitas acusación contra un anciano, a menos de que haya dos o tres testigos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "A los que continúan en pecado, repréndelos en presencia de todos para que los demás tengan temor de pecar."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "Te encargo solemnemente en la presencia de Dios y de Cristo Jesús y de Sus ángeles escogidos, que conserves estos principios sin prejuicios, no haciendo nada con espíritu de parcialidad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "No impongas las manos sobre nadie con ligereza, compartiendo así la responsabilidad por los pecados de otros; guárdate libre de pecado."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "Ya no bebas agua sola, sino usa un poco de vino por causa de tu estómago y de tus frecuentes enfermedades."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "Los pecados de algunos hombres ya son evidentes, yendo delante de ellos al juicio; pero a otros, sus pecados los siguen."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "De la misma manera, las buenas obras son evidentes, y las que no lo son no se pueden ocultar."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "1TI.6",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "1TI.6"
+        ],
+        "human": "1 Timoteo 6"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "2TI.1"
+        ],
+        "human": "2 Timoteo 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "1TI.5"
+        ],
+        "human": "1 Timoteo 5",
+        "toc": true
+      },
+      "chapter_text": "Todos los que están bajo yugo como esclavos, consideren a sus propios amos como dignos de todo honor, para que el nombre de Dios y nuestra doctrina no sean blasfemados. Y los que tienen amos que son creyentes, no les falten el respeto, porque son hermanos, sino sírvanles aún mejor, ya que son creyentes y amados los que se benefician de su servicio. Enseña y predica estos principios.\n\nSi alguien enseña una doctrina diferente y no se conforma a las sanas palabras, las de nuestro Señor Jesucristo, y a la doctrina que es conforme a la piedad, está envanecido y nada entiende, sino que tiene un interés corrompido en discusiones y contiendas de palabras, de las cuales nacen envidias, pleitos, blasfemias, malas sospechas, y constantes rencillas entre hombres de mente depravada, que están privados de la verdad, que suponen que la piedad es un medio de ganancia.\nPero la piedad, en efecto, es un medio de gran ganancia cuando va acompañada de contentamiento. Porque nada hemos traído al mundo, así que nada podemos sacar de él. Y si tenemos qué comer y con qué cubrirnos, con eso estaremos contentos. Pero los que quieren enriquecerse caen en tentación y lazo y en muchos deseos necios y dañosos que hunden a los hombres en la ruina y en la perdición. Porque la raíz de todos los males es el amor al dinero, por el cual, codiciándolo algunos, se extraviaron de la fe y se torturaron con muchos dolores.\n\nPero tú, oh hombre de Dios, huye de estas cosas, y sigue la justicia, la piedad, la fe, el amor, la perseverancia y la amabilidad. Pelea la buena batalla de la fe. Echa mano de la vida eterna a la cual fuiste llamado, y de la que hiciste buena profesión en presencia de muchos testigos. Te mando delante de Dios, que da vida a todas las cosas, y de Cristo Jesús, que dio testimonio de la buena profesión delante de Poncio Pilato, que guardes el mandamiento sin mancha ni reproche hasta la manifestación de nuestro Señor Jesucristo, la cual manifestará a su debido tiempo el bienaventurado y único Soberano, el Rey de reyes y Señor de señores; el único que tiene inmortalidad y habita en luz inaccesible, a quien ningún hombre ha visto ni puede ver. A Él sea la honra y el dominio eterno. Amén.\n\nA los ricos en este mundo, enséñales que no sean altaneros ni pongan su esperanza en la incertidumbre de las riquezas, sino en Dios, el cual nos da abundantemente todas las cosas para que las disfrutemos. Enséñales que hagan bien, que sean ricos en buenas obras, generosos y prontos a compartir, acumulando para sí el tesoro de un buen fundamento para el futuro, para que puedan echar mano de lo que en verdad es vida.\n\nTimoteo, guarda lo que se te ha encomendado, y evita las palabrerías vacías y profanas, y las objeciones de lo que falsamente se llama ciencia, la cual profesándola algunos, se han desviado de la fe.\nL a gracia sea con ustedes.",
+      "chapter_html": "<div class=\"version vid103 iso6393spa\" data-vid=\"103\" data-iso6393=\"spa\">\n   <div class=\"book bk1TI\">\n      <div class=\"chapter ch6\" data-usfm=\"1TI.6\">\n         <div class=\"label\">6</div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">C&#243;mo servir a los superiores</span></span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"1TI.6.1\"><span class=\"label\">1</span><span class=\"content\">Todos los que est&#225;n bajo yugo como esclavos, consideren a sus propios amos como dignos de todo honor, para que el nombre de Dios y </span><span class=\"it\"><span class=\"content\">nuestra</span></span><span class=\"content\"> doctrina no sean blasfemados. </span></span><span class=\"verse v2\" data-usfm=\"1TI.6.2\"><span class=\"label\">2</span><span class=\"content\">Y los que tienen amos </span><span class=\"it\"><span class=\"content\">que son</span></span><span class=\"content\"> creyentes, no les falten el respeto, porque son hermanos, sino s&#237;rvanles a&#250;n mejor, ya que son creyentes y amados los que se benefician de su servicio. Ense&#241;a y predica</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">6:2 </span><span class=\"ft\">Lit. <span class=\"it\">exhorta</span> o <span class=\"it\">insiste en.</span></span></span></span><span class=\"content\"> estos </span><span class=\"it\"><span class=\"content\">principios.</span></span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Las doctrinas falsas y el amor al dinero</span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"1TI.6.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"1TI.6.3\"><span class=\"label\">3</span><span class=\"content\">Si alguien ense&#241;a una doctrina diferente y no se conforma a</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">6:3 </span><span class=\"ft\">O <span class=\"it\">viene con;</span> lit. <span class=\"it\">viene a.</span></span></span></span><span class=\"content\"> las sanas palabras, las de nuestro Se&#241;or Jesucristo, y a la doctrina </span><span class=\"it\"><span class=\"content\">que es</span></span><span class=\"content\"> conforme a la piedad, </span></span><span class=\"verse v4\" data-usfm=\"1TI.6.4\"><span class=\"label\">4</span><span class=\"content\">est&#225; envanecido </span><span class=\"it\"><span class=\"content\">y</span></span><span class=\"content\"> nada entiende, sino que tiene un inter&#233;s corrompido</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">6:4 </span><span class=\"ft\">Lit. <span class=\"it\">est&#225; enfermo.</span></span></span></span><span class=\"content\"> en discusiones y contiendas de palabras, de las cuales nacen envidias, pleitos, blasfemias, malas sospechas, </span></span><span class=\"verse v5\" data-usfm=\"1TI.6.5\"><span class=\"label\">5</span><span class=\"content\">y constantes rencillas entre hombres de mente depravada, que est&#225;n privados de la verdad, que suponen que la piedad</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">6:5 </span><span class=\"ft\">O <span class=\"it\">la religi&#243;n.</span></span></span></span><span class=\"content\"> es un medio de ganancia</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">6:5 </span><span class=\"ft\">Algunos mss. posteriores agregan: <span class=\"it\">ap&#225;rtate de los tales.</span></span></span></span><span class=\"content\">.</span></span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"1TI.6.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"1TI.6.6\"><span class=\"label\">6</span><span class=\"content\">Pero la piedad, </span><span class=\"it\"><span class=\"content\">en efecto,</span></span><span class=\"content\"> es un medio de gran ganancia cuando </span><span class=\"it\"><span class=\"content\">va</span></span><span class=\"content\"> acompa&#241;ada de contentamiento. </span></span><span class=\"verse v7\" data-usfm=\"1TI.6.7\"><span class=\"label\">7</span><span class=\"content\">Porque nada hemos tra&#237;do al mundo, as&#237; que nada podemos sacar de &#233;l. </span></span><span class=\"verse v8\" data-usfm=\"1TI.6.8\"><span class=\"label\">8</span><span class=\"content\">Y si tenemos qu&#233; comer y con qu&#233; cubrirnos, con eso estaremos contentos. </span></span><span class=\"verse v9\" data-usfm=\"1TI.6.9\"><span class=\"label\">9</span><span class=\"content\">Pero los que quieren enriquecerse caen en tentaci&#243;n y lazo y en muchos deseos necios y da&#241;osos que hunden a los hombres en la ruina y en la perdici&#243;n</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">6:9 </span><span class=\"ft\">O <span class=\"it\">destrucci&#243;n.</span></span></span></span><span class=\"content\">. </span></span><span class=\"verse v10\" data-usfm=\"1TI.6.10\"><span class=\"label\">10</span><span class=\"content\">Porque la ra&#237;z de todos los males es el amor al dinero, por el cual, codici&#225;ndolo algunos, se extraviaron de la fe y se torturaron</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">6:10 </span><span class=\"ft\">Lit. <span class=\"it\">se traspasaron.</span></span></span></span><span class=\"content\"> con muchos dolores.</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Exhortaci&#243;n y doxolog&#237;a</span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"1TI.6.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"1TI.6.11\"><span class=\"label\">11</span><span class=\"content\">Pero t&#250;, oh hombre de Dios, huye de estas cosas, y sigue la justicia, la piedad, la fe, el amor, la perseverancia y la amabilidad. </span></span><span class=\"verse v12\" data-usfm=\"1TI.6.12\"><span class=\"label\">12</span><span class=\"content\">Pelea la buena batalla de la fe. Echa mano de la vida eterna a la cual fuiste llamado, y </span><span class=\"it\"><span class=\"content\">de la que</span></span><span class=\"content\"> hiciste buena profesi&#243;n en presencia de muchos testigos. </span></span><span class=\"verse v13\" data-usfm=\"1TI.6.13\"><span class=\"label\">13</span><span class=\"content\">Te mando delante de Dios, que da vida</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">6:13 </span><span class=\"ft\">O <span class=\"it\">conserva la vida.</span></span></span></span><span class=\"content\"> a todas las cosas, y de Cristo Jes&#250;s, que dio testimonio de la buena profesi&#243;n delante de Poncio Pilato, </span></span><span class=\"verse v14\" data-usfm=\"1TI.6.14\"><span class=\"label\">14</span><span class=\"content\">que guardes el mandamiento sin mancha ni reproche hasta la manifestaci&#243;n de nuestro Se&#241;or Jesucristo, </span></span><span class=\"verse v15\" data-usfm=\"1TI.6.15\"><span class=\"label\">15</span><span class=\"content\">la cual manifestar&#225; a su debido tiempo el bienaventurado y &#250;nico Soberano, el Rey de reyes</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">6:15 </span><span class=\"ft\">Lit. <span class=\"it\">de los que reinan.</span></span></span></span><span class=\"content\"> y Se&#241;or de se&#241;ores</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">6:15 </span><span class=\"ft\">Lit. <span class=\"it\">de los que se ense&#241;orean.</span></span></span></span><span class=\"content\">; </span></span><span class=\"verse v16\" data-usfm=\"1TI.6.16\"><span class=\"label\">16</span><span class=\"content\">el &#250;nico que tiene inmortalidad y habita en luz inaccesible, a quien ning&#250;n hombre ha visto ni puede ver. A &#201;l </span><span class=\"it\"><span class=\"content\">sea</span></span><span class=\"content\"> la honra y el dominio eterno. Am&#233;n.</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Instrucciones para los ricos</span></span></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"1TI.6.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"1TI.6.17\"><span class=\"label\">17</span><span class=\"content\">A los ricos en este mundo</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">6:17 </span><span class=\"ft\">O <span class=\"it\">siglo.</span></span></span></span><span class=\"content\">, ens&#233;&#241;ales que no sean altaneros ni pongan su esperanza en la incertidumbre de las riquezas, sino en Dios, el cual nos da abundantemente todas las cosas para que las disfrutemos. </span></span><span class=\"verse v18\" data-usfm=\"1TI.6.18\"><span class=\"label\">18</span><span class=\"it\"><span class=\"content\">Ens&#233;&#241;ales</span></span><span class=\"content\"> que hagan bien, que sean ricos en buenas obras, generosos y prontos a compartir, </span></span><span class=\"verse v19\" data-usfm=\"1TI.6.19\"><span class=\"label\">19</span><span class=\"content\">acumulando para s&#237; el tesoro de un buen fundamento para el futuro, para que puedan echar mano de lo que en verdad es vida.</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Exhortaci&#243;n final y bendici&#243;n</span></span></div><div class=\"p\"><span class=\"verse v19\" data-usfm=\"1TI.6.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"1TI.6.20\"><span class=\"label\">20</span><span class=\"content\">Timoteo, guarda lo que se te ha encomendado, y evita las palabrer&#237;as vac&#237;as </span><span class=\"it\"><span class=\"content\">y</span></span><span class=\"content\"> profanas, y las objeciones</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">6:20 </span><span class=\"ft\">O <span class=\"it\">contradicciones.</span></span></span></span><span class=\"content\"> de lo que falsamente se llama ciencia</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">6:20 </span><span class=\"ft\">O <span class=\"it\">erudici&#243;n,</span> o <span class=\"it\">sabidur&#237;a.</span></span></span></span><span class=\"content\">, </span></span><span class=\"verse v21\" data-usfm=\"1TI.6.21\"><span class=\"label\">21</span><span class=\"content\">la cual profes&#225;ndola algunos, se han desviado de</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">6:21 </span><span class=\"ft\">Lit. <span class=\"it\">acerca de.</span></span></span></span><span class=\"content\"> la fe.</span></span></div><div class=\"p\"><span class=\"verse v21\" data-usfm=\"1TI.6.21\"><span class=\"content\">  </span><span class=\"bd\"><span class=\"content\">L</span></span><span class=\"content\">a gracia sea con ustedes</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">6:21 </span><span class=\"ft\">Algunos mss. dicen: <span class=\"it\">contigo.</span></span></span></span><span class=\"content\">.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Todos los que están bajo yugo como esclavos, consideren a sus propios amos como dignos de todo honor, para que el nombre de Dios y nuestra doctrina no sean blasfemados."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Y los que tienen amos que son creyentes, no les falten el respeto, porque son hermanos, sino sírvanles aún mejor, ya que son creyentes y amados los que se benefician de su servicio. Enseña y predica estos principios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Si alguien enseña una doctrina diferente y no se conforma a las sanas palabras, las de nuestro Señor Jesucristo, y a la doctrina que es conforme a la piedad,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "está envanecido y nada entiende, sino que tiene un interés corrompido en discusiones y contiendas de palabras, de las cuales nacen envidias, pleitos, blasfemias, malas sospechas,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "y constantes rencillas entre hombres de mente depravada, que están privados de la verdad, que suponen que la piedad es un medio de ganancia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Pero la piedad, en efecto, es un medio de gran ganancia cuando va acompañada de contentamiento."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Porque nada hemos traído al mundo, así que nada podemos sacar de él."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Y si tenemos qué comer y con qué cubrirnos, con eso estaremos contentos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Pero los que quieren enriquecerse caen en tentación y lazo y en muchos deseos necios y dañosos que hunden a los hombres en la ruina y en la perdición."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Porque la raíz de todos los males es el amor al dinero, por el cual, codiciándolo algunos, se extraviaron de la fe y se torturaron con muchos dolores."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Pero tú, oh hombre de Dios, huye de estas cosas, y sigue la justicia, la piedad, la fe, el amor, la perseverancia y la amabilidad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Pelea la buena batalla de la fe. Echa mano de la vida eterna a la cual fuiste llamado, y de la que hiciste buena profesión en presencia de muchos testigos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Te mando delante de Dios, que da vida a todas las cosas, y de Cristo Jesús, que dio testimonio de la buena profesión delante de Poncio Pilato,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "que guardes el mandamiento sin mancha ni reproche hasta la manifestación de nuestro Señor Jesucristo,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "la cual manifestará a su debido tiempo el bienaventurado y único Soberano, el Rey de reyes y Señor de señores;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "el único que tiene inmortalidad y habita en luz inaccesible, a quien ningún hombre ha visto ni puede ver. A Él sea la honra y el dominio eterno. Amén."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "A los ricos en este mundo, enséñales que no sean altaneros ni pongan su esperanza en la incertidumbre de las riquezas, sino en Dios, el cual nos da abundantemente todas las cosas para que las disfrutemos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Enséñales que hagan bien, que sean ricos en buenas obras, generosos y prontos a compartir,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "acumulando para sí el tesoro de un buen fundamento para el futuro, para que puedan echar mano de lo que en verdad es vida."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Timoteo, guarda lo que se te ha encomendado, y evita las palabrerías vacías y profanas, y las objeciones de lo que falsamente se llama ciencia,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "la cual profesándola algunos, se han desviado de la fe.",
+            "La gracia sea con ustedes."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

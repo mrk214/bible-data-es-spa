@@ -1,0 +1,286 @@
+{
+  "book_usfm": "PHM",
+  "name": "Filemón",
+  "local_title": "Dios habla Hoy Estándar",
+  "local_abbreviation": "DHHS94",
+  "version_id": 1846,
+  "publisher": {
+    "name": "United Bible Societies"
+  },
+  "copyright": {
+    "html": "<p>Bible text: LA BIBLIA DIOS HABLA HOY, Tercera edición © Sociedades Bíblicas Unidas 1966, 1970, 1979, 1983, 1994, 1996</p> <p>Todos los derechos reservados. www.unitedbiblesocieties.org/</p>",
+    "text": "Bible text: LA BIBLIA DIOS HABLA HOY, Tercera edición © Sociedades Bíblicas Unidas 1966, 1970, 1979, 1983, 1994, 1996 Todos los derechos reservados. www.unitedbiblesocieties.org/"
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "PHM.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "PHM.1"
+        ],
+        "human": "Filemón 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "HEB.1"
+        ],
+        "human": "Hebreos 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "TIT.3"
+        ],
+        "human": "Tito 3",
+        "toc": true
+      },
+      "chapter_text": "Pablo, preso por causa de Cristo Jesús, y el hermano Timoteo saludan a Filemón, querido compañero de trabajo, y a la iglesia que se reúne en su casa, así como a la hermana Apia y a Arquipo, nuestro compañero en la lucha. Que Dios nuestro Padre y el Señor Jesucristo derramen su gracia y su paz sobre ustedes.\n\nSiempre doy gracias a mi Dios al acordarme de ti en mis oraciones, porque he tenido noticias del amor y la fe que tienes para con el Señor Jesús y para con todos los que pertenecen al pueblo santo. Y pido a Dios que tu participación en la misma fe te lleve a conocer todo el bien que podemos realizar por amor a Cristo. Estoy muy contento y animado por tu amor, ya que tú, hermano, has llenado de consuelo el corazón de los que pertenecen al pueblo santo.\n\nPor eso, aunque en nombre de Cristo tengo derecho a ordenarte lo que debes hacer, prefiero rogártelo en nombre del amor. Yo, Pablo, ya anciano, y ahora preso por causa de Cristo Jesús, te pido un favor para mi hijo Onésimo, de quien he llegado a ser padre según la fe aquí en la cárcel.\nEn otro tiempo, Onésimo fue para ti un esclavo inútil, pero ahora nos es útil tanto a ti como a mí. Te lo envío de nuevo: es el hijo de mis entrañas. Yo hubiera querido que se quedara aquí conmigo, para que me sirviera en tu lugar mientras estoy preso por causa del evangelio. Pero no quiero hacer nada que tú antes no hayas aprobado, para que el favor que me haces no sea por obligación sino por tu propia voluntad. Tal vez Onésimo se apartó de ti por algún tiempo para que ahora lo tengas para siempre, ya no como un esclavo, sino como algo mejor que un esclavo: como un hermano querido. Yo lo quiero mucho, pero tú debes quererlo todavía más, no solo humanamente sino también como hermano en el Señor.\nAsí pues, si me tienes por hermano en la fe, recíbelo como si se tratara de mí mismo. Si te ha hecho algún daño, o si te debe algo, cóbramelo a mí. Yo, Pablo, escribo esto con mi puño y letra: Yo lo pagaré. Por no decir que lo pongas a tu cuenta, ya que tú me debes tu propia persona. Sí, hermano, te pido este favor por amor al Señor; consuela mi corazón como hermano en Cristo.\nTe escribo porque estoy seguro de tu obediencia, y sé que harás más de lo que te pido. Además de esto, prepárame alojamiento; porque espero que, en respuesta a las oraciones de ustedes, Dios les concederá que yo vaya a verlos.\n\nSaludos de Epafras, mi compañero de cárcel por causa de Cristo Jesús, y también de Marcos, Aristarco, Demas y Lucas, que me ayudan en el trabajo.\nQue el Señor Jesucristo derrame su gracia sobre ustedes.",
+      "chapter_html": "<div class=\"version vid1846 iso6393spa\" data-vid=\"1846\" data-iso6393=\"spa\">\n   <div class=\"book bkPHM\">\n      <div class=\"chapter ch1\" data-usfm=\"PHM.1\">\n         <div class=\"label\">1</div><div class=\"s1\"><span class=\"heading\">Saludo</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"PHM.1.1\"><span class=\"label\">1</span><span class=\"content\">Pablo, preso por causa de Cristo Jes&#250;s, y el hermano Timoteo saludan a Filem&#243;n, querido compa&#241;ero de trabajo, </span></span><span class=\"verse v2\" data-usfm=\"PHM.1.2\"><span class=\"label\">2</span><span class=\"content\">y a la iglesia que se re&#250;ne en su casa, as&#237; como a la hermana Apia y a Arquipo, nuestro compa&#241;ero en la lucha. </span></span><span class=\"verse v3\" data-usfm=\"PHM.1.3\"><span class=\"label\">3</span><span class=\"content\">Que Dios nuestro Padre y el Se&#241;or Jesucristo derramen su gracia y su paz sobre ustedes.</span></span></div><div class=\"s1\"><span class=\"heading\">Acci&#243;n de gracias y petici&#243;n</span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"PHM.1.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"PHM.1.4\"><span class=\"label\">4</span><span class=\"content\">Siempre doy gracias a mi Dios al acordarme de ti en mis oraciones, </span></span><span class=\"verse v5\" data-usfm=\"PHM.1.5\"><span class=\"label\">5</span><span class=\"content\">porque he tenido noticias del amor y la fe que tienes para con el Se&#241;or Jes&#250;s y para con todos los que pertenecen al pueblo santo. </span></span><span class=\"verse v6\" data-usfm=\"PHM.1.6\"><span class=\"label\">6</span><span class=\"content\">Y pido a Dios que tu participaci&#243;n en la misma fe te lleve a conocer todo el bien que podemos realizar por amor a Cristo. </span></span><span class=\"verse v7\" data-usfm=\"PHM.1.7\"><span class=\"label\">7</span><span class=\"content\">Estoy muy contento y animado por tu amor, ya que t&#250;, hermano, has llenado de consuelo el coraz&#243;n de los que pertenecen al pueblo santo.</span></span></div><div class=\"s1\"><span class=\"heading\">Intervenci&#243;n a favor de On&#233;simo</span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"PHM.1.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"PHM.1.8\"><span class=\"label\">8</span><span class=\"content\">Por eso, aunque en nombre de Cristo tengo derecho a ordenarte lo que debes hacer, </span></span><span class=\"verse v9\" data-usfm=\"PHM.1.9\"><span class=\"label\">9</span><span class=\"content\">prefiero rog&#225;rtelo en nombre del amor. Yo, Pablo, ya anciano, y ahora preso por causa de Cristo Jes&#250;s, </span></span><span class=\"verse v10\" data-usfm=\"PHM.1.10\"><span class=\"label\">10</span><span class=\"content\">te pido un favor para mi hijo On&#233;simo, de quien he llegado a ser padre seg&#250;n la fe aqu&#237; en la c&#225;rcel.</span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"PHM.1.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"PHM.1.11\"><span class=\"label\">11</span><span class=\"content\">En otro tiempo, On&#233;simo fue para ti un esclavo in&#250;til, pero ahora nos es &#250;til tanto a ti como a m&#237;. </span></span><span class=\"verse v12\" data-usfm=\"PHM.1.12\"><span class=\"label\">12</span><span class=\"content\">Te lo env&#237;o de nuevo: es el hijo de mis entra&#241;as. </span></span><span class=\"verse v13\" data-usfm=\"PHM.1.13\"><span class=\"label\">13</span><span class=\"content\">Yo hubiera querido que se quedara aqu&#237; conmigo, para que me sirviera en tu lugar mientras estoy preso por causa del evangelio. </span></span><span class=\"verse v14\" data-usfm=\"PHM.1.14\"><span class=\"label\">14</span><span class=\"content\">Pero no quiero hacer nada que t&#250; antes no hayas aprobado, para que el favor que me haces no sea por obligaci&#243;n sino por tu propia voluntad. </span></span><span class=\"verse v15\" data-usfm=\"PHM.1.15\"><span class=\"label\">15</span><span class=\"content\">Tal vez On&#233;simo se apart&#243; de ti por alg&#250;n tiempo para que ahora lo tengas para siempre, </span></span><span class=\"verse v16\" data-usfm=\"PHM.1.16\"><span class=\"label\">16</span><span class=\"content\">ya no como un esclavo, sino como algo mejor que un esclavo: como un hermano querido. Yo lo quiero mucho, pero t&#250; debes quererlo todav&#237;a m&#225;s, no solo humanamente sino tambi&#233;n como hermano en el Se&#241;or.</span></span></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"PHM.1.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"PHM.1.17\"><span class=\"label\">17</span><span class=\"content\">As&#237; pues, si me tienes por hermano en la fe, rec&#237;belo como si se tratara de m&#237; mismo. </span></span><span class=\"verse v18\" data-usfm=\"PHM.1.18\"><span class=\"label\">18</span><span class=\"content\">Si te ha hecho alg&#250;n da&#241;o, o si te debe algo, c&#243;bramelo a m&#237;. </span></span><span class=\"verse v19\" data-usfm=\"PHM.1.19\"><span class=\"label\">19</span><span class=\"content\">Yo, Pablo, escribo esto con mi pu&#241;o y letra: Yo lo pagar&#233;. Por no decir que lo pongas a tu cuenta, ya que t&#250; me debes tu propia persona. </span></span><span class=\"verse v20\" data-usfm=\"PHM.1.20\"><span class=\"label\">20</span><span class=\"content\">S&#237;, hermano, te pido este favor por amor al Se&#241;or; consuela mi coraz&#243;n como hermano en Cristo.</span></span></div><div class=\"p\"><span class=\"verse v20\" data-usfm=\"PHM.1.20\"><span class=\"content\">  </span></span><span class=\"verse v21\" data-usfm=\"PHM.1.21\"><span class=\"label\">21</span><span class=\"content\">Te escribo porque estoy seguro de tu obediencia, y s&#233; que har&#225;s m&#225;s de lo que te pido. </span></span><span class=\"verse v22\" data-usfm=\"PHM.1.22\"><span class=\"label\">22</span><span class=\"content\">Adem&#225;s de esto, prep&#225;rame alojamiento; porque espero que, en respuesta a las oraciones de ustedes, Dios les conceder&#225; que yo vaya a verlos.</span></span></div><div class=\"s1\"><span class=\"heading\">Despedida</span></div><div class=\"p\"><span class=\"verse v22\" data-usfm=\"PHM.1.22\"><span class=\"content\">  </span></span><span class=\"verse v23\" data-usfm=\"PHM.1.23\"><span class=\"label\">23</span><span class=\"content\">Saludos de Epafras, mi compa&#241;ero de c&#225;rcel por causa de Cristo Jes&#250;s, </span></span><span class=\"verse v24\" data-usfm=\"PHM.1.24\"><span class=\"label\">24</span><span class=\"content\">y tambi&#233;n de Marcos, Aristarco, Demas y Lucas, que me ayudan en el trabajo. </span></span></div><div class=\"p\"><span class=\"verse v24\" data-usfm=\"PHM.1.24\"><span class=\"content\">  </span></span><span class=\"verse v25\" data-usfm=\"PHM.1.25\"><span class=\"label\">25</span><span class=\"content\">Que el Se&#241;or Jesucristo derrame su gracia sobre ustedes.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Saludo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Pablo, preso por causa de Cristo Jesús, y el hermano Timoteo saludan a Filemón, querido compañero de trabajo,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "y a la iglesia que se reúne en su casa, así como a la hermana Apia y a Arquipo, nuestro compañero en la lucha."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Que Dios nuestro Padre y el Señor Jesucristo derramen su gracia y su paz sobre ustedes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Acción de gracias y petición"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Siempre doy gracias a mi Dios al acordarme de ti en mis oraciones,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "porque he tenido noticias del amor y la fe que tienes para con el Señor Jesús y para con todos los que pertenecen al pueblo santo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Y pido a Dios que tu participación en la misma fe te lleve a conocer todo el bien que podemos realizar por amor a Cristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Estoy muy contento y animado por tu amor, ya que tú, hermano, has llenado de consuelo el corazón de los que pertenecen al pueblo santo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Intervención a favor de Onésimo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Por eso, aunque en nombre de Cristo tengo derecho a ordenarte lo que debes hacer,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "prefiero rogártelo en nombre del amor. Yo, Pablo, ya anciano, y ahora preso por causa de Cristo Jesús,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "te pido un favor para mi hijo Onésimo, de quien he llegado a ser padre según la fe aquí en la cárcel."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "En otro tiempo, Onésimo fue para ti un esclavo inútil, pero ahora nos es útil tanto a ti como a mí."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Te lo envío de nuevo: es el hijo de mis entrañas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Yo hubiera querido que se quedara aquí conmigo, para que me sirviera en tu lugar mientras estoy preso por causa del evangelio."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Pero no quiero hacer nada que tú antes no hayas aprobado, para que el favor que me haces no sea por obligación sino por tu propia voluntad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Tal vez Onésimo se apartó de ti por algún tiempo para que ahora lo tengas para siempre,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "ya no como un esclavo, sino como algo mejor que un esclavo: como un hermano querido. Yo lo quiero mucho, pero tú debes quererlo todavía más, no solo humanamente sino también como hermano en el Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Así pues, si me tienes por hermano en la fe, recíbelo como si se tratara de mí mismo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Si te ha hecho algún daño, o si te debe algo, cóbramelo a mí."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Yo, Pablo, escribo esto con mi puño y letra: Yo lo pagaré. Por no decir que lo pongas a tu cuenta, ya que tú me debes tu propia persona."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Sí, hermano, te pido este favor por amor al Señor; consuela mi corazón como hermano en Cristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "Te escribo porque estoy seguro de tu obediencia, y sé que harás más de lo que te pido."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "Además de esto, prepárame alojamiento; porque espero que, en respuesta a las oraciones de ustedes, Dios les concederá que yo vaya a verlos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Despedida"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "Saludos de Epafras, mi compañero de cárcel por causa de Cristo Jesús,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "y también de Marcos, Aristarco, Demas y Lucas, que me ayudan en el trabajo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "Que el Señor Jesucristo derrame su gracia sobre ustedes."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

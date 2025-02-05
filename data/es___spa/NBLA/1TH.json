@@ -1,0 +1,886 @@
+{
+  "book_usfm": "1TH",
+  "name": "1 Tesalonicenses",
+  "local_title": "Nueva Biblia de las Américas",
+  "local_abbreviation": "NBLA",
+  "version_id": 103,
+  "publisher": {
+    "name": "The Lockman Foundation"
+  },
+  "copyright": {
+    "html": "1986, 1995, 1997, 2005 by The Lockman Foundation",
+    "text": "1986, 1995, 1997, 2005 by The Lockman Foundation"
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "1TH.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "1TH.1"
+        ],
+        "human": "1 Tesalonicenses 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "1TH.2"
+        ],
+        "human": "1 Tesalonicenses 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "COL.4"
+        ],
+        "human": "Colosenses 4",
+        "toc": true
+      },
+      "chapter_text": "Pablo, Silvano y Timoteo, a la iglesia de los tesalonicenses en Dios Padre y en el Señor Jesucristo: Gracia a ustedes y paz.\n\nSiempre damos gracias a Dios por todos ustedes, mencionándolos en nuestras oraciones, teniendo presente sin cesar delante de nuestro Dios y Padre su obra de fe, su trabajo de amor y la firmeza de su esperanza en nuestro Señor Jesucristo.\nSabemos, hermanos amados de Dios, de la elección de ustedes, porque nuestro evangelio no vino a ustedes solamente en palabras, sino también en poder y en el Espíritu Santo y con plena convicción; como saben qué clase de personas demostramos ser entre ustedes por el amor que les tenemos.\nY ustedes llegaron a ser imitadores de nosotros y del Señor, habiendo recibido la palabra, en medio de mucha tribulación, con el gozo del Espíritu Santo, de tal manera que llegaron a ser un ejemplo para todos los creyentes en Macedonia y en Acaya. Porque saliendo de ustedes, la palabra del Señor se ha escuchado, no solo en Macedonia y Acaya, sino que también por todas partes la fe de ustedes en Dios se ha divulgado, de modo que nosotros no tenemos necesidad de decir nada.\nPues ellos mismos cuentan acerca de nosotros, de la acogida que tuvimos por parte de ustedes, y de cómo se convirtieron de los ídolos a Dios para servir al Dios vivo y verdadero, y esperar de los cielos a Su Hijo, al cual resucitó de entre los muertos, es decir, a Jesús, quien nos libra de la ira venidera.",
+      "chapter_html": "<div class=\"version vid103 iso6393spa\" data-vid=\"103\" data-iso6393=\"spa\">\n   <div class=\"book bk1TH\">\n      <div class=\"chapter ch1\" data-usfm=\"1TH.1\">\n         <div class=\"label\">1</div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Saludo</span></span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"1TH.1.1\"><span class=\"label\">1</span><span class=\"content\">Pablo, Silvano y Timoteo, a la iglesia de los tesalonicenses en Dios Padre y en el Se&#241;or Jesucristo: Gracia a ustedes y paz.</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Fe y ejemplo de los tesalonicenses</span></span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"1TH.1.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"1TH.1.2\"><span class=\"label\">2</span><span class=\"content\">Siempre damos gracias a Dios por todos ustedes, mencion&#225;ndolos en nuestras oraciones, </span></span><span class=\"verse v3\" data-usfm=\"1TH.1.3\"><span class=\"label\">3</span><span class=\"content\">teniendo presente sin cesar delante de nuestro Dios y Padre su obra de fe, su trabajo de amor y la firmeza de su esperanza en</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:3 </span><span class=\"ft\">Lit. <span class=\"it\">de.</span></span></span></span><span class=\"content\"> nuestro Se&#241;or Jesucristo.</span></span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"1TH.1.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"1TH.1.4\"><span class=\"label\">4</span><span class=\"content\">Sabemos, hermanos amados de Dios, de la elecci&#243;n de ustedes, </span></span><span class=\"verse v5\" data-usfm=\"1TH.1.5\"><span class=\"label\">5</span><span class=\"content\">porque nuestro evangelio no vino a ustedes solamente en palabras, sino tambi&#233;n en poder y en el Esp&#237;ritu Santo y con plena convicci&#243;n</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:5 </span><span class=\"ft\">O <span class=\"it\">certidumbre</span>, o, <span class=\"it\">seguridad.</span></span></span></span><span class=\"content\">; como saben qu&#233; clase de personas</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:5 </span><span class=\"ft\">U <span class=\"it\">hombres.</span></span></span></span><span class=\"content\"> demostramos ser</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:5 </span><span class=\"ft\">Lit. <span class=\"it\">llegamos a ser.</span></span></span></span><span class=\"content\"> entre ustedes por el amor que les tenemos.</span></span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"1TH.1.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"1TH.1.6\"><span class=\"label\">6</span><span class=\"content\">Y ustedes llegaron a ser imitadores de nosotros y del Se&#241;or, habiendo recibido la palabra, en medio de mucha tribulaci&#243;n, con el gozo del Esp&#237;ritu Santo, </span></span><span class=\"verse v7\" data-usfm=\"1TH.1.7\"><span class=\"label\">7</span><span class=\"content\">de tal manera que llegaron a ser un ejemplo para todos los creyentes en Macedonia y en Acaya. </span></span><span class=\"verse v8\" data-usfm=\"1TH.1.8\"><span class=\"label\">8</span><span class=\"content\">Porque </span><span class=\"it\"><span class=\"content\">saliendo</span></span><span class=\"content\"> de ustedes, la palabra del Se&#241;or se ha escuchado, no solo en Macedonia y Acaya, sino que tambi&#233;n por todas partes la fe de ustedes en</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:8 </span><span class=\"ft\">Lit. <span class=\"it\">hacia.</span></span></span></span><span class=\"content\"> Dios se ha divulgado, de modo que nosotros no tenemos necesidad de decir nada.</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"1TH.1.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"1TH.1.9\"><span class=\"label\">9</span><span class=\"content\">Pues ellos mismos cuentan acerca de nosotros, de la acogida</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:9 </span><span class=\"ft\">Lit. <span class=\"it\">entrada.</span></span></span></span><span class=\"content\"> que tuvimos por parte de</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:9 </span><span class=\"ft\">Lit. <span class=\"it\">hacia.</span></span></span></span><span class=\"content\"> ustedes, y de c&#243;mo se convirtieron de los &#237;dolos a Dios para servir al Dios vivo y verdadero, </span></span><span class=\"verse v10\" data-usfm=\"1TH.1.10\"><span class=\"label\">10</span><span class=\"content\">y esperar de los cielos a Su Hijo, al cual resucit&#243; de entre los muertos, </span><span class=\"it\"><span class=\"content\">es decir,</span></span><span class=\"content\"> a Jes&#250;s, quien nos libra de la ira venidera.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Pablo, Silvano y Timoteo, a la iglesia de los tesalonicenses en Dios Padre y en el Señor Jesucristo: Gracia a ustedes y paz."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Siempre damos gracias a Dios por todos ustedes, mencionándolos en nuestras oraciones,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "teniendo presente sin cesar delante de nuestro Dios y Padre su obra de fe, su trabajo de amor y la firmeza de su esperanza en nuestro Señor Jesucristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Sabemos, hermanos amados de Dios, de la elección de ustedes,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "porque nuestro evangelio no vino a ustedes solamente en palabras, sino también en poder y en el Espíritu Santo y con plena convicción; como saben qué clase de personas demostramos ser entre ustedes por el amor que les tenemos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Y ustedes llegaron a ser imitadores de nosotros y del Señor, habiendo recibido la palabra, en medio de mucha tribulación, con el gozo del Espíritu Santo,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "de tal manera que llegaron a ser un ejemplo para todos los creyentes en Macedonia y en Acaya."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Porque saliendo de ustedes, la palabra del Señor se ha escuchado, no solo en Macedonia y Acaya, sino que también por todas partes la fe de ustedes en Dios se ha divulgado, de modo que nosotros no tenemos necesidad de decir nada."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Pues ellos mismos cuentan acerca de nosotros, de la acogida que tuvimos por parte de ustedes, y de cómo se convirtieron de los ídolos a Dios para servir al Dios vivo y verdadero,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "y esperar de los cielos a Su Hijo, al cual resucitó de entre los muertos, es decir, a Jesús, quien nos libra de la ira venidera."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "1TH.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "1TH.2"
+        ],
+        "human": "1 Tesalonicenses 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "1TH.3"
+        ],
+        "human": "1 Tesalonicenses 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "1TH.1"
+        ],
+        "human": "1 Tesalonicenses 1",
+        "toc": true
+      },
+      "chapter_text": "Porque ustedes mismos saben, hermanos, que nuestra visita a ustedes no fue en vano, sino que después de haber sufrido y sido maltratados en Filipos, como saben, tuvimos el valor, confiados en nuestro Dios, de hablarles el evangelio de Dios en medio de mucha oposición. Pues nuestra exhortación no procede de error ni de impureza ni es con engaño, sino que así como hemos sido aprobados por Dios para que se nos confiara el evangelio, así hablamos, no como agradando a los hombres, sino a Dios que examina nuestros corazones. Porque como saben, nunca fuimos a ustedes con palabras lisonjeras, ni con pretexto para sacar provecho. Dios es testigo. Tampoco buscamos gloria de los hombres, ni de ustedes ni de otros, aunque como apóstoles de Cristo hubiéramos podido imponer nuestra autoridad.\nMás bien demostramos ser benignos entre ustedes, como una madre que cría con ternura a sus propios hijos. Teniendo así un gran afecto por ustedes, nos hemos complacido en impartirles no solo el evangelio de Dios, sino también nuestras propias vidas, pues llegaron a ser muy amados para nosotros. Porque recuerdan, hermanos, nuestros trabajos y fatigas, cómo, trabajando de día y de noche para no ser carga a ninguno de ustedes, les proclamamos el evangelio de Dios.\nUstedes son testigos, y también Dios, de cuán santa, justa e irreprensiblemente nos comportamos con ustedes los creyentes. Saben además de qué manera los exhortábamos, alentábamos e implorábamos a cada uno de ustedes, como un padre lo haría con sus propios hijos, para que anduvieran como es digno del Dios que los ha llamado a Su reino y a Su gloria.\n\nPor esto también nosotros sin cesar damos gracias a Dios de que cuando recibieron la palabra de Dios que oyeron de nosotros, la aceptaron no como la palabra de hombres, sino como lo que realmente es, la palabra de Dios, la cual también hace su obra en ustedes los que creen. Pues ustedes, hermanos, llegaron a ser imitadores de las iglesias de Dios en Cristo Jesús que están en Judea, porque también ustedes padecieron los mismos sufrimientos a manos de sus propios compatriotas, tal como ellos padecieron a manos de los judíos.\nEstos mataron tanto al Señor Jesús como a los profetas, y a nosotros nos expulsaron, y no agradan a Dios sino que son contrarios a todos los hombres, impidiéndonos hablar a los gentiles para que se salven, con el resultado de que siempre llenan la medida de sus pecados. Pero la ira de Dios ha venido sobre ellos hasta el extremo.\nPero nosotros, hermanos, separados de ustedes por breve tiempo, en persona pero no en espíritu, estábamos muy ansiosos, con profundo deseo de ir a verlos. Ya que queríamos ir a ustedes, al menos yo, Pablo, más de una vez; pero Satanás nos lo ha impedido. Porque ¿quién es nuestra esperanza o gozo o corona de gloria? ¿No lo son ustedes en la presencia de nuestro Señor Jesús en Su venida? Pues ustedes son nuestra gloria y nuestro gozo.",
+      "chapter_html": "<div class=\"version vid103 iso6393spa\" data-vid=\"103\" data-iso6393=\"spa\">\n   <div class=\"book bk1TH\">\n      <div class=\"chapter ch2\" data-usfm=\"1TH.2\">\n         <div class=\"label\">2</div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Comportamiento de Pablo como ministro de Jesucristo</span></span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"1TH.2.1\"><span class=\"label\">1</span><span class=\"content\">Porque ustedes mismos saben, hermanos, que nuestra visita</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:1 </span><span class=\"ft\">Lit. <span class=\"it\">entrada.</span></span></span></span><span class=\"content\"> a ustedes no fue en vano, </span></span><span class=\"verse v2\" data-usfm=\"1TH.2.2\"><span class=\"label\">2</span><span class=\"content\">sino que despu&#233;s de haber sufrido y sido maltratados en Filipos, como saben, tuvimos el valor, </span><span class=\"it\"><span class=\"content\">confiados</span></span><span class=\"content\"> en nuestro Dios, de hablarles el evangelio de Dios en medio de mucha oposici&#243;n. </span></span><span class=\"verse v3\" data-usfm=\"1TH.2.3\"><span class=\"label\">3</span><span class=\"content\">Pues nuestra exhortaci&#243;n no </span><span class=\"it\"><span class=\"content\">procede</span></span><span class=\"content\"> de error ni de impureza ni </span><span class=\"it\"><span class=\"content\">es</span></span><span class=\"content\"> con enga&#241;o, </span></span><span class=\"verse v4\" data-usfm=\"1TH.2.4\"><span class=\"label\">4</span><span class=\"content\">sino que as&#237; como hemos sido aprobados por Dios para que se nos confiara el evangelio, as&#237; hablamos, no como agradando a los hombres, sino a Dios que examina</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:4 </span><span class=\"ft\">O <span class=\"it\">aprueba.</span></span></span></span><span class=\"content\"> nuestros corazones. </span></span><span class=\"verse v5\" data-usfm=\"1TH.2.5\"><span class=\"label\">5</span><span class=\"content\">Porque como saben, nunca fuimos</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:5 </span><span class=\"ft\">Lit. <span class=\"it\">nos presentamos.</span></span></span></span><span class=\"content\"> a </span><span class=\"it\"><span class=\"content\">ustedes</span></span><span class=\"content\"> con palabras lisonjeras, ni con pretexto para sacar provecho. Dios es testigo. </span></span><span class=\"verse v6\" data-usfm=\"1TH.2.6\"><span class=\"label\">6</span><span class=\"content\">Tampoco buscamos gloria de los hombres, ni de ustedes ni de otros, aunque como ap&#243;stoles de Cristo hubi&#233;ramos podido imponer nuestra autoridad</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:6 </span><span class=\"ft\">O <span class=\"it\">ser carga.</span></span></span></span><span class=\"content\">.</span></span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"1TH.2.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"1TH.2.7\"><span class=\"label\">7</span><span class=\"content\">M&#225;s bien demostramos ser</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:7 </span><span class=\"ft\">Lit. <span class=\"it\">nos hicimos.</span></span></span></span><span class=\"content\"> benignos</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:7 </span><span class=\"ft\">Algunos mss. antiguos dicen: <span class=\"it\">ni&#241;os.</span></span></span></span><span class=\"content\"> entre</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:7 </span><span class=\"ft\">Lit. <span class=\"it\">en medio de.</span></span></span></span><span class=\"content\"> ustedes, como una madre que cr&#237;a con ternura a sus propios hijos. </span></span><span class=\"verse v8\" data-usfm=\"1TH.2.8\"><span class=\"label\">8</span><span class=\"content\">Teniendo as&#237; un gran afecto por ustedes, nos hemos complacido en impartirles no solo el evangelio de Dios, sino tambi&#233;n nuestras propias vidas</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:8 </span><span class=\"ft\">O <span class=\"it\">almas.</span></span></span></span><span class=\"content\">, pues llegaron a ser muy amados para nosotros. </span></span><span class=\"verse v9\" data-usfm=\"1TH.2.9\"><span class=\"label\">9</span><span class=\"content\">Porque recuerdan, hermanos, nuestros trabajos y fatigas, </span><span class=\"it\"><span class=\"content\">c&#243;mo,</span></span><span class=\"content\"> trabajando de d&#237;a y de noche para no ser carga a ninguno de ustedes, les proclamamos el evangelio de Dios.</span></span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"1TH.2.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"1TH.2.10\"><span class=\"label\">10</span><span class=\"content\">Ustedes son testigos, y </span><span class=\"it\"><span class=\"content\">tambi&#233;n</span></span><span class=\"content\"> Dios, de cu&#225;n santa, justa e irreprensiblemente nos comportamos</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:10 </span><span class=\"ft\">Lit. <span class=\"it\">nos hicimos.</span></span></span></span><span class=\"content\"> con ustedes los creyentes. </span></span><span class=\"verse v11\" data-usfm=\"1TH.2.11\"><span class=\"label\">11</span><span class=\"content\">Saben adem&#225;s de qu&#233; manera los exhort&#225;bamos, alent&#225;bamos e implor&#225;bamos</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:11 </span><span class=\"ft\">O <span class=\"it\">testific&#225;bamos.</span></span></span></span><span class=\"content\"> a cada uno de ustedes, como un padre </span><span class=\"it\"><span class=\"content\">lo har&#237;a</span></span><span class=\"content\"> con sus propios hijos, </span></span><span class=\"verse v12\" data-usfm=\"1TH.2.12\"><span class=\"label\">12</span><span class=\"content\">para que anduvieran como es digno del Dios que los ha llamado</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:12 </span><span class=\"ft\">O <span class=\"it\">llama.</span></span></span></span><span class=\"content\"> a Su reino y a Su gloria.</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Pablo da gracias por los tesalonicenses</span></span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"1TH.2.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"1TH.2.13\"><span class=\"label\">13</span><span class=\"content\">Por esto tambi&#233;n nosotros sin cesar damos gracias a Dios de que cuando recibieron la palabra de Dios que oyeron de nosotros, </span><span class=\"it\"><span class=\"content\">la</span></span><span class=\"content\"> aceptaron no </span><span class=\"it\"><span class=\"content\">como</span></span><span class=\"content\"> la palabra de hombres, sino como lo que realmente es, la palabra de Dios, la cual tambi&#233;n hace su obra en ustedes los que creen. </span></span><span class=\"verse v14\" data-usfm=\"1TH.2.14\"><span class=\"label\">14</span><span class=\"content\">Pues ustedes, hermanos, llegaron a ser imitadores de las iglesias de Dios en Cristo Jes&#250;s que est&#225;n en Judea, porque tambi&#233;n ustedes padecieron los mismos sufrimientos a manos de sus propios compatriotas, tal como ellos </span><span class=\"it\"><span class=\"content\">padecieron</span></span><span class=\"content\"> a manos de los jud&#237;os.</span></span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"1TH.2.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"1TH.2.15\"><span class=\"label\">15</span><span class=\"content\">Estos mataron tanto al Se&#241;or Jes&#250;s como a los profetas, y a nosotros nos expulsaron</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:15 </span><span class=\"ft\">O <span class=\"it\">nos persiguieron.</span></span></span></span><span class=\"content\">, y no agradan a Dios sino que</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:15 </span><span class=\"ft\">Lit. <span class=\"it\">y.</span></span></span></span><span class=\"content\"> son contrarios a todos los hombres, </span></span><span class=\"verse v16\" data-usfm=\"1TH.2.16\"><span class=\"label\">16</span><span class=\"content\">impidi&#233;ndonos hablar a los gentiles para que se salven, con el resultado de que siempre llenan la medida de sus pecados. Pero la ira de Dios ha venido sobre ellos hasta el extremo.</span></span></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"1TH.2.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"1TH.2.17\"><span class=\"label\">17</span><span class=\"content\">Pero nosotros, hermanos, separados de ustedes por breve tiempo</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:17 </span><span class=\"ft\">Lit. <span class=\"it\">por espacio de una hora.</span></span></span></span><span class=\"content\">, en persona</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:17 </span><span class=\"ft\">Lit. <span class=\"it\">rostro.</span></span></span></span><span class=\"content\"> pero no en esp&#237;ritu</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:17 </span><span class=\"ft\">Lit. <span class=\"it\">coraz&#243;n.</span></span></span></span><span class=\"content\">, est&#225;bamos muy ansiosos, con profundo deseo de ir a verlos. </span></span><span class=\"verse v18\" data-usfm=\"1TH.2.18\"><span class=\"label\">18</span><span class=\"content\">Ya que quer&#237;amos ir a ustedes, al menos yo, Pablo, m&#225;s de una vez</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:18 </span><span class=\"ft\">Lit. <span class=\"it\">tanto una vez como dos.</span></span></span></span><span class=\"content\">; pero Satan&#225;s nos lo ha impedido. </span></span><span class=\"verse v19\" data-usfm=\"1TH.2.19\"><span class=\"label\">19</span><span class=\"content\">Porque &#191;qui&#233;n es nuestra esperanza o gozo o corona de gloria? &#191;No lo son ustedes en la presencia de nuestro Se&#241;or Jes&#250;s en Su venida</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:19 </span><span class=\"ft\">O <span class=\"it\">presencia.</span></span></span></span><span class=\"content\">? </span></span><span class=\"verse v20\" data-usfm=\"1TH.2.20\"><span class=\"label\">20</span><span class=\"content\">Pues ustedes son nuestra gloria y nuestro gozo.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Porque ustedes mismos saben, hermanos, que nuestra visita a ustedes no fue en vano,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "sino que después de haber sufrido y sido maltratados en Filipos, como saben, tuvimos el valor, confiados en nuestro Dios, de hablarles el evangelio de Dios en medio de mucha oposición."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Pues nuestra exhortación no procede de error ni de impureza ni es con engaño,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "sino que así como hemos sido aprobados por Dios para que se nos confiara el evangelio, así hablamos, no como agradando a los hombres, sino a Dios que examina nuestros corazones."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Porque como saben, nunca fuimos a ustedes con palabras lisonjeras, ni con pretexto para sacar provecho. Dios es testigo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Tampoco buscamos gloria de los hombres, ni de ustedes ni de otros, aunque como apóstoles de Cristo hubiéramos podido imponer nuestra autoridad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Más bien demostramos ser benignos entre ustedes, como una madre que cría con ternura a sus propios hijos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Teniendo así un gran afecto por ustedes, nos hemos complacido en impartirles no solo el evangelio de Dios, sino también nuestras propias vidas, pues llegaron a ser muy amados para nosotros."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Porque recuerdan, hermanos, nuestros trabajos y fatigas, cómo, trabajando de día y de noche para no ser carga a ninguno de ustedes, les proclamamos el evangelio de Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Ustedes son testigos, y también Dios, de cuán santa, justa e irreprensiblemente nos comportamos con ustedes los creyentes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Saben además de qué manera los exhortábamos, alentábamos e implorábamos a cada uno de ustedes, como un padre lo haría con sus propios hijos,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "para que anduvieran como es digno del Dios que los ha llamado a Su reino y a Su gloria."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Por esto también nosotros sin cesar damos gracias a Dios de que cuando recibieron la palabra de Dios que oyeron de nosotros, la aceptaron no como la palabra de hombres, sino como lo que realmente es, la palabra de Dios, la cual también hace su obra en ustedes los que creen."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Pues ustedes, hermanos, llegaron a ser imitadores de las iglesias de Dios en Cristo Jesús que están en Judea, porque también ustedes padecieron los mismos sufrimientos a manos de sus propios compatriotas, tal como ellos padecieron a manos de los judíos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Estos mataron tanto al Señor Jesús como a los profetas, y a nosotros nos expulsaron, y no agradan a Dios sino que son contrarios a todos los hombres,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "impidiéndonos hablar a los gentiles para que se salven, con el resultado de que siempre llenan la medida de sus pecados. Pero la ira de Dios ha venido sobre ellos hasta el extremo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Pero nosotros, hermanos, separados de ustedes por breve tiempo, en persona pero no en espíritu, estábamos muy ansiosos, con profundo deseo de ir a verlos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Ya que queríamos ir a ustedes, al menos yo, Pablo, más de una vez; pero Satanás nos lo ha impedido."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Porque ¿quién es nuestra esperanza o gozo o corona de gloria? ¿No lo son ustedes en la presencia de nuestro Señor Jesús en Su venida?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Pues ustedes son nuestra gloria y nuestro gozo."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "1TH.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "1TH.3"
+        ],
+        "human": "1 Tesalonicenses 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "1TH.4"
+        ],
+        "human": "1 Tesalonicenses 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "1TH.2"
+        ],
+        "human": "1 Tesalonicenses 2",
+        "toc": true
+      },
+      "chapter_text": "Por lo cual, no pudiendo soportarlo más, pensamos que era mejor quedarnos solos en Atenas. Enviamos a Timoteo, nuestro hermano y colaborador de Dios en el evangelio de Cristo, para fortalecerlos y alentarlos respecto a la fe de ustedes; a fin de que nadie se inquiete por causa de estas aflicciones, porque ustedes mismos saben que para esto hemos sido destinados.\nPorque en verdad, cuando estábamos con ustedes les predecíamos que íbamos a sufrir aflicción, y así ha acontecido, como saben. Por eso también yo, cuando ya no pude soportar más, envié a Timoteo para informarme de su fe, por temor a que el tentador los hubiera tentado y que nuestro trabajo hubiera sido en vano. Pero ahora Timoteo ha regresado de ustedes a nosotros, y nos ha traído buenas noticias de su fe y amor y de que siempre tienen buen recuerdo de nosotros, anhelando vernos, como también nosotros a ustedes.\nPor eso, hermanos, en toda nuestra necesidad y aflicción fuimos consolados respecto a ustedes por medio de su fe. Porque ahora sí que vivimos, si ustedes están firmes en el Señor. Pues ¿qué acción de gracias podemos dar a Dios por ustedes, por todo el gozo con que nos regocijamos delante de nuestro Dios a causa de ustedes, según oramos intensamente de noche y de día que podamos ver el rostro de ustedes y que completemos lo que falta a su fe?\n\nAhora, pues, que el mismo Dios y Padre nuestro, y Jesús nuestro Señor, dirijan nuestro camino a ustedes. Que el Señor los haga crecer y abundar en amor unos para con otros, y para con todos, como también nosotros lo hacemos para con ustedes; a fin de que Él afirme sus corazones irreprensibles en santidad delante de nuestro Dios y Padre, en la venida de nuestro Señor Jesús con todos Sus santos.",
+      "chapter_html": "<div class=\"version vid103 iso6393spa\" data-vid=\"103\" data-iso6393=\"spa\">\n   <div class=\"book bk1TH\">\n      <div class=\"chapter ch3\" data-usfm=\"1TH.3\">\n         <div class=\"label\">3</div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Inter&#233;s de Pablo por sus hijos en la fe</span></span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"1TH.3.1\"><span class=\"label\">1</span><span class=\"content\">Por lo cual, no pudiendo soportar</span><span class=\"it\"><span class=\"content\">lo</span></span><span class=\"content\"> m&#225;s, pensamos que era mejor quedarnos solos en Atenas. </span></span><span class=\"verse v2\" data-usfm=\"1TH.3.2\"><span class=\"label\">2</span><span class=\"content\">Enviamos a Timoteo, nuestro hermano y colaborador de Dios</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:2 </span><span class=\"ft\">Algunos mss. dicen: <span class=\"it\">servidor de Dios y colaborador nuestro.</span></span></span></span><span class=\"content\"> en el evangelio de Cristo, para fortalecerlos y alentarlos respecto a la fe de ustedes; </span></span><span class=\"verse v3\" data-usfm=\"1TH.3.3\"><span class=\"label\">3</span><span class=\"content\">a fin de que nadie se inquiete</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:3 </span><span class=\"ft\">O <span class=\"it\">se enga&#241;e.</span></span></span></span><span class=\"content\"> por </span><span class=\"it\"><span class=\"content\">causa de</span></span><span class=\"content\"> estas aflicciones, porque ustedes mismos saben que para esto hemos sido destinados.</span></span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"1TH.3.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"1TH.3.4\"><span class=\"label\">4</span><span class=\"content\">Porque en verdad, cuando est&#225;bamos con ustedes les predec&#237;amos que &#237;bamos a sufrir aflicci&#243;n, y as&#237;</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:4 </span><span class=\"ft\">Lit. <span class=\"it\">tal como.</span></span></span></span><span class=\"content\"> ha acontecido, como</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:4 </span><span class=\"ft\">Lit. <span class=\"it\">y.</span></span></span></span><span class=\"content\"> saben. </span></span><span class=\"verse v5\" data-usfm=\"1TH.3.5\"><span class=\"label\">5</span><span class=\"content\">Por eso tambi&#233;n yo, cuando ya no pude soportar m&#225;s, envi&#233; a Timoteo para informarme de su fe, por temor a que el tentador los hubiera tentado y que nuestro trabajo hubiera sido en vano. </span></span><span class=\"verse v6\" data-usfm=\"1TH.3.6\"><span class=\"label\">6</span><span class=\"content\">Pero ahora Timoteo ha regresado</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:6 </span><span class=\"ft\">Lit. <span class=\"it\">venido.</span></span></span></span><span class=\"content\"> de ustedes a nosotros, y nos ha tra&#237;do buenas noticias de su fe y amor y de que siempre tienen buen recuerdo de nosotros, anhelando vernos, como tambi&#233;n nosotros a ustedes.</span></span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"1TH.3.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"1TH.3.7\"><span class=\"label\">7</span><span class=\"content\">Por eso, hermanos, en toda nuestra necesidad y aflicci&#243;n fuimos consolados respecto a ustedes por medio de su fe. </span></span><span class=\"verse v8\" data-usfm=\"1TH.3.8\"><span class=\"label\">8</span><span class=\"content\">Porque ahora </span><span class=\"it\"><span class=\"content\">s&#237; que</span></span><span class=\"content\"> vivimos, si ustedes est&#225;n firmes en el Se&#241;or. </span></span><span class=\"verse v9\" data-usfm=\"1TH.3.9\"><span class=\"label\">9</span><span class=\"content\">Pues &#191;qu&#233; acci&#243;n de gracias podemos dar a Dios por ustedes, por todo el gozo con que nos regocijamos delante de nuestro Dios a causa de ustedes, </span></span><span class=\"verse v10\" data-usfm=\"1TH.3.10\"><span class=\"label\">10</span><span class=\"content\">seg&#250;n oramos intensamente de noche y de d&#237;a que podamos ver el rostro de ustedes y que completemos lo que falta a su fe?</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Exhortaci&#243;n a la santidad</span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"1TH.3.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"1TH.3.11\"><span class=\"label\">11</span><span class=\"content\">Ahora, </span><span class=\"it\"><span class=\"content\">pues,</span></span><span class=\"content\"> que el mismo Dios y Padre nuestro, y Jes&#250;s nuestro Se&#241;or, dirijan nuestro camino a ustedes. </span></span><span class=\"verse v12\" data-usfm=\"1TH.3.12\"><span class=\"label\">12</span><span class=\"content\">Que el Se&#241;or los haga crecer y abundar en amor unos para con otros, y para con todos, como tambi&#233;n nosotros </span><span class=\"it\"><span class=\"content\">lo hacemos</span></span><span class=\"content\"> para con ustedes; </span></span><span class=\"verse v13\" data-usfm=\"1TH.3.13\"><span class=\"label\">13</span><span class=\"content\">a fin de que &#201;l afirme sus corazones irreprensibles en santidad delante de nuestro Dios y Padre, en la venida</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:13 </span><span class=\"ft\">O <span class=\"it\">presencia.</span></span></span></span><span class=\"content\"> de nuestro Se&#241;or Jes&#250;s con todos Sus santos.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Por lo cual, no pudiendo soportarlo más, pensamos que era mejor quedarnos solos en Atenas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Enviamos a Timoteo, nuestro hermano y colaborador de Dios en el evangelio de Cristo, para fortalecerlos y alentarlos respecto a la fe de ustedes;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "a fin de que nadie se inquiete por causa de estas aflicciones, porque ustedes mismos saben que para esto hemos sido destinados."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Porque en verdad, cuando estábamos con ustedes les predecíamos que íbamos a sufrir aflicción, y así ha acontecido, como saben."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Por eso también yo, cuando ya no pude soportar más, envié a Timoteo para informarme de su fe, por temor a que el tentador los hubiera tentado y que nuestro trabajo hubiera sido en vano."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Pero ahora Timoteo ha regresado de ustedes a nosotros, y nos ha traído buenas noticias de su fe y amor y de que siempre tienen buen recuerdo de nosotros, anhelando vernos, como también nosotros a ustedes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Por eso, hermanos, en toda nuestra necesidad y aflicción fuimos consolados respecto a ustedes por medio de su fe."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Porque ahora sí que vivimos, si ustedes están firmes en el Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Pues ¿qué acción de gracias podemos dar a Dios por ustedes, por todo el gozo con que nos regocijamos delante de nuestro Dios a causa de ustedes,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "según oramos intensamente de noche y de día que podamos ver el rostro de ustedes y que completemos lo que falta a su fe?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Ahora, pues, que el mismo Dios y Padre nuestro, y Jesús nuestro Señor, dirijan nuestro camino a ustedes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Que el Señor los haga crecer y abundar en amor unos para con otros, y para con todos, como también nosotros lo hacemos para con ustedes;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "a fin de que Él afirme sus corazones irreprensibles en santidad delante de nuestro Dios y Padre, en la venida de nuestro Señor Jesús con todos Sus santos."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "1TH.4",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "1TH.4"
+        ],
+        "human": "1 Tesalonicenses 4"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "1TH.5"
+        ],
+        "human": "1 Tesalonicenses 5",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "1TH.3"
+        ],
+        "human": "1 Tesalonicenses 3",
+        "toc": true
+      },
+      "chapter_text": "Por lo demás, hermanos, les rogamos, y les exhortamos en el Señor Jesús, que tal como han recibido de nosotros instrucciones acerca de la manera en que deben andar y agradar a Dios, como de hecho ya andan, así abunden en ello más y más. Pues ustedes saben qué preceptos les dimos por autoridad del Señor Jesús. Porque esta es la voluntad de Dios: su santificación; es decir, que se abstengan de inmoralidad sexual; que cada uno de ustedes sepa cómo poseer su propio vaso en santificación y honor, no en pasión degradante, como los gentiles que no conocen a Dios.\nQue nadie peque ni defraude a su hermano en este asunto, porque el Señor es el vengador en todas estas cosas, como también antes les dijimos y advertimos solemnemente. Porque Dios no nos ha llamado a impureza, sino a santificación. Por tanto, el que rechaza esto no rechaza a un hombre, sino al Dios que les da a ustedes Su Espíritu Santo.\nPero en cuanto al amor fraternal, no tienen necesidad de que nadie les escriba, porque ustedes mismos han sido enseñados por Dios a amarse unos a otros. Porque en verdad lo practican con todos los hermanos que están en toda Macedonia. Pero les instamos, hermanos, a que abunden en ello más y más, y a que tengan por su ambición el llevar una vida tranquila, y se ocupen en sus propios asuntos y trabajen con sus manos, tal como les hemos mandado; a fin de que se conduzcan honradamente para con los de afuera, y no tengan necesidad de nada.\n\nPero no queremos, hermanos, que ignoren acerca de los que duermen, para que no se entristezcan como lo hacen los demás que no tienen esperanza. Porque si creemos que Jesús murió y resucitó, así también Dios traerá con Él a los que durmieron en Jesús. Por lo cual les decimos esto por la palabra del Señor: que nosotros los que estemos vivos y que permanezcamos hasta la venida del Señor, no precederemos a los que durmieron.\nPues el Señor mismo descenderá del cielo con voz de mando, con voz de arcángel y con la trompeta de Dios, y los muertos en Cristo se levantarán primero. Entonces nosotros, los que estemos vivos y que permanezcamos, seremos arrebatados juntamente con ellos en las nubes al encuentro del Señor en el aire, y así estaremos con el Señor siempre. Por tanto, confórtense unos a otros con estas palabras.",
+      "chapter_html": "<div class=\"version vid103 iso6393spa\" data-vid=\"103\" data-iso6393=\"spa\">\n   <div class=\"book bk1TH\">\n      <div class=\"chapter ch4\" data-usfm=\"1TH.4\">\n         <div class=\"label\">4</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"1TH.4.1\"><span class=\"label\">1</span><span class=\"content\">Por lo dem&#225;s, hermanos, les rogamos, y les exhortamos en el Se&#241;or Jes&#250;s, que tal como han recibido de nosotros </span><span class=\"it\"><span class=\"content\">instrucciones</span></span><span class=\"content\"> acerca de la manera en que deben andar</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:1 </span><span class=\"ft\">O <span class=\"it\">se deben conducir.</span></span></span></span><span class=\"content\"> y agradar a Dios, como de hecho ya andan, as&#237; abunden </span><span class=\"it\"><span class=\"content\">en ello</span></span><span class=\"content\"> m&#225;s y m&#225;s. </span></span><span class=\"verse v2\" data-usfm=\"1TH.4.2\"><span class=\"label\">2</span><span class=\"content\">Pues ustedes saben qu&#233; preceptos les dimos por autoridad</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:2 </span><span class=\"ft\">Lit. <span class=\"it\">por medio.</span></span></span></span><span class=\"content\"> del Se&#241;or Jes&#250;s. </span></span><span class=\"verse v3\" data-usfm=\"1TH.4.3\"><span class=\"label\">3</span><span class=\"content\">Porque esta es la voluntad de Dios: su santificaci&#243;n; </span><span class=\"it\"><span class=\"content\">es decir,</span></span><span class=\"content\"> que se abstengan de inmoralidad sexual</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:3 </span><span class=\"ft\">O <span class=\"it\">fornicaci&#243;n.</span></span></span></span><span class=\"content\">; </span></span><span class=\"verse v4\" data-usfm=\"1TH.4.4\"><span class=\"label\">4</span><span class=\"content\">que cada uno de ustedes sepa c&#243;mo poseer su propio vaso</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:4 </span><span class=\"ft\">I.e. cuerpo; o, posiblemente, esposa.</span></span></span><span class=\"content\"> en santificaci&#243;n y honor, </span></span><span class=\"verse v5\" data-usfm=\"1TH.4.5\"><span class=\"label\">5</span><span class=\"content\">no en pasi&#243;n degradante, como los gentiles que no conocen a Dios.</span></span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"1TH.4.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"1TH.4.6\"><span class=\"label\">6</span><span class=\"content\">Que nadie peque ni defraude a su hermano en este asunto, porque el Se&#241;or es </span><span class=\"it\"><span class=\"content\">el</span></span><span class=\"content\"> vengador en todas estas cosas, como tambi&#233;n antes les dijimos y advertimos solemnemente. </span></span><span class=\"verse v7\" data-usfm=\"1TH.4.7\"><span class=\"label\">7</span><span class=\"content\">Porque Dios no nos ha llamado a impureza, sino a</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:7 </span><span class=\"ft\">O <span class=\"it\">vivir en.</span></span></span></span><span class=\"content\"> santificaci&#243;n. </span></span><span class=\"verse v8\" data-usfm=\"1TH.4.8\"><span class=\"label\">8</span><span class=\"content\">Por tanto, el que rechaza </span><span class=\"it\"><span class=\"content\">esto</span></span><span class=\"content\"> no rechaza a un hombre, sino al Dios que les da a ustedes Su Esp&#237;ritu Santo.</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"1TH.4.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"1TH.4.9\"><span class=\"label\">9</span><span class=\"content\">Pero en cuanto al amor fraternal, no tienen necesidad de que </span><span class=\"it\"><span class=\"content\">nadie</span></span><span class=\"content\"> les escriba, porque ustedes mismos han sido ense&#241;ados por Dios a amarse unos a otros. </span></span><span class=\"verse v10\" data-usfm=\"1TH.4.10\"><span class=\"label\">10</span><span class=\"content\">Porque en verdad lo practican con todos los hermanos que est&#225;n en toda Macedonia. Pero les instamos, hermanos, a que abunden </span><span class=\"it\"><span class=\"content\">en ello</span></span><span class=\"content\"> m&#225;s y m&#225;s, </span></span><span class=\"verse v11\" data-usfm=\"1TH.4.11\"><span class=\"label\">11</span><span class=\"content\">y a que tengan por su ambici&#243;n el llevar una vida tranquila, y se ocupen en sus propios asuntos</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:11 </span><span class=\"ft\">O <span class=\"it\">negocios.</span></span></span></span><span class=\"content\"> y trabajen con sus manos, tal como les hemos mandado; </span></span><span class=\"verse v12\" data-usfm=\"1TH.4.12\"><span class=\"label\">12</span><span class=\"content\">a fin de que se conduzcan honradamente para con los de afuera, y no tengan necesidad de nada.</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">La venida del Se&#241;or</span></span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"1TH.4.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"1TH.4.13\"><span class=\"label\">13</span><span class=\"content\">Pero no queremos, hermanos, que ignoren acerca de los que duermen</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:13 </span><span class=\"ft\">I.e. que han muerto.</span></span></span><span class=\"content\">, para que no se entristezcan como lo hacen los dem&#225;s que no tienen esperanza. </span></span><span class=\"verse v14\" data-usfm=\"1TH.4.14\"><span class=\"label\">14</span><span class=\"content\">Porque si creemos que Jes&#250;s muri&#243; y resucit&#243;, as&#237; tambi&#233;n Dios traer&#225; con &#201;l a los que durmieron</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:14 </span><span class=\"ft\">I.e. murieron.</span></span></span><span class=\"content\"> en</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:14 </span><span class=\"ft\">Lit. <span class=\"it\">por medio de.</span></span></span></span><span class=\"content\"> Jes&#250;s. </span></span><span class=\"verse v15\" data-usfm=\"1TH.4.15\"><span class=\"label\">15</span><span class=\"content\">Por lo cual les decimos esto por la palabra del Se&#241;or: que nosotros los que estemos vivos </span><span class=\"it\"><span class=\"content\">y</span></span><span class=\"content\"> que permanezcamos hasta la venida del Se&#241;or, no precederemos a los que durmieron</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:15 </span><span class=\"ft\">I.e. murieron.</span></span></span><span class=\"content\">.</span></span></div><div class=\"p\"><span class=\"verse v15\" data-usfm=\"1TH.4.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"1TH.4.16\"><span class=\"label\">16</span><span class=\"content\">Pues el Se&#241;or mismo descender&#225; del cielo con voz</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:16 </span><span class=\"ft\">O <span class=\"it\">grito.</span></span></span></span><span class=\"content\"> de mando, con voz de arc&#225;ngel y con la trompeta de Dios, y los muertos en Cristo se levantar&#225;n primero. </span></span><span class=\"verse v17\" data-usfm=\"1TH.4.17\"><span class=\"label\">17</span><span class=\"content\">Entonces nosotros, los que estemos vivos </span><span class=\"it\"><span class=\"content\">y</span></span><span class=\"content\"> que permanezcamos, seremos arrebatados juntamente con ellos en las nubes al encuentro del Se&#241;or en el aire, y as&#237; estaremos con el Se&#241;or siempre. </span></span><span class=\"verse v18\" data-usfm=\"1TH.4.18\"><span class=\"label\">18</span><span class=\"content\">Por tanto, conf&#243;rtense unos a otros con estas palabras.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Por lo demás, hermanos, les rogamos, y les exhortamos en el Señor Jesús, que tal como han recibido de nosotros instrucciones acerca de la manera en que deben andar y agradar a Dios, como de hecho ya andan, así abunden en ello más y más."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Pues ustedes saben qué preceptos les dimos por autoridad del Señor Jesús."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Porque esta es la voluntad de Dios: su santificación; es decir, que se abstengan de inmoralidad sexual;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "que cada uno de ustedes sepa cómo poseer su propio vaso en santificación y honor,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "no en pasión degradante, como los gentiles que no conocen a Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Que nadie peque ni defraude a su hermano en este asunto, porque el Señor es el vengador en todas estas cosas, como también antes les dijimos y advertimos solemnemente."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Porque Dios no nos ha llamado a impureza, sino a santificación."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Por tanto, el que rechaza esto no rechaza a un hombre, sino al Dios que les da a ustedes Su Espíritu Santo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Pero en cuanto al amor fraternal, no tienen necesidad de que nadie les escriba, porque ustedes mismos han sido enseñados por Dios a amarse unos a otros."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Porque en verdad lo practican con todos los hermanos que están en toda Macedonia. Pero les instamos, hermanos, a que abunden en ello más y más,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "y a que tengan por su ambición el llevar una vida tranquila, y se ocupen en sus propios asuntos y trabajen con sus manos, tal como les hemos mandado;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "a fin de que se conduzcan honradamente para con los de afuera, y no tengan necesidad de nada."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Pero no queremos, hermanos, que ignoren acerca de los que duermen, para que no se entristezcan como lo hacen los demás que no tienen esperanza."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Porque si creemos que Jesús murió y resucitó, así también Dios traerá con Él a los que durmieron en Jesús."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Por lo cual les decimos esto por la palabra del Señor: que nosotros los que estemos vivos y que permanezcamos hasta la venida del Señor, no precederemos a los que durmieron."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Pues el Señor mismo descenderá del cielo con voz de mando, con voz de arcángel y con la trompeta de Dios, y los muertos en Cristo se levantarán primero."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Entonces nosotros, los que estemos vivos y que permanezcamos, seremos arrebatados juntamente con ellos en las nubes al encuentro del Señor en el aire, y así estaremos con el Señor siempre."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Por tanto, confórtense unos a otros con estas palabras."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "1TH.5",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "1TH.5"
+        ],
+        "human": "1 Tesalonicenses 5"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "2TH.1"
+        ],
+        "human": "2 Tesalonicenses 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "1TH.4"
+        ],
+        "human": "1 Tesalonicenses 4",
+        "toc": true
+      },
+      "chapter_text": "Ahora bien, hermanos, con respecto a los tiempos y a las épocas, no tienen necesidad de que se les escriba nada. Pues ustedes mismos saben perfectamente que el día del Señor vendrá así como un ladrón en la noche; que cuando estén diciendo: «Paz y seguridad», entonces la destrucción vendrá sobre ellos repentinamente, como dolores de parto a una mujer que está encinta, y no escaparán.\nPero ustedes, hermanos, no están en tinieblas, para que el día los sorprenda como ladrón; porque todos ustedes son hijos de la luz e hijos del día. No somos de la noche ni de las tinieblas. Por tanto, no durmamos como los demás, sino estemos alerta y seamos sobrios. Porque los que duermen, de noche duermen, y los que se emborrachan, de noche se emborrachan.\nPero puesto que nosotros somos del día, seamos sobrios, habiéndonos puesto la coraza de la fe y del amor, y por casco la esperanza de la salvación. Porque no nos ha destinado Dios para ira, sino para obtener salvación por medio de nuestro Señor Jesucristo, que murió por nosotros, para que ya sea que estemos despiertos o dormidos, vivamos junto con Él. Por tanto, confórtense los unos a los otros, y edifíquense el uno al otro, tal como lo están haciendo.\n\nPero les rogamos hermanos, que reconozcan a los que con diligencia trabajan entre ustedes, y los dirigen en el Señor y los instruyen, y que los tengan en muy alta estima con amor, por causa de su trabajo. Vivan en paz los unos con los otros. Les exhortamos, hermanos, a que amonesten a los indisciplinados, animen a los desalentados, sostengan a los débiles y sean pacientes con todos. Miren que ninguno devuelva a otro mal por mal, sino que procuren siempre lo bueno los unos para con los otros, y para con todos.\nEstén siempre gozosos. Oren sin cesar. Den gracias en todo, porque esta es la voluntad de Dios para ustedes en Cristo Jesús. No apaguen el Espíritu. No desprecien las profecías. Antes bien, examínenlo todo cuidadosamente, retengan lo bueno. Absténganse de toda forma de mal.\n\nY que el mismo Dios de paz los santifique por completo; y que todo su ser, espíritu, alma y cuerpo, sea preservado irreprensible para la venida de nuestro Señor Jesucristo. Fiel es Aquel que los llama, el cual también lo hará.\n\nHermanos, oren por nosotros.\nSaluden a todos los hermanos con beso santo. Les encargo solemnemente por el Señor que se lea esta carta a todos los hermanos.\nLa gracia de nuestro Señor Jesucristo sea con ustedes.",
+      "chapter_html": "<div class=\"version vid103 iso6393spa\" data-vid=\"103\" data-iso6393=\"spa\">\n   <div class=\"book bk1TH\">\n      <div class=\"chapter ch5\" data-usfm=\"1TH.5\">\n         <div class=\"label\">5</div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Preparados para el d&#237;a del Se&#241;or</span></span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"1TH.5.1\"><span class=\"label\">1</span><span class=\"content\">Ahora bien, hermanos, con respecto a los tiempos y a las &#233;pocas, no tienen necesidad de que se les escriba </span><span class=\"it\"><span class=\"content\">nada.</span></span><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"1TH.5.2\"><span class=\"label\">2</span><span class=\"content\">Pues ustedes mismos saben perfectamente que el d&#237;a del Se&#241;or vendr&#225;</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">5:2 </span><span class=\"ft\">Lit. <span class=\"it\">viene.</span></span></span></span><span class=\"content\"> as&#237; como un ladr&#243;n en la noche; </span></span><span class=\"verse v3\" data-usfm=\"1TH.5.3\"><span class=\"label\">3</span><span class=\"it\"><span class=\"content\">que</span></span><span class=\"content\"> cuando est&#233;n diciendo: &#171;Paz y seguridad&#187;, entonces la destrucci&#243;n</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">5:3 </span><span class=\"ft\">O <span class=\"it\">destrucci&#243;n repentina.</span></span></span></span><span class=\"content\"> vendr&#225; sobre ellos repentinamente</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">5:3 </span><span class=\"ft\">Lit. <span class=\"it\">est&#225; a la mano.</span></span></span></span><span class=\"content\">, como dolores de parto a una mujer que est&#225; encinta, y no escapar&#225;n.</span></span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"1TH.5.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"1TH.5.4\"><span class=\"label\">4</span><span class=\"content\">Pero ustedes, hermanos, no est&#225;n en tinieblas, para que el d&#237;a los sorprenda como ladr&#243;n</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">5:4 </span><span class=\"ft\">Algunos mss. antiguos dicen: <span class=\"it\">como ladrones.</span></span></span></span><span class=\"content\">; </span></span><span class=\"verse v5\" data-usfm=\"1TH.5.5\"><span class=\"label\">5</span><span class=\"content\">porque todos ustedes son hijos de la luz e hijos del d&#237;a. No somos de la noche ni de las tinieblas. </span></span><span class=\"verse v6\" data-usfm=\"1TH.5.6\"><span class=\"label\">6</span><span class=\"content\">Por tanto, no durmamos como los dem&#225;s, sino estemos alerta y seamos sobrios</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">5:6 </span><span class=\"ft\">O <span class=\"it\">tengamos dominio propio.</span></span></span></span><span class=\"content\">. </span></span><span class=\"verse v7\" data-usfm=\"1TH.5.7\"><span class=\"label\">7</span><span class=\"content\">Porque los que duermen, de noche duermen, y los que se emborrachan, de noche se emborrachan.</span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"1TH.5.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"1TH.5.8\"><span class=\"label\">8</span><span class=\"content\">Pero puesto que nosotros somos del d&#237;a, seamos sobrios</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">5:8 </span><span class=\"ft\">O <span class=\"it\">tengamos dominio propio.</span></span></span></span><span class=\"content\">, habi&#233;ndonos puesto la coraza de la fe y del amor, y por casco la esperanza de la salvaci&#243;n. </span></span><span class=\"verse v9\" data-usfm=\"1TH.5.9\"><span class=\"label\">9</span><span class=\"content\">Porque no nos ha destinado</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">5:9 </span><span class=\"ft\">O <span class=\"it\">puesto.</span></span></span></span><span class=\"content\"> Dios para ira, sino para obtener salvaci&#243;n por medio de nuestro Se&#241;or Jesucristo, </span></span><span class=\"verse v10\" data-usfm=\"1TH.5.10\"><span class=\"label\">10</span><span class=\"content\">que muri&#243; por nosotros, para que ya sea que estemos despiertos o dormidos, vivamos junto con &#201;l. </span></span><span class=\"verse v11\" data-usfm=\"1TH.5.11\"><span class=\"label\">11</span><span class=\"content\">Por tanto, conf&#243;rtense los unos a los otros, y edif&#237;quense el uno al otro, tal como lo est&#225;n haciendo.</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Deberes pr&#225;cticos de la vida cristiana</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"1TH.5.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"1TH.5.12\"><span class=\"label\">12</span><span class=\"content\">Pero les rogamos hermanos, que reconozcan</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">5:12 </span><span class=\"ft\">O <span class=\"it\">honren.</span></span></span></span><span class=\"content\"> a los que con diligencia trabajan entre ustedes, y los dirigen</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">5:12 </span><span class=\"ft\">O <span class=\"it\">los presiden.</span></span></span></span><span class=\"content\"> en el Se&#241;or y los instruyen, </span></span><span class=\"verse v13\" data-usfm=\"1TH.5.13\"><span class=\"label\">13</span><span class=\"content\">y que los tengan en muy alta estima con amor, por causa de su trabajo. Vivan en paz los unos con los otros. </span></span><span class=\"verse v14\" data-usfm=\"1TH.5.14\"><span class=\"label\">14</span><span class=\"content\">Les exhortamos, hermanos, a que amonesten a los indisciplinados</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">5:14 </span><span class=\"ft\">O <span class=\"it\">desordenados.</span></span></span></span><span class=\"content\">, animen a los desalentados, sostengan a los d&#233;biles </span><span class=\"it\"><span class=\"content\">y</span></span><span class=\"content\"> sean pacientes con todos. </span></span><span class=\"verse v15\" data-usfm=\"1TH.5.15\"><span class=\"label\">15</span><span class=\"content\">Miren que ninguno devuelva a otro mal por mal, sino que procuren siempre lo bueno los unos para con los otros, y para con todos.</span></span></div><div class=\"p\"><span class=\"verse v15\" data-usfm=\"1TH.5.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"1TH.5.16\"><span class=\"label\">16</span><span class=\"content\">Est&#233;n siempre gozosos. </span></span><span class=\"verse v17\" data-usfm=\"1TH.5.17\"><span class=\"label\">17</span><span class=\"content\">Oren sin cesar. </span></span><span class=\"verse v18\" data-usfm=\"1TH.5.18\"><span class=\"label\">18</span><span class=\"content\">Den gracias en todo, porque esta es la voluntad de Dios para ustedes en Cristo Jes&#250;s. </span></span><span class=\"verse v19\" data-usfm=\"1TH.5.19\"><span class=\"label\">19</span><span class=\"content\">No apaguen el Esp&#237;ritu. </span></span><span class=\"verse v20\" data-usfm=\"1TH.5.20\"><span class=\"label\">20</span><span class=\"content\">No desprecien las profec&#237;as</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">5:20 </span><span class=\"ft\">O <span class=\"it\">los dones de profec&#237;as.</span></span></span></span><span class=\"content\">. </span></span><span class=\"verse v21\" data-usfm=\"1TH.5.21\"><span class=\"label\">21</span><span class=\"content\">Antes bien, exam&#237;nenlo todo </span><span class=\"it\"><span class=\"content\">cuidadosamente</span></span><span class=\"content\">, retengan lo bueno. </span></span><span class=\"verse v22\" data-usfm=\"1TH.5.22\"><span class=\"label\">22</span><span class=\"content\">Abst&#233;nganse de toda forma</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">5:22 </span><span class=\"ft\">O <span class=\"it\">apariencia.</span></span></span></span><span class=\"content\"> de mal.</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Pablo ora por la santificaci&#243;n de los tesalonicenses</span></span></div><div class=\"p\"><span class=\"verse v22\" data-usfm=\"1TH.5.22\"><span class=\"content\">  </span></span><span class=\"verse v23\" data-usfm=\"1TH.5.23\"><span class=\"label\">23</span><span class=\"content\">Y que el mismo Dios de paz los santifique por completo</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">5:23 </span><span class=\"ft\">O <span class=\"it\">del todo.</span></span></span></span><span class=\"content\">; y que todo su ser, esp&#237;ritu, alma y cuerpo, sea preservado irreprensible para</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">5:23 </span><span class=\"ft\">Lit. <span class=\"it\">en.</span></span></span></span><span class=\"content\"> la venida de nuestro Se&#241;or Jesucristo. </span></span><span class=\"verse v24\" data-usfm=\"1TH.5.24\"><span class=\"label\">24</span><span class=\"content\">Fiel es Aquel que los llama, el cual tambi&#233;n </span><span class=\"it\"><span class=\"content\">lo</span></span><span class=\"content\"> har&#225;.</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Saludos y bendici&#243;n final</span></span></div><div class=\"p\"><span class=\"verse v24\" data-usfm=\"1TH.5.24\"><span class=\"content\">  </span></span><span class=\"verse v25\" data-usfm=\"1TH.5.25\"><span class=\"label\">25</span><span class=\"content\">Hermanos, oren por nosotros</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">5:25 </span><span class=\"ft\">Algunos mss. agregan: <span class=\"it\">tambi&#233;n.</span></span></span></span><span class=\"content\">.</span></span></div><div class=\"p\"><span class=\"verse v25\" data-usfm=\"1TH.5.25\"><span class=\"content\">  </span></span><span class=\"verse v26\" data-usfm=\"1TH.5.26\"><span class=\"label\">26</span><span class=\"content\">Saluden a todos los hermanos con beso santo. </span></span><span class=\"verse v27\" data-usfm=\"1TH.5.27\"><span class=\"label\">27</span><span class=\"content\">Les encargo solemnemente</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">5:27 </span><span class=\"ft\">Lit. <span class=\"it\">Les conjuro.</span></span></span></span><span class=\"content\"> por el Se&#241;or que se lea esta carta a todos los hermanos.</span></span></div><div class=\"p\"><span class=\"verse v27\" data-usfm=\"1TH.5.27\"><span class=\"content\">  </span></span><span class=\"verse v28\" data-usfm=\"1TH.5.28\"><span class=\"label\">28</span><span class=\"content\">La gracia de nuestro Se&#241;or Jesucristo sea con ustedes.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Ahora bien, hermanos, con respecto a los tiempos y a las épocas, no tienen necesidad de que se les escriba nada."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Pues ustedes mismos saben perfectamente que el día del Señor vendrá así como un ladrón en la noche;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "que cuando estén diciendo: «Paz y seguridad», entonces la destrucción vendrá sobre ellos repentinamente, como dolores de parto a una mujer que está encinta, y no escaparán."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Pero ustedes, hermanos, no están en tinieblas, para que el día los sorprenda como ladrón;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "porque todos ustedes son hijos de la luz e hijos del día. No somos de la noche ni de las tinieblas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Por tanto, no durmamos como los demás, sino estemos alerta y seamos sobrios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Porque los que duermen, de noche duermen, y los que se emborrachan, de noche se emborrachan."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Pero puesto que nosotros somos del día, seamos sobrios, habiéndonos puesto la coraza de la fe y del amor, y por casco la esperanza de la salvación."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Porque no nos ha destinado Dios para ira, sino para obtener salvación por medio de nuestro Señor Jesucristo,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "que murió por nosotros, para que ya sea que estemos despiertos o dormidos, vivamos junto con Él."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Por tanto, confórtense los unos a los otros, y edifíquense el uno al otro, tal como lo están haciendo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Pero les rogamos hermanos, que reconozcan a los que con diligencia trabajan entre ustedes, y los dirigen en el Señor y los instruyen,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "y que los tengan en muy alta estima con amor, por causa de su trabajo. Vivan en paz los unos con los otros."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Les exhortamos, hermanos, a que amonesten a los indisciplinados, animen a los desalentados, sostengan a los débiles y sean pacientes con todos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Miren que ninguno devuelva a otro mal por mal, sino que procuren siempre lo bueno los unos para con los otros, y para con todos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Estén siempre gozosos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Oren sin cesar."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Den gracias en todo, porque esta es la voluntad de Dios para ustedes en Cristo Jesús."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "No apaguen el Espíritu."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "No desprecien las profecías."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "Antes bien, examínenlo todo cuidadosamente, retengan lo bueno."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "Absténganse de toda forma de mal."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "Y que el mismo Dios de paz los santifique por completo; y que todo su ser, espíritu, alma y cuerpo, sea preservado irreprensible para la venida de nuestro Señor Jesucristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "Fiel es Aquel que los llama, el cual también lo hará."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "Hermanos, oren por nosotros."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 26,
+          "lines": [
+            "Saluden a todos los hermanos con beso santo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 27,
+          "lines": [
+            "Les encargo solemnemente por el Señor que se lea esta carta a todos los hermanos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 28,
+          "lines": [
+            "La gracia de nuestro Señor Jesucristo sea con ustedes."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

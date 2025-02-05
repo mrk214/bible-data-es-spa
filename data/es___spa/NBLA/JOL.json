@@ -1,0 +1,887 @@
+{
+  "book_usfm": "JOL",
+  "name": "Joel",
+  "local_title": "Nueva Biblia de las Américas",
+  "local_abbreviation": "NBLA",
+  "version_id": 103,
+  "publisher": {
+    "name": "The Lockman Foundation"
+  },
+  "copyright": {
+    "html": "1986, 1995, 1997, 2005 by The Lockman Foundation",
+    "text": "1986, 1995, 1997, 2005 by The Lockman Foundation"
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "JOL.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "JOL.1"
+        ],
+        "human": "Joel 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "JOL.2"
+        ],
+        "human": "Joel 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "HOS.14"
+        ],
+        "human": "Oseas 14",
+        "toc": true
+      },
+      "chapter_text": "Palabra del SEÑOR que vino a Joel, hijo de Petuel.\nOigan esto, ancianos,\nY presten oído, habitantes todos de la tierra.\n¿Ha acontecido cosa semejante en sus días,\nO en los días de sus padres?\nCuéntenselo a los hijos de ustedes,\nY sus hijos a los suyos,\nY sus hijos a la siguiente generación.\n¶Lo que dejó la oruga, lo comió la langosta;\nLo que dejó la langosta, lo comió el pulgón;\nY lo que dejó el pulgón, lo comió el saltón.\nDespierten, borrachos, y lloren,\nY giman todos los que beben vino,\nA causa del vino dulce\nQue les quitan de la boca.\nPorque una nación ha subido contra mi tierra,\nPoderosa e innumerable;\nSus dientes son dientes de león,\nY tiene colmillos de leona.\nHa hecho de mi vid una desolación,\nY astillas de mi higuera.\nDel todo las ha descortezado y derribado;\nSus ramas se han vuelto blancas.\n¶Laméntate como virgen ceñida de cilicio\nPor el esposo de su juventud.\nHan sido cortadas la ofrenda de cereal y la libación\nDe la casa del SEÑOR.\nEstán de duelo los sacerdotes,\nLos ministros del SEÑOR.\nEl campo está asolado,\nLa tierra está de duelo,\nPorque el grano está arruinado,\nEl vino nuevo se seca,\nY el aceite virgen se pierde.\nAvergüéncense, labradores,\nGiman, viñadores,\nPor el trigo y la cebada,\nPorque la cosecha del campo se ha perdido.\nLa vid se seca,\nY se marchita la higuera;\nTambién el granado, la palmera y el manzano,\nTodos los árboles del campo se secan.\nCiertamente se seca la alegría\nDe los hijos de los hombres.\n¶Cíñanse de cilicio,\nY laméntense, sacerdotes;\nGiman, ministros del altar.\nVengan, pasen la noche ceñidos de cilicio,\nMinistros de mi Dios,\nPorque sin ofrenda de cereal y sin libación\nHa quedado la casa de su Dios.\nPromulguen ayuno,\nConvoquen asamblea;\nCongreguen a los ancianos\nY a todos los habitantes de la tierra\nEn la casa del SEÑOR su Dios,\nY clamen al SEÑOR.\n¡Ay de ese día!\nPorque está cerca el día del SEÑOR,\nY vendrá como destrucción del Todopoderoso.\n¿No ha sido suprimido el alimento de delante de nuestros ojos,\nY la alegría y el regocijo de la casa de nuestro Dios?\nLas semillas se han secado bajo los terrones;\nLos almacenes han sido asolados,\nLos graneros derribados\nPorque se secó el grano.\n¡Cómo muge el ganado!\nAndan vagando las manadas de vacas\nPorque no hay pasto para ellas;\nHasta los rebaños de ovejas sufren.\nA Ti clamo, oh SEÑOR,\nPorque el fuego ha devorado los pastos del desierto,\nY la llama ha consumido todos los árboles del campo.\nAun las bestias del campo braman por Ti,\nPorque se han secado los arroyos de agua,\nY el fuego ha devorado los pastos del desierto.",
+      "chapter_html": "<div class=\"version vid103 iso6393spa\" data-vid=\"103\" data-iso6393=\"spa\">\n   <div class=\"book bkJOL\">\n      <div class=\"chapter ch1\" data-usfm=\"JOL.1\">\n         <div class=\"label\">1</div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">La plaga de langostas</span></span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"JOL.1.1\"><span class=\"label\">1</span><span class=\"content\">Palabra del S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> que vino a Joel, hijo de Petuel.</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"JOL.1.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"JOL.1.2\"><span class=\"label\">2</span><span class=\"content\">Oigan esto, ancianos,</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"JOL.1.2\"><span class=\"content\">Y presten o&#237;do, habitantes todos de la tierra.</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"JOL.1.2\"><span class=\"content\">&#191;Ha acontecido cosa semejante en sus d&#237;as,</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"JOL.1.2\"><span class=\"content\">O en los d&#237;as de sus padres?</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"JOL.1.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"JOL.1.3\"><span class=\"label\">3</span><span class=\"content\">Cu&#233;ntenselo a los hijos de ustedes,</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"JOL.1.3\"><span class=\"content\">Y sus hijos a los suyos,</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"JOL.1.3\"><span class=\"content\">Y sus hijos a la siguiente generaci&#243;n.</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"JOL.1.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"JOL.1.4\"><span class=\"label\">4</span><span class=\"content\">&#182;Lo que dej&#243; la oruga, lo comi&#243; la langosta;</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"JOL.1.4\"><span class=\"content\">Lo que dej&#243; la langosta, lo comi&#243; el pulg&#243;n;</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"JOL.1.4\"><span class=\"content\">Y lo que dej&#243; el pulg&#243;n, lo comi&#243; el salt&#243;n.</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"JOL.1.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"JOL.1.5\"><span class=\"label\">5</span><span class=\"content\">Despierten, borrachos, y lloren,</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"JOL.1.5\"><span class=\"content\">Y giman todos los que beben vino,</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"JOL.1.5\"><span class=\"content\">A causa del vino dulce</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"JOL.1.5\"><span class=\"content\">Que les quitan de la boca.</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"JOL.1.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"JOL.1.6\"><span class=\"label\">6</span><span class=\"content\">Porque una naci&#243;n ha subido contra mi tierra,</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"JOL.1.6\"><span class=\"content\">Poderosa e innumerable;</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"JOL.1.6\"><span class=\"content\">Sus dientes son dientes de le&#243;n,</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"JOL.1.6\"><span class=\"content\">Y tiene colmillos de leona.</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"JOL.1.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"JOL.1.7\"><span class=\"label\">7</span><span class=\"content\">Ha hecho de mi vid una desolaci&#243;n,</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"JOL.1.7\"><span class=\"content\">Y astillas de mi higuera.</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"JOL.1.7\"><span class=\"content\">Del todo las ha descortezado y derribado;</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"JOL.1.7\"><span class=\"content\">Sus ramas se han vuelto blancas.</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"JOL.1.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"JOL.1.8\"><span class=\"label\">8</span><span class=\"content\">&#182;Lam&#233;ntate como virgen ce&#241;ida de cilicio</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"JOL.1.8\"><span class=\"content\">Por el esposo de su juventud.</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"JOL.1.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"JOL.1.9\"><span class=\"label\">9</span><span class=\"content\">Han sido cortadas la ofrenda de cereal y la libaci&#243;n</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"JOL.1.9\"><span class=\"content\">De la casa del S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\">.</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"JOL.1.9\"><span class=\"content\">Est&#225;n de duelo los sacerdotes,</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"JOL.1.9\"><span class=\"content\">Los ministros del S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\">.</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"JOL.1.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"JOL.1.10\"><span class=\"label\">10</span><span class=\"content\">El campo est&#225; asolado,</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"JOL.1.10\"><span class=\"content\">La tierra est&#225; de duelo,</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"JOL.1.10\"><span class=\"content\">Porque el grano est&#225; arruinado,</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"JOL.1.10\"><span class=\"content\">El vino nuevo se seca,</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"JOL.1.10\"><span class=\"content\">  </span><span class=\"it\"><span class=\"content\">Y</span></span><span class=\"content\"> el aceite virgen se pierde.</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"JOL.1.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"JOL.1.11\"><span class=\"label\">11</span><span class=\"content\">Averg&#252;&#233;ncense, labradores,</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"JOL.1.11\"><span class=\"content\">Giman, vi&#241;adores,</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"JOL.1.11\"><span class=\"content\">Por el trigo y la cebada,</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"JOL.1.11\"><span class=\"content\">Porque la cosecha del campo se ha perdido.</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"JOL.1.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"JOL.1.12\"><span class=\"label\">12</span><span class=\"content\">La vid se seca,</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"JOL.1.12\"><span class=\"content\">Y se marchita la higuera;</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"JOL.1.12\"><span class=\"content\">Tambi&#233;n el granado, la palmera y el manzano,</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"JOL.1.12\"><span class=\"content\">Todos los &#225;rboles del campo se secan.</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"JOL.1.12\"><span class=\"content\">Ciertamente se seca la alegr&#237;a</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"JOL.1.12\"><span class=\"content\">De los hijos de los hombres.</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"JOL.1.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"JOL.1.13\"><span class=\"label\">13</span><span class=\"content\">&#182;C&#237;&#241;anse </span><span class=\"it\"><span class=\"content\">de cilicio</span></span><span class=\"content\">,</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"JOL.1.13\"><span class=\"content\">Y lam&#233;ntense, sacerdotes;</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"JOL.1.13\"><span class=\"content\">Giman, ministros del altar.</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"JOL.1.13\"><span class=\"content\">Vengan, pasen la noche </span><span class=\"it\"><span class=\"content\">ce&#241;idos</span></span><span class=\"content\"> de cilicio,</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"JOL.1.13\"><span class=\"content\">Ministros de mi Dios,</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"JOL.1.13\"><span class=\"content\">Porque sin ofrenda de cereal y sin libaci&#243;n</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"JOL.1.13\"><span class=\"content\">Ha quedado la casa de su Dios.</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"JOL.1.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"JOL.1.14\"><span class=\"label\">14</span><span class=\"content\">Promulguen ayuno,</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"JOL.1.14\"><span class=\"content\">Convoquen asamblea;</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"JOL.1.14\"><span class=\"content\">Congreguen a los ancianos</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"JOL.1.14\"><span class=\"content\">  </span><span class=\"it\"><span class=\"content\">Y</span></span><span class=\"content\"> a todos los habitantes de la tierra</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"JOL.1.14\"><span class=\"content\">En la casa del S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> su Dios,</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"JOL.1.14\"><span class=\"content\">Y clamen al S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\">.</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"JOL.1.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"JOL.1.15\"><span class=\"label\">15</span><span class=\"content\">&#161;Ay de </span><span class=\"it\"><span class=\"content\">ese</span></span><span class=\"content\"> d&#237;a!</span></span></div><div class=\"q\"><span class=\"verse v15\" data-usfm=\"JOL.1.15\"><span class=\"content\">Porque est&#225; cerca el d&#237;a del S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\">,</span></span></div><div class=\"q\"><span class=\"verse v15\" data-usfm=\"JOL.1.15\"><span class=\"content\">Y vendr&#225; como destrucci&#243;n del Todopoderoso</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:15 </span><span class=\"ft\">Heb. <span class=\"it\">Shaddai.</span></span></span></span><span class=\"content\">.</span></span></div><div class=\"q\"><span class=\"verse v15\" data-usfm=\"JOL.1.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"JOL.1.16\"><span class=\"label\">16</span><span class=\"content\">&#191;No ha sido suprimido el alimento de delante de nuestros ojos,</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"JOL.1.16\"><span class=\"content\">  </span><span class=\"it\"><span class=\"content\">Y</span></span><span class=\"content\"> la alegr&#237;a y el regocijo de la casa de nuestro Dios?</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"JOL.1.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"JOL.1.17\"><span class=\"label\">17</span><span class=\"content\">Las semillas se han secado bajo los terrones;</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"JOL.1.17\"><span class=\"content\">Los almacenes han sido asolados,</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"JOL.1.17\"><span class=\"content\">Los graneros derribados</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"JOL.1.17\"><span class=\"content\">Porque se sec&#243; el grano.</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"JOL.1.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"JOL.1.18\"><span class=\"label\">18</span><span class=\"content\">&#161;C&#243;mo muge el ganado!</span></span></div><div class=\"q\"><span class=\"verse v18\" data-usfm=\"JOL.1.18\"><span class=\"content\">Andan vagando las manadas de vacas</span></span></div><div class=\"q\"><span class=\"verse v18\" data-usfm=\"JOL.1.18\"><span class=\"content\">Porque no hay pasto para ellas;</span></span></div><div class=\"q\"><span class=\"verse v18\" data-usfm=\"JOL.1.18\"><span class=\"content\">Hasta los reba&#241;os de ovejas sufren.</span></span></div><div class=\"q\"><span class=\"verse v18\" data-usfm=\"JOL.1.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"JOL.1.19\"><span class=\"label\">19</span><span class=\"content\">A Ti clamo, oh S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\">,</span></span></div><div class=\"q\"><span class=\"verse v19\" data-usfm=\"JOL.1.19\"><span class=\"content\">Porque el fuego ha devorado los pastos del desierto,</span></span></div><div class=\"q\"><span class=\"verse v19\" data-usfm=\"JOL.1.19\"><span class=\"content\">Y la llama ha consumido todos los &#225;rboles del campo.</span></span></div><div class=\"q\"><span class=\"verse v19\" data-usfm=\"JOL.1.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"JOL.1.20\"><span class=\"label\">20</span><span class=\"content\">Aun las bestias del campo braman por Ti,</span></span></div><div class=\"q\"><span class=\"verse v20\" data-usfm=\"JOL.1.20\"><span class=\"content\">Porque se han secado los arroyos de agua,</span></span></div><div class=\"q\"><span class=\"verse v20\" data-usfm=\"JOL.1.20\"><span class=\"content\">Y el fuego ha devorado los pastos del desierto.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Palabra del Señor que vino a Joel, hijo de Petuel."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Oigan esto, ancianos,",
+            "Y presten oído, habitantes todos de la tierra.",
+            "¿Ha acontecido cosa semejante en sus días,",
+            "O en los días de sus padres?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Cuéntenselo a los hijos de ustedes,",
+            "Y sus hijos a los suyos,",
+            "Y sus hijos a la siguiente generación."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "¶Lo que dejó la oruga, lo comió la langosta;",
+            "Lo que dejó la langosta, lo comió el pulgón;",
+            "Y lo que dejó el pulgón, lo comió el saltón."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Despierten, borrachos, y lloren,",
+            "Y giman todos los que beben vino,",
+            "A causa del vino dulce",
+            "Que les quitan de la boca."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Porque una nación ha subido contra mi tierra,",
+            "Poderosa e innumerable;",
+            "Sus dientes son dientes de león,",
+            "Y tiene colmillos de leona."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Ha hecho de mi vid una desolación,",
+            "Y astillas de mi higuera.",
+            "Del todo las ha descortezado y derribado;",
+            "Sus ramas se han vuelto blancas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "¶Laméntate como virgen ceñida de cilicio",
+            "Por el esposo de su juventud."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Han sido cortadas la ofrenda de cereal y la libación",
+            "De la casa del Señor.",
+            "Están de duelo los sacerdotes,",
+            "Los ministros del Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "El campo está asolado,",
+            "La tierra está de duelo,",
+            "Porque el grano está arruinado,",
+            "El vino nuevo se seca,",
+            "Y el aceite virgen se pierde."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Avergüéncense, labradores,",
+            "Giman, viñadores,",
+            "Por el trigo y la cebada,",
+            "Porque la cosecha del campo se ha perdido."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "La vid se seca,",
+            "Y se marchita la higuera;",
+            "También el granado, la palmera y el manzano,",
+            "Todos los árboles del campo se secan.",
+            "Ciertamente se seca la alegría",
+            "De los hijos de los hombres."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "¶Cíñanse de cilicio,",
+            "Y laméntense, sacerdotes;",
+            "Giman, ministros del altar.",
+            "Vengan, pasen la noche ceñidos de cilicio,",
+            "Ministros de mi Dios,",
+            "Porque sin ofrenda de cereal y sin libación",
+            "Ha quedado la casa de su Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Promulguen ayuno,",
+            "Convoquen asamblea;",
+            "Congreguen a los ancianos",
+            "Y a todos los habitantes de la tierra",
+            "En la casa del Señor su Dios,",
+            "Y clamen al Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "¡Ay de ese día!",
+            "Porque está cerca el día del Señor,",
+            "Y vendrá como destrucción del Todopoderoso."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "¿No ha sido suprimido el alimento de delante de nuestros ojos,",
+            "Y la alegría y el regocijo de la casa de nuestro Dios?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Las semillas se han secado bajo los terrones;",
+            "Los almacenes han sido asolados,",
+            "Los graneros derribados",
+            "Porque se secó el grano."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "¡Cómo muge el ganado!",
+            "Andan vagando las manadas de vacas",
+            "Porque no hay pasto para ellas;",
+            "Hasta los rebaños de ovejas sufren."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "A Ti clamo, oh Señor,",
+            "Porque el fuego ha devorado los pastos del desierto,",
+            "Y la llama ha consumido todos los árboles del campo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Aun las bestias del campo braman por Ti,",
+            "Porque se han secado los arroyos de agua,",
+            "Y el fuego ha devorado los pastos del desierto."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "JOL.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "JOL.2"
+        ],
+        "human": "Joel 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "JOL.3"
+        ],
+        "human": "Joel 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "JOL.1"
+        ],
+        "human": "Joel 1",
+        "toc": true
+      },
+      "chapter_text": "EÑOR\nToquen trompeta en Sión,\nY suenen alarma en Mi santo monte.\nTiemblen todos los habitantes de la tierra,\nPorque viene el día del SEÑOR;\nCiertamente está cercano,\nDía de tinieblas y densas sombras,\nDía nublado y de densa oscuridad.\nComo la aurora sobre los montes, se extiende\nUn pueblo grande y poderoso;\nNunca ha habido nada semejante a él,\nNi tampoco lo habrá después\nPor años de muchas generaciones.\nDelante de él consume el fuego,\nY detrás de él abrasa la llama.\nComo el huerto del Edén es la tierra delante de él;\nY detrás de él, un desierto desolado,\nY de él nada escapa.\nComo aspecto de caballos es su aspecto,\nY como corceles de guerra, así corren.\nComo estrépito de carros\nSaltan sobre las cumbres de los montes,\nComo el crepitar de llama de fuego que consume la hojarasca,\nComo pueblo poderoso dispuesto para la batalla.\nAnte él tiemblan los pueblos,\nPalidecen todos los rostros.\nComo valientes corren,\nComo soldados escalan la muralla;\nCada uno marcha por su camino,\nY no se desvían de sus sendas.\nNo se aprietan uno contra otro,\nCada cual marcha por su calzada;\nY cuando irrumpen por las defensas,\nNo rompen las filas.\nSe lanzan sobre la ciudad,\nCorren por la muralla,\nSuben a las casas,\nEntran por las ventanas como ladrones.\nAnte ellos tiembla la tierra,\nSe estremecen los cielos,\nEl sol y la luna se oscurecen,\nY las estrellas pierden su resplandor.\nEl SEÑOR da Su voz delante de Su ejército,\nPorque es inmenso Su campamento,\nPorque poderoso es el que ejecuta Su palabra.\nGrande y terrible es en verdad el día del SEÑOR,\n¿Y quién podrá soportarlo?\n\n¶«Aun ahora», declara el SEÑOR,\n«Vuelvan a Mí de todo corazón,\nCon ayuno, llanto y lamento.\n-»Rasguen su corazón y no sus vestidos».\nVuelvan ahora al SEÑOR su Dios,\nPorque Él es compasivo y clemente,\nLento para la ira, abundante en misericordia,\nY se arrepiente de infligir el mal.\n¿Quién sabe si reconsidere y se apiade,\nY deje tras sí bendición,\nEs decir, ofrenda de cereal y libación\nPara el SEÑOR su Dios?\nToquen trompeta en Sión,\nPromulguen ayuno, convoquen asamblea.\nReúnan al pueblo, santifiquen la asamblea,\nCongreguen a los ancianos,\nReúnan a los pequeños y a los niños de pecho.\nSalga el novio de su aposento\nY la novia de su alcoba.\nEntre el pórtico y el altar,\nLloren los sacerdotes, ministros del SEÑOR,\nY digan: «Perdona, oh SEÑOR, a Tu pueblo,\nY no entregues Tu heredad al oprobio,\nA la burla entre las naciones.\n¿Por qué han de decir entre los pueblos:\n“Dónde está su Dios?” ».\nEÑOR\n¶Entonces el SEÑOR se llenará de celo por Su tierra,\nY tendrá piedad de Su pueblo.\nEl SEÑOR responderá a Su pueblo:\n«Yo les enviaré grano, vino nuevo y aceite,\nY se saciarán de ello,\nY nunca más los entregaré al oprobio entre las naciones.\n-»Al ejército del norte lo alejaré de ustedes\nY lo echaré a una tierra árida y desolada,\nSu vanguardia hacia el mar oriental,\nY su retaguardia hacia el mar occidental.\nY ascenderá su hedor y subirá su fetidez,\nPorque ha hecho cosas terribles».\n¶No temas, oh tierra, regocíjate y alégrate,\nPorque el SEÑOR ha hecho grandes cosas.\nNo teman, bestias del campo,\nPorque los pastos del desierto han reverdecido,\nPorque el árbol ha dado su fruto,\nLa higuera y la vid han producido en abundancia.\nHijos de Sión, regocíjense\nY alégrense en el SEÑOR su Dios;\nPorque Él les ha dado la lluvia temprana para su vindicación,\nY les ha hecho descender la lluvia,\nLa lluvia temprana y la tardía como en el principio.\nY las eras se llenarán de grano,\nY las tinajas rebosarán de vino nuevo y de aceite virgen.\n«Entonces los compensaré por los años\nEn que devoraban la langosta,\nEl pulgón, el saltón y la oruga,\nMi gran ejército, que envié contra ustedes.\n-»Tendrán mucho que comer y se saciarán,\nY alabarán el nombre del SEÑOR su Dios,\nQue ha obrado maravillosamente con ustedes;\nY nunca jamás será avergonzado Mi pueblo.\n-»Y sabrán que en medio de Israel estoy Yo,\nY que Yo soy el SEÑOR su Dios\nY no hay otro.\nNunca jamás será avergonzado Mi pueblo.\n\n¶»Y sucederá que después de esto,\nDerramaré Mi Espíritu sobre toda carne;\nY sus hijos y sus hijas profetizarán,\nSus ancianos soñarán sueños,\nSus jóvenes verán visiones.\n-»Y aun sobre los siervos y las siervas\nDerramaré Mi Espíritu en esos días.\n-»Haré prodigios en el cielo y en la tierra:\nSangre, fuego y columnas de humo.\n-»El sol se convertirá en tinieblas,\nY la luna en sangre,\nAntes que venga el día del SEÑOR, grande y terrible.\n-»Y todo aquel que invoque el nombre del SEÑOR\nSerá salvo;\nPorque en el monte Sión y en Jerusalén\nHabrá salvación,\nComo ha dicho el SEÑOR,\nY entre los sobrevivientes estarán los que el SEÑOR llame.",
+      "chapter_html": "<div class=\"version vid103 iso6393spa\" data-vid=\"103\" data-iso6393=\"spa\">\n   <div class=\"book bkJOL\">\n      <div class=\"chapter ch2\" data-usfm=\"JOL.2\">\n         <div class=\"label\">2</div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">El d&#237;a terrible del S</span><span class=\"sc\"><span class=\"it\"><span class=\"heading\">e&#241;or</span></span></span></span></div><div class=\"q\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"JOL.2.1\"><span class=\"label\">1</span><span class=\"content\">Toquen trompeta en Si&#243;n,</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"JOL.2.1\"><span class=\"content\">Y suenen alarma en Mi santo monte.</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"JOL.2.1\"><span class=\"content\">Tiemblen todos los habitantes de la tierra,</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"JOL.2.1\"><span class=\"content\">Porque viene el d&#237;a del S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\">;</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"JOL.2.1\"><span class=\"content\">Ciertamente est&#225; cercano,</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"JOL.2.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"JOL.2.2\"><span class=\"label\">2</span><span class=\"content\">D&#237;a de tinieblas y densas sombras,</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"JOL.2.2\"><span class=\"content\">D&#237;a nublado y de densa oscuridad.</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"JOL.2.2\"><span class=\"content\">Como la aurora sobre los montes, se extiende</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"JOL.2.2\"><span class=\"content\">Un pueblo grande y poderoso;</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"JOL.2.2\"><span class=\"content\">Nunca ha habido </span><span class=\"it\"><span class=\"content\">nada</span></span><span class=\"content\"> semejante a &#233;l,</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"JOL.2.2\"><span class=\"content\">Ni tampoco lo habr&#225; despu&#233;s</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"JOL.2.2\"><span class=\"content\">Por a&#241;os de muchas generaciones.</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"JOL.2.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"JOL.2.3\"><span class=\"label\">3</span><span class=\"content\">Delante de &#233;l consume el fuego,</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"JOL.2.3\"><span class=\"content\">Y detr&#225;s de &#233;l abrasa la llama.</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"JOL.2.3\"><span class=\"content\">Como el huerto del Ed&#233;n es la tierra delante de &#233;l;</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"JOL.2.3\"><span class=\"content\">Y detr&#225;s de &#233;l, un desierto desolado,</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"JOL.2.3\"><span class=\"content\">Y de &#233;l nada escapa.</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"JOL.2.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"JOL.2.4\"><span class=\"label\">4</span><span class=\"content\">Como aspecto de caballos es su aspecto,</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"JOL.2.4\"><span class=\"content\">Y como corceles de guerra, as&#237; corren.</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"JOL.2.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"JOL.2.5\"><span class=\"label\">5</span><span class=\"content\">Como estr&#233;pito de carros</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"JOL.2.5\"><span class=\"content\">Saltan sobre las cumbres de los montes,</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"JOL.2.5\"><span class=\"content\">Como el crepitar de llama de fuego que consume la hojarasca,</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"JOL.2.5\"><span class=\"content\">Como pueblo poderoso dispuesto para la batalla.</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"JOL.2.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"JOL.2.6\"><span class=\"label\">6</span><span class=\"content\">Ante &#233;l tiemblan los pueblos,</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"JOL.2.6\"><span class=\"content\">Palidecen todos los rostros.</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"JOL.2.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"JOL.2.7\"><span class=\"label\">7</span><span class=\"content\">Como valientes corren,</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"JOL.2.7\"><span class=\"content\">Como soldados escalan la muralla;</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"JOL.2.7\"><span class=\"content\">Cada uno marcha por su camino,</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"JOL.2.7\"><span class=\"content\">Y no se desv&#237;an de sus sendas.</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"JOL.2.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"JOL.2.8\"><span class=\"label\">8</span><span class=\"content\">No se aprietan uno contra otro,</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"JOL.2.8\"><span class=\"content\">Cada cual marcha por su calzada;</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"JOL.2.8\"><span class=\"content\">Y cuando irrumpen por las defensas,</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"JOL.2.8\"><span class=\"content\">No rompen las filas.</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"JOL.2.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"JOL.2.9\"><span class=\"label\">9</span><span class=\"content\">Se lanzan sobre la ciudad,</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"JOL.2.9\"><span class=\"content\">Corren por la muralla,</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"JOL.2.9\"><span class=\"content\">Suben a las casas,</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"JOL.2.9\"><span class=\"content\">Entran por las ventanas como ladrones.</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"JOL.2.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"JOL.2.10\"><span class=\"label\">10</span><span class=\"content\">Ante ellos tiembla la tierra,</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"JOL.2.10\"><span class=\"content\">Se estremecen los cielos,</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"JOL.2.10\"><span class=\"content\">El sol y la luna se oscurecen,</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"JOL.2.10\"><span class=\"content\">Y las estrellas pierden su resplandor.</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"JOL.2.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"JOL.2.11\"><span class=\"label\">11</span><span class=\"content\">El S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> da Su voz delante de Su ej&#233;rcito,</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"JOL.2.11\"><span class=\"content\">Porque es inmenso Su campamento,</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"JOL.2.11\"><span class=\"content\">Porque poderoso es el que ejecuta Su palabra.</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"JOL.2.11\"><span class=\"content\">Grande y terrible es en verdad el d&#237;a del S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\">,</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"JOL.2.11\"><span class=\"content\">&#191;Y qui&#233;n podr&#225; soportarlo?</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Invitaci&#243;n al arrepentimiento</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"JOL.2.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"JOL.2.12\"><span class=\"label\">12</span><span class=\"content\">&#182;&#171;Aun ahora&#187;, declara el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\">,</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"JOL.2.12\"><span class=\"content\">&#171;Vuelvan a M&#237; de todo coraz&#243;n,</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"JOL.2.12\"><span class=\"content\">Con ayuno, llanto y lamento.</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"JOL.2.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"JOL.2.13\"><span class=\"label\">13</span><span class=\"content\">-&#187;Rasguen su coraz&#243;n y no sus vestidos&#187;.</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"JOL.2.13\"><span class=\"content\">Vuelvan ahora al S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> su Dios,</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"JOL.2.13\"><span class=\"content\">Porque &#201;l es compasivo y clemente,</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"JOL.2.13\"><span class=\"content\">Lento para la ira, abundante en misericordia,</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"JOL.2.13\"><span class=\"content\">Y se arrepiente de </span><span class=\"it\"><span class=\"content\">infligir</span></span><span class=\"content\"> el mal.</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"JOL.2.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"JOL.2.14\"><span class=\"label\">14</span><span class=\"content\">&#191;Qui&#233;n sabe si reconsidere y se apiade,</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"JOL.2.14\"><span class=\"content\">Y deje tras s&#237; bendici&#243;n,</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"JOL.2.14\"><span class=\"content\">  </span><span class=\"it\"><span class=\"content\">Es decir,</span></span><span class=\"content\"> ofrenda de cereal y libaci&#243;n</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"JOL.2.14\"><span class=\"content\">Para el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> su Dios?</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"JOL.2.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"JOL.2.15\"><span class=\"label\">15</span><span class=\"content\">Toquen trompeta en Si&#243;n,</span></span></div><div class=\"q\"><span class=\"verse v15\" data-usfm=\"JOL.2.15\"><span class=\"content\">Promulguen ayuno, convoquen asamblea.</span></span></div><div class=\"q\"><span class=\"verse v15\" data-usfm=\"JOL.2.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"JOL.2.16\"><span class=\"label\">16</span><span class=\"content\">Re&#250;nan al pueblo, santifiquen la asamblea,</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"JOL.2.16\"><span class=\"content\">Congreguen a los ancianos,</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"JOL.2.16\"><span class=\"content\">Re&#250;nan a los peque&#241;os y a los ni&#241;os de pecho.</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"JOL.2.16\"><span class=\"content\">Salga el novio de su aposento</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"JOL.2.16\"><span class=\"content\">Y la novia de su alcoba.</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"JOL.2.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"JOL.2.17\"><span class=\"label\">17</span><span class=\"content\">Entre el p&#243;rtico y el altar,</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"JOL.2.17\"><span class=\"content\">Lloren los sacerdotes, ministros del S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\">,</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"JOL.2.17\"><span class=\"content\">Y digan: &#171;Perdona, oh S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\">, a Tu pueblo,</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"JOL.2.17\"><span class=\"content\">Y no entregues Tu heredad al oprobio,</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"JOL.2.17\"><span class=\"content\">A la burla entre las naciones.</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"JOL.2.17\"><span class=\"content\">&#191;Por qu&#233; han de decir entre los pueblos:</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"JOL.2.17\"><span class=\"content\">&#8220;D&#243;nde est&#225; su Dios?&#8221;&#8201;&#187;.</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Misericordia del S</span><span class=\"sc\"><span class=\"it\"><span class=\"heading\">e&#241;or</span></span></span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"JOL.2.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"JOL.2.18\"><span class=\"label\">18</span><span class=\"content\">&#182;Entonces el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> se llenar&#225; de celo por Su tierra,</span></span></div><div class=\"q\"><span class=\"verse v18\" data-usfm=\"JOL.2.18\"><span class=\"content\">Y tendr&#225; piedad de Su pueblo.</span></span></div><div class=\"q\"><span class=\"verse v18\" data-usfm=\"JOL.2.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"JOL.2.19\"><span class=\"label\">19</span><span class=\"content\">El S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> responder&#225; a Su pueblo:</span></span></div><div class=\"q\"><span class=\"verse v19\" data-usfm=\"JOL.2.19\"><span class=\"content\">&#171;Yo les enviar&#233; grano, vino nuevo y aceite,</span></span></div><div class=\"q\"><span class=\"verse v19\" data-usfm=\"JOL.2.19\"><span class=\"content\">Y se saciar&#225;n de ello,</span></span></div><div class=\"q\"><span class=\"verse v19\" data-usfm=\"JOL.2.19\"><span class=\"content\">Y nunca m&#225;s los entregar&#233; al oprobio entre las naciones.</span></span></div><div class=\"q\"><span class=\"verse v19\" data-usfm=\"JOL.2.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"JOL.2.20\"><span class=\"label\">20</span><span class=\"content\">-&#187;Al </span><span class=\"it\"><span class=\"content\">ej&#233;rcito</span></span><span class=\"content\"> del norte lo alejar&#233; de ustedes</span></span></div><div class=\"q\"><span class=\"verse v20\" data-usfm=\"JOL.2.20\"><span class=\"content\">Y lo echar&#233; a una tierra &#225;rida y desolada,</span></span></div><div class=\"q\"><span class=\"verse v20\" data-usfm=\"JOL.2.20\"><span class=\"content\">Su vanguardia hacia el mar oriental,</span></span></div><div class=\"q\"><span class=\"verse v20\" data-usfm=\"JOL.2.20\"><span class=\"content\">Y su retaguardia hacia el mar occidental.</span></span></div><div class=\"q\"><span class=\"verse v20\" data-usfm=\"JOL.2.20\"><span class=\"content\">Y ascender&#225; su hedor y subir&#225; su fetidez,</span></span></div><div class=\"q\"><span class=\"verse v20\" data-usfm=\"JOL.2.20\"><span class=\"content\">Porque ha hecho cosas terribles&#187;.</span></span></div><div class=\"q\"><span class=\"verse v20\" data-usfm=\"JOL.2.20\"><span class=\"content\">  </span></span><span class=\"verse v21\" data-usfm=\"JOL.2.21\"><span class=\"label\">21</span><span class=\"content\">&#182;No temas, oh tierra, regoc&#237;jate y al&#233;grate,</span></span></div><div class=\"q\"><span class=\"verse v21\" data-usfm=\"JOL.2.21\"><span class=\"content\">Porque el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> ha hecho grandes cosas.</span></span></div><div class=\"q\"><span class=\"verse v21\" data-usfm=\"JOL.2.21\"><span class=\"content\">  </span></span><span class=\"verse v22\" data-usfm=\"JOL.2.22\"><span class=\"label\">22</span><span class=\"content\">No teman, bestias del campo,</span></span></div><div class=\"q\"><span class=\"verse v22\" data-usfm=\"JOL.2.22\"><span class=\"content\">Porque los pastos del desierto han reverdecido,</span></span></div><div class=\"q\"><span class=\"verse v22\" data-usfm=\"JOL.2.22\"><span class=\"content\">Porque el &#225;rbol ha dado su fruto,</span></span></div><div class=\"q\"><span class=\"verse v22\" data-usfm=\"JOL.2.22\"><span class=\"content\">La higuera y la vid han producido en abundancia.</span></span></div><div class=\"q\"><span class=\"verse v22\" data-usfm=\"JOL.2.22\"><span class=\"content\">  </span></span><span class=\"verse v23\" data-usfm=\"JOL.2.23\"><span class=\"label\">23</span><span class=\"content\">Hijos de Si&#243;n, regoc&#237;jense</span></span></div><div class=\"q\"><span class=\"verse v23\" data-usfm=\"JOL.2.23\"><span class=\"content\">Y al&#233;grense en el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> su Dios;</span></span></div><div class=\"q\"><span class=\"verse v23\" data-usfm=\"JOL.2.23\"><span class=\"content\">Porque &#201;l les ha dado la lluvia temprana</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:23 </span><span class=\"ft\">I.e. de oto&#241;o.</span></span></span><span class=\"content\"> para </span><span class=\"it\"><span class=\"content\">su</span></span><span class=\"content\"> vindicaci&#243;n,</span></span></div><div class=\"q\"><span class=\"verse v23\" data-usfm=\"JOL.2.23\"><span class=\"content\">Y les ha hecho descender la lluvia,</span></span></div><div class=\"q\"><span class=\"verse v23\" data-usfm=\"JOL.2.23\"><span class=\"content\">La lluvia temprana y la tard&#237;a</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:23 </span><span class=\"ft\">I.e. de primavera.</span></span></span><span class=\"content\">  </span><span class=\"it\"><span class=\"content\">como</span></span><span class=\"content\"> en el principio.</span></span></div><div class=\"q\"><span class=\"verse v23\" data-usfm=\"JOL.2.23\"><span class=\"content\">  </span></span><span class=\"verse v24\" data-usfm=\"JOL.2.24\"><span class=\"label\">24</span><span class=\"content\">Y las eras se llenar&#225;n de grano,</span></span></div><div class=\"q\"><span class=\"verse v24\" data-usfm=\"JOL.2.24\"><span class=\"content\">Y las tinajas rebosar&#225;n de vino nuevo y de aceite virgen.</span></span></div><div class=\"q\"><span class=\"verse v24\" data-usfm=\"JOL.2.24\"><span class=\"content\">  </span></span><span class=\"verse v25\" data-usfm=\"JOL.2.25\"><span class=\"label\">25</span><span class=\"content\">&#171;Entonces los compensar&#233; por los a&#241;os</span></span></div><div class=\"q\"><span class=\"verse v25\" data-usfm=\"JOL.2.25\"><span class=\"content\">En que devoraban la langosta,</span></span></div><div class=\"q\"><span class=\"verse v25\" data-usfm=\"JOL.2.25\"><span class=\"content\">El pulg&#243;n, el salt&#243;n y la oruga,</span></span></div><div class=\"q\"><span class=\"verse v25\" data-usfm=\"JOL.2.25\"><span class=\"content\">Mi gran ej&#233;rcito, que envi&#233; contra ustedes.</span></span></div><div class=\"q\"><span class=\"verse v25\" data-usfm=\"JOL.2.25\"><span class=\"content\">  </span></span><span class=\"verse v26\" data-usfm=\"JOL.2.26\"><span class=\"label\">26</span><span class=\"content\">-&#187;Tendr&#225;n mucho que comer y se saciar&#225;n,</span></span></div><div class=\"q\"><span class=\"verse v26\" data-usfm=\"JOL.2.26\"><span class=\"content\">Y alabar&#225;n el nombre del S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> su Dios,</span></span></div><div class=\"q\"><span class=\"verse v26\" data-usfm=\"JOL.2.26\"><span class=\"content\">Que ha obrado maravillosamente con ustedes;</span></span></div><div class=\"q\"><span class=\"verse v26\" data-usfm=\"JOL.2.26\"><span class=\"content\">Y nunca jam&#225;s ser&#225; avergonzado Mi pueblo.</span></span></div><div class=\"q\"><span class=\"verse v26\" data-usfm=\"JOL.2.26\"><span class=\"content\">  </span></span><span class=\"verse v27\" data-usfm=\"JOL.2.27\"><span class=\"label\">27</span><span class=\"content\">-&#187;Y sabr&#225;n que en medio de Israel estoy Yo,</span></span></div><div class=\"q\"><span class=\"verse v27\" data-usfm=\"JOL.2.27\"><span class=\"content\">Y que Yo soy el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> su Dios</span></span></div><div class=\"q\"><span class=\"verse v27\" data-usfm=\"JOL.2.27\"><span class=\"content\">Y no hay otro.</span></span></div><div class=\"q\"><span class=\"verse v27\" data-usfm=\"JOL.2.27\"><span class=\"content\">Nunca jam&#225;s ser&#225; avergonzado Mi pueblo.</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Derramamiento del esp&#237;ritu de Dios</span></span></div><div class=\"q\"><span class=\"verse v27\" data-usfm=\"JOL.2.27\"><span class=\"content\">  </span></span><span class=\"verse v28\" data-usfm=\"JOL.2.28\"><span class=\"label\">28</span><span class=\"content\">&#182;&#187;</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:28 </span><span class=\"ft\">En el texto heb. cap. 3:1.</span></span></span><span class=\"content\">Y suceder&#225; que despu&#233;s de esto,</span></span></div><div class=\"q\"><span class=\"verse v28\" data-usfm=\"JOL.2.28\"><span class=\"content\">Derramar&#233; Mi Esp&#237;ritu sobre toda carne;</span></span></div><div class=\"q\"><span class=\"verse v28\" data-usfm=\"JOL.2.28\"><span class=\"content\">Y sus hijos y sus hijas profetizar&#225;n,</span></span></div><div class=\"q\"><span class=\"verse v28\" data-usfm=\"JOL.2.28\"><span class=\"content\">Sus ancianos so&#241;ar&#225;n sue&#241;os,</span></span></div><div class=\"q\"><span class=\"verse v28\" data-usfm=\"JOL.2.28\"><span class=\"content\">Sus j&#243;venes ver&#225;n visiones.</span></span></div><div class=\"q\"><span class=\"verse v28\" data-usfm=\"JOL.2.28\"><span class=\"content\">  </span></span><span class=\"verse v29\" data-usfm=\"JOL.2.29\"><span class=\"label\">29</span><span class=\"content\">-&#187;Y aun sobre los siervos y las siervas</span></span></div><div class=\"q\"><span class=\"verse v29\" data-usfm=\"JOL.2.29\"><span class=\"content\">Derramar&#233; Mi Esp&#237;ritu en esos d&#237;as.</span></span></div><div class=\"q\"><span class=\"verse v29\" data-usfm=\"JOL.2.29\"><span class=\"content\">  </span></span><span class=\"verse v30\" data-usfm=\"JOL.2.30\"><span class=\"label\">30</span><span class=\"content\">-&#187;Har&#233; prodigios en el cielo y en la tierra:</span></span></div><div class=\"q\"><span class=\"verse v30\" data-usfm=\"JOL.2.30\"><span class=\"content\">Sangre, fuego y columnas de humo.</span></span></div><div class=\"q\"><span class=\"verse v30\" data-usfm=\"JOL.2.30\"><span class=\"content\">  </span></span><span class=\"verse v31\" data-usfm=\"JOL.2.31\"><span class=\"label\">31</span><span class=\"content\">-&#187;El sol se convertir&#225; en tinieblas,</span></span></div><div class=\"q\"><span class=\"verse v31\" data-usfm=\"JOL.2.31\"><span class=\"content\">Y la luna en sangre,</span></span></div><div class=\"q\"><span class=\"verse v31\" data-usfm=\"JOL.2.31\"><span class=\"content\">Antes que venga el d&#237;a del S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\">, grande y terrible.</span></span></div><div class=\"q\"><span class=\"verse v31\" data-usfm=\"JOL.2.31\"><span class=\"content\">  </span></span><span class=\"verse v32\" data-usfm=\"JOL.2.32\"><span class=\"label\">32</span><span class=\"content\">-&#187;Y todo aquel que invoque el nombre del S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span></span></div><div class=\"q\"><span class=\"verse v32\" data-usfm=\"JOL.2.32\"><span class=\"content\">Ser&#225; salvo;</span></span></div><div class=\"q\"><span class=\"verse v32\" data-usfm=\"JOL.2.32\"><span class=\"content\">Porque en el monte Si&#243;n y en Jerusal&#233;n</span></span></div><div class=\"q\"><span class=\"verse v32\" data-usfm=\"JOL.2.32\"><span class=\"content\">Habr&#225; salvaci&#243;n,</span></span></div><div class=\"q\"><span class=\"verse v32\" data-usfm=\"JOL.2.32\"><span class=\"content\">Como ha dicho el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\">,</span></span></div><div class=\"q\"><span class=\"verse v32\" data-usfm=\"JOL.2.32\"><span class=\"content\">Y entre los sobrevivientes </span><span class=\"it\"><span class=\"content\">estar&#225;n</span></span><span class=\"content\"> los que el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> llame.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Toquen trompeta en Sión,",
+            "Y suenen alarma en Mi santo monte.",
+            "Tiemblen todos los habitantes de la tierra,",
+            "Porque viene el día del Señor;",
+            "Ciertamente está cercano,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Día de tinieblas y densas sombras,",
+            "Día nublado y de densa oscuridad.",
+            "Como la aurora sobre los montes, se extiende",
+            "Un pueblo grande y poderoso;",
+            "Nunca ha habido nada semejante a él,",
+            "Ni tampoco lo habrá después",
+            "Por años de muchas generaciones."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Delante de él consume el fuego,",
+            "Y detrás de él abrasa la llama.",
+            "Como el huerto del Edén es la tierra delante de él;",
+            "Y detrás de él, un desierto desolado,",
+            "Y de él nada escapa."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Como aspecto de caballos es su aspecto,",
+            "Y como corceles de guerra, así corren."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Como estrépito de carros",
+            "Saltan sobre las cumbres de los montes,",
+            "Como el crepitar de llama de fuego que consume la hojarasca,",
+            "Como pueblo poderoso dispuesto para la batalla."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Ante él tiemblan los pueblos,",
+            "Palidecen todos los rostros."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Como valientes corren,",
+            "Como soldados escalan la muralla;",
+            "Cada uno marcha por su camino,",
+            "Y no se desvían de sus sendas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "No se aprietan uno contra otro,",
+            "Cada cual marcha por su calzada;",
+            "Y cuando irrumpen por las defensas,",
+            "No rompen las filas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Se lanzan sobre la ciudad,",
+            "Corren por la muralla,",
+            "Suben a las casas,",
+            "Entran por las ventanas como ladrones."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Ante ellos tiembla la tierra,",
+            "Se estremecen los cielos,",
+            "El sol y la luna se oscurecen,",
+            "Y las estrellas pierden su resplandor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "El Señor da Su voz delante de Su ejército,",
+            "Porque es inmenso Su campamento,",
+            "Porque poderoso es el que ejecuta Su palabra.",
+            "Grande y terrible es en verdad el día del Señor,",
+            "¿Y quién podrá soportarlo?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "¶«Aun ahora», declara el Señor,",
+            "«Vuelvan a Mí de todo corazón,",
+            "Con ayuno, llanto y lamento."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "-»Rasguen su corazón y no sus vestidos».",
+            "Vuelvan ahora al Señor su Dios,",
+            "Porque Él es compasivo y clemente,",
+            "Lento para la ira, abundante en misericordia,",
+            "Y se arrepiente de infligir el mal."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "¿Quién sabe si reconsidere y se apiade,",
+            "Y deje tras sí bendición,",
+            "Es decir, ofrenda de cereal y libación",
+            "Para el Señor su Dios?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Toquen trompeta en Sión,",
+            "Promulguen ayuno, convoquen asamblea."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Reúnan al pueblo, santifiquen la asamblea,",
+            "Congreguen a los ancianos,",
+            "Reúnan a los pequeños y a los niños de pecho.",
+            "Salga el novio de su aposento",
+            "Y la novia de su alcoba."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Entre el pórtico y el altar,",
+            "Lloren los sacerdotes, ministros del Señor,",
+            "Y digan: «Perdona, oh Señor, a Tu pueblo,",
+            "Y no entregues Tu heredad al oprobio,",
+            "A la burla entre las naciones.",
+            "¿Por qué han de decir entre los pueblos:",
+            "“Dónde está su Dios?” »."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "¶Entonces el Señor se llenará de celo por Su tierra,",
+            "Y tendrá piedad de Su pueblo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "El Señor responderá a Su pueblo:",
+            "«Yo les enviaré grano, vino nuevo y aceite,",
+            "Y se saciarán de ello,",
+            "Y nunca más los entregaré al oprobio entre las naciones."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "-»Al ejército del norte lo alejaré de ustedes",
+            "Y lo echaré a una tierra árida y desolada,",
+            "Su vanguardia hacia el mar oriental,",
+            "Y su retaguardia hacia el mar occidental.",
+            "Y ascenderá su hedor y subirá su fetidez,",
+            "Porque ha hecho cosas terribles»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "¶No temas, oh tierra, regocíjate y alégrate,",
+            "Porque el Señor ha hecho grandes cosas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "No teman, bestias del campo,",
+            "Porque los pastos del desierto han reverdecido,",
+            "Porque el árbol ha dado su fruto,",
+            "La higuera y la vid han producido en abundancia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "Hijos de Sión, regocíjense",
+            "Y alégrense en el Señor su Dios;",
+            "Porque Él les ha dado la lluvia temprana para su vindicación,",
+            "Y les ha hecho descender la lluvia,",
+            "La lluvia temprana y la tardía como en el principio."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "Y las eras se llenarán de grano,",
+            "Y las tinajas rebosarán de vino nuevo y de aceite virgen."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "«Entonces los compensaré por los años",
+            "En que devoraban la langosta,",
+            "El pulgón, el saltón y la oruga,",
+            "Mi gran ejército, que envié contra ustedes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 26,
+          "lines": [
+            "-»Tendrán mucho que comer y se saciarán,",
+            "Y alabarán el nombre del Señor su Dios,",
+            "Que ha obrado maravillosamente con ustedes;",
+            "Y nunca jamás será avergonzado Mi pueblo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 27,
+          "lines": [
+            "-»Y sabrán que en medio de Israel estoy Yo,",
+            "Y que Yo soy el Señor su Dios",
+            "Y no hay otro.",
+            "Nunca jamás será avergonzado Mi pueblo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 28,
+          "lines": [
+            "¶»Y sucederá que después de esto,",
+            "Derramaré Mi Espíritu sobre toda carne;",
+            "Y sus hijos y sus hijas profetizarán,",
+            "Sus ancianos soñarán sueños,",
+            "Sus jóvenes verán visiones."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 29,
+          "lines": [
+            "-»Y aun sobre los siervos y las siervas",
+            "Derramaré Mi Espíritu en esos días."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 30,
+          "lines": [
+            "-»Haré prodigios en el cielo y en la tierra:",
+            "Sangre, fuego y columnas de humo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 31,
+          "lines": [
+            "-»El sol se convertirá en tinieblas,",
+            "Y la luna en sangre,",
+            "Antes que venga el día del Señor, grande y terrible."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 32,
+          "lines": [
+            "-»Y todo aquel que invoque el nombre del Señor",
+            "Será salvo;",
+            "Porque en el monte Sión y en Jerusalén",
+            "Habrá salvación,",
+            "Como ha dicho el Señor,",
+            "Y entre los sobrevivientes estarán los que el Señor llame."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "JOL.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "JOL.3"
+        ],
+        "human": "Joel 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "AMO.1"
+        ],
+        "human": "Amós 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "JOL.2"
+        ],
+        "human": "Joel 2",
+        "toc": true
+      },
+      "chapter_text": "»Porque en aquellos días y en aquel tiempo,\nCuando Yo restaure el bienestar de Judá y Jerusalén,\nReuniré a todas las naciones,\nY las haré bajar al valle de Josafat.\nY allí entraré en juicio con ellas\nA favor de Mi pueblo y Mi heredad, Israel,\nA quien ellas esparcieron entre las naciones,\nY repartieron Mi tierra.\n-»También echaron suertes sobre Mi pueblo,\nCambiaron un niño por una ramera,\nY vendieron una niña por vino para poder beber.\n»Además, Tiro, Sidón y todas las regiones de Filistea ¿qué tienen ustedes que ver conmigo? ¿Acaso se quieren vengar de Mí? Si de esta manera se vengan de Mí, bien pronto haré volver su venganza sobre su cabeza. Por cuanto han tomado Mi plata y Mi oro, y se han llevado Mis valiosos tesoros a sus templos, y han vendido los hijos de Judá y Jerusalén a los griegos para alejarlos de su territorio, Yo los levantaré del lugar donde los vendieron, y devolveré su venganza sobre su cabeza. También venderé sus hijos y sus hijas a los hijos de Judá, y ellos los venderán a los sabeos, a una nación lejana», porque el SEÑOR lo ha dicho.\n¶Proclamen esto entre las naciones:\nPrepárense para la guerra, despierten a los valientes;\nAcérquense, suban todos los soldados.\nForjen espadas de sus rejas de arado\nY lanzas de sus podaderas;\nDiga el débil: «Fuerte soy».\nApresúrense y vengan, naciones todas de alrededor,\nY reúnanse allí.\nHaz descender, oh SEÑOR, a Tus valientes.\nDespiértense y suban las naciones\nAl valle de Josafat,\nPorque allí me sentaré a juzgar\nA todas las naciones de alrededor.\nMetan la hoz, porque la cosecha está madura;\nVengan, pisen, que el lagar está lleno;\nLas tinajas rebosan, porque grande es su maldad.\nMultitudes de multitudes en el valle de la decisión.\nPorque cerca está el día del SEÑOR en el valle de la decisión.\nEl sol y la luna se oscurecen,\nY las estrellas pierden su resplandor.\nEl SEÑOR ruge desde Sión\nY desde Jerusalén da Su voz,\nY tiemblan los cielos y la tierra.\nPero el SEÑOR es refugio para Su pueblo\nY fortaleza para los israelitas.\nEntonces sabrán que Yo soy el SEÑOR su Dios,\nQue habito en Sión, Mi santo monte.\nY Jerusalén será santa,\nY los extranjeros no pasarán más por ella.\n\n¶Y sucederá que en aquel día\nLos montes destilarán vino dulce,\nLas colinas fluirán leche,\nY por todos los arroyos de Judá correrán las aguas;\nBrotará un manantial de la casa del SEÑOR\nY regará el valle de Sitim.\nEgipto será una desolación,\nY Edom será un desierto desolado,\nPor la violencia hecha a los hijos de Judá,\nEn cuya tierra han derramado sangre inocente.\nPero Judá será habitada para siempre,\nY Jerusalén por todas las generaciones.\nY Yo vengaré su sangre, que aún no he vengado,\nPues el SEÑOR habita en Sión.",
+      "chapter_html": "<div class=\"version vid103 iso6393spa\" data-vid=\"103\" data-iso6393=\"spa\">\n   <div class=\"book bkJOL\">\n      <div class=\"chapter ch3\" data-usfm=\"JOL.3\">\n         <div class=\"label\">3</div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Juicio de las naciones</span></span></div><div class=\"q\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"JOL.3.1\"><span class=\"label\">1</span><span class=\"content\">  </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:1 </span><span class=\"ft\">  </span><span class=\"ft\">En el texto heb. cap. 4:1.</span><span class=\"ft\">  </span></span></span><span class=\"content\">&#187;Porque en aquellos d&#237;as y en aquel tiempo,</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"JOL.3.1\"><span class=\"content\">Cuando Yo restaure el bienestar</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:1 </span><span class=\"ft\">O <span class=\"it\">haga volver a los cautivos.</span></span></span></span><span class=\"content\"> de Jud&#225; y Jerusal&#233;n,</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"JOL.3.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"JOL.3.2\"><span class=\"label\">2</span><span class=\"content\">Reunir&#233; a todas las naciones,</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"JOL.3.2\"><span class=\"content\">Y las har&#233; bajar al valle de Josafat.</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"JOL.3.2\"><span class=\"content\">Y all&#237; entrar&#233; en juicio con ellas</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"JOL.3.2\"><span class=\"content\">A favor de Mi pueblo y Mi heredad, Israel,</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"JOL.3.2\"><span class=\"content\">A quien ellas esparcieron entre las naciones,</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"JOL.3.2\"><span class=\"content\">Y repartieron Mi tierra.</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"JOL.3.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"JOL.3.3\"><span class=\"label\">3</span><span class=\"content\">-&#187;Tambi&#233;n echaron suertes sobre Mi pueblo,</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"JOL.3.3\"><span class=\"content\">Cambiaron un ni&#241;o por una ramera,</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"JOL.3.3\"><span class=\"content\">Y vendieron una ni&#241;a por vino para poder beber.</span></span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"JOL.3.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"JOL.3.4\"><span class=\"label\">4</span><span class=\"content\">&#187;Adem&#225;s, Tiro, Sid&#243;n y todas las regiones de Filistea &#191;qu&#233; tienen ustedes que ver conmigo? &#191;Acaso se quieren vengar de M&#237;? Si de esta manera se vengan de M&#237;, bien pronto har&#233; volver su venganza sobre su cabeza. </span></span><span class=\"verse v5\" data-usfm=\"JOL.3.5\"><span class=\"label\">5</span><span class=\"content\">Por cuanto han tomado Mi plata y Mi oro, y se han llevado Mis valiosos tesoros a sus templos, </span></span><span class=\"verse v6\" data-usfm=\"JOL.3.6\"><span class=\"label\">6</span><span class=\"content\">y han vendido los hijos de Jud&#225; y Jerusal&#233;n a los griegos para alejarlos de su territorio, </span></span><span class=\"verse v7\" data-usfm=\"JOL.3.7\"><span class=\"label\">7</span><span class=\"content\">Yo los levantar&#233; del lugar donde los vendieron, y devolver&#233; su venganza sobre su cabeza. </span></span><span class=\"verse v8\" data-usfm=\"JOL.3.8\"><span class=\"label\">8</span><span class=\"content\">Tambi&#233;n vender&#233; sus hijos y sus hijas a los hijos de Jud&#225;, y ellos los vender&#225;n a los sabeos, a una naci&#243;n lejana&#187;, porque el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\">  </span><span class=\"it\"><span class=\"content\">lo</span></span><span class=\"content\"> ha dicho.</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"JOL.3.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"JOL.3.9\"><span class=\"label\">9</span><span class=\"content\">&#182;Proclamen esto entre las naciones:</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"JOL.3.9\"><span class=\"content\">Prep&#225;rense para la guerra, despierten a los valientes;</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"JOL.3.9\"><span class=\"content\">Ac&#233;rquense, suban todos los soldados.</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"JOL.3.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"JOL.3.10\"><span class=\"label\">10</span><span class=\"content\">Forjen espadas de sus rejas de arado</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"JOL.3.10\"><span class=\"content\">Y lanzas de sus podaderas;</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"JOL.3.10\"><span class=\"content\">Diga el d&#233;bil: &#171;Fuerte soy&#187;.</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"JOL.3.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"JOL.3.11\"><span class=\"label\">11</span><span class=\"content\">Apres&#250;rense y vengan, naciones todas de alrededor,</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"JOL.3.11\"><span class=\"content\">Y re&#250;nanse all&#237;.</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"JOL.3.11\"><span class=\"content\">Haz descender, oh S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\">, a Tus valientes.</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"JOL.3.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"JOL.3.12\"><span class=\"label\">12</span><span class=\"content\">Despi&#233;rtense y suban las naciones</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"JOL.3.12\"><span class=\"content\">Al valle de Josafat,</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"JOL.3.12\"><span class=\"content\">Porque all&#237; me sentar&#233; a juzgar</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"JOL.3.12\"><span class=\"content\">A todas las naciones de alrededor.</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"JOL.3.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"JOL.3.13\"><span class=\"label\">13</span><span class=\"content\">Metan la hoz, porque la cosecha est&#225; madura;</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"JOL.3.13\"><span class=\"content\">Vengan, pisen, que el lagar est&#225; lleno;</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"JOL.3.13\"><span class=\"content\">Las tinajas rebosan, porque grande es su maldad.</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"JOL.3.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"JOL.3.14\"><span class=\"label\">14</span><span class=\"content\">Multitudes de multitudes en el valle de la decisi&#243;n.</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"JOL.3.14\"><span class=\"content\">Porque cerca est&#225; el d&#237;a del S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> en el valle de la decisi&#243;n.</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"JOL.3.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"JOL.3.15\"><span class=\"label\">15</span><span class=\"content\">El sol y la luna se oscurecen,</span></span></div><div class=\"q\"><span class=\"verse v15\" data-usfm=\"JOL.3.15\"><span class=\"content\">Y las estrellas pierden su resplandor.</span></span></div><div class=\"q\"><span class=\"verse v15\" data-usfm=\"JOL.3.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"JOL.3.16\"><span class=\"label\">16</span><span class=\"content\">El S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> ruge desde Si&#243;n</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"JOL.3.16\"><span class=\"content\">Y desde Jerusal&#233;n da Su voz,</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"JOL.3.16\"><span class=\"content\">Y tiemblan los cielos y la tierra.</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"JOL.3.16\"><span class=\"content\">Pero el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> es refugio para Su pueblo</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"JOL.3.16\"><span class=\"content\">Y fortaleza para los israelitas.</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"JOL.3.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"JOL.3.17\"><span class=\"label\">17</span><span class=\"content\">Entonces sabr&#225;n que Yo soy el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> su Dios,</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"JOL.3.17\"><span class=\"content\">Que habito en Si&#243;n, Mi santo monte.</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"JOL.3.17\"><span class=\"content\">Y Jerusal&#233;n ser&#225; santa,</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"JOL.3.17\"><span class=\"content\">Y los extranjeros no pasar&#225;n m&#225;s por ella.</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Restauraci&#243;n de Jud&#225;</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"JOL.3.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"JOL.3.18\"><span class=\"label\">18</span><span class=\"content\">&#182;Y suceder&#225; que en aquel d&#237;a</span></span></div><div class=\"q\"><span class=\"verse v18\" data-usfm=\"JOL.3.18\"><span class=\"content\">Los montes destilar&#225;n vino dulce,</span></span></div><div class=\"q\"><span class=\"verse v18\" data-usfm=\"JOL.3.18\"><span class=\"content\">Las colinas fluir&#225;n leche,</span></span></div><div class=\"q\"><span class=\"verse v18\" data-usfm=\"JOL.3.18\"><span class=\"content\">Y por todos los arroyos de Jud&#225; correr&#225;n las aguas;</span></span></div><div class=\"q\"><span class=\"verse v18\" data-usfm=\"JOL.3.18\"><span class=\"content\">Brotar&#225; un manantial de la casa del S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span></span></div><div class=\"q\"><span class=\"verse v18\" data-usfm=\"JOL.3.18\"><span class=\"content\">Y regar&#225; el valle de Sitim.</span></span></div><div class=\"q\"><span class=\"verse v18\" data-usfm=\"JOL.3.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"JOL.3.19\"><span class=\"label\">19</span><span class=\"content\">Egipto ser&#225; una desolaci&#243;n,</span></span></div><div class=\"q\"><span class=\"verse v19\" data-usfm=\"JOL.3.19\"><span class=\"content\">Y Edom ser&#225; un desierto desolado,</span></span></div><div class=\"q\"><span class=\"verse v19\" data-usfm=\"JOL.3.19\"><span class=\"content\">Por la violencia hecha a los hijos de Jud&#225;,</span></span></div><div class=\"q\"><span class=\"verse v19\" data-usfm=\"JOL.3.19\"><span class=\"content\">En cuya tierra han derramado sangre inocente.</span></span></div><div class=\"q\"><span class=\"verse v19\" data-usfm=\"JOL.3.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"JOL.3.20\"><span class=\"label\">20</span><span class=\"content\">Pero Jud&#225; ser&#225; habitada para siempre,</span></span></div><div class=\"q\"><span class=\"verse v20\" data-usfm=\"JOL.3.20\"><span class=\"content\">Y Jerusal&#233;n por todas las generaciones.</span></span></div><div class=\"q\"><span class=\"verse v20\" data-usfm=\"JOL.3.20\"><span class=\"content\">  </span></span><span class=\"verse v21\" data-usfm=\"JOL.3.21\"><span class=\"label\">21</span><span class=\"content\">Y Yo vengar&#233; su sangre, </span><span class=\"it\"><span class=\"content\">que a&#250;n</span></span><span class=\"content\"> no he vengado,</span></span></div><div class=\"q\"><span class=\"verse v21\" data-usfm=\"JOL.3.21\"><span class=\"content\">Pues el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> habita en Si&#243;n.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "»Porque en aquellos días y en aquel tiempo,",
+            "Cuando Yo restaure el bienestar de Judá y Jerusalén,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Reuniré a todas las naciones,",
+            "Y las haré bajar al valle de Josafat.",
+            "Y allí entraré en juicio con ellas",
+            "A favor de Mi pueblo y Mi heredad, Israel,",
+            "A quien ellas esparcieron entre las naciones,",
+            "Y repartieron Mi tierra."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "-»También echaron suertes sobre Mi pueblo,",
+            "Cambiaron un niño por una ramera,",
+            "Y vendieron una niña por vino para poder beber."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "»Además, Tiro, Sidón y todas las regiones de Filistea ¿qué tienen ustedes que ver conmigo? ¿Acaso se quieren vengar de Mí? Si de esta manera se vengan de Mí, bien pronto haré volver su venganza sobre su cabeza."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Por cuanto han tomado Mi plata y Mi oro, y se han llevado Mis valiosos tesoros a sus templos,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "y han vendido los hijos de Judá y Jerusalén a los griegos para alejarlos de su territorio,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Yo los levantaré del lugar donde los vendieron, y devolveré su venganza sobre su cabeza."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "También venderé sus hijos y sus hijas a los hijos de Judá, y ellos los venderán a los sabeos, a una nación lejana», porque el Señor lo ha dicho."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "¶Proclamen esto entre las naciones:",
+            "Prepárense para la guerra, despierten a los valientes;",
+            "Acérquense, suban todos los soldados."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Forjen espadas de sus rejas de arado",
+            "Y lanzas de sus podaderas;",
+            "Diga el débil: «Fuerte soy»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Apresúrense y vengan, naciones todas de alrededor,",
+            "Y reúnanse allí.",
+            "Haz descender, oh Señor, a Tus valientes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Despiértense y suban las naciones",
+            "Al valle de Josafat,",
+            "Porque allí me sentaré a juzgar",
+            "A todas las naciones de alrededor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Metan la hoz, porque la cosecha está madura;",
+            "Vengan, pisen, que el lagar está lleno;",
+            "Las tinajas rebosan, porque grande es su maldad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Multitudes de multitudes en el valle de la decisión.",
+            "Porque cerca está el día del Señor en el valle de la decisión."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "El sol y la luna se oscurecen,",
+            "Y las estrellas pierden su resplandor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "El Señor ruge desde Sión",
+            "Y desde Jerusalén da Su voz,",
+            "Y tiemblan los cielos y la tierra.",
+            "Pero el Señor es refugio para Su pueblo",
+            "Y fortaleza para los israelitas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Entonces sabrán que Yo soy el Señor su Dios,",
+            "Que habito en Sión, Mi santo monte.",
+            "Y Jerusalén será santa,",
+            "Y los extranjeros no pasarán más por ella."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "¶Y sucederá que en aquel día",
+            "Los montes destilarán vino dulce,",
+            "Las colinas fluirán leche,",
+            "Y por todos los arroyos de Judá correrán las aguas;",
+            "Brotará un manantial de la casa del Señor",
+            "Y regará el valle de Sitim."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Egipto será una desolación,",
+            "Y Edom será un desierto desolado,",
+            "Por la violencia hecha a los hijos de Judá,",
+            "En cuya tierra han derramado sangre inocente."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Pero Judá será habitada para siempre,",
+            "Y Jerusalén por todas las generaciones."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "Y Yo vengaré su sangre, que aún no he vengado,",
+            "Pues el Señor habita en Sión."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

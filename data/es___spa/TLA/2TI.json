@@ -1,0 +1,883 @@
+{
+  "book_usfm": "2TI",
+  "name": "2 Timoteo",
+  "local_title": "Traducción en Lenguaje Actual",
+  "local_abbreviation": "TLA",
+  "version_id": 176,
+  "publisher": {
+    "name": "United Bible Societies"
+  },
+  "copyright": {
+    "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+    "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "2TI.INTRO1",
+      "is_chapter": false,
+      "current": {
+        "usfm": [
+          "2TI.INTRO1"
+        ],
+        "human": "2 Timoteo Introducción"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "2TI.1"
+        ],
+        "human": "2 Timoteo 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "1TI.6"
+        ],
+        "human": "1 Timoteo 6",
+        "toc": true
+      },
+      "chapter_text": "Introducción\nEsta carta está escrita en el mismo tono que la primera: ante el desarrollo de falsas enseñanzas dentro de la iglesia, el autor da mayores instrucciones al joven Timoteo en cuanto a lo que él debe enseñar. Le recomienda no avergonzarse de la buena noticia de Jesucristo, sino estar dispuesto a sufrir por anunciarla, «como buen soldado de Jesucristo» (1.6-92.3).\nEn aquel tiempo había preocupación acerca del fin del mundo. El autor le hace notar a Timoteo que mucha gente se volverá egoísta y desobediente, y no tendrá más interés que el de ganar dinero. Por eso le recomienda no hacer amistad con esa clase de gente (3.1-5).\nAparece también en esta carta un breve himno, o pequeña confesión de fe, que recalca la fidelidad de Cristo:\n«Si morimos por Cristo,\ntambién viviremos con él.\n\nSi soportamos los sufrimientos,\ncompartiremos su reinado.\n\nSi decimos que no lo conocemos,\ntambién él dirá que no nos conoce.\n\nY aunque no seamos fieles,\nCristo permanece fiel\nporque él jamás rompe su promesa.»\n(2.11-13)\nEl autor parece presentir que su muerte está cerca (4.6), por lo que se despide enviando saludos personales a los cristianos de la iglesia, que estaban al cuidado de Timoteo.",
+      "chapter_html": "<div class=\"version vid176 iso6393spa\" data-vid=\"176\" data-iso6393=\"spa\">\n   <div class=\"book bk2TI\">\n      <div class=\"chapter chINTRO1\" data-usfm=\"2TI.INTRO1\">\n         <div class=\"imt\"><span class=\"content\">Introducci&#243;n</span></div><div class=\"ip\"><span class=\"content\">Esta carta est&#225; escrita en el mismo tono que la primera: ante el desarrollo de falsas ense&#241;anzas dentro de la iglesia, el autor da mayores instrucciones al joven Timoteo en cuanto a lo que &#233;l debe ense&#241;ar. Le recomienda no avergonzarse de la buena noticia de Jesucristo, sino estar dispuesto a sufrir por anunciarla, </span><span class=\"iqt\"><span class=\"content\">&#171;como buen soldado de Jesucristo&#187;</span></span><span class=\"content\"> (</span><span class=\"content\">1.6-9</span>; <span class=\"content\">2.3</span><span class=\"content\">).</span></div><div class=\"ip\"><span class=\"content\">En aquel tiempo hab&#237;a preocupaci&#243;n acerca del fin del mundo. El autor le hace notar a Timoteo que mucha gente se volver&#225; ego&#237;sta y desobediente, y no tendr&#225; m&#225;s inter&#233;s que el de ganar dinero. Por eso le recomienda no hacer amistad con esa clase de gente (</span><span class=\"content\">3.1-5</span><span class=\"content\">).</span></div><div class=\"ip\"><span class=\"content\">Aparece tambi&#233;n en esta carta un breve himno, o peque&#241;a confesi&#243;n de fe, que recalca la fidelidad de Cristo:</span></div><div class=\"iq\"><span class=\"content\">&#171;Si morimos por Cristo,</span></div><div class=\"iq\"><span class=\"content\">tambi&#233;n viviremos con &#233;l.</span></div><div class=\"ib\"></div><div class=\"iq\"><span class=\"content\">Si soportamos los sufrimientos,</span></div><div class=\"iq\"><span class=\"content\">compartiremos su reinado.</span></div><div class=\"ib\"></div><div class=\"iq\"><span class=\"content\">Si decimos que no lo conocemos,</span></div><div class=\"iq\"><span class=\"content\">tambi&#233;n &#233;l dir&#225; que no nos conoce.</span></div><div class=\"ib\"></div><div class=\"iq\"><span class=\"content\">Y aunque no seamos fieles,</span></div><div class=\"iq\"><span class=\"content\">Cristo permanece fiel</span></div><div class=\"iq\"><span class=\"content\">porque &#233;l jam&#225;s rompe su promesa.&#187;</span></div><div class=\"ipr\"><span class=\"content\">(2.11-13)</span></div><div class=\"ip\"><span class=\"content\">El autor parece presentir que su muerte est&#225; cerca (</span><span class=\"content\">4.6</span><span class=\"content\">), por lo que se despide enviando saludos personales a los cristianos de la iglesia, que estaban al cuidado de Timoteo.</span></div><div class=\"ie\"></div>\n      </div>\n   </div>\n</div>",
+      "items": []
+    },
+    {
+      "chapter_usfm": "2TI.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "2TI.1"
+        ],
+        "human": "2 Timoteo 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "2TI.2"
+        ],
+        "human": "2 Timoteo 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": false,
+        "usfm": [
+          "2TI.INTRO1"
+        ],
+        "human": "2 Timoteo Introducción",
+        "toc": true
+      },
+      "chapter_text": "Querido hijo Timoteo:\nTe envío mis saludos, y de todo corazón les pido a Dios Padre y a Jesucristo nuestro Señor que te llenen de amor, te ayuden en todo, y te den su paz.\nComo te dije antes, soy apóstol de Cristo. Dios me envió a comunicar su mensaje, y me prometió la vida eterna por medio de Cristo Jesús.\n\nMis familiares y yo hemos servido a Dios, y nadie puede acusarnos de nada malo. Siempre que oro, ya sea de día o de noche, te recuerdo y doy gracias a Dios por ti. Cada vez que me acuerdo de cómo lloraste y te pusiste triste, me dan más ganas de verte. ¡Cómo me alegraría eso! Tu abuela Loida y tu madre Eunice confiaron sinceramente en Dios; y cuando me acuerdo de ti, me siento seguro de que también tú tienes esa misma confianza.\n\nPor eso te recomiendo que no dejes de usar esa capacidad especial que Dios te dio cuando puse mis manos sobre tu cabeza. Porque el Espíritu de Dios no nos hace cobardes. Al contrario, nos da poder para amar a los demás, y nos fortalece para que podamos vivir una buena vida cristiana.\nPor lo tanto, no te avergüences de hablar bien de nuestro Señor Jesús. Tampoco te avergüences de mí, que estoy preso por servir a Jesucristo. Al contrario, tienes que estar dispuesto a sufrir por anunciar la buena noticia. ¡Ya Dios te dará las fuerzas necesarias para soportar el sufrimiento!\nDios nos salvó y nos eligió para que seamos parte de su pueblo santo. No hicimos nada para merecerlo, sino que Dios, por su gran amor, así lo planeó. Dios ya nos amaba desde antes de crear el mundo, pues desde entonces pertenecíamos a Cristo Jesús. Dios nos mostró ese gran amor por medio de lo que Jesucristo nuestro Salvador hizo por nosotros. Porque él destruyó a la muerte y, por medio de la buena noticia, nos ha dado la vida eterna.\nDios me nombró apóstol para anunciar y enseñar a las naciones la buena noticia. Por eso mismo estoy sufriendo ahora. Pero no me avergüenzo de lo que me pasa, porque yo sé bien en quién he puesto mi confianza. Estoy seguro de que él tiene poder para hacer que la buena noticia se siga anunciando hasta que llegue el fin del mundo. Las enseñanzas que te he dado son un buen ejemplo de lo que debes hacer. No dejes de confiar en Dios y en el amor que tenemos por estar unidos a Jesucristo. No permitas que nadie contradiga la buena enseñanza que recibiste. Dios te ha encargado ese trabajo, y el Espíritu Santo te ayudará a hacerlo.\nSeguramente ya sabes que todos los cristianos de la provincia de Asia me abandonaron. ¡Hasta Figelo y Hermógenes me dejaron solo!\nLe pido a Dios que sea bueno con la familia de Onesíforo y la ayude. Él me animó muchas veces, y no se avergonzó de que yo estuviera en la cárcel. Al contrario, tan pronto llegó a Roma, me buscó por todas partes, hasta que me encontró. Espero que el Señor Jesús lo trate con bondad el día en que Dios juzgará a todo el mundo. Como sabes, Onesíforo nos fue de gran ayuda en la ciudad de Éfeso.",
+      "chapter_html": "<div class=\"version vid176 iso6393spa\" data-vid=\"176\" data-iso6393=\"spa\">\n   <div class=\"book bk2TI\">\n      <div class=\"chapter ch1\" data-usfm=\"2TI.1\">\n         <div class=\"label\">1</div><div class=\"s1\"><span class=\"heading\">Saludos</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1 v2\" data-usfm=\"2TI.1.1+2TI.1.2\"><span class=\"label\">1-2</span><span class=\"content\">Querido hijo</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1.1-2 </span><span class=\"fk\">Querido hijo: </span><span class=\"ft\">Pablo quer&#237;a a Timoteo como si fuera su propio hijo. V&#233;ase 1 Timoteo 1.1-2.</span></span></span><span class=\"content\"> Timoteo:</span></span></div><div class=\"p\"><span class=\"verse v1 v2\" data-usfm=\"2TI.1.1+2TI.1.2\"><span class=\"content\">Te env&#237;o mis saludos, y de todo coraz&#243;n les pido a Dios Padre y a Jesucristo nuestro Se&#241;or que te llenen de amor, te ayuden en todo, y te den su paz.</span></span></div><div class=\"p\"><span class=\"verse v1 v2\" data-usfm=\"2TI.1.1+2TI.1.2\"><span class=\"content\">Como te dije antes, soy </span><span class=\"w\"><span class=\"content\">ap&#243;stol</span></span><span class=\"content\"> de </span><span class=\"w\"><span class=\"content\">Cristo</span></span><span class=\"content\">. Dios me envi&#243; a comunicar su mensaje, y me prometi&#243; la vida eterna por medio de Cristo Jes&#250;s.</span></span></div><div class=\"s1\"><span class=\"heading\">Oraci&#243;n de agradecimiento</span></div><div class=\"p\"><span class=\"verse v1 v2\" data-usfm=\"2TI.1.1+2TI.1.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"2TI.1.3\"><span class=\"label\">3</span><span class=\"content\">Mis familiares y yo hemos servido a Dios, y nadie puede acusarnos de nada malo. Siempre que oro, ya sea de d&#237;a o de noche, te recuerdo y doy gracias a Dios por ti. </span></span><span class=\"verse v4\" data-usfm=\"2TI.1.4\"><span class=\"label\">4</span><span class=\"content\">Cada vez que me acuerdo de c&#243;mo lloraste y te pusiste triste, me dan m&#225;s ganas de verte. &#161;C&#243;mo me alegrar&#237;a eso! </span></span><span class=\"verse v5\" data-usfm=\"2TI.1.5\"><span class=\"label\">5</span><span class=\"content\">Tu abuela Loida y tu madre Eunice confiaron sinceramente en Dios; y cuando me acuerdo de ti, me siento seguro de que tambi&#233;n t&#250; tienes esa misma confianza.</span></span></div><div class=\"s1\"><span class=\"heading\">No hay que avergonzarse</span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"2TI.1.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"2TI.1.6\"><span class=\"label\">6</span><span class=\"content\">Por eso te recomiendo que no dejes de usar esa capacidad especial que Dios te dio cuando puse mis manos sobre tu cabeza.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1.6 </span><span class=\"fq\">Puse mis manos sobre tu cabeza: </span><span class=\"ft\">Cuando una persona era nombrada como l&#237;der de la iglesia, o elegida para hacer un trabajo especial para Dios, otro l&#237;der o varios de ellos pon&#237;an sus manos sobre la cabeza de la persona escogida y oraban pidiendo la bendici&#243;n de Dios.</span></span></span><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"2TI.1.7\"><span class=\"label\">7</span><span class=\"content\">Porque el Esp&#237;ritu de Dios no nos hace cobardes. Al contrario, nos da poder para amar a los dem&#225;s, y nos fortalece para que podamos vivir una buena vida cristiana.</span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"2TI.1.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"2TI.1.8\"><span class=\"label\">8</span><span class=\"content\">Por lo tanto, no te averg&#252;ences de hablar bien de nuestro Se&#241;or Jes&#250;s. Tampoco te averg&#252;ences de m&#237;, que estoy preso por servir a Jesucristo. Al contrario, tienes que estar dispuesto a sufrir por anunciar la </span><span class=\"w\"><span class=\"content\">buena</span></span><span class=\"content\"> noticia. &#161;Ya Dios te dar&#225; las fuerzas necesarias para soportar el sufrimiento!</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"2TI.1.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"2TI.1.9\"><span class=\"label\">9</span><span class=\"content\">Dios nos </span><span class=\"w\"><span class=\"content\">salv&#243;</span></span><span class=\"content\"> y nos eligi&#243; para que seamos parte de su pueblo </span><span class=\"w\"><span class=\"content\">santo</span></span><span class=\"content\">. No hicimos nada para merecerlo, sino que Dios, por su gran amor, as&#237; lo plane&#243;. Dios ya nos amaba desde antes de crear el mundo, pues desde entonces pertenec&#237;amos a </span><span class=\"w\"><span class=\"content\">Cristo</span></span><span class=\"content\"> Jes&#250;s. </span></span><span class=\"verse v10\" data-usfm=\"2TI.1.10\"><span class=\"label\">10</span><span class=\"content\">Dios nos mostr&#243; ese gran amor por medio de lo que Jesucristo nuestro Salvador hizo por nosotros. Porque &#233;l destruy&#243; a la muerte y, por medio de la buena noticia, nos ha dado la vida eterna.</span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"2TI.1.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"2TI.1.11\"><span class=\"label\">11</span><span class=\"content\">Dios me nombr&#243; </span><span class=\"w\"><span class=\"content\">ap&#243;stol</span></span><span class=\"content\"> para anunciar y ense&#241;ar a las naciones la buena noticia. </span></span><span class=\"verse v12\" data-usfm=\"2TI.1.12\"><span class=\"label\">12</span><span class=\"content\">Por eso mismo estoy sufriendo ahora. Pero no me averg&#252;enzo de lo que me pasa, porque yo s&#233; bien en qui&#233;n he puesto mi confianza. Estoy seguro de que &#233;l tiene poder para hacer que la buena noticia se siga anunciando hasta que llegue el fin del mundo. </span></span><span class=\"verse v13\" data-usfm=\"2TI.1.13\"><span class=\"label\">13</span><span class=\"content\">Las ense&#241;anzas que te he dado son un buen ejemplo de lo que debes hacer. No dejes de confiar en Dios y en el amor que tenemos por estar unidos a Jesucristo. </span></span><span class=\"verse v14\" data-usfm=\"2TI.1.14\"><span class=\"label\">14</span><span class=\"content\">No permitas que nadie contradiga la buena ense&#241;anza que recibiste. Dios te ha encargado ese trabajo, y el Esp&#237;ritu Santo te ayudar&#225; a hacerlo.</span></span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"2TI.1.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"2TI.1.15\"><span class=\"label\">15</span><span class=\"content\">Seguramente ya sabes que todos los cristianos de la provincia de Asia me abandonaron. &#161;Hasta Figelo y Herm&#243;genes me dejaron solo!</span></span></div><div class=\"p\"><span class=\"verse v15\" data-usfm=\"2TI.1.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"2TI.1.16\"><span class=\"label\">16</span><span class=\"content\">Le pido a Dios que sea bueno con la familia de Ones&#237;foro y la ayude. &#201;l me anim&#243; muchas veces, y no se avergonz&#243; de que yo estuviera en la c&#225;rcel. </span></span><span class=\"verse v17\" data-usfm=\"2TI.1.17\"><span class=\"label\">17</span><span class=\"content\">Al contrario, tan pronto lleg&#243; a Roma, me busc&#243; por todas partes, hasta que me encontr&#243;. </span></span><span class=\"verse v18\" data-usfm=\"2TI.1.18\"><span class=\"label\">18</span><span class=\"content\">Espero que el Se&#241;or Jes&#250;s lo trate con bondad el d&#237;a en que Dios juzgar&#225; a todo el mundo. Como sabes, Ones&#237;foro nos fue de gran ayuda en la ciudad de &#201;feso.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Saludos"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": -1,
+          "lines": [
+            "Querido hijo Timoteo:",
+            "Te envío mis saludos, y de todo corazón les pido a Dios Padre y a Jesucristo nuestro Señor que te llenen de amor, te ayuden en todo, y te den su paz.",
+            "Como te dije antes, soy apóstol de Cristo. Dios me envió a comunicar su mensaje, y me prometió la vida eterna por medio de Cristo Jesús."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Oración de agradecimiento"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Mis familiares y yo hemos servido a Dios, y nadie puede acusarnos de nada malo. Siempre que oro, ya sea de día o de noche, te recuerdo y doy gracias a Dios por ti."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Cada vez que me acuerdo de cómo lloraste y te pusiste triste, me dan más ganas de verte. ¡Cómo me alegraría eso!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Tu abuela Loida y tu madre Eunice confiaron sinceramente en Dios; y cuando me acuerdo de ti, me siento seguro de que también tú tienes esa misma confianza."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "No hay que avergonzarse"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Por eso te recomiendo que no dejes de usar esa capacidad especial que Dios te dio cuando puse mis manos sobre tu cabeza."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Porque el Espíritu de Dios no nos hace cobardes. Al contrario, nos da poder para amar a los demás, y nos fortalece para que podamos vivir una buena vida cristiana."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Por lo tanto, no te avergüences de hablar bien de nuestro Señor Jesús. Tampoco te avergüences de mí, que estoy preso por servir a Jesucristo. Al contrario, tienes que estar dispuesto a sufrir por anunciar la buena noticia. ¡Ya Dios te dará las fuerzas necesarias para soportar el sufrimiento!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Dios nos salvó y nos eligió para que seamos parte de su pueblo santo. No hicimos nada para merecerlo, sino que Dios, por su gran amor, así lo planeó. Dios ya nos amaba desde antes de crear el mundo, pues desde entonces pertenecíamos a Cristo Jesús."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Dios nos mostró ese gran amor por medio de lo que Jesucristo nuestro Salvador hizo por nosotros. Porque él destruyó a la muerte y, por medio de la buena noticia, nos ha dado la vida eterna."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Dios me nombró apóstol para anunciar y enseñar a las naciones la buena noticia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Por eso mismo estoy sufriendo ahora. Pero no me avergüenzo de lo que me pasa, porque yo sé bien en quién he puesto mi confianza. Estoy seguro de que él tiene poder para hacer que la buena noticia se siga anunciando hasta que llegue el fin del mundo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Las enseñanzas que te he dado son un buen ejemplo de lo que debes hacer. No dejes de confiar en Dios y en el amor que tenemos por estar unidos a Jesucristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "No permitas que nadie contradiga la buena enseñanza que recibiste. Dios te ha encargado ese trabajo, y el Espíritu Santo te ayudará a hacerlo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Seguramente ya sabes que todos los cristianos de la provincia de Asia me abandonaron. ¡Hasta Figelo y Hermógenes me dejaron solo!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Le pido a Dios que sea bueno con la familia de Onesíforo y la ayude. Él me animó muchas veces, y no se avergonzó de que yo estuviera en la cárcel."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Al contrario, tan pronto llegó a Roma, me buscó por todas partes, hasta que me encontró."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Espero que el Señor Jesús lo trate con bondad el día en que Dios juzgará a todo el mundo. Como sabes, Onesíforo nos fue de gran ayuda en la ciudad de Éfeso."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "2TI.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "2TI.2"
+        ],
+        "human": "2 Timoteo 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "2TI.3"
+        ],
+        "human": "2 Timoteo 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "2TI.1"
+        ],
+        "human": "2 Timoteo 1",
+        "toc": true
+      },
+      "chapter_text": "Hijo mío, Dios te ama mucho porque has creído en Jesucristo. Pídele fuerzas para soportar cualquier cosa. Tú has oído lo que les he enseñado a muchas personas. Ahora quiero que enseñes eso mismo a cristianos en los que puedas confiar, y que sean capaces de enseñar a otros.\nTú, como buen soldado de Jesucristo, debes estar dispuesto a sufrir por él. Los soldados que tratan de agradar a sus jefes no se interesan por ninguna otra cosa que no sea el ejército. De igual manera, el atleta que participa en una carrera no puede ganar el premio si no obedece las reglas de la competencia. Y el que cultiva la tierra tiene que trabajarla antes de poder disfrutar de la cosecha. Piensa en estas cosas, y el Señor Jesucristo te ayudará a entenderlo todo.\n¡Acuérdate de Jesucristo! Según la buena noticia que yo enseño, Jesús era de la familia del rey David; y aun cuando murió, resucitó. Por anunciar esa buena noticia sufro mucho y estoy en la cárcel; me tienen encadenado, como si fuera yo un criminal. Pero el mensaje de Dios no está encadenado. Por esa razón soporto toda clase de sufrimientos, para que los que Dios ha elegido se salven y reciban la vida eterna que Cristo ofrece junto a Dios.\nEsto es verdad:\n\nSi morimos por Cristo,\ntambién viviremos con él.\n\nSi soportamos los sufrimientos,\ncompartiremos su reinado.\n\nSi decimos que no lo conocemos,\ntambién él dirá que no nos conoce.\n\nY aunque no seamos fieles,\nCristo permanece fiel;\nporque él jamás rompe su promesa.\n\nNo dejes que nadie olvide estas cosas. Pon a Dios como testigo, y advierte a los miembros de la iglesia que no deben seguir discutiendo. Esas discusiones no ayudan a nadie, y dañan a quienes las oyen. Haz todo lo posible por ganarte la aprobación de Dios. Así, Dios te aprobará como un trabajador que no tiene de qué avergonzarse, y que enseña correctamente el mensaje verdadero.\nNo prestes atención a las discusiones de los que no creen en Dios, pues eso no sirve de nada. Los que así discuten, van de mal en peor, y sus malas enseñanzas se van extendiendo, como el cáncer. Así también lo han hecho Himeneo y Fileto. Ellos afirman que ya hemos resucitado, pero eso no es verdad, y lo único que logran es confundir a los creyentes.\nPero podemos estar seguros de lo que hemos creído. Porque lo que Dios nos ha enseñado es como la sólida base de un edificio, en donde está escrito lo siguiente: «Dios sabe quiénes son suyos», y también: «Que todos los que adoran a Dios dejen de hacer el mal.»\nEn la casa de un hombre rico no todo es de oro o de plata, sino que algunos objetos son de madera o de barro. Unos sirven para ocasiones especiales, y otros para usarlos todos los días. Algo parecido pasa con nosotros: si dejamos de hacer lo malo y nos olvidamos de las falsas enseñanzas, seremos como esos objetos útiles y muy especiales. Toda nuestra vida le será útil a Dios, que es su dueño, y estaremos preparados para hacer toda clase de bien.\nNo te dejes llevar por las tentaciones propias de tu edad. Tú eres joven, así que aléjate de esas cosas y dedícate a hacer el bien. Busca la justicia, el amor y la paz, y únete a los que, con toda sinceridad, adoran a Dios y confían en él. No prestes atención a discusiones que no ayudan en nada. Los que así discuten siempre terminan peleando. Un servidor de Dios no debe andar en peleas. Al contrario, debe ser bueno con todos, saber enseñar, y tener mucha paciencia.\nY cuando corrijas a tus enemigos, hazlo con humildad. Tal vez Dios les dé la oportunidad de arrepentirse y de conocer la verdad. Se darán cuenta entonces de que cayeron en una trampa del diablo, y lograrán escapar. Por el momento, el diablo los tiene prisioneros y hace con ellos lo que quiere.",
+      "chapter_html": "<div class=\"version vid176 iso6393spa\" data-vid=\"176\" data-iso6393=\"spa\">\n   <div class=\"book bk2TI\">\n      <div class=\"chapter ch2\" data-usfm=\"2TI.2\">\n         <div class=\"label\">2</div><div class=\"s1\"><span class=\"heading\">El fiel soldado de Jesucristo</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"2TI.2.1\"><span class=\"label\">1</span><span class=\"content\">Hijo m&#237;o,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2.1 </span><span class=\"fk\">Hijo m&#237;o: </span><span class=\"ft\">V&#233;ase nota en 1.1-2.</span></span></span><span class=\"content\"> Dios te ama mucho porque has cre&#237;do en Jesucristo. P&#237;dele fuerzas para soportar cualquier cosa. </span></span><span class=\"verse v2\" data-usfm=\"2TI.2.2\"><span class=\"label\">2</span><span class=\"content\">T&#250; has o&#237;do lo que les he ense&#241;ado a muchas personas. Ahora quiero que ense&#241;es eso mismo a cristianos en los que puedas confiar, y que sean capaces de ense&#241;ar a otros.</span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"2TI.2.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"2TI.2.3\"><span class=\"label\">3</span><span class=\"content\">T&#250;, como buen soldado de Jesucristo, debes estar dispuesto a sufrir por &#233;l. </span></span><span class=\"verse v4\" data-usfm=\"2TI.2.4\"><span class=\"label\">4</span><span class=\"content\">Los soldados que tratan de agradar a sus jefes no se interesan por ninguna otra cosa que no sea el ej&#233;rcito. </span></span><span class=\"verse v5\" data-usfm=\"2TI.2.5\"><span class=\"label\">5</span><span class=\"content\">De igual manera, el atleta que participa en una carrera no puede ganar el premio si no obedece las reglas de la competencia. </span></span><span class=\"verse v6\" data-usfm=\"2TI.2.6\"><span class=\"label\">6</span><span class=\"content\">Y el que cultiva la tierra tiene que trabajarla antes de poder disfrutar de la cosecha. </span></span><span class=\"verse v7\" data-usfm=\"2TI.2.7\"><span class=\"label\">7</span><span class=\"content\">Piensa en estas cosas, y el Se&#241;or Jesucristo te ayudar&#225; a entenderlo todo.</span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"2TI.2.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"2TI.2.8\"><span class=\"label\">8</span><span class=\"content\">&#161;Acu&#233;rdate de Jesucristo! Seg&#250;n la </span><span class=\"w\"><span class=\"content\">buena</span></span><span class=\"content\"> noticia que yo ense&#241;o, Jes&#250;s era de la familia del rey David; y aun cuando muri&#243;, resucit&#243;. </span></span><span class=\"verse v9\" data-usfm=\"2TI.2.9\"><span class=\"label\">9</span><span class=\"content\">Por anunciar esa buena noticia sufro mucho y estoy en la c&#225;rcel; me tienen encadenado, como si fuera yo un criminal. Pero el mensaje de Dios no est&#225; encadenado. </span></span><span class=\"verse v10\" data-usfm=\"2TI.2.10\"><span class=\"label\">10</span><span class=\"content\">Por esa raz&#243;n soporto toda clase de sufrimientos, para que los que Dios ha elegido se </span><span class=\"w\"><span class=\"content\">salven</span></span><span class=\"content\"> y reciban la vida eterna que </span><span class=\"w\"><span class=\"content\">Cristo</span></span><span class=\"content\"> ofrece junto a Dios.</span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"2TI.2.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"2TI.2.11\"><span class=\"label\">11</span><span class=\"content\">Esto es verdad:</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"2TI.2.11\"><span class=\"content\">Si morimos por Cristo,</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"2TI.2.11\"><span class=\"content\">tambi&#233;n viviremos con &#233;l.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"2TI.2.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"2TI.2.12\"><span class=\"label\">12</span><span class=\"content\">Si soportamos los sufrimientos,</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"2TI.2.12\"><span class=\"content\">compartiremos su reinado.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"2TI.2.12\"><span class=\"content\">Si decimos que no lo conocemos,</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"2TI.2.12\"><span class=\"content\">tambi&#233;n &#233;l dir&#225; que no nos conoce.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"2TI.2.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"2TI.2.13\"><span class=\"label\">13</span><span class=\"content\">Y aunque no seamos fieles,</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"2TI.2.13\"><span class=\"content\">Cristo permanece fiel;</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"2TI.2.13\"><span class=\"content\">porque &#233;l jam&#225;s rompe su promesa.</span></span></div><div class=\"s1\"><span class=\"heading\">El sirviente aprobado</span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"2TI.2.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"2TI.2.14\"><span class=\"label\">14</span><span class=\"content\">No dejes que nadie olvide estas cosas. Pon a Dios como testigo, y advierte a los miembros de la </span><span class=\"w\"><span class=\"content\">iglesia</span></span><span class=\"content\"> que no deben seguir discutiendo. Esas discusiones no ayudan a nadie, y da&#241;an a quienes las oyen. </span></span><span class=\"verse v15\" data-usfm=\"2TI.2.15\"><span class=\"label\">15</span><span class=\"content\">Haz todo lo posible por ganarte la aprobaci&#243;n de Dios. As&#237;, Dios te aprobar&#225; como un trabajador que no tiene de qu&#233; avergonzarse, y que ense&#241;a correctamente el mensaje verdadero.</span></span></div><div class=\"p\"><span class=\"verse v15\" data-usfm=\"2TI.2.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"2TI.2.16\"><span class=\"label\">16</span><span class=\"content\">No prestes atenci&#243;n a las discusiones de los que no creen en Dios, pues eso no sirve de nada. Los que as&#237; discuten, van de mal en peor, </span></span><span class=\"verse v17\" data-usfm=\"2TI.2.17\"><span class=\"label\">17</span><span class=\"content\">y sus malas ense&#241;anzas se van extendiendo, como el c&#225;ncer. As&#237; tambi&#233;n lo han hecho Himeneo y Fileto. </span></span><span class=\"verse v18\" data-usfm=\"2TI.2.18\"><span class=\"label\">18</span><span class=\"content\">Ellos afirman que ya hemos resucitado, pero eso no es verdad, y lo &#250;nico que logran es confundir a los creyentes.</span></span></div><div class=\"p\"><span class=\"verse v18\" data-usfm=\"2TI.2.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"2TI.2.19\"><span class=\"label\">19</span><span class=\"content\">Pero podemos estar seguros de lo que hemos cre&#237;do. Porque lo que Dios nos ha ense&#241;ado es como la s&#243;lida base de un edificio, en donde est&#225; escrito lo siguiente: &#171;Dios sabe qui&#233;nes son suyos&#187;, y tambi&#233;n: &#171;Que todos los que </span><span class=\"w\"><span class=\"content\">adoran</span></span><span class=\"content\"> a Dios dejen de hacer el mal.&#187;</span></span></div><div class=\"p\"><span class=\"verse v19\" data-usfm=\"2TI.2.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"2TI.2.20\"><span class=\"label\">20</span><span class=\"content\">En la casa de un hombre rico no todo es de oro o de plata, sino que algunos objetos son de madera o de barro. Unos sirven para ocasiones especiales, y otros para usarlos todos los d&#237;as. </span></span><span class=\"verse v21\" data-usfm=\"2TI.2.21\"><span class=\"label\">21</span><span class=\"content\">Algo parecido pasa con nosotros: si dejamos de hacer lo malo y nos olvidamos de las falsas ense&#241;anzas, seremos como esos objetos &#250;tiles y muy especiales. Toda nuestra vida le ser&#225; &#250;til a Dios, que es su due&#241;o, y estaremos preparados para hacer toda clase de bien.</span></span></div><div class=\"p\"><span class=\"verse v21\" data-usfm=\"2TI.2.21\"><span class=\"content\">  </span></span><span class=\"verse v22\" data-usfm=\"2TI.2.22\"><span class=\"label\">22</span><span class=\"content\">No te dejes llevar por las tentaciones propias de tu edad. T&#250; eres joven, as&#237; que al&#233;jate de esas cosas y ded&#237;cate a hacer el bien. Busca la justicia, el amor y la paz, y &#250;nete a los que, con toda sinceridad, adoran a Dios y conf&#237;an en &#233;l. </span></span><span class=\"verse v23\" data-usfm=\"2TI.2.23\"><span class=\"label\">23</span><span class=\"content\">No prestes atenci&#243;n a discusiones que no ayudan en nada. Los que as&#237; discuten siempre terminan peleando. </span></span><span class=\"verse v24\" data-usfm=\"2TI.2.24\"><span class=\"label\">24</span><span class=\"content\">Un servidor de Dios no debe andar en peleas. Al contrario, debe ser bueno con todos, saber ense&#241;ar, y tener mucha paciencia.</span></span></div><div class=\"p\"><span class=\"verse v24\" data-usfm=\"2TI.2.24\"><span class=\"content\">  </span></span><span class=\"verse v25\" data-usfm=\"2TI.2.25\"><span class=\"label\">25</span><span class=\"content\">Y cuando corrijas a tus enemigos, hazlo con humildad. Tal vez Dios les d&#233; la oportunidad de arrepentirse y de conocer la verdad. </span></span><span class=\"verse v26\" data-usfm=\"2TI.2.26\"><span class=\"label\">26</span><span class=\"content\">Se dar&#225;n cuenta entonces de que cayeron en una trampa del </span><span class=\"w\"><span class=\"content\">diablo</span></span><span class=\"content\">, y lograr&#225;n escapar. Por el momento, el diablo los tiene prisioneros y hace con ellos lo que quiere.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "El fiel soldado de Jesucristo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Hijo mío, Dios te ama mucho porque has creído en Jesucristo. Pídele fuerzas para soportar cualquier cosa."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Tú has oído lo que les he enseñado a muchas personas. Ahora quiero que enseñes eso mismo a cristianos en los que puedas confiar, y que sean capaces de enseñar a otros."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Tú, como buen soldado de Jesucristo, debes estar dispuesto a sufrir por él."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Los soldados que tratan de agradar a sus jefes no se interesan por ninguna otra cosa que no sea el ejército."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "De igual manera, el atleta que participa en una carrera no puede ganar el premio si no obedece las reglas de la competencia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Y el que cultiva la tierra tiene que trabajarla antes de poder disfrutar de la cosecha."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Piensa en estas cosas, y el Señor Jesucristo te ayudará a entenderlo todo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "¡Acuérdate de Jesucristo! Según la buena noticia que yo enseño, Jesús era de la familia del rey David; y aun cuando murió, resucitó."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Por anunciar esa buena noticia sufro mucho y estoy en la cárcel; me tienen encadenado, como si fuera yo un criminal. Pero el mensaje de Dios no está encadenado."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Por esa razón soporto toda clase de sufrimientos, para que los que Dios ha elegido se salven y reciban la vida eterna que Cristo ofrece junto a Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Esto es verdad:",
+            "Si morimos por Cristo,",
+            "también viviremos con él."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Si soportamos los sufrimientos,",
+            "compartiremos su reinado.",
+            "Si decimos que no lo conocemos,",
+            "también él dirá que no nos conoce."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Y aunque no seamos fieles,",
+            "Cristo permanece fiel;",
+            "porque él jamás rompe su promesa."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "El sirviente aprobado"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "No dejes que nadie olvide estas cosas. Pon a Dios como testigo, y advierte a los miembros de la iglesia que no deben seguir discutiendo. Esas discusiones no ayudan a nadie, y dañan a quienes las oyen."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Haz todo lo posible por ganarte la aprobación de Dios. Así, Dios te aprobará como un trabajador que no tiene de qué avergonzarse, y que enseña correctamente el mensaje verdadero."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "No prestes atención a las discusiones de los que no creen en Dios, pues eso no sirve de nada. Los que así discuten, van de mal en peor,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "y sus malas enseñanzas se van extendiendo, como el cáncer. Así también lo han hecho Himeneo y Fileto."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Ellos afirman que ya hemos resucitado, pero eso no es verdad, y lo único que logran es confundir a los creyentes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Pero podemos estar seguros de lo que hemos creído. Porque lo que Dios nos ha enseñado es como la sólida base de un edificio, en donde está escrito lo siguiente: «Dios sabe quiénes son suyos», y también: «Que todos los que adoran a Dios dejen de hacer el mal.»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "En la casa de un hombre rico no todo es de oro o de plata, sino que algunos objetos son de madera o de barro. Unos sirven para ocasiones especiales, y otros para usarlos todos los días."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "Algo parecido pasa con nosotros: si dejamos de hacer lo malo y nos olvidamos de las falsas enseñanzas, seremos como esos objetos útiles y muy especiales. Toda nuestra vida le será útil a Dios, que es su dueño, y estaremos preparados para hacer toda clase de bien."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "No te dejes llevar por las tentaciones propias de tu edad. Tú eres joven, así que aléjate de esas cosas y dedícate a hacer el bien. Busca la justicia, el amor y la paz, y únete a los que, con toda sinceridad, adoran a Dios y confían en él."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "No prestes atención a discusiones que no ayudan en nada. Los que así discuten siempre terminan peleando."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "Un servidor de Dios no debe andar en peleas. Al contrario, debe ser bueno con todos, saber enseñar, y tener mucha paciencia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "Y cuando corrijas a tus enemigos, hazlo con humildad. Tal vez Dios les dé la oportunidad de arrepentirse y de conocer la verdad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 26,
+          "lines": [
+            "Se darán cuenta entonces de que cayeron en una trampa del diablo, y lograrán escapar. Por el momento, el diablo los tiene prisioneros y hace con ellos lo que quiere."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "2TI.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "2TI.3"
+        ],
+        "human": "2 Timoteo 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "2TI.4"
+        ],
+        "human": "2 Timoteo 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "2TI.2"
+        ],
+        "human": "2 Timoteo 2",
+        "toc": true
+      },
+      "chapter_text": "Debes saber también que en los últimos días, antes de que llegue el fin del mundo, la gente enfrentará muchas dificultades. Habrá gente egoísta, interesada solamente en ganar más y más dinero. También habrá gente orgullosa, que se creerá más importante que los demás. No respetarán a Dios ni obedecerán a sus padres, sino que serán malagradecidos y ofenderán a todos. Serán crueles y violentos, no podrán dominar sus malos deseos, se llenarán de odio, dirán mentiras acerca de los demás, y odiarán todo lo que es bueno. No se podrá confiar en esos orgullosos, porque actuarán sin pensar. En vez de obedecer a Dios, solo harán lo que les venga en gana. Dirán que aman y respetan a Dios, pero con su conducta demostrarán lo contrario.\nNo te hagas amigo de esa clase de gente, porque tienen la mala costumbre de meterse en cualquier casa, para engañar a mujeres tontas y pecadoras, que son incapaces de dominar sus malos deseos; siempre están queriendo aprender algo nuevo, pero nunca llegan a entender la verdad. Esa clase de gente es enemiga de que se dé a conocer el verdadero mensaje de Dios. Tiene la mente corrompida, y no ha aprendido a confiar en Dios. Pero no seguirá así por mucho tiempo. Todos habrán de darse cuenta de que esa gente es estúpida, como lo eran Janes y Jambrés, los magos que estaban en contra de Moisés.\n\nPero tú, Timoteo, conoces bien mis enseñanzas, mi manera de vivir y de pensar, y sabes cuánto confío en Dios. Tú has visto mi paciencia, mi amor y mi fuerza para soportar las dificultades. Sabes cómo me han maltratado, y cómo he sufrido en las ciudades de Antioquía, Iconio y Listra. Pero el Señor Jesucristo me libró de todo eso. Bien sabemos que todo el que desee vivir obedeciendo a Jesucristo será maltratado. Pero los malvados y los engañadores irán de mal en peor, y engañarán a unos, pero serán engañados por otros.\nTú debes seguir creyendo en lo que aprendiste, y que sabes que es la verdad. Después de todo, conoces muy bien a quienes te lo han enseñado. Recuerda que desde niño has leído la Biblia, y que sus enseñanzas pueden hacerte sabio, para que aprendas a confiar más en Jesucristo y así seas salvo. Todo lo que está escrito en la Biblia es el mensaje de Dios, y es útil para enseñar a la gente, para ayudarla y corregirla, y para mostrarle cómo debe vivir. De ese modo, los servidores de Dios estarán completamente entrenados y preparados para hacer el bien.",
+      "chapter_html": "<div class=\"version vid176 iso6393spa\" data-vid=\"176\" data-iso6393=\"spa\">\n   <div class=\"book bk2TI\">\n      <div class=\"chapter ch3\" data-usfm=\"2TI.3\">\n         <div class=\"label\">3</div><div class=\"s1\"><span class=\"heading\">C&#243;mo ser&#225; todo antes del fin del mundo</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"2TI.3.1\"><span class=\"label\">1</span><span class=\"content\">Debes saber tambi&#233;n que en los &#250;ltimos d&#237;as, antes de que llegue el fin del mundo, la gente enfrentar&#225; muchas dificultades. </span></span><span class=\"verse v2\" data-usfm=\"2TI.3.2\"><span class=\"label\">2</span><span class=\"content\">Habr&#225; gente ego&#237;sta, interesada solamente en ganar m&#225;s y m&#225;s dinero. Tambi&#233;n habr&#225; gente orgullosa, que se creer&#225; m&#225;s importante que los dem&#225;s. No respetar&#225;n a Dios ni obedecer&#225;n a sus padres, sino que ser&#225;n malagradecidos y ofender&#225;n a todos. </span></span><span class=\"verse v3\" data-usfm=\"2TI.3.3\"><span class=\"label\">3</span><span class=\"content\">Ser&#225;n crueles y violentos, no podr&#225;n dominar sus malos deseos, se llenar&#225;n de odio, dir&#225;n mentiras acerca de los dem&#225;s, y odiar&#225;n todo lo que es bueno. </span></span><span class=\"verse v4\" data-usfm=\"2TI.3.4\"><span class=\"label\">4</span><span class=\"content\">No se podr&#225; confiar en esos orgullosos, porque actuar&#225;n sin pensar. En vez de obedecer a Dios, solo har&#225;n lo que les venga en gana. </span></span><span class=\"verse v5\" data-usfm=\"2TI.3.5\"><span class=\"label\">5</span><span class=\"content\">Dir&#225;n que aman y respetan a Dios, pero con su conducta demostrar&#225;n lo contrario.</span></span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"2TI.3.5\"><span class=\"content\">No te hagas amigo de esa clase de gente, </span></span><span class=\"verse v6\" data-usfm=\"2TI.3.6\"><span class=\"label\">6</span><span class=\"content\">porque tienen la mala costumbre de meterse en cualquier casa, para enga&#241;ar a mujeres tontas y </span><span class=\"w\"><span class=\"content\">pecadoras</span></span><span class=\"content\">, que son incapaces de dominar sus malos deseos; </span></span><span class=\"verse v7\" data-usfm=\"2TI.3.7\"><span class=\"label\">7</span><span class=\"content\">siempre est&#225;n queriendo aprender algo nuevo, pero nunca llegan a entender la verdad. </span></span><span class=\"verse v8 v9\" data-usfm=\"2TI.3.8+2TI.3.9\"><span class=\"label\">8-9</span><span class=\"content\">Esa clase de gente es enemiga de que se d&#233; a conocer el verdadero mensaje de Dios. Tiene la mente corrompida, y no ha aprendido a confiar en Dios. Pero no seguir&#225; as&#237; por mucho tiempo. Todos habr&#225;n de darse cuenta de que esa gente es est&#250;pida, como lo eran Janes y Jambr&#233;s, los magos que estaban en contra de Mois&#233;s.</span></span></div><div class=\"s1\"><span class=\"heading\">&#218;ltimas instrucciones para Timoteo</span></div><div class=\"p\"><span class=\"verse v8 v9\" data-usfm=\"2TI.3.8+2TI.3.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"2TI.3.10\"><span class=\"label\">10</span><span class=\"content\">Pero t&#250;, Timoteo, conoces bien mis ense&#241;anzas, mi manera de vivir y de pensar, y sabes cu&#225;nto conf&#237;o en Dios. T&#250; has visto mi paciencia, mi amor y mi fuerza para soportar las dificultades. </span></span><span class=\"verse v11\" data-usfm=\"2TI.3.11\"><span class=\"label\">11</span><span class=\"content\">Sabes c&#243;mo me han maltratado, y c&#243;mo he sufrido en las ciudades de Antioqu&#237;a, Iconio y Listra. Pero el Se&#241;or Jesucristo me libr&#243; de todo eso. </span></span><span class=\"verse v12\" data-usfm=\"2TI.3.12\"><span class=\"label\">12</span><span class=\"content\">Bien sabemos que todo el que desee vivir obedeciendo a Jesucristo ser&#225; maltratado. </span></span><span class=\"verse v13\" data-usfm=\"2TI.3.13\"><span class=\"label\">13</span><span class=\"content\">Pero los malvados y los enga&#241;adores ir&#225;n de mal en peor, y enga&#241;ar&#225;n a unos, pero ser&#225;n enga&#241;ados por otros.</span></span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"2TI.3.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"2TI.3.14\"><span class=\"label\">14</span><span class=\"content\">T&#250; debes seguir creyendo en lo que aprendiste, y que sabes que es la verdad. Despu&#233;s de todo, conoces muy bien a quienes te lo han ense&#241;ado. </span></span><span class=\"verse v15\" data-usfm=\"2TI.3.15\"><span class=\"label\">15</span><span class=\"content\">Recuerda que desde ni&#241;o has le&#237;do la </span><span class=\"w\"><span class=\"content\">Biblia</span></span><span class=\"content\">, y que sus ense&#241;anzas pueden hacerte </span><span class=\"w\"><span class=\"content\">sabio</span></span><span class=\"content\">, para que aprendas a confiar m&#225;s en Jesucristo y as&#237; seas </span><span class=\"w\"><span class=\"content\">salvo</span></span><span class=\"content\">. </span></span><span class=\"verse v16\" data-usfm=\"2TI.3.16\"><span class=\"label\">16</span><span class=\"content\">Todo lo que est&#225; escrito en la Biblia es el mensaje de Dios, y es &#250;til para ense&#241;ar a la gente, para ayudarla y corregirla, y para mostrarle c&#243;mo debe vivir. </span></span><span class=\"verse v17\" data-usfm=\"2TI.3.17\"><span class=\"label\">17</span><span class=\"content\">De ese modo, los servidores de Dios estar&#225;n completamente entrenados y preparados para hacer el bien.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Cómo será todo antes del fin del mundo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Debes saber también que en los últimos días, antes de que llegue el fin del mundo, la gente enfrentará muchas dificultades."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Habrá gente egoísta, interesada solamente en ganar más y más dinero. También habrá gente orgullosa, que se creerá más importante que los demás. No respetarán a Dios ni obedecerán a sus padres, sino que serán malagradecidos y ofenderán a todos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Serán crueles y violentos, no podrán dominar sus malos deseos, se llenarán de odio, dirán mentiras acerca de los demás, y odiarán todo lo que es bueno."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "No se podrá confiar en esos orgullosos, porque actuarán sin pensar. En vez de obedecer a Dios, solo harán lo que les venga en gana."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Dirán que aman y respetan a Dios, pero con su conducta demostrarán lo contrario.",
+            "No te hagas amigo de esa clase de gente,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "porque tienen la mala costumbre de meterse en cualquier casa, para engañar a mujeres tontas y pecadoras, que son incapaces de dominar sus malos deseos;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "siempre están queriendo aprender algo nuevo, pero nunca llegan a entender la verdad.",
+            "Esa clase de gente es enemiga de que se dé a conocer el verdadero mensaje de Dios. Tiene la mente corrompida, y no ha aprendido a confiar en Dios. Pero no seguirá así por mucho tiempo. Todos habrán de darse cuenta de que esa gente es estúpida, como lo eran Janes y Jambrés, los magos que estaban en contra de Moisés."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Últimas instrucciones para Timoteo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Pero tú, Timoteo, conoces bien mis enseñanzas, mi manera de vivir y de pensar, y sabes cuánto confío en Dios. Tú has visto mi paciencia, mi amor y mi fuerza para soportar las dificultades."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Sabes cómo me han maltratado, y cómo he sufrido en las ciudades de Antioquía, Iconio y Listra. Pero el Señor Jesucristo me libró de todo eso."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Bien sabemos que todo el que desee vivir obedeciendo a Jesucristo será maltratado."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Pero los malvados y los engañadores irán de mal en peor, y engañarán a unos, pero serán engañados por otros."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Tú debes seguir creyendo en lo que aprendiste, y que sabes que es la verdad. Después de todo, conoces muy bien a quienes te lo han enseñado."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Recuerda que desde niño has leído la Biblia, y que sus enseñanzas pueden hacerte sabio, para que aprendas a confiar más en Jesucristo y así seas salvo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Todo lo que está escrito en la Biblia es el mensaje de Dios, y es útil para enseñar a la gente, para ayudarla y corregirla, y para mostrarle cómo debe vivir."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "De ese modo, los servidores de Dios estarán completamente entrenados y preparados para hacer el bien."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "2TI.4",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "2TI.4"
+        ],
+        "human": "2 Timoteo 4"
+      },
+      "next": {
+        "canonical": false,
+        "usfm": [
+          "TIT.INTRO1"
+        ],
+        "human": "Tito Introducción",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "2TI.3"
+        ],
+        "human": "2 Timoteo 3",
+        "toc": true
+      },
+      "chapter_text": "Cuando Jesucristo venga como Rey, juzgará a todos, tanto a los que estén vivos como a los que estén muertos. Por eso pongo a Dios y a Jesucristo por testigos de lo que te ordeno. Tú anuncia el mensaje de Dios en todo momento. Anúncialo, aunque ese momento no parezca ser el mejor. Muéstrale a la gente sus errores, corrígela y anímala; instrúyela con mucha paciencia. Porque llegará el día en que la gente no querrá escuchar la buena enseñanza. Al contrario, querrá oír enseñanzas diferentes. Por eso buscará maestros que le digan lo que quiere oír. La gente no escuchará la verdadera enseñanza, sino que prestará atención a toda clase de cuentos. Pero tú, Timoteo, mantén la calma en todo momento, soporta los sufrimientos y anuncia siempre la buena noticia. Haz bien tu trabajo.\nYa falta poco para que yo muera, y mi muerte será mi ofrenda a Dios. He luchado por obedecer a Dios en todo, y lo he logrado; he llegado a la meta, y en ningún momento he dejado de confiar en Dios. Sé que Dios es un juez justo y que, cuando juzgue a todos, me dará una corona como premio a mi obediencia. Y no solo a mí me la dará, sino también a todos los que esperan con ansias su regreso.\n\nHaz todo lo posible por venir a verme pronto. Demas me ha abandonado y se ha ido a la ciudad de Tesalónica, pues ama demasiado las cosas de este mundo. Crescente se fue a la región de Galacia, y Tito a la de Dalmacia. El único que está conmigo es Lucas.\nMarcos puede ayudarme mucho en mi trabajo, así que búscalo y tráelo contigo cuando vengas. A Tíquico lo envié a la ciudad de Éfeso.\nCuando vengas, tráeme el abrigo que dejé en la ciudad de Tróade, en casa de Carpo. Trae también los libros, especialmente los pergaminos.\nCuídate de Alejandro, el herrero, pues me ha hecho mucho daño y está en contra de lo que enseñamos. Pero yo sé que el Señor Jesucristo habrá de castigarlo.\nLa primera vez que tuve que presentar mi defensa ante las autoridades de Roma, nadie me ayudó. ¡Todos me abandonaron! Le pido a Dios que no los castigue por eso. Pero el Señor Jesucristo sí me ayudó, y me dio valor para anunciar su mensaje a gente de otros países. Así Dios me salvó de la muerte, como si me hubiera rescatado de la boca de un león hambriento. Yo sé que Dios siempre me cuidará y me protegerá de todo mal, hasta que me lleve a su reino celestial. ¡Él merece que lo alabemos por siempre! Amén.\n\nDale mis saludos a Priscila y a Áquila, y a toda la familia de Onesíforo.\nErasto se quedó en la ciudad de Corinto, y a Trófimo lo dejé en la ciudad de Mileto porque estaba enfermo.\nHaz todo lo posible por venir antes de que llegue el invierno.\nTe envían sus saludos Eubulo, Pudente, Lino y Claudia, y todos los hermanos de la iglesia.\nQue el Señor Jesucristo te bendiga. Que el amor de Dios los acompañe siempre.",
+      "chapter_html": "<div class=\"version vid176 iso6393spa\" data-vid=\"176\" data-iso6393=\"spa\">\n   <div class=\"book bk2TI\">\n      <div class=\"chapter ch4\" data-usfm=\"2TI.4\">\n         <div class=\"label\">4</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"2TI.4.1\"><span class=\"label\">1</span><span class=\"content\">Cuando Jesucristo venga como Rey, juzgar&#225; a todos, tanto a los que est&#233;n vivos como a los que est&#233;n muertos. Por eso pongo a Dios y a Jesucristo por testigos de lo que te ordeno. </span></span><span class=\"verse v2\" data-usfm=\"2TI.4.2\"><span class=\"label\">2</span><span class=\"content\">T&#250; anuncia el mensaje de Dios en todo momento. An&#250;ncialo, aunque ese momento no parezca ser el mejor. Mu&#233;strale a la gente sus errores, corr&#237;gela y an&#237;mala; instr&#250;yela con mucha paciencia. </span></span><span class=\"verse v3\" data-usfm=\"2TI.4.3\"><span class=\"label\">3</span><span class=\"content\">Porque llegar&#225; el d&#237;a en que la gente no querr&#225; escuchar la buena ense&#241;anza. Al contrario, querr&#225; o&#237;r ense&#241;anzas diferentes. Por eso buscar&#225; maestros que le digan lo que quiere o&#237;r. </span></span><span class=\"verse v4\" data-usfm=\"2TI.4.4\"><span class=\"label\">4</span><span class=\"content\">La gente no escuchar&#225; la verdadera ense&#241;anza, sino que prestar&#225; atenci&#243;n a toda clase de cuentos. </span></span><span class=\"verse v5\" data-usfm=\"2TI.4.5\"><span class=\"label\">5</span><span class=\"content\">Pero t&#250;, Timoteo, mant&#233;n la calma en todo momento, soporta los sufrimientos y anuncia siempre la </span><span class=\"w\"><span class=\"content\">buena</span></span><span class=\"content\"> noticia. Haz bien tu trabajo.</span></span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"2TI.4.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"2TI.4.6\"><span class=\"label\">6</span><span class=\"content\">Ya falta poco para que yo muera, y mi muerte ser&#225; mi </span><span class=\"w\"><span class=\"content\">ofrenda</span></span><span class=\"content\"> a Dios. </span></span><span class=\"verse v7\" data-usfm=\"2TI.4.7\"><span class=\"label\">7</span><span class=\"content\">He luchado por obedecer a Dios en todo, y lo he logrado; he llegado a la meta, y en ning&#250;n momento he dejado de confiar en Dios. </span></span><span class=\"verse v8\" data-usfm=\"2TI.4.8\"><span class=\"label\">8</span><span class=\"content\">S&#233; que Dios es un juez justo y que, cuando juzgue a todos, me dar&#225; una corona como premio a mi obediencia. Y no solo a m&#237; me la dar&#225;, sino tambi&#233;n a todos los que esperan con ansias su regreso.</span></span></div><div class=\"s1\"><span class=\"heading\">Instrucciones personales</span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"2TI.4.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"2TI.4.9\"><span class=\"label\">9</span><span class=\"content\">Haz todo lo posible por venir a verme pronto. </span></span><span class=\"verse v10\" data-usfm=\"2TI.4.10\"><span class=\"label\">10</span><span class=\"content\">Demas me ha abandonado y se ha ido a la ciudad de Tesal&#243;nica, pues ama demasiado las cosas de este mundo. Crescente se fue a la regi&#243;n de Galacia, y Tito a la de Dalmacia. </span></span><span class=\"verse v11\" data-usfm=\"2TI.4.11\"><span class=\"label\">11</span><span class=\"content\">El &#250;nico que est&#225; conmigo es Lucas.</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"2TI.4.11\"><span class=\"content\">Marcos puede ayudarme mucho en mi trabajo, as&#237; que b&#250;scalo y tr&#225;elo contigo cuando vengas. </span></span><span class=\"verse v12\" data-usfm=\"2TI.4.12\"><span class=\"label\">12</span><span class=\"content\">A T&#237;quico lo envi&#233; a la ciudad de &#201;feso.</span></span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"2TI.4.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"2TI.4.13\"><span class=\"label\">13</span><span class=\"content\">Cuando vengas, tr&#225;eme el abrigo que dej&#233; en la ciudad de Tr&#243;ade, en casa de Carpo. Trae tambi&#233;n los libros, especialmente los pergaminos.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4.13 </span><span class=\"fk\">Pergaminos: </span><span class=\"ft\">As&#237; se llamaban los libros cuyas hojas estaban hechas de piel de oveja o de cabra.</span></span></span></span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"2TI.4.13\"><span class=\"content\">  </span></span><span class=\"verse v14 v15\" data-usfm=\"2TI.4.14+2TI.4.15\"><span class=\"label\">14-15</span><span class=\"content\">Cu&#237;date de Alejandro, el herrero, pues me ha hecho mucho da&#241;o y est&#225; en contra de lo que ense&#241;amos. Pero yo s&#233; que el Se&#241;or Jesucristo habr&#225; de castigarlo.</span></span></div><div class=\"p\"><span class=\"verse v14 v15\" data-usfm=\"2TI.4.14+2TI.4.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"2TI.4.16\"><span class=\"label\">16</span><span class=\"content\">La primera vez que tuve que presentar mi defensa ante las autoridades de Roma, nadie me ayud&#243;. &#161;Todos me abandonaron! Le pido a Dios que no los castigue por eso. </span></span><span class=\"verse v17\" data-usfm=\"2TI.4.17\"><span class=\"label\">17</span><span class=\"content\">Pero el Se&#241;or Jesucristo s&#237; me ayud&#243;, y me dio valor para anunciar su mensaje a gente de otros pa&#237;ses. As&#237; Dios me salv&#243; de la muerte, como si me hubiera rescatado de la boca de un le&#243;n hambriento. </span></span><span class=\"verse v18\" data-usfm=\"2TI.4.18\"><span class=\"label\">18</span><span class=\"content\">Yo s&#233; que Dios siempre me cuidar&#225; y me proteger&#225; de todo mal, hasta que me lleve a su reino celestial. &#161;&#201;l merece que lo alabemos por siempre! </span><span class=\"w\"><span class=\"content\">Am&#233;n</span></span><span class=\"content\">.</span></span></div><div class=\"s1\"><span class=\"heading\">Despedida</span></div><div class=\"p\"><span class=\"verse v18\" data-usfm=\"2TI.4.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"2TI.4.19\"><span class=\"label\">19</span><span class=\"content\">Dale mis saludos a Priscila y a &#193;quila, y a toda la familia de Ones&#237;foro.</span></span></div><div class=\"p\"><span class=\"verse v19\" data-usfm=\"2TI.4.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"2TI.4.20\"><span class=\"label\">20</span><span class=\"content\">Erasto se qued&#243; en la ciudad de Corinto, y a Tr&#243;fimo lo dej&#233; en la ciudad de Mileto porque estaba enfermo.</span></span></div><div class=\"p\"><span class=\"verse v20\" data-usfm=\"2TI.4.20\"><span class=\"content\">  </span></span><span class=\"verse v21\" data-usfm=\"2TI.4.21\"><span class=\"label\">21</span><span class=\"content\">Haz todo lo posible por venir antes de que llegue el invierno.</span></span></div><div class=\"p\"><span class=\"verse v21\" data-usfm=\"2TI.4.21\"><span class=\"content\">Te env&#237;an sus saludos Eubulo, Pudente, Lino y Claudia, y todos los </span><span class=\"w\"><span class=\"content\">hermanos</span></span><span class=\"content\"> de la </span><span class=\"w\"><span class=\"content\">iglesia</span></span><span class=\"content\">.</span></span></div><div class=\"p\"><span class=\"verse v21\" data-usfm=\"2TI.4.21\"><span class=\"content\">  </span></span><span class=\"verse v22\" data-usfm=\"2TI.4.22\"><span class=\"label\">22</span><span class=\"content\">Que el Se&#241;or Jesucristo te </span><span class=\"w\"><span class=\"content\">bendiga</span></span><span class=\"content\">. Que el amor de Dios los acompa&#241;e siempre.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Cuando Jesucristo venga como Rey, juzgará a todos, tanto a los que estén vivos como a los que estén muertos. Por eso pongo a Dios y a Jesucristo por testigos de lo que te ordeno."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Tú anuncia el mensaje de Dios en todo momento. Anúncialo, aunque ese momento no parezca ser el mejor. Muéstrale a la gente sus errores, corrígela y anímala; instrúyela con mucha paciencia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Porque llegará el día en que la gente no querrá escuchar la buena enseñanza. Al contrario, querrá oír enseñanzas diferentes. Por eso buscará maestros que le digan lo que quiere oír."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "La gente no escuchará la verdadera enseñanza, sino que prestará atención a toda clase de cuentos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Pero tú, Timoteo, mantén la calma en todo momento, soporta los sufrimientos y anuncia siempre la buena noticia. Haz bien tu trabajo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Ya falta poco para que yo muera, y mi muerte será mi ofrenda a Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "He luchado por obedecer a Dios en todo, y lo he logrado; he llegado a la meta, y en ningún momento he dejado de confiar en Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Sé que Dios es un juez justo y que, cuando juzgue a todos, me dará una corona como premio a mi obediencia. Y no solo a mí me la dará, sino también a todos los que esperan con ansias su regreso."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Instrucciones personales"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Haz todo lo posible por venir a verme pronto."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Demas me ha abandonado y se ha ido a la ciudad de Tesalónica, pues ama demasiado las cosas de este mundo. Crescente se fue a la región de Galacia, y Tito a la de Dalmacia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "El único que está conmigo es Lucas.",
+            "Marcos puede ayudarme mucho en mi trabajo, así que búscalo y tráelo contigo cuando vengas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "A Tíquico lo envié a la ciudad de Éfeso."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Cuando vengas, tráeme el abrigo que dejé en la ciudad de Tróade, en casa de Carpo. Trae también los libros, especialmente los pergaminos.",
+            "Cuídate de Alejandro, el herrero, pues me ha hecho mucho daño y está en contra de lo que enseñamos. Pero yo sé que el Señor Jesucristo habrá de castigarlo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "La primera vez que tuve que presentar mi defensa ante las autoridades de Roma, nadie me ayudó. ¡Todos me abandonaron! Le pido a Dios que no los castigue por eso."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Pero el Señor Jesucristo sí me ayudó, y me dio valor para anunciar su mensaje a gente de otros países. Así Dios me salvó de la muerte, como si me hubiera rescatado de la boca de un león hambriento."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Yo sé que Dios siempre me cuidará y me protegerá de todo mal, hasta que me lleve a su reino celestial. ¡Él merece que lo alabemos por siempre! Amén."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Despedida"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Dale mis saludos a Priscila y a Áquila, y a toda la familia de Onesíforo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Erasto se quedó en la ciudad de Corinto, y a Trófimo lo dejé en la ciudad de Mileto porque estaba enfermo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "Haz todo lo posible por venir antes de que llegue el invierno.",
+            "Te envían sus saludos Eubulo, Pudente, Lino y Claudia, y todos los hermanos de la iglesia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "Que el Señor Jesucristo te bendiga. Que el amor de Dios los acompañe siempre."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

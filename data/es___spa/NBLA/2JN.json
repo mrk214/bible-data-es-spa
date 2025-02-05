@@ -1,0 +1,158 @@
+{
+  "book_usfm": "2JN",
+  "name": "2 Juan",
+  "local_title": "Nueva Biblia de las Américas",
+  "local_abbreviation": "NBLA",
+  "version_id": 103,
+  "publisher": {
+    "name": "The Lockman Foundation"
+  },
+  "copyright": {
+    "html": "1986, 1995, 1997, 2005 by The Lockman Foundation",
+    "text": "1986, 1995, 1997, 2005 by The Lockman Foundation"
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "2JN.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "2JN.1"
+        ],
+        "human": "2 Juan 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "3JN.1"
+        ],
+        "human": "3 Juan 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "1JN.5"
+        ],
+        "human": "1 Juan 5",
+        "toc": true
+      },
+      "chapter_text": "El anciano a la señora escogida y a sus hijos, a quienes amo en verdad, y no solo yo, sino también todos los que conocen la verdad, a causa de la verdad que permanece en nosotros y que estará con nosotros para siempre: La gracia, la misericordia, y la paz estarán con nosotros, de Dios el Padre y de Jesucristo, Hijo del Padre, en verdad y amor.\n\nMucho me alegré al encontrar algunos de tus hijos andando en la verdad, tal como hemos recibido mandamiento del Padre. Ahora te ruego, señora, no como escribiéndote un nuevo mandamiento, sino el que hemos tenido desde el principio, que nos amemos unos a otros. Y este es el amor: que andemos conforme a Sus mandamientos. Este es el mandamiento tal como lo han oído desde el principio, para que ustedes anden en él. Pues muchos engañadores han salido al mundo que no confiesan que Jesucristo ha venido en carne. Ese es el engañador y el anticristo.\nTengan ustedes cuidado para que no pierdan lo que hemos logrado, sino que reciban abundante recompensa. Todo el que se desvía y no permanece en la enseñanza de Cristo, no tiene a Dios. El que permanece en la enseñanza tiene tanto al Padre como al Hijo. Si alguien viene a ustedes y no trae esta enseñanza, no lo reciban en casa, ni lo saluden, pues el que lo saluda participa en sus malas obras.\n\nAunque tengo muchas cosas que escribirles, no quiero hacerlo con papel y tinta, sino que espero ir a verlos y hablar con ustedes cara a cara, para que su gozo sea completo. Te saludan los hijos de tu hermana escogida.",
+      "chapter_html": "<div class=\"version vid103 iso6393spa\" data-vid=\"103\" data-iso6393=\"spa\">\n   <div class=\"book bk2JN\">\n      <div class=\"chapter ch1\" data-usfm=\"2JN.1\">\n         <div class=\"label\">1</div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Saludo</span></span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"2JN.1.1\"><span class=\"label\">1</span><span class=\"content\">El anciano a la se&#241;ora escogida y a sus hijos, a quienes amo en verdad, y no solo yo, sino tambi&#233;n todos los que conocen la verdad, </span></span><span class=\"verse v2\" data-usfm=\"2JN.1.2\"><span class=\"label\">2</span><span class=\"content\">a causa de la verdad que permanece en nosotros y que estar&#225; con nosotros para siempre: </span></span><span class=\"verse v3\" data-usfm=\"2JN.1.3\"><span class=\"label\">3</span><span class=\"content\">La gracia, la misericordia, </span><span class=\"it\"><span class=\"content\">y</span></span><span class=\"content\"> la paz estar&#225;n con nosotros, de Dios el Padre y de Jesucristo, Hijo del Padre, en verdad y amor.</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Exhortaciones</span></span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"2JN.1.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"2JN.1.4\"><span class=\"label\">4</span><span class=\"content\">Mucho me alegr&#233; al encontrar </span><span class=\"it\"><span class=\"content\">algunos</span></span><span class=\"content\"> de tus hijos andando en la verdad, tal como hemos recibido mandamiento del Padre. </span></span><span class=\"verse v5\" data-usfm=\"2JN.1.5\"><span class=\"label\">5</span><span class=\"content\">Ahora te ruego, se&#241;ora, no como escribi&#233;ndote un nuevo mandamiento, sino el que hemos tenido desde el principio, que nos amemos unos a otros. </span></span><span class=\"verse v6\" data-usfm=\"2JN.1.6\"><span class=\"label\">6</span><span class=\"content\">Y este es el amor</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:6 </span><span class=\"ft\">O <span class=\"it\">en esto consiste el amor.</span></span></span></span><span class=\"content\">: que andemos conforme a Sus mandamientos. Este es el mandamiento tal como lo han o&#237;do desde el principio, para que ustedes anden en &#233;l. </span></span><span class=\"verse v7\" data-usfm=\"2JN.1.7\"><span class=\"label\">7</span><span class=\"content\">Pues muchos enga&#241;adores han salido al mundo que no confiesan que Jesucristo ha venido</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:7 </span><span class=\"ft\">Lit. <span class=\"it\">a Jesucristo viniendo.</span></span></span></span><span class=\"content\"> en carne. Ese es el enga&#241;ador y el anticristo.</span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"2JN.1.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"2JN.1.8\"><span class=\"label\">8</span><span class=\"content\">Tengan ustedes cuidado para que no pierdan lo que hemos</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:8 </span><span class=\"ft\">Algunos mss. antiguos dicen: <span class=\"it\">ustedes han.</span></span></span></span><span class=\"content\"> logrado, sino que reciban abundante recompensa. </span></span><span class=\"verse v9\" data-usfm=\"2JN.1.9\"><span class=\"label\">9</span><span class=\"content\">Todo el que se desv&#237;a y no permanece en la ense&#241;anza</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:9 </span><span class=\"ft\">O <span class=\"it\">doctrina.</span></span></span></span><span class=\"content\"> de Cristo, no tiene a Dios. El que permanece en la ense&#241;anza tiene tanto al Padre como al Hijo. </span></span><span class=\"verse v10\" data-usfm=\"2JN.1.10\"><span class=\"label\">10</span><span class=\"content\">Si alguien viene a ustedes y no trae esta ense&#241;anza</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:10 </span><span class=\"ft\">O <span class=\"it\">doctrina.</span></span></span></span><span class=\"content\">, no lo reciban en casa, ni lo saluden, </span></span><span class=\"verse v11\" data-usfm=\"2JN.1.11\"><span class=\"label\">11</span><span class=\"content\">pues el que lo saluda participa en sus malas obras.</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Despedida</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"2JN.1.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"2JN.1.12\"><span class=\"label\">12</span><span class=\"content\">Aunque tengo muchas cosas que escribirles, no quiero </span><span class=\"it\"><span class=\"content\">hacerlo</span></span><span class=\"content\"> con papel y tinta, sino que espero ir a verlos y hablar con ustedes cara a cara</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:12 </span><span class=\"ft\">Lit. <span class=\"it\">boca a boca.</span></span></span></span><span class=\"content\">, para que su</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:12 </span><span class=\"ft\">Algunos mss. antiguos dicen: <span class=\"it\">nuestro.</span></span></span></span><span class=\"content\"> gozo sea completo. </span></span><span class=\"verse v13\" data-usfm=\"2JN.1.13\"><span class=\"label\">13</span><span class=\"content\">Te saludan los hijos de tu hermana escogida.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "El anciano a la señora escogida y a sus hijos, a quienes amo en verdad, y no solo yo, sino también todos los que conocen la verdad,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "a causa de la verdad que permanece en nosotros y que estará con nosotros para siempre:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "La gracia, la misericordia, y la paz estarán con nosotros, de Dios el Padre y de Jesucristo, Hijo del Padre, en verdad y amor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Mucho me alegré al encontrar algunos de tus hijos andando en la verdad, tal como hemos recibido mandamiento del Padre."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Ahora te ruego, señora, no como escribiéndote un nuevo mandamiento, sino el que hemos tenido desde el principio, que nos amemos unos a otros."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Y este es el amor: que andemos conforme a Sus mandamientos. Este es el mandamiento tal como lo han oído desde el principio, para que ustedes anden en él."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Pues muchos engañadores han salido al mundo que no confiesan que Jesucristo ha venido en carne. Ese es el engañador y el anticristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Tengan ustedes cuidado para que no pierdan lo que hemos logrado, sino que reciban abundante recompensa."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Todo el que se desvía y no permanece en la enseñanza de Cristo, no tiene a Dios. El que permanece en la enseñanza tiene tanto al Padre como al Hijo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Si alguien viene a ustedes y no trae esta enseñanza, no lo reciban en casa, ni lo saluden,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "pues el que lo saluda participa en sus malas obras."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Aunque tengo muchas cosas que escribirles, no quiero hacerlo con papel y tinta, sino que espero ir a verlos y hablar con ustedes cara a cara, para que su gozo sea completo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Te saludan los hijos de tu hermana escogida."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "book_usfm": "2JN",
+  "name": "2 Juan",
+  "local_title": "Dios habla Hoy Estándar",
+  "local_abbreviation": "DHHS94",
+  "version_id": 1846,
+  "publisher": {
+    "name": "United Bible Societies"
+  },
+  "copyright": {
+    "html": "<p>Bible text: LA BIBLIA DIOS HABLA HOY, Tercera edición © Sociedades Bíblicas Unidas 1966, 1970, 1979, 1983, 1994, 1996</p> <p>Todos los derechos reservados. www.unitedbiblesocieties.org/</p>",
+    "text": "Bible text: LA BIBLIA DIOS HABLA HOY, Tercera edición © Sociedades Bíblicas Unidas 1966, 1970, 1979, 1983, 1994, 1996 Todos los derechos reservados. www.unitedbiblesocieties.org/"
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "2JN.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "2JN.1"
+        ],
+        "human": "2 Juan 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "3JN.1"
+        ],
+        "human": "3 Juan 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "1JN.5"
+        ],
+        "human": "1 Juan 5",
+        "toc": true
+      },
+      "chapter_text": "El anciano saluda a la comunidad escogida por Dios y a los que pertenecen a ella. Los amo de veras, y no solo yo, sino también todos los que han conocido la verdad. Los amo a ustedes por causa de la verdad que tenemos en nuestro corazón y que estará con nosotros para siempre. Que Dios el Padre, y Jesucristo, Hijo del Padre, derramen su gracia sobre ustedes y les den misericordia y paz, en verdad y en amor.\n\nMe he alegrado mucho de encontrar a algunos de los tuyos viviendo conforme a la verdad, como Dios el Padre nos ha mandado. Ahora, queridos hermanos, les ruego que nos amemos los unos a los otros. Esto que les escribo no es un mandamiento nuevo, sino el mismo que recibimos desde el principio. El amor consiste en vivir según los mandamientos de Dios, y el mandamiento, como ya lo han oído ustedes desde el principio, es que vivan en el amor.\n\nPues andan por el mundo muchos engañadores que no reconocen que Jesucristo vino como hombre verdadero. El que es así, es el engañador y el Anticristo. Tengan ustedes cuidado, para no perder el resultado de nuestro trabajo, sino recibir su recompensa completa.\nCualquiera que pretenda avanzar más allá de lo que Cristo enseñó, no tiene a Dios; pero el que permanece en esa enseñanza, tiene al Padre y también al Hijo. Si alguno va a visitarlos a ustedes y no lleva esta enseñanza, no lo reciban en casa ni lo saluden; porque quien lo salude se hará cómplice de sus malas acciones.\n\nTengo mucho que decirles a ustedes, pero no quiero hacerlo por carta. Espero ir a verlos y hablar con ustedes personalmente, para que así nuestra alegría sea completa.\nLos que pertenecen a la comunidad hermana de ustedes, a la cual Dios también ha escogido, les mandan saludos.",
+      "chapter_html": "<div class=\"version vid1846 iso6393spa\" data-vid=\"1846\" data-iso6393=\"spa\">\n   <div class=\"book bk2JN\">\n      <div class=\"chapter ch1\" data-usfm=\"2JN.1\">\n         <div class=\"label\">1</div><div class=\"s1\"><span class=\"heading\">Saludo</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"2JN.1.1\"><span class=\"label\">1</span><span class=\"content\">El anciano saluda a la comunidad escogida por Dios y a los que pertenecen a ella. Los amo de veras, y no solo yo, sino tambi&#233;n todos los que han conocido la verdad. </span></span><span class=\"verse v2\" data-usfm=\"2JN.1.2\"><span class=\"label\">2</span><span class=\"content\">Los amo a ustedes por causa de la verdad que tenemos en nuestro coraz&#243;n y que estar&#225; con nosotros para siempre. </span></span><span class=\"verse v3\" data-usfm=\"2JN.1.3\"><span class=\"label\">3</span><span class=\"content\">Que Dios el Padre, y Jesucristo, Hijo del Padre, derramen su gracia sobre ustedes y les den misericordia y paz, en verdad y en amor.</span></span></div><div class=\"s1\"><span class=\"heading\">El mandamiento del amor</span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"2JN.1.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"2JN.1.4\"><span class=\"label\">4</span><span class=\"content\">Me he alegrado mucho de encontrar a algunos de los tuyos viviendo conforme a la verdad, como Dios el Padre nos ha mandado. </span></span><span class=\"verse v5\" data-usfm=\"2JN.1.5\"><span class=\"label\">5</span><span class=\"content\">Ahora, queridos hermanos, les ruego que nos amemos los unos a los otros. Esto que les escribo no es un mandamiento nuevo, sino el mismo que recibimos desde el principio. </span></span><span class=\"verse v6\" data-usfm=\"2JN.1.6\"><span class=\"label\">6</span><span class=\"content\">El amor consiste en vivir seg&#250;n los mandamientos de Dios, y el mandamiento, como ya lo han o&#237;do ustedes desde el principio, es que vivan en el amor. </span></span></div><div class=\"s1\"><span class=\"heading\">La verdadera fe en Jesucristo</span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"2JN.1.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"2JN.1.7\"><span class=\"label\">7</span><span class=\"content\">Pues andan por el mundo muchos enga&#241;adores que no reconocen que Jesucristo vino como hombre verdadero. El que es as&#237;, es el enga&#241;ador y el Anticristo. </span></span><span class=\"verse v8\" data-usfm=\"2JN.1.8\"><span class=\"label\">8</span><span class=\"content\">Tengan ustedes cuidado, para no perder el resultado de nuestro trabajo, sino recibir su recompensa completa.</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"2JN.1.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"2JN.1.9\"><span class=\"label\">9</span><span class=\"content\">Cualquiera que pretenda avanzar m&#225;s all&#225; de lo que Cristo ense&#241;&#243;, no tiene a Dios; pero el que permanece en esa ense&#241;anza, tiene al Padre y tambi&#233;n al Hijo. </span></span><span class=\"verse v10\" data-usfm=\"2JN.1.10\"><span class=\"label\">10</span><span class=\"content\">Si alguno va a visitarlos a ustedes y no lleva esta ense&#241;anza, no lo reciban en casa ni lo saluden; </span></span><span class=\"verse v11\" data-usfm=\"2JN.1.11\"><span class=\"label\">11</span><span class=\"content\">porque quien lo salude se har&#225; c&#243;mplice de sus malas acciones.</span></span></div><div class=\"s1\"><span class=\"heading\">Despedida</span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"2JN.1.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"2JN.1.12\"><span class=\"label\">12</span><span class=\"content\">Tengo mucho que decirles a ustedes, pero no quiero hacerlo por carta. Espero ir a verlos y hablar con ustedes personalmente, para que as&#237; nuestra alegr&#237;a sea completa.</span></span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"2JN.1.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"2JN.1.13\"><span class=\"label\">13</span><span class=\"content\">Los que pertenecen a la comunidad hermana de ustedes, a la cual Dios tambi&#233;n ha escogido, les mandan saludos.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Saludo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "El anciano saluda a la comunidad escogida por Dios y a los que pertenecen a ella. Los amo de veras, y no solo yo, sino también todos los que han conocido la verdad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Los amo a ustedes por causa de la verdad que tenemos en nuestro corazón y que estará con nosotros para siempre."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Que Dios el Padre, y Jesucristo, Hijo del Padre, derramen su gracia sobre ustedes y les den misericordia y paz, en verdad y en amor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "El mandamiento del amor"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Me he alegrado mucho de encontrar a algunos de los tuyos viviendo conforme a la verdad, como Dios el Padre nos ha mandado."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Ahora, queridos hermanos, les ruego que nos amemos los unos a los otros. Esto que les escribo no es un mandamiento nuevo, sino el mismo que recibimos desde el principio."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "El amor consiste en vivir según los mandamientos de Dios, y el mandamiento, como ya lo han oído ustedes desde el principio, es que vivan en el amor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "La verdadera fe en Jesucristo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Pues andan por el mundo muchos engañadores que no reconocen que Jesucristo vino como hombre verdadero. El que es así, es el engañador y el Anticristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Tengan ustedes cuidado, para no perder el resultado de nuestro trabajo, sino recibir su recompensa completa."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Cualquiera que pretenda avanzar más allá de lo que Cristo enseñó, no tiene a Dios; pero el que permanece en esa enseñanza, tiene al Padre y también al Hijo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Si alguno va a visitarlos a ustedes y no lleva esta enseñanza, no lo reciban en casa ni lo saluden;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "porque quien lo salude se hará cómplice de sus malas acciones."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Despedida"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Tengo mucho que decirles a ustedes, pero no quiero hacerlo por carta. Espero ir a verlos y hablar con ustedes personalmente, para que así nuestra alegría sea completa."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Los que pertenecen a la comunidad hermana de ustedes, a la cual Dios también ha escogido, les mandan saludos."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

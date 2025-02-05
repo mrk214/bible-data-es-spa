@@ -1,0 +1,763 @@
+{
+  "book_usfm": "ZEP",
+  "name": "Sofonías",
+  "local_title": "Traducción en Lenguaje Actual",
+  "local_abbreviation": "TLA",
+  "version_id": 176,
+  "publisher": {
+    "name": "United Bible Societies"
+  },
+  "copyright": {
+    "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+    "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "ZEP.INTRO1",
+      "is_chapter": false,
+      "current": {
+        "usfm": [
+          "ZEP.INTRO1"
+        ],
+        "human": "Sofonías Introducción"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "ZEP.1"
+        ],
+        "human": "Sofonías 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "HAB.3"
+        ],
+        "human": "Habacuc 3",
+        "toc": true
+      },
+      "chapter_text": "Introducción\n¿QUIÉN?\nEl mensajero de Dios llamado Sofonías no nos dejó mucha información acerca de su persona. Sabemos que su nombre significa «Dios lo ha escondido». Esto puede referirse al hecho de que Dios lo protegió durante la época en que reinó Manasés. Este rey de Judá era muy corrupto y violento.\nSofonías incluye en su mensaje escrito una larga lista de sus antepasados, tal vez para establecer la relación que tenía con la familia del rey. También podemos decir que era un hombre que conocía muy bien la ciudad de Jerusalén. Sus descripciones de lugares específicos nos indican que esta era la ciudad donde él se movía con confianza.\n¿DÓNDE?\nSofonías le predicó al pueblo de Dios que había quedado en el reino del sur, conocido como el reino de Judá. Ya para cuando él proclama la palabra de Dios, los asirios habían destruido el reino del norte y su ciudad capital Samaria. Por lo tanto, su campo de acción estaba en Jerusalén y la región de Judá.\n¿CUÁNDO?\nAparte del hecho de que Sofonías menciona al rey Josías (640 a 609 antes de Cristo), no podemos precisar fechas exactas para su ministerio. Esto nos permite sugerir que Sofonías predicó durante el mismo tiempo que el profeta Jeremías.\n¿QUÉ?\nDurante casi 50 años nadie pudo proclamar la palabra de Dios con libertad porque un rey muy malvado, llamado Manasés, tenía a todos amenazados de muerte. Sofonías, como mensajero de Dios, rompe ese silencio de 50 años y se arriesga a predicar.\nSofonías hizo suyas las preocupaciones y denuncias de los profetas del siglo VIII antes de Cristo, y las explicó a los que vivían en Judá a fines del siglo VII antes de Cristo. Sofonías aplicó el mensaje de Dios a la turbulenta situación que vivían tanto Judá como las naciones vecinas. Su mensaje era de condena y castigo, tanto para Jerusalén como para todas las naciones del mundo. Pero, Sofonías aclara que el propósito era corregir, restaurar y finalmente formar un pueblo fiel a Dios.\n¿ALGO NUEVO?\nSofonías, como mensajero de Dios, estaba muy preocupado por la paz y bienestar de la ciudad de Jerusalén. El lujo de detalles con que describe la ciudad nos muestra su gran cariño e interés por ella. Es por esto que Sofonías, cuando habla de un ataque enemigo, plantea que el enemigo vendrá por el norte de la ciudad, que era la parte menos protegida. De esta manera intentó prevenir al pueblo.",
+      "chapter_html": "<div class=\"version vid176 iso6393spa\" data-vid=\"176\" data-iso6393=\"spa\">\n   <div class=\"book bkZEP\">\n      <div class=\"chapter chINTRO1\" data-usfm=\"ZEP.INTRO1\">\n         <div class=\"imt\"><span class=\"content\">Introducci&#243;n</span></div><div class=\"is\"><span class=\"content\">&#191;QUI&#201;N?</span></div><div class=\"ip\"><span class=\"content\">El mensajero de Dios llamado Sofon&#237;as no nos dej&#243; mucha informaci&#243;n acerca de su persona. Sabemos que su nombre significa &#171;Dios lo ha escondido&#187;. Esto puede referirse al hecho de que Dios lo protegi&#243; durante la &#233;poca en que rein&#243; Manas&#233;s. Este rey de Jud&#225; era muy corrupto y violento.</span></div><div class=\"ip\"><span class=\"content\">Sofon&#237;as incluye en su mensaje escrito una larga lista de sus antepasados, tal vez para establecer la relaci&#243;n que ten&#237;a con la familia del rey. Tambi&#233;n podemos decir que era un hombre que conoc&#237;a muy bien la ciudad de Jerusal&#233;n. Sus descripciones de lugares espec&#237;ficos nos indican que esta era la ciudad donde &#233;l se mov&#237;a con confianza.</span></div><div class=\"is\"><span class=\"content\">&#191;D&#211;NDE?</span></div><div class=\"ip\"><span class=\"content\">Sofon&#237;as le predic&#243; al pueblo de Dios que hab&#237;a quedado en el reino del sur, conocido como el reino de Jud&#225;. Ya para cuando &#233;l proclama la palabra de Dios, los asirios hab&#237;an destruido el reino del norte y su ciudad capital Samaria. Por lo tanto, su campo de acci&#243;n estaba en Jerusal&#233;n y la regi&#243;n de Jud&#225;.</span></div><div class=\"is\"><span class=\"content\">&#191;CU&#193;NDO?</span></div><div class=\"ip\"><span class=\"content\">Aparte del hecho de que Sofon&#237;as menciona al rey Jos&#237;as (640 a 609 antes de Cristo), no podemos precisar fechas exactas para su ministerio. Esto nos permite sugerir que Sofon&#237;as predic&#243; durante el mismo tiempo que el profeta Jerem&#237;as.</span></div><div class=\"is\"><span class=\"content\">&#191;QU&#201;?</span></div><div class=\"ip\"><span class=\"content\">Durante casi 50 a&#241;os nadie pudo proclamar la palabra de Dios con libertad porque un rey muy malvado, llamado Manas&#233;s, ten&#237;a a todos amenazados de muerte. Sofon&#237;as, como mensajero de Dios, rompe ese silencio de 50 a&#241;os y se arriesga a predicar.</span></div><div class=\"ip\"><span class=\"content\">Sofon&#237;as hizo suyas las preocupaciones y denuncias de los profetas del siglo VIII antes de Cristo, y las explic&#243; a los que viv&#237;an en Jud&#225; a fines del siglo VII antes de Cristo. Sofon&#237;as aplic&#243; el mensaje de Dios a la turbulenta situaci&#243;n que viv&#237;an tanto Jud&#225; como las naciones vecinas. Su mensaje era de condena y castigo, tanto para Jerusal&#233;n como para todas las naciones del mundo. Pero, Sofon&#237;as aclara que el prop&#243;sito era corregir, restaurar y finalmente formar un pueblo fiel a Dios.</span></div><div class=\"is\"><span class=\"content\">&#191;ALGO NUEVO?</span></div><div class=\"ip\"><span class=\"content\">Sofon&#237;as, como mensajero de Dios, estaba muy preocupado por la paz y bienestar de la ciudad de Jerusal&#233;n. El lujo de detalles con que describe la ciudad nos muestra su gran cari&#241;o e inter&#233;s por ella. Es por esto que Sofon&#237;as, cuando habla de un ataque enemigo, plantea que el enemigo vendr&#225; por el norte de la ciudad, que era la parte menos protegida. De esta manera intent&#243; prevenir al pueblo.</span></div><div class=\"ie\"></div>\n      </div>\n   </div>\n</div>",
+      "items": []
+    },
+    {
+      "chapter_usfm": "ZEP.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "ZEP.1"
+        ],
+        "human": "Sofonías 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "ZEP.2"
+        ],
+        "human": "Sofonías 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": false,
+        "usfm": [
+          "ZEP.INTRO1"
+        ],
+        "human": "Sofonías Introducción",
+        "toc": true
+      },
+      "chapter_text": "Yo soy Sofonías hijo de Cusí. Mi padre era descendiente de Guedalías, Amarías y Ezequías. Dios me dio este mensaje cuando Josías hijo de Amón era rey de Judá.\n\nNuestro Dios dice:\n\n«Voy a destruir por completo\ntodo lo que hay sobre la tierra.\nDestruiré a la humanidad entera,\ny también a los animales,\na las aves y a los peces.\n¡Voy a hacer que tropiecen los malvados!\nYo soy el Dios de Israel,\ny juro que así lo haré.\n\n»Castigaré a los habitantes de Judá;\nquitaré de Jerusalén a los ídolos;\nquitaré a sus sacerdotes,\na los que adoran a las estrellas\nen los techos de sus casas,\ny a los que me adoran a mí,\npero también adoran al dios Milcom.\nY voy a destruir igualmente\na los que se han apartado de mí\ny jamás buscan mis consejos.\n\n»¡Silencio!\n¡Ya se acerca el día del castigo!\n¡Todo está preparado!\n¡Los invitados ya están aquí!\n¡Voy a destruir a mi pueblo!\n\n»Ese día castigaré\na los hijos del rey,\na los jefes principales\ny a los que siguen el mal ejemplo\nde los que no creen en mí.\nEse día castigaré también\na los que adoran a otros dioses\ny llenan los templos de esos dioses\ncon riquezas conseguidas\nmediante el engaño y la violencia.\n\n»Ese día gritarán pidiendo ayuda\ndesde la Puerta de los Pescados;\nun gran clamor se escuchará\ndesde el Segundo Barrio\ny desde las colinas.\n¡Griten también ustedes,\nvecinos del Barrio del Mortero!\n¡Ese día morirán los comerciantes\ny los que cambian dinero!\n\n»Cuando llegue ese día,\ntomaré una lámpara y buscaré\nen la ciudad de Jerusalén\na los que viven tranquilos;\ncuando los encuentre, los castigaré.\nSe parecen al vino\nque se pone a reposar,\ny hasta se atreven a decir:\n“¡Dios no hace nada bueno,\npero tampoco hace nada malo!”\nConstruyeron casas,\npero no habitarán en ellas;\ncultivaron viñas,\npero no beberán el vino;\n¡sus riquezas les serán quitadas,\ny sus casas serán destruidas!\n\n»¡Ya se acerca el gran día\nen que vendré a castigarlos!\n¡Se acerca con gran rapidez!\n¡Ese día se oirán gritos tan horribles\nque hasta los más valientes llorarán!\nSerá un día de gran enojo,\nun día de aflicción y angustia,\nun día de completa destrucción,\nun día de grandes nubarrones,\nun día de profunda oscuridad.\nEntre gritos y toques de trompeta,\nese día se dará la orden de ataque\ncontra las ciudades amuralladas\ny contra sus altas torres.\n\n»Todos han pecado contra mí.\nPor eso haré que se angustien\ny que caminen como ciegos.\nSu sangre se esparcirá como el polvo,\ny sus cuerpos se volverán estiércol.\nEl día que yo me enoje,\nle prenderé fuego a la tierra.\nNo habrá nada que los salve;\n¡ni siquiera su oro y su plata!\n¡En un instante serán destruidos\ntodos los que habitan este mundo!»",
+      "chapter_html": "<div class=\"version vid176 iso6393spa\" data-vid=\"176\" data-iso6393=\"spa\">\n   <div class=\"book bkZEP\">\n      <div class=\"chapter ch1\" data-usfm=\"ZEP.1\">\n         <div class=\"label\">1</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"ZEP.1.1\"><span class=\"label\">1</span><span class=\"content\">Yo soy Sofon&#237;as hijo de Cus&#237;. Mi padre era </span><span class=\"w\"><span class=\"content\">descendiente</span></span><span class=\"content\"> de Guedal&#237;as, Amar&#237;as y Ezequ&#237;as. Dios me dio este mensaje cuando Jos&#237;as hijo de Am&#243;n era rey de Jud&#225;.</span></span></div><div class=\"s1\"><span class=\"heading\">Dios destruir&#225; a Jud&#225;</span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"ZEP.1.1\"><span class=\"content\">  </span></span><span class=\"verse v2 v3\" data-usfm=\"ZEP.1.2+ZEP.1.3\"><span class=\"label\">2-3</span><span class=\"content\">Nuestro Dios dice:</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v2 v3\" data-usfm=\"ZEP.1.2+ZEP.1.3\"><span class=\"content\">&#171;Voy a destruir por completo</span></span></div><div class=\"q1\"><span class=\"verse v2 v3\" data-usfm=\"ZEP.1.2+ZEP.1.3\"><span class=\"content\">todo lo que hay sobre la tierra.</span></span></div><div class=\"q1\"><span class=\"verse v2 v3\" data-usfm=\"ZEP.1.2+ZEP.1.3\"><span class=\"content\">Destruir&#233; a la humanidad entera,</span></span></div><div class=\"q1\"><span class=\"verse v2 v3\" data-usfm=\"ZEP.1.2+ZEP.1.3\"><span class=\"content\">y tambi&#233;n a los animales,</span></span></div><div class=\"q1\"><span class=\"verse v2 v3\" data-usfm=\"ZEP.1.2+ZEP.1.3\"><span class=\"content\">a las aves y a los peces.</span></span></div><div class=\"q1\"><span class=\"verse v2 v3\" data-usfm=\"ZEP.1.2+ZEP.1.3\"><span class=\"content\">&#161;Voy a hacer que tropiecen los malvados!</span></span></div><div class=\"q1\"><span class=\"verse v2 v3\" data-usfm=\"ZEP.1.2+ZEP.1.3\"><span class=\"content\">Yo soy el Dios de Israel,</span></span></div><div class=\"q1\"><span class=\"verse v2 v3\" data-usfm=\"ZEP.1.2+ZEP.1.3\"><span class=\"content\">y juro que as&#237; lo har&#233;.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v2 v3\" data-usfm=\"ZEP.1.2+ZEP.1.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"ZEP.1.4\"><span class=\"label\">4</span><span class=\"content\">&#187;Castigar&#233; a los habitantes de Jud&#225;;</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"ZEP.1.4\"><span class=\"content\">quitar&#233; de Jerusal&#233;n a los </span><span class=\"w\"><span class=\"content\">&#237;dolos</span></span><span class=\"content\">;</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"ZEP.1.4\"><span class=\"content\">quitar&#233; a sus </span><span class=\"w\"><span class=\"content\">sacerdotes</span></span><span class=\"content\">,</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"ZEP.1.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"ZEP.1.5\"><span class=\"label\">5</span><span class=\"content\">a los que </span><span class=\"w\"><span class=\"content\">adoran</span></span><span class=\"content\"> a las estrellas</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"ZEP.1.5\"><span class=\"content\">en los techos de sus casas,</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"ZEP.1.5\"><span class=\"content\">y a los que me adoran a m&#237;,</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"ZEP.1.5\"><span class=\"content\">pero tambi&#233;n adoran al dios Milcom.</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"ZEP.1.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"ZEP.1.6\"><span class=\"label\">6</span><span class=\"content\">Y voy a destruir igualmente</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"ZEP.1.6\"><span class=\"content\">a los que se han apartado de m&#237;</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"ZEP.1.6\"><span class=\"content\">y jam&#225;s buscan mis consejos.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"ZEP.1.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"ZEP.1.7\"><span class=\"label\">7</span><span class=\"content\">&#187;&#161;Silencio!</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"ZEP.1.7\"><span class=\"content\">&#161;Ya se acerca el d&#237;a del castigo!</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"ZEP.1.7\"><span class=\"content\">&#161;Todo est&#225; preparado!</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"ZEP.1.7\"><span class=\"content\">&#161;Los invitados ya est&#225;n aqu&#237;!</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"ZEP.1.7\"><span class=\"content\">&#161;Voy a destruir a mi pueblo!</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"ZEP.1.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"ZEP.1.8\"><span class=\"label\">8</span><span class=\"content\">&#187;Ese d&#237;a castigar&#233;</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"ZEP.1.8\"><span class=\"content\">a los hijos del rey,</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"ZEP.1.8\"><span class=\"content\">a los jefes principales</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"ZEP.1.8\"><span class=\"content\">y a los que siguen el mal ejemplo</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"ZEP.1.8\"><span class=\"content\">de los que no creen en m&#237;.</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"ZEP.1.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"ZEP.1.9\"><span class=\"label\">9</span><span class=\"content\">Ese d&#237;a castigar&#233; tambi&#233;n</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"ZEP.1.9\"><span class=\"content\">a los que adoran a otros dioses</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"ZEP.1.9\"><span class=\"content\">y llenan los templos de esos dioses</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"ZEP.1.9\"><span class=\"content\">con riquezas conseguidas</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"ZEP.1.9\"><span class=\"content\">mediante el enga&#241;o y la violencia.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"ZEP.1.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"ZEP.1.10\"><span class=\"label\">10</span><span class=\"content\">&#187;Ese d&#237;a gritar&#225;n pidiendo ayuda</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"ZEP.1.10\"><span class=\"content\">desde la Puerta de los Pescados;</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"ZEP.1.10\"><span class=\"content\">un gran clamor se escuchar&#225;</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"ZEP.1.10\"><span class=\"content\">desde el Segundo Barrio</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"ZEP.1.10\"><span class=\"content\">y desde las colinas.</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"ZEP.1.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"ZEP.1.11\"><span class=\"label\">11</span><span class=\"content\">&#161;Griten tambi&#233;n ustedes,</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"ZEP.1.11\"><span class=\"content\">vecinos del Barrio del Mortero!</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"ZEP.1.11\"><span class=\"content\">&#161;Ese d&#237;a morir&#225;n los comerciantes</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"ZEP.1.11\"><span class=\"content\">y los que cambian dinero!</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"ZEP.1.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"ZEP.1.12\"><span class=\"label\">12</span><span class=\"content\">&#187;Cuando llegue ese d&#237;a,</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"ZEP.1.12\"><span class=\"content\">tomar&#233; una l&#225;mpara y buscar&#233;</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"ZEP.1.12\"><span class=\"content\">en la ciudad de Jerusal&#233;n</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"ZEP.1.12\"><span class=\"content\">a los que viven tranquilos;</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"ZEP.1.12\"><span class=\"content\">cuando los encuentre, los castigar&#233;.</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"ZEP.1.12\"><span class=\"content\">Se parecen al vino</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"ZEP.1.12\"><span class=\"content\">que se pone a reposar,</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"ZEP.1.12\"><span class=\"content\">y hasta se atreven a decir:</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"ZEP.1.12\"><span class=\"content\">&#8220;&#161;Dios no hace nada bueno,</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"ZEP.1.12\"><span class=\"content\">pero tampoco hace nada malo!&#8221;</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"ZEP.1.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"ZEP.1.13\"><span class=\"label\">13</span><span class=\"content\">Construyeron casas,</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"ZEP.1.13\"><span class=\"content\">pero no habitar&#225;n en ellas;</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"ZEP.1.13\"><span class=\"content\">cultivaron vi&#241;as,</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"ZEP.1.13\"><span class=\"content\">pero no beber&#225;n el vino;</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"ZEP.1.13\"><span class=\"content\">&#161;sus riquezas les ser&#225;n quitadas,</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"ZEP.1.13\"><span class=\"content\">y sus casas ser&#225;n destruidas!</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"ZEP.1.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"ZEP.1.14\"><span class=\"label\">14</span><span class=\"content\">&#187;&#161;Ya se acerca el gran d&#237;a</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"ZEP.1.14\"><span class=\"content\">en que vendr&#233; a castigarlos!</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"ZEP.1.14\"><span class=\"content\">&#161;Se acerca con gran rapidez!</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"ZEP.1.14\"><span class=\"content\">&#161;Ese d&#237;a se oir&#225;n gritos tan horribles</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"ZEP.1.14\"><span class=\"content\">que hasta los m&#225;s valientes llorar&#225;n!</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"ZEP.1.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"ZEP.1.15\"><span class=\"label\">15</span><span class=\"content\">Ser&#225; un d&#237;a de gran enojo,</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"ZEP.1.15\"><span class=\"content\">un d&#237;a de aflicci&#243;n y angustia,</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"ZEP.1.15\"><span class=\"content\">un d&#237;a de completa destrucci&#243;n,</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"ZEP.1.15\"><span class=\"content\">un d&#237;a de grandes nubarrones,</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"ZEP.1.15\"><span class=\"content\">un d&#237;a de profunda oscuridad.</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"ZEP.1.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"ZEP.1.16\"><span class=\"label\">16</span><span class=\"content\">Entre gritos y toques de trompeta,</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"ZEP.1.16\"><span class=\"content\">ese d&#237;a se dar&#225; la orden de ataque</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"ZEP.1.16\"><span class=\"content\">contra las ciudades amuralladas</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"ZEP.1.16\"><span class=\"content\">y contra sus altas torres.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"ZEP.1.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"ZEP.1.17\"><span class=\"label\">17</span><span class=\"content\">&#187;Todos han </span><span class=\"w\"><span class=\"content\">pecado</span></span><span class=\"content\"> contra m&#237;.</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"ZEP.1.17\"><span class=\"content\">Por eso har&#233; que se angustien</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"ZEP.1.17\"><span class=\"content\">y que caminen como ciegos.</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"ZEP.1.17\"><span class=\"content\">Su sangre se esparcir&#225; como el polvo,</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"ZEP.1.17\"><span class=\"content\">y sus cuerpos se volver&#225;n esti&#233;rcol.</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"ZEP.1.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"ZEP.1.18\"><span class=\"label\">18</span><span class=\"content\">El d&#237;a que yo me enoje,</span></span></div><div class=\"q1\"><span class=\"verse v18\" data-usfm=\"ZEP.1.18\"><span class=\"content\">le prender&#233; fuego a la tierra.</span></span></div><div class=\"q1\"><span class=\"verse v18\" data-usfm=\"ZEP.1.18\"><span class=\"content\">No habr&#225; nada que los salve;</span></span></div><div class=\"q1\"><span class=\"verse v18\" data-usfm=\"ZEP.1.18\"><span class=\"content\">&#161;ni siquiera su oro y su plata!</span></span></div><div class=\"q1\"><span class=\"verse v18\" data-usfm=\"ZEP.1.18\"><span class=\"content\">&#161;En un instante ser&#225;n destruidos</span></span></div><div class=\"q1\"><span class=\"verse v18\" data-usfm=\"ZEP.1.18\"><span class=\"content\">todos los que habitan este mundo!&#187;</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Yo soy Sofonías hijo de Cusí. Mi padre era descendiente de Guedalías, Amarías y Ezequías. Dios me dio este mensaje cuando Josías hijo de Amón era rey de Judá."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Dios destruirá a Judá"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "»Castigaré a los habitantes de Judá;",
+            "quitaré de Jerusalén a los ídolos;",
+            "quitaré a sus sacerdotes,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "a los que adoran a las estrellas",
+            "en los techos de sus casas,",
+            "y a los que me adoran a mí,",
+            "pero también adoran al dios Milcom."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Y voy a destruir igualmente",
+            "a los que se han apartado de mí",
+            "y jamás buscan mis consejos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "»¡Silencio!",
+            "¡Ya se acerca el día del castigo!",
+            "¡Todo está preparado!",
+            "¡Los invitados ya están aquí!",
+            "¡Voy a destruir a mi pueblo!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "»Ese día castigaré",
+            "a los hijos del rey,",
+            "a los jefes principales",
+            "y a los que siguen el mal ejemplo",
+            "de los que no creen en mí."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Ese día castigaré también",
+            "a los que adoran a otros dioses",
+            "y llenan los templos de esos dioses",
+            "con riquezas conseguidas",
+            "mediante el engaño y la violencia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "»Ese día gritarán pidiendo ayuda",
+            "desde la Puerta de los Pescados;",
+            "un gran clamor se escuchará",
+            "desde el Segundo Barrio",
+            "y desde las colinas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "¡Griten también ustedes,",
+            "vecinos del Barrio del Mortero!",
+            "¡Ese día morirán los comerciantes",
+            "y los que cambian dinero!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "»Cuando llegue ese día,",
+            "tomaré una lámpara y buscaré",
+            "en la ciudad de Jerusalén",
+            "a los que viven tranquilos;",
+            "cuando los encuentre, los castigaré.",
+            "Se parecen al vino",
+            "que se pone a reposar,",
+            "y hasta se atreven a decir:",
+            "“¡Dios no hace nada bueno,",
+            "pero tampoco hace nada malo!”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Construyeron casas,",
+            "pero no habitarán en ellas;",
+            "cultivaron viñas,",
+            "pero no beberán el vino;",
+            "¡sus riquezas les serán quitadas,",
+            "y sus casas serán destruidas!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "»¡Ya se acerca el gran día",
+            "en que vendré a castigarlos!",
+            "¡Se acerca con gran rapidez!",
+            "¡Ese día se oirán gritos tan horribles",
+            "que hasta los más valientes llorarán!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Será un día de gran enojo,",
+            "un día de aflicción y angustia,",
+            "un día de completa destrucción,",
+            "un día de grandes nubarrones,",
+            "un día de profunda oscuridad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Entre gritos y toques de trompeta,",
+            "ese día se dará la orden de ataque",
+            "contra las ciudades amuralladas",
+            "y contra sus altas torres."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "»Todos han pecado contra mí.",
+            "Por eso haré que se angustien",
+            "y que caminen como ciegos.",
+            "Su sangre se esparcirá como el polvo,",
+            "y sus cuerpos se volverán estiércol."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "El día que yo me enoje,",
+            "le prenderé fuego a la tierra.",
+            "No habrá nada que los salve;",
+            "¡ni siquiera su oro y su plata!",
+            "¡En un instante serán destruidos",
+            "todos los que habitan este mundo!»"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "ZEP.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "ZEP.2"
+        ],
+        "human": "Sofonías 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "ZEP.3"
+        ],
+        "human": "Sofonías 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "ZEP.1"
+        ],
+        "human": "Sofonías 1",
+        "toc": true
+      },
+      "chapter_text": "Entonces yo, Sofonías, dije:\n\nPueblo de Judá,\n¡ustedes no tienen vergüenza!\nPero vengan y preséntense ante Dios\nantes de que llegue el día\nen que él los arrastre como paja;\nantes de que los alcance\ny caiga sobre ustedes\ntoda la furia de nuestro Dios.\n\nY ustedes, los humildes,\nque obedecen a nuestro Dios,\nbúsquenlo y procuren ser justos;\ntal vez así podrán salvarse\nel día en que Dios nos castigue.\n\nLas ciudades de Gaza y Ascalón\nquedarán en ruinas y sin habitantes;\nlos que viven en Asdod y Ecrón\nserán arrojados de sus ciudades\na plena luz del día.\n\n¡Qué mal les va a ir a ustedes,\nfilisteos, habitantes de Creta\nque viven a la orilla del mar!\n¡Dios ha decidido destruirlos\ny dejar su país sin habitantes,\ncomo antes lo hizo con Canaán!\n¡Todas sus costas se convertirán\nen campos para alimentar ovejas!\n\nCuando nuestro Dios permita\nque vuelvan los sobrevivientes de Judá,\ndel país adonde los llevaron presos,\nél mismo los llevará a la costa,\npara que alimenten a sus rebaños.\nEllos pasarán la noche\nen las casas abandonadas\nde la ciudad de Ascalón.\n\nAsí dice el Dios de Israel:\n\n«Los de Moab y los de Amón\nhan insultado a mi pueblo\ny se han adueñado de su territorio,\npero yo haré que esos dos pueblos\nse queden completamente desiertos;\nse volverán campos de espinos,\nse volverán pozos de sal,\ncomo Sodoma y Gomorra.\nLos pocos sobrevivientes de Judá\nles quitarán todas sus riquezas\ny se adueñarán de su territorio.\n¡Yo les daré su merecido\npor haberse burlado de mi pueblo\ny por haber invadido su tierra!\nCuando yo destruya por completo\na los dioses de este mundo,\ntodos temblarán de miedo ante mí,\ny aun las naciones más lejanas\nme reconocerán como su Dios.\nYo soy el Dios de Israel,\ny les juro que así lo haré.\n\n»¡A ustedes, pueblo de Etiopía,\nyo los mataré con mi espada!»\n\nDios continuó diciendo:\n\n«Atacaré y destruiré a los asirios;\n¡convertiré a Nínive,\nsu ciudad capital,\nen un montón de ruinas!\nLa madera de sus casas\nquedará al descubierto,\ny allí descansarán ovejas\ny toda clase de animales.\nEn las vigas y en las ventanas\nanidarán búhos y erizos,\ny sus puertas parecerán basureros.\n\n»¡Así quedará esa ciudad orgullosa,\nque se sentía muy segura!\n¡Así quedará la ciudad\nque se creía incomparable!\n¡Quedará hecha un montón de ruinas,\nun refugio de animales salvajes!\nLos que la vean destruida\nse alegrarán y se burlarán de ella.",
+      "chapter_html": "<div class=\"version vid176 iso6393spa\" data-vid=\"176\" data-iso6393=\"spa\">\n    <div class=\"book bkZEP\">\n        <div class=\"chapter ch2\" data-usfm=\"ZEP.2\">\n            <div class=\"label\">2</div><div class=\"s1\"><span class=\"heading\">Obedezcan a Dios</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"ZEP.2.1\"><span class=\"label\">1</span><span class=\"content\">Entonces yo, Sofon&#237;as, dije:</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"ZEP.2.1\"><span class=\"content\">Pueblo de Jud&#225;,</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"ZEP.2.1\"><span class=\"content\">&#161;ustedes no tienen verg&#252;enza!</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"ZEP.2.1\"><span class=\"content\">Pero vengan y pres&#233;ntense ante Dios</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"ZEP.2.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"ZEP.2.2\"><span class=\"label\">2</span><span class=\"content\">antes de que llegue el d&#237;a</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"ZEP.2.2\"><span class=\"content\">en que &#233;l los arrastre como paja;</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"ZEP.2.2\"><span class=\"content\">antes de que los alcance</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"ZEP.2.2\"><span class=\"content\">y caiga sobre ustedes</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"ZEP.2.2\"><span class=\"content\">toda la furia de nuestro Dios.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"ZEP.2.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"ZEP.2.3\"><span class=\"label\">3</span><span class=\"content\">Y ustedes, los humildes,</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"ZEP.2.3\"><span class=\"content\">que obedecen a nuestro Dios,</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"ZEP.2.3\"><span class=\"content\">b&#250;squenlo y procuren ser justos;</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"ZEP.2.3\"><span class=\"content\">tal vez as&#237; podr&#225;n salvarse</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"ZEP.2.3\"><span class=\"content\">el d&#237;a en que Dios nos castigue.</span></span></div><div class=\"s1\"><span class=\"heading\">Mensaje contra los filisteos</span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"ZEP.2.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"ZEP.2.4\"><span class=\"label\">4</span><span class=\"content\">Las ciudades de Gaza y Ascal&#243;n</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"ZEP.2.4\"><span class=\"content\">quedar&#225;n en ruinas y sin habitantes;</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"ZEP.2.4\"><span class=\"content\">los que viven en Asdod y Ecr&#243;n</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"ZEP.2.4\"><span class=\"content\">ser&#225;n arrojados de sus ciudades</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"ZEP.2.4\"><span class=\"content\">a plena luz del d&#237;a.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"ZEP.2.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"ZEP.2.5\"><span class=\"label\">5</span><span class=\"content\">&#161;Qu&#233; mal les va a ir a ustedes,</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"ZEP.2.5\"><span class=\"content\">filisteos, habitantes de Creta</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"ZEP.2.5\"><span class=\"content\">que viven a la orilla del mar!</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"ZEP.2.5\"><span class=\"content\">&#161;Dios ha decidido destruirlos</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"ZEP.2.5\"><span class=\"content\">y dejar su pa&#237;s sin habitantes,</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"ZEP.2.5\"><span class=\"content\">como antes lo hizo con Cana&#225;n!</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"ZEP.2.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"ZEP.2.6\"><span class=\"label\">6</span><span class=\"content\">&#161;Todas sus costas se convertir&#225;n</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"ZEP.2.6\"><span class=\"content\">en campos para alimentar ovejas!</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"ZEP.2.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"ZEP.2.7\"><span class=\"label\">7</span><span class=\"content\">Cuando nuestro Dios permita</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"ZEP.2.7\"><span class=\"content\">que vuelvan los sobrevivientes de Jud&#225;,</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"ZEP.2.7\"><span class=\"content\">del pa&#237;s adonde los llevaron presos,</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"ZEP.2.7\"><span class=\"content\">&#233;l mismo los llevar&#225; a la costa,</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"ZEP.2.7\"><span class=\"content\">para que alimenten a sus reba&#241;os.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"ZEP.2.7\"><span class=\"content\">Ellos pasar&#225;n la noche</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"ZEP.2.7\"><span class=\"content\">en las casas abandonadas</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"ZEP.2.7\"><span class=\"content\">de la ciudad de Ascal&#243;n.</span></span></div><div class=\"s1\"><span class=\"heading\">Mensaje contra Moab y Am&#243;n</span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"ZEP.2.7\"><span class=\"content\">  </span></span><span class=\"verse v8 v9 v10 v11\" data-usfm=\"ZEP.2.8+ZEP.2.9+ZEP.2.10+ZEP.2.11\"><span class=\"label\">8-11</span><span class=\"content\">As&#237; dice el Dios de Israel:</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v8 v9 v10 v11\" data-usfm=\"ZEP.2.8+ZEP.2.9+ZEP.2.10+ZEP.2.11\"><span class=\"content\">&#171;Los de Moab y los de Am&#243;n</span></span></div><div class=\"q1\"><span class=\"verse v8 v9 v10 v11\" data-usfm=\"ZEP.2.8+ZEP.2.9+ZEP.2.10+ZEP.2.11\"><span class=\"content\">han insultado a mi pueblo</span></span></div><div class=\"q1\"><span class=\"verse v8 v9 v10 v11\" data-usfm=\"ZEP.2.8+ZEP.2.9+ZEP.2.10+ZEP.2.11\"><span class=\"content\">y se han adue&#241;ado de su territorio,</span></span></div><div class=\"q1\"><span class=\"verse v8 v9 v10 v11\" data-usfm=\"ZEP.2.8+ZEP.2.9+ZEP.2.10+ZEP.2.11\"><span class=\"content\">pero yo har&#233; que esos dos pueblos</span></span></div><div class=\"q1\"><span class=\"verse v8 v9 v10 v11\" data-usfm=\"ZEP.2.8+ZEP.2.9+ZEP.2.10+ZEP.2.11\"><span class=\"content\">se queden completamente desiertos;</span></span></div><div class=\"q1\"><span class=\"verse v8 v9 v10 v11\" data-usfm=\"ZEP.2.8+ZEP.2.9+ZEP.2.10+ZEP.2.11\"><span class=\"content\">se volver&#225;n campos de espinos,</span></span></div><div class=\"q1\"><span class=\"verse v8 v9 v10 v11\" data-usfm=\"ZEP.2.8+ZEP.2.9+ZEP.2.10+ZEP.2.11\"><span class=\"content\">se volver&#225;n pozos de sal,</span></span></div><div class=\"q1\"><span class=\"verse v8 v9 v10 v11\" data-usfm=\"ZEP.2.8+ZEP.2.9+ZEP.2.10+ZEP.2.11\"><span class=\"content\">como Sodoma y Gomorra.</span></span></div><div class=\"q1\"><span class=\"verse v8 v9 v10 v11\" data-usfm=\"ZEP.2.8+ZEP.2.9+ZEP.2.10+ZEP.2.11\"><span class=\"content\">Los pocos sobrevivientes de Jud&#225;</span></span></div><div class=\"q1\"><span class=\"verse v8 v9 v10 v11\" data-usfm=\"ZEP.2.8+ZEP.2.9+ZEP.2.10+ZEP.2.11\"><span class=\"content\">les quitar&#225;n todas sus riquezas</span></span></div><div class=\"q1\"><span class=\"verse v8 v9 v10 v11\" data-usfm=\"ZEP.2.8+ZEP.2.9+ZEP.2.10+ZEP.2.11\"><span class=\"content\">y se adue&#241;ar&#225;n de su territorio.</span></span></div><div class=\"q1\"><span class=\"verse v8 v9 v10 v11\" data-usfm=\"ZEP.2.8+ZEP.2.9+ZEP.2.10+ZEP.2.11\"><span class=\"content\">&#161;Yo les dar&#233; su merecido</span></span></div><div class=\"q1\"><span class=\"verse v8 v9 v10 v11\" data-usfm=\"ZEP.2.8+ZEP.2.9+ZEP.2.10+ZEP.2.11\"><span class=\"content\">por haberse burlado de mi pueblo</span></span></div><div class=\"q1\"><span class=\"verse v8 v9 v10 v11\" data-usfm=\"ZEP.2.8+ZEP.2.9+ZEP.2.10+ZEP.2.11\"><span class=\"content\">y por haber invadido su tierra!</span></span></div><div class=\"q1\"><span class=\"verse v8 v9 v10 v11\" data-usfm=\"ZEP.2.8+ZEP.2.9+ZEP.2.10+ZEP.2.11\"><span class=\"content\">Cuando yo destruya por completo</span></span></div><div class=\"q1\"><span class=\"verse v8 v9 v10 v11\" data-usfm=\"ZEP.2.8+ZEP.2.9+ZEP.2.10+ZEP.2.11\"><span class=\"content\">a los dioses de este mundo,</span></span></div><div class=\"q1\"><span class=\"verse v8 v9 v10 v11\" data-usfm=\"ZEP.2.8+ZEP.2.9+ZEP.2.10+ZEP.2.11\"><span class=\"content\">todos temblar&#225;n de miedo ante m&#237;,</span></span></div><div class=\"q1\"><span class=\"verse v8 v9 v10 v11\" data-usfm=\"ZEP.2.8+ZEP.2.9+ZEP.2.10+ZEP.2.11\"><span class=\"content\">y aun las naciones m&#225;s lejanas</span></span></div><div class=\"q1\"><span class=\"verse v8 v9 v10 v11\" data-usfm=\"ZEP.2.8+ZEP.2.9+ZEP.2.10+ZEP.2.11\"><span class=\"content\">me reconocer&#225;n como su Dios.</span></span></div><div class=\"q1\"><span class=\"verse v8 v9 v10 v11\" data-usfm=\"ZEP.2.8+ZEP.2.9+ZEP.2.10+ZEP.2.11\"><span class=\"content\">Yo soy el Dios de Israel,</span></span></div><div class=\"q1\"><span class=\"verse v8 v9 v10 v11\" data-usfm=\"ZEP.2.8+ZEP.2.9+ZEP.2.10+ZEP.2.11\"><span class=\"content\">y les juro que as&#237; lo har&#233;.</span></span></div><div class=\"s1\"><span class=\"heading\">Mensaje contra los et&#237;opes</span></div><div class=\"q1\"><span class=\"verse v8 v9 v10 v11\" data-usfm=\"ZEP.2.8+ZEP.2.9+ZEP.2.10+ZEP.2.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"ZEP.2.12\"><span class=\"label\">12</span><span class=\"content\">&#187;&#161;A ustedes, pueblo de Etiop&#237;a,</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"ZEP.2.12\"><span class=\"content\">yo los matar&#233; con mi espada!&#187;</span></span></div><div class=\"s1\"><span class=\"heading\">Mensaje contra los asirios</span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"ZEP.2.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"ZEP.2.13\"><span class=\"label\">13</span><span class=\"content\">Dios continu&#243; diciendo:</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"ZEP.2.13\"><span class=\"content\">&#171;Atacar&#233; y destruir&#233; a los asirios;</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"ZEP.2.13\"><span class=\"content\">&#161;convertir&#233; a N&#237;nive,</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"ZEP.2.13\"><span class=\"content\">su ciudad capital,</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"ZEP.2.13\"><span class=\"content\">en un mont&#243;n de ruinas!</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"ZEP.2.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"ZEP.2.14\"><span class=\"label\">14</span><span class=\"content\">La madera de sus casas</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"ZEP.2.14\"><span class=\"content\">quedar&#225; al descubierto,</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"ZEP.2.14\"><span class=\"content\">y all&#237; descansar&#225;n ovejas</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"ZEP.2.14\"><span class=\"content\">y toda clase de animales.</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"ZEP.2.14\"><span class=\"content\">En las vigas y en las ventanas</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"ZEP.2.14\"><span class=\"content\">anidar&#225;n b&#250;hos y erizos,</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"ZEP.2.14\"><span class=\"content\">y sus puertas parecer&#225;n basureros.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"ZEP.2.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"ZEP.2.15\"><span class=\"label\">15</span><span class=\"content\">&#187;&#161;As&#237; quedar&#225; esa ciudad orgullosa,</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"ZEP.2.15\"><span class=\"content\">que se sent&#237;a muy segura!</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"ZEP.2.15\"><span class=\"content\">&#161;As&#237; quedar&#225; la ciudad</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"ZEP.2.15\"><span class=\"content\">que se cre&#237;a incomparable!</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"ZEP.2.15\"><span class=\"content\">&#161;Quedar&#225; hecha un mont&#243;n de ruinas,</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"ZEP.2.15\"><span class=\"content\">un refugio de animales salvajes!</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"ZEP.2.15\"><span class=\"content\">Los que la vean destruida</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"ZEP.2.15\"><span class=\"content\">se alegrar&#225;n y se burlar&#225;n de ella.</span></span></div>\n        </div>\n    </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Obedezcan a Dios"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Entonces yo, Sofonías, dije:",
+            "Pueblo de Judá,",
+            "¡ustedes no tienen vergüenza!",
+            "Pero vengan y preséntense ante Dios"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "antes de que llegue el día",
+            "en que él los arrastre como paja;",
+            "antes de que los alcance",
+            "y caiga sobre ustedes",
+            "toda la furia de nuestro Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Y ustedes, los humildes,",
+            "que obedecen a nuestro Dios,",
+            "búsquenlo y procuren ser justos;",
+            "tal vez así podrán salvarse",
+            "el día en que Dios nos castigue."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Mensaje contra los filisteos"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Las ciudades de Gaza y Ascalón",
+            "quedarán en ruinas y sin habitantes;",
+            "los que viven en Asdod y Ecrón",
+            "serán arrojados de sus ciudades",
+            "a plena luz del día."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "¡Qué mal les va a ir a ustedes,",
+            "filisteos, habitantes de Creta",
+            "que viven a la orilla del mar!",
+            "¡Dios ha decidido destruirlos",
+            "y dejar su país sin habitantes,",
+            "como antes lo hizo con Canaán!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "¡Todas sus costas se convertirán",
+            "en campos para alimentar ovejas!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Cuando nuestro Dios permita",
+            "que vuelvan los sobrevivientes de Judá,",
+            "del país adonde los llevaron presos,",
+            "él mismo los llevará a la costa,",
+            "para que alimenten a sus rebaños.",
+            "Ellos pasarán la noche",
+            "en las casas abandonadas",
+            "de la ciudad de Ascalón."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Mensaje contra Moab y Amón"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Mensaje contra los etíopes"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "»¡A ustedes, pueblo de Etiopía,",
+            "yo los mataré con mi espada!»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Mensaje contra los asirios"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Dios continuó diciendo:",
+            "«Atacaré y destruiré a los asirios;",
+            "¡convertiré a Nínive,",
+            "su ciudad capital,",
+            "en un montón de ruinas!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "La madera de sus casas",
+            "quedará al descubierto,",
+            "y allí descansarán ovejas",
+            "y toda clase de animales.",
+            "En las vigas y en las ventanas",
+            "anidarán búhos y erizos,",
+            "y sus puertas parecerán basureros."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "»¡Así quedará esa ciudad orgullosa,",
+            "que se sentía muy segura!",
+            "¡Así quedará la ciudad",
+            "que se creía incomparable!",
+            "¡Quedará hecha un montón de ruinas,",
+            "un refugio de animales salvajes!",
+            "Los que la vean destruida",
+            "se alegrarán y se burlarán de ella."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "ZEP.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "ZEP.3"
+        ],
+        "human": "Sofonías 3"
+      },
+      "next": {
+        "canonical": false,
+        "usfm": [
+          "HAG.INTRO1"
+        ],
+        "human": "Hageo Introducción",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "ZEP.2"
+        ],
+        "human": "Sofonías 2",
+        "toc": true
+      },
+      "chapter_text": "»¡Qué mal te va a ir, Jerusalén!\nEres una ciudad desobediente,\ny maltratas a los demás.\n¡Estás llena de pecado!\nNo aceptas consejos de nadie,\nni permites que se te corrija;\nno me buscas ni confías en mí.\n\n»Tus jefes más importantes\nparecen leones feroces;\ntus gobernantes parecen lobos,\nque atacan por la noche\ny no dejan nada para la mañana.\nTus profetas son orgullosos,\ny no se puede confiar en ellos;\ntus sacerdotes ofenden mi santuario\ny no obedecen mis mandamientos.\n¡Esos malvados no tienen vergüenza!\n\n»Yo estoy en ti, Jerusalén,\npara hacerte bien,\nno para hacerte daño.\nTodos los días te trato con justicia.\n\n»Yo he destruido naciones,\ny he derribado sus torres;\nya no hay nadie que camine\npor sus calles solitarias;\nsus ciudades están desiertas,\npues no queda un solo habitante.\n\n»Todo esto lo hice por ti, Jerusalén.\nPensé que así me obedecerías\ny no tendría que castigarte.\nPero tus habitantes se dieron prisa\npara cometer toda clase de maldad.\n\n»Y ahora, como han actuado así,\nya se acerca el día\nen que vendré a castigarlos.\nYo soy el Dios de Israel,\ny les juro que así lo haré.\nYa he decidido reunir a las naciones\npara castigarlas con toda mi furia.\nCuando me enojo, soy como el fuego;\n¡voy a quemar toda la tierra!\n\n»Cuando llegue ese día,\nharé que todos los pueblos hablen\nun lenguaje limpio de toda maldad,\npara que juntos me adoren\ny puedan pronunciar mi nombre.\nEntonces la gente que me adora,\ny que ahora anda en otros países,\nvendrá a presentarme ofrendas\ndesde el país de Etiopía.\n\n»Tú, Jerusalén,\nhas sido muy rebelde;\npero no volverás a quedar en vergüenza.\nViene el día en que expulsaré de ti\na los que se creen muy importantes.\nEn ti no habrá lugar para los orgullosos.\nEn tus calles solo habrá\ngente humilde y sencilla,\nque pondrá en mí su confianza.\nLos pocos israelitas\nque hayan quedado con vida\nno cometerán ninguna maldad;\nno mentirán ni engañarán a nadie,\nsino que vivirán en paz\ny sin ningún temor».\n\nYo, Sofonías, les digo:\n\n¡Canten de alegría, israelitas!\n¡Alégrense, habitantes de Jerusalén!\nNo tienen nada que temer,\nporque Dios, el rey de Israel,\nno volverá a castigarlos;\nha expulsado a sus enemigos,\ny va a vivir en medio de ustedes.\nEn ese día se dirá:\n\n«No tengas miedo, Jerusalén,\nni pierdas el ánimo,\npues tu Dios está contigo\ny con su poder te salvará.\nAunque no necesita de palabras\npara demostrarte que te ama,\ncon cantos de alegría te expresará\nla felicidad que le haces sentir,\ncomo en un día de fiesta».\n\nDios promete poner fin\na la desgracia que ahora sufren\ny a la vergüenza que ahora sienten.\nEste es su mensaje:\n\n«Cuando llegue ese día,\nayudaré a los indefensos\ny castigaré a quienes los maltratan.\nYo haré que cambie la suerte\nde los que ahora andan dispersos,\ny los haré volver a su tierra.\n¡Esto lo verán ustedes mismos!\n\n»Si antes los ofendían,\nahora solo hablarán bien de ustedes,\ny la fama de ustedes llegará\na todos los países de la tierra.\nYo, el Dios de Israel,\njuro que así será».",
+      "chapter_html": "<div class=\"version vid176 iso6393spa\" data-vid=\"176\" data-iso6393=\"spa\">\n   <div class=\"book bkZEP\">\n      <div class=\"chapter ch3\" data-usfm=\"ZEP.3\">\n         <div class=\"label\">3</div><div class=\"s1\"><span class=\"heading\">Los pecados de Jerusal&#233;n</span></div><div class=\"q1\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"ZEP.3.1\"><span class=\"label\">1</span><span class=\"content\">&#187;&#161;Qu&#233; mal te va a ir, Jerusal&#233;n!</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"ZEP.3.1\"><span class=\"content\">Eres una ciudad desobediente,</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"ZEP.3.1\"><span class=\"content\">y maltratas a los dem&#225;s.</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"ZEP.3.1\"><span class=\"content\">&#161;Est&#225;s llena de </span><span class=\"w\"><span class=\"content\">pecado</span></span><span class=\"content\">!</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"ZEP.3.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"ZEP.3.2\"><span class=\"label\">2</span><span class=\"content\">No aceptas consejos de nadie,</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"ZEP.3.2\"><span class=\"content\">ni permites que se te corrija;</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"ZEP.3.2\"><span class=\"content\">no me buscas ni conf&#237;as en m&#237;.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"ZEP.3.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"ZEP.3.3\"><span class=\"label\">3</span><span class=\"content\">&#187;Tus jefes m&#225;s importantes</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"ZEP.3.3\"><span class=\"content\">parecen leones feroces;</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"ZEP.3.3\"><span class=\"content\">tus gobernantes parecen lobos,</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"ZEP.3.3\"><span class=\"content\">que atacan por la noche</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"ZEP.3.3\"><span class=\"content\">y no dejan nada para la ma&#241;ana.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"ZEP.3.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"ZEP.3.4\"><span class=\"label\">4</span><span class=\"content\">Tus </span><span class=\"w\"><span class=\"content\">profetas</span></span><span class=\"content\"> son orgullosos,</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"ZEP.3.4\"><span class=\"content\">y no se puede confiar en ellos;</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"ZEP.3.4\"><span class=\"content\">tus </span><span class=\"w\"><span class=\"content\">sacerdotes</span></span><span class=\"content\"> ofenden mi santuario</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"ZEP.3.4\"><span class=\"content\">y no obedecen mis </span><span class=\"w\"><span class=\"content\">mandamientos</span></span><span class=\"content\">.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"ZEP.3.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"ZEP.3.5\"><span class=\"label\">5</span><span class=\"content\">&#161;Esos malvados no tienen verg&#252;enza!</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"ZEP.3.5\"><span class=\"content\">&#187;Yo estoy en ti, Jerusal&#233;n,</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"ZEP.3.5\"><span class=\"content\">para hacerte bien,</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"ZEP.3.5\"><span class=\"content\">no para hacerte da&#241;o.</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"ZEP.3.5\"><span class=\"content\">Todos los d&#237;as te trato con justicia.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"ZEP.3.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"ZEP.3.6\"><span class=\"label\">6</span><span class=\"content\">&#187;Yo he destruido naciones,</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"ZEP.3.6\"><span class=\"content\">y he derribado sus torres;</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"ZEP.3.6\"><span class=\"content\">ya no hay nadie que camine</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"ZEP.3.6\"><span class=\"content\">por sus calles solitarias;</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"ZEP.3.6\"><span class=\"content\">sus ciudades est&#225;n desiertas,</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"ZEP.3.6\"><span class=\"content\">pues no queda un solo habitante.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"ZEP.3.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"ZEP.3.7\"><span class=\"label\">7</span><span class=\"content\">&#187;Todo esto lo hice por ti, Jerusal&#233;n.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"ZEP.3.7\"><span class=\"content\">Pens&#233; que as&#237; me obedecer&#237;as</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"ZEP.3.7\"><span class=\"content\">y no tendr&#237;a que castigarte.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"ZEP.3.7\"><span class=\"content\">Pero tus habitantes se dieron prisa</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"ZEP.3.7\"><span class=\"content\">para cometer toda clase de maldad.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"ZEP.3.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"ZEP.3.8\"><span class=\"label\">8</span><span class=\"content\">&#187;Y ahora, como han actuado as&#237;,</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"ZEP.3.8\"><span class=\"content\">ya se acerca el d&#237;a</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"ZEP.3.8\"><span class=\"content\">en que vendr&#233; a castigarlos.</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"ZEP.3.8\"><span class=\"content\">Yo soy el Dios de Israel,</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"ZEP.3.8\"><span class=\"content\">y les juro que as&#237; lo har&#233;.</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"ZEP.3.8\"><span class=\"content\">Ya he decidido reunir a las naciones</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"ZEP.3.8\"><span class=\"content\">para castigarlas con toda mi furia.</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"ZEP.3.8\"><span class=\"content\">Cuando me enojo, soy como el fuego;</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"ZEP.3.8\"><span class=\"content\">&#161;voy a quemar toda la tierra!</span></span></div><div class=\"s1\"><span class=\"heading\">Dios salvar&#225; a las naciones</span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"ZEP.3.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"ZEP.3.9\"><span class=\"label\">9</span><span class=\"content\">&#187;Cuando llegue ese d&#237;a,</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"ZEP.3.9\"><span class=\"content\">har&#233; que todos los pueblos hablen</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"ZEP.3.9\"><span class=\"content\">un lenguaje limpio de toda maldad,</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"ZEP.3.9\"><span class=\"content\">para que juntos me </span><span class=\"w\"><span class=\"content\">adoren</span></span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"ZEP.3.9\"><span class=\"content\">y puedan pronunciar mi nombre.</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"ZEP.3.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"ZEP.3.10\"><span class=\"label\">10</span><span class=\"content\">Entonces la gente que me adora,</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"ZEP.3.10\"><span class=\"content\">y que ahora anda en otros pa&#237;ses,</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"ZEP.3.10\"><span class=\"content\">vendr&#225; a presentarme </span><span class=\"w\"><span class=\"content\">ofrendas</span></span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"ZEP.3.10\"><span class=\"content\">desde el pa&#237;s de Etiop&#237;a.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"ZEP.3.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"ZEP.3.11\"><span class=\"label\">11</span><span class=\"content\">&#187;T&#250;, Jerusal&#233;n,</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"ZEP.3.11\"><span class=\"content\">has sido muy rebelde;</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"ZEP.3.11\"><span class=\"content\">pero no volver&#225;s a quedar en verg&#252;enza.</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"ZEP.3.11\"><span class=\"content\">Viene el d&#237;a en que expulsar&#233; de ti</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"ZEP.3.11\"><span class=\"content\">a los que se creen muy importantes.</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"ZEP.3.11\"><span class=\"content\">En ti no habr&#225; lugar para los orgullosos.</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"ZEP.3.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"ZEP.3.12\"><span class=\"label\">12</span><span class=\"content\">En tus calles solo habr&#225;</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"ZEP.3.12\"><span class=\"content\">gente humilde y sencilla,</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"ZEP.3.12\"><span class=\"content\">que pondr&#225; en m&#237; su confianza.</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"ZEP.3.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"ZEP.3.13\"><span class=\"label\">13</span><span class=\"content\">Los pocos israelitas</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"ZEP.3.13\"><span class=\"content\">que hayan quedado con vida</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"ZEP.3.13\"><span class=\"content\">no cometer&#225;n ninguna maldad;</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"ZEP.3.13\"><span class=\"content\">no mentir&#225;n ni enga&#241;ar&#225;n a nadie,</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"ZEP.3.13\"><span class=\"content\">sino que vivir&#225;n en paz</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"ZEP.3.13\"><span class=\"content\">y sin ning&#250;n temor&#187;.</span></span></div><div class=\"s1\"><span class=\"heading\">Dios har&#225; volver a su pueblo</span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"ZEP.3.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"ZEP.3.14\"><span class=\"label\">14</span><span class=\"content\">Yo, Sofon&#237;as, les digo:</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"ZEP.3.14\"><span class=\"content\">&#161;Canten de alegr&#237;a, israelitas!</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"ZEP.3.14\"><span class=\"content\">&#161;Al&#233;grense, habitantes de Jerusal&#233;n!</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"ZEP.3.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"ZEP.3.15\"><span class=\"label\">15</span><span class=\"content\">No tienen nada que temer,</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"ZEP.3.15\"><span class=\"content\">porque Dios, el rey de Israel,</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"ZEP.3.15\"><span class=\"content\">no volver&#225; a castigarlos;</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"ZEP.3.15\"><span class=\"content\">ha expulsado a sus enemigos,</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"ZEP.3.15\"><span class=\"content\">y va a vivir en medio de ustedes.</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"ZEP.3.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"ZEP.3.16\"><span class=\"label\">16</span><span class=\"content\">En ese d&#237;a se dir&#225;:</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"ZEP.3.16\"><span class=\"content\">&#171;No tengas miedo, Jerusal&#233;n,</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"ZEP.3.16\"><span class=\"content\">ni pierdas el &#225;nimo,</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"ZEP.3.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"ZEP.3.17\"><span class=\"label\">17</span><span class=\"content\">pues tu Dios est&#225; contigo</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"ZEP.3.17\"><span class=\"content\">y con su poder te salvar&#225;.</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"ZEP.3.17\"><span class=\"content\">Aunque no necesita de palabras</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"ZEP.3.17\"><span class=\"content\">para demostrarte que te ama,</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"ZEP.3.17\"><span class=\"content\">con cantos de alegr&#237;a te expresar&#225;</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"ZEP.3.17\"><span class=\"content\">la felicidad que le haces sentir,</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"ZEP.3.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"ZEP.3.18\"><span class=\"label\">18</span><span class=\"content\">como en un d&#237;a de fiesta&#187;.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v18\" data-usfm=\"ZEP.3.18\"><span class=\"content\">Dios promete poner fin</span></span></div><div class=\"q1\"><span class=\"verse v18\" data-usfm=\"ZEP.3.18\"><span class=\"content\">a la desgracia que ahora sufren</span></span></div><div class=\"q1\"><span class=\"verse v18\" data-usfm=\"ZEP.3.18\"><span class=\"content\">y a la verg&#252;enza que ahora sienten.</span></span></div><div class=\"q1\"><span class=\"verse v18\" data-usfm=\"ZEP.3.18\"><span class=\"content\">  </span></span><span class=\"verse v19 v20\" data-usfm=\"ZEP.3.19+ZEP.3.20\"><span class=\"label\">19-20</span><span class=\"content\">Este es su mensaje:</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v19 v20\" data-usfm=\"ZEP.3.19+ZEP.3.20\"><span class=\"content\">&#171;Cuando llegue ese d&#237;a,</span></span></div><div class=\"q1\"><span class=\"verse v19 v20\" data-usfm=\"ZEP.3.19+ZEP.3.20\"><span class=\"content\">ayudar&#233; a los indefensos</span></span></div><div class=\"q1\"><span class=\"verse v19 v20\" data-usfm=\"ZEP.3.19+ZEP.3.20\"><span class=\"content\">y castigar&#233; a quienes los maltratan.</span></span></div><div class=\"q1\"><span class=\"verse v19 v20\" data-usfm=\"ZEP.3.19+ZEP.3.20\"><span class=\"content\">Yo har&#233; que cambie la suerte</span></span></div><div class=\"q1\"><span class=\"verse v19 v20\" data-usfm=\"ZEP.3.19+ZEP.3.20\"><span class=\"content\">de los que ahora andan dispersos,</span></span></div><div class=\"q1\"><span class=\"verse v19 v20\" data-usfm=\"ZEP.3.19+ZEP.3.20\"><span class=\"content\">y los har&#233; volver a su tierra.</span></span></div><div class=\"q1\"><span class=\"verse v19 v20\" data-usfm=\"ZEP.3.19+ZEP.3.20\"><span class=\"content\">&#161;Esto lo ver&#225;n ustedes mismos!</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v19 v20\" data-usfm=\"ZEP.3.19+ZEP.3.20\"><span class=\"content\">&#187;Si antes los ofend&#237;an,</span></span></div><div class=\"q1\"><span class=\"verse v19 v20\" data-usfm=\"ZEP.3.19+ZEP.3.20\"><span class=\"content\">ahora solo hablar&#225;n bien de ustedes,</span></span></div><div class=\"q1\"><span class=\"verse v19 v20\" data-usfm=\"ZEP.3.19+ZEP.3.20\"><span class=\"content\">y la fama de ustedes llegar&#225;</span></span></div><div class=\"q1\"><span class=\"verse v19 v20\" data-usfm=\"ZEP.3.19+ZEP.3.20\"><span class=\"content\">a todos los pa&#237;ses de la tierra.</span></span></div><div class=\"q1\"><span class=\"verse v19 v20\" data-usfm=\"ZEP.3.19+ZEP.3.20\"><span class=\"content\">Yo, el Dios de Israel,</span></span></div><div class=\"q1\"><span class=\"verse v19 v20\" data-usfm=\"ZEP.3.19+ZEP.3.20\"><span class=\"content\">juro que as&#237; ser&#225;&#187;.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Los pecados de Jerusalén"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "»¡Qué mal te va a ir, Jerusalén!",
+            "Eres una ciudad desobediente,",
+            "y maltratas a los demás.",
+            "¡Estás llena de pecado!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "No aceptas consejos de nadie,",
+            "ni permites que se te corrija;",
+            "no me buscas ni confías en mí."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "»Tus jefes más importantes",
+            "parecen leones feroces;",
+            "tus gobernantes parecen lobos,",
+            "que atacan por la noche",
+            "y no dejan nada para la mañana."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Tus profetas son orgullosos,",
+            "y no se puede confiar en ellos;",
+            "tus sacerdotes ofenden mi santuario",
+            "y no obedecen mis mandamientos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "¡Esos malvados no tienen vergüenza!",
+            "»Yo estoy en ti, Jerusalén,",
+            "para hacerte bien,",
+            "no para hacerte daño.",
+            "Todos los días te trato con justicia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "»Yo he destruido naciones,",
+            "y he derribado sus torres;",
+            "ya no hay nadie que camine",
+            "por sus calles solitarias;",
+            "sus ciudades están desiertas,",
+            "pues no queda un solo habitante."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "»Todo esto lo hice por ti, Jerusalén.",
+            "Pensé que así me obedecerías",
+            "y no tendría que castigarte.",
+            "Pero tus habitantes se dieron prisa",
+            "para cometer toda clase de maldad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "»Y ahora, como han actuado así,",
+            "ya se acerca el día",
+            "en que vendré a castigarlos.",
+            "Yo soy el Dios de Israel,",
+            "y les juro que así lo haré.",
+            "Ya he decidido reunir a las naciones",
+            "para castigarlas con toda mi furia.",
+            "Cuando me enojo, soy como el fuego;",
+            "¡voy a quemar toda la tierra!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Dios salvará a las naciones"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "»Cuando llegue ese día,",
+            "haré que todos los pueblos hablen",
+            "un lenguaje limpio de toda maldad,",
+            "para que juntos me adoren",
+            "y puedan pronunciar mi nombre."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Entonces la gente que me adora,",
+            "y que ahora anda en otros países,",
+            "vendrá a presentarme ofrendas",
+            "desde el país de Etiopía."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "»Tú, Jerusalén,",
+            "has sido muy rebelde;",
+            "pero no volverás a quedar en vergüenza.",
+            "Viene el día en que expulsaré de ti",
+            "a los que se creen muy importantes.",
+            "En ti no habrá lugar para los orgullosos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "En tus calles solo habrá",
+            "gente humilde y sencilla,",
+            "que pondrá en mí su confianza."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Los pocos israelitas",
+            "que hayan quedado con vida",
+            "no cometerán ninguna maldad;",
+            "no mentirán ni engañarán a nadie,",
+            "sino que vivirán en paz",
+            "y sin ningún temor»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Dios hará volver a su pueblo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Yo, Sofonías, les digo:",
+            "¡Canten de alegría, israelitas!",
+            "¡Alégrense, habitantes de Jerusalén!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "No tienen nada que temer,",
+            "porque Dios, el rey de Israel,",
+            "no volverá a castigarlos;",
+            "ha expulsado a sus enemigos,",
+            "y va a vivir en medio de ustedes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "En ese día se dirá:",
+            "«No tengas miedo, Jerusalén,",
+            "ni pierdas el ánimo,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "pues tu Dios está contigo",
+            "y con su poder te salvará.",
+            "Aunque no necesita de palabras",
+            "para demostrarte que te ama,",
+            "con cantos de alegría te expresará",
+            "la felicidad que le haces sentir,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "como en un día de fiesta».",
+            "Dios promete poner fin",
+            "a la desgracia que ahora sufren",
+            "y a la vergüenza que ahora sienten.",
+            "Este es su mensaje:",
+            "«Cuando llegue ese día,",
+            "ayudaré a los indefensos",
+            "y castigaré a quienes los maltratan.",
+            "Yo haré que cambie la suerte",
+            "de los que ahora andan dispersos,",
+            "y los haré volver a su tierra.",
+            "¡Esto lo verán ustedes mismos!",
+            "»Si antes los ofendían,",
+            "ahora solo hablarán bien de ustedes,",
+            "y la fama de ustedes llegará",
+            "a todos los países de la tierra.",
+            "Yo, el Dios de Israel,",
+            "juro que así será»."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

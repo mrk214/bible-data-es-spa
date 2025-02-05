@@ -1,0 +1,206 @@
+{
+  "book_usfm": "3JN",
+  "name": "3 Juan",
+  "local_title": "Dios habla Hoy Estándar",
+  "local_abbreviation": "DHHS94",
+  "version_id": 1846,
+  "publisher": {
+    "name": "United Bible Societies"
+  },
+  "copyright": {
+    "html": "<p>Bible text: LA BIBLIA DIOS HABLA HOY, Tercera edición © Sociedades Bíblicas Unidas 1966, 1970, 1979, 1983, 1994, 1996</p> <p>Todos los derechos reservados. www.unitedbiblesocieties.org/</p>",
+    "text": "Bible text: LA BIBLIA DIOS HABLA HOY, Tercera edición © Sociedades Bíblicas Unidas 1966, 1970, 1979, 1983, 1994, 1996 Todos los derechos reservados. www.unitedbiblesocieties.org/"
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "3JN.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "3JN.1"
+        ],
+        "human": "3 Juan 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "JUD.1"
+        ],
+        "human": "Judas 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "2JN.1"
+        ],
+        "human": "2 Juan 1",
+        "toc": true
+      },
+      "chapter_text": "El anciano saluda al querido Gayo, a quien ama en verdad.\n\nQuerido hermano, pido a Dios que, así como te va bien espiritualmente, te vaya bien en todo y tengas buena salud. Me alegré mucho cuando algunos hermanos vinieron y me contaron que te mantienes fiel a la verdad. No hay para mí mayor alegría que saber que mis hijos viven de acuerdo con la verdad.\nQuerido hermano, te estás portando fielmente en el servicio que prestas a los demás hermanos, especialmente a los que llegan de otros lugares. Delante de la comunidad han hablado ellos de cuánto los amas. Por favor, ayúdalos en lo que necesiten para seguir su viaje, de manera agradable a Dios. Pues ellos han emprendido su viaje en el servicio de Jesucristo, y no han aceptado ninguna ayuda de gente pagana. Por eso nosotros debemos hacernos cargo de ellos, para ayudarlos en la predicación de la verdad.\n\nYo escribí una carta a la comunidad, pero Diótrefes no acepta nuestra autoridad porque le gusta mandar. Por eso, cuando yo vaya le llamaré la atención, pues anda contando chismes y mentiras contra nosotros. Y, no contento con esto, no recibe a los hermanos que llegan, y a quienes quieren recibirlos les prohíbe hacerlo y los expulsa de la comunidad.\nQuerido hermano, no sigas los malos ejemplos, sino los buenos. El que hace lo bueno es de Dios, pero el que hace lo malo no ha visto a Dios.\nTodos, incluso la verdad misma, hablan bien de Demetrio. También nosotros hablamos en favor suyo, y tú sabes que decimos la verdad.\n\nYo tenía mucho que decirte, pero no quiero hacerlo por escrito, porque espero verte pronto y hablar contigo personalmente.\nQue tengas paz. Los amigos te mandan saludos. Por favor, saluda a cada uno de nuestros amigos.",
+      "chapter_html": "<div class=\"version vid1846 iso6393spa\" data-vid=\"1846\" data-iso6393=\"spa\">\n   <div class=\"book bk3JN\">\n      <div class=\"chapter ch1\" data-usfm=\"3JN.1\">\n         <div class=\"label\">1</div><div class=\"s1\"><span class=\"heading\">Saludo</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"3JN.1.1\"><span class=\"label\">1</span><span class=\"content\">El anciano saluda al querido Gayo, a quien ama en verdad.</span></span></div><div class=\"s1\"><span class=\"heading\">Alabanzas a Gayo</span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"3JN.1.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"3JN.1.2\"><span class=\"label\">2</span><span class=\"content\">Querido hermano, pido a Dios que, as&#237; como te va bien espiritualmente, te vaya bien en todo y tengas buena salud. </span></span><span class=\"verse v3\" data-usfm=\"3JN.1.3\"><span class=\"label\">3</span><span class=\"content\">Me alegr&#233; mucho cuando algunos hermanos vinieron y me contaron que te mantienes fiel a la verdad. </span></span><span class=\"verse v4\" data-usfm=\"3JN.1.4\"><span class=\"label\">4</span><span class=\"content\">No hay para m&#237; mayor alegr&#237;a que saber que mis hijos viven de acuerdo con la verdad.</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"3JN.1.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"3JN.1.5\"><span class=\"label\">5</span><span class=\"content\">Querido hermano, te est&#225;s portando fielmente en el servicio que prestas a los dem&#225;s hermanos, especialmente a los que llegan de otros lugares. </span></span><span class=\"verse v6\" data-usfm=\"3JN.1.6\"><span class=\"label\">6</span><span class=\"content\">Delante de la comunidad han hablado ellos de cu&#225;nto los amas. Por favor, ay&#250;dalos en lo que necesiten para seguir su viaje, de manera agradable a Dios. </span></span><span class=\"verse v7\" data-usfm=\"3JN.1.7\"><span class=\"label\">7</span><span class=\"content\">Pues ellos han emprendido su viaje en el servicio de Jesucristo, y no han aceptado ninguna ayuda de gente pagana. </span></span><span class=\"verse v8\" data-usfm=\"3JN.1.8\"><span class=\"label\">8</span><span class=\"content\">Por eso nosotros debemos hacernos cargo de ellos, para ayudarlos en la predicaci&#243;n de la verdad.</span></span></div><div class=\"s1\"><span class=\"heading\">Conductas opuestas de Di&#243;trefes y Demetrio</span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"3JN.1.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"3JN.1.9\"><span class=\"label\">9</span><span class=\"content\">Yo escrib&#237; una carta a la comunidad, pero Di&#243;trefes no acepta nuestra autoridad porque le gusta mandar. </span></span><span class=\"verse v10\" data-usfm=\"3JN.1.10\"><span class=\"label\">10</span><span class=\"content\">Por eso, cuando yo vaya le llamar&#233; la atenci&#243;n, pues anda contando chismes y mentiras contra nosotros. Y, no contento con esto, no recibe a los hermanos que llegan, y a quienes quieren recibirlos les proh&#237;be hacerlo y los expulsa de la comunidad.</span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"3JN.1.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"3JN.1.11\"><span class=\"label\">11</span><span class=\"content\">Querido hermano, no sigas los malos ejemplos, sino los buenos. El que hace lo bueno es de Dios, pero el que hace lo malo no ha visto a Dios.</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"3JN.1.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"3JN.1.12\"><span class=\"label\">12</span><span class=\"content\">Todos, incluso la verdad misma, hablan bien de Demetrio. Tambi&#233;n nosotros hablamos en favor suyo, y t&#250; sabes que decimos la verdad.</span></span></div><div class=\"s1\"><span class=\"heading\">Despedida</span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"3JN.1.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"3JN.1.13\"><span class=\"label\">13</span><span class=\"content\">Yo ten&#237;a mucho que decirte, pero no quiero hacerlo por escrito, </span></span><span class=\"verse v14\" data-usfm=\"3JN.1.14\"><span class=\"label\">14</span><span class=\"content\">porque espero verte pronto y hablar contigo personalmente.</span></span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"3JN.1.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"3JN.1.15\"><span class=\"label\">15</span><span class=\"content\">Que tengas paz. Los amigos te mandan saludos. Por favor, saluda a cada uno de nuestros amigos.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Saludo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "El anciano saluda al querido Gayo, a quien ama en verdad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Alabanzas a Gayo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Querido hermano, pido a Dios que, así como te va bien espiritualmente, te vaya bien en todo y tengas buena salud."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Me alegré mucho cuando algunos hermanos vinieron y me contaron que te mantienes fiel a la verdad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "No hay para mí mayor alegría que saber que mis hijos viven de acuerdo con la verdad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Querido hermano, te estás portando fielmente en el servicio que prestas a los demás hermanos, especialmente a los que llegan de otros lugares."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Delante de la comunidad han hablado ellos de cuánto los amas. Por favor, ayúdalos en lo que necesiten para seguir su viaje, de manera agradable a Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Pues ellos han emprendido su viaje en el servicio de Jesucristo, y no han aceptado ninguna ayuda de gente pagana."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Por eso nosotros debemos hacernos cargo de ellos, para ayudarlos en la predicación de la verdad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Conductas opuestas de Diótrefes y Demetrio"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Yo escribí una carta a la comunidad, pero Diótrefes no acepta nuestra autoridad porque le gusta mandar."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Por eso, cuando yo vaya le llamaré la atención, pues anda contando chismes y mentiras contra nosotros. Y, no contento con esto, no recibe a los hermanos que llegan, y a quienes quieren recibirlos les prohíbe hacerlo y los expulsa de la comunidad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Querido hermano, no sigas los malos ejemplos, sino los buenos. El que hace lo bueno es de Dios, pero el que hace lo malo no ha visto a Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Todos, incluso la verdad misma, hablan bien de Demetrio. También nosotros hablamos en favor suyo, y tú sabes que decimos la verdad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Despedida"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Yo tenía mucho que decirte, pero no quiero hacerlo por escrito,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "porque espero verte pronto y hablar contigo personalmente."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Que tengas paz. Los amigos te mandan saludos. Por favor, saluda a cada uno de nuestros amigos."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

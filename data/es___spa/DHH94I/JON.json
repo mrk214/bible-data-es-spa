@@ -1,0 +1,617 @@
+{
+  "book_usfm": "JON",
+  "name": "Jonás",
+  "local_title": "Biblia Dios Habla Hoy",
+  "local_abbreviation": "DHH94I",
+  "version_id": 52,
+  "publisher": {
+    "name": "United Bible Societies"
+  },
+  "copyright": {
+    "html": "<p>Texto © Sociedades Bíblicas Unidas, 1994.</p>",
+    "text": "Texto © Sociedades Bíblicas Unidas, 1994."
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "JON.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "JON.1"
+        ],
+        "human": "Jonás 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "JON.2"
+        ],
+        "human": "Jonás 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "OBA.1"
+        ],
+        "human": "Abdías 1",
+        "toc": true
+      },
+      "chapter_text": "El Señor se dirigió a Jonás, hijo de Amitai, y le dijo: «Anda, vete a la gran ciudad de Nínive y anuncia que voy a destruirla, porque hasta mí ha llegado la noticia de su maldad.»\nPero Jonás, en lugar de obedecer, trató de huir del Señor, y se fue al puerto de Jope, donde encontró un barco que estaba a punto de salir para Tarsis; entonces compró pasaje y se embarcó para ir allá. Pero el Señor hizo que soplara un viento muy fuerte, y se levantó en alta mar una tempestad tan violenta que parecía que el barco iba a hacerse pedazos. Los marineros estaban llenos de miedo, y cada uno invocaba a su dios. Por fin, para aligerar el barco, echaron toda la carga al mar. Jonás, mientras tanto, había bajado a la bodega del barco, y allí se había quedado profundamente dormido. Entonces el capitán fue a donde estaba Jonás, y le dijo:\n—¿Qué haces tú ahí, dormilón? ¡Levántate y clama a tu Dios! Tal vez quiera ocuparse de nosotros y nos ponga a salvo.\nEntre tanto, los marineros se decían unos a otros:\n—Vamos a echar suertes, para ver quién tiene la culpa de esta desgracia.\nEcharon, pues, suertes, y Jonás resultó ser el culpable. Entonces le dijeron:\n—Dinos por qué nos ha venido esta desgracia. ¿Qué negocio te ha traído aquí? ¿De dónde vienes? ¿Cuál es tu país? ¿De qué raza eres?\nJonás les contestó:\n—Soy hebreo, y rindo culto al Señor, el Dios del cielo, creador del mar y de la tierra.\nJonás contó a los marineros que él estaba huyendo del Señor, y ellos, al oírlo y al ver que el mar se agitaba más y más, sintieron mucho miedo y le preguntaron:\n—¿Por qué has hecho esto? ¿Qué podemos hacer contigo para que el mar se calme?\n—Pues échenme al mar, y el mar se calmará —contestó Jonás—. Yo sé bien que soy el culpable de que esta tremenda tempestad se les haya venido encima.\nLos marineros se pusieron a remar con todas sus fuerzas para acercarse a tierra, pero no lo lograron, porque el mar se embravecía cada vez más. Entonces clamaron al Señor y dijeron: «Señor, no nos dejes morir por culpa de este hombre. Y si es inocente, no nos hagas responsables de su muerte, porque tú, Señor, actúas según tu voluntad.»\nDicho esto, echaron a Jonás al mar, y el mar se calmó. Al verlo, los marineros sintieron una profunda reverencia por el Señor, y le ofrecieron un sacrificio y le hicieron promesas.\n\n\n17 (2.1) Entre tanto, el Señor había dispuesto un enorme pez para que se tragara a Jonás. Y Jonás pasó tres días y tres noches dentro del pez.",
+      "chapter_html": "<div class=\"version vid52 iso6393spa\" data-vid=\"52\" data-iso6393=\"spa\">\n   <div class=\"book bkJON\">\n      <div class=\"chapter ch1\" data-usfm=\"JON.1\">\n         <div class=\"label\">1</div><div class=\"ms2\"><span class=\"heading\">I. JON&#193;S REBELDE A SU MISI&#211;N Y </span><span class=\"heading\"> ARROJADO AL MAR</span></div><div class=\"mr\"><span class=\"heading\">(</span><span class=\"heading\">1.1-16</span><span class=\"heading\">)</span></div><div class=\"s1\"><span class=\"heading\">Jon&#225;s huye de Dios</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"JON.1.1\"><span class=\"label\">1</span><span class=\"content\">El Se&#241;or se dirigi&#243; a Jon&#225;s, hijo de Amitai,</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1.1 </span><span class=\"fq\">Jon&#225;s, hijo de Amitai: </span><span class=\"ft\">Cf. 2&#160;R 14.25.</span></span></span><span class=\"content\"> y le dijo: </span></span><span class=\"verse v2\" data-usfm=\"JON.1.2\"><span class=\"label\">2</span><span class=\"content\">&#171;Anda, vete a la gran ciudad de N&#237;nive</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1.2 </span><span class=\"fq\">La gran ciudad de N&#237;nive: </span><span class=\"ft\">Era la capital de Asiria, el imperio que en el 721 a.C. destruy&#243; el reino del norte (Israel) y envi&#243; al exilio a muchos israelitas (cf. 2&#160;R 14.1-23). Los profetas Nah&#250;m (1.14&#8212;3.19) y Sofon&#237;as (2.13-15) anunciaron su destrucci&#243;n, hecho que tuvo lugar en el a&#241;o 612 a.C. Cuando se redact&#243; el libro de Jon&#225;s, esa ciudad era s&#237;mbolo de crueldad, de violencia y de hostilidad hacia el pueblo de Dios. Cf. Nah 1.1; 2.13&#8212;3.19. V&#233;ase <span class=\"it\">&#205;ndice de mapas.</span></span></span></span><span class=\"content\"> y anuncia que voy a destruirla, porque hasta m&#237; ha llegado la noticia de su maldad.&#187;</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1.2 </span><span class=\"fq\">Hasta m&#237; ha llegado la noticia de su maldad: </span><span class=\"ft\">Cf. Gn 18.20-21.</span></span></span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"JON.1.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"JON.1.3\"><span class=\"label\">3</span><span class=\"content\">Pero Jon&#225;s, en lugar de obedecer, trat&#243; de huir del Se&#241;or, y se fue al puerto de Jope,</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1.3 </span><span class=\"fk\">Jope </span><span class=\"ft\">era el puerto del Mediterr&#225;neo m&#225;s cercano a Jerusal&#233;n (cf. 2&#160;Cr 2.16; </span><span class=\"fdc\">1&#160;Mac 10.76;</span>  <span class=\"ft\">Hch 9.36). V&#233;ase <span class=\"it\">&#205;ndice de mapas.</span></span></span></span><span class=\"content\"> donde encontr&#243; un barco que estaba a punto de salir para Tarsis;</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1.3 </span><span class=\"ft\">Es dif&#237;cil determinar con exactitud la localizaci&#243;n de <span class=\"it\">Tarsis.</span> Algunos estudiosos la sit&#250;an en la costa sudoeste de Espa&#241;a; otros, en la isla de Cerde&#241;a. De todas maneras, aqu&#237; se trata de un sitio al que pod&#237;a llegarse en barco a trav&#233;s del mar Mediterr&#225;neo y que representaba para los israelitas el extremo occidental del mundo entonces conocido. V&#233;ase Sal 72.10&#160;n.</span></span></span><span class=\"content\"> entonces compr&#243; pasaje y se embarc&#243; para ir all&#225;. </span></span><span class=\"verse v4\" data-usfm=\"JON.1.4\"><span class=\"label\">4</span><span class=\"content\">Pero el Se&#241;or hizo que soplara un viento muy fuerte, y se levant&#243; en alta mar una tempestad tan violenta que parec&#237;a que el barco iba a hacerse pedazos.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1.4 </span><span class=\"fq\">Pero el Se&#241;or hizo...: </span><span class=\"ft\">A lo largo de todo el relato se pone en evidencia la acci&#243;n de Dios, que dispone los acontecimientos conforme a sus designios. Jon&#225;s pretende ser infiel a su misi&#243;n, pero el Se&#241;or, vali&#233;ndose de su dominio sobre los fen&#243;menos de la naturaleza, ordena los acontecimientos para que el profeta cumpla la voluntad divina y de ese modo la palabra de Dios sea anunciada a los pueblos paganos. Cf. Jon 1.17(2.1); 2.10(11); 3.1-2.</span></span></span><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"JON.1.5\"><span class=\"label\">5</span><span class=\"content\">Los marineros estaban llenos de miedo, y cada uno invocaba a su dios. Por fin, para aligerar el barco, echaron toda la carga al mar. Jon&#225;s, mientras tanto, hab&#237;a bajado a la bodega del barco, y all&#237; se hab&#237;a quedado profundamente dormido.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1.5 </span><span class=\"fq\">Profundamente dormido: </span><span class=\"ft\">Cf. Gn 2.21.</span></span></span><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"JON.1.6\"><span class=\"label\">6</span><span class=\"content\">Entonces el capit&#225;n fue a donde estaba Jon&#225;s, y le dijo:</span></span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"JON.1.6\"><span class=\"content\">&#8212;&#191;Qu&#233; haces t&#250; ah&#237;, dormil&#243;n? &#161;Lev&#225;ntate y clama a tu Dios! Tal vez quiera ocuparse de nosotros y nos ponga a salvo.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1.3-6 </span><span class=\"ft\">No sin iron&#237;a, el relato hace ver el contraste entre la conducta de Jon&#225;s y la de los marineros. Jon&#225;s conoce al verdadero Dios (cf. v. 9), pero huye de su presencia y no lo invoca en medio del peligro; los marineros son polite&#237;stas, pero manifiestan ser m&#225;s piadosos que el profeta jud&#237;o: ven en la tempestad una se&#241;al divina, invocan cada uno a su dios y piden a Jon&#225;s que se una a sus oraciones.</span></span></span></span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"JON.1.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"JON.1.7\"><span class=\"label\">7</span><span class=\"content\">Entre tanto, los marineros se dec&#237;an unos a otros:</span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"JON.1.7\"><span class=\"content\">&#8212;Vamos a echar suertes, para ver qui&#233;n tiene la culpa de esta desgracia.</span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"JON.1.7\"><span class=\"content\">Echaron, pues, suertes,</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1.7 </span><span class=\"fq\">Echaron... suertes: </span><span class=\"ft\">Con este procedimiento, muy frecuente en la antig&#252;edad, se trataba de conocer la voluntad divina a fin de tomar las decisiones correspondientes (cf. Nm 26.55-56; 1&#160;S 10.20-21; 14.36-42; Hch 1.26).</span></span></span><span class=\"content\"> y Jon&#225;s result&#243; ser el culpable. </span></span><span class=\"verse v8\" data-usfm=\"JON.1.8\"><span class=\"label\">8</span><span class=\"content\">Entonces le dijeron:</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"JON.1.8\"><span class=\"content\">&#8212;Dinos por qu&#233; nos ha venido esta desgracia. &#191;Qu&#233; negocio te ha tra&#237;do aqu&#237;? &#191;De d&#243;nde vienes? &#191;Cu&#225;l es tu pa&#237;s? &#191;De qu&#233; raza eres?</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"JON.1.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"JON.1.9\"><span class=\"label\">9</span><span class=\"content\">Jon&#225;s les contest&#243;:</span></span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"JON.1.9\"><span class=\"content\">&#8212;Soy hebreo,</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1.9 </span><span class=\"fq\">Soy hebreo: </span><span class=\"ft\">En el AT, este nombre aparece casi exclusivamente en labios de extranjeros, sobre todo de egipcios (Gn 40.15; 41.12; Ex 1.16) y filisteos (1&#160;S 4.6,9; 13.3). V&#233;ase Gn 14.13 nota. N&#243;tese que Jon&#225;s, siendo israelita, lo usa en su di&#225;logo con los marineros paganos.</span></span></span><span class=\"content\"> y rindo culto al Se&#241;or, el Dios del cielo, creador del mar y de la tierra.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1.9 </span><span class=\"fq\">Dios del cielo: </span><span class=\"ft\">2&#160;Cr 36.23; Esd 1.2; 5.11; 7.12; Neh 1.4-5; 2.4; Dn 2.18-19. Al hacer esta confesi&#243;n de fe, Jon&#225;s pone de manifiesto la inconsecuencia de su conducta: por una parte, &#233;l reconoce la soberan&#237;a universal del Se&#241;or, <span class=\"it\">creador del mar y de la tierra;</span> pero, por otra, considera que es posible huir de su presencia (cf. Jon 1.3).</span></span></span></span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"JON.1.9\"><span class=\"content\">  </span></span><span class=\"verse v10 v11\" data-usfm=\"JON.1.10+JON.1.11\"><span class=\"label\">10-11</span><span class=\"content\">Jon&#225;s cont&#243; a los marineros que &#233;l estaba huyendo del Se&#241;or, y ellos, al o&#237;rlo y al ver que el mar se agitaba m&#225;s</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1.11 </span><span class=\"fq\">El mar se agitaba m&#225;s y m&#225;s: </span><span class=\"ft\">Cf. Job 22.10-11; Is 8.7; 30.27-28.</span></span></span><span class=\"content\"> y m&#225;s, sintieron mucho miedo y le preguntaron:</span></span></div><div class=\"p\"><span class=\"verse v10 v11\" data-usfm=\"JON.1.10+JON.1.11\"><span class=\"content\">&#8212;&#191;Por qu&#233; has hecho esto? &#191;Qu&#233; podemos hacer contigo para que el mar se calme?</span></span></div><div class=\"p\"><span class=\"verse v10 v11\" data-usfm=\"JON.1.10+JON.1.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"JON.1.12\"><span class=\"label\">12</span><span class=\"content\">&#8212;Pues &#233;chenme al mar, y el mar se calmar&#225; &#8212;contest&#243; Jon&#225;s&#8212;. Yo s&#233; bien que soy el culpable de que esta tremenda tempestad se les haya venido encima.</span></span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"JON.1.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"JON.1.13\"><span class=\"label\">13</span><span class=\"content\">Los marineros se pusieron a remar con todas sus fuerzas para acercarse a tierra, pero no lo lograron, porque el mar se embravec&#237;a cada vez m&#225;s. </span></span><span class=\"verse v14\" data-usfm=\"JON.1.14\"><span class=\"label\">14</span><span class=\"content\">Entonces clamaron al Se&#241;or y dijeron: &#171;Se&#241;or, no nos dejes morir por culpa de este hombre. Y si es inocente, no nos hagas responsables de su muerte,</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1.14 </span><span class=\"fq\">No nos hagas responsables de su muerte: </span><span class=\"ft\">Cf. Dt 21.8-9; Jer 26.15-16.</span></span></span><span class=\"content\"> porque t&#250;, Se&#241;or, act&#250;as seg&#250;n tu voluntad.&#187;</span></span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"JON.1.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"JON.1.15\"><span class=\"label\">15</span><span class=\"content\">Dicho esto, echaron a Jon&#225;s al mar, y el mar se calm&#243;. </span></span><span class=\"verse v16\" data-usfm=\"JON.1.16\"><span class=\"label\">16</span><span class=\"content\">Al verlo, los marineros sintieron una profunda reverencia por el Se&#241;or, y le ofrecieron un sacrificio y le hicieron promesas.</span></span></div><div class=\"ms2\"><span class=\"heading\">II. JON&#193;S EN EL VIENTRE DEL PEZ Y </span><span class=\"heading\"> SU ORACI&#211;N AL SE&#209;OR</span></div><div class=\"mr\"><span class=\"heading\">(1.17&#8212;2.10[2.1&#8212;11])</span></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"JON.1.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"JON.1.17\"><span class=\"label\">17</span><span class=\"content\">  </span><span class=\"vp\"><span class=\"content\">17 (2.1)</span></span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1.17&#8212;2.10</span><span class=\"ft\">(2.1-11) Los n&#250;meros entre par&#233;ntesis corresponden al texto hebreo.</span></span></span><span class=\"content\"> Entre tanto, el Se&#241;or hab&#237;a dispuesto un enorme pez</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1.17</span><span class=\"ft\">(2.1) </span><span class=\"fq\">Un enorme pez: </span><span class=\"ft\">El texto no identifica la naturaleza de este gran <span class=\"it\">pez;</span> s&#243;lo indica que, gracias a su intervenci&#243;n, Jon&#225;s se salv&#243; de la muerte y pudo volver a tierra para dar cumplimiento a su misi&#243;n.</span></span></span><span class=\"content\"> para que se tragara a Jon&#225;s. Y Jon&#225;s pas&#243; tres d&#237;as y tres noches dentro del pez.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1.17</span><span class=\"ft\">(2.1) Cf. Mt 12.38-40, donde Jes&#250;s, frente a la incredulidad de los que reclaman de &#233;l una se&#241;al milagrosa, remite a la se&#241;al de Jon&#225;s. V&#233;ase <span class=\"it\">Introducci&#243;n</span> a <span class=\"it\">Jon&#225;s;</span> cf. tambi&#233;n Mt 16.1-4; Lc 11.29-32.</span></span></span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading2",
+          "verse_number": -1,
+          "lines": [
+            "I. JONÁS REBELDE A SU MISIÓN Y ARROJADO AL MAR"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "section2",
+          "verse_number": -1,
+          "lines": [
+            "(1.1-16)"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Jonás huye de Dios"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "El Señor se dirigió a Jonás, hijo de Amitai, y le dijo:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "«Anda, vete a la gran ciudad de Nínive y anuncia que voy a destruirla, porque hasta mí ha llegado la noticia de su maldad.»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Pero Jonás, en lugar de obedecer, trató de huir del Señor, y se fue al puerto de Jope, donde encontró un barco que estaba a punto de salir para Tarsis; entonces compró pasaje y se embarcó para ir allá."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Pero el Señor hizo que soplara un viento muy fuerte, y se levantó en alta mar una tempestad tan violenta que parecía que el barco iba a hacerse pedazos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Los marineros estaban llenos de miedo, y cada uno invocaba a su dios. Por fin, para aligerar el barco, echaron toda la carga al mar. Jonás, mientras tanto, había bajado a la bodega del barco, y allí se había quedado profundamente dormido."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Entonces el capitán fue a donde estaba Jonás, y le dijo:",
+            "—¿Qué haces tú ahí, dormilón? ¡Levántate y clama a tu Dios! Tal vez quiera ocuparse de nosotros y nos ponga a salvo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Entre tanto, los marineros se decían unos a otros:",
+            "—Vamos a echar suertes, para ver quién tiene la culpa de esta desgracia.",
+            "Echaron, pues, suertes, y Jonás resultó ser el culpable."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Entonces le dijeron:",
+            "—Dinos por qué nos ha venido esta desgracia. ¿Qué negocio te ha traído aquí? ¿De dónde vienes? ¿Cuál es tu país? ¿De qué raza eres?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Jonás les contestó:",
+            "—Soy hebreo, y rindo culto al Señor, el Dios del cielo, creador del mar y de la tierra.",
+            "Jonás contó a los marineros que él estaba huyendo del Señor, y ellos, al oírlo y al ver que el mar se agitaba más y más, sintieron mucho miedo y le preguntaron:",
+            "—¿Por qué has hecho esto? ¿Qué podemos hacer contigo para que el mar se calme?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "—Pues échenme al mar, y el mar se calmará —contestó Jonás—. Yo sé bien que soy el culpable de que esta tremenda tempestad se les haya venido encima."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Los marineros se pusieron a remar con todas sus fuerzas para acercarse a tierra, pero no lo lograron, porque el mar se embravecía cada vez más."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Entonces clamaron al Señor y dijeron: «Señor, no nos dejes morir por culpa de este hombre. Y si es inocente, no nos hagas responsables de su muerte, porque tú, Señor, actúas según tu voluntad.»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Dicho esto, echaron a Jonás al mar, y el mar se calmó."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Al verlo, los marineros sintieron una profunda reverencia por el Señor, y le ofrecieron un sacrificio y le hicieron promesas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_number": -1,
+          "lines": [
+            "II. JONÁS EN EL VIENTRE DEL PEZ Y SU ORACIÓN AL SEÑOR"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "section2",
+          "verse_number": -1,
+          "lines": [
+            "(1.17—2.10[2.1—11])"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "17 (2.1) Entre tanto, el Señor había dispuesto un enorme pez para que se tragara a Jonás. Y Jonás pasó tres días y tres noches dentro del pez."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "JON.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "JON.2"
+        ],
+        "human": "Jonás 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "JON.3"
+        ],
+        "human": "Jonás 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "JON.1"
+        ],
+        "human": "Jonás 1",
+        "toc": true
+      },
+      "chapter_text": "1 (2) Entonces Jonás oró al Señor su Dios desde dentro del pez, 2 (3) diciendo:\n\n«En mi angustia clamé a ti, Señor,\ny tú me respondiste.\nDesde las profundidades de la muerte\nclamé a ti, y tú me oíste.\n3 (4) Me arrojaste a lo más hondo del mar,\ny las corrientes me envolvieron.\nLas grandes olas que tú mandas\npasaban sobre mí.\n4 (5) Llegué a sentirme echado de tu presencia;\npensé que no volvería a ver tu santo templo.\n5 (6) Las aguas me rodeaban por completo;\nme cubría el mar profundo;\nlas algas se enredaban en mi cabeza.\n6 (7) Me hundí hasta el fondo de la tierra;\n¡ya me sentía su eterno prisionero!\nPero tú, Señor, mi Dios,\nme salvaste de la muerte.\n7 (8) Al sentir que la vida se me iba,\nme acordé de ti, Señor;\nmi oración llegó a ti en tu santo templo.\n8 (9) Los que siguen a los ídolos\ndejan de serte leales;\n9 (10) pero yo, con voz de gratitud,\nte ofreceré sacrificios;\ncumpliré las promesas que te hice.\n¡Solo tú, Señor, puedes salvar!»\n\n10 (2.1) Entonces el Señor dispuso que el pez vomitara a Jonás en tierra firme.",
+      "chapter_html": "<div class=\"version vid52 iso6393spa\" data-vid=\"52\" data-iso6393=\"spa\">\n   <div class=\"book bkJON\">\n      <div class=\"chapter ch2\" data-usfm=\"JON.2\">\n         <div class=\"label\">2</div><div class=\"s1\"><span class=\"heading\">La oraci&#243;n de Jon&#225;s</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\"><span class=\"heading\">2.1-10</span></span><span class=\"ft\"><span class=\"heading\">(2-11) Esta oraci&#243;n de Jon&#225;s tiene una estructura literaria similar a los llamados salmos de acci&#243;n de gracias, que describen un peligro ya pasado, reconocen al Se&#241;or como salvador y concluyen con la promesa de ofrecer sacrificios en el templo de Jerusal&#233;n. Cf. Sal 30; 116; 118 y v&#233;ase tambi&#233;n la </span><span class=\"it\"><span class=\"heading\">Introducci&#243;n a los Salmos (3)</span></span><span class=\"heading\">.</span></span></span></span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"JON.2.1\"><span class=\"label\">1</span><span class=\"content\">  </span><span class=\"vp\"><span class=\"content\">1 (2)</span></span><span class=\"content\"> Entonces Jon&#225;s or&#243; al Se&#241;or su Dios desde dentro del pez, </span></span><span class=\"verse v2\" data-usfm=\"JON.2.2\"><span class=\"label\">2</span><span class=\"content\">  </span><span class=\"vp\"><span class=\"content\">2 (3)</span></span><span class=\"content\"> diciendo:</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"JON.2.2\"><span class=\"content\">&#171;En mi angustia clam&#233; a ti, Se&#241;or,</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"JON.2.2\"><span class=\"content\">y t&#250; me respondiste.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2.2</span><span class=\"ft\">(3) </span><span class=\"fq\">En mi angustia... y t&#250; me respondiste: </span><span class=\"ft\">2&#160;S 22.7; Sal 18.6(7); 120.1.</span></span></span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"JON.2.2\"><span class=\"content\">Desde las profundidades de la muerte</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"JON.2.2\"><span class=\"content\">clam&#233; a ti, y t&#250; me o&#237;ste.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2.2</span><span class=\"ft\">(3) </span><span class=\"fq\">Desde las profundidades... y t&#250; me o&#237;ste: </span><span class=\"ft\">Sal 130.1; Lm 3.55.</span></span></span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"JON.2.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"JON.2.3\"><span class=\"label\">3</span><span class=\"content\">  </span><span class=\"vp\"><span class=\"content\">3 (4)</span></span><span class=\"content\"> Me arrojaste a lo m&#225;s hondo del mar,</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2.3</span><span class=\"ft\">(4) </span><span class=\"fq\">Lo m&#225;s hondo del mar: </span><span class=\"ft\">Cf. Ez 27.26; Miq 7.19. El <span class=\"it\">mar</span> ha causado siempre una viva impresi&#243;n a causa de su inmensidad (Job 11.9), del &#237;mpetu de sus olas (Job 38.8) y de su fuerza destructiva (Ez 26.3). Por eso, los israelitas ve&#237;an en &#233;l la representaci&#243;n del caos anterior a la creaci&#243;n (v&#233;ase Gn 1.2 nota) y un s&#237;mbolo de los m&#225;s grandes peligros. Tambi&#233;n por eso, en Ap 21.1 se dice que al fin de los tiempos el mar ya no existir&#225; m&#225;s. V&#233;ase, en sentido contrario, la referencia al <span class=\"it\">mar de cristal</span> (Ap 15.2; cf. 4.6), como s&#237;mbolo de pureza y de paz.</span></span></span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"JON.2.3\"><span class=\"content\">y las corrientes me envolvieron.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"JON.2.3\"><span class=\"content\">Las grandes olas que t&#250; mandas</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"JON.2.3\"><span class=\"content\">pasaban sobre m&#237;.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2.3</span><span class=\"ft\">(4) Sal 42.7(8); 88.3-7(4-8).</span></span></span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"JON.2.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"JON.2.4\"><span class=\"label\">4</span><span class=\"content\">  </span><span class=\"vp\"><span class=\"content\">4 (5)</span></span><span class=\"content\"> Llegu&#233; a sentirme echado de tu presencia;</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2.4</span><span class=\"ft\">(5) </span><span class=\"fq\">Echado de tu presencia: </span><span class=\"ft\">Sal 31.22(23).</span></span></span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"JON.2.4\"><span class=\"content\">pens&#233; que no volver&#237;a a ver tu santo templo.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"JON.2.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"JON.2.5\"><span class=\"label\">5</span><span class=\"content\">  </span><span class=\"vp\"><span class=\"content\">5 (6)</span></span><span class=\"content\"> Las aguas me rodeaban por completo;</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"JON.2.5\"><span class=\"content\">me cubr&#237;a el mar profundo;</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"JON.2.5\"><span class=\"content\">las algas se enredaban en mi cabeza.</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"JON.2.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"JON.2.6\"><span class=\"label\">6</span><span class=\"content\">  </span><span class=\"vp\"><span class=\"content\">6 (7)</span></span><span class=\"content\"> Me hund&#237; hasta el fondo de la tierra;</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2.6</span><span class=\"ft\">(7) </span><span class=\"fq\">El fondo de la tierra: </span><span class=\"ft\">Lit. </span><span class=\"fqa\">las ra&#237;ces de las monta&#241;as. </span><span class=\"ft\">Se alude probablemente a lo m&#225;s hondo del mar, ya que los antiguos israelitas pensaban que el suelo firme ten&#237;a sus cimientos en las profundidades del mar. Cf. Sal 24.2; 69.2(3), y v&#233;anse Sal 18.15(16)&#160;n. y Am 7.4 nota.</span></span></span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"JON.2.6\"><span class=\"content\">&#161;ya me sent&#237;a su eterno prisionero!</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"JON.2.6\"><span class=\"content\">Pero t&#250;, Se&#241;or, mi Dios,</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"JON.2.6\"><span class=\"content\">me salvaste de la muerte.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2.6</span><span class=\"ft\">(7) </span><span class=\"fq\">Me salvaste de la muerte: </span><span class=\"ft\">Sal 30.3(4).</span></span></span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"JON.2.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"JON.2.7\"><span class=\"label\">7</span><span class=\"content\">  </span><span class=\"vp\"><span class=\"content\">7 (8)</span></span><span class=\"content\"> Al sentir que la vida se me iba,</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"JON.2.7\"><span class=\"content\">me acord&#233; de ti, Se&#241;or;</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"JON.2.7\"><span class=\"content\">mi oraci&#243;n lleg&#243; a ti en tu santo templo.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"JON.2.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"JON.2.8\"><span class=\"label\">8</span><span class=\"content\">  </span><span class=\"vp\"><span class=\"content\">8 (9)</span></span><span class=\"content\"> Los que siguen a los &#237;dolos</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"JON.2.8\"><span class=\"content\">dejan de serte leales;</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"JON.2.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"JON.2.9\"><span class=\"label\">9</span><span class=\"content\">  </span><span class=\"vp\"><span class=\"content\">9 (10)</span></span><span class=\"content\"> pero yo, con voz de gratitud,</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"JON.2.9\"><span class=\"content\">te ofrecer&#233; sacrificios;</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"JON.2.9\"><span class=\"content\">cumplir&#233; las promesas que te hice.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2.9</span><span class=\"ft\">(10) </span><span class=\"fq\">Las promesas que te hice: </span><span class=\"ft\">Sal 22.25(26).</span></span></span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"JON.2.9\"><span class=\"content\">&#161;Solo t&#250;, Se&#241;or, puedes salvar!&#187;</span></span></div><div class=\"b\"></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"JON.2.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"JON.2.10\"><span class=\"label\">10</span><span class=\"content\">  </span><span class=\"vp\"><span class=\"content\">10 (2.1)</span></span><span class=\"content\"> Entonces el Se&#241;or dispuso que el pez vomitara a Jon&#225;s en tierra firme.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "La oración de Jonás"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "1 (2) Entonces Jonás oró al Señor su Dios desde dentro del pez,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "2 (3) diciendo:",
+            "«En mi angustia clamé a ti, Señor,",
+            "y tú me respondiste.",
+            "Desde las profundidades de la muerte",
+            "clamé a ti, y tú me oíste."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "3 (4) Me arrojaste a lo más hondo del mar,",
+            "y las corrientes me envolvieron.",
+            "Las grandes olas que tú mandas",
+            "pasaban sobre mí."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "4 (5) Llegué a sentirme echado de tu presencia;",
+            "pensé que no volvería a ver tu santo templo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "5 (6) Las aguas me rodeaban por completo;",
+            "me cubría el mar profundo;",
+            "las algas se enredaban en mi cabeza."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "6 (7) Me hundí hasta el fondo de la tierra;",
+            "¡ya me sentía su eterno prisionero!",
+            "Pero tú, Señor, mi Dios,",
+            "me salvaste de la muerte."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "7 (8) Al sentir que la vida se me iba,",
+            "me acordé de ti, Señor;",
+            "mi oración llegó a ti en tu santo templo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "8 (9) Los que siguen a los ídolos",
+            "dejan de serte leales;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "9 (10) pero yo, con voz de gratitud,",
+            "te ofreceré sacrificios;",
+            "cumpliré las promesas que te hice.",
+            "¡Solo tú, Señor, puedes salvar!»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "10 (2.1) Entonces el Señor dispuso que el pez vomitara a Jonás en tierra firme."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "JON.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "JON.3"
+        ],
+        "human": "Jonás 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "JON.4"
+        ],
+        "human": "Jonás 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "JON.2"
+        ],
+        "human": "Jonás 2",
+        "toc": true
+      },
+      "chapter_text": "El Señor se dirigió por segunda vez a Jonás, y le dijo: «Anda, vete a la gran ciudad de Nínive y anuncia lo que te voy a decir.»\nJonás se puso en marcha y fue a Nínive, como el Señor se lo había ordenado. Nínive era una ciudad tan grande que para recorrerla toda había que caminar tres días. Jonás entró en la ciudad y caminó todo un día, diciendo a grandes voces: «¡Dentro de cuarenta días Nínive será destruida!»\nLos habitantes de la ciudad, grandes y pequeños, creyeron en Dios, proclamaron ayuno y se pusieron ropas ásperas en señal de dolor. Cuando la noticia llegó al rey de Nínive, también él se levantó de su trono, se quitó sus vestiduras reales, se puso ropas ásperas y se sentó en el suelo. Luego, el rey y sus ministros dieron a conocer por toda la ciudad el siguiente decreto: «Que nadie tome ningún alimento. Que tampoco se dé de comer ni de beber al ganado y a los rebaños. Al contrario, vístanse todos con ropas ásperas en señal de dolor, y clamen a Dios con todas sus fuerzas. Deje cada uno su mala conducta y la violencia que ha estado cometiendo hasta ahora; tal vez Dios cambie de parecer y se calme su ira, y así no moriremos.»\nDios vio lo que hacía la gente de Nínive y cómo dejaba su mala conducta, y decidió no hacerles el daño que les había anunciado.",
+      "chapter_html": "<div class=\"version vid52 iso6393spa\" data-vid=\"52\" data-iso6393=\"spa\">\n   <div class=\"book bkJON\">\n      <div class=\"chapter ch3\" data-usfm=\"JON.3\">\n         <div class=\"label\">3</div><div class=\"ms2\"><span class=\"heading\">III. LA PREDICACI&#211;N DE JON&#193;S Y </span><span class=\"heading\"> LA CONVERSI&#211;N DE LOS NINIVITAS</span></div><div class=\"mr\"><span class=\"heading\">(</span><span class=\"heading\">3.1-10</span><span class=\"heading\">)</span></div><div class=\"s1\"><span class=\"heading\">N&#237;nive se arrepiente</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"JON.3.1\"><span class=\"label\">1</span><span class=\"content\">El Se&#241;or se dirigi&#243; por segunda vez a Jon&#225;s, y le dijo: </span></span><span class=\"verse v2\" data-usfm=\"JON.3.2\"><span class=\"label\">2</span><span class=\"content\">&#171;Anda, vete a la gran ciudad de N&#237;nive y anuncia lo que te voy a decir.&#187;</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3.1-2 </span><span class=\"ft\">Cf. Jon 1.1-2.</span></span></span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"JON.3.2\"><span class=\"content\">  </span></span><span class=\"verse v3 v4\" data-usfm=\"JON.3.3+JON.3.4\"><span class=\"label\">3-4</span><span class=\"content\">Jon&#225;s se puso en marcha y fue a N&#237;nive, como el Se&#241;or se lo hab&#237;a ordenado. N&#237;nive era una ciudad tan grande que para recorrerla toda hab&#237;a que caminar tres d&#237;as.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3.4 </span><span class=\"fq\">Cuarenta d&#237;as: </span><span class=\"ft\">V&#233;anse Gn 7.12&#160;n.; Jue 3.11 n; y cf. Ex 24.18.</span></span></span><span class=\"content\"> Jon&#225;s entr&#243; en la ciudad y camin&#243; todo un d&#237;a, diciendo a grandes voces: &#171;&#161;Dentro de cuarenta d&#237;as N&#237;nive ser&#225; destruida!&#187;</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3.3-4 </span><span class=\"fq\">&#161;Dentro de cuarenta d&#237;as N&#237;nive ser&#225; destruida!: </span><span class=\"ft\">&#201;ste es el &#250;nico anuncio que contiene el libro de Jon&#225;s, a diferencia de los otros escritos prof&#233;ticos, que pronuncian advertencias, acusaciones, reprensiones y condenaciones.</span></span></span></span></div><div class=\"p\"><span class=\"verse v3 v4\" data-usfm=\"JON.3.3+JON.3.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"JON.3.5\"><span class=\"label\">5</span><span class=\"content\">Los habitantes de la ciudad, grandes y peque&#241;os, creyeron en Dios, proclamaron ayuno y se pusieron ropas &#225;speras en se&#241;al de dolor.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3.5 </span><span class=\"ft\">Sobre esta actitud de los ninivitas, cf. Mt 12.41; Lc 11.32.</span></span></span><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"JON.3.6\"><span class=\"label\">6</span><span class=\"content\">Cuando la noticia lleg&#243; al rey de N&#237;nive, tambi&#233;n &#233;l se levant&#243; de su trono, se quit&#243; sus vestiduras reales, se puso ropas &#225;speras y se sent&#243; en el suelo.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3.5-6 </span><span class=\"ft\">La repentina conversi&#243;n de todos los ninivitas contrasta con la actitud de Israel, que muchas veces se hab&#237;a obstinado en su rebeld&#237;a a pesar de los insistentes llamados de los profetas. Cf. Is 1.2-3; Jer 36.20-26; Ez 3.4-7.</span></span></span><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"JON.3.7\"><span class=\"label\">7</span><span class=\"content\">Luego, el rey y sus ministros dieron a conocer por toda la ciudad el siguiente decreto: &#171;Que nadie tome ning&#250;n alimento. Que tampoco se d&#233; de comer ni de beber al ganado y a los reba&#241;os. </span></span><span class=\"verse v8\" data-usfm=\"JON.3.8\"><span class=\"label\">8</span><span class=\"content\">Al contrario, v&#237;stanse todos con ropas &#225;speras en se&#241;al de dolor, y clamen a Dios con todas sus fuerzas. Deje cada uno su mala conducta y la violencia que ha estado cometiendo hasta ahora;</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3.7-8 </span><span class=\"ft\">La conversi&#243;n incluye el ayuno, la penitencia, la oraci&#243;n a Dios y el cambio de conducta. Cf. Jer 25.5; 26.3; 36.7.</span></span></span><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"JON.3.9\"><span class=\"label\">9</span><span class=\"content\">tal vez Dios cambie de parecer y se calme su ira, y as&#237; no moriremos.&#187;</span></span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"JON.3.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"JON.3.10\"><span class=\"label\">10</span><span class=\"content\">Dios vio lo que hac&#237;a la gente de N&#237;nive y c&#243;mo dejaba su mala conducta, y decidi&#243; no hacerles el da&#241;o que les hab&#237;a anunciado.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3.10 </span><span class=\"ft\">N&#243;tese la relaci&#243;n de este v. con la ense&#241;anza contenida en Jer 18.7-8; 26.3: si Dios advierte una se&#241;al de arrepentimiento en la ciudad sobre la que pesa una amenaza de castigo, le concede generosamente su perd&#243;n (cf. tambi&#233;n Ex 32.14; 2&#160;S 24.16; Am 7.3,6).</span></span></span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading2",
+          "verse_number": -1,
+          "lines": [
+            "III. LA PREDICACIÓN DE JONÁS Y LA CONVERSIÓN DE LOS NINIVITAS"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "section2",
+          "verse_number": -1,
+          "lines": [
+            "(3.1-10)"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Nínive se arrepiente"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "El Señor se dirigió por segunda vez a Jonás, y le dijo:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "«Anda, vete a la gran ciudad de Nínive y anuncia lo que te voy a decir.»",
+            "Jonás se puso en marcha y fue a Nínive, como el Señor se lo había ordenado. Nínive era una ciudad tan grande que para recorrerla toda había que caminar tres días. Jonás entró en la ciudad y caminó todo un día, diciendo a grandes voces: «¡Dentro de cuarenta días Nínive será destruida!»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Los habitantes de la ciudad, grandes y pequeños, creyeron en Dios, proclamaron ayuno y se pusieron ropas ásperas en señal de dolor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Cuando la noticia llegó al rey de Nínive, también él se levantó de su trono, se quitó sus vestiduras reales, se puso ropas ásperas y se sentó en el suelo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Luego, el rey y sus ministros dieron a conocer por toda la ciudad el siguiente decreto: «Que nadie tome ningún alimento. Que tampoco se dé de comer ni de beber al ganado y a los rebaños."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Al contrario, vístanse todos con ropas ásperas en señal de dolor, y clamen a Dios con todas sus fuerzas. Deje cada uno su mala conducta y la violencia que ha estado cometiendo hasta ahora;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "tal vez Dios cambie de parecer y se calme su ira, y así no moriremos.»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Dios vio lo que hacía la gente de Nínive y cómo dejaba su mala conducta, y decidió no hacerles el daño que les había anunciado."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "JON.4",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "JON.4"
+        ],
+        "human": "Jonás 4"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "MIC.1"
+        ],
+        "human": "Miqueas 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "JON.3"
+        ],
+        "human": "Jonás 3",
+        "toc": true
+      },
+      "chapter_text": "A Jonás le cayó muy mal lo que Dios había hecho, y se disgustó mucho. Así que oró al Señor, y le dijo:\n—Mira, Señor, esto es lo que yo decía que iba a pasar cuando aún me encontraba en mi tierra. Por eso quise huir de prisa a Tarsis, pues yo sé que tú eres un Dios tierno y compasivo, que no te enojas fácilmente, y que es tanto tu amor que anuncias un castigo y luego te arrepientes. Por eso, Señor, te ruego que me quites la vida. Más me vale morir que seguir viviendo.\nPero el Señor le contestó:\n—¿Te parece bien enojarte así?\nJonás salió de la ciudad y acampó al oriente de ella; allí hizo una enramada y se sentó a su sombra, esperando a ver lo que le iba a pasar a la ciudad. Dios el Señor dispuso entonces que una mata de ricino creciera por encima de Jonás, y que su sombra le cubriera la cabeza para que se sintiera mejor. Jonás estaba muy contento con aquella mata de ricino. Pero, al amanecer del día siguiente, Dios dispuso que un gusano picara el ricino, y este se secó. Cuando el sol salió, Dios dispuso que soplara un viento caliente del este, y como el sol le daba a Jonás directamente en la cabeza, él sintió que se desmayaba, y quería morirse.\n—Más me vale morir que seguir viviendo —decía.\nPero Dios le contestó:\n—¿Te parece bien enojarte así porque se haya secado la mata de ricino?\n—¡Claro que me parece bien! —respondió Jonás—. ¡Estoy que me muero de rabia!\nEntonces el Señor le dijo:\n—Tú no sembraste la mata de ricino, ni la hiciste crecer; en una noche nació, y a la otra se murió. Sin embargo le tienes compasión. Pues con mayor razón debo yo tener compasión de Nínive, esa gran ciudad donde hay más de ciento veinte mil niños inocentes y muchos animales.",
+      "chapter_html": "<div class=\"version vid52 iso6393spa\" data-vid=\"52\" data-iso6393=\"spa\">\n   <div class=\"book bkJON\">\n      <div class=\"chapter ch4\" data-usfm=\"JON.4\">\n         <div class=\"label\">4</div><div class=\"ms2\"><span class=\"heading\">IV. EL ENOJO DEL PROFETA Y </span><span class=\"heading\"> LA RESPUESTA DE DIOS</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\"><span class=\"heading\">4.1-11 </span></span><span class=\"ft\"><span class=\"heading\">Este pasaje describe el drama que la misericordia divina desencadena en el &#225;nimo de Jon&#225;s. Al perdonar a los ninivitas, el Se&#241;or hizo que la predicci&#243;n de Jon&#225;s no se cumpliera (cf. 3.4), por lo que este podr&#237;a ser tenido por falso profeta (Dt 18.21-22; cf. Jer 28.9). De ah&#237; la intensidad de su enojo.</span></span></span></span></div><div class=\"mr\"><span class=\"heading\">(</span><span class=\"heading\">4.1-11</span><span class=\"heading\">)</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"JON.4.1\"><span class=\"label\">1</span><span class=\"content\">A Jon&#225;s le cay&#243; muy mal lo que Dios hab&#237;a hecho, y se disgust&#243; mucho. </span></span><span class=\"verse v2\" data-usfm=\"JON.4.2\"><span class=\"label\">2</span><span class=\"content\">As&#237; que or&#243; al Se&#241;or, y le dijo:</span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"JON.4.2\"><span class=\"content\">&#8212;Mira, Se&#241;or, esto es lo que yo dec&#237;a que iba a pasar cuando a&#250;n me encontraba en mi tierra. Por eso quise huir de prisa a Tarsis, pues yo s&#233; que t&#250; eres un Dios tierno y compasivo, que no te enojas f&#225;cilmente, y que es tanto tu amor que anuncias un castigo y luego te arrepientes.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4.2 </span><span class=\"fq\">Dios tierno y compasivo, que no se enoja f&#225;cilmente: </span><span class=\"ft\">Cf. Ex 34.6; Jer 3.12; 31.20; 32.18; Jl 2.13. Jon&#225;s confiesa su fe en la bondad y en la misericordia del Se&#241;or, pero no quiere llegar hasta las &#250;ltimas consecuencias: el amor y el perd&#243;n divinos van m&#225;s all&#225; de las fronteras de Israel y pueden alcanzar incluso a los enemigos de su pueblo. Cf. Jon 4.11.</span></span></span><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"JON.4.3\"><span class=\"label\">3</span><span class=\"content\">Por eso, Se&#241;or, te ruego que me quites la vida.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4.3 </span><span class=\"fq\">Te ruego que me quites la vida: </span><span class=\"ft\">Cf. 1&#160;R 19.4. El profeta llega hasta el colmo de la desesperaci&#243;n al ver que los planes de Dios no coinciden con su propia mezquindad y estrechez de miras.</span></span></span><span class=\"content\"> M&#225;s me vale morir que seguir viviendo.</span></span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"JON.4.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"JON.4.4\"><span class=\"label\">4</span><span class=\"content\">Pero el Se&#241;or le contest&#243;:</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"JON.4.4\"><span class=\"content\">&#8212;&#191;Te parece bien enojarte as&#237;?</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4.4 </span><span class=\"ft\">Jon&#225;s debe alegrarse por el perd&#243;n concedido a los ninivitas, as&#237; como debi&#243; alegrarse el hijo mayor de la par&#225;bola del hijo pr&#243;digo (cf. Lc 15.31-32).</span></span></span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"JON.4.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"JON.4.5\"><span class=\"label\">5</span><span class=\"content\">Jon&#225;s sali&#243; de la ciudad y acamp&#243; al oriente de ella; all&#237; hizo una enramada y se sent&#243; a su sombra, esperando a ver lo que le iba a pasar a la ciudad. </span></span><span class=\"verse v6\" data-usfm=\"JON.4.6\"><span class=\"label\">6</span><span class=\"content\">Dios el Se&#241;or dispuso entonces que una mata de ricino</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4.6 </span><span class=\"fq\">Una mata de ricino: </span><span class=\"ft\">La identificaci&#243;n de esta planta no es del todo segura; la palabra hebrea tambi&#233;n se ha traducido por <span class=\"it\">hiedra</span> o <span class=\"it\">calabacera.</span> Al igual que el pez y la tempestad, es un instrumento en las manos de Dios para hacer recapacitar a su profeta. V&#233;ase Jon 1.4&#160;n.</span></span></span><span class=\"content\"> creciera por encima de Jon&#225;s, y que su sombra le cubriera la cabeza para que se sintiera mejor. Jon&#225;s estaba muy contento con aquella mata de ricino. </span></span><span class=\"verse v7\" data-usfm=\"JON.4.7\"><span class=\"label\">7</span><span class=\"content\">Pero, al amanecer del d&#237;a siguiente, Dios dispuso que un gusano picara el ricino, y este se sec&#243;. </span></span><span class=\"verse v8\" data-usfm=\"JON.4.8\"><span class=\"label\">8</span><span class=\"content\">Cuando el sol sali&#243;, Dios dispuso que soplara un viento caliente del este,</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4.8 </span><span class=\"fq\">Un viento caliente del este: </span><span class=\"ft\">V&#233;ase Os 12.1(2)&#160;n.</span></span></span><span class=\"content\"> y como el sol le daba a Jon&#225;s directamente en la cabeza, &#233;l sinti&#243; que se desmayaba, y quer&#237;a morirse.</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"JON.4.8\"><span class=\"content\">&#8212;M&#225;s me vale morir que seguir viviendo &#8212;dec&#237;a.</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"JON.4.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"JON.4.9\"><span class=\"label\">9</span><span class=\"content\">Pero Dios le contest&#243;:</span></span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"JON.4.9\"><span class=\"content\">&#8212;&#191;Te parece bien enojarte as&#237; porque se haya secado la mata de ricino?</span></span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"JON.4.9\"><span class=\"content\">&#8212;&#161;Claro que me parece bien! &#8212;respondi&#243; Jon&#225;s&#8212;. &#161;Estoy que me muero de rabia!</span></span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"JON.4.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"JON.4.10\"><span class=\"label\">10</span><span class=\"content\">Entonces el Se&#241;or le dijo:</span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"JON.4.10\"><span class=\"content\">&#8212;T&#250; no sembraste la mata de ricino, ni la hiciste crecer; en una noche naci&#243;, y a la otra se muri&#243;. Sin embargo le tienes compasi&#243;n. </span></span><span class=\"verse v11\" data-usfm=\"JON.4.11\"><span class=\"label\">11</span><span class=\"content\">Pues con mayor raz&#243;n debo yo tener compasi&#243;n de N&#237;nive, esa gran ciudad donde hay m&#225;s de ciento veinte mil ni&#241;os inocentes</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4.11 </span><span class=\"fq\">Ni&#241;os inocentes: </span><span class=\"ft\">Lit. </span><span class=\"fqa\">personas que no saben distinguir su derecha de su izquierda, </span><span class=\"ft\">es decir, que a&#250;n no tienen uso de raz&#243;n. Cf. Dt 1.39; Is 7.15-16.</span></span></span><span class=\"content\"> y muchos animales.</span><span class=\"note ef\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4.11 </span><span class=\"ft\">El relato concluye afirmando una vez m&#225;s la misericordia de Dios, que es el tema presente en todo el libro. Dios tiene misericordia del profeta rebelde, de los marineros, de los ninivitas y aun de los animales; o sea, que su misericordia alcanza no s&#243;lo a Israel, sino tambi&#233;n a las naciones paganas, e incluso a una ciudad como N&#237;nive, s&#237;mbolo de violencia y crueldad (cf. Nah 3.1-4).</span></span></span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading2",
+          "verse_number": -1,
+          "lines": [
+            "IV. EL ENOJO DEL PROFETA Y LA RESPUESTA DE DIOS"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "section2",
+          "verse_number": -1,
+          "lines": [
+            "(4.1-11)"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "A Jonás le cayó muy mal lo que Dios había hecho, y se disgustó mucho."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Así que oró al Señor, y le dijo:",
+            "—Mira, Señor, esto es lo que yo decía que iba a pasar cuando aún me encontraba en mi tierra. Por eso quise huir de prisa a Tarsis, pues yo sé que tú eres un Dios tierno y compasivo, que no te enojas fácilmente, y que es tanto tu amor que anuncias un castigo y luego te arrepientes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Por eso, Señor, te ruego que me quites la vida. Más me vale morir que seguir viviendo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Pero el Señor le contestó:",
+            "—¿Te parece bien enojarte así?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Jonás salió de la ciudad y acampó al oriente de ella; allí hizo una enramada y se sentó a su sombra, esperando a ver lo que le iba a pasar a la ciudad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Dios el Señor dispuso entonces que una mata de ricino creciera por encima de Jonás, y que su sombra le cubriera la cabeza para que se sintiera mejor. Jonás estaba muy contento con aquella mata de ricino."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Pero, al amanecer del día siguiente, Dios dispuso que un gusano picara el ricino, y este se secó."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Cuando el sol salió, Dios dispuso que soplara un viento caliente del este, y como el sol le daba a Jonás directamente en la cabeza, él sintió que se desmayaba, y quería morirse.",
+            "—Más me vale morir que seguir viviendo —decía."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Pero Dios le contestó:",
+            "—¿Te parece bien enojarte así porque se haya secado la mata de ricino?",
+            "—¡Claro que me parece bien! —respondió Jonás—. ¡Estoy que me muero de rabia!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Entonces el Señor le dijo:",
+            "—Tú no sembraste la mata de ricino, ni la hiciste crecer; en una noche nació, y a la otra se murió. Sin embargo le tienes compasión."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Pues con mayor razón debo yo tener compasión de Nínive, esa gran ciudad donde hay más de ciento veinte mil niños inocentes y muchos animales."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

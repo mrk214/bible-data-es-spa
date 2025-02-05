@@ -1,0 +1,1507 @@
+{
+  "book_usfm": "GAL",
+  "name": "Gálatas",
+  "local_title": "Nueva Versión Internacional - Español",
+  "local_abbreviation": "NVI",
+  "version_id": 128,
+  "publisher": {
+    "name": "Biblica, Inc."
+  },
+  "copyright": {
+    "html": "<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>",
+    "text": "Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "GAL.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "GAL.1"
+        ],
+        "human": "Gálatas 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "GAL.2"
+        ],
+        "human": "Gálatas 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "2CO.13"
+        ],
+        "human": "2 Corintios 13",
+        "toc": true
+      },
+      "chapter_text": "Pablo, apóstol no por investidura ni mediación humana, sino por Jesucristo y por Dios Padre, que lo levantó de entre los muertos; y todos los hermanos que están conmigo,\n\na las iglesias de Galacia:\n\nQue Dios nuestro Padre y el Señor Jesucristo les concedan gracia y paz. Jesucristo dio su vida por nuestros pecados para rescatarnos de este mundo malvado, según la voluntad de nuestro Dios y Padre, a quien sea la gloria por los siglos de los siglos. Amén.\n\n\nMe asombra que tan pronto estén dejando ustedes a quien los llamó por la gracia de Cristo, para pasarse a otro evangelio. No es que haya otro evangelio, sino que ciertos individuos están sembrando confusión entre ustedes y quieren tergiversar el evangelio de Cristo. Pero aun si alguno de nosotros o un ángel del cielo les predicara acerca de unas buenas noticias distintas de las que hemos predicado, ¡que caiga bajo maldición! Como ya lo hemos dicho, ahora lo repito: si alguien anda predicando un mensaje distinto del que recibieron, ¡que caiga bajo maldición!\nEntonces, ¿busco ganarme la aprobación humana o la de Dios? ¿Piensan que procuro agradar a los demás? Si yo buscara agradar a otros, no sería siervo de Cristo.\n\nQuiero que sepan, hermanos, que las buenas noticias que yo predico no es invención humana. No lo recibí ni lo aprendí de ningún ser humano, sino que me llegó por revelación de Jesucristo.\nUstedes ya están enterados de mi conducta cuando pertenecía al judaísmo, de la furia con que perseguía a la iglesia de Dios, tratando de destruirla. En la práctica del judaísmo, yo aventajaba a muchos de mis contemporáneos en mi celo exagerado por las tradiciones de mis antepasados. Sin embargo, Dios me había apartado desde el vientre de mi madre y me llamó por su gracia. Y, cuando él tuvo a bien revelarme a su Hijo para que yo lo predicara entre los no judíos, no consulté con nadie. Tampoco subí a Jerusalén para ver a los que eran apóstoles antes que yo, sino que fui de inmediato a Arabia, de donde luego regresé a Damasco.\nDespués de tres años, subí a Jerusalén para visitar a Cefas y me quedé con él quince días. No vi a ningún otro de los apóstoles; solo vi a Santiago, el hermano del Señor. Dios me es testigo de que en esto que les escribo no miento. Más tarde fui a las regiones de Siria y Cilicia. Pero en Judea las iglesias de Cristo no me conocían personalmente. Solo habían oído decir: «El que antes nos perseguía ahora predica la fe que procuraba destruir». Y por causa mía glorificaban a Dios.",
+      "chapter_html": "<div class=\"version vid128 iso6393spa\" data-vid=\"128\" data-iso6393=\"spa\">\n   <div class=\"book bkGAL\">\n      <div class=\"chapter ch1\" data-usfm=\"GAL.1\">\n         <div class=\"label\">1</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"GAL.1.1\"><span class=\"label\">1</span><span class=\"content\">Pablo, ap&#243;stol no por investidura ni mediaci&#243;n humana, sino por Jesucristo y por Dios Padre, que lo levant&#243; de entre los muertos; </span></span><span class=\"verse v2\" data-usfm=\"GAL.1.2\"><span class=\"label\">2</span><span class=\"content\">y todos los hermanos que est&#225;n conmigo,</span></span></div><div class=\"b\"></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"GAL.1.2\"><span class=\"content\">a las iglesias de Galacia:</span></span></div><div class=\"b\"></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"GAL.1.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"GAL.1.3\"><span class=\"label\">3</span><span class=\"content\">Que Dios nuestro Padre y el Se&#241;or Jesucristo les concedan gracia y paz. </span></span><span class=\"verse v4\" data-usfm=\"GAL.1.4\"><span class=\"label\">4</span><span class=\"content\">Jesucristo dio su vida por nuestros pecados para rescatarnos de este mundo malvado, seg&#250;n la voluntad de nuestro Dios y Padre, </span></span><span class=\"verse v5\" data-usfm=\"GAL.1.5\"><span class=\"label\">5</span><span class=\"content\">a quien sea la gloria por los siglos de los siglos. Am&#233;n.</span></span></div><div class=\"b\"></div><div class=\"s1\"><span class=\"heading\">No hay otro evangelio</span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"GAL.1.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"GAL.1.6\"><span class=\"label\">6</span><span class=\"content\">Me asombra que tan pronto est&#233;n dejando ustedes a quien los llam&#243; por la gracia de Cristo, para pasarse a otro evangelio. </span></span><span class=\"verse v7\" data-usfm=\"GAL.1.7\"><span class=\"label\">7</span><span class=\"content\">No es que haya otro evangelio, sino que ciertos individuos est&#225;n sembrando confusi&#243;n entre ustedes y quieren tergiversar el evangelio de Cristo. </span></span><span class=\"verse v8\" data-usfm=\"GAL.1.8\"><span class=\"label\">8</span><span class=\"content\">Pero aun si alguno de nosotros o un &#225;ngel del cielo les predicara acerca de unas buenas noticias distintas de las que hemos predicado, &#161;que caiga bajo maldici&#243;n! </span></span><span class=\"verse v9\" data-usfm=\"GAL.1.9\"><span class=\"label\">9</span><span class=\"content\">Como ya lo hemos dicho, ahora lo repito: si alguien anda predicando un mensaje distinto del que recibieron, &#161;que caiga bajo maldici&#243;n!</span></span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"GAL.1.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"GAL.1.10\"><span class=\"label\">10</span><span class=\"content\">Entonces, &#191;busco ganarme la aprobaci&#243;n humana o la de Dios? &#191;Piensan que procuro agradar a los dem&#225;s? Si yo buscara agradar a otros, no ser&#237;a siervo de Cristo.</span></span></div><div class=\"s1\"><span class=\"heading\">Pablo, llamado por Dios</span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"GAL.1.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"GAL.1.11\"><span class=\"label\">11</span><span class=\"content\">Quiero que sepan, hermanos, que las buenas noticias que yo predico no es invenci&#243;n humana. </span></span><span class=\"verse v12\" data-usfm=\"GAL.1.12\"><span class=\"label\">12</span><span class=\"content\">No lo recib&#237; ni lo aprend&#237; de ning&#250;n ser humano, sino que me lleg&#243; por revelaci&#243;n de Jesucristo.</span></span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"GAL.1.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"GAL.1.13\"><span class=\"label\">13</span><span class=\"content\">Ustedes ya est&#225;n enterados de mi conducta cuando pertenec&#237;a al juda&#237;smo, de la furia con que persegu&#237;a a la iglesia de Dios, tratando de destruirla. </span></span><span class=\"verse v14\" data-usfm=\"GAL.1.14\"><span class=\"label\">14</span><span class=\"content\">En la pr&#225;ctica del juda&#237;smo, yo aventajaba a muchos de mis contempor&#225;neos en mi celo exagerado por las tradiciones de mis antepasados. </span></span><span class=\"verse v15\" data-usfm=\"GAL.1.15\"><span class=\"label\">15</span><span class=\"content\">Sin embargo, Dios me hab&#237;a apartado desde el vientre de mi madre y me llam&#243; por su gracia. Y, cuando &#233;l tuvo a bien </span></span><span class=\"verse v16\" data-usfm=\"GAL.1.16\"><span class=\"label\">16</span><span class=\"content\">revelarme a su Hijo para que yo lo predicara entre los no jud&#237;os, no consult&#233; con nadie. </span></span><span class=\"verse v17\" data-usfm=\"GAL.1.17\"><span class=\"label\">17</span><span class=\"content\">Tampoco sub&#237; a Jerusal&#233;n para ver a los que eran ap&#243;stoles antes que yo, sino que fui de inmediato a Arabia, de donde luego regres&#233; a Damasco.</span></span></div><div class=\"p\"><span class=\"verse v17\" data-usfm=\"GAL.1.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"GAL.1.18\"><span class=\"label\">18</span><span class=\"content\">Despu&#233;s de tres a&#241;os, sub&#237; a Jerusal&#233;n para visitar a Cefas</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:18 </span><span class=\"ft\">Nombre arameo de Pedro; tambi&#233;n en 2:9,11,14.</span></span></span><span class=\"content\"> y me qued&#233; con &#233;l quince d&#237;as. </span></span><span class=\"verse v19\" data-usfm=\"GAL.1.19\"><span class=\"label\">19</span><span class=\"content\">No vi a ning&#250;n otro de los ap&#243;stoles; solo vi a Santiago, el hermano del Se&#241;or. </span></span><span class=\"verse v20\" data-usfm=\"GAL.1.20\"><span class=\"label\">20</span><span class=\"content\">Dios me es testigo de que en esto que les escribo no miento. </span></span><span class=\"verse v21\" data-usfm=\"GAL.1.21\"><span class=\"label\">21</span><span class=\"content\">M&#225;s tarde fui a las regiones de Siria y Cilicia. </span></span><span class=\"verse v22\" data-usfm=\"GAL.1.22\"><span class=\"label\">22</span><span class=\"content\">Pero en Judea las iglesias de</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:22 </span><span class=\"fq\">de</span><span class=\"ft\">. Lit. </span><span class=\"fqa\">en.</span></span></span><span class=\"content\"> Cristo no me conoc&#237;an personalmente. </span></span><span class=\"verse v23\" data-usfm=\"GAL.1.23\"><span class=\"label\">23</span><span class=\"content\">Solo hab&#237;an o&#237;do decir: &#171;El que antes nos persegu&#237;a ahora predica la fe que procuraba destruir&#187;. </span></span><span class=\"verse v24\" data-usfm=\"GAL.1.24\"><span class=\"label\">24</span><span class=\"content\">Y por causa m&#237;a glorificaban a Dios.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Pablo, apóstol no por investidura ni mediación humana, sino por Jesucristo y por Dios Padre, que lo levantó de entre los muertos;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "y todos los hermanos que están conmigo,",
+            "a las iglesias de Galacia:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Que Dios nuestro Padre y el Señor Jesucristo les concedan gracia y paz."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Jesucristo dio su vida por nuestros pecados para rescatarnos de este mundo malvado, según la voluntad de nuestro Dios y Padre,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "a quien sea la gloria por los siglos de los siglos. Amén."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "No hay otro evangelio"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Me asombra que tan pronto estén dejando ustedes a quien los llamó por la gracia de Cristo, para pasarse a otro evangelio."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "No es que haya otro evangelio, sino que ciertos individuos están sembrando confusión entre ustedes y quieren tergiversar el evangelio de Cristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Pero aun si alguno de nosotros o un ángel del cielo les predicara acerca de unas buenas noticias distintas de las que hemos predicado, ¡que caiga bajo maldición!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Como ya lo hemos dicho, ahora lo repito: si alguien anda predicando un mensaje distinto del que recibieron, ¡que caiga bajo maldición!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Entonces, ¿busco ganarme la aprobación humana o la de Dios? ¿Piensan que procuro agradar a los demás? Si yo buscara agradar a otros, no sería siervo de Cristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Pablo, llamado por Dios"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Quiero que sepan, hermanos, que las buenas noticias que yo predico no es invención humana."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "No lo recibí ni lo aprendí de ningún ser humano, sino que me llegó por revelación de Jesucristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Ustedes ya están enterados de mi conducta cuando pertenecía al judaísmo, de la furia con que perseguía a la iglesia de Dios, tratando de destruirla."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "En la práctica del judaísmo, yo aventajaba a muchos de mis contemporáneos en mi celo exagerado por las tradiciones de mis antepasados."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Sin embargo, Dios me había apartado desde el vientre de mi madre y me llamó por su gracia. Y, cuando él tuvo a bien"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "revelarme a su Hijo para que yo lo predicara entre los no judíos, no consulté con nadie."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Tampoco subí a Jerusalén para ver a los que eran apóstoles antes que yo, sino que fui de inmediato a Arabia, de donde luego regresé a Damasco."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Después de tres años, subí a Jerusalén para visitar a Cefas y me quedé con él quince días."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "No vi a ningún otro de los apóstoles; solo vi a Santiago, el hermano del Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Dios me es testigo de que en esto que les escribo no miento."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "Más tarde fui a las regiones de Siria y Cilicia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "Pero en Judea las iglesias de Cristo no me conocían personalmente."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "Solo habían oído decir: «El que antes nos perseguía ahora predica la fe que procuraba destruir»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "Y por causa mía glorificaban a Dios."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "GAL.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "GAL.2"
+        ],
+        "human": "Gálatas 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "GAL.3"
+        ],
+        "human": "Gálatas 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "GAL.1"
+        ],
+        "human": "Gálatas 1",
+        "toc": true
+      },
+      "chapter_text": "Catorce años después subí de nuevo a Jerusalén, esta vez con Bernabé, llevando también a Tito. Fui en obediencia a una revelación y me reuní en privado con los que eran reconocidos como dirigentes. Entonces, expliqué el evangelio que predico entre los no judíos, para que todo mi esfuerzo no fuera en vano. Ahora bien, ni siquiera Tito, que me acompañaba, fue obligado a circuncidarse, aunque era griego. El problema era que algunos falsos hermanos se habían infiltrado entre nosotros para coartar la libertad que tenemos en Cristo Jesús a fin de esclavizarnos. Ni por un momento accedimos a someternos a ellos, pues queríamos que se preservara entre ustedes la verdad del evangelio.\nEn cuanto a los que eran reconocidos como personas importantes —aunque no me interesa lo que fueran, porque Dios no juzga por las apariencias—, esos tales no me impusieron nada nuevo. Al contrario, reconocieron que a mí se me había encomendado predicar el evangelio a los no judíos, de la misma manera que se le había encomendado a Pedro predicarlo a los judíos. El mismo Dios que facultó a Pedro como apóstol de los judíos me facultó también a mí como apóstol de los no judíos. En efecto, Santiago, Cefas y Juan, que eran considerados columnas, al reconocer la gracia que yo había recibido, nos dieron la mano a Bernabé y a mí en señal de compañerismo, de modo que nosotros fuéramos a los no judíos y ellos a los judíos. Solo nos pidieron que nos acordáramos de los pobres, y eso es precisamente lo que he venido haciendo con esmero.\n\nPues bien, cuando Cefas fue a Antioquía, le eché en cara su comportamiento condenable. Antes que llegaran algunos de parte de Santiago, él solía comer con los no judíos. Pero cuando aquellos llegaron, comenzó a retraerse y a separarse de los no judíos por temor a los partidarios de la circuncisión. Entonces los demás judíos se le unieron en su hipocresía, y hasta el mismo Bernabé se dejó arrastrar por esa conducta hipócrita.\nCuando vi que no actuaban rectamente, como corresponde a la verdad del evangelio, le dije a Cefas delante de todos: «Si tú, que eres judío, vives como si no lo fueras, ¿por qué obligas a los no judíos a practicar el judaísmo?\n»Nosotros somos judíos de nacimiento y no “pecadores paganos”. Sin embargo, al reconocer que nadie es justificado por las obras que demanda la Ley, sino por la fe en Jesucristo, también nosotros hemos puesto nuestra fe en Cristo Jesús, para ser justificados por la fe en él y no por las obras de la Ley; porque por estas nadie será justificado.\n»Ahora bien, cuando buscamos ser justificados por Cristo se hace evidente que nosotros mismos somos pecadores. ¿Quiere esto decir que Cristo está al servicio del pecado? ¡De ninguna manera! Si uno vuelve a edificar lo que antes había destruido, se hace transgresor. Yo, por mi parte, mediante la Ley he muerto a la Ley, a fin de vivir para Dios. He sido crucificado con Cristo, y ya no vivo yo, sino que Cristo vive en mí. Lo que ahora vivo en el cuerpo, lo vivo por la fe en el Hijo de Dios, quien me amó y dio su vida por mí. No desecho la gracia de Dios. Si la justicia se obtuviera mediante la Ley, Cristo habría muerto en vano».",
+      "chapter_html": "<div class=\"version vid128 iso6393spa\" data-vid=\"128\" data-iso6393=\"spa\">\n   <div class=\"book bkGAL\">\n      <div class=\"chapter ch2\" data-usfm=\"GAL.2\">\n         <div class=\"label\">2</div><div class=\"s1\"><span class=\"heading\">Los ap&#243;stoles aceptan a Pablo</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"GAL.2.1\"><span class=\"label\">1</span><span class=\"content\">Catorce a&#241;os despu&#233;s sub&#237; de nuevo a Jerusal&#233;n, esta vez con Bernab&#233;, llevando tambi&#233;n a Tito. </span></span><span class=\"verse v2\" data-usfm=\"GAL.2.2\"><span class=\"label\">2</span><span class=\"content\">Fui en obediencia a una revelaci&#243;n y me reun&#237; en privado con los que eran reconocidos como dirigentes. Entonces, expliqu&#233; el evangelio que predico entre los no jud&#237;os, para que todo mi esfuerzo no fuera en vano.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:2 </span><span class=\"fq\">para &#8230; vano</span><span class=\"ft\">. Lit. </span><span class=\"fqa\">para que yo no estuviera corriendo </span><span class=\"ft\">o </span><span class=\"fqa\">hubiera corrido en vano.</span></span></span><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"GAL.2.3\"><span class=\"label\">3</span><span class=\"content\">Ahora bien, ni siquiera Tito, que me acompa&#241;aba, fue obligado a circuncidarse, aunque era griego. </span></span><span class=\"verse v4\" data-usfm=\"GAL.2.4\"><span class=\"label\">4</span><span class=\"content\">El problema era que algunos falsos hermanos se hab&#237;an infiltrado entre nosotros para coartar la libertad que tenemos en Cristo Jes&#250;s a fin de esclavizarnos. </span></span><span class=\"verse v5\" data-usfm=\"GAL.2.5\"><span class=\"label\">5</span><span class=\"content\">Ni por un momento accedimos a someternos a ellos, pues quer&#237;amos que se preservara entre ustedes la verdad del evangelio.</span></span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"GAL.2.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"GAL.2.6\"><span class=\"label\">6</span><span class=\"content\">En cuanto a los que eran reconocidos como personas importantes &#8212;aunque no me interesa lo que fueran, porque Dios no juzga por las apariencias&#8212;, esos tales no me impusieron nada nuevo. </span></span><span class=\"verse v7\" data-usfm=\"GAL.2.7\"><span class=\"label\">7</span><span class=\"content\">Al contrario, reconocieron que a m&#237; se me hab&#237;a encomendado predicar el evangelio a los no jud&#237;os, de la misma manera que se le hab&#237;a encomendado a Pedro predicarlo a los jud&#237;os.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:7 </span><span class=\"fq\">el evangelio &#8230; jud&#237;os</span><span class=\"ft\">. Lit. </span><span class=\"fqa\">el evangelio de la incircuncisi&#243;n, como a Pedro el de la circuncisi&#243;n.</span></span></span><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"GAL.2.8\"><span class=\"label\">8</span><span class=\"content\">El mismo Dios que facult&#243; a Pedro como ap&#243;stol de los jud&#237;os</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:8 </span><span class=\"fq\">los jud&#237;os</span><span class=\"ft\">. Lit. </span><span class=\"fqa\">la circuncisi&#243;n</span><span class=\"ft\">; tambi&#233;n en v. 9.</span></span></span><span class=\"content\"> me facult&#243; tambi&#233;n a m&#237; como ap&#243;stol de los no jud&#237;os. </span></span><span class=\"verse v9\" data-usfm=\"GAL.2.9\"><span class=\"label\">9</span><span class=\"content\">En efecto, Santiago, Cefas</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:9 </span><span class=\"ft\">Nombre arameo de Pedro; tambi&#233;n en vv. 11 y 14.</span></span></span><span class=\"content\"> y Juan, que eran considerados columnas, al reconocer la gracia que yo hab&#237;a recibido, nos dieron la mano a Bernab&#233; y a m&#237; en se&#241;al de compa&#241;erismo, de modo que nosotros fu&#233;ramos a los no jud&#237;os y ellos a los jud&#237;os. </span></span><span class=\"verse v10\" data-usfm=\"GAL.2.10\"><span class=\"label\">10</span><span class=\"content\">Solo nos pidieron que nos acord&#225;ramos de los pobres, y eso es precisamente lo que he venido haciendo con esmero.</span></span></div><div class=\"s1\"><span class=\"heading\">Pablo se opone a Pedro</span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"GAL.2.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"GAL.2.11\"><span class=\"label\">11</span><span class=\"content\">Pues bien, cuando Cefas fue a Antioqu&#237;a, le ech&#233; en cara su comportamiento condenable. </span></span><span class=\"verse v12\" data-usfm=\"GAL.2.12\"><span class=\"label\">12</span><span class=\"content\">Antes que llegaran algunos de parte de Santiago, &#233;l sol&#237;a comer con los no jud&#237;os. Pero cuando aquellos llegaron, comenz&#243; a retraerse y a separarse de los no jud&#237;os por temor a los partidarios de la circuncisi&#243;n.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:12 </span><span class=\"fq\">partidarios de la circuncisi&#243;n</span><span class=\"ft\">. Alt. </span><span class=\"fqa\">los jud&#237;os.</span></span></span><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"GAL.2.13\"><span class=\"label\">13</span><span class=\"content\">Entonces los dem&#225;s jud&#237;os se le unieron en su hipocres&#237;a, y hasta el mismo Bernab&#233; se dej&#243; arrastrar por esa conducta hip&#243;crita.</span></span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"GAL.2.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"GAL.2.14\"><span class=\"label\">14</span><span class=\"content\">Cuando vi que no actuaban rectamente, como corresponde a la verdad del evangelio, le dije a Cefas delante de todos: &#171;Si t&#250;, que eres jud&#237;o, vives como si no lo fueras, &#191;por qu&#233; obligas a los no jud&#237;os a practicar el juda&#237;smo?</span></span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"GAL.2.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"GAL.2.15\"><span class=\"label\">15</span><span class=\"content\">&#187;Nosotros somos jud&#237;os de nacimiento y no &#8220;pecadores paganos&#8221;. </span></span><span class=\"verse v16\" data-usfm=\"GAL.2.16\"><span class=\"label\">16</span><span class=\"content\">Sin embargo, al reconocer que nadie es justificado por las obras que demanda la Ley, sino por la fe en Jesucristo, tambi&#233;n nosotros hemos puesto nuestra fe en Cristo Jes&#250;s, para ser justificados por la fe en &#233;l y no por las obras de la Ley; porque por estas nadie ser&#225; justificado.</span></span></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"GAL.2.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"GAL.2.17\"><span class=\"label\">17</span><span class=\"content\">&#187;Ahora bien, cuando buscamos ser justificados por</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:17 </span><span class=\"fq\">por</span><span class=\"ft\">. Lit. </span><span class=\"fqa\">en.</span></span></span><span class=\"content\"> Cristo se hace evidente que nosotros mismos somos pecadores. &#191;Quiere esto decir que Cristo est&#225; al servicio del pecado? &#161;De ninguna manera! </span></span><span class=\"verse v18\" data-usfm=\"GAL.2.18\"><span class=\"label\">18</span><span class=\"content\">Si uno vuelve a edificar lo que antes hab&#237;a destruido, se hace</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:18 </span><span class=\"fq\">Si uno vuelve &#8230; se hace</span><span class=\"ft\">. Lit. </span><span class=\"fqa\">Si vuelvo &#8230; me hago.</span></span></span><span class=\"content\"> transgresor. </span></span><span class=\"verse v19\" data-usfm=\"GAL.2.19\"><span class=\"label\">19</span><span class=\"content\">Yo, por mi parte, mediante la Ley he muerto a la Ley, a fin de vivir para Dios. </span></span><span class=\"verse v20\" data-usfm=\"GAL.2.20\"><span class=\"label\">20</span><span class=\"content\">He sido crucificado con Cristo, y ya no vivo yo, sino que Cristo vive en m&#237;. Lo que ahora vivo en el cuerpo, lo vivo por la fe en el Hijo de Dios, quien me am&#243; y dio su vida por m&#237;. </span></span><span class=\"verse v21\" data-usfm=\"GAL.2.21\"><span class=\"label\">21</span><span class=\"content\">No desecho la gracia de Dios. Si la justicia se obtuviera mediante la Ley, Cristo habr&#237;a muerto en vano&#187;.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:21 </span><span class=\"ft\">Algunos int&#233;rpretes consideran que la cita termina al final del v. 14.</span></span></span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Los apóstoles aceptan a Pablo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Catorce años después subí de nuevo a Jerusalén, esta vez con Bernabé, llevando también a Tito."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Fui en obediencia a una revelación y me reuní en privado con los que eran reconocidos como dirigentes. Entonces, expliqué el evangelio que predico entre los no judíos, para que todo mi esfuerzo no fuera en vano."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Ahora bien, ni siquiera Tito, que me acompañaba, fue obligado a circuncidarse, aunque era griego."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "El problema era que algunos falsos hermanos se habían infiltrado entre nosotros para coartar la libertad que tenemos en Cristo Jesús a fin de esclavizarnos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Ni por un momento accedimos a someternos a ellos, pues queríamos que se preservara entre ustedes la verdad del evangelio."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "En cuanto a los que eran reconocidos como personas importantes —aunque no me interesa lo que fueran, porque Dios no juzga por las apariencias—, esos tales no me impusieron nada nuevo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Al contrario, reconocieron que a mí se me había encomendado predicar el evangelio a los no judíos, de la misma manera que se le había encomendado a Pedro predicarlo a los judíos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "El mismo Dios que facultó a Pedro como apóstol de los judíos me facultó también a mí como apóstol de los no judíos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "En efecto, Santiago, Cefas y Juan, que eran considerados columnas, al reconocer la gracia que yo había recibido, nos dieron la mano a Bernabé y a mí en señal de compañerismo, de modo que nosotros fuéramos a los no judíos y ellos a los judíos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Solo nos pidieron que nos acordáramos de los pobres, y eso es precisamente lo que he venido haciendo con esmero."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Pablo se opone a Pedro"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Pues bien, cuando Cefas fue a Antioquía, le eché en cara su comportamiento condenable."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Antes que llegaran algunos de parte de Santiago, él solía comer con los no judíos. Pero cuando aquellos llegaron, comenzó a retraerse y a separarse de los no judíos por temor a los partidarios de la circuncisión."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Entonces los demás judíos se le unieron en su hipocresía, y hasta el mismo Bernabé se dejó arrastrar por esa conducta hipócrita."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Cuando vi que no actuaban rectamente, como corresponde a la verdad del evangelio, le dije a Cefas delante de todos: «Si tú, que eres judío, vives como si no lo fueras, ¿por qué obligas a los no judíos a practicar el judaísmo?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "»Nosotros somos judíos de nacimiento y no “pecadores paganos”."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Sin embargo, al reconocer que nadie es justificado por las obras que demanda la Ley, sino por la fe en Jesucristo, también nosotros hemos puesto nuestra fe en Cristo Jesús, para ser justificados por la fe en él y no por las obras de la Ley; porque por estas nadie será justificado."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "»Ahora bien, cuando buscamos ser justificados por Cristo se hace evidente que nosotros mismos somos pecadores. ¿Quiere esto decir que Cristo está al servicio del pecado? ¡De ninguna manera!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Si uno vuelve a edificar lo que antes había destruido, se hace transgresor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Yo, por mi parte, mediante la Ley he muerto a la Ley, a fin de vivir para Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "He sido crucificado con Cristo, y ya no vivo yo, sino que Cristo vive en mí. Lo que ahora vivo en el cuerpo, lo vivo por la fe en el Hijo de Dios, quien me amó y dio su vida por mí."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "No desecho la gracia de Dios. Si la justicia se obtuviera mediante la Ley, Cristo habría muerto en vano»."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "GAL.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "GAL.3"
+        ],
+        "human": "Gálatas 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "GAL.4"
+        ],
+        "human": "Gálatas 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "GAL.2"
+        ],
+        "human": "Gálatas 2",
+        "toc": true
+      },
+      "chapter_text": "¡Gálatas torpes! ¿Quién los ha hechizado a ustedes, ante quienes Jesucristo crucificado ha sido presentado tan claramente? Solo quiero que me respondan a esto: ¿Recibieron el Espíritu por las obras que demanda la Ley o por la fe con que aceptaron el mensaje? ¿Tan torpes son? Después de haber comenzado con el Espíritu, ¿pretenden ahora perfeccionarse con esfuerzos humanos? ¿Han tenido tantas experiencias en vano? ¡Si es que de veras fue en vano! Al darles Dios su Espíritu y hacer milagros entre ustedes, ¿lo hace por las obras que demanda la Ley o por la fe con que han aceptado el mensaje? Así fue con Abraham: «Creyó a Dios y esto se le tomó en cuenta como justicia».\nPor lo tanto, sepan que los verdaderos hijos de Abraham son aquellos que viven por la fe. En efecto, la Escritura, habiendo previsto que Dios justificaría por la fe a las naciones, anunció de antemano el evangelio a Abraham: «Por medio de ti serán bendecidas todas las naciones». Así que los que viven por la fe son bendecidos junto con Abraham, el hombre de fe.\nTodos los que dependen de las obras que demanda la Ley están bajo maldición, porque está escrito: «Maldito sea quien no practique fielmente todo lo que está escrito en el libro de la Ley». Ahora bien, es evidente que por la Ley nadie es justificado delante de Dios, porque «el justo vivirá por la fe». La Ley no se basa en la fe; por el contrario, «quien practique estas cosas vivirá por ellas». Cristo nos rescató de la maldición de la Ley al hacerse maldición por nosotros, pues está escrito: «Maldito todo el que es colgado de un madero». Así sucedió para que, por medio de Cristo Jesús, la bendición prometida a Abraham llegara a las naciones, y para que por la fe recibiéramos el Espíritu según la promesa.\n\nHermanos, voy a ponerles un ejemplo: aun en el caso de un pacto humano, nadie puede anularlo ni añadirle nada una vez que ha sido ratificado. Ahora bien, las promesas se hicieron a Abraham y a su descendencia. La Escritura no dice: «y a los descendientes», como refiriéndose a muchos, sino: «y a tu descendencia», dando a entender uno solo, que es Cristo. Lo que quiero decir es esto: la Ley, que vino cuatrocientos treinta años después, no anula el pacto que Dios había ratificado previamente; de haber sido así, quedaría sin efecto la promesa. Si la herencia se basa en la Ley, ya no se basa en la promesa; pero Dios se la concedió gratuitamente a Abraham mediante una promesa.\nEntonces, ¿cuál era el propósito de la Ley? Fue añadida por causa de las transgresiones hasta que viniera la descendencia a la cual se hizo la promesa. La Ley se promulgó por medio de ángeles, por conducto de un mediador. Ahora bien, no hace falta mediador si hay una sola parte y, sin embargo, Dios es uno solo.\nSi esto es así, ¿estará la Ley en contra de las promesas de Dios? ¡De ninguna manera! Si se hubiera promulgado una ley capaz de dar vida, entonces sí que la justicia se basaría en la Ley. Pero la Escritura declara que todo el mundo es prisionero del pecado, para que mediante la fe en Jesucristo lo prometido se les conceda a los que creen.\nAntes de venir esta fe, la Ley nos tenía presos, encerrados hasta que la fe se revelara. Así que la Ley vino a ser nuestro guía encargado de conducirnos a Cristo, para que fuéramos justificados por la fe. Pero ahora que ha llegado la fe, ya no estamos sujetos al guía.\n\nTodos ustedes son hijos de Dios mediante la fe en Cristo Jesús, porque todos los que han sido bautizados en Cristo se han revestido de Cristo. Ya no hay judío ni no judío, esclavo ni libre, hombre ni mujer, sino que todos ustedes son uno solo en Cristo Jesús. Y si ustedes pertenecen a Cristo, son la descendencia de Abraham y herederos según la promesa.",
+      "chapter_html": "<div class=\"version vid128 iso6393spa\" data-vid=\"128\" data-iso6393=\"spa\">\n   <div class=\"book bkGAL\">\n      <div class=\"chapter ch3\" data-usfm=\"GAL.3\">\n         <div class=\"label\">3</div><div class=\"s1\"><span class=\"heading\">La fe o la observancia de la Ley</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"GAL.3.1\"><span class=\"label\">1</span><span class=\"content\">&#161;G&#225;latas torpes! &#191;Qui&#233;n los ha hechizado a ustedes, ante quienes Jesucristo crucificado ha sido presentado tan claramente? </span></span><span class=\"verse v2\" data-usfm=\"GAL.3.2\"><span class=\"label\">2</span><span class=\"content\">Solo quiero que me respondan a esto: &#191;Recibieron el Esp&#237;ritu por las obras que demanda la Ley o por la fe con que aceptaron el mensaje? </span></span><span class=\"verse v3\" data-usfm=\"GAL.3.3\"><span class=\"label\">3</span><span class=\"content\">&#191;Tan torpes son? Despu&#233;s de haber comenzado con el Esp&#237;ritu, &#191;pretenden ahora perfeccionarse con esfuerzos humanos? </span></span><span class=\"verse v4\" data-usfm=\"GAL.3.4\"><span class=\"label\">4</span><span class=\"content\">&#191;Han tenido tantas experiencias en vano?</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:4 </span><span class=\"fq\">&#191;Han &#8230; en vano? </span><span class=\"ft\">Alt. </span><span class=\"fqa\">&#191;Tanto sufrir en vano?</span></span></span><span class=\"content\"> &#161;Si es que de veras fue en vano! </span></span><span class=\"verse v5\" data-usfm=\"GAL.3.5\"><span class=\"label\">5</span><span class=\"content\">Al darles Dios su Esp&#237;ritu y hacer milagros entre ustedes, &#191;lo hace por las obras que demanda la Ley o por la fe con que han aceptado el mensaje? </span></span><span class=\"verse v6\" data-usfm=\"GAL.3.6\"><span class=\"label\">6</span><span class=\"content\">As&#237; fue con Abraham: &#171;Crey&#243; a Dios y esto se le tom&#243; en cuenta como justicia&#187;.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:6 </span><span class=\"ft\">Gn 15:6.</span></span></span></span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"GAL.3.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"GAL.3.7\"><span class=\"label\">7</span><span class=\"content\">Por lo tanto, sepan que los verdaderos hijos de Abraham son aquellos que viven por la fe. </span></span><span class=\"verse v8\" data-usfm=\"GAL.3.8\"><span class=\"label\">8</span><span class=\"content\">En efecto, la Escritura, habiendo previsto que Dios justificar&#237;a por la fe a las naciones, anunci&#243; de antemano el evangelio a Abraham: &#171;Por medio de ti ser&#225;n bendecidas todas las naciones&#187;.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:8 </span><span class=\"ft\">Gn 12:3; 18:18; 22:18.</span></span></span><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"GAL.3.9\"><span class=\"label\">9</span><span class=\"content\">As&#237; que los que viven por la fe son bendecidos junto con Abraham, el hombre de fe.</span></span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"GAL.3.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"GAL.3.10\"><span class=\"label\">10</span><span class=\"content\">Todos los que dependen de las obras que demanda la Ley est&#225;n bajo maldici&#243;n, porque est&#225; escrito: &#171;Maldito sea quien no practique fielmente todo lo que est&#225; escrito en el libro de la Ley&#187;.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:10 </span><span class=\"ft\">Dt 27:26.</span></span></span><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"GAL.3.11\"><span class=\"label\">11</span><span class=\"content\">Ahora bien, es evidente que por la Ley nadie es justificado delante de Dios, porque &#171;el justo vivir&#225; por la fe&#187;.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:11 </span><span class=\"ft\">Hab 2:4.</span></span></span><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"GAL.3.12\"><span class=\"label\">12</span><span class=\"content\">La Ley no se basa en la fe; por el contrario, &#171;quien practique estas cosas vivir&#225; por ellas&#187;.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:12 </span><span class=\"ft\">Lv 18:5.</span></span></span><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"GAL.3.13\"><span class=\"label\">13</span><span class=\"content\">Cristo nos rescat&#243; de la maldici&#243;n de la Ley al hacerse maldici&#243;n por nosotros, pues est&#225; escrito: &#171;Maldito todo el que es colgado de un madero&#187;.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:13 </span><span class=\"ft\">Dt 21:23.</span></span></span><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"GAL.3.14\"><span class=\"label\">14</span><span class=\"content\">As&#237; sucedi&#243; para que, por medio de Cristo Jes&#250;s, la bendici&#243;n prometida a Abraham llegara a las naciones, y para que por la fe recibi&#233;ramos el Esp&#237;ritu seg&#250;n la promesa.</span></span></div><div class=\"s1\"><span class=\"heading\">La Ley y la promesa</span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"GAL.3.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"GAL.3.15\"><span class=\"label\">15</span><span class=\"content\">Hermanos, voy a ponerles un ejemplo: aun en el caso de un pacto</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:15 </span><span class=\"fq\">pacto</span><span class=\"ft\">. Alt. </span><span class=\"fqa\">testamento.</span></span></span><span class=\"content\"> humano, nadie puede anularlo ni a&#241;adirle nada una vez que ha sido ratificado. </span></span><span class=\"verse v16\" data-usfm=\"GAL.3.16\"><span class=\"label\">16</span><span class=\"content\">Ahora bien, las promesas se hicieron a Abraham y a su descendencia. La Escritura no dice: &#171;y a los descendientes&#187;, como refiri&#233;ndose a muchos, sino: &#171;y a tu descendencia&#187;, dando a entender uno solo, que es Cristo. </span></span><span class=\"verse v17\" data-usfm=\"GAL.3.17\"><span class=\"label\">17</span><span class=\"content\">Lo que quiero decir es esto: la Ley, que vino cuatrocientos treinta a&#241;os despu&#233;s, no anula el pacto que Dios hab&#237;a ratificado previamente; de haber sido as&#237;, quedar&#237;a sin efecto la promesa. </span></span><span class=\"verse v18\" data-usfm=\"GAL.3.18\"><span class=\"label\">18</span><span class=\"content\">Si la herencia se basa en la Ley, ya no se basa en la promesa; pero Dios se la concedi&#243; gratuitamente a Abraham mediante una promesa.</span></span></div><div class=\"p\"><span class=\"verse v18\" data-usfm=\"GAL.3.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"GAL.3.19\"><span class=\"label\">19</span><span class=\"content\">Entonces, &#191;cu&#225;l era el prop&#243;sito de la Ley? Fue a&#241;adida por causa de</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:19 </span><span class=\"fq\">por causa de</span><span class=\"ft\">. Alt. </span><span class=\"fqa\">para manifestar</span><span class=\"ft\">, o </span><span class=\"fqa\">para aumentar.</span></span></span><span class=\"content\"> las transgresiones hasta que viniera la descendencia a la cual se hizo la promesa. La Ley se promulg&#243; por medio de &#225;ngeles, por conducto de un mediador. </span></span><span class=\"verse v20\" data-usfm=\"GAL.3.20\"><span class=\"label\">20</span><span class=\"content\">Ahora bien, no hace falta mediador si hay una sola parte y, sin embargo, Dios es uno solo.</span></span></div><div class=\"p\"><span class=\"verse v20\" data-usfm=\"GAL.3.20\"><span class=\"content\">  </span></span><span class=\"verse v21\" data-usfm=\"GAL.3.21\"><span class=\"label\">21</span><span class=\"content\">Si esto es as&#237;, &#191;estar&#225; la Ley en contra de las promesas de Dios? &#161;De ninguna manera! Si se hubiera promulgado una ley capaz de dar vida, entonces s&#237; que la justicia se basar&#237;a en la Ley. </span></span><span class=\"verse v22\" data-usfm=\"GAL.3.22\"><span class=\"label\">22</span><span class=\"content\">Pero la Escritura declara que todo el mundo es prisionero del pecado,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:22 </span><span class=\"fq\">declara &#8230; pecado</span><span class=\"ft\">. Lit. </span><span class=\"fqa\">lo ha encerrado todo bajo pecado.</span></span></span><span class=\"content\"> para que mediante la fe en Jesucristo lo prometido se les conceda a los que creen.</span></span></div><div class=\"p\"><span class=\"verse v22\" data-usfm=\"GAL.3.22\"><span class=\"content\">  </span></span><span class=\"verse v23\" data-usfm=\"GAL.3.23\"><span class=\"label\">23</span><span class=\"content\">Antes de venir esta fe, la Ley nos ten&#237;a presos, encerrados hasta que la fe se revelara. </span></span><span class=\"verse v24\" data-usfm=\"GAL.3.24\"><span class=\"label\">24</span><span class=\"content\">As&#237; que la Ley vino a ser nuestro gu&#237;a encargado de conducirnos a Cristo,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:24 </span><span class=\"fq\">la Ley &#8230; Cristo</span><span class=\"ft\">. Alt. </span><span class=\"fqa\">la Ley fue nuestro gu&#237;a hasta que vino Cristo.</span></span></span><span class=\"content\"> para que fu&#233;ramos justificados por la fe. </span></span><span class=\"verse v25\" data-usfm=\"GAL.3.25\"><span class=\"label\">25</span><span class=\"content\">Pero ahora que ha llegado la fe, ya no estamos sujetos al gu&#237;a.</span></span></div><div class=\"s1\"><span class=\"heading\">Hijos de Dios</span></div><div class=\"p\"><span class=\"verse v25\" data-usfm=\"GAL.3.25\"><span class=\"content\">  </span></span><span class=\"verse v26\" data-usfm=\"GAL.3.26\"><span class=\"label\">26</span><span class=\"content\">Todos ustedes son hijos de Dios mediante la fe en Cristo Jes&#250;s, </span></span><span class=\"verse v27\" data-usfm=\"GAL.3.27\"><span class=\"label\">27</span><span class=\"content\">porque todos los que han sido bautizados en Cristo se han revestido de Cristo. </span></span><span class=\"verse v28\" data-usfm=\"GAL.3.28\"><span class=\"label\">28</span><span class=\"content\">Ya no hay jud&#237;o ni no jud&#237;o, esclavo ni libre, hombre ni mujer, sino que todos ustedes son uno solo en Cristo Jes&#250;s. </span></span><span class=\"verse v29\" data-usfm=\"GAL.3.29\"><span class=\"label\">29</span><span class=\"content\">Y si ustedes pertenecen a Cristo, son la descendencia de Abraham y herederos seg&#250;n la promesa.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "La fe o la observancia de la Ley"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "¡Gálatas torpes! ¿Quién los ha hechizado a ustedes, ante quienes Jesucristo crucificado ha sido presentado tan claramente?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Solo quiero que me respondan a esto: ¿Recibieron el Espíritu por las obras que demanda la Ley o por la fe con que aceptaron el mensaje?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "¿Tan torpes son? Después de haber comenzado con el Espíritu, ¿pretenden ahora perfeccionarse con esfuerzos humanos?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "¿Han tenido tantas experiencias en vano? ¡Si es que de veras fue en vano!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Al darles Dios su Espíritu y hacer milagros entre ustedes, ¿lo hace por las obras que demanda la Ley o por la fe con que han aceptado el mensaje?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Así fue con Abraham: «Creyó a Dios y esto se le tomó en cuenta como justicia»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Por lo tanto, sepan que los verdaderos hijos de Abraham son aquellos que viven por la fe."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "En efecto, la Escritura, habiendo previsto que Dios justificaría por la fe a las naciones, anunció de antemano el evangelio a Abraham: «Por medio de ti serán bendecidas todas las naciones»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Así que los que viven por la fe son bendecidos junto con Abraham, el hombre de fe."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Todos los que dependen de las obras que demanda la Ley están bajo maldición, porque está escrito: «Maldito sea quien no practique fielmente todo lo que está escrito en el libro de la Ley»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Ahora bien, es evidente que por la Ley nadie es justificado delante de Dios, porque «el justo vivirá por la fe»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "La Ley no se basa en la fe; por el contrario, «quien practique estas cosas vivirá por ellas»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Cristo nos rescató de la maldición de la Ley al hacerse maldición por nosotros, pues está escrito: «Maldito todo el que es colgado de un madero»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Así sucedió para que, por medio de Cristo Jesús, la bendición prometida a Abraham llegara a las naciones, y para que por la fe recibiéramos el Espíritu según la promesa."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "La Ley y la promesa"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Hermanos, voy a ponerles un ejemplo: aun en el caso de un pacto humano, nadie puede anularlo ni añadirle nada una vez que ha sido ratificado."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Ahora bien, las promesas se hicieron a Abraham y a su descendencia. La Escritura no dice: «y a los descendientes», como refiriéndose a muchos, sino: «y a tu descendencia», dando a entender uno solo, que es Cristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Lo que quiero decir es esto: la Ley, que vino cuatrocientos treinta años después, no anula el pacto que Dios había ratificado previamente; de haber sido así, quedaría sin efecto la promesa."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Si la herencia se basa en la Ley, ya no se basa en la promesa; pero Dios se la concedió gratuitamente a Abraham mediante una promesa."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Entonces, ¿cuál era el propósito de la Ley? Fue añadida por causa de las transgresiones hasta que viniera la descendencia a la cual se hizo la promesa. La Ley se promulgó por medio de ángeles, por conducto de un mediador."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Ahora bien, no hace falta mediador si hay una sola parte y, sin embargo, Dios es uno solo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "Si esto es así, ¿estará la Ley en contra de las promesas de Dios? ¡De ninguna manera! Si se hubiera promulgado una ley capaz de dar vida, entonces sí que la justicia se basaría en la Ley."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "Pero la Escritura declara que todo el mundo es prisionero del pecado, para que mediante la fe en Jesucristo lo prometido se les conceda a los que creen."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "Antes de venir esta fe, la Ley nos tenía presos, encerrados hasta que la fe se revelara."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "Así que la Ley vino a ser nuestro guía encargado de conducirnos a Cristo, para que fuéramos justificados por la fe."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "Pero ahora que ha llegado la fe, ya no estamos sujetos al guía."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Hijos de Dios"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 26,
+          "lines": [
+            "Todos ustedes son hijos de Dios mediante la fe en Cristo Jesús,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 27,
+          "lines": [
+            "porque todos los que han sido bautizados en Cristo se han revestido de Cristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 28,
+          "lines": [
+            "Ya no hay judío ni no judío, esclavo ni libre, hombre ni mujer, sino que todos ustedes son uno solo en Cristo Jesús."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 29,
+          "lines": [
+            "Y si ustedes pertenecen a Cristo, son la descendencia de Abraham y herederos según la promesa."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "GAL.4",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "GAL.4"
+        ],
+        "human": "Gálatas 4"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "GAL.5"
+        ],
+        "human": "Gálatas 5",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "GAL.3"
+        ],
+        "human": "Gálatas 3",
+        "toc": true
+      },
+      "chapter_text": "En otras palabras, mientras el heredero es menor de edad, en nada se diferencia de un esclavo, a pesar de ser dueño de todo. Al contrario, está bajo el cuidado de tutores y administradores hasta la fecha fijada por su padre. Así también nosotros, cuando éramos menores, estábamos esclavizados por los principios de este mundo. Pero cuando se cumplió el plazo, Dios envió a su Hijo, nacido de una mujer, nacido bajo la Ley, para rescatar a los que estaban bajo la Ley, a fin de que fuéramos adoptados como hijos. Ustedes ya son hijos. Dios ha enviado a nuestros corazones el Espíritu de su Hijo, que clama: «¡ Abba ! ¡Padre!». Así que ya no eres esclavo, sino hijo; y como eres hijo, Dios te ha hecho también heredero.\n\nAntes, cuando no conocían a Dios, ustedes eran esclavos de los que en realidad no son dioses. Pero ahora que conocen a Dios —o más bien que Dios los conoce a ustedes—, ¿cómo es que quieren regresar a esos principios ineficaces y sin valor? ¿Quieren volver a ser esclavos de ellos? ¡Ustedes siguen guardando los días, los meses, las estaciones y los años! Temo por ustedes, que tal vez me haya estado esforzando en vano.\nHermanos, yo me he identificado con ustedes. Les suplico que ahora se identifiquen conmigo. No es que me hayan ofendido en algo. Como bien saben, la primera vez que les prediqué acerca de las buenas noticias fue debido a una enfermedad y, aunque esta fue una prueba para ustedes, no me trataron con desprecio ni desdén. Al contrario, me recibieron como a un ángel de Dios, como si se tratara de Cristo Jesús. Pues bien, ¿qué pasó con todo ese entusiasmo? Me consta que de haberles sido posible se habrían sacado los ojos para dármelos. ¡Y ahora resulta que por decirles la verdad me he vuelto su enemigo!\nEsos que muestran mucho interés por ganárselos a ustedes no abrigan buenas intenciones. Lo que quieren es alejarlos de nosotros para que se entreguen a ellos. Está bien mostrar interés, con tal de que ese interés sea bien intencionado y constante, y que no se manifieste solo cuando yo estoy con ustedes. Queridos hijos, por quienes vuelvo a sufrir dolores de parto hasta que Cristo sea formado en ustedes, ¡cómo quisiera estar ahora con ustedes y hablarles de otra manera, porque lo que están haciendo me tiene perplejo!\n\nDíganme, los que quieren estar bajo la Ley, ¿por qué no prestan atención a lo que la Ley misma dice? ¿Acaso no está escrito que Abraham tuvo dos hijos, uno de la esclava y otro de la libre? El de la esclava nació por decisión humana, pero el de la libre nació en cumplimiento de una promesa.\nEse relato puede interpretarse en sentido figurado: estas mujeres representan dos pactos. Uno, que es Agar, procede del monte Sinaí y tiene hijos que nacen para ser esclavos. Agar representa el monte Sinaí en Arabia y corresponde a la actual ciudad de Jerusalén, porque junto con sus hijos vive en esclavitud. Pero la Jerusalén celestial es libre y esa es nuestra madre. Porque está escrito:\n«Tú, mujer estéril, que nunca has dado a luz,\n¡grita de alegría!\nTú, que nunca tuviste dolores de parto,\n¡prorrumpe en gritos de júbilo!\nPorque más hijos que la casada\ntendrá la desamparada».\nUstedes, hermanos, al igual que Isaac, son hijos por la promesa. Y así como en aquel tiempo el hijo nacido por decisión humana persiguió al hijo nacido por el Espíritu, así también sucede ahora. Pero ¿qué dice la Escritura? «¡Echa de aquí a la esclava y a su hijo! El hijo de la esclava jamás tendrá parte en la herencia con el hijo de la libre». Así que, hermanos, no somos hijos de la esclava, sino de la libre.",
+      "chapter_html": "<div class=\"version vid128 iso6393spa\" data-vid=\"128\" data-iso6393=\"spa\">\n   <div class=\"book bkGAL\">\n      <div class=\"chapter ch4\" data-usfm=\"GAL.4\">\n         <div class=\"label\">4</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"GAL.4.1\"><span class=\"label\">1</span><span class=\"content\">En otras palabras, mientras el heredero es menor de edad, en nada se diferencia de un esclavo, a pesar de ser due&#241;o de todo. </span></span><span class=\"verse v2\" data-usfm=\"GAL.4.2\"><span class=\"label\">2</span><span class=\"content\">Al contrario, est&#225; bajo el cuidado de tutores y administradores hasta la fecha fijada por su padre. </span></span><span class=\"verse v3\" data-usfm=\"GAL.4.3\"><span class=\"label\">3</span><span class=\"content\">As&#237; tambi&#233;n nosotros, cuando &#233;ramos menores, est&#225;bamos esclavizados por los principios</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:3 </span><span class=\"fq\">los principios</span><span class=\"ft\">. Alt. </span><span class=\"fqa\">los poderes espirituales</span><span class=\"ft\">, o </span><span class=\"fqa\">las normas</span><span class=\"ft\">; tambi&#233;n en v. 9.</span></span></span><span class=\"content\"> de este mundo. </span></span><span class=\"verse v4\" data-usfm=\"GAL.4.4\"><span class=\"label\">4</span><span class=\"content\">Pero cuando se cumpli&#243; el plazo,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:4 </span><span class=\"fq\">se cumpli&#243; el plazo</span><span class=\"ft\">. Lit. </span><span class=\"fqa\">vino la plenitud del tiempo.</span></span></span><span class=\"content\"> Dios envi&#243; a su Hijo, nacido de una mujer, nacido bajo la Ley, </span></span><span class=\"verse v5\" data-usfm=\"GAL.4.5\"><span class=\"label\">5</span><span class=\"content\">para rescatar a los que estaban bajo la Ley, a fin de que fu&#233;ramos adoptados como hijos. </span></span><span class=\"verse v6\" data-usfm=\"GAL.4.6\"><span class=\"label\">6</span><span class=\"content\">Ustedes ya son hijos. Dios ha enviado a nuestros corazones el Esp&#237;ritu de su Hijo, que clama: &#171;&#161;</span><span class=\"w\"><span class=\"tl\"><span class=\"content\">Abba</span></span></span><span class=\"content\">! &#161;Padre!&#187;. </span></span><span class=\"verse v7\" data-usfm=\"GAL.4.7\"><span class=\"label\">7</span><span class=\"content\">As&#237; que ya no eres esclavo, sino hijo; y como eres hijo, Dios te ha hecho tambi&#233;n heredero.</span></span></div><div class=\"s1\"><span class=\"heading\">Preocupaci&#243;n de Pablo por los g&#225;latas</span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"GAL.4.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"GAL.4.8\"><span class=\"label\">8</span><span class=\"content\">Antes, cuando no conoc&#237;an a Dios, ustedes eran esclavos de los que en realidad no son dioses. </span></span><span class=\"verse v9\" data-usfm=\"GAL.4.9\"><span class=\"label\">9</span><span class=\"content\">Pero ahora que conocen a Dios &#8212;o m&#225;s bien que Dios los conoce a ustedes&#8212;, &#191;c&#243;mo es que quieren regresar a esos principios ineficaces y sin valor? &#191;Quieren volver a ser esclavos de ellos? </span></span><span class=\"verse v10\" data-usfm=\"GAL.4.10\"><span class=\"label\">10</span><span class=\"content\">&#161;Ustedes siguen guardando los d&#237;as, los meses, las estaciones y los a&#241;os! </span></span><span class=\"verse v11\" data-usfm=\"GAL.4.11\"><span class=\"label\">11</span><span class=\"content\">Temo por ustedes, que tal vez me haya estado esforzando en vano.</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"GAL.4.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"GAL.4.12\"><span class=\"label\">12</span><span class=\"content\">Hermanos, yo me he identificado con ustedes. Les suplico que ahora se identifiquen conmigo. No es que me hayan ofendido en algo. </span></span><span class=\"verse v13\" data-usfm=\"GAL.4.13\"><span class=\"label\">13</span><span class=\"content\">Como bien saben, la primera vez que les prediqu&#233; acerca de las buenas noticias fue debido a una enfermedad </span></span><span class=\"verse v14\" data-usfm=\"GAL.4.14\"><span class=\"label\">14</span><span class=\"content\">y, aunque esta fue una prueba para ustedes, no me trataron con desprecio ni desd&#233;n. Al contrario, me recibieron como a un &#225;ngel de Dios, como si se tratara de Cristo Jes&#250;s. </span></span><span class=\"verse v15\" data-usfm=\"GAL.4.15\"><span class=\"label\">15</span><span class=\"content\">Pues bien, &#191;qu&#233; pas&#243; con todo ese entusiasmo? Me consta que de haberles sido posible se habr&#237;an sacado los ojos para d&#225;rmelos. </span></span><span class=\"verse v16\" data-usfm=\"GAL.4.16\"><span class=\"label\">16</span><span class=\"content\">&#161;Y ahora resulta que por decirles la verdad me he vuelto su enemigo!</span></span></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"GAL.4.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"GAL.4.17\"><span class=\"label\">17</span><span class=\"content\">Esos que muestran mucho inter&#233;s por gan&#225;rselos a ustedes no abrigan buenas intenciones. Lo que quieren es alejarlos de nosotros para que se entreguen a ellos. </span></span><span class=\"verse v18\" data-usfm=\"GAL.4.18\"><span class=\"label\">18</span><span class=\"content\">Est&#225; bien mostrar inter&#233;s, con tal de que ese inter&#233;s sea bien intencionado y constante, y que no se manifieste solo cuando yo estoy con ustedes. </span></span><span class=\"verse v19\" data-usfm=\"GAL.4.19\"><span class=\"label\">19</span><span class=\"content\">Queridos hijos, por quienes vuelvo a sufrir dolores de parto hasta que Cristo sea formado en ustedes, </span></span><span class=\"verse v20\" data-usfm=\"GAL.4.20\"><span class=\"label\">20</span><span class=\"content\">&#161;c&#243;mo quisiera estar ahora con ustedes y hablarles de otra manera, porque lo que est&#225;n haciendo me tiene perplejo!</span></span></div><div class=\"s1\"><span class=\"heading\">Agar y Sara</span></div><div class=\"p\"><span class=\"verse v20\" data-usfm=\"GAL.4.20\"><span class=\"content\">  </span></span><span class=\"verse v21\" data-usfm=\"GAL.4.21\"><span class=\"label\">21</span><span class=\"content\">D&#237;ganme, los que quieren estar bajo la Ley, &#191;por qu&#233; no prestan atenci&#243;n a lo que la Ley misma dice? </span></span><span class=\"verse v22\" data-usfm=\"GAL.4.22\"><span class=\"label\">22</span><span class=\"content\">&#191;Acaso no est&#225; escrito que Abraham tuvo dos hijos, uno de la esclava y otro de la libre? </span></span><span class=\"verse v23\" data-usfm=\"GAL.4.23\"><span class=\"label\">23</span><span class=\"content\">El de la esclava naci&#243; por decisi&#243;n humana, pero el de la libre naci&#243; en cumplimiento de una promesa.</span></span></div><div class=\"p\"><span class=\"verse v23\" data-usfm=\"GAL.4.23\"><span class=\"content\">  </span></span><span class=\"verse v24\" data-usfm=\"GAL.4.24\"><span class=\"label\">24</span><span class=\"content\">Ese relato puede interpretarse en sentido figurado: estas mujeres representan dos pactos. Uno, que es Agar, procede del monte Sina&#237; y tiene hijos que nacen para ser esclavos. </span></span><span class=\"verse v25\" data-usfm=\"GAL.4.25\"><span class=\"label\">25</span><span class=\"content\">Agar representa el monte Sina&#237; en Arabia y corresponde a la actual ciudad de Jerusal&#233;n, porque junto con sus hijos vive en esclavitud. </span></span><span class=\"verse v26\" data-usfm=\"GAL.4.26\"><span class=\"label\">26</span><span class=\"content\">Pero la Jerusal&#233;n celestial es libre y esa es nuestra madre. </span></span><span class=\"verse v27\" data-usfm=\"GAL.4.27\"><span class=\"label\">27</span><span class=\"content\">Porque est&#225; escrito:</span></span></div><div class=\"q1\"><span class=\"verse v27\" data-usfm=\"GAL.4.27\"><span class=\"content\">&#171;T&#250;, mujer est&#233;ril, que nunca has dado a luz,</span></span></div><div class=\"q2\"><span class=\"verse v27\" data-usfm=\"GAL.4.27\"><span class=\"content\">&#161;grita de alegr&#237;a!</span></span></div><div class=\"q1\"><span class=\"verse v27\" data-usfm=\"GAL.4.27\"><span class=\"content\">T&#250;, que nunca tuviste dolores de parto,</span></span></div><div class=\"q2\"><span class=\"verse v27\" data-usfm=\"GAL.4.27\"><span class=\"content\">&#161;prorrumpe en gritos de j&#250;bilo!</span></span></div><div class=\"q1\"><span class=\"verse v27\" data-usfm=\"GAL.4.27\"><span class=\"content\">Porque m&#225;s hijos que la casada</span></span></div><div class=\"q2\"><span class=\"verse v27\" data-usfm=\"GAL.4.27\"><span class=\"content\">tendr&#225; la desamparada&#187;.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:27 </span><span class=\"ft\">Is 54:1.</span></span></span></span></div><div class=\"p\"><span class=\"verse v27\" data-usfm=\"GAL.4.27\"><span class=\"content\">  </span></span><span class=\"verse v28\" data-usfm=\"GAL.4.28\"><span class=\"label\">28</span><span class=\"content\">Ustedes, hermanos, al igual que Isaac, son hijos por la promesa. </span></span><span class=\"verse v29\" data-usfm=\"GAL.4.29\"><span class=\"label\">29</span><span class=\"content\">Y as&#237; como en aquel tiempo el hijo nacido por decisi&#243;n humana persigui&#243; al hijo nacido por el Esp&#237;ritu, as&#237; tambi&#233;n sucede ahora. </span></span><span class=\"verse v30\" data-usfm=\"GAL.4.30\"><span class=\"label\">30</span><span class=\"content\">Pero &#191;qu&#233; dice la Escritura? &#171;&#161;Echa de aqu&#237; a la esclava y a su hijo! El hijo de la esclava jam&#225;s tendr&#225; parte en la herencia con el hijo de la libre&#187;.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:30 </span><span class=\"ft\">Gn 21:10.</span></span></span><span class=\"content\">  </span></span><span class=\"verse v31\" data-usfm=\"GAL.4.31\"><span class=\"label\">31</span><span class=\"content\">As&#237; que, hermanos, no somos hijos de la esclava, sino de la libre.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "En otras palabras, mientras el heredero es menor de edad, en nada se diferencia de un esclavo, a pesar de ser dueño de todo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Al contrario, está bajo el cuidado de tutores y administradores hasta la fecha fijada por su padre."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Así también nosotros, cuando éramos menores, estábamos esclavizados por los principios de este mundo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Pero cuando se cumplió el plazo, Dios envió a su Hijo, nacido de una mujer, nacido bajo la Ley,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "para rescatar a los que estaban bajo la Ley, a fin de que fuéramos adoptados como hijos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Ustedes ya son hijos. Dios ha enviado a nuestros corazones el Espíritu de su Hijo, que clama: «¡Abba! ¡Padre!»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Así que ya no eres esclavo, sino hijo; y como eres hijo, Dios te ha hecho también heredero."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Preocupación de Pablo por los gálatas"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Antes, cuando no conocían a Dios, ustedes eran esclavos de los que en realidad no son dioses."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Pero ahora que conocen a Dios —o más bien que Dios los conoce a ustedes—, ¿cómo es que quieren regresar a esos principios ineficaces y sin valor? ¿Quieren volver a ser esclavos de ellos?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "¡Ustedes siguen guardando los días, los meses, las estaciones y los años!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Temo por ustedes, que tal vez me haya estado esforzando en vano."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Hermanos, yo me he identificado con ustedes. Les suplico que ahora se identifiquen conmigo. No es que me hayan ofendido en algo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Como bien saben, la primera vez que les prediqué acerca de las buenas noticias fue debido a una enfermedad"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "y, aunque esta fue una prueba para ustedes, no me trataron con desprecio ni desdén. Al contrario, me recibieron como a un ángel de Dios, como si se tratara de Cristo Jesús."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Pues bien, ¿qué pasó con todo ese entusiasmo? Me consta que de haberles sido posible se habrían sacado los ojos para dármelos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "¡Y ahora resulta que por decirles la verdad me he vuelto su enemigo!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Esos que muestran mucho interés por ganárselos a ustedes no abrigan buenas intenciones. Lo que quieren es alejarlos de nosotros para que se entreguen a ellos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Está bien mostrar interés, con tal de que ese interés sea bien intencionado y constante, y que no se manifieste solo cuando yo estoy con ustedes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Queridos hijos, por quienes vuelvo a sufrir dolores de parto hasta que Cristo sea formado en ustedes,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "¡cómo quisiera estar ahora con ustedes y hablarles de otra manera, porque lo que están haciendo me tiene perplejo!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Agar y Sara"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "Díganme, los que quieren estar bajo la Ley, ¿por qué no prestan atención a lo que la Ley misma dice?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "¿Acaso no está escrito que Abraham tuvo dos hijos, uno de la esclava y otro de la libre?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "El de la esclava nació por decisión humana, pero el de la libre nació en cumplimiento de una promesa."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "Ese relato puede interpretarse en sentido figurado: estas mujeres representan dos pactos. Uno, que es Agar, procede del monte Sinaí y tiene hijos que nacen para ser esclavos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "Agar representa el monte Sinaí en Arabia y corresponde a la actual ciudad de Jerusalén, porque junto con sus hijos vive en esclavitud."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 26,
+          "lines": [
+            "Pero la Jerusalén celestial es libre y esa es nuestra madre."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 27,
+          "lines": [
+            "Porque está escrito:",
+            "«Tú, mujer estéril, que nunca has dado a luz,",
+            "¡grita de alegría!",
+            "Tú, que nunca tuviste dolores de parto,",
+            "¡prorrumpe en gritos de júbilo!",
+            "Porque más hijos que la casada",
+            "tendrá la desamparada»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 28,
+          "lines": [
+            "Ustedes, hermanos, al igual que Isaac, son hijos por la promesa."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 29,
+          "lines": [
+            "Y así como en aquel tiempo el hijo nacido por decisión humana persiguió al hijo nacido por el Espíritu, así también sucede ahora."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 30,
+          "lines": [
+            "Pero ¿qué dice la Escritura? «¡Echa de aquí a la esclava y a su hijo! El hijo de la esclava jamás tendrá parte en la herencia con el hijo de la libre»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 31,
+          "lines": [
+            "Así que, hermanos, no somos hijos de la esclava, sino de la libre."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "GAL.5",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "GAL.5"
+        ],
+        "human": "Gálatas 5"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "GAL.6"
+        ],
+        "human": "Gálatas 6",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "GAL.4"
+        ],
+        "human": "Gálatas 4",
+        "toc": true
+      },
+      "chapter_text": "Cristo nos libertó para que vivamos en libertad. Por lo tanto, manténganse firmes y no se sometan nuevamente al yugo de esclavitud.\nEscuchen bien: yo, Pablo, les digo que, si se hacen circuncidar, Cristo no les servirá de nada. De nuevo declaro que todo el que se hace circuncidar está obligado a practicar toda la Ley. Aquellos de entre ustedes que tratan de ser justificados por la Ley han roto con Cristo; han caído de la gracia. Nosotros, en cambio, por obra del Espíritu y mediante la fe, aguardamos con ansias la justicia que es nuestra esperanza. En Cristo Jesús de nada sirve estar o no estar circuncidados; lo que vale es la fe que actúa mediante el amor.\nUstedes estaban corriendo bien. ¿Quién los estorbó para que dejaran de obedecer a la verdad? Tal instigación no puede venir de Dios, que es quien los ha llamado.\n«Un poco de levadura fermenta toda la masa». Yo, por mi parte, tengo confianza en el Señor de que ustedes no pensarán de otra manera. El que los está perturbando será castigado, sea quien sea. Hermanos, si es verdad que yo todavía predico la circuncisión, ¿por qué se me sigue persiguiendo? Si tal fuera mi predicación, la cruz no ofendería tanto. ¡Ojalá que esos instigadores acabaran por mutilarse del todo!\nLes hablo así, hermanos, porque ustedes han sido llamados a ser libres; pero no se valgan de esa libertad para dar rienda suelta a sus pasiones. Más bien sírvanse unos a otros con amor. En efecto, toda la Ley se resume en un solo mandamiento: «Ama a tu prójimo como a ti mismo». Pero si siguen mordiéndose y devorándose, tengan cuidado, no sea que acaben por destruirse unos a otros.\n\nAsí que les digo: vivan por el Espíritu y no sigan los deseos de la carne; porque esta desea lo que es contrario al Espíritu y a su vez el Espíritu desea lo que es contrario a ella. Los dos se oponen entre sí, de modo que ustedes no pueden hacer lo que quieren. Pero si los guía el Espíritu, no están bajo la Ley.\nLas obras de la carne se conocen bien: inmoralidad sexual, impureza y libertinaje; idolatría y hechicería; odio, discordia, celos, arrebatos de ira, rivalidades, desacuerdos, sectarismos y envidia; borracheras, orgías y otras cosas parecidas. Les advierto ahora, como antes lo hice, que los que practican tales cosas no heredarán el reino de Dios.\nEn cambio, el fruto del Espíritu es amor, alegría, paz, paciencia, amabilidad, bondad, fidelidad, humildad y dominio propio. No hay ley que condene estas cosas. Los que son de Cristo Jesús han crucificado la carne con sus pasiones y deseos. Si el Espíritu nos da vida, andemos guiados por el Espíritu. No dejemos que la vanidad nos lleve a provocarnos y a envidiarnos unos a otros.",
+      "chapter_html": "<div class=\"version vid128 iso6393spa\" data-vid=\"128\" data-iso6393=\"spa\">\n   <div class=\"book bkGAL\">\n      <div class=\"chapter ch5\" data-usfm=\"GAL.5\">\n         <div class=\"label\">5</div><div class=\"s1\"><span class=\"heading\">Libertad en Cristo</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"GAL.5.1\"><span class=\"label\">1</span><span class=\"content\">Cristo nos libert&#243; para que vivamos en libertad. Por lo tanto, mant&#233;nganse firmes</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">5:1 </span><span class=\"fq\">Cristo &#8230; firmes</span><span class=\"ft\">. Var. </span><span class=\"fqa\">Por lo tanto, mant&#233;nganse firmes en la libertad con que Cristo nos libert&#243;.</span></span></span><span class=\"content\"> y no se sometan nuevamente al yugo de esclavitud.</span></span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"GAL.5.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"GAL.5.2\"><span class=\"label\">2</span><span class=\"content\">Escuchen bien: yo, Pablo, les digo que, si se hacen circuncidar, Cristo no les servir&#225; de nada. </span></span><span class=\"verse v3\" data-usfm=\"GAL.5.3\"><span class=\"label\">3</span><span class=\"content\">De nuevo declaro que todo el que se hace circuncidar est&#225; obligado a practicar toda la Ley. </span></span><span class=\"verse v4\" data-usfm=\"GAL.5.4\"><span class=\"label\">4</span><span class=\"content\">Aquellos de entre ustedes que tratan de ser justificados por la Ley han roto con Cristo; han ca&#237;do de la gracia. </span></span><span class=\"verse v5\" data-usfm=\"GAL.5.5\"><span class=\"label\">5</span><span class=\"content\">Nosotros, en cambio, por obra del Esp&#237;ritu y mediante la fe, aguardamos con ansias la justicia que es nuestra esperanza. </span></span><span class=\"verse v6\" data-usfm=\"GAL.5.6\"><span class=\"label\">6</span><span class=\"content\">En Cristo Jes&#250;s de nada sirve estar o no estar circuncidados; lo que vale es la fe que act&#250;a mediante el amor.</span></span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"GAL.5.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"GAL.5.7\"><span class=\"label\">7</span><span class=\"content\">Ustedes estaban corriendo bien. &#191;Qui&#233;n los estorb&#243; para que dejaran de obedecer a la verdad? </span></span><span class=\"verse v8\" data-usfm=\"GAL.5.8\"><span class=\"label\">8</span><span class=\"content\">Tal instigaci&#243;n no puede venir de Dios, que es quien los ha llamado.</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"GAL.5.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"GAL.5.9\"><span class=\"label\">9</span><span class=\"content\">&#171;Un poco de levadura fermenta toda la masa&#187;. </span></span><span class=\"verse v10\" data-usfm=\"GAL.5.10\"><span class=\"label\">10</span><span class=\"content\">Yo, por mi parte, tengo confianza en el Se&#241;or de que ustedes no pensar&#225;n de otra manera. El que los est&#225; perturbando ser&#225; castigado, sea quien sea. </span></span><span class=\"verse v11\" data-usfm=\"GAL.5.11\"><span class=\"label\">11</span><span class=\"content\">Hermanos, si es verdad que yo todav&#237;a predico la circuncisi&#243;n, &#191;por qu&#233; se me sigue persiguiendo? Si tal fuera mi predicaci&#243;n, la cruz no ofender&#237;a tanto. </span></span><span class=\"verse v12\" data-usfm=\"GAL.5.12\"><span class=\"label\">12</span><span class=\"content\">&#161;Ojal&#225; que esos instigadores acabaran por mutilarse del todo!</span></span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"GAL.5.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"GAL.5.13\"><span class=\"label\">13</span><span class=\"content\">Les hablo as&#237;, hermanos, porque ustedes han sido llamados a ser libres; pero no se valgan de esa libertad para dar rienda suelta a sus pasiones. M&#225;s bien s&#237;rvanse unos a otros con amor. </span></span><span class=\"verse v14\" data-usfm=\"GAL.5.14\"><span class=\"label\">14</span><span class=\"content\">En efecto, toda la Ley se resume en un solo mandamiento: &#171;Ama a tu pr&#243;jimo como a ti mismo&#187;.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">5:14 </span><span class=\"ft\">Lv 19:18.</span></span></span><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"GAL.5.15\"><span class=\"label\">15</span><span class=\"content\">Pero si siguen mordi&#233;ndose y devor&#225;ndose, tengan cuidado, no sea que acaben por destruirse unos a otros.</span></span></div><div class=\"s1\"><span class=\"heading\">La vida por el Esp&#237;ritu</span></div><div class=\"p\"><span class=\"verse v15\" data-usfm=\"GAL.5.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"GAL.5.16\"><span class=\"label\">16</span><span class=\"content\">As&#237; que les digo: vivan por el Esp&#237;ritu y no sigan los deseos de la carne; </span></span><span class=\"verse v17\" data-usfm=\"GAL.5.17\"><span class=\"label\">17</span><span class=\"content\">porque esta desea lo que es contrario al Esp&#237;ritu y a su vez el Esp&#237;ritu desea lo que es contrario a ella. Los dos se oponen entre s&#237;, de modo que ustedes no pueden hacer lo que quieren. </span></span><span class=\"verse v18\" data-usfm=\"GAL.5.18\"><span class=\"label\">18</span><span class=\"content\">Pero si los gu&#237;a el Esp&#237;ritu, no est&#225;n bajo la Ley.</span></span></div><div class=\"p\"><span class=\"verse v18\" data-usfm=\"GAL.5.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"GAL.5.19\"><span class=\"label\">19</span><span class=\"content\">Las obras de la carne se conocen bien: inmoralidad sexual, impureza y libertinaje; </span></span><span class=\"verse v20\" data-usfm=\"GAL.5.20\"><span class=\"label\">20</span><span class=\"content\">idolatr&#237;a y hechicer&#237;a; odio, discordia, celos, arrebatos de ira, rivalidades, desacuerdos, sectarismos </span></span><span class=\"verse v21\" data-usfm=\"GAL.5.21\"><span class=\"label\">21</span><span class=\"content\">y envidia; borracheras, org&#237;as y otras cosas parecidas. Les advierto ahora, como antes lo hice, que los que practican tales cosas no heredar&#225;n el reino de Dios.</span></span></div><div class=\"p\"><span class=\"verse v21\" data-usfm=\"GAL.5.21\"><span class=\"content\">  </span></span><span class=\"verse v22\" data-usfm=\"GAL.5.22\"><span class=\"label\">22</span><span class=\"content\">En cambio, el fruto del Esp&#237;ritu es amor, alegr&#237;a, paz, paciencia, amabilidad, bondad, fidelidad, </span></span><span class=\"verse v23\" data-usfm=\"GAL.5.23\"><span class=\"label\">23</span><span class=\"content\">humildad y dominio propio. No hay ley que condene estas cosas. </span></span><span class=\"verse v24\" data-usfm=\"GAL.5.24\"><span class=\"label\">24</span><span class=\"content\">Los que son de Cristo Jes&#250;s han crucificado la carne con sus pasiones y deseos. </span></span><span class=\"verse v25\" data-usfm=\"GAL.5.25\"><span class=\"label\">25</span><span class=\"content\">Si el Esp&#237;ritu nos da vida, andemos guiados por el Esp&#237;ritu. </span></span><span class=\"verse v26\" data-usfm=\"GAL.5.26\"><span class=\"label\">26</span><span class=\"content\">No dejemos que la vanidad nos lleve a provocarnos y a envidiarnos unos a otros.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Libertad en Cristo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Cristo nos libertó para que vivamos en libertad. Por lo tanto, manténganse firmes y no se sometan nuevamente al yugo de esclavitud."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Escuchen bien: yo, Pablo, les digo que, si se hacen circuncidar, Cristo no les servirá de nada."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "De nuevo declaro que todo el que se hace circuncidar está obligado a practicar toda la Ley."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Aquellos de entre ustedes que tratan de ser justificados por la Ley han roto con Cristo; han caído de la gracia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Nosotros, en cambio, por obra del Espíritu y mediante la fe, aguardamos con ansias la justicia que es nuestra esperanza."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "En Cristo Jesús de nada sirve estar o no estar circuncidados; lo que vale es la fe que actúa mediante el amor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Ustedes estaban corriendo bien. ¿Quién los estorbó para que dejaran de obedecer a la verdad?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Tal instigación no puede venir de Dios, que es quien los ha llamado."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "«Un poco de levadura fermenta toda la masa»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Yo, por mi parte, tengo confianza en el Señor de que ustedes no pensarán de otra manera. El que los está perturbando será castigado, sea quien sea."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Hermanos, si es verdad que yo todavía predico la circuncisión, ¿por qué se me sigue persiguiendo? Si tal fuera mi predicación, la cruz no ofendería tanto."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "¡Ojalá que esos instigadores acabaran por mutilarse del todo!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Les hablo así, hermanos, porque ustedes han sido llamados a ser libres; pero no se valgan de esa libertad para dar rienda suelta a sus pasiones. Más bien sírvanse unos a otros con amor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "En efecto, toda la Ley se resume en un solo mandamiento: «Ama a tu prójimo como a ti mismo»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Pero si siguen mordiéndose y devorándose, tengan cuidado, no sea que acaben por destruirse unos a otros."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "La vida por el Espíritu"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Así que les digo: vivan por el Espíritu y no sigan los deseos de la carne;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "porque esta desea lo que es contrario al Espíritu y a su vez el Espíritu desea lo que es contrario a ella. Los dos se oponen entre sí, de modo que ustedes no pueden hacer lo que quieren."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Pero si los guía el Espíritu, no están bajo la Ley."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Las obras de la carne se conocen bien: inmoralidad sexual, impureza y libertinaje;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "idolatría y hechicería; odio, discordia, celos, arrebatos de ira, rivalidades, desacuerdos, sectarismos"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "y envidia; borracheras, orgías y otras cosas parecidas. Les advierto ahora, como antes lo hice, que los que practican tales cosas no heredarán el reino de Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "En cambio, el fruto del Espíritu es amor, alegría, paz, paciencia, amabilidad, bondad, fidelidad,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "humildad y dominio propio. No hay ley que condene estas cosas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "Los que son de Cristo Jesús han crucificado la carne con sus pasiones y deseos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "Si el Espíritu nos da vida, andemos guiados por el Espíritu."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 26,
+          "lines": [
+            "No dejemos que la vanidad nos lleve a provocarnos y a envidiarnos unos a otros."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "GAL.6",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "GAL.6"
+        ],
+        "human": "Gálatas 6"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "EPH.1"
+        ],
+        "human": "Efesios 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "GAL.5"
+        ],
+        "human": "Gálatas 5",
+        "toc": true
+      },
+      "chapter_text": "Hermanos, si alguien es sorprendido en pecado, ustedes que son espirituales deben restaurarlo con una actitud humilde. Pero cuídese cada uno, porque también puede ser tentado. Ayúdense unos a otros a llevar sus cargas y así cumplirán la ley de Cristo. Si alguien cree ser algo, cuando en realidad no es nada, se engaña a sí mismo. Cada cual examine su propia conducta; y si tiene algo de qué presumir, que no se compare con nadie. Que cada uno cargue con su propia responsabilidad.\nEl que recibe instrucción en la palabra de Dios comparta todo lo bueno con quien le enseña.\nNo se engañen: de Dios nadie se burla. Cada uno cosecha lo que siembra. El que siembra para agradar a su carne, de esa misma carne cosechará destrucción; el que siembra para agradar al Espíritu, del Espíritu cosechará vida eterna. No nos cansemos de hacer el bien, porque a su debido tiempo cosecharemos si no nos damos por vencidos. Por lo tanto, siempre que tengamos la oportunidad, hagamos bien a todos y en especial a los de la familia de la fe.\n\n\nMiren que les escribo de mi puño y letra, ¡y con letras bien grandes!\n\nLos que tratan de obligarlos a ustedes a circuncidarse lo hacen únicamente para dar una buena impresión y evitar ser perseguidos por causa de la cruz de Cristo. Ni siquiera esos que están circuncidados obedecen la Ley; lo que pasa es que quieren obligarlos a ustedes a circuncidarse para luego jactarse de la señal que ustedes llevarían en el cuerpo. En cuanto a mí, jamás se me ocurra jactarme de otra cosa sino de la cruz de nuestro Señor Jesucristo, por quien el mundo ha sido crucificado para mí, y yo para el mundo. Para nada cuenta estar o no estar circuncidados; lo que importa es ser parte de una nueva creación. Paz y misericordia desciendan sobre todos los que siguen esta norma y sobre el Israel de Dios.\n\nPor lo demás, que nadie me cause más problemas, porque yo llevo en el cuerpo las cicatrices de Jesús.\n\nHermanos, que la gracia de nuestro Señor Jesucristo sea con el espíritu de cada uno de ustedes. Amén.",
+      "chapter_html": "<div class=\"version vid128 iso6393spa\" data-vid=\"128\" data-iso6393=\"spa\">\n   <div class=\"book bkGAL\">\n      <div class=\"chapter ch6\" data-usfm=\"GAL.6\">\n         <div class=\"label\">6</div><div class=\"s1\"><span class=\"heading\">La ayuda mutua</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"GAL.6.1\"><span class=\"label\">1</span><span class=\"content\">Hermanos, si alguien es sorprendido en pecado, ustedes que son espirituales deben restaurarlo con una actitud humilde. Pero cu&#237;dese cada uno, porque tambi&#233;n puede ser tentado. </span></span><span class=\"verse v2\" data-usfm=\"GAL.6.2\"><span class=\"label\">2</span><span class=\"content\">Ay&#250;dense unos a otros a llevar sus cargas y as&#237; cumplir&#225;n la ley de Cristo. </span></span><span class=\"verse v3\" data-usfm=\"GAL.6.3\"><span class=\"label\">3</span><span class=\"content\">Si alguien cree ser algo, cuando en realidad no es nada, se enga&#241;a a s&#237; mismo. </span></span><span class=\"verse v4\" data-usfm=\"GAL.6.4\"><span class=\"label\">4</span><span class=\"content\">Cada cual examine su propia conducta; y si tiene algo de qu&#233; presumir, que no se compare con nadie. </span></span><span class=\"verse v5\" data-usfm=\"GAL.6.5\"><span class=\"label\">5</span><span class=\"content\">Que cada uno cargue con su propia responsabilidad.</span></span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"GAL.6.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"GAL.6.6\"><span class=\"label\">6</span><span class=\"content\">El que recibe instrucci&#243;n en la palabra de Dios comparta todo lo bueno con quien le ense&#241;a.</span></span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"GAL.6.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"GAL.6.7\"><span class=\"label\">7</span><span class=\"content\">No se enga&#241;en: de Dios nadie se burla. Cada uno cosecha lo que siembra. </span></span><span class=\"verse v8\" data-usfm=\"GAL.6.8\"><span class=\"label\">8</span><span class=\"content\">El que siembra para agradar a su carne, de esa misma carne cosechar&#225; destrucci&#243;n; el que siembra para agradar al Esp&#237;ritu, del Esp&#237;ritu cosechar&#225; vida eterna. </span></span><span class=\"verse v9\" data-usfm=\"GAL.6.9\"><span class=\"label\">9</span><span class=\"content\">No nos cansemos de hacer el bien, porque a su debido tiempo cosecharemos si no nos damos por vencidos. </span></span><span class=\"verse v10\" data-usfm=\"GAL.6.10\"><span class=\"label\">10</span><span class=\"content\">Por lo tanto, siempre que tengamos la oportunidad, hagamos bien a todos y en especial a los de la familia de la fe.</span></span></div><div class=\"b\"></div><div class=\"s1\"><span class=\"heading\">No la circuncisi&#243;n, sino una nueva creaci&#243;n</span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"GAL.6.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"GAL.6.11\"><span class=\"label\">11</span><span class=\"content\">Miren que les escribo de mi pu&#241;o y letra, &#161;y con letras bien grandes!</span></span></div><div class=\"b\"></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"GAL.6.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"GAL.6.12\"><span class=\"label\">12</span><span class=\"content\">Los que tratan de obligarlos a ustedes a circuncidarse lo hacen &#250;nicamente para dar una buena impresi&#243;n y evitar ser perseguidos por causa de la cruz de Cristo. </span></span><span class=\"verse v13\" data-usfm=\"GAL.6.13\"><span class=\"label\">13</span><span class=\"content\">Ni siquiera esos que est&#225;n circuncidados obedecen la Ley; lo que pasa es que quieren obligarlos a ustedes a circuncidarse para luego jactarse de la se&#241;al que ustedes llevar&#237;an en el cuerpo. </span></span><span class=\"verse v14\" data-usfm=\"GAL.6.14\"><span class=\"label\">14</span><span class=\"content\">En cuanto a m&#237;, jam&#225;s se me ocurra jactarme de otra cosa sino de la cruz de nuestro Se&#241;or Jesucristo, por quien</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">6:14 </span><span class=\"fq\">por quien</span><span class=\"ft\">. Alt. </span><span class=\"fqa\">por la cual.</span></span></span><span class=\"content\"> el mundo ha sido crucificado para m&#237;, y yo para el mundo. </span></span><span class=\"verse v15\" data-usfm=\"GAL.6.15\"><span class=\"label\">15</span><span class=\"content\">Para nada cuenta estar o no estar circuncidados; lo que importa es ser parte de una nueva creaci&#243;n. </span></span><span class=\"verse v16\" data-usfm=\"GAL.6.16\"><span class=\"label\">16</span><span class=\"content\">Paz y misericordia desciendan sobre todos los que siguen esta norma y sobre el Israel de Dios.</span></span></div><div class=\"b\"></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"GAL.6.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"GAL.6.17\"><span class=\"label\">17</span><span class=\"content\">Por lo dem&#225;s, que nadie me cause m&#225;s problemas, porque yo llevo en el cuerpo las cicatrices de Jes&#250;s.</span></span></div><div class=\"b\"></div><div class=\"p\"><span class=\"verse v17\" data-usfm=\"GAL.6.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"GAL.6.18\"><span class=\"label\">18</span><span class=\"content\">Hermanos, que la gracia de nuestro Se&#241;or Jesucristo sea con el esp&#237;ritu de cada uno de ustedes. Am&#233;n.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "La ayuda mutua"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Hermanos, si alguien es sorprendido en pecado, ustedes que son espirituales deben restaurarlo con una actitud humilde. Pero cuídese cada uno, porque también puede ser tentado."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Ayúdense unos a otros a llevar sus cargas y así cumplirán la ley de Cristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Si alguien cree ser algo, cuando en realidad no es nada, se engaña a sí mismo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Cada cual examine su propia conducta; y si tiene algo de qué presumir, que no se compare con nadie."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Que cada uno cargue con su propia responsabilidad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "El que recibe instrucción en la palabra de Dios comparta todo lo bueno con quien le enseña."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "No se engañen: de Dios nadie se burla. Cada uno cosecha lo que siembra."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "El que siembra para agradar a su carne, de esa misma carne cosechará destrucción; el que siembra para agradar al Espíritu, del Espíritu cosechará vida eterna."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "No nos cansemos de hacer el bien, porque a su debido tiempo cosecharemos si no nos damos por vencidos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Por lo tanto, siempre que tengamos la oportunidad, hagamos bien a todos y en especial a los de la familia de la fe."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "No la circuncisión, sino una nueva creación"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Miren que les escribo de mi puño y letra, ¡y con letras bien grandes!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Los que tratan de obligarlos a ustedes a circuncidarse lo hacen únicamente para dar una buena impresión y evitar ser perseguidos por causa de la cruz de Cristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Ni siquiera esos que están circuncidados obedecen la Ley; lo que pasa es que quieren obligarlos a ustedes a circuncidarse para luego jactarse de la señal que ustedes llevarían en el cuerpo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "En cuanto a mí, jamás se me ocurra jactarme de otra cosa sino de la cruz de nuestro Señor Jesucristo, por quien el mundo ha sido crucificado para mí, y yo para el mundo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Para nada cuenta estar o no estar circuncidados; lo que importa es ser parte de una nueva creación."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Paz y misericordia desciendan sobre todos los que siguen esta norma y sobre el Israel de Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Por lo demás, que nadie me cause más problemas, porque yo llevo en el cuerpo las cicatrices de Jesús."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Hermanos, que la gracia de nuestro Señor Jesucristo sea con el espíritu de cada uno de ustedes. Amén."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,491 @@
+{
+  "book_usfm": "2TH",
+  "name": "2 Tesalonicenses",
+  "local_title": "La Biblia de las Américas",
+  "local_abbreviation": "LBLA",
+  "version_id": 89,
+  "publisher": {
+    "name": "The Lockman Foundation"
+  },
+  "copyright": {
+    "html": "1986, 1995, 1997 by The Lockman Foundation",
+    "text": "1986, 1995, 1997 by The Lockman Foundation"
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "2TH.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "2TH.1"
+        ],
+        "human": "2 Tesalonicenses 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "2TH.2"
+        ],
+        "human": "2 Tesalonicenses 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "1TH.5"
+        ],
+        "human": "1 Tesalonicenses 5",
+        "toc": true
+      },
+      "chapter_text": "Pablo, Silvano y Timoteo:\nA la iglesia de los tesalonicenses en Dios nuestro Padre y en el Señor Jesucristo: Gracia a vosotros y paz de parte de Dios el Padre y del Señor Jesucristo.\n\nSiempre tenemos que dar gracias a Dios por vosotros, hermanos, como es justo, porque vuestra fe aumenta grandemente, y el amor de cada uno de vosotros hacia los demás abunda más y más; de manera que nosotros mismos hablamos con orgullo de vosotros entre las iglesias de Dios, por vuestra perseverancia y fe en medio de todas las persecuciones y aflicciones que soportáis. Esta es una señal evidente del justo juicio de Dios, para que seáis considerados dignos del reino de Dios, por el cual en verdad estáis sufriendo.\n\nPorque después de todo, es justo delante de Dios retribuir con aflicción a los que os afligen, y daros alivio a vosotros que sois afligidos, y también a nosotros, cuando el Señor Jesús sea revelado desde el cielo con sus poderosos ángeles en llama de fuego, dando retribución a los que no conocen a Dios, y a los que no obedecen al evangelio de nuestro Señor Jesús. Estos sufrirán el castigo de eterna destrucción, excluidos de la presencia del Señor y de la gloria de su poder, cuando Él venga para ser glorificado en sus santos en aquel día y para ser admirado entre todos los que han creído; porque nuestro testimonio ha sido creído por vosotros.\n\nCon este fin también nosotros oramos siempre por vosotros, para que nuestro Dios os considere dignos de vuestro llamamiento y cumpla todo deseo de bondad y la obra de fe, con poder, a fin de que el nombre de nuestro Señor Jesús sea glorificado en vosotros, y vosotros en Él, conforme a la gracia de nuestro Dios y del Señor Jesucristo.",
+      "chapter_html": "<div class=\"version vid89 iso6393spa\" data-vid=\"89\" data-iso6393=\"spa\">\n   <div class=\"book bk2TH\">\n      <div class=\"chapter ch1\" data-usfm=\"2TH.1\">\n         <div class=\"label\">1</div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Saludo</span></span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"2TH.1.1\"><span class=\"label\">1</span><span class=\"content\">Pablo, Silvano y Timoteo:</span></span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"2TH.1.1\"><span class=\"content\">  </span><span class=\"bd\"><span class=\"content\">A</span></span><span class=\"content\"> la iglesia de los tesalonicenses en Dios nuestro Padre y en el Se&#241;or Jesucristo: </span></span><span class=\"verse v2\" data-usfm=\"2TH.1.2\"><span class=\"label\">2</span><span class=\"content\">Gracia a vosotros y paz de parte de Dios el Padre y del Se&#241;or Jesucristo.</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Acci&#243;n de gracias</span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"2TH.1.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"2TH.1.3\"><span class=\"label\">3</span><span class=\"content\">Siempre tenemos que dar gracias a Dios por vosotros, hermanos, como es justo, porque vuestra fe aumenta grandemente, y el amor de cada uno de</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:3 </span><span class=\"ft\">Lit., <span class=\"it\">de todos</span></span></span></span><span class=\"content\"> vosotros hacia los dem&#225;s abunda </span><span class=\"it\"><span class=\"content\">m&#225;s y m&#225;s;</span></span><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"2TH.1.4\"><span class=\"label\">4</span><span class=\"content\">de manera que nosotros mismos hablamos con orgullo de vosotros entre las iglesias de Dios, por vuestra perseverancia</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:4 </span><span class=\"ft\">O, <span class=\"it\">firmeza</span></span></span></span><span class=\"content\"> y fe en medio de todas las</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:4 </span><span class=\"ft\">Lit., <span class=\"it\">vuestras</span></span></span></span><span class=\"content\"> persecuciones y aflicciones que soport&#225;is. </span></span><span class=\"verse v5\" data-usfm=\"2TH.1.5\"><span class=\"label\">5</span><span class=\"it\"><span class=\"content\">Esta es</span></span><span class=\"content\"> una se&#241;al evidente del justo juicio de Dios, para que se&#225;is considerados dignos del reino de Dios, por el cual en verdad est&#225;is sufriendo.</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Justicia de la retribuci&#243;n final</span></span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"2TH.1.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"2TH.1.6\"><span class=\"label\">6</span><span class=\"content\">Porque despu&#233;s de todo</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:6 </span><span class=\"ft\">Lit., <span class=\"it\">Si en verdad</span></span></span></span><span class=\"content\">, es justo delante de</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:6 </span><span class=\"ft\">O, <span class=\"it\">para</span></span></span></span><span class=\"content\"> Dios retribuir con aflicci&#243;n a los que os afligen, </span></span><span class=\"verse v7\" data-usfm=\"2TH.1.7\"><span class=\"label\">7</span><span class=\"it\"><span class=\"content\">y daros</span></span><span class=\"content\"> alivio a vosotros que sois afligidos, y tambi&#233;n a nosotros</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:7 </span><span class=\"ft\">Lit., <span class=\"it\">juntamente con nosotros</span></span></span></span><span class=\"content\">, cuando el Se&#241;or Jes&#250;s sea revelado</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:7 </span><span class=\"ft\">Lit., <span class=\"it\">en la revelaci&#243;n del Se&#241;or Jes&#250;s</span></span></span></span><span class=\"content\"> desde el cielo con sus poderosos &#225;ngeles</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:7 </span><span class=\"ft\">Lit., <span class=\"it\">los &#225;ngeles de su poder</span></span></span></span><span class=\"content\"> en llama de fuego, </span></span><span class=\"verse v8\" data-usfm=\"2TH.1.8\"><span class=\"label\">8</span><span class=\"content\">dando retribuci&#243;n a los que no conocen a Dios, y a los que no obedecen al evangelio de nuestro Se&#241;or Jes&#250;s. </span></span><span class=\"verse v9\" data-usfm=\"2TH.1.9\"><span class=\"label\">9</span><span class=\"content\">Estos</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:9 </span><span class=\"ft\">Lit., <span class=\"it\">Los cuales</span></span></span></span><span class=\"content\"> sufrir&#225;n el castigo de eterna destrucci&#243;n, excluidos de la presencia del Se&#241;or y de la gloria de su poder, </span></span><span class=\"verse v10\" data-usfm=\"2TH.1.10\"><span class=\"label\">10</span><span class=\"content\">cuando &#201;l venga para ser glorificado en</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:10 </span><span class=\"ft\">O, <span class=\"it\">en las personas de</span></span></span></span><span class=\"content\"> sus santos en aquel d&#237;a y para ser admirado entre todos los que han cre&#237;do; porque nuestro testimonio ha sido cre&#237;do por vosotros.</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Oraci&#243;n por los tesalonicenses</span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"2TH.1.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"2TH.1.11\"><span class=\"label\">11</span><span class=\"content\">Con este fin tambi&#233;n nosotros oramos siempre por vosotros, para que nuestro Dios os considere</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:11 </span><span class=\"ft\">O, <span class=\"it\">haga</span></span></span></span><span class=\"content\"> dignos de vuestro llamamiento y cumpla todo deseo de bondad y la obra de fe, con poder, </span></span><span class=\"verse v12\" data-usfm=\"2TH.1.12\"><span class=\"label\">12</span><span class=\"content\">a fin de que el nombre de nuestro Se&#241;or Jes&#250;s sea glorificado en vosotros, y vosotros en &#201;l, conforme a la gracia de nuestro Dios y del Se&#241;or Jesucristo.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Pablo, Silvano y Timoteo:",
+            "A la iglesia de los tesalonicenses en Dios nuestro Padre y en el Señor Jesucristo:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Gracia a vosotros y paz de parte de Dios el Padre y del Señor Jesucristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Siempre tenemos que dar gracias a Dios por vosotros, hermanos, como es justo, porque vuestra fe aumenta grandemente, y el amor de cada uno de vosotros hacia los demás abunda más y más;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "de manera que nosotros mismos hablamos con orgullo de vosotros entre las iglesias de Dios, por vuestra perseverancia y fe en medio de todas las persecuciones y aflicciones que soportáis."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Esta es una señal evidente del justo juicio de Dios, para que seáis considerados dignos del reino de Dios, por el cual en verdad estáis sufriendo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Porque después de todo, es justo delante de Dios retribuir con aflicción a los que os afligen,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "y daros alivio a vosotros que sois afligidos, y también a nosotros, cuando el Señor Jesús sea revelado desde el cielo con sus poderosos ángeles en llama de fuego,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "dando retribución a los que no conocen a Dios, y a los que no obedecen al evangelio de nuestro Señor Jesús."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Estos sufrirán el castigo de eterna destrucción, excluidos de la presencia del Señor y de la gloria de su poder,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "cuando Él venga para ser glorificado en sus santos en aquel día y para ser admirado entre todos los que han creído; porque nuestro testimonio ha sido creído por vosotros."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Con este fin también nosotros oramos siempre por vosotros, para que nuestro Dios os considere dignos de vuestro llamamiento y cumpla todo deseo de bondad y la obra de fe, con poder,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "a fin de que el nombre de nuestro Señor Jesús sea glorificado en vosotros, y vosotros en Él, conforme a la gracia de nuestro Dios y del Señor Jesucristo."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "2TH.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "2TH.2"
+        ],
+        "human": "2 Tesalonicenses 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "2TH.3"
+        ],
+        "human": "2 Tesalonicenses 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "2TH.1"
+        ],
+        "human": "2 Tesalonicenses 1",
+        "toc": true
+      },
+      "chapter_text": "Pero con respecto a la venida de nuestro Señor Jesucristo y a nuestra reunión con Él, os rogamos, hermanos, que no seáis sacudidos fácilmente en vuestro modo de pensar, ni os alarméis, ni por espíritu, ni por palabra, ni por carta como si fuera de nosotros, en el sentido de que el día del Señor ha llegado. Que nadie os engañe en ninguna manera, porque no vendrá sin que primero venga la apostasía y sea revelado el hombre de pecado, el hijo de perdición, el cual se opone y se exalta sobre todo lo que se llama dios o es objeto de culto, de manera que se sienta en el templo de Dios, presentándose como si fuera Dios. ¿No os acordáis de que cuando yo estaba todavía con vosotros os decía esto? Y vosotros sabéis lo que lo detiene por ahora, para ser revelado a su debido tiempo. Porque el misterio de la iniquidad ya está en acción, solo que aquel que por ahora lo detiene, lo hará hasta que él mismo sea quitado de en medio. Y entonces será revelado ese inicuo, a quien el Señor matará con el espíritu de su boca, y destruirá con el resplandor de su venida; inicuo cuya venida es conforme a la actividad de Satanás, con todo poder y señales y prodigios mentirosos, y con todo engaño de iniquidad para los que se pierden, porque no recibieron el amor de la verdad para ser salvos. Por esto Dios les enviará un poder engañoso, para que crean en la mentira, a fin de que sean juzgados todos los que no creyeron en la verdad sino que se complacieron en la iniquidad.\n\nPero nosotros siempre tenemos que dar gracias a Dios por vosotros, hermanos amados por el Señor, porque Dios os ha escogido desde el principio para salvación mediante la santificación por el Espíritu y la fe en la verdad. Y fue para esto que Él os llamó mediante nuestro evangelio, para que alcancéis la gloria de nuestro Señor Jesucristo. Así que, hermanos, estad firmes y conservad las doctrinas que os fueron enseñadas, ya de palabra, ya por carta nuestra.\nY que nuestro Señor Jesucristo mismo, y Dios nuestro Padre, que nos amó y nos dio consuelo eterno y buena esperanza por gracia, consuele vuestros corazones y os afirme en toda obra y palabra buena.",
+      "chapter_html": "<div class=\"version vid89 iso6393spa\" data-vid=\"89\" data-iso6393=\"spa\">\n   <div class=\"book bk2TH\">\n      <div class=\"chapter ch2\" data-usfm=\"2TH.2\">\n         <div class=\"label\">2</div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">La venida del Se&#241;or y el hombre de pecado</span></span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"2TH.2.1\"><span class=\"label\">1</span><span class=\"content\">Pero con respecto a la venida</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:1 </span><span class=\"ft\">O, <span class=\"it\">presencia</span></span></span></span><span class=\"content\"> de nuestro Se&#241;or Jesucristo y a nuestra reuni&#243;n con &#201;l, os rogamos, hermanos, </span></span><span class=\"verse v2\" data-usfm=\"2TH.2.2\"><span class=\"label\">2</span><span class=\"content\">que no se&#225;is sacudidos f&#225;cilmente en vuestro modo de pensar</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:2 </span><span class=\"ft\">Lit., <span class=\"it\">vuestra mente</span></span></span></span><span class=\"content\">, ni os alarm&#233;is, ni por esp&#237;ritu, ni por palabra, ni por carta como </span><span class=\"it\"><span class=\"content\">si fuera</span></span><span class=\"content\"> de nosotros, en el sentido de que el d&#237;a del Se&#241;or ha llegado. </span></span><span class=\"verse v3\" data-usfm=\"2TH.2.3\"><span class=\"label\">3</span><span class=\"content\">Que nadie os enga&#241;e en ninguna manera, porque </span><span class=\"it\"><span class=\"content\">no vendr&#225;</span></span><span class=\"content\"> sin que primero venga la apostas&#237;a y sea revelado el hombre de pecado</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:3 </span><span class=\"ft\">Algunos mss. antiguos dicen: <span class=\"it\">sin ley</span></span></span></span><span class=\"content\">, el hijo de perdici&#243;n, </span></span><span class=\"verse v4\" data-usfm=\"2TH.2.4\"><span class=\"label\">4</span><span class=\"content\">el cual se opone y se exalta sobre todo lo que se llama dios o </span><span class=\"it\"><span class=\"content\">es</span></span><span class=\"content\"> objeto de culto, de manera que se sienta en el templo de Dios</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:4 </span><span class=\"ft\">Algunos mss. agregan: <span class=\"it\">como Dios</span></span></span></span><span class=\"content\">, present&#225;ndose como si fuera Dios. </span></span><span class=\"verse v5\" data-usfm=\"2TH.2.5\"><span class=\"label\">5</span><span class=\"content\">&#191;No os acord&#225;is de que cuando yo estaba todav&#237;a con vosotros os dec&#237;a esto? </span></span><span class=\"verse v6\" data-usfm=\"2TH.2.6\"><span class=\"label\">6</span><span class=\"content\">Y vosotros sab&#233;is lo que lo detiene </span><span class=\"it\"><span class=\"content\">por</span></span><span class=\"content\"> ahora, para ser revelado a su </span><span class=\"it\"><span class=\"content\">debido</span></span><span class=\"content\"> tiempo. </span></span><span class=\"verse v7\" data-usfm=\"2TH.2.7\"><span class=\"label\">7</span><span class=\"content\">Porque el misterio de la iniquidad</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:7 </span><span class=\"ft\">O, <span class=\"it\">de estar sin ley</span></span></span></span><span class=\"content\"> ya est&#225; en acci&#243;n, solo </span><span class=\"it\"><span class=\"content\">que</span></span><span class=\"content\"> aquel que </span><span class=\"it\"><span class=\"content\">por</span></span><span class=\"content\"> ahora lo detiene, </span><span class=\"it\"><span class=\"content\">lo har&#225;</span></span><span class=\"content\"> hasta que &#233;l mismo sea quitado de en medio. </span></span><span class=\"verse v8\" data-usfm=\"2TH.2.8\"><span class=\"label\">8</span><span class=\"content\">Y entonces ser&#225; revelado ese inicuo</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:8 </span><span class=\"ft\">O, <span class=\"it\">que est&#225; sin ley</span></span></span></span><span class=\"content\">, a quien el Se&#241;or matar&#225; con el esp&#237;ritu</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:8 </span><span class=\"ft\">O, <span class=\"it\">soplo</span></span></span></span><span class=\"content\"> de su boca, y destruir&#225; con el resplandor</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:8 </span><span class=\"ft\">O, <span class=\"it\">la manifestaci&#243;n</span></span></span></span><span class=\"content\"> de su venida</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:8 </span><span class=\"ft\">O, <span class=\"it\">presencia</span></span></span></span><span class=\"content\">; </span></span><span class=\"verse v9\" data-usfm=\"2TH.2.9\"><span class=\"label\">9</span><span class=\"it\"><span class=\"content\">inicuo</span></span><span class=\"content\"> cuya venida</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:9 </span><span class=\"ft\">O, <span class=\"it\">presencia</span></span></span></span><span class=\"content\"> es conforme a la actividad</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:9 </span><span class=\"ft\">O, <span class=\"it\">acci&#243;n,</span> o, <span class=\"it\">al poder</span></span></span></span><span class=\"content\"> de Satan&#225;s, con todo poder y se&#241;ales</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:9 </span><span class=\"ft\">O, <span class=\"it\">milagros</span></span></span></span><span class=\"content\"> y prodigios mentirosos</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:9 </span><span class=\"ft\">O, <span class=\"it\">falsos</span></span></span></span><span class=\"content\">, </span></span><span class=\"verse v10\" data-usfm=\"2TH.2.10\"><span class=\"label\">10</span><span class=\"content\">y con todo enga&#241;o de iniquidad para los que se pierden, porque no recibieron el amor de la verdad para ser salvos. </span></span><span class=\"verse v11\" data-usfm=\"2TH.2.11\"><span class=\"label\">11</span><span class=\"content\">Por esto Dios les enviar&#225;</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:11 </span><span class=\"ft\">Lit., <span class=\"it\">env&#237;a</span></span></span></span><span class=\"content\"> un poder enga&#241;oso</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:11 </span><span class=\"ft\">O, <span class=\"it\">influencia,</span> o, <span class=\"it\">actividad enga&#241;osa</span></span></span></span><span class=\"content\">, para que crean en la mentira</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:11 </span><span class=\"ft\">O, <span class=\"it\">lo falso</span></span></span></span><span class=\"content\">, </span></span><span class=\"verse v12\" data-usfm=\"2TH.2.12\"><span class=\"label\">12</span><span class=\"content\">a fin de que sean juzgados</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:12 </span><span class=\"ft\">O, <span class=\"it\">condenados</span></span></span></span><span class=\"content\"> todos los que no creyeron en la verdad sino que se complacieron en</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:12 </span><span class=\"ft\">O, <span class=\"it\">aprobaron</span></span></span></span><span class=\"content\"> la iniquidad.</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Firmes en la doctrina</span></span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"2TH.2.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"2TH.2.13\"><span class=\"label\">13</span><span class=\"content\">Pero nosotros siempre tenemos que dar gracias a Dios por vosotros, hermanos amados por el Se&#241;or, porque Dios os ha escogido desde el principio</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:13 </span><span class=\"ft\">Algunos mss. antiguos dicen: <span class=\"it\">como primicias</span></span></span></span><span class=\"content\"> para salvaci&#243;n mediante</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:13 </span><span class=\"ft\">Lit., <span class=\"it\">en</span></span></span></span><span class=\"content\"> la santificaci&#243;n por el</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:13 </span><span class=\"ft\">Lit., <span class=\"it\">del</span></span></span></span><span class=\"content\"> Esp&#237;ritu y la fe en la verdad. </span></span><span class=\"verse v14\" data-usfm=\"2TH.2.14\"><span class=\"label\">14</span><span class=\"content\">Y fue para esto que &#201;l os llam&#243; mediante nuestro evangelio, para que alcanc&#233;is</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:14 </span><span class=\"ft\">Lit., <span class=\"it\">para ganar</span></span></span></span><span class=\"content\"> la gloria de nuestro Se&#241;or Jesucristo. </span></span><span class=\"verse v15\" data-usfm=\"2TH.2.15\"><span class=\"label\">15</span><span class=\"content\">As&#237; que, hermanos, estad firmes y conservad las doctrinas</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:15 </span><span class=\"ft\">O, <span class=\"it\">tradiciones</span></span></span></span><span class=\"content\"> que os fueron ense&#241;adas, ya de palabra, ya por carta nuestra.</span></span></div><div class=\"p\"><span class=\"verse v15\" data-usfm=\"2TH.2.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"2TH.2.16\"><span class=\"label\">16</span><span class=\"content\">Y que nuestro Se&#241;or Jesucristo mismo, y Dios nuestro Padre, que nos am&#243; y nos dio consuelo eterno y buena esperanza por gracia, </span></span><span class=\"verse v17\" data-usfm=\"2TH.2.17\"><span class=\"label\">17</span><span class=\"content\">consuele vuestros corazones y </span><span class=\"it\"><span class=\"content\">os</span></span><span class=\"content\"> afirme en toda obra y palabra buena.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Pero con respecto a la venida de nuestro Señor Jesucristo y a nuestra reunión con Él, os rogamos, hermanos,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "que no seáis sacudidos fácilmente en vuestro modo de pensar, ni os alarméis, ni por espíritu, ni por palabra, ni por carta como si fuera de nosotros, en el sentido de que el día del Señor ha llegado."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Que nadie os engañe en ninguna manera, porque no vendrá sin que primero venga la apostasía y sea revelado el hombre de pecado, el hijo de perdición,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "el cual se opone y se exalta sobre todo lo que se llama dios o es objeto de culto, de manera que se sienta en el templo de Dios, presentándose como si fuera Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "¿No os acordáis de que cuando yo estaba todavía con vosotros os decía esto?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Y vosotros sabéis lo que lo detiene por ahora, para ser revelado a su debido tiempo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Porque el misterio de la iniquidad ya está en acción, solo que aquel que por ahora lo detiene, lo hará hasta que él mismo sea quitado de en medio."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Y entonces será revelado ese inicuo, a quien el Señor matará con el espíritu de su boca, y destruirá con el resplandor de su venida;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "inicuo cuya venida es conforme a la actividad de Satanás, con todo poder y señales y prodigios mentirosos,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "y con todo engaño de iniquidad para los que se pierden, porque no recibieron el amor de la verdad para ser salvos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Por esto Dios les enviará un poder engañoso, para que crean en la mentira,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "a fin de que sean juzgados todos los que no creyeron en la verdad sino que se complacieron en la iniquidad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Pero nosotros siempre tenemos que dar gracias a Dios por vosotros, hermanos amados por el Señor, porque Dios os ha escogido desde el principio para salvación mediante la santificación por el Espíritu y la fe en la verdad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Y fue para esto que Él os llamó mediante nuestro evangelio, para que alcancéis la gloria de nuestro Señor Jesucristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Así que, hermanos, estad firmes y conservad las doctrinas que os fueron enseñadas, ya de palabra, ya por carta nuestra."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Y que nuestro Señor Jesucristo mismo, y Dios nuestro Padre, que nos amó y nos dio consuelo eterno y buena esperanza por gracia,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "consuele vuestros corazones y os afirme en toda obra y palabra buena."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "2TH.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "2TH.3"
+        ],
+        "human": "2 Tesalonicenses 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "1TI.1"
+        ],
+        "human": "1 Timoteo 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "2TH.2"
+        ],
+        "human": "2 Tesalonicenses 2",
+        "toc": true
+      },
+      "chapter_text": "Finalmente, hermanos, orad por nosotros, para que la palabra del Señor se extienda rápidamente y sea glorificada, así como sucedió también con vosotros; y para que seamos librados de hombres perversos y malos, porque no todos tienen fe. Pero fiel es el Señor quien os fortalecerá y protegerá del maligno. Y tenemos confianza en el Señor respecto de vosotros, de que hacéis y haréis lo que ordenamos. Que el Señor dirija vuestros corazones hacia el amor de Dios y hacia la perseverancia de Cristo.\n\nAhora bien, hermanos, os mandamos en el nombre de nuestro Señor Jesucristo, que os apartéis de todo hermano que ande desordenadamente, y no según la doctrina que recibisteis de nosotros. Pues vosotros mismos sabéis cómo debéis seguir nuestro ejemplo, porque no obramos de manera indisciplinada entre vosotros, ni comimos de balde el pan de nadie, sino que con trabajo y fatiga trabajamos día y noche a fin de no ser carga a ninguno de vosotros; no porque no tengamos derecho a ello, sino para ofrecernos como modelo a vosotros a fin de que sigáis nuestro ejemplo. Porque aun cuando estábamos con vosotros os ordenábamos esto: Si alguno no quiere trabajar, que tampoco coma. Porque oímos que algunos entre vosotros andan desordenadamente, sin trabajar, pero andan metiéndose en todo. A tales personas les ordenamos y exhortamos en el Señor Jesucristo, que trabajando tranquilamente, coman su propio pan. Pero vosotros, hermanos, no os canséis de hacer el bien. Y si alguno no obedece nuestra enseñanza en esta carta, señalad al tal y no os asociéis con él, para que se avergüence. Sin embargo, no lo tengáis por enemigo, sino amonestadle como a un hermano.\n\nY que el mismo Señor de paz siempre os conceda paz en todas las circunstancias. El Señor sea con todos vosotros.\nYo, Pablo, escribo este saludo con mi propia mano, y esta es una señal distintiva en todas mis cartas; así escribo yo. La gracia de nuestro Señor Jesucristo sea con todos vosotros.",
+      "chapter_html": "<div class=\"version vid89 iso6393spa\" data-vid=\"89\" data-iso6393=\"spa\">\n   <div class=\"book bk2TH\">\n      <div class=\"chapter ch3\" data-usfm=\"2TH.3\">\n         <div class=\"label\">3</div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Llamamiento a la oraci&#243;n</span></span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"2TH.3.1\"><span class=\"label\">1</span><span class=\"content\">Finalmente, hermanos, orad por nosotros, para que la palabra del Se&#241;or se extienda r&#225;pidamente</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:1 </span><span class=\"ft\">Lit., <span class=\"it\">corra</span></span></span></span><span class=\"content\"> y sea glorificada, as&#237; como </span><span class=\"it\"><span class=\"content\">sucedi&#243;</span></span><span class=\"content\"> tambi&#233;n con vosotros; </span></span><span class=\"verse v2\" data-usfm=\"2TH.3.2\"><span class=\"label\">2</span><span class=\"content\">y para que seamos librados de hombres perversos</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:2 </span><span class=\"ft\">O, <span class=\"it\">irrazonables</span></span></span></span><span class=\"content\"> y malos, porque no todos tienen fe</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:2 </span><span class=\"ft\">O, <span class=\"it\">la fe</span></span></span></span><span class=\"content\">. </span></span><span class=\"verse v3\" data-usfm=\"2TH.3.3\"><span class=\"label\">3</span><span class=\"content\">Pero fiel es el Se&#241;or quien os fortalecer&#225; y proteger&#225; del maligno</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:3 </span><span class=\"ft\">O, <span class=\"it\">del mal</span></span></span></span><span class=\"content\">. </span></span><span class=\"verse v4\" data-usfm=\"2TH.3.4\"><span class=\"label\">4</span><span class=\"content\">Y tenemos confianza en el Se&#241;or respecto de vosotros, de que hac&#233;is y har&#233;is lo que ordenamos. </span></span><span class=\"verse v5\" data-usfm=\"2TH.3.5\"><span class=\"label\">5</span><span class=\"content\">Que el Se&#241;or dirija vuestros corazones hacia el amor de Dios y hacia la perseverancia de Cristo.</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Exhortaci&#243;n a una vida &#250;til</span></span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"2TH.3.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"2TH.3.6\"><span class=\"label\">6</span><span class=\"content\">Ahora bien, hermanos, os mandamos en el nombre de nuestro Se&#241;or Jesucristo, que os apart&#233;is</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:6 </span><span class=\"ft\">O, <span class=\"it\">evit&#233;is</span></span></span></span><span class=\"content\"> de todo hermano que ande desordenadamente, y no seg&#250;n la doctrina</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:6 </span><span class=\"ft\">O, <span class=\"it\">tradici&#243;n</span></span></span></span><span class=\"content\"> que recibisteis</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:6 </span><span class=\"ft\">Muchos mss. dicen: <span class=\"it\">recibieron</span></span></span></span><span class=\"content\"> de nosotros. </span></span><span class=\"verse v7\" data-usfm=\"2TH.3.7\"><span class=\"label\">7</span><span class=\"content\">Pues vosotros mismos sab&#233;is c&#243;mo deb&#233;is seguir nuestro ejemplo</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:7 </span><span class=\"ft\">Lit., <span class=\"it\">imitarnos</span></span></span></span><span class=\"content\">, porque no obramos de manera indisciplinada entre vosotros, </span></span><span class=\"verse v8\" data-usfm=\"2TH.3.8\"><span class=\"label\">8</span><span class=\"content\">ni comimos de balde el pan de nadie, sino que con trabajo y fatiga trabajamos d&#237;a y noche a fin de no ser carga a ninguno de vosotros; </span></span><span class=\"verse v9\" data-usfm=\"2TH.3.9\"><span class=\"label\">9</span><span class=\"content\">no porque no tengamos derecho </span><span class=\"it\"><span class=\"content\">a ello</span></span><span class=\"content\">, sino para ofrecernos como modelo a vosotros a fin de que sig&#225;is nuestro ejemplo</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:9 </span><span class=\"ft\">Lit., <span class=\"it\">nos imit&#233;is</span></span></span></span><span class=\"content\">. </span></span><span class=\"verse v10\" data-usfm=\"2TH.3.10\"><span class=\"label\">10</span><span class=\"content\">Porque aun cuando est&#225;bamos con vosotros os orden&#225;bamos esto: Si alguno no quiere trabajar, que tampoco coma. </span></span><span class=\"verse v11\" data-usfm=\"2TH.3.11\"><span class=\"label\">11</span><span class=\"content\">Porque o&#237;mos que algunos entre vosotros andan desordenadamente, sin trabajar, pero andan meti&#233;ndose en todo. </span></span><span class=\"verse v12\" data-usfm=\"2TH.3.12\"><span class=\"label\">12</span><span class=\"content\">A tales personas les ordenamos y exhortamos en el Se&#241;or Jesucristo, que trabajando tranquilamente, coman su propio pan. </span></span><span class=\"verse v13\" data-usfm=\"2TH.3.13\"><span class=\"label\">13</span><span class=\"content\">Pero vosotros, hermanos, no os cans&#233;is de hacer el bien. </span></span><span class=\"verse v14\" data-usfm=\"2TH.3.14\"><span class=\"label\">14</span><span class=\"content\">Y si alguno no obedece nuestra ense&#241;anza</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:14 </span><span class=\"ft\">Lit., <span class=\"it\">palabra</span></span></span></span><span class=\"content\"> en</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:14 </span><span class=\"ft\">Lit., <span class=\"it\">por medio de</span></span></span></span><span class=\"content\"> esta carta, se&#241;alad al tal y no os asoci&#233;is con &#233;l, para que se averg&#252;ence. </span></span><span class=\"verse v15\" data-usfm=\"2TH.3.15\"><span class=\"label\">15</span><span class=\"content\">Sin embargo, no lo teng&#225;is por enemigo, sino amonestadle como a un hermano.</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Despedida y bendici&#243;n final</span></span></div><div class=\"p\"><span class=\"verse v15\" data-usfm=\"2TH.3.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"2TH.3.16\"><span class=\"label\">16</span><span class=\"content\">Y que el mismo Se&#241;or de paz siempre os conceda paz en todas las circunstancias</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:16 </span><span class=\"ft\">Lit., <span class=\"it\">en toda forma</span></span></span></span><span class=\"content\">. El Se&#241;or sea con todos vosotros.</span></span></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"2TH.3.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"2TH.3.17\"><span class=\"label\">17</span><span class=\"content\">Yo, Pablo, escribo este saludo con mi propia mano</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:17 </span><span class=\"ft\">Lit., <span class=\"it\">El saludo de mi mano, de Pablo</span></span></span></span><span class=\"content\">, y esta es una se&#241;al distintiva en todas </span><span class=\"it\"><span class=\"content\">mis</span></span><span class=\"content\"> cartas; as&#237; escribo yo. </span></span><span class=\"verse v18\" data-usfm=\"2TH.3.18\"><span class=\"label\">18</span><span class=\"content\">La gracia de nuestro Se&#241;or Jesucristo sea con todos vosotros.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Finalmente, hermanos, orad por nosotros, para que la palabra del Señor se extienda rápidamente y sea glorificada, así como sucedió también con vosotros;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "y para que seamos librados de hombres perversos y malos, porque no todos tienen fe."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Pero fiel es el Señor quien os fortalecerá y protegerá del maligno."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Y tenemos confianza en el Señor respecto de vosotros, de que hacéis y haréis lo que ordenamos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Que el Señor dirija vuestros corazones hacia el amor de Dios y hacia la perseverancia de Cristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Ahora bien, hermanos, os mandamos en el nombre de nuestro Señor Jesucristo, que os apartéis de todo hermano que ande desordenadamente, y no según la doctrina que recibisteis de nosotros."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Pues vosotros mismos sabéis cómo debéis seguir nuestro ejemplo, porque no obramos de manera indisciplinada entre vosotros,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "ni comimos de balde el pan de nadie, sino que con trabajo y fatiga trabajamos día y noche a fin de no ser carga a ninguno de vosotros;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "no porque no tengamos derecho a ello, sino para ofrecernos como modelo a vosotros a fin de que sigáis nuestro ejemplo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Porque aun cuando estábamos con vosotros os ordenábamos esto: Si alguno no quiere trabajar, que tampoco coma."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Porque oímos que algunos entre vosotros andan desordenadamente, sin trabajar, pero andan metiéndose en todo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "A tales personas les ordenamos y exhortamos en el Señor Jesucristo, que trabajando tranquilamente, coman su propio pan."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Pero vosotros, hermanos, no os canséis de hacer el bien."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Y si alguno no obedece nuestra enseñanza en esta carta, señalad al tal y no os asociéis con él, para que se avergüence."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Sin embargo, no lo tengáis por enemigo, sino amonestadle como a un hermano."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Y que el mismo Señor de paz siempre os conceda paz en todas las circunstancias. El Señor sea con todos vosotros."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Yo, Pablo, escribo este saludo con mi propia mano, y esta es una señal distintiva en todas mis cartas; así escribo yo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "La gracia de nuestro Señor Jesucristo sea con todos vosotros."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

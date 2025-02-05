@@ -1,0 +1,530 @@
+{
+  "book_usfm": "TIT",
+  "name": "Tito",
+  "local_title": "Reina Valera Actualizada",
+  "local_abbreviation": "RVA2015",
+  "version_id": 1782,
+  "publisher": {
+    "name": "Editorial Mundo Hispano"
+  },
+  "copyright": {
+    "html": "<p>Copyright © 2015 by Editorial Mundo Hispano</p>",
+    "text": "Copyright © 2015 by Editorial Mundo Hispano"
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "TIT.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "TIT.1"
+        ],
+        "human": "Tito 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "TIT.2"
+        ],
+        "human": "Tito 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "2TI.4"
+        ],
+        "human": "2 Timoteo 4",
+        "toc": true
+      },
+      "chapter_text": "Pablo, siervo de Dios y apóstol de Jesucristo según la fe de los elegidos de Dios y el pleno conocimiento de la verdad —la cual es según la piedad basada en la esperanza de la vida eterna, que el Dios que no miente prometió desde antes del comienzo del tiempo, y a su debido tiempo manifestó su palabra en la predicación que se me ha confiado por mandato de Dios nuestro Salvador—; a Tito, verdadero hijo según la fe que nos es común: Gracia y paz de Dios Padre y de Cristo Jesús nuestro Salvador.\n\nPor esta causa te dejé en Creta: para que pusieras en orden lo que faltase y establecieras ancianos en cada ciudad, como te mandé. Sea el anciano irreprensible, marido de una sola mujer, que tenga hijos creyentes que no sean acusados como libertinos o rebeldes. Porque es necesario que el obispo sea irreprensible como mayordomo de Dios; que no sea arrogante ni de mal genio ni dado al vino ni pendenciero ni ávido de ganancias deshonestas. Antes bien, debe ser hospitalario, amante de lo bueno, prudente, justo, santo y dueño de sí mismo; que sepa retener la palabra fiel conforme a la doctrina para que pueda exhortar con sana enseñanza y también refutar a los que se oponen.\n\nPorque hay aún muchos rebeldes, habladores de vanidades y engañadores; especialmente de los de la circuncisión. A ellos es preciso tapar la boca, pues por ganancias deshonestas trastornan casas enteras enseñando lo que no es debido. Uno de ellos, su propio profeta, ha dicho: “Los cretenses son siempre mentirosos, malas bestias, glotones perezosos”. Este testimonio es cierto. Por tanto, repréndelos severamente para que sean sanos en la fe, no atendiendo a fábulas judaicas ni a mandamientos de hombres que se apartan de la verdad.\nPara los que son puros, todas las cosas son puras; pero para los impuros e incrédulos nada es puro pues hasta su mente y su conciencia está corrompida. Profesan conocer a Dios pero con sus hechos lo niegan; son abominables, desobedientes y reprobados para toda buena obra.",
+      "chapter_html": "<div class=\"version vid1782 iso6393spa\" data-vid=\"1782\" data-iso6393=\"spa\">\n   <div class=\"book bkTIT\">\n      <div class=\"chapter ch1\" data-usfm=\"TIT.1\">\n         <div class=\"label\">1</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"TIT.1.1\"><span class=\"label\">1</span><span class=\"content\">Pablo, siervo de Dios y ap&#243;stol de Jesucristo seg&#250;n la fe de los elegidos de Dios y el pleno conocimiento de la verdad &#8212;la cual es seg&#250;n la piedad </span></span><span class=\"verse v2\" data-usfm=\"TIT.1.2\"><span class=\"label\">2</span><span class=\"content\">basada en la esperanza de la vida eterna, que el Dios que no miente prometi&#243; desde antes del comienzo del tiempo, </span></span><span class=\"verse v3\" data-usfm=\"TIT.1.3\"><span class=\"label\">3</span><span class=\"content\">y a su debido tiempo manifest&#243; su palabra en la predicaci&#243;n que se me ha confiado por mandato de Dios nuestro Salvador&#8212;; </span></span><span class=\"verse v4\" data-usfm=\"TIT.1.4\"><span class=\"label\">4</span><span class=\"content\">a Tito, verdadero hijo seg&#250;n la fe que nos es com&#250;n: Gracia</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">Algunos mss. antiguos incluyen </span><span class=\"it\">misericordia.</span></span></span><span class=\"content\"> y paz de Dios Padre y de Cristo Jes&#250;s nuestro Salvador.</span></span></div><div class=\"s1\"><span class=\"heading\">Requisitos para los ancianos</span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"TIT.1.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"TIT.1.5\"><span class=\"label\">5</span><span class=\"content\">Por esta causa te dej&#233; en Creta: para que pusieras en orden lo que faltase y establecieras ancianos en cada ciudad, como te mand&#233;. </span></span><span class=\"verse v6\" data-usfm=\"TIT.1.6\"><span class=\"label\">6</span><span class=\"content\">Sea el anciano irreprensible, marido de una sola mujer, que tenga hijos creyentes que no sean acusados como libertinos o rebeldes. </span></span><span class=\"verse v7\" data-usfm=\"TIT.1.7\"><span class=\"label\">7</span><span class=\"content\">Porque es necesario que el obispo sea irreprensible como mayordomo de Dios; que no sea arrogante ni de mal genio ni dado al vino ni pendenciero ni &#225;vido de ganancias deshonestas. </span></span><span class=\"verse v8\" data-usfm=\"TIT.1.8\"><span class=\"label\">8</span><span class=\"content\">Antes bien, debe ser hospitalario, amante de lo bueno, prudente, justo, santo y due&#241;o de s&#237; mismo; </span></span><span class=\"verse v9\" data-usfm=\"TIT.1.9\"><span class=\"label\">9</span><span class=\"content\">que sepa retener la palabra fiel conforme a la doctrina para que pueda exhortar con sana ense&#241;anza y tambi&#233;n refutar a los que se oponen.</span></span></div><div class=\"s1\"><span class=\"heading\">Contra los falsos maestros</span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"TIT.1.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"TIT.1.10\"><span class=\"label\">10</span><span class=\"content\">Porque hay a&#250;n muchos rebeldes, habladores de vanidades y enga&#241;adores; especialmente de los de la circuncisi&#243;n. </span></span><span class=\"verse v11\" data-usfm=\"TIT.1.11\"><span class=\"label\">11</span><span class=\"content\">A ellos es preciso tapar la boca, pues por ganancias deshonestas trastornan casas enteras ense&#241;ando lo que no es debido. </span></span><span class=\"verse v12\" data-usfm=\"TIT.1.12\"><span class=\"label\">12</span><span class=\"content\">Uno de ellos, su propio profeta, ha dicho: &#8220;Los cretenses son siempre mentirosos, malas bestias, glotones perezosos&#8221;</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">Un proverbio del poeta griego Epim&#233;nides del siglo sexto a. C.</span></span></span><span class=\"content\">. </span></span><span class=\"verse v13\" data-usfm=\"TIT.1.13\"><span class=\"label\">13</span><span class=\"content\">Este testimonio es cierto. Por tanto, repr&#233;ndelos severamente para que sean sanos en la fe, </span></span><span class=\"verse v14\" data-usfm=\"TIT.1.14\"><span class=\"label\">14</span><span class=\"content\">no atendiendo a f&#225;bulas judaicas ni a mandamientos de hombres que se apartan de la verdad.</span></span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"TIT.1.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"TIT.1.15\"><span class=\"label\">15</span><span class=\"content\">Para los que son puros, todas las cosas son puras; pero para los impuros e incr&#233;dulos nada es puro pues hasta su mente y su conciencia est&#225; corrompida. </span></span><span class=\"verse v16\" data-usfm=\"TIT.1.16\"><span class=\"label\">16</span><span class=\"content\">Profesan conocer a Dios pero con sus hechos lo niegan; son abominables, desobedientes y reprobados para toda buena obra.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Pablo, siervo de Dios y apóstol de Jesucristo según la fe de los elegidos de Dios y el pleno conocimiento de la verdad —la cual es según la piedad"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "basada en la esperanza de la vida eterna, que el Dios que no miente prometió desde antes del comienzo del tiempo,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "y a su debido tiempo manifestó su palabra en la predicación que se me ha confiado por mandato de Dios nuestro Salvador—;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "a Tito, verdadero hijo según la fe que nos es común: Gracia y paz de Dios Padre y de Cristo Jesús nuestro Salvador."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Requisitos para los ancianos"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Por esta causa te dejé en Creta: para que pusieras en orden lo que faltase y establecieras ancianos en cada ciudad, como te mandé."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Sea el anciano irreprensible, marido de una sola mujer, que tenga hijos creyentes que no sean acusados como libertinos o rebeldes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Porque es necesario que el obispo sea irreprensible como mayordomo de Dios; que no sea arrogante ni de mal genio ni dado al vino ni pendenciero ni ávido de ganancias deshonestas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Antes bien, debe ser hospitalario, amante de lo bueno, prudente, justo, santo y dueño de sí mismo;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "que sepa retener la palabra fiel conforme a la doctrina para que pueda exhortar con sana enseñanza y también refutar a los que se oponen."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Contra los falsos maestros"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Porque hay aún muchos rebeldes, habladores de vanidades y engañadores; especialmente de los de la circuncisión."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "A ellos es preciso tapar la boca, pues por ganancias deshonestas trastornan casas enteras enseñando lo que no es debido."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Uno de ellos, su propio profeta, ha dicho: “Los cretenses son siempre mentirosos, malas bestias, glotones perezosos”."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Este testimonio es cierto. Por tanto, repréndelos severamente para que sean sanos en la fe,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "no atendiendo a fábulas judaicas ni a mandamientos de hombres que se apartan de la verdad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Para los que son puros, todas las cosas son puras; pero para los impuros e incrédulos nada es puro pues hasta su mente y su conciencia está corrompida."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Profesan conocer a Dios pero con sus hechos lo niegan; son abominables, desobedientes y reprobados para toda buena obra."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "TIT.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "TIT.2"
+        ],
+        "human": "Tito 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "TIT.3"
+        ],
+        "human": "Tito 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "TIT.1"
+        ],
+        "human": "Tito 1",
+        "toc": true
+      },
+      "chapter_text": "Pero habla tú lo que está de acuerdo con la sana doctrina; que los hombres mayores sean sobrios, serios y prudentes, sanos en la fe, en el amor y en la perseverancia. Asimismo, que las mujeres mayores sean reverentes en conducta, no calumniadoras ni esclavas del mucho vino, maestras de lo bueno, de manera que encaminen en la prudencia a las mujeres jóvenes: a que amen a su marido y a sus hijos, a que sean prudentes y castas, a que sean buenas amas de casa, a que estén sujetas a su propio marido para que la palabra de Dios no sea desacreditada.\nExhorta asimismo a los jóvenes a que sean prudentes, mostrándote en todo como ejemplo de buenas obras. Demuestra en tu enseñanza integridad, seriedad y palabra sana e irreprensible para que el que se nos oponga se avergüence no teniendo nada malo que decir de ninguno de nosotros.\nExhorta a los siervos a que estén sujetos a sus propios amos en todo, que sean complacientes y no respondones, que no defrauden sino que demuestren toda buena fe para que en todo adornen la doctrina de Dios nuestro Salvador.\nPorque la gracia salvadora de Dios se ha manifestado a todos los hombres enseñándonos a vivir de manera prudente, justa y piadosa en la edad presente, renunciando a la impiedad y a las pasiones mundanas, aguardando la esperanza bienaventurada, la manifestación de la gloria del gran Dios y Salvador nuestro Jesucristo quien se dio a sí mismo por nosotros para redimirnos de toda iniquidad y purificar para sí mismo un pueblo propio, celoso de buenas obras. Estas cosas habla, exhorta y reprende con toda autoridad. ¡Que nadie te menosprecie!",
+      "chapter_html": "<div class=\"version vid1782 iso6393spa\" data-vid=\"1782\" data-iso6393=\"spa\">\n   <div class=\"book bkTIT\">\n      <div class=\"chapter ch2\" data-usfm=\"TIT.2\">\n         <div class=\"label\">2</div><div class=\"s1\"><span class=\"heading\">La sana doctrina y la vida</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"TIT.2.1\"><span class=\"label\">1</span><span class=\"content\">Pero habla t&#250; lo que est&#225; de acuerdo con la sana doctrina; </span></span><span class=\"verse v2\" data-usfm=\"TIT.2.2\"><span class=\"label\">2</span><span class=\"content\">que los hombres mayores sean sobrios, serios y prudentes, sanos en la fe, en el amor y en la perseverancia. </span></span><span class=\"verse v3\" data-usfm=\"TIT.2.3\"><span class=\"label\">3</span><span class=\"content\">Asimismo, que las mujeres mayores sean reverentes en conducta, no calumniadoras ni esclavas del mucho vino, maestras de lo bueno, </span></span><span class=\"verse v4\" data-usfm=\"TIT.2.4\"><span class=\"label\">4</span><span class=\"content\">de manera que encaminen en la prudencia a las mujeres j&#243;venes: a que amen a su marido y a sus hijos, </span></span><span class=\"verse v5\" data-usfm=\"TIT.2.5\"><span class=\"label\">5</span><span class=\"content\">a que sean prudentes y castas, a que sean buenas amas de casa, a que est&#233;n sujetas a su propio marido para que la palabra de Dios no sea desacreditada.</span></span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"TIT.2.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"TIT.2.6\"><span class=\"label\">6</span><span class=\"content\">Exhorta asimismo a los j&#243;venes a que sean prudentes, </span></span><span class=\"verse v7\" data-usfm=\"TIT.2.7\"><span class=\"label\">7</span><span class=\"content\">mostr&#225;ndote en todo como ejemplo de buenas obras. Demuestra en tu ense&#241;anza integridad, seriedad </span></span><span class=\"verse v8\" data-usfm=\"TIT.2.8\"><span class=\"label\">8</span><span class=\"content\">y palabra sana e irreprensible para que el que se nos oponga se averg&#252;ence no teniendo nada malo que decir de ninguno de nosotros.</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"TIT.2.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"TIT.2.9\"><span class=\"label\">9</span><span class=\"content\">Exhorta a los siervos a que est&#233;n sujetos a sus propios amos en todo, que sean complacientes y no respondones, </span></span><span class=\"verse v10\" data-usfm=\"TIT.2.10\"><span class=\"label\">10</span><span class=\"content\">que no defrauden sino que demuestren toda buena fe para que en todo adornen la doctrina de Dios nuestro Salvador.</span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"TIT.2.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"TIT.2.11\"><span class=\"label\">11</span><span class=\"content\">Porque la gracia salvadora de Dios se ha manifestado a todos los hombres </span></span><span class=\"verse v12\" data-usfm=\"TIT.2.12\"><span class=\"label\">12</span><span class=\"content\">ense&#241;&#225;ndonos a vivir de manera prudente, justa y piadosa en la edad presente, renunciando a la impiedad y a las pasiones mundanas, </span></span><span class=\"verse v13\" data-usfm=\"TIT.2.13\"><span class=\"label\">13</span><span class=\"content\">aguardando la esperanza bienaventurada, la manifestaci&#243;n de la gloria del gran Dios y Salvador nuestro Jesucristo </span></span><span class=\"verse v14\" data-usfm=\"TIT.2.14\"><span class=\"label\">14</span><span class=\"content\">quien se dio a s&#237; mismo por nosotros para redimirnos de toda iniquidad y purificar para s&#237; mismo un pueblo propio, celoso de buenas obras. </span></span><span class=\"verse v15\" data-usfm=\"TIT.2.15\"><span class=\"label\">15</span><span class=\"content\">Estas cosas habla, exhorta y reprende con toda autoridad. &#161;Que nadie te menosprecie!</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "La sana doctrina y la vida"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Pero habla tú lo que está de acuerdo con la sana doctrina;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "que los hombres mayores sean sobrios, serios y prudentes, sanos en la fe, en el amor y en la perseverancia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Asimismo, que las mujeres mayores sean reverentes en conducta, no calumniadoras ni esclavas del mucho vino, maestras de lo bueno,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "de manera que encaminen en la prudencia a las mujeres jóvenes: a que amen a su marido y a sus hijos,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "a que sean prudentes y castas, a que sean buenas amas de casa, a que estén sujetas a su propio marido para que la palabra de Dios no sea desacreditada."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Exhorta asimismo a los jóvenes a que sean prudentes,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "mostrándote en todo como ejemplo de buenas obras. Demuestra en tu enseñanza integridad, seriedad"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "y palabra sana e irreprensible para que el que se nos oponga se avergüence no teniendo nada malo que decir de ninguno de nosotros."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Exhorta a los siervos a que estén sujetos a sus propios amos en todo, que sean complacientes y no respondones,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "que no defrauden sino que demuestren toda buena fe para que en todo adornen la doctrina de Dios nuestro Salvador."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Porque la gracia salvadora de Dios se ha manifestado a todos los hombres"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "enseñándonos a vivir de manera prudente, justa y piadosa en la edad presente, renunciando a la impiedad y a las pasiones mundanas,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "aguardando la esperanza bienaventurada, la manifestación de la gloria del gran Dios y Salvador nuestro Jesucristo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "quien se dio a sí mismo por nosotros para redimirnos de toda iniquidad y purificar para sí mismo un pueblo propio, celoso de buenas obras."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Estas cosas habla, exhorta y reprende con toda autoridad. ¡Que nadie te menosprecie!"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "TIT.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "TIT.3"
+        ],
+        "human": "Tito 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "PHM.1"
+        ],
+        "human": "Filemón 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "TIT.2"
+        ],
+        "human": "Tito 2",
+        "toc": true
+      },
+      "chapter_text": "Recuérdales que se sujeten a los gobernantes y a las autoridades, que obedezcan, que estén dispuestos para toda buena obra, que no hablen mal de nadie, que no sean contenciosos sino amables demostrando toda consideración por todos los hombres.\nPorque en otro tiempo nosotros también éramos insensatos, desobedientes, extraviados. Estábamos esclavizados por diversas pasiones y placeres, viviendo en malicia y en envidia. Éramos aborrecibles, odiándonos unos a otros. Pero cuando se manifestó la bondad de Dios nuestro Salvador y su amor por los hombres, él nos salvó, no por las obras de justicia que nosotros hubiéramos hecho, sino según su misericordia; por medio del lavamiento de la regeneración y de la renovación del Espíritu Santo que él derramó sobre nosotros abundantemente por medio de Jesucristo nuestro Salvador. Y esto para que, justificados por su gracia, seamos hechos herederos conforme a la esperanza de la vida eterna. Fiel es esta palabra.\n\nAcerca de estas cosas, quiero que hables con firmeza para que los que han creído en Dios procuren ocuparse en buenas obras. Estas cosas son buenas y útiles a los hombres. Pero evita las contiendas necias, las genealogías, las controversias y los debates acerca de la ley; porque de nada aprovechan y son vanos.\nDespués de una y otra amonestación, rechaza al hombre que causa divisiones, sabiendo que el tal se ha pervertido y peca, habiéndose condenado a sí mismo.\nCuando yo envíe a ti a Artemas o a Tíquico, procura venir a mí a Nicópolis pues allí he decidido pasar el invierno. Encamina a Zenas, maestro de la ley, y a Apolos para que no les falte nada. Y aprendan los nuestros a dedicarse a las buenas obras para los casos de necesidad, con el fin de que no sean sin fruto.\nTe saludan todos los que están conmigo. Saluda a los que nos aman en la fe. La gracia sea con todos ustedes.",
+      "chapter_html": "<div class=\"version vid1782 iso6393spa\" data-vid=\"1782\" data-iso6393=\"spa\">\n   <div class=\"book bkTIT\">\n      <div class=\"chapter ch3\" data-usfm=\"TIT.3\">\n         <div class=\"label\">3</div><div class=\"s1\"><span class=\"heading\">La conducta cristiana</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"TIT.3.1\"><span class=\"label\">1</span><span class=\"content\">Recu&#233;rdales que se sujeten a los gobernantes y a las autoridades, que obedezcan, que est&#233;n dispuestos para toda buena obra, </span></span><span class=\"verse v2\" data-usfm=\"TIT.3.2\"><span class=\"label\">2</span><span class=\"content\">que no hablen mal de nadie, que no sean contenciosos sino amables demostrando toda consideraci&#243;n por todos los hombres.</span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"TIT.3.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"TIT.3.3\"><span class=\"label\">3</span><span class=\"content\">Porque en otro tiempo nosotros tambi&#233;n &#233;ramos insensatos, desobedientes, extraviados. Est&#225;bamos esclavizados por diversas pasiones y placeres, viviendo en malicia y en envidia. &#201;ramos aborrecibles, odi&#225;ndonos unos a otros. </span></span><span class=\"verse v4\" data-usfm=\"TIT.3.4\"><span class=\"label\">4</span><span class=\"content\">Pero cuando se manifest&#243; la bondad de Dios nuestro Salvador y su amor por los hombres, </span></span><span class=\"verse v5\" data-usfm=\"TIT.3.5\"><span class=\"label\">5</span><span class=\"content\">&#233;l nos salv&#243;, no por las obras de justicia que nosotros hubi&#233;ramos hecho, sino seg&#250;n su misericordia; por medio del lavamiento de la regeneraci&#243;n y de la renovaci&#243;n del Esp&#237;ritu Santo </span></span><span class=\"verse v6\" data-usfm=\"TIT.3.6\"><span class=\"label\">6</span><span class=\"content\">que &#233;l derram&#243; sobre nosotros abundantemente por medio de Jesucristo nuestro Salvador. </span></span><span class=\"verse v7\" data-usfm=\"TIT.3.7\"><span class=\"label\">7</span><span class=\"content\">Y esto para que, justificados por su gracia, seamos hechos herederos conforme a la esperanza de la vida eterna. </span></span><span class=\"verse v8\" data-usfm=\"TIT.3.8\"><span class=\"label\">8</span><span class=\"content\">Fiel es esta palabra.</span></span></div><div class=\"s1\"><span class=\"heading\">Conclusi&#243;n</span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"TIT.3.8\"><span class=\"content\">Acerca de estas cosas, quiero que hables con firmeza para que los que han cre&#237;do en Dios procuren ocuparse en buenas obras. Estas cosas son buenas y &#250;tiles a los hombres. </span></span><span class=\"verse v9\" data-usfm=\"TIT.3.9\"><span class=\"label\">9</span><span class=\"content\">Pero evita las contiendas necias, las genealog&#237;as, las controversias y los debates acerca de la ley; porque de nada aprovechan y son vanos.</span></span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"TIT.3.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"TIT.3.10\"><span class=\"label\">10</span><span class=\"content\">Despu&#233;s de una y otra amonestaci&#243;n, rechaza al hombre que causa divisiones, </span></span><span class=\"verse v11\" data-usfm=\"TIT.3.11\"><span class=\"label\">11</span><span class=\"content\">sabiendo que el tal se ha pervertido y peca, habi&#233;ndose condenado a s&#237; mismo.</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"TIT.3.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"TIT.3.12\"><span class=\"label\">12</span><span class=\"content\">Cuando yo env&#237;e a ti a Artemas o a T&#237;quico, procura venir a m&#237; a Nic&#243;polis pues all&#237; he decidido pasar el invierno. </span></span><span class=\"verse v13\" data-usfm=\"TIT.3.13\"><span class=\"label\">13</span><span class=\"content\">Encamina a Zenas, maestro de la ley, y a Apolos para que no les falte nada. </span></span><span class=\"verse v14\" data-usfm=\"TIT.3.14\"><span class=\"label\">14</span><span class=\"content\">Y aprendan los nuestros a dedicarse a las buenas obras para los casos de necesidad, con el fin de que no sean sin fruto.</span></span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"TIT.3.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"TIT.3.15\"><span class=\"label\">15</span><span class=\"content\">Te saludan todos los que est&#225;n conmigo. Saluda a los que nos aman en la fe. La gracia sea con todos ustedes</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">Algunos mss. antiguos incluyen </span><span class=\"it\">Am&#233;n.</span></span></span><span class=\"content\">.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "La conducta cristiana"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Recuérdales que se sujeten a los gobernantes y a las autoridades, que obedezcan, que estén dispuestos para toda buena obra,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "que no hablen mal de nadie, que no sean contenciosos sino amables demostrando toda consideración por todos los hombres."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Porque en otro tiempo nosotros también éramos insensatos, desobedientes, extraviados. Estábamos esclavizados por diversas pasiones y placeres, viviendo en malicia y en envidia. Éramos aborrecibles, odiándonos unos a otros."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Pero cuando se manifestó la bondad de Dios nuestro Salvador y su amor por los hombres,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "él nos salvó, no por las obras de justicia que nosotros hubiéramos hecho, sino según su misericordia; por medio del lavamiento de la regeneración y de la renovación del Espíritu Santo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "que él derramó sobre nosotros abundantemente por medio de Jesucristo nuestro Salvador."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Y esto para que, justificados por su gracia, seamos hechos herederos conforme a la esperanza de la vida eterna."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Fiel es esta palabra."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Conclusión"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Acerca de estas cosas, quiero que hables con firmeza para que los que han creído en Dios procuren ocuparse en buenas obras. Estas cosas son buenas y útiles a los hombres."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Pero evita las contiendas necias, las genealogías, las controversias y los debates acerca de la ley; porque de nada aprovechan y son vanos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Después de una y otra amonestación, rechaza al hombre que causa divisiones,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "sabiendo que el tal se ha pervertido y peca, habiéndose condenado a sí mismo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Cuando yo envíe a ti a Artemas o a Tíquico, procura venir a mí a Nicópolis pues allí he decidido pasar el invierno."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Encamina a Zenas, maestro de la ley, y a Apolos para que no les falte nada."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Y aprendan los nuestros a dedicarse a las buenas obras para los casos de necesidad, con el fin de que no sean sin fruto."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Te saludan todos los que están conmigo. Saluda a los que nos aman en la fe. La gracia sea con todos ustedes."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

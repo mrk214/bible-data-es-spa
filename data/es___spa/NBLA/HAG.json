@@ -1,0 +1,388 @@
+{
+  "book_usfm": "HAG",
+  "name": "Hageo",
+  "local_title": "Nueva Biblia de las Américas",
+  "local_abbreviation": "NBLA",
+  "version_id": 103,
+  "publisher": {
+    "name": "The Lockman Foundation"
+  },
+  "copyright": {
+    "html": "1986, 1995, 1997, 2005 by The Lockman Foundation",
+    "text": "1986, 1995, 1997, 2005 by The Lockman Foundation"
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "HAG.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "HAG.1"
+        ],
+        "human": "Hageo 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "HAG.2"
+        ],
+        "human": "Hageo 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "ZEP.3"
+        ],
+        "human": "Sofonías 3",
+        "toc": true
+      },
+      "chapter_text": "El año segundo del rey Darío, en el mes sexto, el día primero del mes, vino la palabra del SEÑOR por medio del profeta Hageo a Zorobabel, hijo de Salatiel, gobernador de Judá, y al sumo sacerdote Josué, hijo de Josadac: «Así dice el SEÑOR de los ejércitos: “Este pueblo dice: ‘No ha llegado el tiempo, el tiempo de que la casa del SEÑOR sea reedificada’ ” ». Entonces vino la palabra del SEÑOR por medio del profeta Hageo: «¿Es acaso tiempo para que ustedes habiten en sus casas artesonadas mientras esta casa está desolada?».\nAhora pues, así dice el SEÑOR de los ejércitos: «¡Consideren bien sus caminos! Siembran mucho, pero recogen poco; comen, pero no hay suficiente para que se sacien; beben, pero no hay suficiente para que se embriaguen; se visten, pero nadie se calienta; y el que recibe salario, recibe salario en bolsa rota».\nAsí dice el SEÑOR de los ejércitos: «¡Consideren bien sus caminos! Suban al monte, traigan madera y reedifiquen el templo, para que me agrade de él y Yo sea glorificado», dice el SEÑOR. «Esperan mucho, pero hay poco; y lo que traen a casa, Yo lo aviento. ¿Por qué?», declara el SEÑOR de los ejércitos. «Por causa de Mi casa que está desolada, mientras cada uno de ustedes corre a su casa.\n»Por tanto, por causa de ustedes, los cielos han retenido su rocío y la tierra ha retenido su fruto. Llamé a la sequía sobre la tierra, sobre los montes, sobre el trigo, sobre el vino nuevo, sobre el aceite, sobre lo que produce la tierra, sobre los hombres, sobre el ganado y sobre todo el trabajo de sus manos».\nEntonces Zorobabel, hijo de Salatiel, el sumo sacerdote Josué, hijo de Josadac, y todo el remanente del pueblo, obedecieron la voz del SEÑOR su Dios y las palabras del profeta Hageo, como el SEÑOR su Dios le había mandado. Y temió el pueblo delante del SEÑOR. Entonces Hageo, mensajero del SEÑOR, por mandato del SEÑOR, habló al pueblo: «Yo estoy con ustedes», declara el SEÑOR. Y el SEÑOR despertó el espíritu de Zorobabel, hijo de Salatiel, gobernador de Judá, y el espíritu del sumo sacerdote Josué, hijo de Josadac, y el espíritu de todo el remanente del pueblo. Así que vinieron y comenzaron la obra en la casa del SEÑOR de los ejércitos, su Dios, el día veinticuatro del mes sexto, en el año segundo del rey Darío.",
+      "chapter_html": "<div class=\"version vid103 iso6393spa\" data-vid=\"103\" data-iso6393=\"spa\">\n   <div class=\"book bkHAG\">\n      <div class=\"chapter ch1\" data-usfm=\"HAG.1\">\n         <div class=\"label\">1</div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Exhortaci&#243;n a la reedificaci&#243;n del templo</span></span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"HAG.1.1\"><span class=\"label\">1</span><span class=\"content\">El a&#241;o segundo del rey Dar&#237;o, en el mes sexto, el d&#237;a primero del mes, vino la palabra del S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> por medio del profeta Hageo a Zorobabel, hijo de Salatiel, gobernador de Jud&#225;, y al sumo sacerdote Josu&#233;, hijo de Josadac: </span></span><span class=\"verse v2\" data-usfm=\"HAG.1.2\"><span class=\"label\">2</span><span class=\"content\">&#171;As&#237; dice el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> de los ej&#233;rcitos: &#8220;Este pueblo dice: &#8216;No ha llegado el tiempo, el tiempo de que la casa del S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> sea reedificada&#8217;&#8201;&#8221;&#8201;&#187;. </span></span><span class=\"verse v3\" data-usfm=\"HAG.1.3\"><span class=\"label\">3</span><span class=\"content\">Entonces vino la palabra del S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> por medio del profeta Hageo: </span></span><span class=\"verse v4\" data-usfm=\"HAG.1.4\"><span class=\"label\">4</span><span class=\"content\">&#171;&#191;Es acaso tiempo para que ustedes habiten en sus casas artesonadas mientras esta casa est&#225; desolada?&#187;.</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"HAG.1.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"HAG.1.5\"><span class=\"label\">5</span><span class=\"content\">Ahora pues, as&#237; dice el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> de los ej&#233;rcitos: &#171;&#161;Consideren bien sus caminos! </span></span><span class=\"verse v6\" data-usfm=\"HAG.1.6\"><span class=\"label\">6</span><span class=\"content\">Siembran mucho, pero recogen poco; comen, pero no hay </span><span class=\"it\"><span class=\"content\">suficiente</span></span><span class=\"content\"> para que se sacien; beben, pero no hay </span><span class=\"it\"><span class=\"content\">suficiente</span></span><span class=\"content\"> para que se embriaguen; se visten, pero nadie se calienta; y el que recibe salario, recibe salario en bolsa rota&#187;.</span></span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"HAG.1.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"HAG.1.7\"><span class=\"label\">7</span><span class=\"content\">As&#237; dice el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> de los ej&#233;rcitos: &#171;&#161;Consideren bien sus caminos! </span></span><span class=\"verse v8\" data-usfm=\"HAG.1.8\"><span class=\"label\">8</span><span class=\"content\">Suban al monte, traigan madera y reedifiquen el templo, para que me agrade de &#233;l y Yo sea glorificado&#187;, dice el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\">. </span></span><span class=\"verse v9\" data-usfm=\"HAG.1.9\"><span class=\"label\">9</span><span class=\"content\">&#171;Esperan mucho, pero </span><span class=\"it\"><span class=\"content\">hay</span></span><span class=\"content\"> poco; y lo que traen a casa, Yo lo aviento. &#191;Por qu&#233;?&#187;, declara el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> de los ej&#233;rcitos. &#171;Por causa de Mi casa que est&#225; desolada, mientras cada uno de ustedes corre a su casa.</span></span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"HAG.1.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"HAG.1.10\"><span class=\"label\">10</span><span class=\"content\">&#187;Por tanto, por causa de ustedes, los cielos han retenido su roc&#237;o y la tierra ha retenido su fruto. </span></span><span class=\"verse v11\" data-usfm=\"HAG.1.11\"><span class=\"label\">11</span><span class=\"content\">Llam&#233; a la sequ&#237;a sobre la tierra, sobre los montes, sobre el trigo, sobre el vino nuevo, sobre el aceite, sobre lo que produce la tierra, sobre los hombres, sobre el ganado y sobre todo el trabajo de sus manos&#187;.</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"HAG.1.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"HAG.1.12\"><span class=\"label\">12</span><span class=\"content\">Entonces Zorobabel, hijo de Salatiel, el sumo sacerdote Josu&#233;, hijo de Josadac, y todo el remanente del pueblo, obedecieron la voz del S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> su Dios y las palabras del profeta Hageo, como el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> su Dios le hab&#237;a mandado. Y temi&#243; el pueblo delante del S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\">. </span></span><span class=\"verse v13\" data-usfm=\"HAG.1.13\"><span class=\"label\">13</span><span class=\"content\">Entonces Hageo, mensajero del S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\">, por mandato</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:13 </span><span class=\"ft\">Lit. <span class=\"it\">mensaje.</span></span></span></span><span class=\"content\"> del S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\">, habl&#243; al pueblo: &#171;Yo estoy con ustedes&#187;, declara el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\">. </span></span><span class=\"verse v14\" data-usfm=\"HAG.1.14\"><span class=\"label\">14</span><span class=\"content\">Y el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> despert&#243; el esp&#237;ritu de Zorobabel, hijo de Salatiel, gobernador de Jud&#225;, y el esp&#237;ritu del sumo sacerdote Josu&#233;, hijo de Josadac, y el esp&#237;ritu de todo el remanente del pueblo. As&#237; que vinieron y comenzaron la obra en la casa del S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> de los ej&#233;rcitos, su Dios, </span></span><span class=\"verse v15\" data-usfm=\"HAG.1.15\"><span class=\"label\">15</span><span class=\"content\">el d&#237;a veinticuatro del mes sexto, en el a&#241;o segundo del rey Dar&#237;o.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "El año segundo del rey Darío, en el mes sexto, el día primero del mes, vino la palabra del Señor por medio del profeta Hageo a Zorobabel, hijo de Salatiel, gobernador de Judá, y al sumo sacerdote Josué, hijo de Josadac:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "«Así dice el Señor de los ejércitos: “Este pueblo dice: ‘No ha llegado el tiempo, el tiempo de que la casa del Señor sea reedificada’ ” »."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Entonces vino la palabra del Señor por medio del profeta Hageo:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "«¿Es acaso tiempo para que ustedes habiten en sus casas artesonadas mientras esta casa está desolada?»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Ahora pues, así dice el Señor de los ejércitos: «¡Consideren bien sus caminos!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Siembran mucho, pero recogen poco; comen, pero no hay suficiente para que se sacien; beben, pero no hay suficiente para que se embriaguen; se visten, pero nadie se calienta; y el que recibe salario, recibe salario en bolsa rota»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Así dice el Señor de los ejércitos: «¡Consideren bien sus caminos!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Suban al monte, traigan madera y reedifiquen el templo, para que me agrade de él y Yo sea glorificado», dice el Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "«Esperan mucho, pero hay poco; y lo que traen a casa, Yo lo aviento. ¿Por qué?», declara el Señor de los ejércitos. «Por causa de Mi casa que está desolada, mientras cada uno de ustedes corre a su casa."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "»Por tanto, por causa de ustedes, los cielos han retenido su rocío y la tierra ha retenido su fruto."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Llamé a la sequía sobre la tierra, sobre los montes, sobre el trigo, sobre el vino nuevo, sobre el aceite, sobre lo que produce la tierra, sobre los hombres, sobre el ganado y sobre todo el trabajo de sus manos»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Entonces Zorobabel, hijo de Salatiel, el sumo sacerdote Josué, hijo de Josadac, y todo el remanente del pueblo, obedecieron la voz del Señor su Dios y las palabras del profeta Hageo, como el Señor su Dios le había mandado. Y temió el pueblo delante del Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Entonces Hageo, mensajero del Señor, por mandato del Señor, habló al pueblo: «Yo estoy con ustedes», declara el Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Y el Señor despertó el espíritu de Zorobabel, hijo de Salatiel, gobernador de Judá, y el espíritu del sumo sacerdote Josué, hijo de Josadac, y el espíritu de todo el remanente del pueblo. Así que vinieron y comenzaron la obra en la casa del Señor de los ejércitos, su Dios,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "el día veinticuatro del mes sexto, en el año segundo del rey Darío."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "HAG.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "HAG.2"
+        ],
+        "human": "Hageo 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "ZEC.1"
+        ],
+        "human": "Zacarías 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "HAG.1"
+        ],
+        "human": "Hageo 1",
+        "toc": true
+      },
+      "chapter_text": "El día veintiuno del mes séptimo, vino la palabra del SEÑOR por medio del profeta Hageo: «Habla ahora a Zorobabel, hijo de Salatiel, gobernador de Judá, y al sumo sacerdote Josué, hijo de Josadac, y al remanente del pueblo: “¿Quién ha quedado entre ustedes que haya visto este templo en su gloria primera? ¿Y cómo lo ven ahora? Tal como está, ¿no es como nada ante sus ojos? Pero ahora, esfuérzate, Zorobabel”, declara el SEÑOR, “esfuérzate tú también, Josué, hijo de Josadac, sumo sacerdote, y esfuércense todos ustedes, pueblo de la tierra”, declara el SEÑOR, “y trabajen, porque Yo estoy con ustedes”, declara el SEÑOR de los ejércitos. “Conforme a la promesa que les hice cuando salieron de Egipto, Mi Espíritu permanece en medio de ustedes; no teman”.\n»Porque así dice el SEÑOR de los ejércitos: “Una vez más, dentro de poco, Yo haré temblar los cielos y la tierra, el mar y la tierra firme. Y haré temblar a todas las naciones; vendrán entonces los tesoros de todas las naciones, y Yo llenaré de gloria esta casa”, dice el SEÑOR de los ejércitos. “Mía es la plata y Mío es el oro”, declara el SEÑOR de los ejércitos. “La gloria postrera de esta casa será mayor que la primera”, dice el SEÑOR de los ejércitos, “y en este lugar daré paz”, declara el SEÑOR de los ejércitos».\nEl día veinticuatro del mes noveno, en el año segundo de Darío, vino la palabra del SEÑOR al profeta Hageo: «Así dice el SEÑOR de los ejércitos: “Pide ahora instrucción a los sacerdotes: Si alguien lleva carne consagrada en la falda de su vestidura, y con su falda toca pan, alimento cocido, vino, aceite o cualquier otro alimento, ¿quedará este consagrado?” ». Y los sacerdotes respondieron: «No». Y dijo Hageo: «Si alguien, inmundo por el contacto con un cadáver, toca cualquiera de estas cosas, ¿quedará inmunda?». «Quedará inmunda», respondieron los sacerdotes. Entonces volvió a hablar Hageo: « “Así es este pueblo y así es esta nación delante de Mí”, declara el SEÑOR, “y así es toda obra de sus manos; y lo que aquí ofrecen, inmundo es.\n”Ahora pues, consideren bien esto de hoy en adelante: antes que se pusiera piedra sobre piedra en el templo del SEÑOR, en aquel tiempo, cuando alguien buscaba un montón de 20 medidas, solo encontraba 10; venía alguien al lagar para sacar 50 cántaros, y solo sacaba 20. Los herí con viento abrasador, plaga y granizo en toda obra de sus manos; pero ninguno de ustedes se volvió a Mí”, declara el SEÑOR. “Pero consideren bien esto desde hoy en adelante, desde el día veinticuatro del mes noveno; desde el día en que se pusieron los cimientos del templo del SEÑOR, consideren bien: ¿Está todavía la semilla en el granero? Todavía la vid, la higuera, el granado y el olivo no han dado fruto; pero desde hoy Yo los bendeciré” ».\nLa palabra del SEÑOR vino por segunda vez a Hageo, el día veinticuatro del mes, diciendo: «Habla a Zorobabel, gobernador de Judá: “Yo estremeceré los cielos y la tierra, y volcaré el trono de los reinos y destruiré el poder de los reinos de las naciones; y volcaré el carro y a los que montan en él, y caerán los caballos y sus jinetes, cada uno por la espada de su hermano. En aquel día”, declara el SEÑOR de los ejércitos, “te tomaré a ti, Zorobabel, hijo de Salatiel, siervo Mío”, declara el SEÑOR, “y te pondré como anillo de sellar, porque Yo te he escogido” », declara el SEÑOR de los ejércitos.",
+      "chapter_html": "<div class=\"version vid103 iso6393spa\" data-vid=\"103\" data-iso6393=\"spa\">\n   <div class=\"book bkHAG\">\n      <div class=\"chapter ch2\" data-usfm=\"HAG.2\">\n         <div class=\"label\">2</div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Promesa de Dios a Zorobabel</span></span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"HAG.2.1\"><span class=\"label\">1</span><span class=\"content\">El </span><span class=\"it\"><span class=\"content\">d&#237;a</span></span><span class=\"content\"> veintiuno del mes s&#233;ptimo, vino la palabra del S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> por medio del profeta Hageo: </span></span><span class=\"verse v2\" data-usfm=\"HAG.2.2\"><span class=\"label\">2</span><span class=\"content\">&#171;Habla ahora a Zorobabel, hijo de Salatiel, gobernador de Jud&#225;, y al sumo sacerdote Josu&#233;, hijo de Josadac, y al remanente del pueblo: </span></span><span class=\"verse v3\" data-usfm=\"HAG.2.3\"><span class=\"label\">3</span><span class=\"content\">&#8220;&#191;Qui&#233;n ha quedado entre ustedes que haya visto este templo en su gloria primera? &#191;Y c&#243;mo lo ven ahora? Tal como est&#225;, &#191;no es como nada ante sus ojos? </span></span><span class=\"verse v4\" data-usfm=\"HAG.2.4\"><span class=\"label\">4</span><span class=\"content\">Pero ahora, esfu&#233;rzate, Zorobabel&#8221;, declara el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\">, &#8220;esfu&#233;rzate t&#250; tambi&#233;n, Josu&#233;, hijo de Josadac, sumo sacerdote, y esfu&#233;rcense todos ustedes, pueblo de la tierra&#8221;, declara el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\">, &#8220;y trabajen, porque Yo estoy con ustedes&#8221;, declara el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> de los ej&#233;rcitos. </span></span><span class=\"verse v5\" data-usfm=\"HAG.2.5\"><span class=\"label\">5</span><span class=\"content\">&#8220;</span><span class=\"it\"><span class=\"content\">Conforme</span></span><span class=\"content\"> a la promesa</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:5 </span><span class=\"ft\">Lit. <span class=\"it\">palabra.</span></span></span></span><span class=\"content\"> que les hice cuando salieron de Egipto, Mi Esp&#237;ritu permanece en medio de ustedes; no teman&#8221;.</span></span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"HAG.2.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"HAG.2.6\"><span class=\"label\">6</span><span class=\"content\">&#187;Porque as&#237; dice el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> de los ej&#233;rcitos: &#8220;Una vez m&#225;s, dentro de poco, Yo har&#233; temblar los cielos y la tierra, el mar y la tierra firme. </span></span><span class=\"verse v7\" data-usfm=\"HAG.2.7\"><span class=\"label\">7</span><span class=\"content\">Y har&#233; temblar a todas las naciones; vendr&#225;n entonces los tesoros</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:7 </span><span class=\"ft\">O <span class=\"it\">vendr&#225; el deseo.</span></span></span></span><span class=\"content\"> de todas las naciones, y Yo llenar&#233; de gloria esta casa&#8221;, dice el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> de los ej&#233;rcitos. </span></span><span class=\"verse v8\" data-usfm=\"HAG.2.8\"><span class=\"label\">8</span><span class=\"content\">&#8220;M&#237;a es la plata y M&#237;o es el oro&#8221;, declara el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> de los ej&#233;rcitos. </span></span><span class=\"verse v9\" data-usfm=\"HAG.2.9\"><span class=\"label\">9</span><span class=\"content\">&#8220;La gloria postrera de esta casa ser&#225; mayor que la primera&#8221;, dice el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> de los ej&#233;rcitos, &#8220;y en este lugar dar&#233; paz&#8221;, declara el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> de los ej&#233;rcitos&#187;.</span></span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"HAG.2.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"HAG.2.10\"><span class=\"label\">10</span><span class=\"content\">El d&#237;a veinticuatro del </span><span class=\"it\"><span class=\"content\">mes</span></span><span class=\"content\"> noveno, en el a&#241;o segundo de Dar&#237;o, vino la palabra del S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> al profeta Hageo: </span></span><span class=\"verse v11\" data-usfm=\"HAG.2.11\"><span class=\"label\">11</span><span class=\"content\">&#171;As&#237; dice el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> de los ej&#233;rcitos: &#8220;Pide ahora instrucci&#243;n</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:11 </span><span class=\"ft\">Lit. <span class=\"it\">la ley.</span></span></span></span><span class=\"content\"> a los sacerdotes: </span></span><span class=\"verse v12\" data-usfm=\"HAG.2.12\"><span class=\"label\">12</span><span class=\"content\">Si alguien lleva carne consagrada en la falda de su vestidura, y con su falda toca pan, alimento cocido, vino, aceite o cualquier </span><span class=\"it\"><span class=\"content\">otro</span></span><span class=\"content\"> alimento, &#191;quedar&#225; este consagrado?&#8221;&#8201;&#187;. Y los sacerdotes respondieron: &#171;No&#187;. </span></span><span class=\"verse v13\" data-usfm=\"HAG.2.13\"><span class=\"label\">13</span><span class=\"content\">Y dijo Hageo: &#171;Si alguien, inmundo por el contacto con un cad&#225;ver, toca cualquiera de estas cosas, &#191;quedar&#225; inmunda?&#187;. &#171;Quedar&#225; inmunda&#187;, respondieron los sacerdotes. </span></span><span class=\"verse v14\" data-usfm=\"HAG.2.14\"><span class=\"label\">14</span><span class=\"content\">Entonces volvi&#243; a hablar Hageo: &#171;&#8201;&#8220;As&#237; es este pueblo y as&#237; es esta naci&#243;n delante de M&#237;&#8221;, declara el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\">, &#8220;y as&#237; es toda obra de sus manos; y lo que aqu&#237; ofrecen, inmundo es.</span></span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"HAG.2.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"HAG.2.15\"><span class=\"label\">15</span><span class=\"content\">&#8221;Ahora pues, consideren bien </span><span class=\"it\"><span class=\"content\">esto</span></span><span class=\"content\"> de hoy en adelante: antes que se pusiera piedra sobre piedra en el templo del S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\">, </span></span><span class=\"verse v16\" data-usfm=\"HAG.2.16\"><span class=\"label\">16</span><span class=\"content\">en aquel tiempo, cuando </span><span class=\"it\"><span class=\"content\">alguien</span></span><span class=\"content\"> buscaba un mont&#243;n de 20 </span><span class=\"it\"><span class=\"content\">medidas, solo</span></span><span class=\"content\"> encontraba 10; ven&#237;a </span><span class=\"it\"><span class=\"content\">alguien</span></span><span class=\"content\"> al lagar para sacar 50 c&#225;ntaros, y </span><span class=\"it\"><span class=\"content\">solo</span></span><span class=\"content\"> sacaba 20. </span></span><span class=\"verse v17\" data-usfm=\"HAG.2.17\"><span class=\"label\">17</span><span class=\"content\">Los her&#237; con </span><span class=\"it\"><span class=\"content\">viento</span></span><span class=\"content\"> abrasador, plaga y granizo en toda obra de sus manos; pero ninguno de ustedes </span><span class=\"it\"><span class=\"content\">se volvi&#243;</span></span><span class=\"content\"> a M&#237;&#8221;, declara el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\">. </span></span><span class=\"verse v18\" data-usfm=\"HAG.2.18\"><span class=\"label\">18</span><span class=\"content\">&#8220;Pero consideren bien </span><span class=\"it\"><span class=\"content\">esto</span></span><span class=\"content\"> desde hoy en adelante, desde el d&#237;a veinticuatro del </span><span class=\"it\"><span class=\"content\">mes</span></span><span class=\"content\"> noveno; desde el d&#237;a en que se pusieron los cimientos del templo del S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\">, consideren bien: </span></span><span class=\"verse v19\" data-usfm=\"HAG.2.19\"><span class=\"label\">19</span><span class=\"content\">&#191;Est&#225; todav&#237;a la semilla en el granero? Todav&#237;a la vid, la higuera, el granado y el olivo no han dado </span><span class=\"it\"><span class=\"content\">fruto; pero</span></span><span class=\"content\"> desde hoy Yo </span><span class=\"it\"><span class=\"content\">los</span></span><span class=\"content\"> bendecir&#233;&#8221;&#8201;&#187;.</span></span></div><div class=\"p\"><span class=\"verse v19\" data-usfm=\"HAG.2.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"HAG.2.20\"><span class=\"label\">20</span><span class=\"content\">La palabra del S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> vino por segunda vez a Hageo, el </span><span class=\"it\"><span class=\"content\">d&#237;a</span></span><span class=\"content\"> veinticuatro del mes, diciendo: </span></span><span class=\"verse v21\" data-usfm=\"HAG.2.21\"><span class=\"label\">21</span><span class=\"content\">&#171;Habla a Zorobabel, gobernador de Jud&#225;: &#8220;Yo estremecer&#233; los cielos y la tierra, </span></span><span class=\"verse v22\" data-usfm=\"HAG.2.22\"><span class=\"label\">22</span><span class=\"content\">y volcar&#233; el trono de los reinos y destruir&#233; el poder de los reinos de las naciones; y volcar&#233; el carro y a los que montan en &#233;l, y caer&#225;n los caballos y sus jinetes, cada uno por la espada de su hermano. </span></span><span class=\"verse v23\" data-usfm=\"HAG.2.23\"><span class=\"label\">23</span><span class=\"content\">En aquel d&#237;a&#8221;, declara el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> de los ej&#233;rcitos, &#8220;te tomar&#233; a ti, Zorobabel, hijo de Salatiel, siervo M&#237;o&#8221;, declara el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\">, &#8220;y te pondr&#233; como </span><span class=\"it\"><span class=\"content\">anillo de</span></span><span class=\"content\"> sellar, porque Yo te he escogido&#8221;&#8201;&#187;, declara el S</span><span class=\"sc\"><span class=\"content\">e&#241;or</span></span><span class=\"content\"> de los ej&#233;rcitos.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "El día veintiuno del mes séptimo, vino la palabra del Señor por medio del profeta Hageo:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "«Habla ahora a Zorobabel, hijo de Salatiel, gobernador de Judá, y al sumo sacerdote Josué, hijo de Josadac, y al remanente del pueblo:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "“¿Quién ha quedado entre ustedes que haya visto este templo en su gloria primera? ¿Y cómo lo ven ahora? Tal como está, ¿no es como nada ante sus ojos?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Pero ahora, esfuérzate, Zorobabel”, declara el Señor, “esfuérzate tú también, Josué, hijo de Josadac, sumo sacerdote, y esfuércense todos ustedes, pueblo de la tierra”, declara el Señor, “y trabajen, porque Yo estoy con ustedes”, declara el Señor de los ejércitos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "“Conforme a la promesa que les hice cuando salieron de Egipto, Mi Espíritu permanece en medio de ustedes; no teman”."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "»Porque así dice el Señor de los ejércitos: “Una vez más, dentro de poco, Yo haré temblar los cielos y la tierra, el mar y la tierra firme."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Y haré temblar a todas las naciones; vendrán entonces los tesoros de todas las naciones, y Yo llenaré de gloria esta casa”, dice el Señor de los ejércitos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "“Mía es la plata y Mío es el oro”, declara el Señor de los ejércitos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "“La gloria postrera de esta casa será mayor que la primera”, dice el Señor de los ejércitos, “y en este lugar daré paz”, declara el Señor de los ejércitos»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "El día veinticuatro del mes noveno, en el año segundo de Darío, vino la palabra del Señor al profeta Hageo:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "«Así dice el Señor de los ejércitos: “Pide ahora instrucción a los sacerdotes:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Si alguien lleva carne consagrada en la falda de su vestidura, y con su falda toca pan, alimento cocido, vino, aceite o cualquier otro alimento, ¿quedará este consagrado?” ». Y los sacerdotes respondieron: «No»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Y dijo Hageo: «Si alguien, inmundo por el contacto con un cadáver, toca cualquiera de estas cosas, ¿quedará inmunda?». «Quedará inmunda», respondieron los sacerdotes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Entonces volvió a hablar Hageo: « “Así es este pueblo y así es esta nación delante de Mí”, declara el Señor, “y así es toda obra de sus manos; y lo que aquí ofrecen, inmundo es."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "”Ahora pues, consideren bien esto de hoy en adelante: antes que se pusiera piedra sobre piedra en el templo del Señor,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "en aquel tiempo, cuando alguien buscaba un montón de 20 medidas, solo encontraba 10; venía alguien al lagar para sacar 50 cántaros, y solo sacaba 20."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Los herí con viento abrasador, plaga y granizo en toda obra de sus manos; pero ninguno de ustedes se volvió a Mí”, declara el Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "“Pero consideren bien esto desde hoy en adelante, desde el día veinticuatro del mes noveno; desde el día en que se pusieron los cimientos del templo del Señor, consideren bien:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "¿Está todavía la semilla en el granero? Todavía la vid, la higuera, el granado y el olivo no han dado fruto; pero desde hoy Yo los bendeciré” »."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "La palabra del Señor vino por segunda vez a Hageo, el día veinticuatro del mes, diciendo:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "«Habla a Zorobabel, gobernador de Judá: “Yo estremeceré los cielos y la tierra,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "y volcaré el trono de los reinos y destruiré el poder de los reinos de las naciones; y volcaré el carro y a los que montan en él, y caerán los caballos y sus jinetes, cada uno por la espada de su hermano."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "En aquel día”, declara el Señor de los ejércitos, “te tomaré a ti, Zorobabel, hijo de Salatiel, siervo Mío”, declara el Señor, “y te pondré como anillo de sellar, porque Yo te he escogido” », declara el Señor de los ejércitos."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

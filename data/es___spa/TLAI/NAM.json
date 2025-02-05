@@ -1,0 +1,550 @@
+{
+  "book_usfm": "NAM",
+  "name": "Nahúm",
+  "local_title": "Traducción en Lenguaje Actual Interconfesional",
+  "local_abbreviation": "TLAI",
+  "version_id": 178,
+  "publisher": {
+    "name": "United Bible Societies"
+  },
+  "copyright": {
+    "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+    "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "NAM.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "NAM.1"
+        ],
+        "human": "Nahúm 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "NAM.2"
+        ],
+        "human": "Nahúm 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "MIC.7"
+        ],
+        "human": "Miqueas 7",
+        "toc": true
+      },
+      "chapter_text": "Yo soy Nahúm de Elcós. En un sueño Dios me habló acerca de Nínive, y este es el mensaje que escribí contra esa ciudad:\n\nNuestro Dios exige\nque le seamos fieles.\nCuando se enoja, toma venganza\nde sus enemigos y de sus contrarios.\n\nNuestro Dios es muy poderoso\ny siempre castiga a quien lo merece,\npero también es un Dios paciente,\ny no se enoja con facilidad.\n\nNuestro Dios camina entre las tormentas;\nlas nubes son el polvo que levanta.\nSi reprende al mar y a los ríos,\nestos se quedan secos por completo\ny se marchitan las flores del Líbano,\nlos campos de Basán y el monte Carmelo.\n\nEn presencia de nuestro Dios\ntiemblan la tierra y sus habitantes,\ny los cerros y las montañas se sacuden.\n\nCuando nuestro Dios se enoja,\nlas piedras se hacen polvo,\ncomo si las partiera un rayo;\ncuando nuestro Dios se enoja,\nnadie puede mantenerse firme.\n\nNuestro Dios es bondadoso\ny cuida de los que en él confían.\nEn momentos de angustia,\nél nos brinda protección.\nPero también destruye a sus enemigos;\nlos arrastra como un río desbordado,\n¡los persigue hasta en la oscuridad!\n\nUstedes, habitantes de Nínive,\n¿por qué hacen planes malvados?\nHay entre ustedes un consejero malvado,\nque hace planes contra nuestro Dios,\npero Dios acabará con ustedes;\nlos destruirá por completo,\ny no les dará otra oportunidad;\nles prenderá fuego, como a la paja,\ncomo si fueran un montón de espinas.\n\nNuestro Dios ha dicho:\n\n«Asiria es un país poderoso,\npero yo lo voy a destruir.\nDestruiré su templo,\nsus ídolos y sus imágenes,\ny todos se olvidarán de él.\nDejaré ese país en ruinas,\npues solo merece mi desprecio.\n\n»Y aunque a ti, pueblo de Judá,\nte hice sufrir al principio,\nya no te haré sufrir más.\nAl contrario, te pondré en libertad\ny no volverás a ser esclavo.\n\n15 (2.1) »Miren, habitantes de Judá:\n¡ya vienen sobre los montes\nlos que traen buenas noticias!\n¡Ya es tiempo de que hagan fiesta\ny de que me cumplan sus promesas!\nPorque yo destruiré a esos malvados,\ny nunca más los volverán a atacar».",
+      "chapter_html": "<div class=\"version vid178 iso6393spa\" data-vid=\"178\" data-iso6393=\"spa\">\n   <div class=\"book bkNAM\">\n      <div class=\"chapter ch1\" data-usfm=\"NAM.1\">\n         <div class=\"label\">1</div><div class=\"s1\"><span class=\"heading\">Mensaje contra N&#237;nive, la capital de Asiria</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"NAM.1.1\"><span class=\"label\">1</span><span class=\"content\">Yo soy Nah&#250;m de Elc&#243;s. En un sue&#241;o Dios me habl&#243; acerca de N&#237;nive, y este es el mensaje que escrib&#237; contra esa ciudad:</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"NAM.1.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"NAM.1.2\"><span class=\"label\">2</span><span class=\"content\">Nuestro Dios exige</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"NAM.1.2\"><span class=\"content\">que le seamos fieles.</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"NAM.1.2\"><span class=\"content\">Cuando se enoja, toma venganza</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"NAM.1.2\"><span class=\"content\">de sus enemigos y de sus contrarios.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"NAM.1.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"NAM.1.3\"><span class=\"label\">3</span><span class=\"content\">Nuestro Dios es muy poderoso</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"NAM.1.3\"><span class=\"content\">y siempre castiga a quien lo merece,</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"NAM.1.3\"><span class=\"content\">pero tambi&#233;n es un Dios paciente,</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"NAM.1.3\"><span class=\"content\">y no se enoja con facilidad.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"NAM.1.3\"><span class=\"content\">Nuestro Dios camina entre las tormentas;</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"NAM.1.3\"><span class=\"content\">las nubes son el polvo que levanta.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"NAM.1.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"NAM.1.4\"><span class=\"label\">4</span><span class=\"content\">Si reprende al mar y a los r&#237;os,</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"NAM.1.4\"><span class=\"content\">estos se quedan secos por completo</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"NAM.1.4\"><span class=\"content\">y se marchitan las flores del L&#237;bano,</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"NAM.1.4\"><span class=\"content\">los campos de Bas&#225;n y el monte Carmelo.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"NAM.1.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"NAM.1.5\"><span class=\"label\">5</span><span class=\"content\">En presencia de nuestro Dios</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"NAM.1.5\"><span class=\"content\">tiemblan la tierra y sus habitantes,</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"NAM.1.5\"><span class=\"content\">y los cerros y las monta&#241;as se sacuden.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"NAM.1.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"NAM.1.6\"><span class=\"label\">6</span><span class=\"content\">Cuando nuestro Dios se enoja,</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"NAM.1.6\"><span class=\"content\">las piedras se hacen polvo,</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"NAM.1.6\"><span class=\"content\">como si las partiera un rayo;</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"NAM.1.6\"><span class=\"content\">cuando nuestro Dios se enoja,</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"NAM.1.6\"><span class=\"content\">nadie puede mantenerse firme.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"NAM.1.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"NAM.1.7\"><span class=\"label\">7</span><span class=\"content\">Nuestro Dios es bondadoso</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"NAM.1.7\"><span class=\"content\">y cuida de los que en &#233;l conf&#237;an.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"NAM.1.7\"><span class=\"content\">En momentos de angustia,</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"NAM.1.7\"><span class=\"content\">&#233;l nos brinda protecci&#243;n.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"NAM.1.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"NAM.1.8\"><span class=\"label\">8</span><span class=\"content\">Pero tambi&#233;n destruye a sus enemigos;</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"NAM.1.8\"><span class=\"content\">los arrastra como un r&#237;o desbordado,</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"NAM.1.8\"><span class=\"content\">&#161;los persigue hasta en la oscuridad!</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"NAM.1.8\"><span class=\"content\">  </span></span><span class=\"verse v9 v10 v11\" data-usfm=\"NAM.1.9+NAM.1.10+NAM.1.11\"><span class=\"label\">9-11</span><span class=\"content\">Ustedes, habitantes de N&#237;nive,</span></span></div><div class=\"q1\"><span class=\"verse v9 v10 v11\" data-usfm=\"NAM.1.9+NAM.1.10+NAM.1.11\"><span class=\"content\">&#191;por qu&#233; hacen planes malvados?</span></span></div><div class=\"q1\"><span class=\"verse v9 v10 v11\" data-usfm=\"NAM.1.9+NAM.1.10+NAM.1.11\"><span class=\"content\">Hay entre ustedes un consejero malvado,</span></span></div><div class=\"q1\"><span class=\"verse v9 v10 v11\" data-usfm=\"NAM.1.9+NAM.1.10+NAM.1.11\"><span class=\"content\">que hace planes contra nuestro Dios,</span></span></div><div class=\"q1\"><span class=\"verse v9 v10 v11\" data-usfm=\"NAM.1.9+NAM.1.10+NAM.1.11\"><span class=\"content\">pero Dios acabar&#225; con ustedes;</span></span></div><div class=\"q1\"><span class=\"verse v9 v10 v11\" data-usfm=\"NAM.1.9+NAM.1.10+NAM.1.11\"><span class=\"content\">los destruir&#225; por completo,</span></span></div><div class=\"q1\"><span class=\"verse v9 v10 v11\" data-usfm=\"NAM.1.9+NAM.1.10+NAM.1.11\"><span class=\"content\">y no les dar&#225; otra oportunidad;</span></span></div><div class=\"q1\"><span class=\"verse v9 v10 v11\" data-usfm=\"NAM.1.9+NAM.1.10+NAM.1.11\"><span class=\"content\">les prender&#225; fuego, como a la paja,</span></span></div><div class=\"q1\"><span class=\"verse v9 v10 v11\" data-usfm=\"NAM.1.9+NAM.1.10+NAM.1.11\"><span class=\"content\">como si fueran un mont&#243;n de espinas.</span></span></div><div class=\"s1\"><span class=\"heading\">Mensaje al pueblo de Dios</span></div><div class=\"p\"><span class=\"verse v9 v10 v11\" data-usfm=\"NAM.1.9+NAM.1.10+NAM.1.11\"><span class=\"content\">  </span></span><span class=\"verse v12 v13 v14\" data-usfm=\"NAM.1.12+NAM.1.13+NAM.1.14\"><span class=\"label\">12-14</span><span class=\"content\">Nuestro Dios ha dicho:</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v12 v13 v14\" data-usfm=\"NAM.1.12+NAM.1.13+NAM.1.14\"><span class=\"content\">&#171;Asiria es un pa&#237;s poderoso,</span></span></div><div class=\"q1\"><span class=\"verse v12 v13 v14\" data-usfm=\"NAM.1.12+NAM.1.13+NAM.1.14\"><span class=\"content\">pero yo lo voy a destruir.</span></span></div><div class=\"q1\"><span class=\"verse v12 v13 v14\" data-usfm=\"NAM.1.12+NAM.1.13+NAM.1.14\"><span class=\"content\">Destruir&#233; su templo,</span></span></div><div class=\"q1\"><span class=\"verse v12 v13 v14\" data-usfm=\"NAM.1.12+NAM.1.13+NAM.1.14\"><span class=\"content\">sus </span><span class=\"w\"><span class=\"content\">&#237;dolos</span></span><span class=\"content\"> y sus im&#225;genes,</span></span></div><div class=\"q1\"><span class=\"verse v12 v13 v14\" data-usfm=\"NAM.1.12+NAM.1.13+NAM.1.14\"><span class=\"content\">y todos se olvidar&#225;n de &#233;l.</span></span></div><div class=\"q1\"><span class=\"verse v12 v13 v14\" data-usfm=\"NAM.1.12+NAM.1.13+NAM.1.14\"><span class=\"content\">Dejar&#233; ese pa&#237;s en ruinas,</span></span></div><div class=\"q1\"><span class=\"verse v12 v13 v14\" data-usfm=\"NAM.1.12+NAM.1.13+NAM.1.14\"><span class=\"content\">pues solo merece mi desprecio.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v12 v13 v14\" data-usfm=\"NAM.1.12+NAM.1.13+NAM.1.14\"><span class=\"content\">&#187;Y aunque a ti, pueblo de Jud&#225;,</span></span></div><div class=\"q1\"><span class=\"verse v12 v13 v14\" data-usfm=\"NAM.1.12+NAM.1.13+NAM.1.14\"><span class=\"content\">te hice sufrir al principio,</span></span></div><div class=\"q1\"><span class=\"verse v12 v13 v14\" data-usfm=\"NAM.1.12+NAM.1.13+NAM.1.14\"><span class=\"content\">ya no te har&#233; sufrir m&#225;s.</span></span></div><div class=\"q1\"><span class=\"verse v12 v13 v14\" data-usfm=\"NAM.1.12+NAM.1.13+NAM.1.14\"><span class=\"content\">Al contrario, te pondr&#233; en libertad</span></span></div><div class=\"q1\"><span class=\"verse v12 v13 v14\" data-usfm=\"NAM.1.12+NAM.1.13+NAM.1.14\"><span class=\"content\">y no volver&#225;s a ser esclavo.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v12 v13 v14\" data-usfm=\"NAM.1.12+NAM.1.13+NAM.1.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"NAM.1.15\"><span class=\"label\">15</span><span class=\"content\">  </span><span class=\"vp\"><span class=\"content\">15 (2.1)</span></span><span class=\"content\"> &#187;Miren, habitantes de Jud&#225;:</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"NAM.1.15\"><span class=\"content\">&#161;ya vienen sobre los montes</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"NAM.1.15\"><span class=\"content\">los que traen buenas noticias!</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"NAM.1.15\"><span class=\"content\">&#161;Ya es tiempo de que hagan fiesta</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"NAM.1.15\"><span class=\"content\">y de que me cumplan sus promesas!</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"NAM.1.15\"><span class=\"content\">Porque yo destruir&#233; a esos malvados,</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"NAM.1.15\"><span class=\"content\">y nunca m&#225;s los volver&#225;n a atacar&#187;.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Mensaje contra Nínive, la capital de Asiria"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Yo soy Nahúm de Elcós. En un sueño Dios me habló acerca de Nínive, y este es el mensaje que escribí contra esa ciudad:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Nuestro Dios exige",
+            "que le seamos fieles.",
+            "Cuando se enoja, toma venganza",
+            "de sus enemigos y de sus contrarios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Nuestro Dios es muy poderoso",
+            "y siempre castiga a quien lo merece,",
+            "pero también es un Dios paciente,",
+            "y no se enoja con facilidad.",
+            "Nuestro Dios camina entre las tormentas;",
+            "las nubes son el polvo que levanta."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Si reprende al mar y a los ríos,",
+            "estos se quedan secos por completo",
+            "y se marchitan las flores del Líbano,",
+            "los campos de Basán y el monte Carmelo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "En presencia de nuestro Dios",
+            "tiemblan la tierra y sus habitantes,",
+            "y los cerros y las montañas se sacuden."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Cuando nuestro Dios se enoja,",
+            "las piedras se hacen polvo,",
+            "como si las partiera un rayo;",
+            "cuando nuestro Dios se enoja,",
+            "nadie puede mantenerse firme."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Nuestro Dios es bondadoso",
+            "y cuida de los que en él confían.",
+            "En momentos de angustia,",
+            "él nos brinda protección."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Pero también destruye a sus enemigos;",
+            "los arrastra como un río desbordado,",
+            "¡los persigue hasta en la oscuridad!",
+            "Ustedes, habitantes de Nínive,",
+            "¿por qué hacen planes malvados?",
+            "Hay entre ustedes un consejero malvado,",
+            "que hace planes contra nuestro Dios,",
+            "pero Dios acabará con ustedes;",
+            "los destruirá por completo,",
+            "y no les dará otra oportunidad;",
+            "les prenderá fuego, como a la paja,",
+            "como si fueran un montón de espinas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Mensaje al pueblo de Dios"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "15 (2.1) »Miren, habitantes de Judá:",
+            "¡ya vienen sobre los montes",
+            "los que traen buenas noticias!",
+            "¡Ya es tiempo de que hagan fiesta",
+            "y de que me cumplan sus promesas!",
+            "Porque yo destruiré a esos malvados,",
+            "y nunca más los volverán a atacar»."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "NAM.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "NAM.2"
+        ],
+        "human": "Nahúm 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "NAM.3"
+        ],
+        "human": "Nahúm 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "NAM.1"
+        ],
+        "human": "Nahúm 1",
+        "toc": true
+      },
+      "chapter_text": "1-2 (2-3) Habitantes de Asiria,\nustedes atacaron a mi pueblo;\nlo dejaron como a un arbusto\ncon las ramas rotas,\npero Dios le devolverá su grandeza\nal reino de Israel.\n\n¡Prepárate, Asiria,\ntu destructor ya va en camino!\n¡Reúne a tu ejército!\n¡Pon guardias en tus murallas!\n¡Vigila el camino\ny prepara tus armas!\n\n3-4 (4-5) ¡Ya llega tu enemigo!\nViene agitando sus lanzas;\nsus soldados visten de rojo,\ny del mismo color son sus escudos;\nsus carros son veloces como el rayo\ny brillantes como el relámpago;\nya están listos para la batalla,\ny recorren calles y plazas.\n\n5 (6) Los generales dan órdenes,\ny los soldados corren a cumplirlas;\nya colocan las torres para el asalto,\npero caen al trepar por las murallas.\n\n6 (7) ¡Asiria,\ntus enemigos derriban las puertas\nde tu ciudad capital!\nLos soldados llenan la ciudad\ny en el palacio todos tiemblan de miedo.\n7 (8) Toman presa a la reina,\ny junto con sus sirvientas\nse la llevan a otro país.\n¡Todas ellas gimen\ny lloran de dolor!\n\n8 (9) Tus habitantes huyen de la ciudad;\n¡son como el agua que se escapa\nde un estanque roto!\nEl enemigo intenta detenerlos,\npero sin éxito alguno.\n\n9 (10) Los soldados enemigos gritan:\n«Tomemos el oro y la plata;\n¡son tantas las riquezas de Asiria\nque parecen no tener fin!»\n\n10 (11) Asiria,\ntu capital ha quedado destruida,\narruinada y con poca gente;\nlos que quedaron tiemblan de miedo,\nlas fuerzas los abandonan,\ny el terror los deja pálidos.\n\n11-12 (12-13) Asiria parecía un león feroz:\nmataba y despedazaba a sus enemigos,\nluego tomaba sus riquezas\ny las repartía entre su gente.\nNadie invadía su territorio.\n¿Pero dónde está ahora su poder?\n¿Dónde están sus feroces soldados?\n\n13 (14) Así dice nuestro Dios:\n\n«Asiria, yo estoy contra ti.\nVoy a quemar tus carros de guerra;\nvoy a matar a todos tus habitantes.\nPondré fin a todos tus robos,\ny no volverán a escucharse\nlas amenazas de tus mensajeros.\nYo soy el Dios de Israel,\ny te juro que así lo haré».",
+      "chapter_html": "<div class=\"version vid178 iso6393spa\" data-vid=\"178\" data-iso6393=\"spa\">\n   <div class=\"book bkNAM\">\n      <div class=\"chapter ch2\" data-usfm=\"NAM.2\">\n         <div class=\"label\">2</div><div class=\"s1\"><span class=\"heading\">Asiria ser&#225; destruida</span></div><div class=\"q1\"><span class=\"content\">  </span><span class=\"verse v1 v2\" data-usfm=\"NAM.2.1+NAM.2.2\"><span class=\"label\">1-2</span><span class=\"content\">  </span><span class=\"vp\"><span class=\"content\">1-2 (2-3)</span></span><span class=\"content\"> Habitantes de Asiria,</span></span></div><div class=\"q1\"><span class=\"verse v1 v2\" data-usfm=\"NAM.2.1+NAM.2.2\"><span class=\"content\">ustedes atacaron a mi pueblo;</span></span></div><div class=\"q1\"><span class=\"verse v1 v2\" data-usfm=\"NAM.2.1+NAM.2.2\"><span class=\"content\">lo dejaron como a un arbusto</span></span></div><div class=\"q1\"><span class=\"verse v1 v2\" data-usfm=\"NAM.2.1+NAM.2.2\"><span class=\"content\">con las ramas rotas,</span></span></div><div class=\"q1\"><span class=\"verse v1 v2\" data-usfm=\"NAM.2.1+NAM.2.2\"><span class=\"content\">pero Dios le devolver&#225; su grandeza</span></span></div><div class=\"q1\"><span class=\"verse v1 v2\" data-usfm=\"NAM.2.1+NAM.2.2\"><span class=\"content\">al reino de Israel.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v1 v2\" data-usfm=\"NAM.2.1+NAM.2.2\"><span class=\"content\">&#161;Prep&#225;rate, Asiria,</span></span></div><div class=\"q1\"><span class=\"verse v1 v2\" data-usfm=\"NAM.2.1+NAM.2.2\"><span class=\"content\">tu destructor ya va en camino!</span></span></div><div class=\"q1\"><span class=\"verse v1 v2\" data-usfm=\"NAM.2.1+NAM.2.2\"><span class=\"content\">&#161;Re&#250;ne a tu ej&#233;rcito!</span></span></div><div class=\"q1\"><span class=\"verse v1 v2\" data-usfm=\"NAM.2.1+NAM.2.2\"><span class=\"content\">&#161;Pon guardias en tus murallas!</span></span></div><div class=\"q1\"><span class=\"verse v1 v2\" data-usfm=\"NAM.2.1+NAM.2.2\"><span class=\"content\">&#161;Vigila el camino</span></span></div><div class=\"q1\"><span class=\"verse v1 v2\" data-usfm=\"NAM.2.1+NAM.2.2\"><span class=\"content\">y prepara tus armas!</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v1 v2\" data-usfm=\"NAM.2.1+NAM.2.2\"><span class=\"content\">  </span></span><span class=\"verse v3 v4\" data-usfm=\"NAM.2.3+NAM.2.4\"><span class=\"label\">3-4</span><span class=\"content\">  </span><span class=\"vp\"><span class=\"content\">3-4 (4-5)</span></span><span class=\"content\"> &#161;Ya llega tu enemigo!</span></span></div><div class=\"q1\"><span class=\"verse v3 v4\" data-usfm=\"NAM.2.3+NAM.2.4\"><span class=\"content\">Viene agitando sus lanzas;</span></span></div><div class=\"q1\"><span class=\"verse v3 v4\" data-usfm=\"NAM.2.3+NAM.2.4\"><span class=\"content\">sus soldados visten de rojo,</span></span></div><div class=\"q1\"><span class=\"verse v3 v4\" data-usfm=\"NAM.2.3+NAM.2.4\"><span class=\"content\">y del mismo color son sus escudos;</span></span></div><div class=\"q1\"><span class=\"verse v3 v4\" data-usfm=\"NAM.2.3+NAM.2.4\"><span class=\"content\">sus carros son veloces como el rayo</span></span></div><div class=\"q1\"><span class=\"verse v3 v4\" data-usfm=\"NAM.2.3+NAM.2.4\"><span class=\"content\">y brillantes como el rel&#225;mpago;</span></span></div><div class=\"q1\"><span class=\"verse v3 v4\" data-usfm=\"NAM.2.3+NAM.2.4\"><span class=\"content\">ya est&#225;n listos para la batalla,</span></span></div><div class=\"q1\"><span class=\"verse v3 v4\" data-usfm=\"NAM.2.3+NAM.2.4\"><span class=\"content\">y recorren calles y plazas.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v3 v4\" data-usfm=\"NAM.2.3+NAM.2.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"NAM.2.5\"><span class=\"label\">5</span><span class=\"content\">  </span><span class=\"vp\"><span class=\"content\">5 (6)</span></span><span class=\"content\"> Los generales dan &#243;rdenes,</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"NAM.2.5\"><span class=\"content\">y los soldados corren a cumplirlas;</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"NAM.2.5\"><span class=\"content\">ya colocan las torres para el asalto,</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"NAM.2.5\"><span class=\"content\">pero caen al trepar por las murallas.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"NAM.2.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"NAM.2.6\"><span class=\"label\">6</span><span class=\"content\">  </span><span class=\"vp\"><span class=\"content\">6 (7)</span></span><span class=\"content\"> &#161;Asiria,</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"NAM.2.6\"><span class=\"content\">tus enemigos derriban las puertas</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"NAM.2.6\"><span class=\"content\">de tu ciudad capital!</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"NAM.2.6\"><span class=\"content\">Los soldados llenan la ciudad</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"NAM.2.6\"><span class=\"content\">y en el palacio todos tiemblan de miedo.</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"NAM.2.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"NAM.2.7\"><span class=\"label\">7</span><span class=\"content\">  </span><span class=\"vp\"><span class=\"content\">7 (8)</span></span><span class=\"content\"> Toman presa a la reina,</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"NAM.2.7\"><span class=\"content\">y junto con sus sirvientas</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"NAM.2.7\"><span class=\"content\">se la llevan a otro pa&#237;s.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"NAM.2.7\"><span class=\"content\">&#161;Todas ellas gimen</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"NAM.2.7\"><span class=\"content\">y lloran de dolor!</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"NAM.2.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"NAM.2.8\"><span class=\"label\">8</span><span class=\"content\">  </span><span class=\"vp\"><span class=\"content\">8 (9)</span></span><span class=\"content\"> Tus habitantes huyen de la ciudad;</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"NAM.2.8\"><span class=\"content\">&#161;son como el agua que se escapa</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"NAM.2.8\"><span class=\"content\">de un estanque roto!</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"NAM.2.8\"><span class=\"content\">El enemigo intenta detenerlos,</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"NAM.2.8\"><span class=\"content\">pero sin &#233;xito alguno.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"NAM.2.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"NAM.2.9\"><span class=\"label\">9</span><span class=\"content\">  </span><span class=\"vp\"><span class=\"content\">9 (10)</span></span><span class=\"content\"> Los soldados enemigos gritan:</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"NAM.2.9\"><span class=\"content\">&#171;Tomemos el oro y la plata;</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"NAM.2.9\"><span class=\"content\">&#161;son tantas las riquezas de Asiria</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"NAM.2.9\"><span class=\"content\">que parecen no tener fin!&#187;</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"NAM.2.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"NAM.2.10\"><span class=\"label\">10</span><span class=\"content\">  </span><span class=\"vp\"><span class=\"content\">10 (11)</span></span><span class=\"content\"> Asiria,</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"NAM.2.10\"><span class=\"content\">tu capital ha quedado destruida,</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"NAM.2.10\"><span class=\"content\">arruinada y con poca gente;</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"NAM.2.10\"><span class=\"content\">los que quedaron tiemblan de miedo,</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"NAM.2.10\"><span class=\"content\">las fuerzas los abandonan,</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"NAM.2.10\"><span class=\"content\">y el terror los deja p&#225;lidos.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"NAM.2.10\"><span class=\"content\">  </span></span><span class=\"verse v11 v12\" data-usfm=\"NAM.2.11+NAM.2.12\"><span class=\"label\">11-12</span><span class=\"content\">  </span><span class=\"vp\"><span class=\"content\">11-12 (12-13)</span></span><span class=\"content\"> Asiria parec&#237;a un le&#243;n feroz:</span></span></div><div class=\"q1\"><span class=\"verse v11 v12\" data-usfm=\"NAM.2.11+NAM.2.12\"><span class=\"content\">mataba y despedazaba a sus enemigos,</span></span></div><div class=\"q1\"><span class=\"verse v11 v12\" data-usfm=\"NAM.2.11+NAM.2.12\"><span class=\"content\">luego tomaba sus riquezas</span></span></div><div class=\"q1\"><span class=\"verse v11 v12\" data-usfm=\"NAM.2.11+NAM.2.12\"><span class=\"content\">y las repart&#237;a entre su gente.</span></span></div><div class=\"q1\"><span class=\"verse v11 v12\" data-usfm=\"NAM.2.11+NAM.2.12\"><span class=\"content\">Nadie invad&#237;a su territorio.</span></span></div><div class=\"q1\"><span class=\"verse v11 v12\" data-usfm=\"NAM.2.11+NAM.2.12\"><span class=\"content\">&#191;Pero d&#243;nde est&#225; ahora su poder?</span></span></div><div class=\"q1\"><span class=\"verse v11 v12\" data-usfm=\"NAM.2.11+NAM.2.12\"><span class=\"content\">&#191;D&#243;nde est&#225;n sus feroces soldados?</span></span></div><div class=\"b\"></div><div class=\"p\"><span class=\"verse v11 v12\" data-usfm=\"NAM.2.11+NAM.2.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"NAM.2.13\"><span class=\"label\">13</span><span class=\"content\">  </span><span class=\"vp\"><span class=\"content\">13 (14)</span></span><span class=\"content\"> As&#237; dice nuestro Dios:</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"NAM.2.13\"><span class=\"content\">&#171;Asiria, yo estoy contra ti.</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"NAM.2.13\"><span class=\"content\">Voy a quemar tus carros de guerra;</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"NAM.2.13\"><span class=\"content\">voy a matar a todos tus habitantes.</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"NAM.2.13\"><span class=\"content\">Pondr&#233; fin a todos tus robos,</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"NAM.2.13\"><span class=\"content\">y no volver&#225;n a escucharse</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"NAM.2.13\"><span class=\"content\">las amenazas de tus mensajeros.</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"NAM.2.13\"><span class=\"content\">Yo soy el Dios de Israel,</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"NAM.2.13\"><span class=\"content\">y te juro que as&#237; lo har&#233;&#187;.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Asiria será destruida"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": -1,
+          "lines": [
+            "1-2 (2-3) Habitantes de Asiria,",
+            "ustedes atacaron a mi pueblo;",
+            "lo dejaron como a un arbusto",
+            "con las ramas rotas,",
+            "pero Dios le devolverá su grandeza",
+            "al reino de Israel.",
+            "¡Prepárate, Asiria,",
+            "tu destructor ya va en camino!",
+            "¡Reúne a tu ejército!",
+            "¡Pon guardias en tus murallas!",
+            "¡Vigila el camino",
+            "y prepara tus armas!",
+            "3-4 (4-5) ¡Ya llega tu enemigo!",
+            "Viene agitando sus lanzas;",
+            "sus soldados visten de rojo,",
+            "y del mismo color son sus escudos;",
+            "sus carros son veloces como el rayo",
+            "y brillantes como el relámpago;",
+            "ya están listos para la batalla,",
+            "y recorren calles y plazas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "5 (6) Los generales dan órdenes,",
+            "y los soldados corren a cumplirlas;",
+            "ya colocan las torres para el asalto,",
+            "pero caen al trepar por las murallas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "6 (7) ¡Asiria,",
+            "tus enemigos derriban las puertas",
+            "de tu ciudad capital!",
+            "Los soldados llenan la ciudad",
+            "y en el palacio todos tiemblan de miedo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "7 (8) Toman presa a la reina,",
+            "y junto con sus sirvientas",
+            "se la llevan a otro país.",
+            "¡Todas ellas gimen",
+            "y lloran de dolor!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "8 (9) Tus habitantes huyen de la ciudad;",
+            "¡son como el agua que se escapa",
+            "de un estanque roto!",
+            "El enemigo intenta detenerlos,",
+            "pero sin éxito alguno."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "9 (10) Los soldados enemigos gritan:",
+            "«Tomemos el oro y la plata;",
+            "¡son tantas las riquezas de Asiria",
+            "que parecen no tener fin!»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "10 (11) Asiria,",
+            "tu capital ha quedado destruida,",
+            "arruinada y con poca gente;",
+            "los que quedaron tiemblan de miedo,",
+            "las fuerzas los abandonan,",
+            "y el terror los deja pálidos.",
+            "11-12 (12-13) Asiria parecía un león feroz:",
+            "mataba y despedazaba a sus enemigos,",
+            "luego tomaba sus riquezas",
+            "y las repartía entre su gente.",
+            "Nadie invadía su territorio.",
+            "¿Pero dónde está ahora su poder?",
+            "¿Dónde están sus feroces soldados?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "13 (14) Así dice nuestro Dios:",
+            "«Asiria, yo estoy contra ti.",
+            "Voy a quemar tus carros de guerra;",
+            "voy a matar a todos tus habitantes.",
+            "Pondré fin a todos tus robos,",
+            "y no volverán a escucharse",
+            "las amenazas de tus mensajeros.",
+            "Yo soy el Dios de Israel,",
+            "y te juro que así lo haré»."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "NAM.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "NAM.3"
+        ],
+        "human": "Nahúm 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "HAB.1"
+        ],
+        "human": "Habacuc 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "NAM.2"
+        ],
+        "human": "Nahúm 2",
+        "toc": true
+      },
+      "chapter_text": "Así dice nuestro Dios:\n\n«¡Pobrecita de ti,\ncapital de Asiria!\n¡Estás llena de asesinos,\nde mentirosos y ladrones\nque no se cansan de robar!\n\n»¡Ya se escuchan los látigos\ny el estruendo de las ruedas!\n¡Ya se oye el galopar de los caballos\ny el ruido de los carros de guerra!\n¡Ya ataca la caballería,\ny deslumbran las espadas y las lanzas!\n¡No es posible contar los heridos\nni saber cuántos son los muertos!\n¡Los cadáveres se amontonan!\n¡La gente tropieza con ellos!\n\n»Asiria, esto te ha pasado\npor engañar a los pueblos.\nLas naciones se enamoraron\nde tus dioses y brujerías,\ny entraron en tratos contigo.\n\n»Pero yo estoy en contra tuya,\ny haré que las naciones y reinos\nse den cuenta de lo que en verdad eres.\nVoy a embarrarte de excremento,\ny quedarás en vergüenza.\nTodos los que te vean\nse alejarán de ti, diciendo:\n“¡Asiria está destruida!\n¿Habrá alguien que la consuele?\n¿Habrá quién le tenga compasión?”\nYo soy el Dios de Israel,\ny juro que así lo haré.\n\n»Nínive, capital de Asiria,\ntú no eres mejor que Tebas.\nA esa ciudad la protegía el río Nilo.\nLa protección que le brindaban\nEtiopía, Egipto, Fut y Libia\naumentaba su poder.\n\n»Pero Tebas fue conquistada.\nA sus pobres niños\nlos estrellaron contra el suelo.\nA la gente importante\nse la repartieron en sorteo,\ny a sus jefes se los llevaron\na un país lejano.\n\n»También tú, Asiria,\nte quedarás tambaleando\ncomo si estuvieras borracha.\nTratarás de esconderte de tus enemigos,\npero no lo conseguirás.\nTus murallas se caerán;\nserán como higueras\ncargadas de higos maduros,\nque si alguien las sacude,\nsus higos caen al suelo\ny la gente se los come.\n\n»El fuego ha quemado tus portones,\ny el enemigo ya está por entrar;\npor eso tus soldados se acobardan.\nAunque guardes mucha agua\npara resistir el ataque,\nde nada te servirá.\nAunque hagas muchos ladrillos\npara reforzar tus murallas,\nmorirás quemada por el fuego\ny destrozada por la guerra;\nel enemigo acabará contigo\ncomo una plaga de saltamontes.\nDe nada te servirán\ntu fuerza militar y tus muchos soldados.\n\n»Tus comerciantes y tus generales\nson tantos como las estrellas del cielo,\n¡pero en cuanto ven el peligro\nhuyen como saltamontes!\nTodos conocemos a estos insectos:\nen cuanto cambian de piel, vuelan;\nen un día frío se paran a calentarse;\npero en cuanto sale el sol\nemprenden vuelo y desaparecen.\n\n»Rey de Asiria,\ntú hiciste sufrir a muchas naciones.\nPero ahora van a morir\ntus generales y tus jefes principales.\nTu ejército andará perdido por los montes,\ny no habrá quien pueda reunirlo.\nTú estás herido de muerte,\ny ya nadie podrá sanarte.\nTodos los que oyen la noticia\naplauden de alegría».",
+      "chapter_html": "<div class=\"version vid178 iso6393spa\" data-vid=\"178\" data-iso6393=\"spa\">\n   <div class=\"book bkNAM\">\n      <div class=\"chapter ch3\" data-usfm=\"NAM.3\">\n         <div class=\"label\">3</div><div class=\"s1\"><span class=\"heading\">Un canto f&#250;nebre</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"NAM.3.1\"><span class=\"label\">1</span><span class=\"content\">As&#237; dice nuestro Dios:</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"NAM.3.1\"><span class=\"content\">&#171;&#161;Pobrecita de ti,</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"NAM.3.1\"><span class=\"content\">capital de Asiria!</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"NAM.3.1\"><span class=\"content\">&#161;Est&#225;s llena de asesinos,</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"NAM.3.1\"><span class=\"content\">de mentirosos y ladrones</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"NAM.3.1\"><span class=\"content\">que no se cansan de robar!</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"NAM.3.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"NAM.3.2\"><span class=\"label\">2</span><span class=\"content\">&#187;&#161;Ya se escuchan los l&#225;tigos</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"NAM.3.2\"><span class=\"content\">y el estruendo de las ruedas!</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"NAM.3.2\"><span class=\"content\">&#161;Ya se oye el galopar de los caballos</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"NAM.3.2\"><span class=\"content\">y el ruido de los carros de guerra!</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"NAM.3.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"NAM.3.3\"><span class=\"label\">3</span><span class=\"content\">&#161;Ya ataca la caballer&#237;a,</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"NAM.3.3\"><span class=\"content\">y deslumbran las espadas y las lanzas!</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"NAM.3.3\"><span class=\"content\">&#161;No es posible contar los heridos</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"NAM.3.3\"><span class=\"content\">ni saber cu&#225;ntos son los muertos!</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"NAM.3.3\"><span class=\"content\">&#161;Los cad&#225;veres se amontonan!</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"NAM.3.3\"><span class=\"content\">&#161;La gente tropieza con ellos!</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"NAM.3.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"NAM.3.4\"><span class=\"label\">4</span><span class=\"content\">&#187;Asiria, esto te ha pasado</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"NAM.3.4\"><span class=\"content\">por enga&#241;ar a los pueblos.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"NAM.3.4\"><span class=\"content\">Las naciones se enamoraron</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"NAM.3.4\"><span class=\"content\">de tus dioses y brujer&#237;as,</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"NAM.3.4\"><span class=\"content\">y entraron en tratos contigo.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"NAM.3.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"NAM.3.5\"><span class=\"label\">5</span><span class=\"content\">&#187;Pero yo estoy en contra tuya,</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"NAM.3.5\"><span class=\"content\">y har&#233; que las naciones y reinos</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"NAM.3.5\"><span class=\"content\">se den cuenta de lo que en verdad eres.</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"NAM.3.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"NAM.3.6\"><span class=\"label\">6</span><span class=\"content\">Voy a embarrarte de excremento,</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"NAM.3.6\"><span class=\"content\">y quedar&#225;s en verg&#252;enza.</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"NAM.3.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"NAM.3.7\"><span class=\"label\">7</span><span class=\"content\">Todos los que te vean</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"NAM.3.7\"><span class=\"content\">se alejar&#225;n de ti, diciendo:</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"NAM.3.7\"><span class=\"content\">&#8220;&#161;Asiria est&#225; destruida!</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"NAM.3.7\"><span class=\"content\">&#191;Habr&#225; alguien que la consuele?</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"NAM.3.7\"><span class=\"content\">&#191;Habr&#225; qui&#233;n le tenga compasi&#243;n?&#8221;</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"NAM.3.7\"><span class=\"content\">Yo soy el Dios de Israel,</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"NAM.3.7\"><span class=\"content\">y juro que as&#237; lo har&#233;.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"NAM.3.7\"><span class=\"content\">  </span></span><span class=\"verse v8 v9 v10\" data-usfm=\"NAM.3.8+NAM.3.9+NAM.3.10\"><span class=\"label\">8-10</span><span class=\"content\">&#187;N&#237;nive, capital de Asiria,</span></span></div><div class=\"q1\"><span class=\"verse v8 v9 v10\" data-usfm=\"NAM.3.8+NAM.3.9+NAM.3.10\"><span class=\"content\">t&#250; no eres mejor que Tebas.</span></span></div><div class=\"q1\"><span class=\"verse v8 v9 v10\" data-usfm=\"NAM.3.8+NAM.3.9+NAM.3.10\"><span class=\"content\">A esa ciudad la proteg&#237;a el r&#237;o Nilo.</span></span></div><div class=\"q1\"><span class=\"verse v8 v9 v10\" data-usfm=\"NAM.3.8+NAM.3.9+NAM.3.10\"><span class=\"content\">La protecci&#243;n que le brindaban</span></span></div><div class=\"q1\"><span class=\"verse v8 v9 v10\" data-usfm=\"NAM.3.8+NAM.3.9+NAM.3.10\"><span class=\"content\">Etiop&#237;a, Egipto, Fut y Libia</span></span></div><div class=\"q1\"><span class=\"verse v8 v9 v10\" data-usfm=\"NAM.3.8+NAM.3.9+NAM.3.10\"><span class=\"content\">aumentaba su poder.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v8 v9 v10\" data-usfm=\"NAM.3.8+NAM.3.9+NAM.3.10\"><span class=\"content\">&#187;Pero Tebas fue conquistada.</span></span></div><div class=\"q1\"><span class=\"verse v8 v9 v10\" data-usfm=\"NAM.3.8+NAM.3.9+NAM.3.10\"><span class=\"content\">A sus pobres ni&#241;os</span></span></div><div class=\"q1\"><span class=\"verse v8 v9 v10\" data-usfm=\"NAM.3.8+NAM.3.9+NAM.3.10\"><span class=\"content\">los estrellaron contra el suelo.</span></span></div><div class=\"q1\"><span class=\"verse v8 v9 v10\" data-usfm=\"NAM.3.8+NAM.3.9+NAM.3.10\"><span class=\"content\">A la gente importante</span></span></div><div class=\"q1\"><span class=\"verse v8 v9 v10\" data-usfm=\"NAM.3.8+NAM.3.9+NAM.3.10\"><span class=\"content\">se la repartieron en sorteo,</span></span></div><div class=\"q1\"><span class=\"verse v8 v9 v10\" data-usfm=\"NAM.3.8+NAM.3.9+NAM.3.10\"><span class=\"content\">y a sus jefes se los llevaron</span></span></div><div class=\"q1\"><span class=\"verse v8 v9 v10\" data-usfm=\"NAM.3.8+NAM.3.9+NAM.3.10\"><span class=\"content\">a un pa&#237;s lejano.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v8 v9 v10\" data-usfm=\"NAM.3.8+NAM.3.9+NAM.3.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"NAM.3.11\"><span class=\"label\">11</span><span class=\"content\">&#187;Tambi&#233;n t&#250;, Asiria,</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"NAM.3.11\"><span class=\"content\">te quedar&#225;s tambaleando</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"NAM.3.11\"><span class=\"content\">como si estuvieras borracha.</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"NAM.3.11\"><span class=\"content\">Tratar&#225;s de esconderte de tus enemigos,</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"NAM.3.11\"><span class=\"content\">pero no lo conseguir&#225;s.</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"NAM.3.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"NAM.3.12\"><span class=\"label\">12</span><span class=\"content\">Tus murallas se caer&#225;n;</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"NAM.3.12\"><span class=\"content\">ser&#225;n como higueras</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"NAM.3.12\"><span class=\"content\">cargadas de higos maduros,</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"NAM.3.12\"><span class=\"content\">que si alguien las sacude,</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"NAM.3.12\"><span class=\"content\">sus higos caen al suelo</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"NAM.3.12\"><span class=\"content\">y la gente se los come.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"NAM.3.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"NAM.3.13\"><span class=\"label\">13</span><span class=\"content\">&#187;El fuego ha quemado tus portones,</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"NAM.3.13\"><span class=\"content\">y el enemigo ya est&#225; por entrar;</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"NAM.3.13\"><span class=\"content\">por eso tus soldados se acobardan.</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"NAM.3.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"NAM.3.14\"><span class=\"label\">14</span><span class=\"content\">Aunque guardes mucha agua</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"NAM.3.14\"><span class=\"content\">para resistir el ataque,</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"NAM.3.14\"><span class=\"content\">de nada te servir&#225;.</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"NAM.3.14\"><span class=\"content\">Aunque hagas muchos ladrillos</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"NAM.3.14\"><span class=\"content\">para reforzar tus murallas,</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"NAM.3.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"NAM.3.15\"><span class=\"label\">15</span><span class=\"content\">morir&#225;s quemada por el fuego</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"NAM.3.15\"><span class=\"content\">y destrozada por la guerra;</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"NAM.3.15\"><span class=\"content\">el enemigo acabar&#225; contigo</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"NAM.3.15\"><span class=\"content\">como una </span><span class=\"w\"><span class=\"content\">plaga</span></span><span class=\"content\"> de saltamontes.</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"NAM.3.15\"><span class=\"content\">De nada te servir&#225;n</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"NAM.3.15\"><span class=\"content\">tu fuerza militar y tus muchos soldados.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"NAM.3.15\"><span class=\"content\">  </span></span><span class=\"verse v16 v17\" data-usfm=\"NAM.3.16+NAM.3.17\"><span class=\"label\">16-17</span><span class=\"content\">&#187;Tus comerciantes y tus generales</span></span></div><div class=\"q1\"><span class=\"verse v16 v17\" data-usfm=\"NAM.3.16+NAM.3.17\"><span class=\"content\">son tantos como las estrellas del cielo,</span></span></div><div class=\"q1\"><span class=\"verse v16 v17\" data-usfm=\"NAM.3.16+NAM.3.17\"><span class=\"content\">&#161;pero en cuanto ven el peligro</span></span></div><div class=\"q1\"><span class=\"verse v16 v17\" data-usfm=\"NAM.3.16+NAM.3.17\"><span class=\"content\">huyen como saltamontes!</span></span></div><div class=\"q1\"><span class=\"verse v16 v17\" data-usfm=\"NAM.3.16+NAM.3.17\"><span class=\"content\">Todos conocemos a estos insectos:</span></span></div><div class=\"q1\"><span class=\"verse v16 v17\" data-usfm=\"NAM.3.16+NAM.3.17\"><span class=\"content\">en cuanto cambian de piel, vuelan;</span></span></div><div class=\"q1\"><span class=\"verse v16 v17\" data-usfm=\"NAM.3.16+NAM.3.17\"><span class=\"content\">en un d&#237;a fr&#237;o se paran a calentarse;</span></span></div><div class=\"q1\"><span class=\"verse v16 v17\" data-usfm=\"NAM.3.16+NAM.3.17\"><span class=\"content\">pero en cuanto sale el sol</span></span></div><div class=\"q1\"><span class=\"verse v16 v17\" data-usfm=\"NAM.3.16+NAM.3.17\"><span class=\"content\">emprenden vuelo y desaparecen.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v16 v17\" data-usfm=\"NAM.3.16+NAM.3.17\"><span class=\"content\">  </span></span><span class=\"verse v18 v19\" data-usfm=\"NAM.3.18+NAM.3.19\"><span class=\"label\">18-19</span><span class=\"content\">&#187;Rey de Asiria,</span></span></div><div class=\"q1\"><span class=\"verse v18 v19\" data-usfm=\"NAM.3.18+NAM.3.19\"><span class=\"content\">t&#250; hiciste sufrir a muchas naciones.</span></span></div><div class=\"q1\"><span class=\"verse v18 v19\" data-usfm=\"NAM.3.18+NAM.3.19\"><span class=\"content\">Pero ahora van a morir</span></span></div><div class=\"q1\"><span class=\"verse v18 v19\" data-usfm=\"NAM.3.18+NAM.3.19\"><span class=\"content\">tus generales y tus jefes principales.</span></span></div><div class=\"q1\"><span class=\"verse v18 v19\" data-usfm=\"NAM.3.18+NAM.3.19\"><span class=\"content\">Tu ej&#233;rcito andar&#225; perdido por los montes,</span></span></div><div class=\"q1\"><span class=\"verse v18 v19\" data-usfm=\"NAM.3.18+NAM.3.19\"><span class=\"content\">y no habr&#225; quien pueda reunirlo.</span></span></div><div class=\"q1\"><span class=\"verse v18 v19\" data-usfm=\"NAM.3.18+NAM.3.19\"><span class=\"content\">T&#250; est&#225;s herido de muerte,</span></span></div><div class=\"q1\"><span class=\"verse v18 v19\" data-usfm=\"NAM.3.18+NAM.3.19\"><span class=\"content\">y ya nadie podr&#225; sanarte.</span></span></div><div class=\"q1\"><span class=\"verse v18 v19\" data-usfm=\"NAM.3.18+NAM.3.19\"><span class=\"content\">Todos los que oyen la noticia</span></span></div><div class=\"q1\"><span class=\"verse v18 v19\" data-usfm=\"NAM.3.18+NAM.3.19\"><span class=\"content\">aplauden de alegr&#237;a&#187;.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Un canto fúnebre"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Así dice nuestro Dios:",
+            "«¡Pobrecita de ti,",
+            "capital de Asiria!",
+            "¡Estás llena de asesinos,",
+            "de mentirosos y ladrones",
+            "que no se cansan de robar!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "»¡Ya se escuchan los látigos",
+            "y el estruendo de las ruedas!",
+            "¡Ya se oye el galopar de los caballos",
+            "y el ruido de los carros de guerra!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "¡Ya ataca la caballería,",
+            "y deslumbran las espadas y las lanzas!",
+            "¡No es posible contar los heridos",
+            "ni saber cuántos son los muertos!",
+            "¡Los cadáveres se amontonan!",
+            "¡La gente tropieza con ellos!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "»Asiria, esto te ha pasado",
+            "por engañar a los pueblos.",
+            "Las naciones se enamoraron",
+            "de tus dioses y brujerías,",
+            "y entraron en tratos contigo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "»Pero yo estoy en contra tuya,",
+            "y haré que las naciones y reinos",
+            "se den cuenta de lo que en verdad eres."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Voy a embarrarte de excremento,",
+            "y quedarás en vergüenza."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Todos los que te vean",
+            "se alejarán de ti, diciendo:",
+            "“¡Asiria está destruida!",
+            "¿Habrá alguien que la consuele?",
+            "¿Habrá quién le tenga compasión?”",
+            "Yo soy el Dios de Israel,",
+            "y juro que así lo haré.",
+            "»Nínive, capital de Asiria,",
+            "tú no eres mejor que Tebas.",
+            "A esa ciudad la protegía el río Nilo.",
+            "La protección que le brindaban",
+            "Etiopía, Egipto, Fut y Libia",
+            "aumentaba su poder.",
+            "»Pero Tebas fue conquistada.",
+            "A sus pobres niños",
+            "los estrellaron contra el suelo.",
+            "A la gente importante",
+            "se la repartieron en sorteo,",
+            "y a sus jefes se los llevaron",
+            "a un país lejano."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "»También tú, Asiria,",
+            "te quedarás tambaleando",
+            "como si estuvieras borracha.",
+            "Tratarás de esconderte de tus enemigos,",
+            "pero no lo conseguirás."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Tus murallas se caerán;",
+            "serán como higueras",
+            "cargadas de higos maduros,",
+            "que si alguien las sacude,",
+            "sus higos caen al suelo",
+            "y la gente se los come."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "»El fuego ha quemado tus portones,",
+            "y el enemigo ya está por entrar;",
+            "por eso tus soldados se acobardan."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Aunque guardes mucha agua",
+            "para resistir el ataque,",
+            "de nada te servirá.",
+            "Aunque hagas muchos ladrillos",
+            "para reforzar tus murallas,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "morirás quemada por el fuego",
+            "y destrozada por la guerra;",
+            "el enemigo acabará contigo",
+            "como una plaga de saltamontes.",
+            "De nada te servirán",
+            "tu fuerza militar y tus muchos soldados.",
+            "»Tus comerciantes y tus generales",
+            "son tantos como las estrellas del cielo,",
+            "¡pero en cuanto ven el peligro",
+            "huyen como saltamontes!",
+            "Todos conocemos a estos insectos:",
+            "en cuanto cambian de piel, vuelan;",
+            "en un día frío se paran a calentarse;",
+            "pero en cuanto sale el sol",
+            "emprenden vuelo y desaparecen.",
+            "»Rey de Asiria,",
+            "tú hiciste sufrir a muchas naciones.",
+            "Pero ahora van a morir",
+            "tus generales y tus jefes principales.",
+            "Tu ejército andará perdido por los montes,",
+            "y no habrá quien pueda reunirlo.",
+            "Tú estás herido de muerte,",
+            "y ya nadie podrá sanarte.",
+            "Todos los que oyen la noticia",
+            "aplauden de alegría»."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

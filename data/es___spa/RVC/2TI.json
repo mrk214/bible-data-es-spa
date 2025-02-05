@@ -1,0 +1,811 @@
+{
+  "book_usfm": "2TI",
+  "name": "2 Timoteo",
+  "local_title": "Reina Valera Contemporánea",
+  "local_abbreviation": "RVC",
+  "version_id": 146,
+  "publisher": {
+    "name": "United Bible Societies"
+  },
+  "copyright": {
+    "html": "<p>Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010.</p>",
+    "text": "Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010."
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "2TI.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "2TI.1"
+        ],
+        "human": "2 Timoteo 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "2TI.2"
+        ],
+        "human": "2 Timoteo 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "1TI.6"
+        ],
+        "human": "1 Timoteo 6",
+        "toc": true
+      },
+      "chapter_text": "Yo, Pablo, apóstol de Jesucristo por la voluntad de Dios y según la promesa de la vida que es en Cristo Jesús,\na Timoteo, amado hijo: Que tengas gracia, misericordia y paz, de Dios el Padre y de Jesucristo nuestro Señor.\n\nDoy gracias a Dios, a quien, como mis antepasados, sirvo con limpia conciencia, de que siempre, día y noche, me acuerdo de ti en mis oraciones.\nAl acordarme de tus lágrimas siento deseos de verte, para llenarme de gozo;\npues me viene a la memoria la fe sincera que hay en ti, la cual habitó primero en tu abuela Loida, y en tu madre Eunice, y estoy seguro de que habita en ti también.\nPor eso te aconsejo que avives el fuego del don de Dios, que por la imposición de mis manos está en ti.\nPorque no nos ha dado Dios un espíritu de cobardía, sino de poder, de amor y de dominio propio.\nPor tanto, no te avergüences de dar testimonio de nuestro Señor, ni tampoco de mí, preso suyo. Al contrario, participa de las aflicciones por el evangelio según el poder de Dios,\nquien nos salvó y nos llamó con llamamiento santo, no conforme a nuestras obras, sino según el propósito suyo y la gracia que nos fue dada en Cristo Jesús antes de los tiempos de los siglos,\npero que ahora ha sido manifestada por la aparición de nuestro Salvador Jesucristo, quien quitó la muerte y sacó a la luz la vida y la inmortalidad por medio del evangelio,\ndel cual yo fui constituido predicador, apóstol y maestro de los no judíos.\nPor eso mismo padezco esto. Pero no me avergüenzo, porque yo sé a quién he creído, y estoy seguro de que él es poderoso para guardar mi depósito para aquel día.\nRetén la forma de las sanas palabras que oíste de mí, en la fe y en el amor que es en Cristo Jesús.\nGuarda el buen depósito por el Espíritu Santo que habita en nosotros.\nYa sabes que me abandonaron todos los que están en Asia, dos de los cuales son Figelo y Hermógenes.\nQue el Señor tenga misericordia de la casa de Onesíforo, porque muchas veces me reanimó, y no se avergonzó de mis cadenas,\nsino que cuando estuvo en Roma, me buscó afanosamente y me halló.\nQue en aquel día el Señor le conceda hallar misericordia cerca del Señor. Tú mejor que nadie sabes cuánto nos ayudó en Éfeso.",
+      "chapter_html": "<div class=\"version vid146 iso6393spa\" data-vid=\"146\" data-iso6393=\"spa\">\n   <div class=\"book bk2TI\">\n      <div class=\"chapter ch1\" data-usfm=\"2TI.1\">\n         <div class=\"label\">1</div><div class=\"s\"><span class=\"heading\">Saludo</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"2TI.1.1\"><span class=\"label\">1</span><span class=\"content\">Yo, Pablo, ap&#243;stol de Jesucristo por la voluntad de Dios y seg&#250;n la promesa de la vida que es en Cristo Jes&#250;s,</span></span></div><div class=\"m\"><span class=\"verse v1\" data-usfm=\"2TI.1.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"2TI.1.2\"><span class=\"label\">2</span><span class=\"content\">a Timoteo, amado hijo: Que tengas gracia, misericordia y paz, de Dios el Padre y de Jesucristo nuestro Se&#241;or.</span></span></div><div class=\"s\"><span class=\"heading\">Testificando de Cristo</span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"2TI.1.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"2TI.1.3\"><span class=\"label\">3</span><span class=\"content\">Doy gracias a Dios, a quien, como mis antepasados, sirvo con limpia conciencia, de que siempre, d&#237;a y noche, me acuerdo de ti en mis oraciones.</span></span></div><div class=\"m\"><span class=\"verse v3\" data-usfm=\"2TI.1.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"2TI.1.4\"><span class=\"label\">4</span><span class=\"content\">Al acordarme de tus l&#225;grimas siento deseos de verte, para llenarme de gozo;</span></span></div><div class=\"m\"><span class=\"verse v4\" data-usfm=\"2TI.1.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"2TI.1.5\"><span class=\"label\">5</span><span class=\"content\">pues me viene a la memoria la fe sincera que hay en ti, la cual habit&#243; primero en tu abuela Loida, y en tu madre Eunice, y estoy seguro de que habita en ti tambi&#233;n.</span></span></div><div class=\"m\"><span class=\"verse v5\" data-usfm=\"2TI.1.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"2TI.1.6\"><span class=\"label\">6</span><span class=\"content\">Por eso te aconsejo que avives el fuego del don de Dios, que por la imposici&#243;n de mis manos est&#225; en ti.</span></span></div><div class=\"m\"><span class=\"verse v6\" data-usfm=\"2TI.1.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"2TI.1.7\"><span class=\"label\">7</span><span class=\"content\">Porque no nos ha dado Dios un esp&#237;ritu de cobard&#237;a, sino de poder, de amor y de dominio propio.</span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"2TI.1.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"2TI.1.8\"><span class=\"label\">8</span><span class=\"content\">Por tanto, no te averg&#252;ences de dar testimonio de nuestro Se&#241;or, ni tampoco de m&#237;, preso suyo. Al contrario, participa de las aflicciones por el evangelio seg&#250;n el poder de Dios,</span></span></div><div class=\"m\"><span class=\"verse v8\" data-usfm=\"2TI.1.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"2TI.1.9\"><span class=\"label\">9</span><span class=\"content\">quien nos salv&#243; y nos llam&#243; con llamamiento santo, no conforme a nuestras obras, sino seg&#250;n el prop&#243;sito suyo y la gracia que nos fue dada en Cristo Jes&#250;s antes de los tiempos de los siglos,</span></span></div><div class=\"m\"><span class=\"verse v9\" data-usfm=\"2TI.1.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"2TI.1.10\"><span class=\"label\">10</span><span class=\"content\">pero que ahora ha sido manifestada por la aparici&#243;n de nuestro Salvador Jesucristo, quien quit&#243; la muerte y sac&#243; a la luz la vida y la inmortalidad por medio del evangelio,</span></span></div><div class=\"m\"><span class=\"verse v10\" data-usfm=\"2TI.1.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"2TI.1.11\"><span class=\"label\">11</span><span class=\"content\">del cual yo fui constituido predicador, ap&#243;stol y maestro de los no jud&#237;os. </span></span></div><div class=\"m\"><span class=\"verse v11\" data-usfm=\"2TI.1.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"2TI.1.12\"><span class=\"label\">12</span><span class=\"content\">Por eso mismo padezco esto. Pero no me averg&#252;enzo, porque yo s&#233; a qui&#233;n he cre&#237;do, y estoy seguro de que &#233;l es poderoso para guardar mi dep&#243;sito para aquel d&#237;a.</span></span></div><div class=\"m\"><span class=\"verse v12\" data-usfm=\"2TI.1.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"2TI.1.13\"><span class=\"label\">13</span><span class=\"content\">Ret&#233;n la forma de las sanas palabras que o&#237;ste de m&#237;, en la fe y en el amor que es en Cristo Jes&#250;s.</span></span></div><div class=\"m\"><span class=\"verse v13\" data-usfm=\"2TI.1.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"2TI.1.14\"><span class=\"label\">14</span><span class=\"content\">Guarda el buen dep&#243;sito por el Esp&#237;ritu Santo que habita en nosotros.</span></span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"2TI.1.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"2TI.1.15\"><span class=\"label\">15</span><span class=\"content\">Ya sabes que me abandonaron todos los que est&#225;n en Asia, dos de los cuales son Figelo y Herm&#243;genes.</span></span></div><div class=\"m\"><span class=\"verse v15\" data-usfm=\"2TI.1.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"2TI.1.16\"><span class=\"label\">16</span><span class=\"content\">Que el Se&#241;or tenga misericordia de la casa de Ones&#237;foro, porque muchas veces me reanim&#243;, y no se avergonz&#243; de mis cadenas,</span></span></div><div class=\"m\"><span class=\"verse v16\" data-usfm=\"2TI.1.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"2TI.1.17\"><span class=\"label\">17</span><span class=\"content\">sino que cuando estuvo en Roma, me busc&#243; afanosamente y me hall&#243;.</span></span></div><div class=\"m\"><span class=\"verse v17\" data-usfm=\"2TI.1.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"2TI.1.18\"><span class=\"label\">18</span><span class=\"content\">Que en aquel d&#237;a el Se&#241;or le conceda hallar misericordia cerca del Se&#241;or. T&#250; mejor que nadie sabes cu&#225;nto nos ayud&#243; en &#201;feso.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Yo, Pablo, apóstol de Jesucristo por la voluntad de Dios y según la promesa de la vida que es en Cristo Jesús,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "a Timoteo, amado hijo: Que tengas gracia, misericordia y paz, de Dios el Padre y de Jesucristo nuestro Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Doy gracias a Dios, a quien, como mis antepasados, sirvo con limpia conciencia, de que siempre, día y noche, me acuerdo de ti en mis oraciones."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Al acordarme de tus lágrimas siento deseos de verte, para llenarme de gozo;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "pues me viene a la memoria la fe sincera que hay en ti, la cual habitó primero en tu abuela Loida, y en tu madre Eunice, y estoy seguro de que habita en ti también."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Por eso te aconsejo que avives el fuego del don de Dios, que por la imposición de mis manos está en ti."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Porque no nos ha dado Dios un espíritu de cobardía, sino de poder, de amor y de dominio propio."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Por tanto, no te avergüences de dar testimonio de nuestro Señor, ni tampoco de mí, preso suyo. Al contrario, participa de las aflicciones por el evangelio según el poder de Dios,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "quien nos salvó y nos llamó con llamamiento santo, no conforme a nuestras obras, sino según el propósito suyo y la gracia que nos fue dada en Cristo Jesús antes de los tiempos de los siglos,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "pero que ahora ha sido manifestada por la aparición de nuestro Salvador Jesucristo, quien quitó la muerte y sacó a la luz la vida y la inmortalidad por medio del evangelio,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "del cual yo fui constituido predicador, apóstol y maestro de los no judíos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Por eso mismo padezco esto. Pero no me avergüenzo, porque yo sé a quién he creído, y estoy seguro de que él es poderoso para guardar mi depósito para aquel día."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Retén la forma de las sanas palabras que oíste de mí, en la fe y en el amor que es en Cristo Jesús."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Guarda el buen depósito por el Espíritu Santo que habita en nosotros."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Ya sabes que me abandonaron todos los que están en Asia, dos de los cuales son Figelo y Hermógenes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Que el Señor tenga misericordia de la casa de Onesíforo, porque muchas veces me reanimó, y no se avergonzó de mis cadenas,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "sino que cuando estuvo en Roma, me buscó afanosamente y me halló."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Que en aquel día el Señor le conceda hallar misericordia cerca del Señor. Tú mejor que nadie sabes cuánto nos ayudó en Éfeso."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "2TI.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "2TI.2"
+        ],
+        "human": "2 Timoteo 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "2TI.3"
+        ],
+        "human": "2 Timoteo 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "2TI.1"
+        ],
+        "human": "2 Timoteo 1",
+        "toc": true
+      },
+      "chapter_text": "Tú, hijo mío, esfuérzate en la gracia que tenemos en Cristo Jesús.\nLo que has oído de mí ante muchos testigos, encárgaselo a hombres fieles que sean idóneos para enseñar también a otros.\nTú, por tu parte, sufre penalidades como buen soldado de Jesucristo.\nNinguno que milita se enreda en los negocios de la vida, a fin de agradar a aquel que lo tomó por soldado.\nY tampoco el que lucha como atleta es coronado, si no lucha legítimamente.\nEl labrador, para participar de los frutos, debe trabajar primero.\nConsidera lo que digo, y el Señor te dé entendimiento en todo.\nAcuérdate de Jesucristo, del linaje de David, que resucitó de los muertos conforme a mi evangelio,\nen el cual sufro penalidades, y hasta encarcelamientos, como si fuera yo un malhechor; pero la palabra de Dios no está presa.\nPor eso todo lo soporto por causa de los escogidos, para que ellos también obtengan la salvación que es en Cristo Jesús con gloria eterna.\nEsta palabra es fiel:\nSi morimos con él, también viviremos con él;\nsi sufrimos, también reinaremos con él;\nsi lo negamos, también él nos negará.\nSi somos infieles, él permanece fiel;\nél no puede negarse a sí mismo.\n\nRecuérdales esto, y exhórtalos ante el Señor a no contender acerca de palabras, que para nada aprovecha y que solo lleva a la perdición de los que escuchan.\nProcura con diligencia presentarte ante Dios aprobado, como obrero que no tiene de qué avergonzarse y que usa bien la palabra de verdad.\nPero evita las palabrerías vanas y profanas, porque más y más conducen a la impiedad\ny su palabra carcome como gangrena; entre esa gente están Himeneo y Fileto,\nque se desviaron de la verdad al decir que la resurrección ya se efectuó, con lo que trastornan la fe de algunos.\nPero el fundamento de Dios está firme, y tiene este sello: «El Señor conoce a los que son suyos»; y: «Que se aparte de la iniquidad todo aquel que invoca el nombre de Cristo.»\nEn una casa grande hay no solo utensilios de oro y de plata, sino también de madera y de barro; y unos son para usos honrosos, y otros para usos viles.\nAsí que, quien se limpia de estas cosas será un instrumento para honra, santificado, útil al Señor, y dispuesto para toda buena obra.\nHuye también de las pasiones juveniles, y sigue la justicia, la fe, el amor y la paz, junto con aquellos que con un corazón limpio invocan al Señor.\nPero desecha las cuestiones necias e insensatas; tú sabes que generan contiendas.\nY el siervo del Señor no debe ser contencioso, sino amable para con todos, apto para enseñar, sufrido;\nque corrija con mansedumbre a los que se oponen, por si acaso Dios les concede arrepentirse para que conozcan la verdad\ny escapen del lazo del diablo, en el cual se hallan cautivos y sujetos a su voluntad.",
+      "chapter_html": "<div class=\"version vid146 iso6393spa\" data-vid=\"146\" data-iso6393=\"spa\">\n   <div class=\"book bk2TI\">\n      <div class=\"chapter ch2\" data-usfm=\"2TI.2\">\n         <div class=\"label\">2</div><div class=\"s\"><span class=\"heading\">Un buen soldado de Jesucristo</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"2TI.2.1\"><span class=\"label\">1</span><span class=\"content\">T&#250;, hijo m&#237;o, esfu&#233;rzate en la gracia que tenemos en Cristo Jes&#250;s.</span></span></div><div class=\"m\"><span class=\"verse v1\" data-usfm=\"2TI.2.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"2TI.2.2\"><span class=\"label\">2</span><span class=\"content\">Lo que has o&#237;do de m&#237; ante muchos testigos, enc&#225;rgaselo a hombres fieles que sean id&#243;neos para ense&#241;ar tambi&#233;n a otros.</span></span></div><div class=\"m\"><span class=\"verse v2\" data-usfm=\"2TI.2.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"2TI.2.3\"><span class=\"label\">3</span><span class=\"content\">T&#250;, por tu parte, sufre penalidades como buen soldado de Jesucristo.</span></span></div><div class=\"m\"><span class=\"verse v3\" data-usfm=\"2TI.2.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"2TI.2.4\"><span class=\"label\">4</span><span class=\"content\">Ninguno que milita se enreda en los negocios de la vida, a fin de agradar a aquel que lo tom&#243; por soldado.</span></span></div><div class=\"m\"><span class=\"verse v4\" data-usfm=\"2TI.2.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"2TI.2.5\"><span class=\"label\">5</span><span class=\"content\">Y tampoco el que lucha como atleta es coronado, si no lucha leg&#237;timamente.</span></span></div><div class=\"m\"><span class=\"verse v5\" data-usfm=\"2TI.2.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"2TI.2.6\"><span class=\"label\">6</span><span class=\"content\">El labrador, para participar de los frutos, debe trabajar primero.</span></span></div><div class=\"m\"><span class=\"verse v6\" data-usfm=\"2TI.2.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"2TI.2.7\"><span class=\"label\">7</span><span class=\"content\">Considera lo que digo, y el Se&#241;or te d&#233; entendimiento en todo.</span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"2TI.2.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"2TI.2.8\"><span class=\"label\">8</span><span class=\"content\">Acu&#233;rdate de Jesucristo, del linaje de David, que resucit&#243; de los muertos conforme a mi evangelio,</span></span></div><div class=\"m\"><span class=\"verse v8\" data-usfm=\"2TI.2.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"2TI.2.9\"><span class=\"label\">9</span><span class=\"content\">en el cual sufro penalidades, y hasta encarcelamientos, como si fuera yo un malhechor; pero la palabra de Dios no est&#225; presa.</span></span></div><div class=\"m\"><span class=\"verse v9\" data-usfm=\"2TI.2.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"2TI.2.10\"><span class=\"label\">10</span><span class=\"content\">Por eso todo lo soporto por causa de los escogidos, para que ellos tambi&#233;n obtengan la salvaci&#243;n que es en Cristo Jes&#250;s con gloria eterna.</span></span></div><div class=\"m\"><span class=\"verse v10\" data-usfm=\"2TI.2.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"2TI.2.11\"><span class=\"label\">11</span><span class=\"content\">Esta palabra es fiel:</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"2TI.2.11\"><span class=\"content\">Si morimos con &#233;l, tambi&#233;n viviremos con &#233;l;</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"2TI.2.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"2TI.2.12\"><span class=\"label\">12</span><span class=\"content\">si sufrimos, tambi&#233;n reinaremos con &#233;l;</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"2TI.2.12\"><span class=\"content\">si lo negamos, tambi&#233;n &#233;l nos negar&#225;. </span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"2TI.2.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"2TI.2.13\"><span class=\"label\">13</span><span class=\"content\">Si somos infieles, &#233;l permanece fiel;</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"2TI.2.13\"><span class=\"content\">&#233;l no puede negarse a s&#237; mismo.</span></span></div><div class=\"s\"><span class=\"heading\">Un obrero aprobado</span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"2TI.2.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"2TI.2.14\"><span class=\"label\">14</span><span class=\"content\">Recu&#233;rdales esto, y exh&#243;rtalos ante el Se&#241;or a no contender acerca de palabras, que para nada aprovecha y que solo lleva a la perdici&#243;n de los que escuchan.</span></span></div><div class=\"m\"><span class=\"verse v14\" data-usfm=\"2TI.2.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"2TI.2.15\"><span class=\"label\">15</span><span class=\"content\">Procura con diligencia presentarte ante Dios aprobado, como obrero que no tiene de qu&#233; avergonzarse y que usa bien la palabra de verdad.</span></span></div><div class=\"m\"><span class=\"verse v15\" data-usfm=\"2TI.2.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"2TI.2.16\"><span class=\"label\">16</span><span class=\"content\">Pero evita las palabrer&#237;as vanas y profanas, porque m&#225;s y m&#225;s conducen a la impiedad</span></span></div><div class=\"m\"><span class=\"verse v16\" data-usfm=\"2TI.2.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"2TI.2.17\"><span class=\"label\">17</span><span class=\"content\">y su palabra carcome como gangrena; entre esa gente est&#225;n Himeneo y Fileto,</span></span></div><div class=\"m\"><span class=\"verse v17\" data-usfm=\"2TI.2.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"2TI.2.18\"><span class=\"label\">18</span><span class=\"content\">que se desviaron de la verdad al decir que la resurrecci&#243;n ya se efectu&#243;, con lo que trastornan la fe de algunos.</span></span></div><div class=\"m\"><span class=\"verse v18\" data-usfm=\"2TI.2.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"2TI.2.19\"><span class=\"label\">19</span><span class=\"content\">Pero el fundamento de Dios est&#225; firme, y tiene este sello: &#171;El Se&#241;or conoce a los que son suyos&#187;; y: &#171;Que se aparte de la iniquidad todo aquel que invoca el nombre de Cristo.&#187;</span></span></div><div class=\"p\"><span class=\"verse v19\" data-usfm=\"2TI.2.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"2TI.2.20\"><span class=\"label\">20</span><span class=\"content\">En una casa grande hay no solo utensilios de oro y de plata, sino tambi&#233;n de madera y de barro; y unos son para usos honrosos, y otros para usos viles.</span></span></div><div class=\"m\"><span class=\"verse v20\" data-usfm=\"2TI.2.20\"><span class=\"content\">  </span></span><span class=\"verse v21\" data-usfm=\"2TI.2.21\"><span class=\"label\">21</span><span class=\"content\">As&#237; que, quien se limpia de estas cosas ser&#225; un instrumento para honra, santificado, &#250;til al Se&#241;or, y dispuesto para toda buena obra.</span></span></div><div class=\"m\"><span class=\"verse v21\" data-usfm=\"2TI.2.21\"><span class=\"content\">  </span></span><span class=\"verse v22\" data-usfm=\"2TI.2.22\"><span class=\"label\">22</span><span class=\"content\">Huye tambi&#233;n de las pasiones juveniles, y sigue la justicia, la fe, el amor y la paz, junto con aquellos que con un coraz&#243;n limpio invocan al Se&#241;or.</span></span></div><div class=\"m\"><span class=\"verse v22\" data-usfm=\"2TI.2.22\"><span class=\"content\">  </span></span><span class=\"verse v23\" data-usfm=\"2TI.2.23\"><span class=\"label\">23</span><span class=\"content\">Pero desecha las cuestiones necias e insensatas; t&#250; sabes que generan contiendas.</span></span></div><div class=\"m\"><span class=\"verse v23\" data-usfm=\"2TI.2.23\"><span class=\"content\">  </span></span><span class=\"verse v24\" data-usfm=\"2TI.2.24\"><span class=\"label\">24</span><span class=\"content\">Y el siervo del Se&#241;or no debe ser contencioso, sino amable para con todos, apto para ense&#241;ar, sufrido;</span></span></div><div class=\"m\"><span class=\"verse v24\" data-usfm=\"2TI.2.24\"><span class=\"content\">  </span></span><span class=\"verse v25\" data-usfm=\"2TI.2.25\"><span class=\"label\">25</span><span class=\"content\">que corrija con mansedumbre a los que se oponen, por si acaso Dios les concede arrepentirse para que conozcan la verdad</span></span></div><div class=\"m\"><span class=\"verse v25\" data-usfm=\"2TI.2.25\"><span class=\"content\">  </span></span><span class=\"verse v26\" data-usfm=\"2TI.2.26\"><span class=\"label\">26</span><span class=\"content\">y escapen del lazo del diablo, en el cual se hallan cautivos y sujetos a su voluntad.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Tú, hijo mío, esfuérzate en la gracia que tenemos en Cristo Jesús."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Lo que has oído de mí ante muchos testigos, encárgaselo a hombres fieles que sean idóneos para enseñar también a otros."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Tú, por tu parte, sufre penalidades como buen soldado de Jesucristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Ninguno que milita se enreda en los negocios de la vida, a fin de agradar a aquel que lo tomó por soldado."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Y tampoco el que lucha como atleta es coronado, si no lucha legítimamente."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "El labrador, para participar de los frutos, debe trabajar primero."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Considera lo que digo, y el Señor te dé entendimiento en todo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Acuérdate de Jesucristo, del linaje de David, que resucitó de los muertos conforme a mi evangelio,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "en el cual sufro penalidades, y hasta encarcelamientos, como si fuera yo un malhechor; pero la palabra de Dios no está presa."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Por eso todo lo soporto por causa de los escogidos, para que ellos también obtengan la salvación que es en Cristo Jesús con gloria eterna."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Esta palabra es fiel:",
+            "Si morimos con él, también viviremos con él;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "si sufrimos, también reinaremos con él;",
+            "si lo negamos, también él nos negará."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Si somos infieles, él permanece fiel;",
+            "él no puede negarse a sí mismo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Recuérdales esto, y exhórtalos ante el Señor a no contender acerca de palabras, que para nada aprovecha y que solo lleva a la perdición de los que escuchan."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Procura con diligencia presentarte ante Dios aprobado, como obrero que no tiene de qué avergonzarse y que usa bien la palabra de verdad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Pero evita las palabrerías vanas y profanas, porque más y más conducen a la impiedad"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "y su palabra carcome como gangrena; entre esa gente están Himeneo y Fileto,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "que se desviaron de la verdad al decir que la resurrección ya se efectuó, con lo que trastornan la fe de algunos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Pero el fundamento de Dios está firme, y tiene este sello: «El Señor conoce a los que son suyos»; y: «Que se aparte de la iniquidad todo aquel que invoca el nombre de Cristo.»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "En una casa grande hay no solo utensilios de oro y de plata, sino también de madera y de barro; y unos son para usos honrosos, y otros para usos viles."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "Así que, quien se limpia de estas cosas será un instrumento para honra, santificado, útil al Señor, y dispuesto para toda buena obra."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "Huye también de las pasiones juveniles, y sigue la justicia, la fe, el amor y la paz, junto con aquellos que con un corazón limpio invocan al Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "Pero desecha las cuestiones necias e insensatas; tú sabes que generan contiendas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "Y el siervo del Señor no debe ser contencioso, sino amable para con todos, apto para enseñar, sufrido;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "que corrija con mansedumbre a los que se oponen, por si acaso Dios les concede arrepentirse para que conozcan la verdad"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 26,
+          "lines": [
+            "y escapen del lazo del diablo, en el cual se hallan cautivos y sujetos a su voluntad."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "2TI.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "2TI.3"
+        ],
+        "human": "2 Timoteo 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "2TI.4"
+        ],
+        "human": "2 Timoteo 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "2TI.2"
+        ],
+        "human": "2 Timoteo 2",
+        "toc": true
+      },
+      "chapter_text": "También debes saber que en los últimos días vendrán tiempos peligrosos,\ny que habrá hombres amantes de sí mismos, avaros, vanagloriosos, soberbios, blasfemos, desobedientes a los padres, ingratos, impíos,\nsin afecto natural, implacables, calumniadores, intemperantes, crueles, aborrecedores de lo bueno,\ntraidores, impetuosos, envanecidos, que amarán los deleites más que a Dios,\nque parecerán muy piadosos, pero negarán la eficacia de la piedad; evítalos.\nPorque son estos los que se meten en las casas y cautivan a mujeres débiles y cargadas de pecados, que se dejan llevar por sus malos deseos,\nque siempre están aprendiendo y nunca pueden llegar al conocimiento de la verdad.\nY así como Janes y Jambres se opusieron a Moisés, también estos hombres se oponen a la verdad; su entendimiento está corrompido, y en cuanto a la fe están descalificados.\nPero no podrán seguir avanzando, porque su insensatez se hará evidente a todos, como también lo fue la de aquellos.\nPero tú has seguido mi doctrina, conducta, propósito, fe, longanimidad, amor, paciencia,\npersecuciones y padecimientos, como los que me sobrevinieron en Antioquía, en Iconio y en Listra; persecuciones que he sufrido, y de las cuales me ha librado el Señor.\nTambién todos los que quieren vivir piadosamente en Cristo Jesús padecerán persecución;\npero los hombres malvados y los engañadores irán de mal en peor: engañarán y serán engañados.\nTú, por tu parte, persiste en lo que has aprendido y en lo que te persuadiste, pues sabes de quién has aprendido;\ntú desde la niñez has conocido las Sagradas Escrituras, las cuales te pueden hacer sabio para la salvación por la fe que es en Cristo Jesús.\nToda la Escritura es inspirada por Dios, y útil para enseñar, para redargüir, para corregir, para instruir en justicia,\na fin de que el hombre de Dios sea perfecto, enteramente preparado para toda buena obra.",
+      "chapter_html": "<div class=\"version vid146 iso6393spa\" data-vid=\"146\" data-iso6393=\"spa\">\n   <div class=\"book bk2TI\">\n      <div class=\"chapter ch3\" data-usfm=\"2TI.3\">\n         <div class=\"label\">3</div><div class=\"s\"><span class=\"heading\">Car&#225;cter de los hombres en los postreros d&#237;as</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"2TI.3.1\"><span class=\"label\">1</span><span class=\"content\">Tambi&#233;n debes saber que en los &#250;ltimos d&#237;as vendr&#225;n tiempos peligrosos,</span></span></div><div class=\"m\"><span class=\"verse v1\" data-usfm=\"2TI.3.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"2TI.3.2\"><span class=\"label\">2</span><span class=\"content\">y que habr&#225; hombres amantes de s&#237; mismos, avaros, vanagloriosos, soberbios, blasfemos, desobedientes a los padres, ingratos, imp&#237;os,</span></span></div><div class=\"m\"><span class=\"verse v2\" data-usfm=\"2TI.3.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"2TI.3.3\"><span class=\"label\">3</span><span class=\"content\">sin afecto natural, implacables, calumniadores, intemperantes, crueles, aborrecedores de lo bueno,</span></span></div><div class=\"m\"><span class=\"verse v3\" data-usfm=\"2TI.3.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"2TI.3.4\"><span class=\"label\">4</span><span class=\"content\">traidores, impetuosos, envanecidos, que amar&#225;n los deleites m&#225;s que a Dios,</span></span></div><div class=\"m\"><span class=\"verse v4\" data-usfm=\"2TI.3.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"2TI.3.5\"><span class=\"label\">5</span><span class=\"content\">que parecer&#225;n muy piadosos, pero negar&#225;n la eficacia de la piedad; ev&#237;talos.</span></span></div><div class=\"m\"><span class=\"verse v5\" data-usfm=\"2TI.3.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"2TI.3.6\"><span class=\"label\">6</span><span class=\"content\">Porque son estos los que se meten en las casas y cautivan a mujeres d&#233;biles y cargadas de pecados, que se dejan llevar por sus malos deseos,</span></span></div><div class=\"m\"><span class=\"verse v6\" data-usfm=\"2TI.3.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"2TI.3.7\"><span class=\"label\">7</span><span class=\"content\">que siempre est&#225;n aprendiendo y nunca pueden llegar al conocimiento de la verdad.</span></span></div><div class=\"m\"><span class=\"verse v7\" data-usfm=\"2TI.3.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"2TI.3.8\"><span class=\"label\">8</span><span class=\"content\">Y as&#237; como Janes y Jambres se opusieron a Mois&#233;s, tambi&#233;n estos hombres se oponen a la verdad; su entendimiento est&#225; corrompido, y en cuanto a la fe est&#225;n descalificados.</span></span></div><div class=\"m\"><span class=\"verse v8\" data-usfm=\"2TI.3.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"2TI.3.9\"><span class=\"label\">9</span><span class=\"content\">Pero no podr&#225;n seguir avanzando, porque su insensatez se har&#225; evidente a todos, como tambi&#233;n lo fue la de aquellos.</span></span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"2TI.3.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"2TI.3.10\"><span class=\"label\">10</span><span class=\"content\">Pero t&#250; has seguido mi doctrina, conducta, prop&#243;sito, fe, longanimidad, amor, paciencia,</span></span></div><div class=\"m\"><span class=\"verse v10\" data-usfm=\"2TI.3.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"2TI.3.11\"><span class=\"label\">11</span><span class=\"content\">persecuciones y padecimientos, como los que me sobrevinieron en Antioqu&#237;a, en Iconio y en Listra; persecuciones que he sufrido, y de las cuales me ha librado el Se&#241;or.</span></span></div><div class=\"m\"><span class=\"verse v11\" data-usfm=\"2TI.3.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"2TI.3.12\"><span class=\"label\">12</span><span class=\"content\">Tambi&#233;n todos los que quieren vivir piadosamente en Cristo Jes&#250;s padecer&#225;n persecuci&#243;n;</span></span></div><div class=\"m\"><span class=\"verse v12\" data-usfm=\"2TI.3.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"2TI.3.13\"><span class=\"label\">13</span><span class=\"content\">pero los hombres malvados y los enga&#241;adores ir&#225;n de mal en peor: enga&#241;ar&#225;n y ser&#225;n enga&#241;ados.</span></span></div><div class=\"m\"><span class=\"verse v13\" data-usfm=\"2TI.3.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"2TI.3.14\"><span class=\"label\">14</span><span class=\"content\">T&#250;, por tu parte, persiste en lo que has aprendido y en lo que te persuadiste, pues sabes de qui&#233;n has aprendido;</span></span></div><div class=\"m\"><span class=\"verse v14\" data-usfm=\"2TI.3.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"2TI.3.15\"><span class=\"label\">15</span><span class=\"content\">t&#250; desde la ni&#241;ez has conocido las Sagradas Escrituras, las cuales te pueden hacer sabio para la salvaci&#243;n por la fe que es en Cristo Jes&#250;s.</span></span></div><div class=\"m\"><span class=\"verse v15\" data-usfm=\"2TI.3.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"2TI.3.16\"><span class=\"label\">16</span><span class=\"content\">Toda la Escritura es inspirada por Dios, y &#250;til para ense&#241;ar, para redarg&#252;ir, para corregir, para instruir en justicia,</span></span></div><div class=\"m\"><span class=\"verse v16\" data-usfm=\"2TI.3.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"2TI.3.17\"><span class=\"label\">17</span><span class=\"content\">a fin de que el hombre de Dios sea perfecto, enteramente preparado para toda buena obra.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "También debes saber que en los últimos días vendrán tiempos peligrosos,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "y que habrá hombres amantes de sí mismos, avaros, vanagloriosos, soberbios, blasfemos, desobedientes a los padres, ingratos, impíos,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "sin afecto natural, implacables, calumniadores, intemperantes, crueles, aborrecedores de lo bueno,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "traidores, impetuosos, envanecidos, que amarán los deleites más que a Dios,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "que parecerán muy piadosos, pero negarán la eficacia de la piedad; evítalos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Porque son estos los que se meten en las casas y cautivan a mujeres débiles y cargadas de pecados, que se dejan llevar por sus malos deseos,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "que siempre están aprendiendo y nunca pueden llegar al conocimiento de la verdad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Y así como Janes y Jambres se opusieron a Moisés, también estos hombres se oponen a la verdad; su entendimiento está corrompido, y en cuanto a la fe están descalificados."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Pero no podrán seguir avanzando, porque su insensatez se hará evidente a todos, como también lo fue la de aquellos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Pero tú has seguido mi doctrina, conducta, propósito, fe, longanimidad, amor, paciencia,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "persecuciones y padecimientos, como los que me sobrevinieron en Antioquía, en Iconio y en Listra; persecuciones que he sufrido, y de las cuales me ha librado el Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "También todos los que quieren vivir piadosamente en Cristo Jesús padecerán persecución;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "pero los hombres malvados y los engañadores irán de mal en peor: engañarán y serán engañados."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Tú, por tu parte, persiste en lo que has aprendido y en lo que te persuadiste, pues sabes de quién has aprendido;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "tú desde la niñez has conocido las Sagradas Escrituras, las cuales te pueden hacer sabio para la salvación por la fe que es en Cristo Jesús."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Toda la Escritura es inspirada por Dios, y útil para enseñar, para redargüir, para corregir, para instruir en justicia,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "a fin de que el hombre de Dios sea perfecto, enteramente preparado para toda buena obra."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "2TI.4",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "2TI.4"
+        ],
+        "human": "2 Timoteo 4"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "TIT.1"
+        ],
+        "human": "Tito 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "2TI.3"
+        ],
+        "human": "2 Timoteo 3",
+        "toc": true
+      },
+      "chapter_text": "Te encargo delante de Dios y del Señor Jesucristo, quien juzgará a los vivos y a los muertos en su manifestación y en su reino,\nque prediques la palabra; que instes a tiempo y fuera de tiempo; redarguye, reprende, exhorta con toda paciencia y doctrina.\nPorque vendrá un tiempo en que no soportarán la sana doctrina, sino que aun teniendo comezón de oír se amontonarán maestros conforme a sus propios malos deseos,\ny apartarán de la verdad sus oídos y se volverán a las fábulas.\nPero tú sé sobrio en todo, soporta las aflicciones, haz obra de evangelista, cumple tu ministerio.\nYo estoy ya a punto de ser sacrificado, y el tiempo de mi partida está cercano.\nHe peleado la buena batalla, he acabado la carrera, he guardado la fe.\nPor lo demás, me está reservada la corona de justicia, que en aquel día me dará el Señor, el juez justo; y no solo a mí, sino también a todos los que aman su venida.\n\nProcura venir pronto a verme,\nporque Demas me ha desamparado. Prefirió este mundo, y se fue a Tesalónica. Crescente se fue a Galacia, y Tito a Dalmacia.\nSolo Lucas está conmigo. Toma a Marcos y tráelo contigo, porque me es útil para el ministerio.\nA Tíquico lo envié a Éfeso.\nCuando vengas, tráeme el capote que dejé en Troas, en casa de Carpo, y también los libros, especialmente los pergaminos.\nAlejandro, el calderero, me ha causado mucho daño; que el Señor le pague conforme a sus hechos.\nCuídate también tú de él, pues se ha opuesto mucho a nuestras palabras.\nEn mi primera defensa nadie estuvo a mi lado; todos me desampararon. Espero que no les sea tomado en cuenta.\nPero el Señor sí estuvo a mi lado, y me dio fuerzas, para que por mí se cumpliera la predicación y todas las naciones la oyeran. Así fui librado de la boca del león.\nY el Señor me librará de toda obra mala, y me preservará para su reino celestial. A él sea la gloria por los siglos de los siglos. Amén.\n\nSaluda a Prisca y a Aquila, y a la casa de Onesíforo.\nErasto se quedó en Corinto, y a Trófimo lo dejé en Mileto, pues estaba enfermo.\nProcura venir antes del invierno. Eubulo te saluda, lo mismo que Pudente, Lino, Claudia y todos los hermanos.\nQue el Señor Jesucristo esté con tu espíritu. Que la gracia sea con ustedes. Amén.",
+      "chapter_html": "<div class=\"version vid146 iso6393spa\" data-vid=\"146\" data-iso6393=\"spa\">\n   <div class=\"book bk2TI\">\n      <div class=\"chapter ch4\" data-usfm=\"2TI.4\">\n         <div class=\"label\">4</div><div class=\"s\"><span class=\"heading\">Predica la palabra</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"2TI.4.1\"><span class=\"label\">1</span><span class=\"content\">Te encargo delante de Dios y del Se&#241;or Jesucristo, quien juzgar&#225; a los vivos y a los muertos en su manifestaci&#243;n y en su reino,</span></span></div><div class=\"m\"><span class=\"verse v1\" data-usfm=\"2TI.4.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"2TI.4.2\"><span class=\"label\">2</span><span class=\"content\">que prediques la palabra; que instes a tiempo y fuera de tiempo; redarguye, reprende, exhorta con toda paciencia y doctrina.</span></span></div><div class=\"m\"><span class=\"verse v2\" data-usfm=\"2TI.4.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"2TI.4.3\"><span class=\"label\">3</span><span class=\"content\">Porque vendr&#225; un tiempo en que no soportar&#225;n la sana doctrina, sino que aun teniendo comez&#243;n de o&#237;r se amontonar&#225;n maestros conforme a sus propios malos deseos,</span></span></div><div class=\"m\"><span class=\"verse v3\" data-usfm=\"2TI.4.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"2TI.4.4\"><span class=\"label\">4</span><span class=\"content\">y apartar&#225;n de la verdad sus o&#237;dos y se volver&#225;n a las f&#225;bulas.</span></span></div><div class=\"m\"><span class=\"verse v4\" data-usfm=\"2TI.4.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"2TI.4.5\"><span class=\"label\">5</span><span class=\"content\">Pero t&#250; s&#233; sobrio en todo, soporta las aflicciones, haz obra de evangelista, cumple tu ministerio.</span></span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"2TI.4.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"2TI.4.6\"><span class=\"label\">6</span><span class=\"content\">Yo estoy ya a punto de ser sacrificado, y el tiempo de mi partida est&#225; cercano.</span></span></div><div class=\"m\"><span class=\"verse v6\" data-usfm=\"2TI.4.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"2TI.4.7\"><span class=\"label\">7</span><span class=\"content\">He peleado la buena batalla, he acabado la carrera, he guardado la fe.</span></span></div><div class=\"m\"><span class=\"verse v7\" data-usfm=\"2TI.4.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"2TI.4.8\"><span class=\"label\">8</span><span class=\"content\">Por lo dem&#225;s, me est&#225; reservada la corona de justicia, que en aquel d&#237;a me dar&#225; el Se&#241;or, el juez justo; y no solo a m&#237;, sino tambi&#233;n a todos los que aman su venida.</span></span></div><div class=\"s\"><span class=\"heading\">Instrucciones personales</span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"2TI.4.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"2TI.4.9\"><span class=\"label\">9</span><span class=\"content\">Procura venir pronto a verme,</span></span></div><div class=\"m\"><span class=\"verse v9\" data-usfm=\"2TI.4.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"2TI.4.10\"><span class=\"label\">10</span><span class=\"content\">porque Demas me ha desamparado. Prefiri&#243; este mundo, y se fue a Tesal&#243;nica. Crescente se fue a Galacia, y Tito a Dalmacia.</span></span></div><div class=\"m\"><span class=\"verse v10\" data-usfm=\"2TI.4.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"2TI.4.11\"><span class=\"label\">11</span><span class=\"content\">Solo Lucas est&#225; conmigo. Toma a Marcos y tr&#225;elo contigo, porque me es &#250;til para el ministerio.</span></span></div><div class=\"m\"><span class=\"verse v11\" data-usfm=\"2TI.4.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"2TI.4.12\"><span class=\"label\">12</span><span class=\"content\">A T&#237;quico lo envi&#233; a &#201;feso.</span></span></div><div class=\"m\"><span class=\"verse v12\" data-usfm=\"2TI.4.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"2TI.4.13\"><span class=\"label\">13</span><span class=\"content\">Cuando vengas, tr&#225;eme el capote que dej&#233; en Troas, en casa de Carpo, y tambi&#233;n los libros, especialmente los pergaminos.</span></span></div><div class=\"m\"><span class=\"verse v13\" data-usfm=\"2TI.4.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"2TI.4.14\"><span class=\"label\">14</span><span class=\"content\">Alejandro, el calderero, me ha causado mucho da&#241;o; que el Se&#241;or le pague conforme a sus hechos.</span></span></div><div class=\"m\"><span class=\"verse v14\" data-usfm=\"2TI.4.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"2TI.4.15\"><span class=\"label\">15</span><span class=\"content\">Cu&#237;date tambi&#233;n t&#250; de &#233;l, pues se ha opuesto mucho a nuestras palabras.</span></span></div><div class=\"m\"><span class=\"verse v15\" data-usfm=\"2TI.4.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"2TI.4.16\"><span class=\"label\">16</span><span class=\"content\">En mi primera defensa nadie estuvo a mi lado; todos me desampararon. Espero que no les sea tomado en cuenta.</span></span></div><div class=\"m\"><span class=\"verse v16\" data-usfm=\"2TI.4.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"2TI.4.17\"><span class=\"label\">17</span><span class=\"content\">Pero el Se&#241;or s&#237; estuvo a mi lado, y me dio fuerzas, para que por m&#237; se cumpliera la predicaci&#243;n y todas las naciones la oyeran. As&#237; fui librado de la boca del le&#243;n.</span></span></div><div class=\"m\"><span class=\"verse v17\" data-usfm=\"2TI.4.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"2TI.4.18\"><span class=\"label\">18</span><span class=\"content\">Y el Se&#241;or me librar&#225; de toda obra mala, y me preservar&#225; para su reino celestial. A &#233;l sea la gloria por los siglos de los siglos. Am&#233;n.</span></span></div><div class=\"s\"><span class=\"heading\">Saludos y bendici&#243;n final</span></div><div class=\"p\"><span class=\"verse v18\" data-usfm=\"2TI.4.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"2TI.4.19\"><span class=\"label\">19</span><span class=\"content\">Saluda a Prisca y a Aquila, y a la casa de Ones&#237;foro. </span></span></div><div class=\"m\"><span class=\"verse v19\" data-usfm=\"2TI.4.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"2TI.4.20\"><span class=\"label\">20</span><span class=\"content\">Erasto se qued&#243; en Corinto, y a Tr&#243;fimo lo dej&#233; en Mileto, pues estaba enfermo.</span></span></div><div class=\"m\"><span class=\"verse v20\" data-usfm=\"2TI.4.20\"><span class=\"content\">  </span></span><span class=\"verse v21\" data-usfm=\"2TI.4.21\"><span class=\"label\">21</span><span class=\"content\">Procura venir antes del invierno. Eubulo te saluda, lo mismo que Pudente, Lino, Claudia y todos los hermanos.</span></span></div><div class=\"p\"><span class=\"verse v21\" data-usfm=\"2TI.4.21\"><span class=\"content\">  </span></span><span class=\"verse v22\" data-usfm=\"2TI.4.22\"><span class=\"label\">22</span><span class=\"content\">Que el Se&#241;or Jesucristo est&#233; con tu esp&#237;ritu. Que la gracia sea con ustedes. Am&#233;n.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Te encargo delante de Dios y del Señor Jesucristo, quien juzgará a los vivos y a los muertos en su manifestación y en su reino,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "que prediques la palabra; que instes a tiempo y fuera de tiempo; redarguye, reprende, exhorta con toda paciencia y doctrina."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Porque vendrá un tiempo en que no soportarán la sana doctrina, sino que aun teniendo comezón de oír se amontonarán maestros conforme a sus propios malos deseos,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "y apartarán de la verdad sus oídos y se volverán a las fábulas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Pero tú sé sobrio en todo, soporta las aflicciones, haz obra de evangelista, cumple tu ministerio."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Yo estoy ya a punto de ser sacrificado, y el tiempo de mi partida está cercano."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "He peleado la buena batalla, he acabado la carrera, he guardado la fe."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Por lo demás, me está reservada la corona de justicia, que en aquel día me dará el Señor, el juez justo; y no solo a mí, sino también a todos los que aman su venida."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Procura venir pronto a verme,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "porque Demas me ha desamparado. Prefirió este mundo, y se fue a Tesalónica. Crescente se fue a Galacia, y Tito a Dalmacia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Solo Lucas está conmigo. Toma a Marcos y tráelo contigo, porque me es útil para el ministerio."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "A Tíquico lo envié a Éfeso."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Cuando vengas, tráeme el capote que dejé en Troas, en casa de Carpo, y también los libros, especialmente los pergaminos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Alejandro, el calderero, me ha causado mucho daño; que el Señor le pague conforme a sus hechos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Cuídate también tú de él, pues se ha opuesto mucho a nuestras palabras."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "En mi primera defensa nadie estuvo a mi lado; todos me desampararon. Espero que no les sea tomado en cuenta."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Pero el Señor sí estuvo a mi lado, y me dio fuerzas, para que por mí se cumpliera la predicación y todas las naciones la oyeran. Así fui librado de la boca del león."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Y el Señor me librará de toda obra mala, y me preservará para su reino celestial. A él sea la gloria por los siglos de los siglos. Amén."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Saluda a Prisca y a Aquila, y a la casa de Onesíforo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Erasto se quedó en Corinto, y a Trófimo lo dejé en Mileto, pues estaba enfermo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "Procura venir antes del invierno. Eubulo te saluda, lo mismo que Pudente, Lino, Claudia y todos los hermanos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "Que el Señor Jesucristo esté con tu espíritu. Que la gracia sea con ustedes. Amén."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}
