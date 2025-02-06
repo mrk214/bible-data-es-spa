@@ -1,0 +1,315 @@
+{
+  "book_usfm": "JUD",
+  "name": "Judas",
+  "local_title": "Biblia Reina Valera 1960",
+  "local_abbreviation": "RVR1960",
+  "version_id": 149,
+  "publisher": {
+    "name": "United Bible Societies"
+  },
+  "copyright": {
+    "html": "<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>",
+    "text": "Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "JUD.INTRO1",
+      "is_chapter": false,
+      "current": {
+        "usfm": [
+          "JUD.INTRO1"
+        ],
+        "human": "Judas LA EPÍSTOLA UNIVERSAL DE SAN JUDAS APÓSTOL"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "JUD.1"
+        ],
+        "human": "Judas 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "3JN.1"
+        ],
+        "human": "3 Juan 1",
+        "toc": true
+      },
+      "chapter_text": "LA EPÍSTOLA UNIVERSAL DE SAN JUDAS APÓSTOL\nINTRODUCCIÓN\nLa Epístola de San Judas (Jud), aunque breve, tiene un fuerte carácter polémico. Revela en el autor un ánimo resuelto de hacer frente a «algunos hombres» indeseables, que solapadamente infiltraban en la iglesia enseñanzas contrarias al evangelio (vv. 3,5-7,14-15,23). Ignoramos de qué personas se trata, ni si estaban relacionadas con alguna doctrina conocida del pensamiento religioso de la época. Pero está claro que Judas no se refiere a un peligro meramente potencial, procedente del mundo exterior pagano, sino a algo que había comenzado a dañar interiormente a la iglesia (o por lo menos, a la comunidad destinataria inmediata de la epístola).\nPropósito\nLa dureza de lenguaje, característica de este texto, revela la preocupación del autor. Este advierte las consecuencias de confusión espiritual y relajación moral a que podían arrastrar a gentes sencillas las enseñanzas y el comportamiento de los falsos maestros contra quienes escribe.\nEra un daño cuya gravedad acentuaba el hecho de que quienes lo causaban se llamaban cristianos: se trataba de individuos que participaban en los ágapes fraternales de la congregación (v. 12), pero que, arrastrados por su propia sensualidad (v. 19), habían caído en el desenfreno. Por eso, Judas los tacha de «impíos, que convierten en libertinaje la gracia de nuestro Dios» (v. 4), que murmuran y se envilecen «adulando a las personas para sacar provecho» (v. 16). Los acusa de negar a Dios como «el único soberano, y a nuestro Señor Jesucristo» (v. 4); de rechazar la autoridad y blasfemar «de las potestades superiores» (v. 8); de causar divisiones y de no tener el Espíritu de Dios (v. 19).\nJudas apoya sus palabras con figuras y escenas del AT: Sodoma y Gomorra (v. 7; cf. Gn. 19.1-24); el arcángel Miguel (v. 9; cf. Dn. 10.13-2112.1); Caín, Balaam y Coré (v. 11; cf. Gn. 4.3-8Nm. 22.1-3516.1-35), y «Enoc, séptimo desde Adán» (v. 14; cf. Gn. 5.21-24). También hace alusión a algunas tradiciones judías no bíblicas (vv. 6,9,14-15).\nFecha y lugar de redacción\nNo se conocen datos históricos precisos relativos a este escrito, aparte de que el autor se identifica a sí mismo como «hermano de Jacobo» (v. 1). Por otra parte, la opinión más generalizada es que este Jacobo (o Santiago) era hermano del Señor, y que fue el autor de la Epístola de Santiago (Mt. 13.55Mr. 6.3Gá. 1.192.9; y véase Introducción a Santiago). De ser correcta esta presunción, Judas también era hermano de Jesús.\nNo hay mención alguna respecto a los primeros destinatarios de esta carta, que, en un griego de elevado nivel literario, fue redactada probablemente entre los años 70 y 75, en medios judíos radicados fuera de Palestina.\n\nEsquema del contenido:\n\nSalutación ( 1-2 )\nFalsas doctrinas y falsos maestros ( 3-16 )\nAmonestaciones y exhortaciones ( 17-23 )\nDoxología ( 24-25 )",
+      "chapter_html": "<div class=\"version vid149 iso6393spa\" data-vid=\"149\" data-iso6393=\"spa\">\n   <div class=\"book bkJUD\">\n      <div class=\"chapter chINTRO1\" data-usfm=\"JUD.INTRO1\">\n         <div class=\"imt1\"><span class=\"content\">LA EP&#205;STOLA UNIVERSAL DE SAN JUDAS AP&#211;STOL</span></div><div class=\"imt3\"><span class=\"content\">INTRODUCCI&#211;N</span></div><div class=\"ip\"><span class=\"content\">La </span><span class=\"bk\"><span class=\"content\">Ep&#237;stola de San Judas</span></span><span class=\"content\"> (Jud), aunque breve, tiene un fuerte car&#225;cter pol&#233;mico. Revela en el autor un &#225;nimo resuelto de hacer frente a &#171;algunos hombres&#187; indeseables, que solapadamente infiltraban en la iglesia ense&#241;anzas contrarias al evangelio (vv. 3,5-7,14-15,23). Ignoramos de qu&#233; personas se trata, ni si estaban relacionadas con alguna doctrina conocida del pensamiento religioso de la &#233;poca. Pero est&#225; claro que Judas no se refiere a un peligro meramente potencial, procedente del mundo exterior pagano, sino a algo que hab&#237;a comenzado a da&#241;ar interiormente a la iglesia (o por lo menos, a la comunidad destinataria inmediata de la ep&#237;stola).</span></div><div class=\"is1\"><span class=\"content\">Prop&#243;sito</span></div><div class=\"ip\"><span class=\"content\">La dureza de lenguaje, caracter&#237;stica de este texto, revela la preocupaci&#243;n del autor. Este advierte las consecuencias de confusi&#243;n espiritual y relajaci&#243;n moral a que pod&#237;an arrastrar a gentes sencillas las ense&#241;anzas y el comportamiento de los falsos maestros contra quienes escribe.</span></div><div class=\"ip\"><span class=\"content\">Era un da&#241;o cuya gravedad acentuaba el hecho de que quienes lo causaban se llamaban cristianos: se trataba de individuos que participaban en los &#225;gapes fraternales de la congregaci&#243;n (v. 12), pero que, arrastrados por su propia sensualidad (v. 19), hab&#237;an ca&#237;do en el desenfreno. Por eso, Judas los tacha de &#171;imp&#237;os, que convierten en libertinaje la gracia de nuestro Dios&#187; (v. 4), que murmuran y se envilecen &#171;adulando a las personas para sacar provecho&#187; (v. 16). Los acusa de negar a Dios como &#171;el &#250;nico soberano, y a nuestro Se&#241;or Jesucristo&#187; (v. 4); de rechazar la autoridad y blasfemar &#171;de las potestades superiores&#187; (v. 8); de causar divisiones y de no tener el Esp&#237;ritu de Dios (v. 19).</span></div><div class=\"ip\"><span class=\"content\">Judas apoya sus palabras con figuras y escenas del AT: Sodoma y Gomorra (v. 7; cf. Gn. 19.1-24); el arc&#225;ngel Miguel (v. 9; cf. </span><span class=\"content\">Dn. 10.13-21</span>; <span class=\"content\">12.1</span><span class=\"content\">); Ca&#237;n, Balaam y Cor&#233; (v. 11; cf. </span><span class=\"content\">Gn. 4.3-8</span>; <span class=\"content\">Nm. 22.1-35</span>; <span class=\"content\">16.1-35</span><span class=\"content\">), y &#171;Enoc, s&#233;ptimo desde Ad&#225;n&#187; (v. 14; cf. Gn. 5.21-24). Tambi&#233;n hace alusi&#243;n a algunas tradiciones jud&#237;as no b&#237;blicas (vv. 6,9,14-15).</span></div><div class=\"is1\"><span class=\"content\">Fecha y lugar de redacci&#243;n</span></div><div class=\"ip\"><span class=\"content\">No se conocen datos hist&#243;ricos precisos relativos a este escrito, aparte de que el autor se identifica a s&#237; mismo como &#171;hermano de Jacobo&#187; (v. 1). Por otra parte, la opini&#243;n m&#225;s generalizada es que este Jacobo (o Santiago) era hermano del Se&#241;or, y que fue el autor de la </span><span class=\"bk\"><span class=\"content\">Ep&#237;stola de Santiago</span></span><span class=\"content\"> (</span>cf. <span class=\"content\">Mt. 13.55</span>; <span class=\"content\">Mr. 6.3</span>; <span class=\"content\">G&#225;. 1.19</span>; <span class=\"content\">2.9</span><span class=\"content\">; y v&#233;ase </span><span class=\"it\"><span class=\"content\">Introducci&#243;n a Santiago</span></span><span class=\"content\">). De ser correcta esta presunci&#243;n, Judas tambi&#233;n era hermano de Jes&#250;s.</span></div><div class=\"ip\"><span class=\"content\">No hay menci&#243;n alguna respecto a los primeros destinatarios de esta carta, que, en un griego de elevado nivel literario, fue redactada probablemente entre los a&#241;os 70 y 75, en medios jud&#237;os radicados fuera de Palestina.</span></div><div class=\"ib\"></div><div class=\"iot\"><span class=\"content\">Esquema del contenido:</span></div><div class=\"ib\"></div><div class=\"io\"><span class=\"content\">Salutaci&#243;n </span><span class=\"ior\"><span class=\"content\">(</span><span class=\"content\">1-2</span><span class=\"content\">)</span></span></div><div class=\"io\"><span class=\"content\">Falsas doctrinas y falsos maestros </span><span class=\"ior\"><span class=\"content\">(</span><span class=\"content\">3-16</span><span class=\"content\">)</span></span></div><div class=\"io\"><span class=\"content\">Amonestaciones y exhortaciones </span><span class=\"ior\"><span class=\"content\">(</span><span class=\"content\">17-23</span><span class=\"content\">)</span></span></div><div class=\"io\"><span class=\"content\">Doxolog&#237;a </span><span class=\"ior\"><span class=\"content\">(</span><span class=\"content\">24-25</span><span class=\"content\">)</span></span></div><div class=\"ie\"></div>\n      </div>\n   </div>\n</div>",
+      "items": []
+    },
+    {
+      "chapter_usfm": "JUD.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "JUD.1"
+        ],
+        "human": "Judas 1"
+      },
+      "next": {
+        "canonical": false,
+        "usfm": [
+          "REV.INTRO1"
+        ],
+        "human": "Apocalipsis EL APOCALIPSIS DE SAN JUAN",
+        "toc": true
+      },
+      "previous": {
+        "canonical": false,
+        "usfm": [
+          "JUD.INTRO1"
+        ],
+        "human": "Judas LA EPÍSTOLA UNIVERSAL DE SAN JUDAS APÓSTOL",
+        "toc": true
+      },
+      "chapter_text": "Judas, siervo de Jesucristo, y hermano de Jacobo, a los llamados, santificados en Dios Padre, y guardados en Jesucristo: Misericordia y paz y amor os sean multiplicados.\n\n\nAmados, por la gran solicitud que tenía de escribiros acerca de nuestra común salvación, me ha sido necesario escribiros exhortándoos que contendáis ardientemente por la fe que ha sido una vez dada a los santos. Porque algunos hombres han entrado encubiertamente, los que desde antes habían sido destinados para esta condenación, hombres impíos, que convierten en libertinaje la gracia de nuestro Dios, y niegan a Dios el único soberano, y a nuestro Señor Jesucristo.\nMas quiero recordaros, ya que una vez lo habéis sabido, que el Señor, habiendo salvado al pueblo sacándolo de Egipto, después destruyó a los que no creyeron. Y a los ángeles que no guardaron su dignidad, sino que abandonaron su propia morada, los ha guardado bajo oscuridad, en prisiones eternas, para el juicio del gran día; como Sodoma y Gomorra y las ciudades vecinas, las cuales de la misma manera que aquellos, habiendo fornicado e ido en pos de vicios contra naturaleza, fueron puestas por ejemplo, sufriendo el castigo del fuego eterno.\nNo obstante, de la misma manera también estos soñadores mancillan la carne, rechazan la autoridad y blasfeman de las potestades superiores. Pero cuando el arcángel Miguel contendía con el diablo, disputando con él por el cuerpo de Moisés, no se atrevió a proferir juicio de maldición contra él, sino que dijo: El Señor te reprenda. Pero estos blasfeman de cuantas cosas no conocen; y en las que por naturaleza conocen, se corrompen como animales irracionales. ¡Ay de ellos! porque han seguido el camino de Caín, y se lanzaron por lucro en el error de Balaam, y perecieron en la contradicción de Coré. Estos son manchas en vuestros ágapes, que comiendo impúdicamente con vosotros se apacientan a sí mismos; nubes sin agua, llevadas de acá para allá por los vientos; árboles otoñales, sin fruto, dos veces muertos y desarraigados; fieras ondas del mar, que espuman su propia vergüenza; estrellas errantes, para las cuales está reservada eternamente la oscuridad de las tinieblas.\nDe estos también profetizó Enoc, séptimo desde Adán, diciendo: He aquí, vino el Señor con sus santas decenas de millares, para hacer juicio contra todos, y dejar convictos a todos los impíos de todas sus obras impías que han hecho impíamente, y de todas las cosas duras que los pecadores impíos han hablado contra él. Estos son murmuradores, querellosos, que andan según sus propios deseos, cuya boca habla cosas infladas, adulando a las personas para sacar provecho.\n\nPero vosotros, amados, tened memoria de las palabras que antes fueron dichas por los apóstoles de nuestro Señor Jesucristo; los que os decían: En el postrer tiempo habrá burladores, que andarán según sus malvados deseos. Estos son los que causan divisiones; los sensuales, que no tienen al Espíritu. Pero vosotros, amados, edificándoos sobre vuestra santísima fe, orando en el Espíritu Santo, conservaos en el amor de Dios, esperando la misericordia de nuestro Señor Jesucristo para vida eterna. A algunos que dudan, convencedlos. A otros salvad, arrebatándolos del fuego; y de otros tened misericordia con temor, aborreciendo aun la ropa contaminada por su carne.\n\nY a aquel que es poderoso para guardaros sin caída, y presentaros sin mancha delante de su gloria con gran alegría, al único y sabio Dios, nuestro Salvador, sea gloria y majestad, imperio y potencia, ahora y por todos los siglos. Amén.",
+      "chapter_html": "<div class=\"version vid149 iso6393spa\" data-vid=\"149\" data-iso6393=\"spa\">\n   <div class=\"book bkJUD\">\n      <div class=\"chapter ch1\" data-usfm=\"JUD.1\">\n         <div class=\"label\">1</div><div class=\"s\"><span class=\"heading\">Salutaci&#243;n</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"JUD.1.1\"><span class=\"label\">1</span><span class=\"content\">Judas,</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Mt. 13.55; Mr. 6.3.</span></span><span class=\"content\"> siervo de Jesucristo, y hermano de Jacobo, a los llamados, santificados en Dios Padre, y guardados en Jesucristo: </span></span><span class=\"verse v2\" data-usfm=\"JUD.1.2\"><span class=\"label\">2</span><span class=\"content\">Misericordia y paz y amor os sean multiplicados.</span></span></div><div class=\"s\"><span class=\"heading\">Falsas doctrinas y falsos maestros</span></div><div class=\"r\"><span class=\"heading\">(</span><span class=\"heading\">2 P. 2.1-17</span><span class=\"heading\">)</span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"JUD.1.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"JUD.1.3\"><span class=\"label\">3</span><span class=\"content\">Amados, por la gran solicitud que ten&#237;a de escribiros acerca de nuestra com&#250;n salvaci&#243;n, me ha sido necesario escribiros exhort&#225;ndoos que contend&#225;is ardientemente por la fe que ha sido una vez dada a los santos. </span></span><span class=\"verse v4\" data-usfm=\"JUD.1.4\"><span class=\"label\">4</span><span class=\"content\">Porque algunos hombres han entrado encubiertamente, los que desde antes hab&#237;an sido destinados para esta condenaci&#243;n, hombres imp&#237;os, que convierten en libertinaje la gracia de nuestro Dios, y niegan a Dios el &#250;nico soberano, y a nuestro Se&#241;or Jesucristo.</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"JUD.1.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"JUD.1.5\"><span class=\"label\">5</span><span class=\"content\">Mas quiero recordaros, ya que una vez lo hab&#233;is sabido, que el Se&#241;or, habiendo salvado al pueblo sac&#225;ndolo de Egipto,</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Ex. 12.51.</span></span><span class=\"content\"> despu&#233;s destruy&#243; a los que no creyeron.</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Nm. 14.29-30.</span></span><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"JUD.1.6\"><span class=\"label\">6</span><span class=\"content\">Y a los &#225;ngeles que no guardaron su dignidad, sino que abandonaron su propia morada, los ha guardado bajo oscuridad, en prisiones eternas, para el juicio del gran d&#237;a; </span></span><span class=\"verse v7\" data-usfm=\"JUD.1.7\"><span class=\"label\">7</span><span class=\"content\">como Sodoma y Gomorra y las ciudades vecinas, las cuales de la misma manera que aquellos, habiendo fornicado e ido en pos de vicios contra naturaleza, fueron puestas por ejemplo, sufriendo el castigo del fuego eterno.</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Gn. 19.1-24.</span></span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"JUD.1.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"JUD.1.8\"><span class=\"label\">8</span><span class=\"content\">No obstante, de la misma manera tambi&#233;n estos so&#241;adores mancillan la carne, rechazan la autoridad y blasfeman de las potestades superiores. </span></span><span class=\"verse v9\" data-usfm=\"JUD.1.9\"><span class=\"label\">9</span><span class=\"content\">Pero cuando el arc&#225;ngel Miguel</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Dn. 10.13,21; 12.1; Ap. 12.7.</span></span><span class=\"content\"> contend&#237;a con el diablo, disputando con &#233;l por el cuerpo de Mois&#233;s,</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Dt. 34.6.</span></span><span class=\"content\"> no se atrevi&#243; a proferir juicio de maldici&#243;n contra &#233;l, sino que dijo: El Se&#241;or te reprenda.</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Zac. 3.2.</span></span><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"JUD.1.10\"><span class=\"label\">10</span><span class=\"content\">Pero estos blasfeman de cuantas cosas no conocen; y en las que por naturaleza conocen, se corrompen como animales irracionales. </span></span><span class=\"verse v11\" data-usfm=\"JUD.1.11\"><span class=\"label\">11</span><span class=\"content\">&#161;Ay de ellos! porque han seguido el camino de Ca&#237;n,</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Gn. 4.3-8.</span></span><span class=\"content\"> y se lanzaron por lucro en el error de Balaam,</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Nm. 22.1-35.</span></span><span class=\"content\"> y perecieron en la contradicci&#243;n de Cor&#233;.</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Nm. 16.1-35.</span></span><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"JUD.1.12\"><span class=\"label\">12</span><span class=\"content\">Estos son manchas en vuestros &#225;gapes, que comiendo imp&#250;dicamente con vosotros se apacientan a s&#237; mismos; nubes sin agua, llevadas de ac&#225; para all&#225; por los vientos; &#225;rboles oto&#241;ales, sin fruto, dos veces muertos y desarraigados; </span></span><span class=\"verse v13\" data-usfm=\"JUD.1.13\"><span class=\"label\">13</span><span class=\"content\">fieras ondas del mar, que espuman su propia verg&#252;enza; estrellas errantes, para las cuales est&#225; reservada eternamente la oscuridad de las tinieblas.</span></span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"JUD.1.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"JUD.1.14\"><span class=\"label\">14</span><span class=\"content\">De estos tambi&#233;n profetiz&#243; Enoc,</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Gn. 5.21-24.</span></span><span class=\"content\"> s&#233;ptimo desde Ad&#225;n, diciendo: He aqu&#237;, vino el Se&#241;or con sus santas decenas de millares, </span></span><span class=\"verse v15\" data-usfm=\"JUD.1.15\"><span class=\"label\">15</span><span class=\"content\">para hacer juicio contra todos, y dejar convictos a todos los imp&#237;os de todas sus obras imp&#237;as que han hecho imp&#237;amente, y de todas las cosas duras que los pecadores imp&#237;os han hablado contra &#233;l. </span></span><span class=\"verse v16\" data-usfm=\"JUD.1.16\"><span class=\"label\">16</span><span class=\"content\">Estos son murmuradores, querellosos, que andan seg&#250;n sus propios deseos, cuya boca habla cosas infladas, adulando a las personas para sacar provecho.</span></span></div><div class=\"s\"><span class=\"heading\">Amonestaciones y exhortaciones</span></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"JUD.1.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"JUD.1.17\"><span class=\"label\">17</span><span class=\"content\">Pero vosotros, amados, tened memoria de las palabras que antes fueron dichas por los ap&#243;stoles de nuestro Se&#241;or Jesucristo; </span></span><span class=\"verse v18\" data-usfm=\"JUD.1.18\"><span class=\"label\">18</span><span class=\"content\">los que os dec&#237;an: En el postrer tiempo habr&#225; burladores, que andar&#225;n seg&#250;n sus malvados deseos.</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">2 P. 3.3.</span></span><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"JUD.1.19\"><span class=\"label\">19</span><span class=\"content\">Estos son los que causan divisiones; los sensuales, que no tienen al Esp&#237;ritu. </span></span><span class=\"verse v20\" data-usfm=\"JUD.1.20\"><span class=\"label\">20</span><span class=\"content\">Pero vosotros, amados, edific&#225;ndoos sobre vuestra sant&#237;sima fe, orando en el Esp&#237;ritu Santo, </span></span><span class=\"verse v21\" data-usfm=\"JUD.1.21\"><span class=\"label\">21</span><span class=\"content\">conservaos en el amor de Dios, esperando la misericordia de nuestro Se&#241;or Jesucristo para vida eterna. </span></span><span class=\"verse v22\" data-usfm=\"JUD.1.22\"><span class=\"label\">22</span><span class=\"content\">A algunos que dudan, convencedlos. </span></span><span class=\"verse v23\" data-usfm=\"JUD.1.23\"><span class=\"label\">23</span><span class=\"content\">A otros salvad, arrebat&#225;ndolos del fuego; y de otros tened misericordia con temor, aborreciendo aun la ropa contaminada por su carne.</span></span></div><div class=\"s\"><span class=\"heading\">Doxolog&#237;a</span></div><div class=\"p\"><span class=\"verse v23\" data-usfm=\"JUD.1.23\"><span class=\"content\">  </span></span><span class=\"verse v24\" data-usfm=\"JUD.1.24\"><span class=\"label\">24</span><span class=\"content\">Y a aquel que es poderoso para guardaros sin ca&#237;da, y presentaros sin mancha delante de su gloria con gran alegr&#237;a, </span></span><span class=\"verse v25\" data-usfm=\"JUD.1.25\"><span class=\"label\">25</span><span class=\"content\">al &#250;nico y sabio Dios, nuestro Salvador, sea gloria y majestad, imperio y potencia, ahora y por todos los siglos. Am&#233;n.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Salutación"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Judas, siervo de Jesucristo, y hermano de Jacobo, a los llamados, santificados en Dios Padre, y guardados en Jesucristo:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Misericordia y paz y amor os sean multiplicados."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Falsas doctrinas y falsos maestros"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Amados, por la gran solicitud que tenía de escribiros acerca de nuestra común salvación, me ha sido necesario escribiros exhortándoos que contendáis ardientemente por la fe que ha sido una vez dada a los santos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Porque algunos hombres han entrado encubiertamente, los que desde antes habían sido destinados para esta condenación, hombres impíos, que convierten en libertinaje la gracia de nuestro Dios, y niegan a Dios el único soberano, y a nuestro Señor Jesucristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Mas quiero recordaros, ya que una vez lo habéis sabido, que el Señor, habiendo salvado al pueblo sacándolo de Egipto, después destruyó a los que no creyeron."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Y a los ángeles que no guardaron su dignidad, sino que abandonaron su propia morada, los ha guardado bajo oscuridad, en prisiones eternas, para el juicio del gran día;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "como Sodoma y Gomorra y las ciudades vecinas, las cuales de la misma manera que aquellos, habiendo fornicado e ido en pos de vicios contra naturaleza, fueron puestas por ejemplo, sufriendo el castigo del fuego eterno."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "No obstante, de la misma manera también estos soñadores mancillan la carne, rechazan la autoridad y blasfeman de las potestades superiores."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Pero cuando el arcángel Miguel contendía con el diablo, disputando con él por el cuerpo de Moisés, no se atrevió a proferir juicio de maldición contra él, sino que dijo: El Señor te reprenda."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Pero estos blasfeman de cuantas cosas no conocen; y en las que por naturaleza conocen, se corrompen como animales irracionales."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "¡Ay de ellos! porque han seguido el camino de Caín, y se lanzaron por lucro en el error de Balaam, y perecieron en la contradicción de Coré."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Estos son manchas en vuestros ágapes, que comiendo impúdicamente con vosotros se apacientan a sí mismos; nubes sin agua, llevadas de acá para allá por los vientos; árboles otoñales, sin fruto, dos veces muertos y desarraigados;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "fieras ondas del mar, que espuman su propia vergüenza; estrellas errantes, para las cuales está reservada eternamente la oscuridad de las tinieblas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "De estos también profetizó Enoc, séptimo desde Adán, diciendo: He aquí, vino el Señor con sus santas decenas de millares,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "para hacer juicio contra todos, y dejar convictos a todos los impíos de todas sus obras impías que han hecho impíamente, y de todas las cosas duras que los pecadores impíos han hablado contra él."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Estos son murmuradores, querellosos, que andan según sus propios deseos, cuya boca habla cosas infladas, adulando a las personas para sacar provecho."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Amonestaciones y exhortaciones"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Pero vosotros, amados, tened memoria de las palabras que antes fueron dichas por los apóstoles de nuestro Señor Jesucristo;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "los que os decían: En el postrer tiempo habrá burladores, que andarán según sus malvados deseos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Estos son los que causan divisiones; los sensuales, que no tienen al Espíritu."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Pero vosotros, amados, edificándoos sobre vuestra santísima fe, orando en el Espíritu Santo,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "conservaos en el amor de Dios, esperando la misericordia de nuestro Señor Jesucristo para vida eterna."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "A algunos que dudan, convencedlos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "A otros salvad, arrebatándolos del fuego; y de otros tened misericordia con temor, aborreciendo aun la ropa contaminada por su carne."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Doxología"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "Y a aquel que es poderoso para guardaros sin caída, y presentaros sin mancha delante de su gloria con gran alegría,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "al único y sabio Dios, nuestro Salvador, sea gloria y majestad, imperio y potencia, ahora y por todos los siglos. Amén."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

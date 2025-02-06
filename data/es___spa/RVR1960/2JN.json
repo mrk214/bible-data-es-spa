@@ -1,0 +1,211 @@
+{
+  "book_usfm": "2JN",
+  "name": "2 Juan",
+  "local_title": "Biblia Reina Valera 1960",
+  "local_abbreviation": "RVR1960",
+  "version_id": 149,
+  "publisher": {
+    "name": "United Bible Societies"
+  },
+  "copyright": {
+    "html": "<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>",
+    "text": "Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "2JN.INTRO1",
+      "is_chapter": false,
+      "current": {
+        "usfm": [
+          "2JN.INTRO1"
+        ],
+        "human": "2 Juan SEGUNDA EPÍSTOLA DE SAN JUAN APÓSTOL"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "2JN.1"
+        ],
+        "human": "2 Juan 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "1JN.5"
+        ],
+        "human": "1 Juan 5",
+        "toc": true
+      },
+      "chapter_text": "SEGUNDA EPÍSTOLA DE SAN JUAN APÓSTOL\nINTRODUCCIÓN\nLa Segunda epístola de San Juan (2 Jn) responde, en cuanto a su forma, a las características del género epistolar usuales en el mundo grecolatino de la época: consignación, en el encabezamiento del escrito, de quién es su remitente y quién su destinatario, e inclusión de saludos personales al comienzo y al final del texto (véase Introducción a las epístolas).\nFecha y lugar de redacción\nSin embargo, en el presente caso el autor prefiere silenciar su propio nombre e identificarse simplemente como «el anciano» (v. 1; cf. 3 Jn. 1). Del mismo modo, sin aportar seña alguna de identidad, dirige la carta a una cierta «señora elegida y a sus hijos» (vv. 1,5), designación que probablemente no corresponda a una dama y su familia en particular, sino a toda una comunidad cristiana: quizás a alguno de los pequeños núcleos surgidos no lejos de la gran ciudad de Efeso, en la provincia romana de Asia, durante la última década del primer siglo.\nEl título de «anciano» («presbítero» en griego) que se da el autor de la Segunda epístola de San Juan , puede significar tanto que su edad era avanzada en el momento de redactarla como que era un ministro o dirigente de la iglesia. En uno u otro caso, lo cierto es que en este «anciano» se ha visto tradicionalmente al apóstol Juan, a quien se ha atribuido la autoría de las tres epístolas juaninas (véanse las Introducciones a 1 y 3 Juan).\nPropósito\nEl propósito de la Segunda epístola de San Juan es prevenir a un grupo de creyentes sobre las enseñanzas de ciertos «engañadores», falsos maestros que andaban predicando doctrinas contrarias a la divinidad de Jesucristo, negando la encarnación del Hijo de Dios y haciéndose acreedores a la calificación de «anticristo» (v. 7).\nFrente a la actuación de tales personas, Juan exhorta a los cristianos a permanecer firmes en la verdad, por cuanto la verdad permanece en ellos para siempre (vv. 1-2,4); y a que se mantengan unidos por el vínculo del amor, que es el mandamiento dado por Dios «desde el principio» (vv. 4-6). Es, pues, preciso perseverar en la «doctrina de Cristo», pues así el creyente «tiene al Padre y al Hijo» (v. 9), es decir, está en comunión con Dios.\n\nEsquema del contenido:\n\nSalutación (1-3)\nPermaneced en la doctrina de Cristo (4-11)\nEspero ir a vosotros (12-13)",
+      "chapter_html": "<div class=\"version vid149 iso6393spa\" data-vid=\"149\" data-iso6393=\"spa\">\n   <div class=\"book bk2JN\">\n      <div class=\"chapter chINTRO1\" data-usfm=\"2JN.INTRO1\">\n         <div class=\"imt1\"><span class=\"content\">SEGUNDA EP&#205;STOLA DE SAN JUAN AP&#211;STOL</span></div><div class=\"imt3\"><span class=\"content\">INTRODUCCI&#211;N</span></div><div class=\"ip\"><span class=\"content\">La </span><span class=\"bk\"><span class=\"content\">Segunda ep&#237;stola de San Juan</span></span><span class=\"content\"> (2 Jn) responde, en cuanto a su forma, a las caracter&#237;sticas del g&#233;nero epistolar usuales en el mundo grecolatino de la &#233;poca: consignaci&#243;n, en el encabezamiento del escrito, de qui&#233;n es su remitente y qui&#233;n su destinatario, e inclusi&#243;n de saludos personales al comienzo y al final del texto (v&#233;ase </span><span class=\"it\"><span class=\"content\">Introducci&#243;n a las ep&#237;stolas</span></span><span class=\"content\">).</span></div><div class=\"is1\"><span class=\"content\">Fecha y lugar de redacci&#243;n</span></div><div class=\"ip\"><span class=\"content\">Sin embargo, en el presente caso el autor prefiere silenciar su propio nombre e identificarse simplemente como &#171;el anciano&#187; (v. 1; cf. </span><span class=\"content\">3 Jn. 1</span><span class=\"content\">). Del mismo modo, sin aportar se&#241;a alguna de identidad, dirige la carta a una cierta &#171;se&#241;ora elegida y a sus hijos&#187; (vv. 1,5), designaci&#243;n que probablemente no corresponda a una dama y su familia en particular, sino a toda una comunidad cristiana: quiz&#225;s a alguno de los peque&#241;os n&#250;cleos surgidos no lejos de la gran ciudad de Efeso, en la provincia romana de Asia, durante la &#250;ltima d&#233;cada del primer siglo.</span></div><div class=\"ip\"><span class=\"content\">El t&#237;tulo de &#171;anciano&#187; (&#171;presb&#237;tero&#187; en griego) que se da el autor de </span><span class=\"bk\"><span class=\"content\">la Segunda ep&#237;stola de San Juan</span></span><span class=\"content\">, puede significar tanto que su edad era avanzada en el momento de redactarla como que era un ministro o dirigente de la iglesia. En uno u otro caso, lo cierto es que en este &#171;anciano&#187; se ha visto tradicionalmente al ap&#243;stol Juan, a quien se ha atribuido la autor&#237;a de las tres ep&#237;stolas juaninas (v&#233;anse las </span><span class=\"it\"><span class=\"content\">Introducciones</span></span><span class=\"content\"> a </span><span class=\"it\"><span class=\"content\">1</span></span><span class=\"content\"> y </span><span class=\"it\"><span class=\"content\">3 Juan</span></span><span class=\"content\">).</span></div><div class=\"is1\"><span class=\"content\">Prop&#243;sito</span></div><div class=\"ip\"><span class=\"content\">El prop&#243;sito de la </span><span class=\"bk\"><span class=\"content\">Segunda ep&#237;stola de San Juan</span></span><span class=\"content\"> es prevenir a un grupo de creyentes sobre las ense&#241;anzas de ciertos &#171;enga&#241;adores&#187;, falsos maestros que andaban predicando doctrinas contrarias a la divinidad de Jesucristo, negando la encarnaci&#243;n del Hijo de Dios y haci&#233;ndose acreedores a la calificaci&#243;n de &#171;anticristo&#187; (v. 7).</span></div><div class=\"ip\"><span class=\"content\">Frente a la actuaci&#243;n de tales personas, Juan exhorta a los cristianos a permanecer firmes en la verdad, por cuanto la verdad permanece en ellos para siempre (vv. 1-2,4); y a que se mantengan unidos por el v&#237;nculo del amor, que es el mandamiento dado por Dios &#171;desde el principio&#187; (vv. 4-6). Es, pues, preciso perseverar en la &#171;doctrina de Cristo&#187;, pues as&#237; el creyente &#171;tiene al Padre y al Hijo&#187; (v. 9), es decir, est&#225; en comuni&#243;n con Dios.</span></div><div class=\"ib\"></div><div class=\"iot\"><span class=\"content\">Esquema del contenido:</span></div><div class=\"ib\"></div><div class=\"io\"><span class=\"content\">Salutaci&#243;n (1-3)</span></div><div class=\"io\"><span class=\"content\">Permaneced en la doctrina de Cristo (4-11)</span></div><div class=\"io\"><span class=\"content\">Espero ir a vosotros (12-13)</span></div><div class=\"ie\"></div>\n      </div>\n   </div>\n</div>",
+      "items": []
+    },
+    {
+      "chapter_usfm": "2JN.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "2JN.1"
+        ],
+        "human": "2 Juan 1"
+      },
+      "next": {
+        "canonical": false,
+        "usfm": [
+          "3JN.INTRO1"
+        ],
+        "human": "3 Juan TERCERA EPÍSTOLA DE SAN JUAN APÓSTOL",
+        "toc": true
+      },
+      "previous": {
+        "canonical": false,
+        "usfm": [
+          "2JN.INTRO1"
+        ],
+        "human": "2 Juan SEGUNDA EPÍSTOLA DE SAN JUAN APÓSTOL",
+        "toc": true
+      },
+      "chapter_text": "El anciano a la señora elegida y a sus hijos, a quienes yo amo en la verdad; y no solo yo, sino también todos los que han conocido la verdad, a causa de la verdad que permanece en nosotros, y estará para siempre con nosotros: Sea con vosotros gracia, misericordia y paz, de Dios Padre y del Señor Jesucristo, Hijo del Padre, en verdad y en amor.\n\nMucho me regocijé porque he hallado a algunos de tus hijos andando en la verdad, conforme al mandamiento que recibimos del Padre. Y ahora te ruego, señora, no como escribiéndote un nuevo mandamiento, sino el que hemos tenido desde el principio, que nos amemos unos a otros. Y este es el amor, que andemos según sus mandamientos. Este es el mandamiento: que andéis en amor, como vosotros habéis oído desde el principio. Porque muchos engañadores han salido por el mundo, que no confiesan que Jesucristo ha venido en carne. Quien esto hace es el engañador y el anticristo. Mirad por vosotros mismos, para que no perdáis el fruto de vuestro trabajo, sino que recibáis galardón completo. Cualquiera que se extravía, y no persevera en la doctrina de Cristo, no tiene a Dios; el que persevera en la doctrina de Cristo, ese sí tiene al Padre y al Hijo. Si alguno viene a vosotros, y no trae esta doctrina, no lo recibáis en casa, ni le digáis: ¡Bienvenido! Porque el que le dice: ¡Bienvenido! participa en sus malas obras.\n\nTengo muchas cosas que escribiros, pero no he querido hacerlo por medio de papel y tinta, pues espero ir a vosotros y hablar cara a cara, para que nuestro gozo sea cumplido.\nLos hijos de tu hermana, la elegida, te saludan. Amén.",
+      "chapter_html": "<div class=\"version vid149 iso6393spa\" data-vid=\"149\" data-iso6393=\"spa\">\n   <div class=\"book bk2JN\">\n      <div class=\"chapter ch1\" data-usfm=\"2JN.1\">\n         <div class=\"label\">1</div><div class=\"s\"><span class=\"heading\">Salutaci&#243;n</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"2JN.1.1\"><span class=\"label\">1</span><span class=\"content\">El anciano a la se&#241;ora elegida y a sus hijos, a quienes yo amo en la verdad; y no solo yo, sino tambi&#233;n todos los que han conocido la verdad, </span></span><span class=\"verse v2\" data-usfm=\"2JN.1.2\"><span class=\"label\">2</span><span class=\"content\">a causa de la verdad que permanece en nosotros, y estar&#225; para siempre con nosotros: </span></span><span class=\"verse v3\" data-usfm=\"2JN.1.3\"><span class=\"label\">3</span><span class=\"content\">Sea con vosotros gracia, misericordia y paz, de Dios Padre y del Se&#241;or Jesucristo, Hijo del Padre, en verdad y en amor.</span></span></div><div class=\"s\"><span class=\"heading\">Permaneced en la doctrina de Cristo</span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"2JN.1.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"2JN.1.4\"><span class=\"label\">4</span><span class=\"content\">Mucho me regocij&#233; porque he hallado a algunos de tus hijos andando en la verdad, conforme al mandamiento que recibimos del Padre. </span></span><span class=\"verse v5\" data-usfm=\"2JN.1.5\"><span class=\"label\">5</span><span class=\"content\">Y ahora te ruego, se&#241;ora, no como escribi&#233;ndote un nuevo mandamiento, sino el que hemos tenido desde el principio, que nos amemos unos a otros.</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Jn. 13.34; 15.12,17.</span></span><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"2JN.1.6\"><span class=\"label\">6</span><span class=\"content\">Y este es el amor, que andemos seg&#250;n sus mandamientos. Este es el mandamiento: que and&#233;is en amor, como vosotros hab&#233;is o&#237;do desde el principio. </span></span><span class=\"verse v7\" data-usfm=\"2JN.1.7\"><span class=\"label\">7</span><span class=\"content\">Porque muchos enga&#241;adores han salido por el mundo, que no confiesan que Jesucristo ha venido en carne. Quien esto hace es el enga&#241;ador y el anticristo. </span></span><span class=\"verse v8\" data-usfm=\"2JN.1.8\"><span class=\"label\">8</span><span class=\"content\">Mirad por vosotros mismos, para que no perd&#225;is el fruto de vuestro trabajo, sino que recib&#225;is galard&#243;n completo. </span></span><span class=\"verse v9\" data-usfm=\"2JN.1.9\"><span class=\"label\">9</span><span class=\"content\">Cualquiera que se extrav&#237;a, y no persevera en la doctrina de Cristo, no tiene a Dios; el que persevera en la doctrina de Cristo, ese s&#237; tiene al Padre y al Hijo. </span></span><span class=\"verse v10\" data-usfm=\"2JN.1.10\"><span class=\"label\">10</span><span class=\"content\">Si alguno viene a vosotros, y no trae esta doctrina, no lo recib&#225;is en casa, ni le dig&#225;is: &#161;Bienvenido! </span></span><span class=\"verse v11\" data-usfm=\"2JN.1.11\"><span class=\"label\">11</span><span class=\"content\">Porque el que le dice: &#161;Bienvenido! participa en sus malas obras.</span></span></div><div class=\"s\"><span class=\"heading\">Espero ir a vosotros</span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"2JN.1.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"2JN.1.12\"><span class=\"label\">12</span><span class=\"content\">Tengo muchas cosas que escribiros, pero no he querido hacerlo por medio de papel y tinta, pues espero ir a vosotros y hablar cara a cara, para que nuestro gozo sea cumplido.</span></span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"2JN.1.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"2JN.1.13\"><span class=\"label\">13</span><span class=\"content\">Los hijos de tu hermana, la elegida, te saludan. Am&#233;n.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Salutación"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "El anciano a la señora elegida y a sus hijos, a quienes yo amo en la verdad; y no solo yo, sino también todos los que han conocido la verdad,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "a causa de la verdad que permanece en nosotros, y estará para siempre con nosotros:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Sea con vosotros gracia, misericordia y paz, de Dios Padre y del Señor Jesucristo, Hijo del Padre, en verdad y en amor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Permaneced en la doctrina de Cristo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Mucho me regocijé porque he hallado a algunos de tus hijos andando en la verdad, conforme al mandamiento que recibimos del Padre."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Y ahora te ruego, señora, no como escribiéndote un nuevo mandamiento, sino el que hemos tenido desde el principio, que nos amemos unos a otros."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Y este es el amor, que andemos según sus mandamientos. Este es el mandamiento: que andéis en amor, como vosotros habéis oído desde el principio."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Porque muchos engañadores han salido por el mundo, que no confiesan que Jesucristo ha venido en carne. Quien esto hace es el engañador y el anticristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Mirad por vosotros mismos, para que no perdáis el fruto de vuestro trabajo, sino que recibáis galardón completo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Cualquiera que se extravía, y no persevera en la doctrina de Cristo, no tiene a Dios; el que persevera en la doctrina de Cristo, ese sí tiene al Padre y al Hijo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Si alguno viene a vosotros, y no trae esta doctrina, no lo recibáis en casa, ni le digáis: ¡Bienvenido!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Porque el que le dice: ¡Bienvenido! participa en sus malas obras."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Espero ir a vosotros"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Tengo muchas cosas que escribiros, pero no he querido hacerlo por medio de papel y tinta, pues espero ir a vosotros y hablar cara a cara, para que nuestro gozo sea cumplido."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Los hijos de tu hermana, la elegida, te saludan. Amén."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "book_usfm": "3JN",
+  "name": "3 Juan",
+  "local_title": "Biblia Reina Valera 1960",
+  "local_abbreviation": "RVR1960",
+  "version_id": 149,
+  "publisher": {
+    "name": "United Bible Societies"
+  },
+  "copyright": {
+    "html": "<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>",
+    "text": "Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "3JN.INTRO1",
+      "is_chapter": false,
+      "current": {
+        "usfm": [
+          "3JN.INTRO1"
+        ],
+        "human": "3 Juan TERCERA EPÍSTOLA DE SAN JUAN APÓSTOL"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "3JN.1"
+        ],
+        "human": "3 Juan 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "2JN.1"
+        ],
+        "human": "2 Juan 1",
+        "toc": true
+      },
+      "chapter_text": "TERCERA EPÍSTOLA DE SAN JUAN APÓSTOL\nINTRODUCCIÓN\nContenido\nEsta carta está dirigida a Gayo, un cristiano de quien se elogia la hospitalidad con que recibía a los predicadores y evangelistas que visitaban la iglesia de la cual era miembro, «especialmente a los desconocidos» (vv. 5-6).\nNo es posible asegurar que este sea el mismo Gayo mencionado por Pablo en Ro. 16.23 (Hch. 19.291 Co. 1.14), pues ese nombre era entonces bastante común; pero resulta notorio que Pablo y Juan, cada uno de por su lado, destacan en alguien llamado Gayo idéntica disposición de generosidad fraternal.\nTambién se hace referencia en la Tercera epístola de San Juan (3 Jn) a otros dos personajes: Demetrio y Diótrefes. El autor comparte el buen juicio general que merece el primero, Demetrio (v. 12). En cambio, el segundo es severamente reprochado por las actitudes soberbias y tiránicas empleadas en el ejercicio de su ministerio (vv. 9-10).\nLa despedida (vv. 13-15) es semejante a la de 2 Jn. En ambas cartas y casi con las mismas palabras, el autor manifiesta el deseo de visitar pronto a sus lectores y tener la oportunidad de conversar con ellos «cara a cara» (vv. 13-14; cf. 2 Jn. 12).\nFecha y lugar de redacción\nLo mismo que en 2 Jn, «el anciano» que escribe a Gayo (v. 1) nos oculta su propio nombre. Pero no cabe duda de que se trata de la misma persona, identificada con el apóstol Juan por la iglesia cristiana de todos los tiempos (véanse las Introducciones a 1 y 2 Juan). Posiblemente remitió esta carta desde Efeso al final del primer siglo.\n\nEsquema del contenido:\n\nSalutación ( 1-4 )\nElogio de la hospitalidad de Gayo ( 5-8 )\nLa oposición de Diótrefes ( 9-10 )\nBuen testimonio acerca de Demetrio ( 11-12 )\nSalutaciones finales ( 13-15 )",
+      "chapter_html": "<div class=\"version vid149 iso6393spa\" data-vid=\"149\" data-iso6393=\"spa\">\n   <div class=\"book bk3JN\">\n      <div class=\"chapter chINTRO1\" data-usfm=\"3JN.INTRO1\">\n         <div class=\"imt1\"><span class=\"content\">TERCERA EP&#205;STOLA DE SAN JUAN AP&#211;STOL</span></div><div class=\"imt3\"><span class=\"content\">INTRODUCCI&#211;N</span></div><div class=\"is1\"><span class=\"content\">Contenido</span></div><div class=\"ip\"><span class=\"content\">Esta carta est&#225; dirigida a Gayo, un cristiano de quien se elogia la hospitalidad con que recib&#237;a a los predicadores y evangelistas que visitaban la iglesia de la cual era miembro, &#171;especialmente a los desconocidos&#187; (vv. 5-6).</span></div><div class=\"ip\"><span class=\"content\">No es posible asegurar que este sea el mismo Gayo mencionado por Pablo en </span><span class=\"content\">Ro. 16.23</span><span class=\"content\"> (</span>cf. <span class=\"content\">Hch. 19.29</span>; <span class=\"content\">1 Co. 1.14</span><span class=\"content\">), pues ese nombre era entonces bastante com&#250;n; pero resulta notorio que Pablo y Juan, cada uno de por su lado, destacan en alguien llamado Gayo id&#233;ntica disposici&#243;n de generosidad fraternal.</span></div><div class=\"ip\"><span class=\"content\">Tambi&#233;n se hace referencia en la </span><span class=\"bk\"><span class=\"content\">Tercera ep&#237;stola de San Juan</span></span><span class=\"content\"> (3 Jn) a otros dos personajes: Demetrio y Di&#243;trefes. El autor comparte el buen juicio general que merece el primero, Demetrio (v. 12). En cambio, el segundo es severamente reprochado por las actitudes soberbias y tir&#225;nicas empleadas en el ejercicio de su ministerio (vv. 9-10).</span></div><div class=\"ip\"><span class=\"content\">La despedida (vv. 13-15) es semejante a la de 2 Jn. En ambas cartas y casi con las mismas palabras, el autor manifiesta el deseo de visitar pronto a sus lectores y tener la oportunidad de conversar con ellos &#171;cara a cara&#187; (vv. 13-14; cf. </span><span class=\"content\">2 Jn. 12</span><span class=\"content\">).</span></div><div class=\"is1\"><span class=\"content\">Fecha y lugar de redacci&#243;n</span></div><div class=\"ip\"><span class=\"content\">Lo mismo que en 2 Jn, &#171;el anciano&#187; que escribe a Gayo (v. 1) nos oculta su propio nombre. Pero no cabe duda de que se trata de la misma persona, identificada con el ap&#243;stol Juan por la iglesia cristiana de todos los tiempos (v&#233;anse las </span><span class=\"it\"><span class=\"content\">Introducciones</span></span><span class=\"content\"> a </span><span class=\"it\"><span class=\"content\">1</span></span><span class=\"content\"> y </span><span class=\"it\"><span class=\"content\">2 Juan</span></span><span class=\"content\">). Posiblemente remiti&#243; esta carta desde Efeso al final del primer siglo.</span></div><div class=\"ib\"></div><div class=\"iot\"><span class=\"content\">Esquema del contenido:</span></div><div class=\"ib\"></div><div class=\"io\"><span class=\"content\">Salutaci&#243;n </span><span class=\"ior\"><span class=\"content\">(</span><span class=\"content\">1-4</span><span class=\"content\">)</span></span></div><div class=\"io\"><span class=\"content\">Elogio de la hospitalidad de Gayo </span><span class=\"ior\"><span class=\"content\">(</span><span class=\"content\">5-8</span><span class=\"content\">)</span></span></div><div class=\"io\"><span class=\"content\">La oposici&#243;n de Di&#243;trefes </span><span class=\"ior\"><span class=\"content\">(</span><span class=\"content\">9-10</span><span class=\"content\">)</span></span></div><div class=\"io\"><span class=\"content\">Buen testimonio acerca de Demetrio </span><span class=\"ior\"><span class=\"content\">(</span><span class=\"content\">11-12</span><span class=\"content\">)</span></span></div><div class=\"io\"><span class=\"content\">Salutaciones finales </span><span class=\"ior\"><span class=\"content\">(</span><span class=\"content\">13-15</span><span class=\"content\">)</span></span></div><div class=\"ie\"></div>\n      </div>\n   </div>\n</div>",
+      "items": []
+    },
+    {
+      "chapter_usfm": "3JN.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "3JN.1"
+        ],
+        "human": "3 Juan 1"
+      },
+      "next": {
+        "canonical": false,
+        "usfm": [
+          "JUD.INTRO1"
+        ],
+        "human": "Judas LA EPÍSTOLA UNIVERSAL DE SAN JUDAS APÓSTOL",
+        "toc": true
+      },
+      "previous": {
+        "canonical": false,
+        "usfm": [
+          "3JN.INTRO1"
+        ],
+        "human": "3 Juan TERCERA EPÍSTOLA DE SAN JUAN APÓSTOL",
+        "toc": true
+      },
+      "chapter_text": "El anciano a Gayo, el amado, a quien amo en la verdad. Amado, yo deseo que tú seas prosperado en todas las cosas, y que tengas salud, así como prospera tu alma. Pues mucho me regocijé cuando vinieron los hermanos y dieron testimonio de tu verdad, de cómo andas en la verdad. No tengo yo mayor gozo que este, el oír que mis hijos andan en la verdad.\n\nAmado, fielmente te conduces cuando prestas algún servicio a los hermanos, especialmente a los desconocidos, los cuales han dado ante la iglesia testimonio de tu amor; y harás bien en encaminarlos como es digno de su servicio a Dios, para que continúen su viaje. Porque ellos salieron por amor del nombre de él, sin aceptar nada de los gentiles. Nosotros, pues, debemos acoger a tales personas, para que cooperemos con la verdad.\n\nYo he escrito a la iglesia; pero Diótrefes, al cual le gusta tener el primer lugar entre ellos, no nos recibe. Por esta causa, si yo fuere, recordaré las obras que hace parloteando con palabras malignas contra nosotros; y no contento con estas cosas, no recibe a los hermanos, y a los que quieren recibirlos se lo prohíbe, y los expulsa de la iglesia.\n\nAmado, no imites lo malo, sino lo bueno. El que hace lo bueno es de Dios; pero el que hace lo malo, no ha visto a Dios. Todos dan testimonio de Demetrio, y aun la verdad misma; y también nosotros damos testimonio, y vosotros sabéis que nuestro testimonio es verdadero.\n\nYo tenía muchas cosas que escribirte, pero no quiero escribírtelas con tinta y pluma, porque espero verte en breve, y hablaremos cara a cara.\nLa paz sea contigo. Los amigos te saludan. Saluda tú a los amigos, a cada uno en particular.",
+      "chapter_html": "<div class=\"version vid149 iso6393spa\" data-vid=\"149\" data-iso6393=\"spa\">\n   <div class=\"book bk3JN\">\n      <div class=\"chapter ch1\" data-usfm=\"3JN.1\">\n         <div class=\"label\">1</div><div class=\"s\"><span class=\"heading\">Salutaci&#243;n</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"3JN.1.1\"><span class=\"label\">1</span><span class=\"content\">El anciano a Gayo,</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Hch. 19.29; Ro. 16.23; 1 Co. 1.14.</span></span><span class=\"content\"> el amado, a quien amo en la verdad. </span></span><span class=\"verse v2\" data-usfm=\"3JN.1.2\"><span class=\"label\">2</span><span class=\"content\">Amado, yo deseo que t&#250; seas prosperado en todas las cosas, y que tengas salud, as&#237; como prospera tu alma. </span></span><span class=\"verse v3\" data-usfm=\"3JN.1.3\"><span class=\"label\">3</span><span class=\"content\">Pues mucho me regocij&#233; cuando vinieron los hermanos y dieron testimonio de tu verdad, de c&#243;mo andas en la verdad. </span></span><span class=\"verse v4\" data-usfm=\"3JN.1.4\"><span class=\"label\">4</span><span class=\"content\">No tengo yo mayor gozo que este, el o&#237;r que mis hijos andan en la verdad.</span></span></div><div class=\"s\"><span class=\"heading\">Elogio de la hospitalidad de Gayo</span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"3JN.1.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"3JN.1.5\"><span class=\"label\">5</span><span class=\"content\">Amado, fielmente te conduces cuando prestas alg&#250;n servicio a los hermanos, especialmente a los desconocidos, </span></span><span class=\"verse v6\" data-usfm=\"3JN.1.6\"><span class=\"label\">6</span><span class=\"content\">los cuales han dado ante la iglesia testimonio de tu amor; y har&#225;s bien en encaminarlos como es digno de su servicio a Dios, para que contin&#250;en su viaje. </span></span><span class=\"verse v7\" data-usfm=\"3JN.1.7\"><span class=\"label\">7</span><span class=\"content\">Porque ellos salieron por amor del nombre de &#233;l, sin aceptar nada de los gentiles. </span></span><span class=\"verse v8\" data-usfm=\"3JN.1.8\"><span class=\"label\">8</span><span class=\"content\">Nosotros, pues, debemos acoger a tales personas, para que cooperemos con la verdad.</span></span></div><div class=\"s\"><span class=\"heading\">La oposici&#243;n de Di&#243;trefes</span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"3JN.1.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"3JN.1.9\"><span class=\"label\">9</span><span class=\"content\">Yo he escrito a la iglesia; pero Di&#243;trefes, al cual le gusta tener el primer lugar entre ellos, no nos recibe. </span></span><span class=\"verse v10\" data-usfm=\"3JN.1.10\"><span class=\"label\">10</span><span class=\"content\">Por esta causa, si yo fuere, recordar&#233; las obras que hace parloteando con palabras malignas contra nosotros; y no contento con estas cosas, no recibe a los hermanos, y a los que quieren recibirlos se lo proh&#237;be, y los expulsa de la iglesia.</span></span></div><div class=\"s\"><span class=\"heading\">Buen testimonio acerca de Demetrio</span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"3JN.1.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"3JN.1.11\"><span class=\"label\">11</span><span class=\"content\">Amado, no imites lo malo, sino lo bueno. El que hace lo bueno es de Dios; pero el que hace lo malo, no ha visto a Dios. </span></span><span class=\"verse v12\" data-usfm=\"3JN.1.12\"><span class=\"label\">12</span><span class=\"content\">Todos dan testimonio de Demetrio, y aun la verdad misma; y tambi&#233;n nosotros damos testimonio, y vosotros sab&#233;is que nuestro testimonio es verdadero.</span></span></div><div class=\"s\"><span class=\"heading\">Salutaciones finales</span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"3JN.1.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"3JN.1.13\"><span class=\"label\">13</span><span class=\"content\">Yo ten&#237;a muchas cosas que escribirte, pero no quiero escrib&#237;rtelas con tinta y pluma, </span></span><span class=\"verse v14\" data-usfm=\"3JN.1.14\"><span class=\"label\">14</span><span class=\"content\">porque espero verte en breve, y hablaremos cara a cara.</span></span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"3JN.1.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"3JN.1.15\"><span class=\"label\">15</span><span class=\"content\">La paz sea contigo. Los amigos te saludan. Saluda t&#250; a los amigos, a cada uno en particular.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Salutación"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "El anciano a Gayo, el amado, a quien amo en la verdad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Amado, yo deseo que tú seas prosperado en todas las cosas, y que tengas salud, así como prospera tu alma."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Pues mucho me regocijé cuando vinieron los hermanos y dieron testimonio de tu verdad, de cómo andas en la verdad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "No tengo yo mayor gozo que este, el oír que mis hijos andan en la verdad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Elogio de la hospitalidad de Gayo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Amado, fielmente te conduces cuando prestas algún servicio a los hermanos, especialmente a los desconocidos,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "los cuales han dado ante la iglesia testimonio de tu amor; y harás bien en encaminarlos como es digno de su servicio a Dios, para que continúen su viaje."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Porque ellos salieron por amor del nombre de él, sin aceptar nada de los gentiles."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Nosotros, pues, debemos acoger a tales personas, para que cooperemos con la verdad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "La oposición de Diótrefes"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Yo he escrito a la iglesia; pero Diótrefes, al cual le gusta tener el primer lugar entre ellos, no nos recibe."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Por esta causa, si yo fuere, recordaré las obras que hace parloteando con palabras malignas contra nosotros; y no contento con estas cosas, no recibe a los hermanos, y a los que quieren recibirlos se lo prohíbe, y los expulsa de la iglesia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Buen testimonio acerca de Demetrio"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Amado, no imites lo malo, sino lo bueno. El que hace lo bueno es de Dios; pero el que hace lo malo, no ha visto a Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Todos dan testimonio de Demetrio, y aun la verdad misma; y también nosotros damos testimonio, y vosotros sabéis que nuestro testimonio es verdadero."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Salutaciones finales"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Yo tenía muchas cosas que escribirte, pero no quiero escribírtelas con tinta y pluma,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "porque espero verte en breve, y hablaremos cara a cara."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "La paz sea contigo. Los amigos te saludan. Saluda tú a los amigos, a cada uno en particular."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

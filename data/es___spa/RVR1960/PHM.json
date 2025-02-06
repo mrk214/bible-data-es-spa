@@ -1,0 +1,315 @@
+{
+  "book_usfm": "PHM",
+  "name": "Filemón",
+  "local_title": "Biblia Reina Valera 1960",
+  "local_abbreviation": "RVR1960",
+  "version_id": 149,
+  "publisher": {
+    "name": "United Bible Societies"
+  },
+  "copyright": {
+    "html": "<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>",
+    "text": "Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "PHM.INTRO1",
+      "is_chapter": false,
+      "current": {
+        "usfm": [
+          "PHM.INTRO1"
+        ],
+        "human": "Filemón LA EPÍSTOLA DEL APÓSTOL SAN PABLO A FILEMÓN"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "PHM.1"
+        ],
+        "human": "Filemón 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "TIT.3"
+        ],
+        "human": "Tito 3",
+        "toc": true
+      },
+      "chapter_text": "LA EPÍSTOLA DEL APÓSTOL SAN PABLO A FILEMÓN\nINTRODUCCIÓN\nEsta epístola de Pablo a su amigo Filemón (vv. 1,17) ocupa un lugar único entre los escritos del NT. Es la carta paulina más breve y, además, la única de carácter absolutamente personal.\nEl apóstol, ya anciano (v. 9), está preso en alguna cárcel de Roma, Cesarea o Efeso. Timoteo (v. 1) y otros colaboradores (23-24) se encuentran a su lado, pero él, por lo delicado del asunto que va a tratar, prefiere escribir de su propio puño y letra (v. 19) en vez de dictar la carta a algún amanuense.\nEl destinatario es un creyente llamado Filemón, persona generosa y de buena posición a quien Pablo mismo, probablemente, había llevado a la fe en Jesucristo (v. 19). De las referencias hechas a Arquipo (v. 2, cf. Col. 4.17) y a Onésimo (v. 10, cf. Col. 4.9), ambos relacionados con Filemón o con la iglesia que se reunía en su casa (v. 2), se deduce que los tres tenían en Colosas su residencia habitual.\nPropósito\nLa razón inmediata de esta corta pero preciosa misiva surgió el día en que Onésimo se presentó ante Pablo, probablemente en busca de ayuda y protección. La situación de Onésimo era muy comprometida en aquellos momentos, ya que se trataba de un esclavo fugado de la casa de su amo, en este caso, Filemón. Las leyes de la época, considerando delictivo el acto, lo castigaban con enorme dureza, incluso con la muerte.\nNo se saben las razones de la fuga de Onésimo (cf. v. 18). En cambio, se puede suponer que conocía en persona al apóstol, seguramente por haberlo visto alguna vez en casa de Filemón. Esto explicaría que el esclavo acudiera a él en las difíciles circunstancias en que se encontraba.\nContenido y estructura\nLa relación así establecida entre Pablo preso y Onésimo evadido, dio al tema un giro radical al convertirse el esclavo a la fe de Jesucristo (v. 10). Y Pablo, el preso, tiene ahora que plantear el problema a Filemón desde la perspectiva insólita de que este, dueño frustrado del esclavo rebelde, deberá recibirlo de nuevo en su casa, y «no ya como esclavo, sino... como hermano amado... tanto en la carne como en el Señor» (v. 16).\nHabiendo resuelto el apóstol que lo más oportuno sería el retorno de Onésimo junto a su amo legal, exhorta a este a acogerlo, y subraya: «como a mí mismo» (vv. 12,17). De esa forma los fuerza a reencontrarse, y pone a prueba la fe de ambos.\nCon la solución dada al problema, Pablo, indirectamente, se pronuncia contra la esclavitud, al considerar el caso de Onésimo desde la perspectiva de la ley del amor (2 Co. 10.3-5). Esta exige, en el nombre de Cristo Jesús, que sean abatidas todas las barreras y borradas todas las diferencias de clase, causa principal de injusticia, opresión y violencia entre unos seres humanos y otros (Gá. 3.28).\nFecha y lugar de redacción\nLa Epístola a Filemón (Flm) es otra de las llamadas «epístolas de la prisión» (véase Introducción a las epístolas). Muestra una gran afinidad con Colosenses, lo que sugiere que fue escrita por el mismo tiempo. Aunque no ha podido precisarse el lugar ni la fecha de su redacción, tradicionalmente se piensa que fue escrita en Roma, alrededor del año 61.\n\nEsquema del contenido:\n\nSalutación ( 1-3 )\nEl amor y la fe de Filemón ( 4-7 )\nPablo intercede por Onésimo ( 8-22 )\nSalutaciones y bendición final ( 23-25 )",
+      "chapter_html": "<div class=\"version vid149 iso6393spa\" data-vid=\"149\" data-iso6393=\"spa\">\n   <div class=\"book bkPHM\">\n      <div class=\"chapter chINTRO1\" data-usfm=\"PHM.INTRO1\">\n         <div class=\"imt1\"><span class=\"content\">LA EP&#205;STOLA DEL AP&#211;STOL SAN PABLO A FILEM&#211;N</span></div><div class=\"imt3\"><span class=\"content\">INTRODUCCI&#211;N</span></div><div class=\"ip\"><span class=\"content\">Esta ep&#237;stola de Pablo a su amigo Filem&#243;n (vv. 1,17) ocupa un lugar &#250;nico entre los escritos del NT. Es la carta paulina m&#225;s breve y, adem&#225;s, la &#250;nica de car&#225;cter absolutamente personal.</span></div><div class=\"ip\"><span class=\"content\">El ap&#243;stol, ya anciano (v. 9), est&#225; preso en alguna c&#225;rcel de Roma, Cesarea o Efeso. Timoteo (v. 1) y otros colaboradores (23-24) se encuentran a su lado, pero &#233;l, por lo delicado del asunto que va a tratar, prefiere escribir de su propio pu&#241;o y letra (v. 19) en vez de dictar la carta a alg&#250;n amanuense.</span></div><div class=\"ip\"><span class=\"content\">El destinatario es un creyente llamado Filem&#243;n, persona generosa y de buena posici&#243;n a quien Pablo mismo, probablemente, hab&#237;a llevado a la fe en Jesucristo (v. 19). De las referencias hechas a Arquipo (v. 2, cf. </span><span class=\"content\">Col. 4.17</span><span class=\"content\">) y a On&#233;simo (v. 10, cf. </span><span class=\"content\">Col. 4.9</span><span class=\"content\">), ambos relacionados con Filem&#243;n o con la iglesia que se reun&#237;a en su casa (v. 2), se deduce que los tres ten&#237;an en Colosas su residencia habitual.</span></div><div class=\"is1\"><span class=\"content\">Prop&#243;sito</span></div><div class=\"ip\"><span class=\"content\">La raz&#243;n inmediata de esta corta pero preciosa misiva surgi&#243; el d&#237;a en que On&#233;simo se present&#243; ante Pablo, probablemente en busca de ayuda y protecci&#243;n. La situaci&#243;n de On&#233;simo era muy comprometida en aquellos momentos, ya que se trataba de un esclavo fugado de la casa de su amo, en este caso, Filem&#243;n. Las leyes de la &#233;poca, considerando delictivo el acto, lo castigaban con enorme dureza, incluso con la muerte.</span></div><div class=\"ip\"><span class=\"content\">No se saben las razones de la fuga de On&#233;simo (cf. v. 18). En cambio, se puede suponer que conoc&#237;a en persona al ap&#243;stol, seguramente por haberlo visto alguna vez en casa de Filem&#243;n. Esto explicar&#237;a que el esclavo acudiera a &#233;l en las dif&#237;ciles circunstancias en que se encontraba.</span></div><div class=\"is1\"><span class=\"content\">Contenido y estructura</span></div><div class=\"ip\"><span class=\"content\">La relaci&#243;n as&#237; establecida entre Pablo preso y On&#233;simo evadido, dio al tema un giro radical al convertirse el esclavo a la fe de Jesucristo (v. 10). Y Pablo, el preso, tiene ahora que plantear el problema a Filem&#243;n desde la perspectiva ins&#243;lita de que este, due&#241;o frustrado del esclavo rebelde, deber&#225; recibirlo de nuevo en su casa, y &#171;no ya como esclavo, sino... como hermano amado... tanto en la carne como en el Se&#241;or&#187; (v. 16).</span></div><div class=\"ip\"><span class=\"content\">Habiendo resuelto el ap&#243;stol que lo m&#225;s oportuno ser&#237;a el retorno de On&#233;simo junto a su amo legal, exhorta a este a acogerlo, y subraya: &#171;como a m&#237; mismo&#187; (vv. 12,17). De esa forma los fuerza a reencontrarse, y pone a prueba la fe de ambos.</span></div><div class=\"ip\"><span class=\"content\">Con la soluci&#243;n dada al problema, Pablo, indirectamente, se pronuncia contra la esclavitud, al considerar el caso de On&#233;simo desde la perspectiva de la ley del amor (</span>cf. <span class=\"content\">2 Co. 10.3-5</span><span class=\"content\">). Esta exige, en el nombre de Cristo Jes&#250;s, que sean abatidas todas las barreras y borradas todas las diferencias de clase, causa principal de injusticia, opresi&#243;n y violencia entre unos seres humanos y otros (</span>cf. <span class=\"content\">G&#225;. 3.28</span><span class=\"content\">).</span></div><div class=\"is1\"><span class=\"content\">Fecha y lugar de redacci&#243;n</span></div><div class=\"ip\"><span class=\"content\">La </span><span class=\"bk\"><span class=\"content\">Ep&#237;stola a Filem&#243;n</span></span><span class=\"content\"> (Flm) es otra de las llamadas &#171;ep&#237;stolas de la prisi&#243;n&#187; (v&#233;ase </span><span class=\"it\"><span class=\"content\">Introducci&#243;n a las ep&#237;stolas</span></span><span class=\"content\">). Muestra una gran afinidad con Colosenses, lo que sugiere que fue escrita por el mismo tiempo. Aunque no ha podido precisarse el lugar ni la fecha de su redacci&#243;n, tradicionalmente se piensa que fue escrita en Roma, alrededor del a&#241;o 61.</span></div><div class=\"ib\"></div><div class=\"iot\"><span class=\"content\">Esquema del contenido:</span></div><div class=\"ib\"></div><div class=\"io\"><span class=\"content\">Salutaci&#243;n </span><span class=\"ior\"><span class=\"content\">(</span><span class=\"content\">1-3</span><span class=\"content\">)</span></span></div><div class=\"io\"><span class=\"content\">El amor y la fe de Filem&#243;n </span><span class=\"ior\"><span class=\"content\">(</span><span class=\"content\">4-7</span><span class=\"content\">)</span></span></div><div class=\"io\"><span class=\"content\">Pablo intercede por On&#233;simo </span><span class=\"ior\"><span class=\"content\">(</span><span class=\"content\">8-22</span><span class=\"content\">)</span></span></div><div class=\"io\"><span class=\"content\">Salutaciones y bendici&#243;n final </span><span class=\"ior\"><span class=\"content\">(</span><span class=\"content\">23-25</span><span class=\"content\">)</span></span></div><div class=\"ie\"></div>\n      </div>\n   </div>\n</div>",
+      "items": []
+    },
+    {
+      "chapter_usfm": "PHM.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "PHM.1"
+        ],
+        "human": "Filemón 1"
+      },
+      "next": {
+        "canonical": false,
+        "usfm": [
+          "HEB.INTRO1"
+        ],
+        "human": "Hebreos LA EPÍSTOLA A LOS HEBREOS",
+        "toc": true
+      },
+      "previous": {
+        "canonical": false,
+        "usfm": [
+          "PHM.INTRO1"
+        ],
+        "human": "Filemón LA EPÍSTOLA DEL APÓSTOL SAN PABLO A FILEMÓN",
+        "toc": true
+      },
+      "chapter_text": "Pablo, prisionero de Jesucristo, y el hermano Timoteo, al amado Filemón, colaborador nuestro, y a la amada hermana Apia, y a Arquipo nuestro compañero de milicia, y a la iglesia que está en tu casa: Gracia y paz a vosotros, de Dios nuestro Padre y del Señor Jesucristo.\n\nDoy gracias a mi Dios, haciendo siempre memoria de ti en mis oraciones, porque oigo del amor y de la fe que tienes hacia el Señor Jesús, y para con todos los santos; para que la participación de tu fe sea eficaz en el conocimiento de todo el bien que está en vosotros por Cristo Jesús. Pues tenemos gran gozo y consolación en tu amor, porque por ti, oh hermano, han sido confortados los corazones de los santos.\n\nPor lo cual, aunque tengo mucha libertad en Cristo para mandarte lo que conviene, más bien te ruego por amor, siendo como soy, Pablo ya anciano, y ahora, además, prisionero de Jesucristo; te ruego por mi hijo Onésimo,, a quien engendré en mis prisiones, el cual en otro tiempo te fue inútil, pero ahora a ti y a mí nos es útil, el cual vuelvo a enviarte; tú, pues, recíbele como a mí mismo. Yo quisiera retenerle conmigo, para que en lugar tuyo me sirviese en mis prisiones por el evangelio; pero nada quise hacer sin tu consentimiento, para que tu favor no fuese como de necesidad, sino voluntario.\nPorque quizá para esto se apartó de ti por algún tiempo, para que le recibieses para siempre; no ya como esclavo, sino como más que esclavo, como hermano amado, mayormente para mí, pero cuánto más para ti, tanto en la carne como en el Señor. Así que, si me tienes por compañero, recíbele como a mí mismo. Y si en algo te dañó, o te debe, ponlo a mi cuenta. Yo Pablo lo escribo de mi mano, yo lo pagaré; por no decirte que aun tú mismo te me debes también. Sí, hermano, tenga yo algún provecho de ti en el Señor; conforta mi corazón en el Señor.\nTe he escrito confiando en tu obediencia, sabiendo que harás aun más de lo que te digo. Prepárame también alojamiento; porque espero que por vuestras oraciones os seré concedido.\n\nTe saludan Epafras, mi compañero de prisiones por Cristo Jesús, Marcos, Aristarco, Demas y Lucas, mis colaboradores.\nLa gracia de nuestro Señor Jesucristo sea con vuestro espíritu. Amén.",
+      "chapter_html": "<div class=\"version vid149 iso6393spa\" data-vid=\"149\" data-iso6393=\"spa\">\n   <div class=\"book bkPHM\">\n      <div class=\"chapter ch1\" data-usfm=\"PHM.1\">\n         <div class=\"label\">1</div><div class=\"s\"><span class=\"heading\">Salutaci&#243;n</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"PHM.1.1\"><span class=\"label\">1</span><span class=\"content\">Pablo, prisionero de Jesucristo, y el hermano Timoteo, al amado Filem&#243;n, colaborador nuestro, </span></span><span class=\"verse v2\" data-usfm=\"PHM.1.2\"><span class=\"label\">2</span><span class=\"content\">y a la amada hermana Apia, y a Arquipo</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Col. 4.17.</span></span><span class=\"content\"> nuestro compa&#241;ero de milicia, y a la iglesia que est&#225; en tu casa: </span></span><span class=\"verse v3\" data-usfm=\"PHM.1.3\"><span class=\"label\">3</span><span class=\"content\">Gracia y paz a vosotros, de Dios nuestro Padre y del Se&#241;or Jesucristo.</span></span></div><div class=\"s\"><span class=\"heading\">El amor y la fe de Filem&#243;n</span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"PHM.1.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"PHM.1.4\"><span class=\"label\">4</span><span class=\"content\">Doy gracias a mi Dios, haciendo siempre memoria de ti en mis oraciones, </span></span><span class=\"verse v5\" data-usfm=\"PHM.1.5\"><span class=\"label\">5</span><span class=\"content\">porque oigo del amor y de la fe que tienes hacia el Se&#241;or Jes&#250;s, y para con todos los santos; </span></span><span class=\"verse v6\" data-usfm=\"PHM.1.6\"><span class=\"label\">6</span><span class=\"content\">para que la participaci&#243;n de tu fe sea eficaz en el conocimiento de todo el bien que est&#225; en vosotros por Cristo Jes&#250;s. </span></span><span class=\"verse v7\" data-usfm=\"PHM.1.7\"><span class=\"label\">7</span><span class=\"content\">Pues tenemos gran gozo y consolaci&#243;n en tu amor, porque por ti, oh hermano, han sido confortados los corazones de los santos.</span></span></div><div class=\"s\"><span class=\"heading\">Pablo intercede por On&#233;simo</span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"PHM.1.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"PHM.1.8\"><span class=\"label\">8</span><span class=\"content\">Por lo cual, aunque tengo mucha libertad en Cristo para mandarte lo que conviene, </span></span><span class=\"verse v9\" data-usfm=\"PHM.1.9\"><span class=\"label\">9</span><span class=\"content\">m&#225;s bien te ruego por amor, siendo como soy, Pablo ya anciano, y ahora, adem&#225;s, prisionero de Jesucristo; </span></span><span class=\"verse v10\" data-usfm=\"PHM.1.10\"><span class=\"label\">10</span><span class=\"content\">te ruego por mi hijo On&#233;simo,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">10: </span><span class=\"ft\">Esto es, </span><span class=\"fk\">&#250;til </span><span class=\"ft\">(v. 11) o </span><span class=\"fk\">provechoso </span><span class=\"ft\">(v. 20).</span></span></span><span class=\"content\">,</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Col. 4.9.</span></span><span class=\"content\"> a quien engendr&#233; en mis prisiones, </span></span><span class=\"verse v11\" data-usfm=\"PHM.1.11\"><span class=\"label\">11</span><span class=\"content\">el cual en otro tiempo te fue in&#250;til, pero ahora a ti y a m&#237; nos es &#250;til, </span></span><span class=\"verse v12\" data-usfm=\"PHM.1.12\"><span class=\"label\">12</span><span class=\"content\">el cual vuelvo a enviarte; t&#250;, pues, rec&#237;bele como a m&#237; mismo. </span></span><span class=\"verse v13\" data-usfm=\"PHM.1.13\"><span class=\"label\">13</span><span class=\"content\">Yo quisiera retenerle conmigo, para que en lugar tuyo me sirviese en mis prisiones por el evangelio; </span></span><span class=\"verse v14\" data-usfm=\"PHM.1.14\"><span class=\"label\">14</span><span class=\"content\">pero nada quise hacer sin tu consentimiento, para que tu favor no fuese como de necesidad, sino voluntario.</span></span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"PHM.1.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"PHM.1.15\"><span class=\"label\">15</span><span class=\"content\">Porque quiz&#225; para esto se apart&#243; de ti por alg&#250;n tiempo, para que le recibieses para siempre; </span></span><span class=\"verse v16\" data-usfm=\"PHM.1.16\"><span class=\"label\">16</span><span class=\"content\">no ya como esclavo, sino como m&#225;s que esclavo, como hermano amado, mayormente para m&#237;, pero cu&#225;nto m&#225;s para ti, tanto en la carne como en el Se&#241;or. </span></span><span class=\"verse v17\" data-usfm=\"PHM.1.17\"><span class=\"label\">17</span><span class=\"content\">As&#237; que, si me tienes por compa&#241;ero, rec&#237;bele como a m&#237; mismo. </span></span><span class=\"verse v18\" data-usfm=\"PHM.1.18\"><span class=\"label\">18</span><span class=\"content\">Y si en algo te da&#241;&#243;, o te debe, ponlo a mi cuenta. </span></span><span class=\"verse v19\" data-usfm=\"PHM.1.19\"><span class=\"label\">19</span><span class=\"content\">Yo Pablo lo escribo de mi mano, yo lo pagar&#233;; por no decirte que aun t&#250; mismo te me debes tambi&#233;n. </span></span><span class=\"verse v20\" data-usfm=\"PHM.1.20\"><span class=\"label\">20</span><span class=\"content\">S&#237;, hermano, tenga yo alg&#250;n provecho de ti en el Se&#241;or; conforta mi coraz&#243;n en el Se&#241;or.</span></span></div><div class=\"p\"><span class=\"verse v20\" data-usfm=\"PHM.1.20\"><span class=\"content\">  </span></span><span class=\"verse v21\" data-usfm=\"PHM.1.21\"><span class=\"label\">21</span><span class=\"content\">Te he escrito confiando en tu obediencia, sabiendo que har&#225;s aun m&#225;s de lo que te digo. </span></span><span class=\"verse v22\" data-usfm=\"PHM.1.22\"><span class=\"label\">22</span><span class=\"content\">Prep&#225;rame tambi&#233;n alojamiento; porque espero que por vuestras oraciones os ser&#233; concedido.</span></span></div><div class=\"s\"><span class=\"heading\">Salutaciones y bendici&#243;n final</span></div><div class=\"p\"><span class=\"verse v22\" data-usfm=\"PHM.1.22\"><span class=\"content\">  </span></span><span class=\"verse v23\" data-usfm=\"PHM.1.23\"><span class=\"label\">23</span><span class=\"content\">Te saludan Epafras,</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Col. 1.7; 4.12.</span></span><span class=\"content\"> mi compa&#241;ero de prisiones por Cristo Jes&#250;s, </span></span><span class=\"verse v24\" data-usfm=\"PHM.1.24\"><span class=\"label\">24</span><span class=\"content\">Marcos,</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Hch. 12.12,25; 13.13; 15.37-39; Col. 4.10.</span></span><span class=\"content\"> Aristarco,</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Hch. 19.29; 27.2; Col. 4.10.</span></span><span class=\"content\"> Demas</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Col. 4.14; 2 Ti. 4.10.</span></span><span class=\"content\"> y Lucas,</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Col. 4.14; 2 Ti. 4.11.</span></span><span class=\"content\"> mis colaboradores.</span></span></div><div class=\"p\"><span class=\"verse v24\" data-usfm=\"PHM.1.24\"><span class=\"content\">  </span></span><span class=\"verse v25\" data-usfm=\"PHM.1.25\"><span class=\"label\">25</span><span class=\"content\">La gracia de nuestro Se&#241;or Jesucristo sea con vuestro esp&#237;ritu. Am&#233;n.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Salutación"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Pablo, prisionero de Jesucristo, y el hermano Timoteo, al amado Filemón, colaborador nuestro,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "y a la amada hermana Apia, y a Arquipo nuestro compañero de milicia, y a la iglesia que está en tu casa:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Gracia y paz a vosotros, de Dios nuestro Padre y del Señor Jesucristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "El amor y la fe de Filemón"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Doy gracias a mi Dios, haciendo siempre memoria de ti en mis oraciones,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "porque oigo del amor y de la fe que tienes hacia el Señor Jesús, y para con todos los santos;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "para que la participación de tu fe sea eficaz en el conocimiento de todo el bien que está en vosotros por Cristo Jesús."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Pues tenemos gran gozo y consolación en tu amor, porque por ti, oh hermano, han sido confortados los corazones de los santos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Pablo intercede por Onésimo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Por lo cual, aunque tengo mucha libertad en Cristo para mandarte lo que conviene,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "más bien te ruego por amor, siendo como soy, Pablo ya anciano, y ahora, además, prisionero de Jesucristo;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "te ruego por mi hijo Onésimo,, a quien engendré en mis prisiones,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "el cual en otro tiempo te fue inútil, pero ahora a ti y a mí nos es útil,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "el cual vuelvo a enviarte; tú, pues, recíbele como a mí mismo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Yo quisiera retenerle conmigo, para que en lugar tuyo me sirviese en mis prisiones por el evangelio;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "pero nada quise hacer sin tu consentimiento, para que tu favor no fuese como de necesidad, sino voluntario."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Porque quizá para esto se apartó de ti por algún tiempo, para que le recibieses para siempre;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "no ya como esclavo, sino como más que esclavo, como hermano amado, mayormente para mí, pero cuánto más para ti, tanto en la carne como en el Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Así que, si me tienes por compañero, recíbele como a mí mismo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Y si en algo te dañó, o te debe, ponlo a mi cuenta."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Yo Pablo lo escribo de mi mano, yo lo pagaré; por no decirte que aun tú mismo te me debes también."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Sí, hermano, tenga yo algún provecho de ti en el Señor; conforta mi corazón en el Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "Te he escrito confiando en tu obediencia, sabiendo que harás aun más de lo que te digo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "Prepárame también alojamiento; porque espero que por vuestras oraciones os seré concedido."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Salutaciones y bendición final"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "Te saludan Epafras, mi compañero de prisiones por Cristo Jesús,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "Marcos, Aristarco, Demas y Lucas, mis colaboradores."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "La gracia de nuestro Señor Jesucristo sea con vuestro espíritu. Amén."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

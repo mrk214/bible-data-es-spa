@@ -1,0 +1,684 @@
+{
+  "book_usfm": "HAB",
+  "name": "Habacuc",
+  "local_title": "Biblia Reina Valera 1960",
+  "local_abbreviation": "RVR1960",
+  "version_id": 149,
+  "publisher": {
+    "name": "United Bible Societies"
+  },
+  "copyright": {
+    "html": "<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>",
+    "text": "Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "HAB.INTRO1",
+      "is_chapter": false,
+      "current": {
+        "usfm": [
+          "HAB.INTRO1"
+        ],
+        "human": "Habacuc HABACUC"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "HAB.1"
+        ],
+        "human": "Habacuc 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "NAM.3"
+        ],
+        "human": "Nahúm 3",
+        "toc": true
+      },
+      "chapter_text": "HABACUC\nINTRODUCCIÓN\nEl profeta y su medio\nDe este personaje bíblico solamente sabemos que fue profeta y que se llamaba Habacuc (1.13.1). Su libro, octavo entre los doce denominados «Profetas Menores», no incluye el menor dato personal, ni en parte alguna del Antiguo o del Nuevo Testamento se vuelve a mencionar su nombre.\nPartiendo de la referencia que en 1.6 se hace a «los caldeos, nación cruel y presurosa», algunos han deducido que Habacuc profetizó en tiempos cercanos a la destrucción de Nínive (612 a.C.); pero, a falta de cualquier documento que permita fijar la fecha con exactitud, hay también quienes piensan que la actividad del profeta debe fijarse entre el año 605 a.C., principio del reinado de Nabucodonosor en Babilonia (Jer. 25.1), y el 587 a.C., año de la caída de Jerusalén (2 R. 24.10-12). Las dificultades para la identificación de la fecha de su actividad profética se acrecientan a causa del simbolismo que más tarde adquirió la imagen de Babilonia, nombre que llegó a ser ejemplo cumbre de opresión, maldad y violencia (cf. Ap 18).\nEl libro y su mensaje\nA partir del título del libro de Habacuc (Hab), en 1.1, la profecía consta de tres secciones bien diferenciadas.\nLa primera de ellas (1.2—2.4) es una especie de diálogo entre Dios y el profeta. Habacuc clama a causa de la violencia y la injusticia practicadas ante sus propios ojos por las gentes de su nación (1.2-4); y el Señor le responde afirmando que la maldad será castigada y que los caldeos serán el brazo ejecutor del castigo (1.5-11). Pero con esta respuesta crece la confusión del profeta, que no comprende cómo Dios puede valerse de los crueles caldeos para invadir y arrasar el país: «¿Por qué... callas cuando destruye el impío al más justo que él?» (1.13).\nEn la segunda parte (2.5-20), Dios invita al profeta a poner en él toda su confianza. Vendrá un día en que también los caldeos serán abatidos. Su propia soberbia los consumirá cuando llegue el momento del triunfo de la justicia, cuando el malvado recibirá el pago merecido, en tanto que «el justo por su fe vivirá» (2.4Ro. 1.17Gá. 3.11He. 10.38).\nEl capítulo 3 constituye la tercera sección del libro. Es una oración en forma de salmo, compuesta para cantar la gloria de Jehová y para expresar con un vibrante lenguaje poético la seguridad del profeta en la protección que le dispensará el Dios de su salvación, el Señor que es su fortaleza (3.18-19).\n\nEsquema del contenido:\n\n1. Habacuc se queja de injusticia ( 1.1-4 )\n2. Los caldeos castigarán a Judá ( 1.5-11 )\n3. Protesta de Habacuc ( 1.12-17 )\n4. Jehová responde a Habacuc ( 2.1-5 )\n5. Ayes contra los injustos ( 2.6-20 )\n6. Oración de Habacuc ( 3.1-19 )",
+      "chapter_html": "<div class=\"version vid149 iso6393spa\" data-vid=\"149\" data-iso6393=\"spa\">\n   <div class=\"book bkHAB\">\n      <div class=\"chapter chINTRO1\" data-usfm=\"HAB.INTRO1\">\n         <div class=\"imt1\"><span class=\"content\">HABACUC</span></div><div class=\"imt3\"><span class=\"content\">INTRODUCCI&#211;N</span></div><div class=\"is1\"><span class=\"content\">El profeta y su medio</span></div><div class=\"ip\"><span class=\"content\">De este personaje b&#237;blico solamente sabemos que fue profeta y que se llamaba Habacuc (</span><span class=\"content\">1.1</span>; <span class=\"content\">3.1</span><span class=\"content\">). Su libro, octavo entre los doce denominados &#171;Profetas Menores&#187;, no incluye el menor dato personal, ni en parte alguna del Antiguo o del Nuevo Testamento se vuelve a mencionar su nombre.</span></div><div class=\"ip\"><span class=\"content\">Partiendo de la referencia que en 1.6 se hace a &#171;los caldeos, naci&#243;n cruel y presurosa&#187;, algunos han deducido que Habacuc profetiz&#243; en tiempos cercanos a la destrucci&#243;n de N&#237;nive (612 a.C.); pero, a falta de cualquier documento que permita fijar la fecha con exactitud, hay tambi&#233;n quienes piensan que la actividad del profeta debe fijarse entre el a&#241;o 605 a.C., principio del reinado de Nabucodonosor en Babilonia (</span>cf. <span class=\"content\">Jer. 25.1</span><span class=\"content\">), y el 587 a.C., a&#241;o de la ca&#237;da de Jerusal&#233;n (</span>cf. <span class=\"content\">2 R. 24.10-12</span><span class=\"content\">). Las dificultades para la identificaci&#243;n de la fecha de su actividad prof&#233;tica se acrecientan a causa del simbolismo que m&#225;s tarde adquiri&#243; la imagen de Babilonia, nombre que lleg&#243; a ser ejemplo cumbre de opresi&#243;n, maldad y violencia (cf. Ap 18).</span></div><div class=\"is1\"><span class=\"content\">El libro y su mensaje</span></div><div class=\"ip\"><span class=\"content\">A partir del t&#237;tulo del libro de </span><span class=\"bk\"><span class=\"content\">Habacuc</span></span><span class=\"content\"> (Hab), en </span><span class=\"content\">1.1</span><span class=\"content\">, la profec&#237;a consta de tres secciones bien diferenciadas.</span></div><div class=\"ip\"><span class=\"content\">La primera de ellas (1.2&#8212;2.4) es una especie de di&#225;logo entre Dios y el profeta. Habacuc clama a causa de la violencia y la injusticia practicadas ante sus propios ojos por las gentes de su naci&#243;n (</span><span class=\"content\">1.2-4</span><span class=\"content\">); y el Se&#241;or le responde afirmando que la maldad ser&#225; castigada y que los caldeos ser&#225;n el brazo ejecutor del castigo (</span><span class=\"content\">1.5-11</span><span class=\"content\">). Pero con esta respuesta crece la confusi&#243;n del profeta, que no comprende c&#243;mo Dios puede valerse de los crueles caldeos para invadir y arrasar el pa&#237;s: &#171;&#191;Por qu&#233;... callas cuando destruye el imp&#237;o al m&#225;s justo que &#233;l?&#187; (</span><span class=\"content\">1.13</span><span class=\"content\">).</span></div><div class=\"ip\"><span class=\"content\">En la segunda parte (</span><span class=\"content\">2.5-20</span><span class=\"content\">), Dios invita al profeta a poner en &#233;l toda su confianza. Vendr&#225; un d&#237;a en que tambi&#233;n los caldeos ser&#225;n abatidos. Su propia soberbia los consumir&#225; cuando llegue el momento del triunfo de la justicia, cuando el malvado recibir&#225; el pago merecido, en tanto que &#171;el justo por su fe vivir&#225;&#187; (</span><span class=\"content\">2.4</span>; cf. <span class=\"content\">Ro. 1.17</span>; <span class=\"content\">G&#225;. 3.11</span>; <span class=\"content\">He. 10.38</span><span class=\"content\">).</span></div><div class=\"ip\"><span class=\"content\">El cap&#237;tulo 3 constituye la tercera secci&#243;n del libro. Es una oraci&#243;n en forma de salmo, compuesta para cantar la gloria de Jehov&#225; y para expresar con un vibrante lenguaje po&#233;tico la seguridad del profeta en la protecci&#243;n que le dispensar&#225; el Dios de su salvaci&#243;n, el Se&#241;or que es su fortaleza (</span><span class=\"content\">3.18-19</span><span class=\"content\">).</span></div><div class=\"ib\"></div><div class=\"iot\"><span class=\"content\">Esquema del contenido:</span></div><div class=\"ib\"></div><div class=\"io1\"><span class=\"content\">1. Habacuc se queja de injusticia </span><span class=\"ior\"><span class=\"content\">(</span><span class=\"content\">1.1-4</span><span class=\"content\">)</span></span></div><div class=\"io1\"><span class=\"content\">2. Los caldeos castigar&#225;n a Jud&#225; </span><span class=\"ior\"><span class=\"content\">(</span><span class=\"content\">1.5-11</span><span class=\"content\">)</span></span></div><div class=\"io1\"><span class=\"content\">3. Protesta de Habacuc </span><span class=\"ior\"><span class=\"content\">(</span><span class=\"content\">1.12-17</span><span class=\"content\">)</span></span></div><div class=\"io1\"><span class=\"content\">4. Jehov&#225; responde a Habacuc </span><span class=\"ior\"><span class=\"content\">(</span><span class=\"content\">2.1-5</span><span class=\"content\">)</span></span></div><div class=\"io1\"><span class=\"content\">5. Ayes contra los injustos </span><span class=\"ior\"><span class=\"content\">(</span><span class=\"content\">2.6-20</span><span class=\"content\">)</span></span></div><div class=\"io1\"><span class=\"content\">6. Oraci&#243;n de Habacuc </span><span class=\"ior\"><span class=\"content\">(</span><span class=\"content\">3.1-19</span><span class=\"content\">)</span></span></div><div class=\"ie\"></div>\n      </div>\n   </div>\n</div>",
+      "items": []
+    },
+    {
+      "chapter_usfm": "HAB.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "HAB.1"
+        ],
+        "human": "Habacuc 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "HAB.2"
+        ],
+        "human": "Habacuc 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": false,
+        "usfm": [
+          "HAB.INTRO1"
+        ],
+        "human": "Habacuc HABACUC",
+        "toc": true
+      },
+      "chapter_text": "La profecía que vio el profeta Habacuc. ¿Hasta cuándo, oh Jehová, clamaré, y no oirás; y daré voces a ti a causa de la violencia, y no salvarás? ¿Por qué me haces ver iniquidad, y haces que vea molestia? Destrucción y violencia están delante de mí, y pleito y contienda se levantan. Por lo cual la ley es debilitada, y el juicio no sale según la verdad; por cuanto el impío asedia al justo, por eso sale torcida la justicia.\n\nMirad entre las naciones, y ved, y asombraos; porque haré una obra en vuestros días, que aun cuando se os contare, no la creeréis. Porque he aquí, yo levanto a los caldeos, nación cruel y presurosa, que camina por la anchura de la tierra para poseer las moradas ajenas. Formidable es y terrible; de ella misma procede su justicia y su dignidad. Sus caballos serán más ligeros que leopardos, y más feroces que lobos nocturnos, y sus jinetes se multiplicarán; vendrán de lejos sus jinetes, y volarán como águilas que se apresuran a devorar. Toda ella vendrá a la presa; el terror va delante de ella, y recogerá cautivos como arena. Escarnecerá a los reyes, y de los príncipes hará burla; se reirá de toda fortaleza, y levantará terraplén y la tomará. Luego pasará como el huracán, y ofenderá atribuyendo su fuerza a su dios.\n\n¿No eres tú desde el principio, oh Jehová, Dios mío, Santo mío? No moriremos. Oh Jehová, para juicio lo pusiste; y tú, oh Roca, lo fundaste para castigar. Muy limpio eres de ojos para ver el mal, ni puedes ver el agravio; ¿por qué ves a los menospreciadores, y callas cuando destruye el impío al más justo que él, y haces que sean los hombres como los peces del mar, como reptiles que no tienen quien los gobierne? Sacará a todos con anzuelo, los recogerá con su red, y los juntará en sus mallas; por lo cual se alegrará y se regocijará. Por esto hará sacrificios a su red, y ofrecerá sahumerios a sus mallas; porque con ellas engordó su porción, y engrasó su comida. ¿Vaciará por eso su red, y no tendrá piedad de aniquilar naciones continuamente?",
+      "chapter_html": "<div class=\"version vid149 iso6393spa\" data-vid=\"149\" data-iso6393=\"spa\">\n   <div class=\"book bkHAB\">\n      <div class=\"chapter ch1\" data-usfm=\"HAB.1\">\n         <div class=\"label\">1</div><div class=\"s\"><span class=\"heading\">Habacuc se queja de injusticia</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"HAB.1.1\"><span class=\"label\">1</span><span class=\"content\">La profec&#237;a que vio el profeta Habacuc. </span></span><span class=\"verse v2\" data-usfm=\"HAB.1.2\"><span class=\"label\">2</span><span class=\"content\">&#191;Hasta cu&#225;ndo, oh Jehov&#225;, clamar&#233;, y no oir&#225;s; y dar&#233; voces a ti a causa de la violencia, y no salvar&#225;s? </span></span><span class=\"verse v3\" data-usfm=\"HAB.1.3\"><span class=\"label\">3</span><span class=\"content\">&#191;Por qu&#233; me haces ver iniquidad, y haces que vea molestia? Destrucci&#243;n y violencia est&#225;n delante de m&#237;, y pleito y contienda se levantan. </span></span><span class=\"verse v4\" data-usfm=\"HAB.1.4\"><span class=\"label\">4</span><span class=\"content\">Por lo cual la ley es debilitada, y el juicio no sale seg&#250;n la verdad; por cuanto el imp&#237;o asedia al justo, por eso sale torcida la justicia.</span></span></div><div class=\"s\"><span class=\"heading\">Los caldeos castigar&#225;n a Jud&#225;</span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"HAB.1.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"HAB.1.5\"><span class=\"label\">5</span><span class=\"content\">Mirad entre las naciones, y ved, y asombraos; porque har&#233; una obra en vuestros d&#237;as, que aun cuando se os contare, no la creer&#233;is.</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Hch. 13.41.</span></span><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"HAB.1.6\"><span class=\"label\">6</span><span class=\"content\">Porque he aqu&#237;, yo levanto a los caldeos,</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">2 R. 24.2.</span></span><span class=\"content\"> naci&#243;n cruel y presurosa, que camina por la anchura de la tierra para poseer las moradas ajenas. </span></span><span class=\"verse v7\" data-usfm=\"HAB.1.7\"><span class=\"label\">7</span><span class=\"content\">Formidable es y terrible; de ella misma procede su justicia y su dignidad. </span></span><span class=\"verse v8\" data-usfm=\"HAB.1.8\"><span class=\"label\">8</span><span class=\"content\">Sus caballos ser&#225;n m&#225;s ligeros que leopardos, y m&#225;s feroces que lobos nocturnos, y sus jinetes se multiplicar&#225;n; vendr&#225;n de lejos sus jinetes, y volar&#225;n como &#225;guilas que se apresuran a devorar. </span></span><span class=\"verse v9\" data-usfm=\"HAB.1.9\"><span class=\"label\">9</span><span class=\"content\">Toda ella vendr&#225; a la presa; el terror va delante de ella, y recoger&#225; cautivos como arena. </span></span><span class=\"verse v10\" data-usfm=\"HAB.1.10\"><span class=\"label\">10</span><span class=\"content\">Escarnecer&#225; a los reyes, y de los pr&#237;ncipes har&#225; burla; se reir&#225; de toda fortaleza, y levantar&#225; terrapl&#233;n y la tomar&#225;. </span></span><span class=\"verse v11\" data-usfm=\"HAB.1.11\"><span class=\"label\">11</span><span class=\"content\">Luego pasar&#225; como el hurac&#225;n, y ofender&#225; atribuyendo su fuerza a su dios.</span></span></div><div class=\"s\"><span class=\"heading\">Protesta de Habacuc</span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"HAB.1.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"HAB.1.12\"><span class=\"label\">12</span><span class=\"content\">&#191;No eres t&#250; desde el principio, oh Jehov&#225;, Dios m&#237;o, Santo m&#237;o? No moriremos. Oh Jehov&#225;, para juicio lo pusiste; y t&#250;, oh Roca, lo fundaste para castigar. </span></span><span class=\"verse v13\" data-usfm=\"HAB.1.13\"><span class=\"label\">13</span><span class=\"content\">Muy limpio eres de ojos para ver el mal, ni puedes ver el agravio; &#191;por qu&#233; ves a los menospreciadores, y callas cuando destruye el imp&#237;o al m&#225;s justo que &#233;l, </span></span><span class=\"verse v14\" data-usfm=\"HAB.1.14\"><span class=\"label\">14</span><span class=\"content\">y haces que sean los hombres como los peces del mar, como reptiles que no tienen quien los gobierne? </span></span><span class=\"verse v15\" data-usfm=\"HAB.1.15\"><span class=\"label\">15</span><span class=\"content\">Sacar&#225; a todos con anzuelo, los recoger&#225; con su red, y los juntar&#225; en sus mallas; por lo cual se alegrar&#225; y se regocijar&#225;. </span></span><span class=\"verse v16\" data-usfm=\"HAB.1.16\"><span class=\"label\">16</span><span class=\"content\">Por esto har&#225; sacrificios a su red, y ofrecer&#225; sahumerios a sus mallas; porque con ellas engord&#243; su porci&#243;n, y engras&#243; su comida. </span></span><span class=\"verse v17\" data-usfm=\"HAB.1.17\"><span class=\"label\">17</span><span class=\"content\">&#191;Vaciar&#225; por eso su red, y no tendr&#225; piedad de aniquilar naciones continuamente?</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Habacuc se queja de injusticia"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "La profecía que vio el profeta Habacuc."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "¿Hasta cuándo, oh Jehová, clamaré, y no oirás; y daré voces a ti a causa de la violencia, y no salvarás?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "¿Por qué me haces ver iniquidad, y haces que vea molestia? Destrucción y violencia están delante de mí, y pleito y contienda se levantan."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Por lo cual la ley es debilitada, y el juicio no sale según la verdad; por cuanto el impío asedia al justo, por eso sale torcida la justicia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Los caldeos castigarán a Judá"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Mirad entre las naciones, y ved, y asombraos; porque haré una obra en vuestros días, que aun cuando se os contare, no la creeréis."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Porque he aquí, yo levanto a los caldeos, nación cruel y presurosa, que camina por la anchura de la tierra para poseer las moradas ajenas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Formidable es y terrible; de ella misma procede su justicia y su dignidad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Sus caballos serán más ligeros que leopardos, y más feroces que lobos nocturnos, y sus jinetes se multiplicarán; vendrán de lejos sus jinetes, y volarán como águilas que se apresuran a devorar."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Toda ella vendrá a la presa; el terror va delante de ella, y recogerá cautivos como arena."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Escarnecerá a los reyes, y de los príncipes hará burla; se reirá de toda fortaleza, y levantará terraplén y la tomará."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Luego pasará como el huracán, y ofenderá atribuyendo su fuerza a su dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Protesta de Habacuc"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "¿No eres tú desde el principio, oh Jehová, Dios mío, Santo mío? No moriremos. Oh Jehová, para juicio lo pusiste; y tú, oh Roca, lo fundaste para castigar."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Muy limpio eres de ojos para ver el mal, ni puedes ver el agravio; ¿por qué ves a los menospreciadores, y callas cuando destruye el impío al más justo que él,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "y haces que sean los hombres como los peces del mar, como reptiles que no tienen quien los gobierne?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Sacará a todos con anzuelo, los recogerá con su red, y los juntará en sus mallas; por lo cual se alegrará y se regocijará."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Por esto hará sacrificios a su red, y ofrecerá sahumerios a sus mallas; porque con ellas engordó su porción, y engrasó su comida."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "¿Vaciará por eso su red, y no tendrá piedad de aniquilar naciones continuamente?"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "HAB.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "HAB.2"
+        ],
+        "human": "Habacuc 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "HAB.3"
+        ],
+        "human": "Habacuc 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "HAB.1"
+        ],
+        "human": "Habacuc 1",
+        "toc": true
+      },
+      "chapter_text": "Sobre mi guarda estaré, y sobre la fortaleza afirmaré el pie, y velaré para ver lo que se me dirá, y qué he de responder tocante a mi queja. Y Jehová me respondió, y dijo: Escribe la visión, y declárala en tablas, para que corra el que leyere en ella. Aunque la visión tardará aún por un tiempo, mas se apresura hacia el fin, y no mentirá; aunque tardare, espéralo, porque sin duda vendrá, no tardará. He aquí que aquel cuya alma no es recta, se enorgullece; mas el justo por su fe vivirá. Y también, el que es dado al vino es traicionero, hombre soberbio, que no permanecerá; ensanchó como el Seol su alma, y es como la muerte, que no se saciará; antes reunió para sí todas las gentes, y juntó para sí todos los pueblos.\n\n¿No han de levantar todos estos refrán sobre él, y sarcasmos contra él? Dirán: ¡Ay del que multiplicó lo que no era suyo! ¿Hasta cuándo había de acumular sobre sí prenda tras prenda? ¿No se levantarán de repente tus deudores, y se despertarán los que te harán temblar, y serás despojo para ellos? Por cuanto tú has despojado a muchas naciones, todos los otros pueblos te despojarán, a causa de la sangre de los hombres, y de los robos de la tierra, de las ciudades y de todos los que habitan en ellas.\n¡Ay del que codicia injusta ganancia para su casa, para poner en alto su nido, para escaparse del poder del mal! Tomaste consejo vergonzoso para tu casa, asolaste muchos pueblos, y has pecado contra tu vida. Porque la piedra clamará desde el muro, y la tabla del enmaderado le responderá.\n¡Ay del que edifica la ciudad con sangre, y del que funda una ciudad con iniquidad! ¿No es esto de Jehová de los ejércitos? Los pueblos, pues, trabajarán para el fuego, y las naciones se fatigarán en vano. Porque la tierra será llena del conocimiento de la gloria de Jehová, como las aguas cubren el mar.\n¡Ay del que da de beber a su prójimo! ¡Ay de ti, que le acercas tu hiel, y le embriagas para mirar su desnudez! Te has llenado de deshonra más que de honra; bebe tú también, y serás descubierto; el cáliz de la mano derecha de Jehová vendrá hasta ti, y vómito de afrenta sobre tu gloria. Porque la rapiña del Líbano caerá sobre ti, y la destrucción de las fieras te quebrantará, a causa de la sangre de los hombres, y del robo de la tierra, de las ciudades y de todos los que en ellas habitaban.\n¿De qué sirve la escultura que esculpió el que la hizo?, ¿la estatua de fundición que enseña mentira, para que haciendo imágenes mudas confíe el hacedor en su obra? ¡Ay del que dice al palo: Despiértate; y a la piedra muda: Levántate! ¿Podrá él enseñar? He aquí está cubierto de oro y plata, y no hay espíritu dentro de él.\nMas Jehová está en su santo templo; calle delante de él toda la tierra.",
+      "chapter_html": "<div class=\"version vid149 iso6393spa\" data-vid=\"149\" data-iso6393=\"spa\">\n   <div class=\"book bkHAB\">\n      <div class=\"chapter ch2\" data-usfm=\"HAB.2\">\n         <div class=\"label\">2</div><div class=\"s\"><span class=\"heading\">Jehov&#225; responde a Habacuc</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"HAB.2.1\"><span class=\"label\">1</span><span class=\"content\">Sobre mi guarda estar&#233;, y sobre la fortaleza afirmar&#233; el pie, y velar&#233; para ver lo que se me dir&#225;, y qu&#233; he de responder tocante a mi queja. </span></span><span class=\"verse v2\" data-usfm=\"HAB.2.2\"><span class=\"label\">2</span><span class=\"content\">Y Jehov&#225; me respondi&#243;, y dijo: Escribe la visi&#243;n, y decl&#225;rala en tablas, para que corra el que leyere en ella. </span></span><span class=\"verse v3\" data-usfm=\"HAB.2.3\"><span class=\"label\">3</span><span class=\"content\">Aunque la visi&#243;n tardar&#225; a&#250;n por un tiempo, mas se apresura hacia el fin, y no mentir&#225;; aunque tardare, esp&#233;ralo, porque sin duda vendr&#225;, no tardar&#225;.</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">He. 10.37.</span></span><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"HAB.2.4\"><span class=\"label\">4</span><span class=\"content\">He aqu&#237; que aquel cuya alma no es recta, se enorgullece; mas el justo por su fe vivir&#225;.</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Ro. 1.17; G&#225;. 3.11; He. 10.38.</span></span><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"HAB.2.5\"><span class=\"label\">5</span><span class=\"content\">Y tambi&#233;n, el que es dado al vino es traicionero, hombre soberbio, que no permanecer&#225;; ensanch&#243; como el Seol su alma, y es como la muerte, que no se saciar&#225;; antes reuni&#243; para s&#237; todas las gentes, y junt&#243; para s&#237; todos los pueblos.</span></span></div><div class=\"s\"><span class=\"heading\">Ayes contra los injustos</span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"HAB.2.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"HAB.2.6\"><span class=\"label\">6</span><span class=\"content\">&#191;No han de levantar todos estos refr&#225;n sobre &#233;l, y sarcasmos contra &#233;l? Dir&#225;n: &#161;Ay del que multiplic&#243; lo que no era suyo! &#191;Hasta cu&#225;ndo hab&#237;a de acumular sobre s&#237; prenda tras prenda? </span></span><span class=\"verse v7\" data-usfm=\"HAB.2.7\"><span class=\"label\">7</span><span class=\"content\">&#191;No se levantar&#225;n de repente tus deudores, y se despertar&#225;n los que te har&#225;n temblar, y ser&#225;s despojo para ellos? </span></span><span class=\"verse v8\" data-usfm=\"HAB.2.8\"><span class=\"label\">8</span><span class=\"content\">Por cuanto t&#250; has despojado a muchas naciones, todos los otros pueblos te despojar&#225;n, a causa de la sangre de los hombres, y de los robos de la tierra, de las ciudades y de todos los que habitan en ellas.</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"HAB.2.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"HAB.2.9\"><span class=\"label\">9</span><span class=\"content\">&#161;Ay del que codicia injusta ganancia para su casa, para poner en alto su nido, para escaparse del poder del mal! </span></span><span class=\"verse v10\" data-usfm=\"HAB.2.10\"><span class=\"label\">10</span><span class=\"content\">Tomaste consejo vergonzoso para tu casa, asolaste muchos pueblos, y has pecado contra tu vida. </span></span><span class=\"verse v11\" data-usfm=\"HAB.2.11\"><span class=\"label\">11</span><span class=\"content\">Porque la piedra clamar&#225; desde el muro, y la tabla del enmaderado le responder&#225;.</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"HAB.2.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"HAB.2.12\"><span class=\"label\">12</span><span class=\"content\">&#161;Ay del que edifica la ciudad con sangre, y del que funda una ciudad con iniquidad! </span></span><span class=\"verse v13\" data-usfm=\"HAB.2.13\"><span class=\"label\">13</span><span class=\"content\">&#191;No es esto de Jehov&#225; de los ej&#233;rcitos? Los pueblos, pues, trabajar&#225;n para el fuego, y las naciones se fatigar&#225;n en vano. </span></span><span class=\"verse v14\" data-usfm=\"HAB.2.14\"><span class=\"label\">14</span><span class=\"content\">Porque la tierra ser&#225; llena del conocimiento de la gloria de Jehov&#225;, como las aguas cubren el mar.</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Is. 11.9.</span></span></span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"HAB.2.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"HAB.2.15\"><span class=\"label\">15</span><span class=\"content\">&#161;Ay del que da de beber a su pr&#243;jimo! &#161;Ay de ti, que le acercas tu hiel, y le embriagas para mirar su desnudez! </span></span><span class=\"verse v16\" data-usfm=\"HAB.2.16\"><span class=\"label\">16</span><span class=\"content\">Te has llenado de deshonra m&#225;s que de honra; bebe t&#250; tambi&#233;n, y ser&#225;s descubierto; el c&#225;liz de la mano derecha de Jehov&#225; vendr&#225; hasta ti, y v&#243;mito de afrenta sobre tu gloria. </span></span><span class=\"verse v17\" data-usfm=\"HAB.2.17\"><span class=\"label\">17</span><span class=\"content\">Porque la rapi&#241;a del L&#237;bano caer&#225; sobre ti, y la destrucci&#243;n de las fieras te quebrantar&#225;, a causa de la sangre de los hombres, y del robo de la tierra, de las ciudades y de todos los que en ellas habitaban.</span></span></div><div class=\"p\"><span class=\"verse v17\" data-usfm=\"HAB.2.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"HAB.2.18\"><span class=\"label\">18</span><span class=\"content\">&#191;De qu&#233; sirve la escultura que esculpi&#243; el que la hizo?, &#191;la estatua de fundici&#243;n que ense&#241;a mentira, para que haciendo im&#225;genes mudas conf&#237;e el hacedor en su obra? </span></span><span class=\"verse v19\" data-usfm=\"HAB.2.19\"><span class=\"label\">19</span><span class=\"content\">&#161;Ay del que dice al palo: Despi&#233;rtate; y a la piedra muda: Lev&#225;ntate! &#191;Podr&#225; &#233;l ense&#241;ar? He aqu&#237; est&#225; cubierto de oro y plata, y no hay esp&#237;ritu dentro de &#233;l.</span></span></div><div class=\"p\"><span class=\"verse v19\" data-usfm=\"HAB.2.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"HAB.2.20\"><span class=\"label\">20</span><span class=\"content\">Mas Jehov&#225; est&#225; en su santo templo; calle delante de &#233;l toda la tierra.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Jehová responde a Habacuc"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Sobre mi guarda estaré, y sobre la fortaleza afirmaré el pie, y velaré para ver lo que se me dirá, y qué he de responder tocante a mi queja."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Y Jehová me respondió, y dijo: Escribe la visión, y declárala en tablas, para que corra el que leyere en ella."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Aunque la visión tardará aún por un tiempo, mas se apresura hacia el fin, y no mentirá; aunque tardare, espéralo, porque sin duda vendrá, no tardará."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "He aquí que aquel cuya alma no es recta, se enorgullece; mas el justo por su fe vivirá."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Y también, el que es dado al vino es traicionero, hombre soberbio, que no permanecerá; ensanchó como el Seol su alma, y es como la muerte, que no se saciará; antes reunió para sí todas las gentes, y juntó para sí todos los pueblos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Ayes contra los injustos"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "¿No han de levantar todos estos refrán sobre él, y sarcasmos contra él? Dirán: ¡Ay del que multiplicó lo que no era suyo! ¿Hasta cuándo había de acumular sobre sí prenda tras prenda?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "¿No se levantarán de repente tus deudores, y se despertarán los que te harán temblar, y serás despojo para ellos?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Por cuanto tú has despojado a muchas naciones, todos los otros pueblos te despojarán, a causa de la sangre de los hombres, y de los robos de la tierra, de las ciudades y de todos los que habitan en ellas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "¡Ay del que codicia injusta ganancia para su casa, para poner en alto su nido, para escaparse del poder del mal!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Tomaste consejo vergonzoso para tu casa, asolaste muchos pueblos, y has pecado contra tu vida."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Porque la piedra clamará desde el muro, y la tabla del enmaderado le responderá."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "¡Ay del que edifica la ciudad con sangre, y del que funda una ciudad con iniquidad!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "¿No es esto de Jehová de los ejércitos? Los pueblos, pues, trabajarán para el fuego, y las naciones se fatigarán en vano."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Porque la tierra será llena del conocimiento de la gloria de Jehová, como las aguas cubren el mar."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "¡Ay del que da de beber a su prójimo! ¡Ay de ti, que le acercas tu hiel, y le embriagas para mirar su desnudez!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Te has llenado de deshonra más que de honra; bebe tú también, y serás descubierto; el cáliz de la mano derecha de Jehová vendrá hasta ti, y vómito de afrenta sobre tu gloria."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Porque la rapiña del Líbano caerá sobre ti, y la destrucción de las fieras te quebrantará, a causa de la sangre de los hombres, y del robo de la tierra, de las ciudades y de todos los que en ellas habitaban."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "¿De qué sirve la escultura que esculpió el que la hizo?, ¿la estatua de fundición que enseña mentira, para que haciendo imágenes mudas confíe el hacedor en su obra?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "¡Ay del que dice al palo: Despiértate; y a la piedra muda: Levántate! ¿Podrá él enseñar? He aquí está cubierto de oro y plata, y no hay espíritu dentro de él."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Mas Jehová está en su santo templo; calle delante de él toda la tierra."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "HAB.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "HAB.3"
+        ],
+        "human": "Habacuc 3"
+      },
+      "next": {
+        "canonical": false,
+        "usfm": [
+          "ZEP.INTRO1"
+        ],
+        "human": "Sofonías SOFONÍAS",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "HAB.2"
+        ],
+        "human": "Habacuc 2",
+        "toc": true
+      },
+      "chapter_text": "Oración del profeta Habacuc, sobre Sigionot.\nOh Jehová, he oído tu palabra, y temí.\nOh Jehová, aviva tu obra en medio de los tiempos,\nEn medio de los tiempos hazla conocer;\nEn la ira acuérdate de la misericordia.\nDios vendrá de Temán,\nY el Santo desde el monte de Parán. Selah\nSu gloria cubrió los cielos,\nY la tierra se llenó de su alabanza.\nY el resplandor fue como la luz;\nRayos brillantes salían de su mano,\nY allí estaba escondido su poder.\nDelante de su rostro iba mortandad,\nY a sus pies salían carbones encendidos.\nSe levantó, y midió la tierra;\nMiró, e hizo temblar las gentes;\nLos montes antiguos fueron desmenuzados,\nLos collados antiguos se humillaron.\nSus caminos son eternos.\nHe visto las tiendas de Cusán en aflicción;\nLas tiendas de la tierra de Madián temblaron.\n¿Te airaste, oh Jehová, contra los ríos?\n¿Contra los ríos te airaste?\n¿Fue tu ira contra el mar\nCuando montaste en tus caballos,\nY en tus carros de victoria?\nSe descubrió enteramente tu arco;\nLos juramentos a las tribus fueron palabra segura. Selah\nHendiste la tierra con ríos.\nTe vieron y tuvieron temor los montes;\nPasó la inundación de las aguas;\nEl abismo dio su voz,\nA lo alto alzó sus manos.\nEl sol y la luna se pararon en su lugar;\nA la luz de tus saetas anduvieron,\nY al resplandor de tu fulgente lanza.\nCon ira hollaste la tierra,\nCon furor trillaste las naciones.\nSaliste para socorrer a tu pueblo,\nPara socorrer a tu ungido.\nTraspasaste la cabeza de la casa del impío,\nDescubriendo el cimiento hasta la roca. Selah\nHoradaste con sus propios dardos las cabezas de sus guerreros,\nQue como tempestad acometieron para dispersarme,\nCuyo regocijo era como para devorar al pobre encubiertamente.\nCaminaste en el mar con tus caballos,\nSobre la mole de las grandes aguas.\nOí, y se conmovieron mis entrañas;\nA la voz temblaron mis labios;\nPudrición entró en mis huesos, y dentro de mí me estremecí;\nSi bien estaré quieto en el día de la angustia,\nCuando suba al pueblo el que lo invadirá con sus tropas.\nAunque la higuera no florezca,\nNi en las vides haya frutos,\nAunque falte el producto del olivo,\nY los labrados no den mantenimiento,\nY las ovejas sean quitadas de la majada,\nY no haya vacas en los corrales;\nCon todo, yo me alegraré en Jehová,\nY me gozaré en el Dios de mi salvación.\nJehová el Señor es mi fortaleza,\nEl cual hace mis pies como de ciervas,\nY en mis alturas me hace andar.",
+      "chapter_html": "<div class=\"version vid149 iso6393spa\" data-vid=\"149\" data-iso6393=\"spa\">\n   <div class=\"book bkHAB\">\n      <div class=\"chapter ch3\" data-usfm=\"HAB.3\">\n         <div class=\"label\">3</div><div class=\"s\"><span class=\"heading\">Oraci&#243;n de Habacuc</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"HAB.3.1\"><span class=\"label\">1</span><span class=\"content\">Oraci&#243;n del profeta Habacuc, sobre Sigionot.</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"HAB.3.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"HAB.3.2\"><span class=\"label\">2</span><span class=\"content\">Oh Jehov&#225;, he o&#237;do tu palabra, y tem&#237;.</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"HAB.3.2\"><span class=\"content\">Oh Jehov&#225;, aviva tu obra en medio de los tiempos,</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"HAB.3.2\"><span class=\"content\">En medio de los tiempos hazla conocer;</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"HAB.3.2\"><span class=\"content\">En la ira acu&#233;rdate de la misericordia.</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"HAB.3.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"HAB.3.3\"><span class=\"label\">3</span><span class=\"content\">Dios vendr&#225; de Tem&#225;n,</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"HAB.3.3\"><span class=\"content\">Y el Santo desde el monte de Par&#225;n. </span><span class=\"qs\"><span class=\"content\">Selah</span></span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"HAB.3.3\"><span class=\"content\">Su gloria cubri&#243; los cielos,</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"HAB.3.3\"><span class=\"content\">Y la tierra se llen&#243; de su alabanza.</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"HAB.3.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"HAB.3.4\"><span class=\"label\">4</span><span class=\"content\">Y el resplandor fue como la luz;</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"HAB.3.4\"><span class=\"content\">Rayos brillantes sal&#237;an de su mano,</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"HAB.3.4\"><span class=\"content\">Y all&#237; estaba escondido su poder.</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"HAB.3.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"HAB.3.5\"><span class=\"label\">5</span><span class=\"content\">Delante de su rostro iba mortandad,</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"HAB.3.5\"><span class=\"content\">Y a sus pies sal&#237;an carbones encendidos.</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"HAB.3.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"HAB.3.6\"><span class=\"label\">6</span><span class=\"content\">Se levant&#243;, y midi&#243; la tierra;</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"HAB.3.6\"><span class=\"content\">Mir&#243;, e hizo temblar las gentes;</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"HAB.3.6\"><span class=\"content\">Los montes antiguos fueron desmenuzados,</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"HAB.3.6\"><span class=\"content\">Los collados antiguos se humillaron.</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"HAB.3.6\"><span class=\"content\">Sus caminos son eternos.</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"HAB.3.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"HAB.3.7\"><span class=\"label\">7</span><span class=\"content\">He visto las tiendas de Cus&#225;n en aflicci&#243;n;</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"HAB.3.7\"><span class=\"content\">Las tiendas de la tierra de Madi&#225;n temblaron.</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"HAB.3.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"HAB.3.8\"><span class=\"label\">8</span><span class=\"content\">&#191;Te airaste, oh Jehov&#225;, contra los r&#237;os?</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"HAB.3.8\"><span class=\"content\">&#191;Contra los r&#237;os te airaste?</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"HAB.3.8\"><span class=\"content\">&#191;Fue tu ira contra el mar</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"HAB.3.8\"><span class=\"content\">Cuando montaste en tus caballos,</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"HAB.3.8\"><span class=\"content\">Y en tus carros de victoria?</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"HAB.3.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"HAB.3.9\"><span class=\"label\">9</span><span class=\"content\">Se descubri&#243; enteramente tu arco;</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"HAB.3.9\"><span class=\"content\">Los juramentos a las tribus fueron palabra segura. </span><span class=\"qs\"><span class=\"content\">Selah</span></span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"HAB.3.9\"><span class=\"content\">Hendiste la tierra con r&#237;os.</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"HAB.3.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"HAB.3.10\"><span class=\"label\">10</span><span class=\"content\">Te vieron y tuvieron temor los montes;</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"HAB.3.10\"><span class=\"content\">Pas&#243; la inundaci&#243;n de las aguas;</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"HAB.3.10\"><span class=\"content\">El abismo dio su voz,</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"HAB.3.10\"><span class=\"content\">A lo alto alz&#243; sus manos.</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"HAB.3.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"HAB.3.11\"><span class=\"label\">11</span><span class=\"content\">El sol y la luna se pararon en su lugar;</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"HAB.3.11\"><span class=\"content\">A la luz de tus saetas anduvieron,</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"HAB.3.11\"><span class=\"content\">Y al resplandor de tu fulgente lanza.</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"HAB.3.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"HAB.3.12\"><span class=\"label\">12</span><span class=\"content\">Con ira hollaste la tierra,</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"HAB.3.12\"><span class=\"content\">Con furor trillaste las naciones.</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"HAB.3.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"HAB.3.13\"><span class=\"label\">13</span><span class=\"content\">Saliste para socorrer a tu pueblo,</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"HAB.3.13\"><span class=\"content\">Para socorrer a tu ungido.</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"HAB.3.13\"><span class=\"content\">Traspasaste la cabeza de la casa del imp&#237;o,</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"HAB.3.13\"><span class=\"content\">Descubriendo el cimiento hasta la roca. </span><span class=\"qs\"><span class=\"content\">Selah</span></span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"HAB.3.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"HAB.3.14\"><span class=\"label\">14</span><span class=\"content\">Horadaste con sus propios dardos las cabezas de sus guerreros,</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"HAB.3.14\"><span class=\"content\">Que como tempestad acometieron para dispersarme,</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"HAB.3.14\"><span class=\"content\">Cuyo regocijo era como para devorar al pobre encubiertamente.</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"HAB.3.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"HAB.3.15\"><span class=\"label\">15</span><span class=\"content\">Caminaste en el mar con tus caballos,</span></span></div><div class=\"q\"><span class=\"verse v15\" data-usfm=\"HAB.3.15\"><span class=\"content\">Sobre la mole de las grandes aguas.</span></span></div><div class=\"q\"><span class=\"verse v15\" data-usfm=\"HAB.3.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"HAB.3.16\"><span class=\"label\">16</span><span class=\"content\">O&#237;, y se conmovieron mis entra&#241;as;</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"HAB.3.16\"><span class=\"content\">A la voz temblaron mis labios;</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"HAB.3.16\"><span class=\"content\">Pudrici&#243;n entr&#243; en mis huesos, y dentro de m&#237; me estremec&#237;;</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"HAB.3.16\"><span class=\"content\">Si bien estar&#233; quieto en el d&#237;a de la angustia,</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"HAB.3.16\"><span class=\"content\">Cuando suba al pueblo el que lo invadir&#225; con sus tropas.</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"HAB.3.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"HAB.3.17\"><span class=\"label\">17</span><span class=\"content\">Aunque la higuera no florezca,</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"HAB.3.17\"><span class=\"content\">Ni en las vides haya frutos,</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"HAB.3.17\"><span class=\"content\">Aunque falte el producto del olivo,</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"HAB.3.17\"><span class=\"content\">Y los labrados no den mantenimiento,</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"HAB.3.17\"><span class=\"content\">Y las ovejas sean quitadas de la majada,</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"HAB.3.17\"><span class=\"content\">Y no haya vacas en los corrales;</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"HAB.3.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"HAB.3.18\"><span class=\"label\">18</span><span class=\"content\">Con todo, yo me alegrar&#233; en Jehov&#225;,</span></span></div><div class=\"q\"><span class=\"verse v18\" data-usfm=\"HAB.3.18\"><span class=\"content\">Y me gozar&#233; en el Dios de mi salvaci&#243;n.</span></span></div><div class=\"q\"><span class=\"verse v18\" data-usfm=\"HAB.3.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"HAB.3.19\"><span class=\"label\">19</span><span class=\"content\">Jehov&#225; el Se&#241;or es mi fortaleza,</span></span></div><div class=\"q\"><span class=\"verse v19\" data-usfm=\"HAB.3.19\"><span class=\"content\">El cual hace mis pies como de ciervas,</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">2 S. 22.34; Sal. 18.33.</span></span></span></div><div class=\"q\"><span class=\"verse v19\" data-usfm=\"HAB.3.19\"><span class=\"content\">Y en mis alturas me hace andar.</span></span></div><div class=\"b\"></div><div class=\"d\"><span class=\"verse v19\" data-usfm=\"HAB.3.19\"><span class=\"content\">Al jefe de los cantores, sobre mis instrumentos de cuerdas.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Oración de Habacuc"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Oración del profeta Habacuc, sobre Sigionot."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Oh Jehová, he oído tu palabra, y temí.",
+            "Oh Jehová, aviva tu obra en medio de los tiempos,",
+            "En medio de los tiempos hazla conocer;",
+            "En la ira acuérdate de la misericordia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Dios vendrá de Temán,",
+            "Y el Santo desde el monte de Parán. Selah",
+            "Su gloria cubrió los cielos,",
+            "Y la tierra se llenó de su alabanza."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Y el resplandor fue como la luz;",
+            "Rayos brillantes salían de su mano,",
+            "Y allí estaba escondido su poder."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Delante de su rostro iba mortandad,",
+            "Y a sus pies salían carbones encendidos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Se levantó, y midió la tierra;",
+            "Miró, e hizo temblar las gentes;",
+            "Los montes antiguos fueron desmenuzados,",
+            "Los collados antiguos se humillaron.",
+            "Sus caminos son eternos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "He visto las tiendas de Cusán en aflicción;",
+            "Las tiendas de la tierra de Madián temblaron."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "¿Te airaste, oh Jehová, contra los ríos?",
+            "¿Contra los ríos te airaste?",
+            "¿Fue tu ira contra el mar",
+            "Cuando montaste en tus caballos,",
+            "Y en tus carros de victoria?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Se descubrió enteramente tu arco;",
+            "Los juramentos a las tribus fueron palabra segura. Selah",
+            "Hendiste la tierra con ríos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Te vieron y tuvieron temor los montes;",
+            "Pasó la inundación de las aguas;",
+            "El abismo dio su voz,",
+            "A lo alto alzó sus manos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "El sol y la luna se pararon en su lugar;",
+            "A la luz de tus saetas anduvieron,",
+            "Y al resplandor de tu fulgente lanza."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Con ira hollaste la tierra,",
+            "Con furor trillaste las naciones."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Saliste para socorrer a tu pueblo,",
+            "Para socorrer a tu ungido.",
+            "Traspasaste la cabeza de la casa del impío,",
+            "Descubriendo el cimiento hasta la roca. Selah"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Horadaste con sus propios dardos las cabezas de sus guerreros,",
+            "Que como tempestad acometieron para dispersarme,",
+            "Cuyo regocijo era como para devorar al pobre encubiertamente."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Caminaste en el mar con tus caballos,",
+            "Sobre la mole de las grandes aguas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Oí, y se conmovieron mis entrañas;",
+            "A la voz temblaron mis labios;",
+            "Pudrición entró en mis huesos, y dentro de mí me estremecí;",
+            "Si bien estaré quieto en el día de la angustia,",
+            "Cuando suba al pueblo el que lo invadirá con sus tropas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Aunque la higuera no florezca,",
+            "Ni en las vides haya frutos,",
+            "Aunque falte el producto del olivo,",
+            "Y los labrados no den mantenimiento,",
+            "Y las ovejas sean quitadas de la majada,",
+            "Y no haya vacas en los corrales;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Con todo, yo me alegraré en Jehová,",
+            "Y me gozaré en el Dios de mi salvación."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Jehová el Señor es mi fortaleza,",
+            "El cual hace mis pies como de ciervas,",
+            "Y en mis alturas me hace andar.",
+            "Al jefe de los cantores, sobre mis instrumentos de cuerdas."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

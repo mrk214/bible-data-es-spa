@@ -1,0 +1,669 @@
+{
+  "book_usfm": "MAL",
+  "name": "Malaquías",
+  "local_title": "Biblia Reina Valera 1960",
+  "local_abbreviation": "RVR1960",
+  "version_id": 149,
+  "publisher": {
+    "name": "United Bible Societies"
+  },
+  "copyright": {
+    "html": "<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>",
+    "text": "Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "MAL.INTRO1",
+      "is_chapter": false,
+      "current": {
+        "usfm": [
+          "MAL.INTRO1"
+        ],
+        "human": "Malaquías MALAQUÍAS"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "MAL.1"
+        ],
+        "human": "Malaquías 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "ZEC.14"
+        ],
+        "human": "Zacarías 14",
+        "toc": true
+      },
+      "chapter_text": "MALAQUÍAS\nINTRODUCCIÓN\nEl profeta y su medio\nMalaquías, el nombre que encabeza este breve escrito, es un derivado del término hebreo malají , que significa «mi mensajero». Y dado que un profeta es propiamente un mensajero de Dios, «Malaquías» puede interpretarse no solo como nombre de persona, sino también como título de aquel a quien Dios encomienda un ministerio profético.\nLa aparición de este texto debió de tener lugar después que, a partir del año 516 a.C., se reanudaran regularmente las ceremonias del culto (1.6—2.9) en el templo de Jerusalén, una vez concluida su reconstrucción (3.10). Es probable que Malaquías ejerciera sus funciones a finales del siglo VI o a comienzos del V a.C., durante un período intermedio entre la actividad de Hageo y Zacarías (segunda mitad del siglo VI a.C.) y la de Esdras y Nehemías, cerca de un siglo después. También puede pensarse que la predicación de Malaquías abrió el camino a las reformas realizadas por Nehemías (Neh. 13.25-27).\nEl libro y su mensaje\nCon el libro de Malaquías (Mal), último de los doce que forman el grupo de los llamados Profetas Menores, concluye el bloque de la literatura profética de la Biblia y se pone punto final a la última página del AT.\nEl texto de Malaquías se caracteriza por el tono polémico con que aborda los diferentes temas. La propia armazón literaria del mensaje es una especie de discusión retórica, de diálogo con sus destinatarios, a cuyas preguntas y objeciones responde el profeta. La fórmula discursiva es la siguiente:\n(a) Jehová establece un principio general o condena una práctica reprobable habitual en el pueblo;\n(b) los interpelados responden planteando sus dudas y haciendo preguntas, introducidas a veces de manera irónica por el profeta;\n(c) Jehová interviene de nuevo, confirma y amplía lo que antes había dicho, añade más reproches y anuncia el castigo de los culpables.\nObjetivo inmediato de la reprobación profética de Malaquías son los sacerdotes que con su negligencia permiten que el pecado se instale en el propio templo (2.11), y que son los responsables de que se cometan abusos en la celebración de los sacrificios (1.6—2.9); pero también censura duramente a los malvados, los injustos, los impíos, los que repudian a su esposa para unirse a una extranjera (2.10-16) y los que dejan de pagar sus diezmos defraudando así al Señor. El juicio condenatorio de Malaquías se extiende a todos los que no tienen temor de Dios (3.5).\nPor otra parte, el mensaje del profeta revela el estado de ánimo en que se hallaban muchos israelitas al cabo de varias décadas de la repatriación de los exiliados en Babilonia. Las muchas dificultades económicas a que tenían que hacer frente, las problemáticas relaciones con los pueblos de su entorno y el retraso en el cumplimiento de las promesas que habían escuchado por boca de Hageo y Zacarías, dieron paso entre ellos al desencanto y a las dudas sobre el amor y la justicia de Dios (2.17). Por eso, Malaquías afirma con pasión que Dios ama a su pueblo (1.2) y que no dejará de cumplir las promesas que le hizo. El día de Jehová viene «ardiente como un horno», pero a los que temen el nombre del Señor les «nacerá el Sol de justicia, y en sus alas traerá salvación» (4.12).\n\nEsquema del contenido:\n\n1. Amor de Jehová por Jacob ( 1.1-5 )\n2. Jehová reprende a los sacerdotes ( 1.6—2.9 )\n3. Condena del repudio de la propia esposa y del matrimonio con extranjeras ( 2.10-16 )\n4. El día del juicio se acerca ( 2.17—3.5 )\n5. El pago de los diezmos ( 3.6-12 )\n6. Diferencia entre el justo y el malo ( 3.13-18 )\n7. El advenimiento del día de Jehová ( 4.1-6 )",
+      "chapter_html": "<div class=\"version vid149 iso6393spa\" data-vid=\"149\" data-iso6393=\"spa\">\n   <div class=\"book bkMAL\">\n      <div class=\"chapter chINTRO1\" data-usfm=\"MAL.INTRO1\">\n         <div class=\"imt1\"><span class=\"content\">MALAQU&#205;AS</span></div><div class=\"imt3\"><span class=\"content\">INTRODUCCI&#211;N</span></div><div class=\"is1\"><span class=\"content\">El profeta y su medio</span></div><div class=\"ip\"><span class=\"content\">Malaqu&#237;as, el nombre que encabeza este breve escrito, es un derivado del t&#233;rmino hebreo </span><span class=\"tl\"><span class=\"content\">malaj&#237;</span></span><span class=\"content\">, que significa &#171;mi mensajero&#187;. Y dado que un profeta es propiamente un mensajero de Dios, &#171;Malaqu&#237;as&#187; puede interpretarse no solo como nombre de persona, sino tambi&#233;n como t&#237;tulo de aquel a quien Dios encomienda un ministerio prof&#233;tico.</span></div><div class=\"ip\"><span class=\"content\">La aparici&#243;n de este texto debi&#243; de tener lugar despu&#233;s que, a partir del a&#241;o 516 a.C., se reanudaran regularmente las ceremonias del culto (1.6&#8212;2.9) en el templo de Jerusal&#233;n, una vez concluida su reconstrucci&#243;n (</span>cf. <span class=\"content\">3.10</span><span class=\"content\">). Es probable que Malaqu&#237;as ejerciera sus funciones a finales del siglo VI o a comienzos del V a.C., durante un per&#237;odo intermedio entre la actividad de Hageo y Zacar&#237;as (segunda mitad del siglo VI a.C.) y la de Esdras y Nehem&#237;as, cerca de un siglo despu&#233;s. Tambi&#233;n puede pensarse que la predicaci&#243;n de Malaqu&#237;as abri&#243; el camino a las reformas realizadas por Nehem&#237;as (</span>cf. <span class=\"content\">Neh. 13.25-27</span><span class=\"content\">).</span></div><div class=\"is1\"><span class=\"content\">El libro y su mensaje</span></div><div class=\"ip\"><span class=\"content\">Con el libro de </span><span class=\"bk\"><span class=\"content\">Malaqu&#237;as</span></span><span class=\"content\"> (Mal), &#250;ltimo de los doce que forman el grupo de los llamados </span><span class=\"it\"><span class=\"content\">Profetas Menores</span></span><span class=\"content\">, concluye el bloque de la literatura prof&#233;tica de la Biblia y se pone punto final a la &#250;ltima p&#225;gina del AT.</span></div><div class=\"ip\"><span class=\"content\">El texto de Malaqu&#237;as se caracteriza por el tono pol&#233;mico con que aborda los diferentes temas. La propia armaz&#243;n literaria del mensaje es una especie de discusi&#243;n ret&#243;rica, de di&#225;logo con sus destinatarios, a cuyas preguntas y objeciones responde el profeta. La f&#243;rmula discursiva es la siguiente:</span></div><div class=\"ili\"><span class=\"content\">(a) Jehov&#225; establece un principio general o condena una pr&#225;ctica reprobable habitual en el pueblo;</span></div><div class=\"ili\"><span class=\"content\">(b) los interpelados responden planteando sus dudas y haciendo preguntas, introducidas a veces de manera ir&#243;nica por el profeta;</span></div><div class=\"ili\"><span class=\"content\">(c) Jehov&#225; interviene de nuevo, confirma y ampl&#237;a lo que antes hab&#237;a dicho, a&#241;ade m&#225;s reproches y anuncia el castigo de los culpables.</span></div><div class=\"ip\"><span class=\"content\">Objetivo inmediato de la reprobaci&#243;n prof&#233;tica de Malaqu&#237;as son los sacerdotes que con su negligencia permiten que el pecado se instale en el propio templo (</span><span class=\"content\">2.11</span><span class=\"content\">), y que son los responsables de que se cometan abusos en la celebraci&#243;n de los sacrificios (1.6&#8212;2.9); pero tambi&#233;n censura duramente a los malvados, los injustos, los imp&#237;os, los que repudian a su esposa para unirse a una extranjera (</span><span class=\"content\">2.10-16</span><span class=\"content\">) y los que dejan de pagar sus diezmos defraudando as&#237; al Se&#241;or. El juicio condenatorio de Malaqu&#237;as se extiende a todos los que no tienen temor de Dios (</span><span class=\"content\">3.5</span><span class=\"content\">).</span></div><div class=\"ip\"><span class=\"content\">Por otra parte, el mensaje del profeta revela el estado de &#225;nimo en que se hallaban muchos israelitas al cabo de varias d&#233;cadas de la repatriaci&#243;n de los exiliados en Babilonia. Las muchas dificultades econ&#243;micas a que ten&#237;an que hacer frente, las problem&#225;ticas relaciones con los pueblos de su entorno y el retraso en el cumplimiento de las promesas que hab&#237;an escuchado por boca de Hageo y Zacar&#237;as, dieron paso entre ellos al desencanto y a las dudas sobre el amor y la justicia de Dios (</span>cf. <span class=\"content\">2.17</span><span class=\"content\">). Por eso, Malaqu&#237;as afirma con pasi&#243;n que Dios ama a su pueblo (</span><span class=\"content\">1.2</span><span class=\"content\">) y que no dejar&#225; de cumplir las promesas que le hizo. El d&#237;a de Jehov&#225; viene &#171;ardiente como un horno&#187;, pero a los que temen el nombre del Se&#241;or les &#171;nacer&#225; el Sol de justicia, y en sus alas traer&#225; salvaci&#243;n&#187; (</span><span class=\"content\">4.1</span>,<span class=\"content\">2</span><span class=\"content\">).</span></div><div class=\"ib\"></div><div class=\"iot\"><span class=\"content\">Esquema del contenido:</span></div><div class=\"ib\"></div><div class=\"io1\"><span class=\"content\">1. Amor de Jehov&#225; por Jacob </span><span class=\"ior\"><span class=\"content\">(</span><span class=\"content\">1.1-5</span><span class=\"content\">)</span></span></div><div class=\"io1\"><span class=\"content\">2. Jehov&#225; reprende a los sacerdotes </span><span class=\"ior\"><span class=\"content\">(</span><span class=\"content\">1.6&#8212;2.9</span><span class=\"content\">)</span></span></div><div class=\"io1\"><span class=\"content\">3. Condena del repudio de la propia esposa y del matrimonio con extranjeras </span><span class=\"ior\"><span class=\"content\">(</span><span class=\"content\">2.10-16</span><span class=\"content\">)</span></span></div><div class=\"io1\"><span class=\"content\">4. El d&#237;a del juicio se acerca </span><span class=\"ior\"><span class=\"content\">(</span><span class=\"content\">2.17&#8212;3.5</span><span class=\"content\">)</span></span></div><div class=\"io1\"><span class=\"content\">5. El pago de los diezmos </span><span class=\"ior\"><span class=\"content\">(</span><span class=\"content\">3.6-12</span><span class=\"content\">)</span></span></div><div class=\"io1\"><span class=\"content\">6. Diferencia entre el justo y el malo </span><span class=\"ior\"><span class=\"content\">(</span><span class=\"content\">3.13-18</span><span class=\"content\">)</span></span></div><div class=\"io1\"><span class=\"content\">7. El advenimiento del d&#237;a de Jehov&#225; </span><span class=\"ior\"><span class=\"content\">(</span><span class=\"content\">4.1-6</span><span class=\"content\">)</span></span></div><div class=\"ie\"></div>\n      </div>\n   </div>\n</div>",
+      "items": []
+    },
+    {
+      "chapter_usfm": "MAL.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "MAL.1"
+        ],
+        "human": "Malaquías 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "MAL.2"
+        ],
+        "human": "Malaquías 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": false,
+        "usfm": [
+          "MAL.INTRO1"
+        ],
+        "human": "Malaquías MALAQUÍAS",
+        "toc": true
+      },
+      "chapter_text": "Profecía de la palabra de Jehová contra Israel, por medio de Malaquías.\nYo os he amado, dice Jehová; y dijisteis: ¿En qué nos amaste? ¿No era Esaú hermano de Jacob? dice Jehová. Y amé a Jacob, y a Esaú aborrecí, y convertí sus montes en desolación, y abandoné su heredad para los chacales del desierto. Cuando Edom dijere: Nos hemos empobrecido, pero volveremos a edificar lo arruinado; así ha dicho Jehová de los ejércitos: Ellos edificarán, y yo destruiré; y les llamarán territorio de impiedad, y pueblo contra el cual Jehová está indignado para siempre. Y vuestros ojos lo verán, y diréis: Sea Jehová engrandecido más allá de los límites de Israel.\n\nEl hijo honra al padre, y el siervo a su señor. Si, pues, soy yo padre, ¿dónde está mi honra? Y si soy señor, ¿dónde está mi temor? dice Jehová de los ejércitos a vosotros, oh sacerdotes, que menospreciáis mi nombre. Y decís: ¿En qué hemos menospreciado tu nombre? En que ofrecéis sobre mi altar pan inmundo. Y dijisteis: ¿En qué te hemos deshonrado? En que pensáis que la mesa de Jehová es despreciable. Y cuando ofrecéis el animal ciego para el sacrificio, ¿no es malo? Asimismo cuando ofrecéis el cojo o el enfermo, ¿no es malo? Preséntalo, pues, a tu príncipe; ¿acaso se agradará de ti, o le serás acepto? dice Jehová de los ejércitos. Ahora, pues, orad por el favor de Dios, para que tenga piedad de nosotros. Pero ¿cómo podéis agradarle, si hacéis estas cosas? dice Jehová de los ejércitos. ¿Quién también hay de vosotros que cierre las puertas o alumbre mi altar de balde? Yo no tengo complacencia en vosotros, dice Jehová de los ejércitos, ni de vuestra mano aceptaré ofrenda. Porque desde donde el sol nace hasta donde se pone, es grande mi nombre entre las naciones; y en todo lugar se ofrece a mi nombre incienso y ofrenda limpia, porque grande es mi nombre entre las naciones, dice Jehová de los ejércitos. Y vosotros lo habéis profanado cuando decís: Inmunda es la mesa de Jehová, y cuando decís que su alimento es despreciable. Habéis además dicho: ¡Oh, qué fastidio es esto! y me despreciáis, dice Jehová de los ejércitos; y trajisteis lo hurtado, o cojo, o enfermo, y presentasteis ofrenda. ¿Aceptaré yo eso de vuestra mano? dice Jehová. Maldito el que engaña, el que teniendo machos en su rebaño, promete, y sacrifica a Jehová lo dañado. Porque yo soy Gran Rey, dice Jehová de los ejércitos, y mi nombre es temible entre las naciones.",
+      "chapter_html": "<div class=\"version vid149 iso6393spa\" data-vid=\"149\" data-iso6393=\"spa\">\n   <div class=\"book bkMAL\">\n      <div class=\"chapter ch1\" data-usfm=\"MAL.1\">\n         <div class=\"label\">1</div><div class=\"s\"><span class=\"heading\">Amor de Jehov&#225; por Jacob</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"MAL.1.1\"><span class=\"label\">1</span><span class=\"content\">Profec&#237;a de la palabra de Jehov&#225; contra Israel, por medio de Malaqu&#237;as.</span></span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"MAL.1.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"MAL.1.2\"><span class=\"label\">2</span><span class=\"content\">Yo os he amado, dice Jehov&#225;; y dijisteis: &#191;En qu&#233; nos amaste? &#191;No era Esa&#250; hermano de Jacob? dice Jehov&#225;. Y am&#233; a Jacob, </span></span><span class=\"verse v3\" data-usfm=\"MAL.1.3\"><span class=\"label\">3</span><span class=\"content\">y a Esa&#250; aborrec&#237;,</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Ro. 9.13.</span></span><span class=\"content\"> y convert&#237; sus montes en desolaci&#243;n, y abandon&#233; su heredad para los chacales del desierto. </span></span><span class=\"verse v4\" data-usfm=\"MAL.1.4\"><span class=\"label\">4</span><span class=\"content\">Cuando Edom</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Is. 34.5-17; 63.1-6; Jer. 49.7-22; Ez. 25.12-14; 35.1-15; Am. 1.11-12; Abd. 1-14.</span></span><span class=\"content\"> dijere: Nos hemos empobrecido, pero volveremos a edificar lo arruinado; as&#237; ha dicho Jehov&#225; de los ej&#233;rcitos: Ellos edificar&#225;n, y yo destruir&#233;; y les llamar&#225;n territorio de impiedad, y pueblo contra el cual Jehov&#225; est&#225; indignado para siempre. </span></span><span class=\"verse v5\" data-usfm=\"MAL.1.5\"><span class=\"label\">5</span><span class=\"content\">Y vuestros ojos lo ver&#225;n, y dir&#233;is: Sea Jehov&#225; engrandecido m&#225;s all&#225; de los l&#237;mites de Israel.</span></span></div><div class=\"s\"><span class=\"heading\">Jehov&#225; reprende a los sacerdotes</span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"MAL.1.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"MAL.1.6\"><span class=\"label\">6</span><span class=\"content\">El hijo honra al padre, y el siervo a su se&#241;or. Si, pues, soy yo padre, &#191;d&#243;nde est&#225; mi honra? Y si soy se&#241;or, &#191;d&#243;nde est&#225; mi temor? dice Jehov&#225; de los ej&#233;rcitos a vosotros, oh sacerdotes, que menospreci&#225;is mi nombre. Y dec&#237;s: &#191;En qu&#233; hemos menospreciado tu nombre? </span></span><span class=\"verse v7\" data-usfm=\"MAL.1.7\"><span class=\"label\">7</span><span class=\"content\">En que ofrec&#233;is sobre mi altar pan inmundo. Y dijisteis: &#191;En qu&#233; te hemos deshonrado? En que pens&#225;is que la mesa de Jehov&#225; es despreciable. </span></span><span class=\"verse v8\" data-usfm=\"MAL.1.8\"><span class=\"label\">8</span><span class=\"content\">Y cuando ofrec&#233;is el animal ciego para el sacrificio,</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Dt. 15.21.</span></span><span class=\"content\"> &#191;no es malo? Asimismo cuando ofrec&#233;is el cojo o el enfermo, &#191;no es malo? Pres&#233;ntalo, pues, a tu pr&#237;ncipe; &#191;acaso se agradar&#225; de ti, o le ser&#225;s acepto? dice Jehov&#225; de los ej&#233;rcitos. </span></span><span class=\"verse v9\" data-usfm=\"MAL.1.9\"><span class=\"label\">9</span><span class=\"content\">Ahora, pues, orad por el favor de Dios, para que tenga piedad de nosotros. Pero &#191;c&#243;mo pod&#233;is agradarle, si hac&#233;is estas cosas? dice Jehov&#225; de los ej&#233;rcitos. </span></span><span class=\"verse v10\" data-usfm=\"MAL.1.10\"><span class=\"label\">10</span><span class=\"content\">&#191;Qui&#233;n tambi&#233;n hay de vosotros que cierre las puertas o alumbre mi altar de balde? Yo no tengo complacencia en vosotros, dice Jehov&#225; de los ej&#233;rcitos, ni de vuestra mano aceptar&#233; ofrenda. </span></span><span class=\"verse v11\" data-usfm=\"MAL.1.11\"><span class=\"label\">11</span><span class=\"content\">Porque desde donde el sol nace hasta donde se pone, es grande mi nombre entre las naciones; y en todo lugar se ofrece a mi nombre incienso y ofrenda limpia, porque grande es mi nombre entre las naciones, dice Jehov&#225; de los ej&#233;rcitos. </span></span><span class=\"verse v12\" data-usfm=\"MAL.1.12\"><span class=\"label\">12</span><span class=\"content\">Y vosotros lo hab&#233;is profanado cuando dec&#237;s: Inmunda es la mesa de Jehov&#225;, y cuando dec&#237;s que su alimento es despreciable. </span></span><span class=\"verse v13\" data-usfm=\"MAL.1.13\"><span class=\"label\">13</span><span class=\"content\">Hab&#233;is adem&#225;s dicho: &#161;Oh, qu&#233; fastidio es esto! y me despreci&#225;is, dice Jehov&#225; de los ej&#233;rcitos; y trajisteis lo hurtado, o cojo, o enfermo, y presentasteis ofrenda. &#191;Aceptar&#233; yo eso de vuestra mano? dice Jehov&#225;. </span></span><span class=\"verse v14\" data-usfm=\"MAL.1.14\"><span class=\"label\">14</span><span class=\"content\">Maldito el que enga&#241;a, el que teniendo machos en su reba&#241;o, promete, y sacrifica a Jehov&#225; lo da&#241;ado. Porque yo soy Gran Rey, dice Jehov&#225; de los ej&#233;rcitos, y mi nombre es temible entre las naciones.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Amor de Jehová por Jacob"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Profecía de la palabra de Jehová contra Israel, por medio de Malaquías."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Yo os he amado, dice Jehová; y dijisteis: ¿En qué nos amaste? ¿No era Esaú hermano de Jacob? dice Jehová. Y amé a Jacob,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "y a Esaú aborrecí, y convertí sus montes en desolación, y abandoné su heredad para los chacales del desierto."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Cuando Edom dijere: Nos hemos empobrecido, pero volveremos a edificar lo arruinado; así ha dicho Jehová de los ejércitos: Ellos edificarán, y yo destruiré; y les llamarán territorio de impiedad, y pueblo contra el cual Jehová está indignado para siempre."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Y vuestros ojos lo verán, y diréis: Sea Jehová engrandecido más allá de los límites de Israel."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Jehová reprende a los sacerdotes"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "El hijo honra al padre, y el siervo a su señor. Si, pues, soy yo padre, ¿dónde está mi honra? Y si soy señor, ¿dónde está mi temor? dice Jehová de los ejércitos a vosotros, oh sacerdotes, que menospreciáis mi nombre. Y decís: ¿En qué hemos menospreciado tu nombre?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "En que ofrecéis sobre mi altar pan inmundo. Y dijisteis: ¿En qué te hemos deshonrado? En que pensáis que la mesa de Jehová es despreciable."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Y cuando ofrecéis el animal ciego para el sacrificio, ¿no es malo? Asimismo cuando ofrecéis el cojo o el enfermo, ¿no es malo? Preséntalo, pues, a tu príncipe; ¿acaso se agradará de ti, o le serás acepto? dice Jehová de los ejércitos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Ahora, pues, orad por el favor de Dios, para que tenga piedad de nosotros. Pero ¿cómo podéis agradarle, si hacéis estas cosas? dice Jehová de los ejércitos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "¿Quién también hay de vosotros que cierre las puertas o alumbre mi altar de balde? Yo no tengo complacencia en vosotros, dice Jehová de los ejércitos, ni de vuestra mano aceptaré ofrenda."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Porque desde donde el sol nace hasta donde se pone, es grande mi nombre entre las naciones; y en todo lugar se ofrece a mi nombre incienso y ofrenda limpia, porque grande es mi nombre entre las naciones, dice Jehová de los ejércitos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Y vosotros lo habéis profanado cuando decís: Inmunda es la mesa de Jehová, y cuando decís que su alimento es despreciable."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Habéis además dicho: ¡Oh, qué fastidio es esto! y me despreciáis, dice Jehová de los ejércitos; y trajisteis lo hurtado, o cojo, o enfermo, y presentasteis ofrenda. ¿Aceptaré yo eso de vuestra mano? dice Jehová."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Maldito el que engaña, el que teniendo machos en su rebaño, promete, y sacrifica a Jehová lo dañado. Porque yo soy Gran Rey, dice Jehová de los ejércitos, y mi nombre es temible entre las naciones."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "MAL.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "MAL.2"
+        ],
+        "human": "Malaquías 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "MAL.3"
+        ],
+        "human": "Malaquías 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "MAL.1"
+        ],
+        "human": "Malaquías 1",
+        "toc": true
+      },
+      "chapter_text": "Ahora, pues, oh sacerdotes, para vosotros es este mandamiento. Si no oyereis, y si no decidís de corazón dar gloria a mi nombre, ha dicho Jehová de los ejércitos, enviaré maldición sobre vosotros, y maldeciré vuestras bendiciones; y aun las he maldecido, porque no os habéis decidido de corazón. He aquí, yo os dañaré la sementera, y os echaré al rostro el estiércol, el estiércol de vuestros animales sacrificados, y seréis arrojados juntamente con él. Y sabréis que yo os envié este mandamiento, para que fuese mi pacto con Leví, ha dicho Jehová de los ejércitos. Mi pacto con él fue de vida y de paz, las cuales cosas yo le di para que me temiera; y tuvo temor de mí, y delante de mi nombre estuvo humillado. La ley de verdad estuvo en su boca, e iniquidad no fue hallada en sus labios; en paz y en justicia anduvo conmigo, y a muchos hizo apartar de la iniquidad. Porque los labios del sacerdote han de guardar la sabiduría, y de su boca el pueblo buscará la ley; porque mensajero es de Jehová de los ejércitos. Mas vosotros os habéis apartado del camino; habéis hecho tropezar a muchos en la ley; habéis corrompido el pacto de Leví, dice Jehová de los ejércitos. Por tanto, yo también os he hecho viles y bajos ante todo el pueblo, así como vosotros no habéis guardado mis caminos, y en la ley hacéis acepción de personas.\n¿No tenemos todos un mismo padre? ¿No nos ha creado un mismo Dios? ¿Por qué, pues, nos portamos deslealmente el uno contra el otro, profanando el pacto de nuestros padres? Prevaricó Judá, y en Israel y en Jerusalén se ha cometido abominación; porque Judá ha profanado el santuario de Jehová que él amó, y se casó con hija de dios extraño. Jehová cortará de las tiendas de Jacob al hombre que hiciere esto, al que vela y al que responde, y al que ofrece ofrenda a Jehová de los ejércitos.\nY esta otra vez haréis cubrir el altar de Jehová de lágrimas, de llanto, y de clamor; así que no miraré más a la ofrenda, para aceptarla con gusto de vuestra mano. Mas diréis: ¿Por qué? Porque Jehová ha atestiguado entre ti y la mujer de tu juventud, contra la cual has sido desleal, siendo ella tu compañera, y la mujer de tu pacto. ¿No hizo él uno, habiendo en él abundancia de espíritu? ¿Y por qué uno? Porque buscaba una descendencia para Dios. Guardaos, pues, en vuestro espíritu, y no seáis desleales para con la mujer de vuestra juventud. Porque Jehová Dios de Israel ha dicho que él aborrece el repudio, y al que cubre de iniquidad su vestido, dijo Jehová de los ejércitos. Guardaos, pues, en vuestro espíritu, y no seáis desleales.\n\nHabéis hecho cansar a Jehová con vuestras palabras. Y decís: ¿En qué le hemos cansado? En que decís: Cualquiera que hace mal agrada a Jehová, y en los tales se complace; o si no, ¿dónde está el Dios de justicia?",
+      "chapter_html": "<div class=\"version vid149 iso6393spa\" data-vid=\"149\" data-iso6393=\"spa\">\n   <div class=\"book bkMAL\">\n      <div class=\"chapter ch2\" data-usfm=\"MAL.2\">\n         <div class=\"label\">2</div><div class=\"s\"><span class=\"heading\">Reprensi&#243;n de la infidelidad de Israel</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"MAL.2.1\"><span class=\"label\">1</span><span class=\"content\">Ahora, pues, oh sacerdotes, para vosotros es este mandamiento. </span></span><span class=\"verse v2\" data-usfm=\"MAL.2.2\"><span class=\"label\">2</span><span class=\"content\">Si no oyereis, y si no decid&#237;s de coraz&#243;n dar gloria a mi nombre, ha dicho Jehov&#225; de los ej&#233;rcitos, enviar&#233; maldici&#243;n sobre vosotros, y maldecir&#233; vuestras bendiciones; y aun las he maldecido, porque no os hab&#233;is decidido de coraz&#243;n. </span></span><span class=\"verse v3\" data-usfm=\"MAL.2.3\"><span class=\"label\">3</span><span class=\"content\">He aqu&#237;, yo os da&#241;ar&#233; la sementera, y os echar&#233; al rostro el esti&#233;rcol, el esti&#233;rcol de vuestros animales sacrificados, y ser&#233;is arrojados juntamente con &#233;l. </span></span><span class=\"verse v4\" data-usfm=\"MAL.2.4\"><span class=\"label\">4</span><span class=\"content\">Y sabr&#233;is que yo os envi&#233; este mandamiento, para que fuese mi pacto con Lev&#237;,</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Nm. 3.11-13.</span></span><span class=\"content\"> ha dicho Jehov&#225; de los ej&#233;rcitos. </span></span><span class=\"verse v5\" data-usfm=\"MAL.2.5\"><span class=\"label\">5</span><span class=\"content\">Mi pacto con &#233;l fue de vida y de paz,</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Nm. 25.12.</span></span><span class=\"content\"> las cuales cosas yo le di para que me temiera; y tuvo temor de m&#237;, y delante de mi nombre estuvo humillado. </span></span><span class=\"verse v6\" data-usfm=\"MAL.2.6\"><span class=\"label\">6</span><span class=\"content\">La ley de verdad estuvo en su boca, e iniquidad no fue hallada en sus labios; en paz y en justicia anduvo conmigo, y a muchos hizo apartar de la iniquidad. </span></span><span class=\"verse v7\" data-usfm=\"MAL.2.7\"><span class=\"label\">7</span><span class=\"content\">Porque los labios del sacerdote han de guardar la sabidur&#237;a, y de su boca el pueblo buscar&#225; la ley; porque mensajero es de Jehov&#225; de los ej&#233;rcitos. </span></span><span class=\"verse v8\" data-usfm=\"MAL.2.8\"><span class=\"label\">8</span><span class=\"content\">Mas vosotros os hab&#233;is apartado del camino; hab&#233;is hecho tropezar a muchos en la ley; hab&#233;is corrompido el pacto de Lev&#237;, dice Jehov&#225; de los ej&#233;rcitos. </span></span><span class=\"verse v9\" data-usfm=\"MAL.2.9\"><span class=\"label\">9</span><span class=\"content\">Por tanto, yo tambi&#233;n os he hecho viles y bajos ante todo el pueblo, as&#237; como vosotros no hab&#233;is guardado mis caminos, y en la ley hac&#233;is acepci&#243;n de personas.</span></span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"MAL.2.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"MAL.2.10\"><span class=\"label\">10</span><span class=\"content\">&#191;No tenemos todos un mismo padre? &#191;No nos ha creado un mismo Dios? &#191;Por qu&#233;, pues, nos portamos deslealmente el uno contra el otro, profanando el pacto de nuestros padres? </span></span><span class=\"verse v11\" data-usfm=\"MAL.2.11\"><span class=\"label\">11</span><span class=\"content\">Prevaric&#243; Jud&#225;, y en Israel y en Jerusal&#233;n se ha cometido abominaci&#243;n; porque Jud&#225; ha profanado el santuario de Jehov&#225; que &#233;l am&#243;, y se cas&#243; con hija de dios extra&#241;o. </span></span><span class=\"verse v12\" data-usfm=\"MAL.2.12\"><span class=\"label\">12</span><span class=\"content\">Jehov&#225; cortar&#225; de las tiendas de Jacob al hombre que hiciere esto, al que vela y al que responde, y al que ofrece ofrenda a Jehov&#225; de los ej&#233;rcitos.</span></span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"MAL.2.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"MAL.2.13\"><span class=\"label\">13</span><span class=\"content\">Y esta otra vez har&#233;is cubrir el altar de Jehov&#225; de l&#225;grimas, de llanto, y de clamor; as&#237; que no mirar&#233; m&#225;s a la ofrenda, para aceptarla con gusto de vuestra mano. </span></span><span class=\"verse v14\" data-usfm=\"MAL.2.14\"><span class=\"label\">14</span><span class=\"content\">Mas dir&#233;is: &#191;Por qu&#233;? Porque Jehov&#225; ha atestiguado entre ti y la mujer de tu juventud, contra la cual has sido desleal, siendo ella tu compa&#241;era, y la mujer de tu pacto. </span></span><span class=\"verse v15\" data-usfm=\"MAL.2.15\"><span class=\"label\">15</span><span class=\"content\">&#191;No hizo &#233;l uno, habiendo en &#233;l abundancia de esp&#237;ritu? &#191;Y por qu&#233; uno? Porque buscaba una descendencia para Dios. Guardaos, pues, en vuestro esp&#237;ritu, y no se&#225;is desleales para con la mujer de vuestra juventud. </span></span><span class=\"verse v16\" data-usfm=\"MAL.2.16\"><span class=\"label\">16</span><span class=\"content\">Porque Jehov&#225; Dios de Israel ha dicho que &#233;l aborrece el repudio, y al que cubre de iniquidad su vestido, dijo Jehov&#225; de los ej&#233;rcitos. Guardaos, pues, en vuestro esp&#237;ritu, y no se&#225;is desleales.</span></span></div><div class=\"s\"><span class=\"heading\">El d&#237;a del juicio se acerca</span></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"MAL.2.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"MAL.2.17\"><span class=\"label\">17</span><span class=\"content\">Hab&#233;is hecho cansar a Jehov&#225; con vuestras palabras. Y dec&#237;s: &#191;En qu&#233; le hemos cansado? En que dec&#237;s: Cualquiera que hace mal agrada a Jehov&#225;, y en los tales se complace; o si no, &#191;d&#243;nde est&#225; el Dios de justicia?</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Reprensión de la infidelidad de Israel"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Ahora, pues, oh sacerdotes, para vosotros es este mandamiento."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Si no oyereis, y si no decidís de corazón dar gloria a mi nombre, ha dicho Jehová de los ejércitos, enviaré maldición sobre vosotros, y maldeciré vuestras bendiciones; y aun las he maldecido, porque no os habéis decidido de corazón."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "He aquí, yo os dañaré la sementera, y os echaré al rostro el estiércol, el estiércol de vuestros animales sacrificados, y seréis arrojados juntamente con él."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Y sabréis que yo os envié este mandamiento, para que fuese mi pacto con Leví, ha dicho Jehová de los ejércitos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Mi pacto con él fue de vida y de paz, las cuales cosas yo le di para que me temiera; y tuvo temor de mí, y delante de mi nombre estuvo humillado."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "La ley de verdad estuvo en su boca, e iniquidad no fue hallada en sus labios; en paz y en justicia anduvo conmigo, y a muchos hizo apartar de la iniquidad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Porque los labios del sacerdote han de guardar la sabiduría, y de su boca el pueblo buscará la ley; porque mensajero es de Jehová de los ejércitos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Mas vosotros os habéis apartado del camino; habéis hecho tropezar a muchos en la ley; habéis corrompido el pacto de Leví, dice Jehová de los ejércitos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Por tanto, yo también os he hecho viles y bajos ante todo el pueblo, así como vosotros no habéis guardado mis caminos, y en la ley hacéis acepción de personas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "¿No tenemos todos un mismo padre? ¿No nos ha creado un mismo Dios? ¿Por qué, pues, nos portamos deslealmente el uno contra el otro, profanando el pacto de nuestros padres?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Prevaricó Judá, y en Israel y en Jerusalén se ha cometido abominación; porque Judá ha profanado el santuario de Jehová que él amó, y se casó con hija de dios extraño."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Jehová cortará de las tiendas de Jacob al hombre que hiciere esto, al que vela y al que responde, y al que ofrece ofrenda a Jehová de los ejércitos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Y esta otra vez haréis cubrir el altar de Jehová de lágrimas, de llanto, y de clamor; así que no miraré más a la ofrenda, para aceptarla con gusto de vuestra mano."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Mas diréis: ¿Por qué? Porque Jehová ha atestiguado entre ti y la mujer de tu juventud, contra la cual has sido desleal, siendo ella tu compañera, y la mujer de tu pacto."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "¿No hizo él uno, habiendo en él abundancia de espíritu? ¿Y por qué uno? Porque buscaba una descendencia para Dios. Guardaos, pues, en vuestro espíritu, y no seáis desleales para con la mujer de vuestra juventud."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Porque Jehová Dios de Israel ha dicho que él aborrece el repudio, y al que cubre de iniquidad su vestido, dijo Jehová de los ejércitos. Guardaos, pues, en vuestro espíritu, y no seáis desleales."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "El día del juicio se acerca"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Habéis hecho cansar a Jehová con vuestras palabras. Y decís: ¿En qué le hemos cansado? En que decís: Cualquiera que hace mal agrada a Jehová, y en los tales se complace; o si no, ¿dónde está el Dios de justicia?"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "MAL.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "MAL.3"
+        ],
+        "human": "Malaquías 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "MAL.4"
+        ],
+        "human": "Malaquías 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "MAL.2"
+        ],
+        "human": "Malaquías 2",
+        "toc": true
+      },
+      "chapter_text": "He aquí, yo envío mi mensajero, el cual preparará el camino delante de mí; y vendrá súbitamente a su templo el Señor a quien vosotros buscáis, y el ángel del pacto, a quien deseáis vosotros. He aquí viene, ha dicho Jehová de los ejércitos. ¿Y quién podrá soportar el tiempo de su venida? ¿o quién podrá estar en pie cuando él se manifieste? Porque él es como fuego purificador, y como jabón de lavadores. Y se sentará para afinar y limpiar la plata; porque limpiará a los hijos de Leví, los afinará como a oro y como a plata, y traerán a Jehová ofrenda en justicia. Y será grata a Jehová la ofrenda de Judá y de Jerusalén, como en los días pasados, y como en los años antiguos.\nY vendré a vosotros para juicio; y seré pronto testigo contra los hechiceros y adúlteros, contra los que juran mentira, y los que defraudan en su salario al jornalero, a la viuda y al huérfano, y los que hacen injusticia al extranjero, no teniendo temor de mí, dice Jehová de los ejércitos.\n\nPorque yo Jehová no cambio; por esto, hijos de Jacob, no habéis sido consumidos. Desde los días de vuestros padres os habéis apartado de mis leyes, y no las guardasteis. Volveos a mí, y yo me volveré a vosotros, ha dicho Jehová de los ejércitos. Mas dijisteis: ¿En qué hemos de volvernos? ¿Robará el hombre a Dios? Pues vosotros me habéis robado. Y dijisteis: ¿En qué te hemos robado? En vuestros diezmos y ofrendas. Malditos sois con maldición, porque vosotros, la nación toda, me habéis robado. Traed todos los diezmos al alfolí y haya alimento en mi casa; y probadme ahora en esto, dice Jehová de los ejércitos, si no os abriré las ventanas de los cielos, y derramaré sobre vosotros bendición hasta que sobreabunde. Reprenderé también por vosotros al devorador, y no os destruirá el fruto de la tierra, ni vuestra vid en el campo será estéril, dice Jehová de los ejércitos. Y todas las naciones os dirán bienaventurados; porque seréis tierra deseable, dice Jehová de los ejércitos.\n\nVuestras palabras contra mí han sido violentas, dice Jehová. Y dijisteis: ¿Qué hemos hablado contra ti? Habéis dicho: Por demás es servir a Dios. ¿Qué aprovecha que guardemos su ley, y que andemos afligidos en presencia de Jehová de los ejércitos? Decimos, pues, ahora: Bienaventurados son los soberbios, y los que hacen impiedad no solo son prosperados, sino que tentaron a Dios y escaparon.\nEntonces los que temían a Jehová hablaron cada uno a su compañero; y Jehová escuchó y oyó, y fue escrito libro de memoria delante de él para los que temen a Jehová, y para los que piensan en su nombre. Y serán para mí especial tesoro, ha dicho Jehová de los ejércitos, en el día en que yo actúe; y los perdonaré, como el hombre que perdona a su hijo que le sirve. Entonces os volveréis, y discerniréis la diferencia entre el justo y el malo, entre el que sirve a Dios y el que no le sirve.",
+      "chapter_html": "<div class=\"version vid149 iso6393spa\" data-vid=\"149\" data-iso6393=\"spa\">\n   <div class=\"book bkMAL\">\n      <div class=\"chapter ch3\" data-usfm=\"MAL.3\">\n         <div class=\"label\">3</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"MAL.3.1\"><span class=\"label\">1</span><span class=\"content\">He aqu&#237;, yo env&#237;o mi mensajero, el cual preparar&#225; el camino delante de m&#237;;</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Mt. 11.10; Mr. 1.2; Lc. 1.76; 7.27.</span></span><span class=\"content\"> y vendr&#225; s&#250;bitamente a su templo el Se&#241;or a quien vosotros busc&#225;is, y el &#225;ngel del pacto, a quien dese&#225;is vosotros. He aqu&#237; viene, ha dicho Jehov&#225; de los ej&#233;rcitos. </span></span><span class=\"verse v2\" data-usfm=\"MAL.3.2\"><span class=\"label\">2</span><span class=\"content\">&#191;Y qui&#233;n podr&#225; soportar el tiempo de su venida? &#191;o qui&#233;n podr&#225; estar en pie cuando &#233;l se manifieste?</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Ap. 6.17.</span></span><span class=\"content\"> Porque &#233;l es como fuego purificador, y como jab&#243;n de lavadores. </span></span><span class=\"verse v3\" data-usfm=\"MAL.3.3\"><span class=\"label\">3</span><span class=\"content\">Y se sentar&#225; para afinar y limpiar la plata; porque limpiar&#225; a los hijos de Lev&#237;, los afinar&#225; como a oro y como a plata, y traer&#225;n a Jehov&#225; ofrenda en justicia. </span></span><span class=\"verse v4\" data-usfm=\"MAL.3.4\"><span class=\"label\">4</span><span class=\"content\">Y ser&#225; grata a Jehov&#225; la ofrenda de Jud&#225; y de Jerusal&#233;n, como en los d&#237;as pasados, y como en los a&#241;os antiguos.</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"MAL.3.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"MAL.3.5\"><span class=\"label\">5</span><span class=\"content\">Y vendr&#233; a vosotros para juicio; y ser&#233; pronto testigo contra los hechiceros y ad&#250;lteros, contra los que juran mentira, y los que defraudan en su salario al jornalero, a la viuda y al hu&#233;rfano, y los que hacen injusticia al extranjero, no teniendo temor de m&#237;, dice Jehov&#225; de los ej&#233;rcitos.</span></span></div><div class=\"s\"><span class=\"heading\">El pago de los diezmos</span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"MAL.3.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"MAL.3.6\"><span class=\"label\">6</span><span class=\"content\">Porque yo Jehov&#225; no cambio; por esto, hijos de Jacob, no hab&#233;is sido consumidos. </span></span><span class=\"verse v7\" data-usfm=\"MAL.3.7\"><span class=\"label\">7</span><span class=\"content\">Desde los d&#237;as de vuestros padres os hab&#233;is apartado de mis leyes, y no las guardasteis. Volveos a m&#237;, y yo me volver&#233; a vosotros, ha dicho Jehov&#225; de los ej&#233;rcitos. Mas dijisteis: &#191;En qu&#233; hemos de volvernos? </span></span><span class=\"verse v8\" data-usfm=\"MAL.3.8\"><span class=\"label\">8</span><span class=\"content\">&#191;Robar&#225; el hombre a Dios? Pues vosotros me hab&#233;is robado. Y dijisteis: &#191;En qu&#233; te hemos robado? En vuestros diezmos y ofrendas. </span></span><span class=\"verse v9\" data-usfm=\"MAL.3.9\"><span class=\"label\">9</span><span class=\"content\">Malditos sois con maldici&#243;n, porque vosotros, la naci&#243;n toda, me hab&#233;is robado. </span></span><span class=\"verse v10\" data-usfm=\"MAL.3.10\"><span class=\"label\">10</span><span class=\"content\">Traed todos los diezmos al alfol&#237;</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Lv. 27.30; Nm. 18.21-24; Dt. 12.5-7; 14.22-29; Neh. 13.12.</span></span><span class=\"content\"> y haya alimento en mi casa; y probadme ahora en esto, dice Jehov&#225; de los ej&#233;rcitos, si no os abrir&#233; las ventanas de los cielos, y derramar&#233; sobre vosotros bendici&#243;n hasta que sobreabunde. </span></span><span class=\"verse v11\" data-usfm=\"MAL.3.11\"><span class=\"label\">11</span><span class=\"content\">Reprender&#233; tambi&#233;n por vosotros al devorador, y no os destruir&#225; el fruto de la tierra, ni vuestra vid en el campo ser&#225; est&#233;ril, dice Jehov&#225; de los ej&#233;rcitos. </span></span><span class=\"verse v12\" data-usfm=\"MAL.3.12\"><span class=\"label\">12</span><span class=\"content\">Y todas las naciones os dir&#225;n bienaventurados; porque ser&#233;is tierra deseable, dice Jehov&#225; de los ej&#233;rcitos.</span></span></div><div class=\"s\"><span class=\"heading\">Diferencia entre el justo y el malo</span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"MAL.3.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"MAL.3.13\"><span class=\"label\">13</span><span class=\"content\">Vuestras palabras contra m&#237; han sido violentas, dice Jehov&#225;. Y dijisteis: &#191;Qu&#233; hemos hablado contra ti? </span></span><span class=\"verse v14\" data-usfm=\"MAL.3.14\"><span class=\"label\">14</span><span class=\"content\">Hab&#233;is dicho: Por dem&#225;s es servir a Dios. &#191;Qu&#233; aprovecha que guardemos su ley, y que andemos afligidos en presencia de Jehov&#225; de los ej&#233;rcitos? </span></span><span class=\"verse v15\" data-usfm=\"MAL.3.15\"><span class=\"label\">15</span><span class=\"content\">Decimos, pues, ahora: Bienaventurados son los soberbios, y los que hacen impiedad no solo son prosperados, sino que tentaron a Dios y escaparon.</span></span></div><div class=\"p\"><span class=\"verse v15\" data-usfm=\"MAL.3.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"MAL.3.16\"><span class=\"label\">16</span><span class=\"content\">Entonces los que tem&#237;an a Jehov&#225; hablaron cada uno a su compa&#241;ero; y Jehov&#225; escuch&#243; y oy&#243;, y fue escrito libro de memoria delante de &#233;l para los que temen a Jehov&#225;, y para los que piensan en su nombre. </span></span><span class=\"verse v17\" data-usfm=\"MAL.3.17\"><span class=\"label\">17</span><span class=\"content\">Y ser&#225;n para m&#237; especial tesoro, ha dicho Jehov&#225; de los ej&#233;rcitos, en el d&#237;a en que yo act&#250;e; y los perdonar&#233;, como el hombre que perdona a su hijo que le sirve. </span></span><span class=\"verse v18\" data-usfm=\"MAL.3.18\"><span class=\"label\">18</span><span class=\"content\">Entonces os volver&#233;is, y discernir&#233;is la diferencia entre el justo y el malo, entre el que sirve a Dios y el que no le sirve.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "He aquí, yo envío mi mensajero, el cual preparará el camino delante de mí; y vendrá súbitamente a su templo el Señor a quien vosotros buscáis, y el ángel del pacto, a quien deseáis vosotros. He aquí viene, ha dicho Jehová de los ejércitos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "¿Y quién podrá soportar el tiempo de su venida? ¿o quién podrá estar en pie cuando él se manifieste? Porque él es como fuego purificador, y como jabón de lavadores."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Y se sentará para afinar y limpiar la plata; porque limpiará a los hijos de Leví, los afinará como a oro y como a plata, y traerán a Jehová ofrenda en justicia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Y será grata a Jehová la ofrenda de Judá y de Jerusalén, como en los días pasados, y como en los años antiguos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Y vendré a vosotros para juicio; y seré pronto testigo contra los hechiceros y adúlteros, contra los que juran mentira, y los que defraudan en su salario al jornalero, a la viuda y al huérfano, y los que hacen injusticia al extranjero, no teniendo temor de mí, dice Jehová de los ejércitos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "El pago de los diezmos"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Porque yo Jehová no cambio; por esto, hijos de Jacob, no habéis sido consumidos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Desde los días de vuestros padres os habéis apartado de mis leyes, y no las guardasteis. Volveos a mí, y yo me volveré a vosotros, ha dicho Jehová de los ejércitos. Mas dijisteis: ¿En qué hemos de volvernos?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "¿Robará el hombre a Dios? Pues vosotros me habéis robado. Y dijisteis: ¿En qué te hemos robado? En vuestros diezmos y ofrendas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Malditos sois con maldición, porque vosotros, la nación toda, me habéis robado."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Traed todos los diezmos al alfolí y haya alimento en mi casa; y probadme ahora en esto, dice Jehová de los ejércitos, si no os abriré las ventanas de los cielos, y derramaré sobre vosotros bendición hasta que sobreabunde."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Reprenderé también por vosotros al devorador, y no os destruirá el fruto de la tierra, ni vuestra vid en el campo será estéril, dice Jehová de los ejércitos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Y todas las naciones os dirán bienaventurados; porque seréis tierra deseable, dice Jehová de los ejércitos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Diferencia entre el justo y el malo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Vuestras palabras contra mí han sido violentas, dice Jehová. Y dijisteis: ¿Qué hemos hablado contra ti?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Habéis dicho: Por demás es servir a Dios. ¿Qué aprovecha que guardemos su ley, y que andemos afligidos en presencia de Jehová de los ejércitos?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Decimos, pues, ahora: Bienaventurados son los soberbios, y los que hacen impiedad no solo son prosperados, sino que tentaron a Dios y escaparon."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Entonces los que temían a Jehová hablaron cada uno a su compañero; y Jehová escuchó y oyó, y fue escrito libro de memoria delante de él para los que temen a Jehová, y para los que piensan en su nombre."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Y serán para mí especial tesoro, ha dicho Jehová de los ejércitos, en el día en que yo actúe; y los perdonaré, como el hombre que perdona a su hijo que le sirve."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Entonces os volveréis, y discerniréis la diferencia entre el justo y el malo, entre el que sirve a Dios y el que no le sirve."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "MAL.4",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "MAL.4"
+        ],
+        "human": "Malaquías 4"
+      },
+      "next": {
+        "canonical": false,
+        "usfm": [
+          "MAT.INTRO1"
+        ],
+        "human": "S. Mateo EL SANTO EVANGELIO SEGÚN SAN MATEO",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "MAL.3"
+        ],
+        "human": "Malaquías 3",
+        "toc": true
+      },
+      "chapter_text": "Porque he aquí, viene el día ardiente como un horno, y todos los soberbios y todos los que hacen maldad serán estopa; aquel día que vendrá los abrasará, ha dicho Jehová de los ejércitos, y no les dejará ni raíz ni rama. Mas a vosotros los que teméis mi nombre, nacerá el Sol de justicia, y en sus alas traerá salvación; y saldréis, y saltaréis como becerros de la manada. Hollaréis a los malos, los cuales serán ceniza bajo las plantas de vuestros pies, en el día en que yo actúe, ha dicho Jehová de los ejércitos.\nAcordaos de la ley de Moisés mi siervo, al cual encargué en Horeb ordenanzas y leyes para todo Israel.\nHe aquí, yo os envío el profeta Elías, antes que venga el día de Jehová, grande y terrible. Él hará volver el corazón de los padres hacia los hijos, y el corazón de los hijos hacia los padres, no sea que yo venga y hiera la tierra con maldición.",
+      "chapter_html": "<div class=\"version vid149 iso6393spa\" data-vid=\"149\" data-iso6393=\"spa\">\n   <div class=\"book bkMAL\">\n      <div class=\"chapter ch4\" data-usfm=\"MAL.4\">\n         <div class=\"label\">4</div><div class=\"s\"><span class=\"heading\">El advenimiento del d&#237;a de Jehov&#225;</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"MAL.4.1\"><span class=\"label\">1</span><span class=\"content\">Porque he aqu&#237;, viene el d&#237;a ardiente como un horno, y todos los soberbios y todos los que hacen maldad ser&#225;n estopa; aquel d&#237;a que vendr&#225; los abrasar&#225;, ha dicho Jehov&#225; de los ej&#233;rcitos, y no les dejar&#225; ni ra&#237;z ni rama. </span></span><span class=\"verse v2\" data-usfm=\"MAL.4.2\"><span class=\"label\">2</span><span class=\"content\">Mas a vosotros los que tem&#233;is mi nombre, nacer&#225; el Sol de justicia, y en sus alas traer&#225; salvaci&#243;n; y saldr&#233;is, y saltar&#233;is como becerros de la manada. </span></span><span class=\"verse v3\" data-usfm=\"MAL.4.3\"><span class=\"label\">3</span><span class=\"content\">Hollar&#233;is a los malos, los cuales ser&#225;n ceniza bajo las plantas de vuestros pies, en el d&#237;a en que yo act&#250;e, ha dicho Jehov&#225; de los ej&#233;rcitos.</span></span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"MAL.4.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"MAL.4.4\"><span class=\"label\">4</span><span class=\"content\">Acordaos de la ley de Mois&#233;s mi siervo, al cual encargu&#233; en Horeb ordenanzas y leyes para todo Israel.</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"MAL.4.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"MAL.4.5\"><span class=\"label\">5</span><span class=\"content\">He aqu&#237;, yo os env&#237;o el profeta El&#237;as,</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Mt. 11.14; 17.10-13; Mr. 9.11-13; Lc. 1.17; Jn. 1.21.</span></span><span class=\"content\"> antes que venga el d&#237;a de Jehov&#225;, grande y terrible. </span></span><span class=\"verse v6\" data-usfm=\"MAL.4.6\"><span class=\"label\">6</span><span class=\"content\">&#201;l har&#225; volver el coraz&#243;n de los padres hacia los hijos, y el coraz&#243;n de los hijos hacia los padres, no sea que yo venga y hiera la tierra con maldici&#243;n.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "El advenimiento del día de Jehová"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Porque he aquí, viene el día ardiente como un horno, y todos los soberbios y todos los que hacen maldad serán estopa; aquel día que vendrá los abrasará, ha dicho Jehová de los ejércitos, y no les dejará ni raíz ni rama."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Mas a vosotros los que teméis mi nombre, nacerá el Sol de justicia, y en sus alas traerá salvación; y saldréis, y saltaréis como becerros de la manada."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Hollaréis a los malos, los cuales serán ceniza bajo las plantas de vuestros pies, en el día en que yo actúe, ha dicho Jehová de los ejércitos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Acordaos de la ley de Moisés mi siervo, al cual encargué en Horeb ordenanzas y leyes para todo Israel."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "He aquí, yo os envío el profeta Elías, antes que venga el día de Jehová, grande y terrible."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Él hará volver el corazón de los padres hacia los hijos, y el corazón de los hijos hacia los padres, no sea que yo venga y hiera la tierra con maldición."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,449 @@
+{
+  "book_usfm": "HAG",
+  "name": "Hageo",
+  "local_title": "Biblia Reina Valera 1960",
+  "local_abbreviation": "RVR1960",
+  "version_id": 149,
+  "publisher": {
+    "name": "United Bible Societies"
+  },
+  "copyright": {
+    "html": "<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>",
+    "text": "Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa",
+    "local_name": "Español (América Latina)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "HAG.INTRO1",
+      "is_chapter": false,
+      "current": {
+        "usfm": [
+          "HAG.INTRO1"
+        ],
+        "human": "Hageo HAGEO"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "HAG.1"
+        ],
+        "human": "Hageo 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "ZEP.3"
+        ],
+        "human": "Sofonías 3",
+        "toc": true
+      },
+      "chapter_text": "HAGEO\nINTRODUCCIÓN\nEl profeta y su medio\nEl profeta Hageo manifiesta, en el libro que lleva su nombre (Hag), un especial interés por la precisión de los datos históricos que aporta. Repetidamente incluye en el libro fechas y noticias (1.1152.11020) que permiten señalar con exactitud el tiempo en que comenzó a ejercer su actividad: el año 520 a.C., «segundo del rey Darío», que gobernó entre el 521 y el 485 a.C.\nCiro, el monarca fundador del imperio persa, promulgó el año 538 a.C. su célebre edicto (2 Cr. 36.22-23Esd. 1.1-4) que puso fin a la cautividad judía en Babilonia (2 R. 25.1-22). Poco después, en el 537, los judíos que habían regresado a Jerusalén iniciaron con entusiasmo la reconstrucción del templo (Esd. 1.1-11). Sin embargo, los fervores iniciales pronto se apagaron; en su lugar cundió entre la gente un profundo desaliento causado en parte por lo precario de los medios de que disponían (1.6) y en parte por la intranquilidad de tener que hacer frente día tras día a la actitud hostil de los samaritanos (Esd. 4.1-24). Aquellas circunstancias afectaron a las obras de restauración del templo, hasta el punto de provocar su paralización total (Esd. 4.24) mientras que, en contraste, comenzaban a aparecer en la propia Jerusalén hermosas mansiones para uso privado de adinerados miembros de la comunidad (1.4).\nLa situación así creada, unida a la falta de estabilidad política que reinaba en el imperio persa desde el año 522 a.C., iluminan el fondo del mensaje que Hageo había de comunicar al pueblo y a las autoridades más relevantes de Jerusalén: a Zorobabel, gobernador de Judá, y a Josué, sumo sacerdote (Esd. 5.1-26.14).\nEl libro y su mensaje\nLa profecía de Hageo consiste básicamente en una exhortación a reanudar sin demora la reconstrucción del templo, el cual no podía permanecer más tiempo en estado de ruina, sino que debía ser restaurado para gloria de Dios (1.8). La orden procede de Dios, y no puede ser ignorada sin que de ello se deriven graves perjuicios para todos: la sequía, la pérdida de cosechas y la pobreza, que serán los signos del enojo divino (1.9-11). En cambio, Dios bendecirá y traerá una pronta y definitiva salvación a su pueblo, si con el esfuerzo común el templo es reconstruido (1.82.6-92.20-23).\nLa reacción positiva de Zorobabel y Josué a los requerimientos conjuntos de Hageo y Zacarías (Esd. 6.14) despertó el adormecido entusiasmo popular (1.12-14). Las obras se pusieron de nuevo en marcha, sin pérdida de tiempo, y no mucho más tarde fue posible celebrar con grandes manifestaciones de alegría la dedicación del recién restaurado santuario (Esd. 6.15-18).\n\nEsquema del contenido:\n\n1. Exhortación a edificar el templo ( 1.1-15 )\n2. La gloria del nuevo templo ( 2.1-9 )\n3. Reprensión de la infidelidad del pueblo ( 2.10-19 )\n4. Promesa de Jehová a Zorobabel ( 2.20-23 )",
+      "chapter_html": "<div class=\"version vid149 iso6393spa\" data-vid=\"149\" data-iso6393=\"spa\">\n   <div class=\"book bkHAG\">\n      <div class=\"chapter chINTRO1\" data-usfm=\"HAG.INTRO1\">\n         <div class=\"imt1\"><span class=\"content\">HAGEO</span></div><div class=\"imt3\"><span class=\"content\">INTRODUCCI&#211;N</span></div><div class=\"is1\"><span class=\"content\">El profeta y su medio</span></div><div class=\"ip\"><span class=\"content\">El profeta Hageo manifiesta, en el libro que lleva su nombre (Hag), un especial inter&#233;s por la precisi&#243;n de los datos hist&#243;ricos que aporta. Repetidamente incluye en el libro fechas y noticias (</span><span class=\"content\">1.1</span>,<span class=\"content\">15</span>; <span class=\"content\">2.1</span>,<span class=\"content\">10</span>,<span class=\"content\">20</span><span class=\"content\">) que permiten se&#241;alar con exactitud el tiempo en que comenz&#243; a ejercer su actividad: el a&#241;o 520 a.C., &#171;segundo del rey Dar&#237;o&#187;, que gobern&#243; entre el 521 y el 485 a.C.</span></div><div class=\"ip\"><span class=\"content\">Ciro, el monarca fundador del imperio persa, promulg&#243; el a&#241;o 538 a.C. su c&#233;lebre edicto (</span><span class=\"content\">2 Cr. 36.22-23</span>; <span class=\"content\">Esd. 1.1-4</span><span class=\"content\">) que puso fin a la cautividad jud&#237;a en Babilonia (</span><span class=\"content\">2 R. 25.1-22</span><span class=\"content\">). Poco despu&#233;s, en el 537, los jud&#237;os que hab&#237;an regresado a Jerusal&#233;n iniciaron con entusiasmo la reconstrucci&#243;n del templo (</span><span class=\"content\">Esd. 1.1-11</span><span class=\"content\">). Sin embargo, los fervores iniciales pronto se apagaron; en su lugar cundi&#243; entre la gente un profundo desaliento causado en parte por lo precario de los medios de que dispon&#237;an (</span><span class=\"content\">1.6</span><span class=\"content\">) y en parte por la intranquilidad de tener que hacer frente d&#237;a tras d&#237;a a la actitud hostil de los samaritanos (</span><span class=\"content\">Esd. 4.1-24</span><span class=\"content\">). Aquellas circunstancias afectaron a las obras de restauraci&#243;n del templo, hasta el punto de provocar su paralizaci&#243;n total (</span><span class=\"content\">Esd. 4.24</span><span class=\"content\">) mientras que, en contraste, comenzaban a aparecer en la propia Jerusal&#233;n hermosas mansiones para uso privado de adinerados miembros de la comunidad (</span><span class=\"content\">1.4</span><span class=\"content\">).</span></div><div class=\"ip\"><span class=\"content\">La situaci&#243;n as&#237; creada, unida a la falta de estabilidad pol&#237;tica que reinaba en el imperio persa desde el a&#241;o 522 a.C., iluminan el fondo del mensaje que Hageo hab&#237;a de comunicar al pueblo y a las autoridades m&#225;s relevantes de Jerusal&#233;n: a Zorobabel, gobernador de Jud&#225;, y a Josu&#233;, sumo sacerdote (</span>cf. <span class=\"content\">Esd. 5.1-2</span>; <span class=\"content\">6.14</span><span class=\"content\">).</span></div><div class=\"is1\"><span class=\"content\">El libro y su mensaje</span></div><div class=\"ip\"><span class=\"content\">La profec&#237;a de Hageo consiste b&#225;sicamente en una exhortaci&#243;n a reanudar sin demora la reconstrucci&#243;n del templo, el cual no pod&#237;a permanecer m&#225;s tiempo en estado de ruina, sino que deb&#237;a ser restaurado para gloria de Dios (</span><span class=\"content\">1.8</span><span class=\"content\">). La orden procede de Dios, y no puede ser ignorada sin que de ello se deriven graves perjuicios para todos: la sequ&#237;a, la p&#233;rdida de cosechas y la pobreza, que ser&#225;n los signos del enojo divino (</span><span class=\"content\">1.9-11</span><span class=\"content\">). En cambio, Dios bendecir&#225; y traer&#225; una pronta y definitiva salvaci&#243;n a su pueblo, si con el esfuerzo com&#250;n el templo es reconstruido (</span><span class=\"content\">1.8</span>; <span class=\"content\">2.6-9</span>; <span class=\"content\">2.20-23</span><span class=\"content\">).</span></div><div class=\"ip\"><span class=\"content\">La reacci&#243;n positiva de Zorobabel y Josu&#233; a los requerimientos conjuntos de Hageo y Zacar&#237;as (</span>cf. <span class=\"content\">Esd. 6.14</span><span class=\"content\">) despert&#243; el adormecido entusiasmo popular (</span><span class=\"content\">1.12-14</span><span class=\"content\">). Las obras se pusieron de nuevo en marcha, sin p&#233;rdida de tiempo, y no mucho m&#225;s tarde fue posible celebrar con grandes manifestaciones de alegr&#237;a la dedicaci&#243;n del reci&#233;n restaurado santuario (</span><span class=\"content\">Esd. 6.15-18</span><span class=\"content\">).</span></div><div class=\"ib\"></div><div class=\"iot\"><span class=\"content\">Esquema del contenido:</span></div><div class=\"ib\"></div><div class=\"io1\"><span class=\"content\">1. Exhortaci&#243;n a edificar el templo </span><span class=\"ior\"><span class=\"content\">(</span><span class=\"content\">1.1-15</span><span class=\"content\">)</span></span></div><div class=\"io1\"><span class=\"content\">2. La gloria del nuevo templo </span><span class=\"ior\"><span class=\"content\">(</span><span class=\"content\">2.1-9</span><span class=\"content\">)</span></span></div><div class=\"io1\"><span class=\"content\">3. Reprensi&#243;n de la infidelidad del pueblo </span><span class=\"ior\"><span class=\"content\">(</span><span class=\"content\">2.10-19</span><span class=\"content\">)</span></span></div><div class=\"io1\"><span class=\"content\">4. Promesa de Jehov&#225; a Zorobabel </span><span class=\"ior\"><span class=\"content\">(</span><span class=\"content\">2.20-23</span><span class=\"content\">)</span></span></div><div class=\"ie\"></div>\n      </div>\n   </div>\n</div>",
+      "items": []
+    },
+    {
+      "chapter_usfm": "HAG.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "HAG.1"
+        ],
+        "human": "Hageo 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "HAG.2"
+        ],
+        "human": "Hageo 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": false,
+        "usfm": [
+          "HAG.INTRO1"
+        ],
+        "human": "Hageo HAGEO",
+        "toc": true
+      },
+      "chapter_text": "En el año segundo del rey Darío, en el mes sexto, en el primer día del mes, vino palabra de Jehová por medio del profeta Hageo a Zorobabel hijo de Salatiel, gobernador de Judá, y a Josué hijo de Josadac, sumo sacerdote, diciendo: Así ha hablado Jehová de los ejércitos, diciendo: Este pueblo dice: No ha llegado aún el tiempo, el tiempo de que la casa de Jehová sea reedificada. Entonces vino palabra de Jehová por medio del profeta Hageo, diciendo: ¿Es para vosotros tiempo, para vosotros, de habitar en vuestras casas artesonadas, y esta casa está desierta? Pues así ha dicho Jehová de los ejércitos: Meditad bien sobre vuestros caminos. Sembráis mucho, y recogéis poco; coméis, y no os saciáis; bebéis, y no quedáis satisfechos; os vestís, y no os calentáis; y el que trabaja a jornal recibe su jornal en saco roto.\nAsí ha dicho Jehová de los ejércitos: Meditad sobre vuestros caminos. Subid al monte, y traed madera, y reedificad la casa; y pondré en ella mi voluntad, y seré glorificado, ha dicho Jehová. Buscáis mucho, y halláis poco; y encerráis en casa, y yo lo disiparé en un soplo. ¿Por qué? dice Jehová de los ejércitos. Por cuanto mi casa está desierta, y cada uno de vosotros corre a su propia casa. Por eso se detuvo de los cielos sobre vosotros la lluvia, y la tierra detuvo sus frutos. Y llamé la sequía sobre esta tierra, y sobre los montes, sobre el trigo, sobre el vino, sobre el aceite, sobre todo lo que la tierra produce, sobre los hombres y sobre las bestias, y sobre todo trabajo de manos.\nY oyó Zorobabel hijo de Salatiel, y Josué hijo de Josadac, sumo sacerdote, y todo el resto del pueblo, la voz de Jehová su Dios, y las palabras del profeta Hageo, como le había enviado Jehová su Dios; y temió el pueblo delante de Jehová. Entonces Hageo, enviado de Jehová, habló por mandato de Jehová al pueblo, diciendo: Yo estoy con vosotros, dice Jehová. Y despertó Jehová el espíritu de Zorobabel hijo de Salatiel, gobernador de Judá, y el espíritu de Josué hijo de Josadac, sumo sacerdote, y el espíritu de todo el resto del pueblo; y vinieron y trabajaron en la casa de Jehová de los ejércitos, su Dios, en el día veinticuatro del mes sexto, en el segundo año del rey Darío.",
+      "chapter_html": "<div class=\"version vid149 iso6393spa\" data-vid=\"149\" data-iso6393=\"spa\">\n   <div class=\"book bkHAG\">\n      <div class=\"chapter ch1\" data-usfm=\"HAG.1\">\n         <div class=\"label\">1</div><div class=\"s\"><span class=\"heading\">Exhortaci&#243;n a edificar el templo</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"HAG.1.1\"><span class=\"label\">1</span><span class=\"content\">En el a&#241;o segundo del rey Dar&#237;o, en el mes sexto, en el primer d&#237;a del mes, vino palabra de Jehov&#225; por medio del profeta Hageo</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Esd. 4.24&#8212;5.2; 6.14.</span></span><span class=\"content\"> a Zorobabel hijo de Salatiel, gobernador de Jud&#225;, y a Josu&#233; hijo de Josadac, sumo sacerdote, diciendo: </span></span><span class=\"verse v2\" data-usfm=\"HAG.1.2\"><span class=\"label\">2</span><span class=\"content\">As&#237; ha hablado Jehov&#225; de los ej&#233;rcitos, diciendo: Este pueblo dice: No ha llegado a&#250;n el tiempo, el tiempo de que la casa de Jehov&#225; sea reedificada. </span></span><span class=\"verse v3\" data-usfm=\"HAG.1.3\"><span class=\"label\">3</span><span class=\"content\">Entonces vino palabra de Jehov&#225; por medio del profeta Hageo, diciendo: </span></span><span class=\"verse v4\" data-usfm=\"HAG.1.4\"><span class=\"label\">4</span><span class=\"content\">&#191;Es para vosotros tiempo, para vosotros, de habitar en vuestras casas artesonadas, y esta casa est&#225; desierta? </span></span><span class=\"verse v5\" data-usfm=\"HAG.1.5\"><span class=\"label\">5</span><span class=\"content\">Pues as&#237; ha dicho Jehov&#225; de los ej&#233;rcitos: Meditad bien sobre vuestros caminos. </span></span><span class=\"verse v6\" data-usfm=\"HAG.1.6\"><span class=\"label\">6</span><span class=\"content\">Sembr&#225;is mucho, y recog&#233;is poco; com&#233;is, y no os saci&#225;is; beb&#233;is, y no qued&#225;is satisfechos; os vest&#237;s, y no os calent&#225;is; y el que trabaja a jornal recibe su jornal en saco roto.</span></span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"HAG.1.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"HAG.1.7\"><span class=\"label\">7</span><span class=\"content\">As&#237; ha dicho Jehov&#225; de los ej&#233;rcitos: Meditad sobre vuestros caminos. </span></span><span class=\"verse v8\" data-usfm=\"HAG.1.8\"><span class=\"label\">8</span><span class=\"content\">Subid al monte, y traed madera, y reedificad la casa; y pondr&#233; en ella mi voluntad, y ser&#233; glorificado, ha dicho Jehov&#225;. </span></span><span class=\"verse v9\" data-usfm=\"HAG.1.9\"><span class=\"label\">9</span><span class=\"content\">Busc&#225;is mucho, y hall&#225;is poco; y encerr&#225;is en casa, y yo lo disipar&#233; en un soplo. &#191;Por qu&#233;? dice Jehov&#225; de los ej&#233;rcitos. Por cuanto mi casa est&#225; desierta, y cada uno de vosotros corre a su propia casa. </span></span><span class=\"verse v10\" data-usfm=\"HAG.1.10\"><span class=\"label\">10</span><span class=\"content\">Por eso se detuvo de los cielos sobre vosotros la lluvia, y la tierra detuvo sus frutos. </span></span><span class=\"verse v11\" data-usfm=\"HAG.1.11\"><span class=\"label\">11</span><span class=\"content\">Y llam&#233; la sequ&#237;a sobre esta tierra, y sobre los montes, sobre el trigo, sobre el vino, sobre el aceite, sobre todo lo que la tierra produce, sobre los hombres y sobre las bestias, y sobre todo trabajo de manos.</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"HAG.1.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"HAG.1.12\"><span class=\"label\">12</span><span class=\"content\">Y oy&#243; Zorobabel hijo de Salatiel, y Josu&#233; hijo de Josadac, sumo sacerdote, y todo el resto del pueblo, la voz de Jehov&#225; su Dios, y las palabras del profeta Hageo, como le hab&#237;a enviado Jehov&#225; su Dios; y temi&#243; el pueblo delante de Jehov&#225;. </span></span><span class=\"verse v13\" data-usfm=\"HAG.1.13\"><span class=\"label\">13</span><span class=\"content\">Entonces Hageo, enviado de Jehov&#225;, habl&#243; por mandato de Jehov&#225; al pueblo, diciendo: Yo estoy con vosotros, dice Jehov&#225;. </span></span><span class=\"verse v14\" data-usfm=\"HAG.1.14\"><span class=\"label\">14</span><span class=\"content\">Y despert&#243; Jehov&#225; el esp&#237;ritu de Zorobabel hijo de Salatiel, gobernador de Jud&#225;, y el esp&#237;ritu de Josu&#233; hijo de Josadac, sumo sacerdote, y el esp&#237;ritu de todo el resto del pueblo; y vinieron y trabajaron en la casa de Jehov&#225; de los ej&#233;rcitos, su Dios, </span></span><span class=\"verse v15\" data-usfm=\"HAG.1.15\"><span class=\"label\">15</span><span class=\"content\">en el d&#237;a veinticuatro del mes sexto, en el segundo a&#241;o del rey Dar&#237;o.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Exhortación a edificar el templo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "En el año segundo del rey Darío, en el mes sexto, en el primer día del mes, vino palabra de Jehová por medio del profeta Hageo a Zorobabel hijo de Salatiel, gobernador de Judá, y a Josué hijo de Josadac, sumo sacerdote, diciendo:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Así ha hablado Jehová de los ejércitos, diciendo: Este pueblo dice: No ha llegado aún el tiempo, el tiempo de que la casa de Jehová sea reedificada."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Entonces vino palabra de Jehová por medio del profeta Hageo, diciendo:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "¿Es para vosotros tiempo, para vosotros, de habitar en vuestras casas artesonadas, y esta casa está desierta?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Pues así ha dicho Jehová de los ejércitos: Meditad bien sobre vuestros caminos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Sembráis mucho, y recogéis poco; coméis, y no os saciáis; bebéis, y no quedáis satisfechos; os vestís, y no os calentáis; y el que trabaja a jornal recibe su jornal en saco roto."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Así ha dicho Jehová de los ejércitos: Meditad sobre vuestros caminos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Subid al monte, y traed madera, y reedificad la casa; y pondré en ella mi voluntad, y seré glorificado, ha dicho Jehová."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Buscáis mucho, y halláis poco; y encerráis en casa, y yo lo disiparé en un soplo. ¿Por qué? dice Jehová de los ejércitos. Por cuanto mi casa está desierta, y cada uno de vosotros corre a su propia casa."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Por eso se detuvo de los cielos sobre vosotros la lluvia, y la tierra detuvo sus frutos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Y llamé la sequía sobre esta tierra, y sobre los montes, sobre el trigo, sobre el vino, sobre el aceite, sobre todo lo que la tierra produce, sobre los hombres y sobre las bestias, y sobre todo trabajo de manos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Y oyó Zorobabel hijo de Salatiel, y Josué hijo de Josadac, sumo sacerdote, y todo el resto del pueblo, la voz de Jehová su Dios, y las palabras del profeta Hageo, como le había enviado Jehová su Dios; y temió el pueblo delante de Jehová."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Entonces Hageo, enviado de Jehová, habló por mandato de Jehová al pueblo, diciendo: Yo estoy con vosotros, dice Jehová."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Y despertó Jehová el espíritu de Zorobabel hijo de Salatiel, gobernador de Judá, y el espíritu de Josué hijo de Josadac, sumo sacerdote, y el espíritu de todo el resto del pueblo; y vinieron y trabajaron en la casa de Jehová de los ejércitos, su Dios,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "en el día veinticuatro del mes sexto, en el segundo año del rey Darío."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "HAG.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "HAG.2"
+        ],
+        "human": "Hageo 2"
+      },
+      "next": {
+        "canonical": false,
+        "usfm": [
+          "ZEC.INTRO1"
+        ],
+        "human": "Zacarías ZACARÍAS",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "HAG.1"
+        ],
+        "human": "Hageo 1",
+        "toc": true
+      },
+      "chapter_text": "En el mes séptimo, a los veintiún días del mes, vino palabra de Jehová por medio del profeta Hageo, diciendo: Habla ahora a Zorobabel hijo de Salatiel, gobernador de Judá, y a Josué hijo de Josadac, sumo sacerdote, y al resto del pueblo, diciendo: ¿Quién ha quedado entre vosotros que haya visto esta casa en su gloria primera, y cómo la veis ahora? ¿No es ella como nada delante de vuestros ojos? Pues ahora, Zorobabel, esfuérzate, dice Jehová; esfuérzate también, Josué hijo de Josadac, sumo sacerdote; y cobrad ánimo, pueblo todo de la tierra, dice Jehová, y trabajad; porque yo estoy con vosotros, dice Jehová de los ejércitos. Según el pacto que hice con vosotros cuando salisteis de Egipto, así mi Espíritu estará en medio de vosotros, no temáis. Porque así dice Jehová de los ejércitos: De aquí a poco yo haré temblar los cielos y la tierra, el mar y la tierra seca; y haré temblar a todas las naciones, y vendrá el Deseado de todas las naciones; y llenaré de gloria esta casa, ha dicho Jehová de los ejércitos. Mía es la plata, y mío es el oro, dice Jehová de los ejércitos. La gloria postrera de esta casa será mayor que la primera, ha dicho Jehová de los ejércitos; y daré paz en este lugar, dice Jehová de los ejércitos.\n\nA los veinticuatro días del noveno mes, en el segundo año de Darío, vino palabra de Jehová por medio del profeta Hageo, diciendo: Así ha dicho Jehová de los ejércitos: Pregunta ahora a los sacerdotes acerca de la ley, diciendo: Si alguno llevare carne santificada en la falda de su ropa, y con el vuelo de ella tocare pan, o vianda, o vino, o aceite, o cualquier otra comida, ¿será santificada? Y respondieron los sacerdotes y dijeron: No. Y dijo Hageo: Si un inmundo a causa de cuerpo muerto tocare alguna cosa de estas, ¿será inmunda? Y respondieron los sacerdotes, y dijeron: Inmunda será. Y respondió Hageo y dijo: Así es este pueblo y esta gente delante de mí, dice Jehová; y asimismo toda obra de sus manos; y todo lo que aquí ofrecen es inmundo. Ahora, pues, meditad en vuestro corazón desde este día en adelante, antes que pongan piedra sobre piedra en el templo de Jehová. Antes que sucediesen estas cosas, venían al montón de veinte efas, y había diez; venían al lagar para sacar cincuenta cántaros, y había veinte. Os herí con viento solano, con tizoncillo y con granizo en toda obra de vuestras manos; mas no os convertisteis a mí, dice Jehová. Meditad, pues, en vuestro corazón, desde este día en adelante, desde el día veinticuatro del noveno mes, desde el día que se echó el cimiento del templo de Jehová; meditad, pues, en vuestro corazón. ¿No está aún la simiente en el granero? Ni la vid, ni la higuera, ni el granado, ni el árbol de olivo ha florecido todavía; mas desde este día os bendeciré.\n\nVino por segunda vez palabra de Jehová a Hageo, a los veinticuatro días del mismo mes, diciendo: Habla a Zorobabel gobernador de Judá, diciendo: Yo haré temblar los cielos y la tierra; y trastornaré el trono de los reinos, y destruiré la fuerza de los reinos de las naciones; trastornaré los carros y los que en ellos suben, y vendrán abajo los caballos y sus jinetes, cada cual por la espada de su hermano. En aquel día, dice Jehová de los ejércitos, te tomaré, oh Zorobabel hijo de Salatiel, siervo mío, dice Jehová, y te pondré como anillo de sellar; porque yo te escogí, dice Jehová de los ejércitos.",
+      "chapter_html": "<div class=\"version vid149 iso6393spa\" data-vid=\"149\" data-iso6393=\"spa\">\n   <div class=\"book bkHAG\">\n      <div class=\"chapter ch2\" data-usfm=\"HAG.2\">\n         <div class=\"label\">2</div><div class=\"s\"><span class=\"heading\">La gloria del nuevo templo</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"HAG.2.1\"><span class=\"label\">1</span><span class=\"content\">En el mes s&#233;ptimo, a los veinti&#250;n d&#237;as del mes, vino palabra de Jehov&#225; por medio del profeta Hageo, diciendo: </span></span><span class=\"verse v2\" data-usfm=\"HAG.2.2\"><span class=\"label\">2</span><span class=\"content\">Habla ahora a Zorobabel hijo de Salatiel, gobernador de Jud&#225;, y a Josu&#233; hijo de Josadac, sumo sacerdote, y al resto del pueblo, diciendo: </span></span><span class=\"verse v3\" data-usfm=\"HAG.2.3\"><span class=\"label\">3</span><span class=\"content\">&#191;Qui&#233;n ha quedado entre vosotros que haya visto esta casa en su gloria primera,</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Esd. 3.12.</span></span><span class=\"content\"> y c&#243;mo la veis ahora? &#191;No es ella como nada delante de vuestros ojos? </span></span><span class=\"verse v4\" data-usfm=\"HAG.2.4\"><span class=\"label\">4</span><span class=\"content\">Pues ahora, Zorobabel, esfu&#233;rzate, dice Jehov&#225;; esfu&#233;rzate tambi&#233;n, Josu&#233; hijo de Josadac, sumo sacerdote; y cobrad &#225;nimo, pueblo todo de la tierra, dice Jehov&#225;, y trabajad; porque yo estoy con vosotros, dice Jehov&#225; de los ej&#233;rcitos. </span></span><span class=\"verse v5\" data-usfm=\"HAG.2.5\"><span class=\"label\">5</span><span class=\"content\">Seg&#250;n el pacto que hice con vosotros cuando salisteis de Egipto, as&#237; mi Esp&#237;ritu estar&#225; en medio de vosotros,</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Ex. 33.14.</span></span><span class=\"content\"> no tem&#225;is. </span></span><span class=\"verse v6\" data-usfm=\"HAG.2.6\"><span class=\"label\">6</span><span class=\"content\">Porque as&#237; dice Jehov&#225; de los ej&#233;rcitos: De aqu&#237; a poco yo har&#233; temblar los cielos y la tierra,</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">He. 12.26.</span></span><span class=\"content\"> el mar y la tierra seca; </span></span><span class=\"verse v7\" data-usfm=\"HAG.2.7\"><span class=\"label\">7</span><span class=\"content\">y har&#233; temblar a todas las naciones, y vendr&#225; el Deseado de todas las naciones; y llenar&#233; de gloria esta casa, ha dicho Jehov&#225; de los ej&#233;rcitos. </span></span><span class=\"verse v8\" data-usfm=\"HAG.2.8\"><span class=\"label\">8</span><span class=\"content\">M&#237;a es la plata, y m&#237;o es el oro, dice Jehov&#225; de los ej&#233;rcitos. </span></span><span class=\"verse v9\" data-usfm=\"HAG.2.9\"><span class=\"label\">9</span><span class=\"content\">La gloria postrera de esta casa ser&#225; mayor que la primera, ha dicho Jehov&#225; de los ej&#233;rcitos; y dar&#233; paz en este lugar, dice Jehov&#225; de los ej&#233;rcitos.</span></span></div><div class=\"s\"><span class=\"heading\">La infidelidad del pueblo es reprendida</span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"HAG.2.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"HAG.2.10\"><span class=\"label\">10</span><span class=\"content\">A los veinticuatro d&#237;as del noveno mes, en el segundo a&#241;o de Dar&#237;o, vino palabra de Jehov&#225; por medio del profeta Hageo, diciendo: </span></span><span class=\"verse v11\" data-usfm=\"HAG.2.11\"><span class=\"label\">11</span><span class=\"content\">As&#237; ha dicho Jehov&#225; de los ej&#233;rcitos: Pregunta ahora a los sacerdotes acerca de la ley, diciendo: </span></span><span class=\"verse v12\" data-usfm=\"HAG.2.12\"><span class=\"label\">12</span><span class=\"content\">Si alguno llevare carne santificada en la falda de su ropa, y con el vuelo de ella tocare pan, o vianda, o vino, o aceite, o cualquier otra comida, &#191;ser&#225; santificada? Y respondieron los sacerdotes y dijeron: No. </span></span><span class=\"verse v13\" data-usfm=\"HAG.2.13\"><span class=\"label\">13</span><span class=\"content\">Y dijo Hageo: Si un inmundo a causa de cuerpo muerto</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Nm. 19.11-22.</span></span><span class=\"content\"> tocare alguna cosa de estas, &#191;ser&#225; inmunda? Y respondieron los sacerdotes, y dijeron: Inmunda ser&#225;. </span></span><span class=\"verse v14\" data-usfm=\"HAG.2.14\"><span class=\"label\">14</span><span class=\"content\">Y respondi&#243; Hageo y dijo: As&#237; es este pueblo y esta gente delante de m&#237;, dice Jehov&#225;; y asimismo toda obra de sus manos; y todo lo que aqu&#237; ofrecen es inmundo. </span></span><span class=\"verse v15\" data-usfm=\"HAG.2.15\"><span class=\"label\">15</span><span class=\"content\">Ahora, pues, meditad en vuestro coraz&#243;n desde este d&#237;a en adelante, antes que pongan piedra sobre piedra en el templo de Jehov&#225;. </span></span><span class=\"verse v16\" data-usfm=\"HAG.2.16\"><span class=\"label\">16</span><span class=\"content\">Antes que sucediesen estas cosas, ven&#237;an al mont&#243;n de veinte efas, y hab&#237;a diez; ven&#237;an al lagar para sacar cincuenta c&#225;ntaros, y hab&#237;a veinte. </span></span><span class=\"verse v17\" data-usfm=\"HAG.2.17\"><span class=\"label\">17</span><span class=\"content\">Os her&#237; con viento solano, con tizoncillo y con granizo en toda obra de vuestras manos; mas no os convertisteis a m&#237;, dice Jehov&#225;. </span></span><span class=\"verse v18\" data-usfm=\"HAG.2.18\"><span class=\"label\">18</span><span class=\"content\">Meditad, pues, en vuestro coraz&#243;n, desde este d&#237;a en adelante, desde el d&#237;a veinticuatro del noveno mes, desde el d&#237;a que se ech&#243; el cimiento del templo de Jehov&#225;; meditad, pues, en vuestro coraz&#243;n. </span></span><span class=\"verse v19\" data-usfm=\"HAG.2.19\"><span class=\"label\">19</span><span class=\"content\">&#191;No est&#225; a&#250;n la simiente en el granero? Ni la vid, ni la higuera, ni el granado, ni el &#225;rbol de olivo ha florecido todav&#237;a; mas desde este d&#237;a os bendecir&#233;.</span></span></div><div class=\"s\"><span class=\"heading\">Promesa de Jehov&#225; a Zorobabel</span></div><div class=\"p\"><span class=\"verse v19\" data-usfm=\"HAG.2.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"HAG.2.20\"><span class=\"label\">20</span><span class=\"content\">Vino por segunda vez palabra de Jehov&#225; a Hageo, a los veinticuatro d&#237;as del mismo mes, diciendo: </span></span><span class=\"verse v21\" data-usfm=\"HAG.2.21\"><span class=\"label\">21</span><span class=\"content\">Habla a Zorobabel gobernador de Jud&#225;, diciendo: Yo har&#233; temblar los cielos y la tierra; </span></span><span class=\"verse v22\" data-usfm=\"HAG.2.22\"><span class=\"label\">22</span><span class=\"content\">y trastornar&#233; el trono de los reinos, y destruir&#233; la fuerza de los reinos de las naciones; trastornar&#233; los carros y los que en ellos suben, y vendr&#225;n abajo los caballos y sus jinetes, cada cual por la espada de su hermano. </span></span><span class=\"verse v23\" data-usfm=\"HAG.2.23\"><span class=\"label\">23</span><span class=\"content\">En aquel d&#237;a, dice Jehov&#225; de los ej&#233;rcitos, te tomar&#233;, oh Zorobabel hijo de Salatiel, siervo m&#237;o, dice Jehov&#225;, y te pondr&#233; como anillo de sellar; porque yo te escog&#237;, dice Jehov&#225; de los ej&#233;rcitos.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "La gloria del nuevo templo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "En el mes séptimo, a los veintiún días del mes, vino palabra de Jehová por medio del profeta Hageo, diciendo:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Habla ahora a Zorobabel hijo de Salatiel, gobernador de Judá, y a Josué hijo de Josadac, sumo sacerdote, y al resto del pueblo, diciendo:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "¿Quién ha quedado entre vosotros que haya visto esta casa en su gloria primera, y cómo la veis ahora? ¿No es ella como nada delante de vuestros ojos?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Pues ahora, Zorobabel, esfuérzate, dice Jehová; esfuérzate también, Josué hijo de Josadac, sumo sacerdote; y cobrad ánimo, pueblo todo de la tierra, dice Jehová, y trabajad; porque yo estoy con vosotros, dice Jehová de los ejércitos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Según el pacto que hice con vosotros cuando salisteis de Egipto, así mi Espíritu estará en medio de vosotros, no temáis."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Porque así dice Jehová de los ejércitos: De aquí a poco yo haré temblar los cielos y la tierra, el mar y la tierra seca;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "y haré temblar a todas las naciones, y vendrá el Deseado de todas las naciones; y llenaré de gloria esta casa, ha dicho Jehová de los ejércitos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Mía es la plata, y mío es el oro, dice Jehová de los ejércitos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "La gloria postrera de esta casa será mayor que la primera, ha dicho Jehová de los ejércitos; y daré paz en este lugar, dice Jehová de los ejércitos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "La infidelidad del pueblo es reprendida"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "A los veinticuatro días del noveno mes, en el segundo año de Darío, vino palabra de Jehová por medio del profeta Hageo, diciendo:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Así ha dicho Jehová de los ejércitos: Pregunta ahora a los sacerdotes acerca de la ley, diciendo:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Si alguno llevare carne santificada en la falda de su ropa, y con el vuelo de ella tocare pan, o vianda, o vino, o aceite, o cualquier otra comida, ¿será santificada? Y respondieron los sacerdotes y dijeron: No."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Y dijo Hageo: Si un inmundo a causa de cuerpo muerto tocare alguna cosa de estas, ¿será inmunda? Y respondieron los sacerdotes, y dijeron: Inmunda será."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Y respondió Hageo y dijo: Así es este pueblo y esta gente delante de mí, dice Jehová; y asimismo toda obra de sus manos; y todo lo que aquí ofrecen es inmundo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Ahora, pues, meditad en vuestro corazón desde este día en adelante, antes que pongan piedra sobre piedra en el templo de Jehová."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Antes que sucediesen estas cosas, venían al montón de veinte efas, y había diez; venían al lagar para sacar cincuenta cántaros, y había veinte."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Os herí con viento solano, con tizoncillo y con granizo en toda obra de vuestras manos; mas no os convertisteis a mí, dice Jehová."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Meditad, pues, en vuestro corazón, desde este día en adelante, desde el día veinticuatro del noveno mes, desde el día que se echó el cimiento del templo de Jehová; meditad, pues, en vuestro corazón."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "¿No está aún la simiente en el granero? Ni la vid, ni la higuera, ni el granado, ni el árbol de olivo ha florecido todavía; mas desde este día os bendeciré."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Promesa de Jehová a Zorobabel"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Vino por segunda vez palabra de Jehová a Hageo, a los veinticuatro días del mismo mes, diciendo:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "Habla a Zorobabel gobernador de Judá, diciendo: Yo haré temblar los cielos y la tierra;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "y trastornaré el trono de los reinos, y destruiré la fuerza de los reinos de las naciones; trastornaré los carros y los que en ellos suben, y vendrán abajo los caballos y sus jinetes, cada cual por la espada de su hermano."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "En aquel día, dice Jehová de los ejércitos, te tomaré, oh Zorobabel hijo de Salatiel, siervo mío, dice Jehová, y te pondré como anillo de sellar; porque yo te escogí, dice Jehová de los ejércitos."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}
