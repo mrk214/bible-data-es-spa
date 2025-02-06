@@ -258,6 +258,77 @@ También puedes acceder a los archivos estáticos con los siguientes links.
 | Judas                   | `JUD`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/NTV/JUD.json) |
 | Apocalipsis             | `REV`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/NTV/REV.json) |
 
+### Reina Valera 1960 (RVR1960) - unchecked
+
+| Name                    | ID (usfm) | Link                                                                                  |
+| ----------------------- | --------- | ------------------------------------------------------------------------------------- |
+| Génesis                 | `GEN`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/GEN.json) |
+| Éxodo                   | `EXO`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/EXO.json) |
+| Levítico                | `LEV`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/LEV.json) |
+| Números                 | `NUM`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/NUM.json) |
+| Deuteronomio            | `DEU`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/DEU.json) |
+| Josué                   | `JOS`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/JOS.json) |
+| Jueces                  | `JDG`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/JDG.json) |
+| Rut                     | `RUT`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/RUT.json) |
+| 1 Samuel                | `1SA`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/1SA.json) |
+| 2 Samuel                | `2SA`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/2SA.json) |
+| 1 Reyes                 | `1KI`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/1KI.json) |
+| 2 Reyes                 | `2KI`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/2KI.json) |
+| 1 Crónicas              | `1CH`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/1CH.json) |
+| 2 Crónicas              | `2CH`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/2CH.json) |
+| Esdras                  | `EZR`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/EZR.json) |
+| Nehemías                | `NEH`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/NEH.json) |
+| Ester                   | `EST`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/EST.json) |
+| Job                     | `JOB`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/JOB.json) |
+| Salmos                  | `PSA`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/PSA.json) |
+| Proverbios              | `PRO`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/PRO.json) |
+| Eclesiastés             | `ECC`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/ECC.json) |
+| Cantar de los Cantares  | `SNG`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/SNG.json) |
+| Isaías                  | `ISA`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/ISA.json) |
+| Jeremías                | `JER`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/JER.json) |
+| Lamentaciones           | `LAM`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/LAM.json) |
+| Ezequiel                | `EZK`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/EZK.json) |
+| Daniel                  | `DAN`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/DAN.json) |
+| Oseas                   | `HOS`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/HOS.json) |
+| Joel                    | `JOL`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/JOL.json) |
+| Amós                    | `AMO`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/AMO.json) |
+| Abdías                  | `OBA`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/OBA.json) |
+| Jonás                   | `JON`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/JON.json) |
+| Miqueas                 | `MIC`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/MIC.json) |
+| Nahúm                   | `NAM`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/NAM.json) |
+| Habacuc                 | `HAB`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/HAB.json) |
+| Sofonías                | `ZEP`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/ZEP.json) |
+| Hageo                   | `HAG`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/HAG.json) |
+| Zacarías                | `ZEC`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/ZEC.json) |
+| Malaquías               | `MAL`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/MAL.json) |
+| Mateo                   | `MAT`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/MAT.json) |
+| Marcos                  | `MRK`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/MRK.json) |
+| Lucas                   | `LUK`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/LUK.json) |
+| Juan                    | `JHN`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/JHN.json) |
+| Hechos de los Apóstoles | `ACT`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/ACT.json) |
+| Romanos                 | `ROM`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/ROM.json) |
+| 1 Corintios             | `1CO`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/1CO.json) |
+| 2 Corintios             | `2CO`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/2CO.json) |
+| Gálatas                 | `GAL`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/GAL.json) |
+| Efesios                 | `EPH`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/EPH.json) |
+| Filipenses              | `PHP`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/PHP.json) |
+| Colosenses              | `COL`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/COL.json) |
+| 1 Tesalonicenses        | `1TH`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/1TH.json) |
+| 2 Tesalonicenses        | `2TH`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/2TH.json) |
+| 1 Timoteo               | `1TI`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/1TI.json) |
+| 2 Timoteo               | `2TI`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/2TI.json) |
+| Tito                    | `TIT`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/TIT.json) |
+| Filemón                 | `PHM`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/PHM.json) |
+| Hebreos                 | `HEB`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/HEB.json) |
+| Santiago                | `JAS`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/JAS.json) |
+| 1 Pedro                 | `1PE`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/1PE.json) |
+| 2 Pedro                 | `2PE`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/2PE.json) |
+| 1 Juan                  | `1JN`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/1JN.json) |
+| 2 Juan                  | `2JN`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/2JN.json) |
+| 3 Juan                  | `3JN`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/3JN.json) |
+| Judas                   | `JUD`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/JUD.json) |
+| Apocalipsis             | `REV`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVR1960/REV.json) |
+
 ### Reina Valera Actualizada (RVA2015)
 
 | Name                    | ID (usfm) | Link                                                                                  |
@@ -329,7 +400,7 @@ También puedes acceder a los archivos estáticos con los siguientes links.
 | Judas                   | `JUD`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVA2015/JUD.json) |
 | Apocalipsis             | `REV`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/RVA2015/REV.json) |
 
-### Reina Valera Contemporánea (RVC) - unchecked
+### Reina Valera Contemporánea (RVC)
 
 | Name                    | ID (usfm) | Link                                                                              |
 | ----------------------- | --------- | --------------------------------------------------------------------------------- |
