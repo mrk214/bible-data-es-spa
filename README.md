@@ -542,7 +542,7 @@ También puedes acceder a los archivos estáticos con los siguientes links.
 | Judas                   | `JUD`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/NVI/JUD.json) |
 | Apocalipsis             | `REV`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/NVI/REV.json) |
 
-### La Biblia de las Américas (LBLA) - unchecked
+### La Biblia de las Américas (LBLA)
 
 | Name                    | ID (usfm) | Link                                                                               |
 | ----------------------- | --------- | ---------------------------------------------------------------------------------- |
