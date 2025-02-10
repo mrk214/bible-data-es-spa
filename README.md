@@ -613,7 +613,7 @@ También puedes acceder a los archivos estáticos con los siguientes links.
 | Judas                   | `JUD`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/LBLA/JUD.json) |
 | Apocalipsis             | `REV`     | [raw file](https://jsckdm.github.io/bible-data-es-spa/data/es___spa/LBLA/REV.json) |
 
-### Nueva Biblia de las Américas (NBLA) - unchecked
+### Nueva Biblia de las Américas (NBLA)
 
 | Name                    | ID (usfm) | Link                                                                               |
 | ----------------------- | --------- | ---------------------------------------------------------------------------------- |
