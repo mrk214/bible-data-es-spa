@@ -50,7 +50,7 @@
       "items": [
         {
           "type": "section2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "(1.1-15)"
           ],
@@ -58,7 +58,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Saludo"
           ],
@@ -66,7 +66,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Los saluda Pablo, siervo de Cristo Jesús llamado por él para ser apóstol y apartado para anunciar el evangelio de Dios."
           ],
@@ -74,25 +76,49 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
-            "Por medio de sus profetas, Dios ya lo había prometido en las santas Escrituras.",
+            "Por medio de sus profetas, Dios ya lo había prometido en las santas Escrituras."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3,
+            4
+          ],
+          "lines": [
             "Es el mensaje que trata de su Hijo Jesucristo, nuestro Señor, quien nació, como hombre, de la descendencia de David, pero a partir de su resurrección fue constituido Hijo de Dios con plenos poderes, como espíritu santificador."
           ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
-            "Por medio de Jesucristo recibí el privilegio de ser apóstol, puesto a su servicio, para que en todas las naciones haya quienes crean en él y le obedezcan.",
+            "Por medio de Jesucristo recibí el privilegio de ser apóstol, puesto a su servicio, para que en todas las naciones haya quienes crean en él y le obedezcan."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6,
+            7
+          ],
+          "lines": [
             "Entre ellos están también ustedes, que viven en Roma. Dios los ama, y los ha llamado a ser de Jesucristo y a formar parte del pueblo santo. Que Dios nuestro Padre y el Señor Jesucristo derramen su gracia y su paz sobre ustedes."
           ],
           "rlw_lines": []
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Acción de gracias"
           ],
@@ -100,7 +126,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "En primer lugar, por medio de Jesucristo doy gracias a mi Dios por cada uno de ustedes, porque en todas partes se habla de su fe."
           ],
@@ -108,7 +136,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Dios, a quien yo sirvo con todo mi corazón anunciando el evangelio de su Hijo, es testigo de que continuamente los recuerdo,"
           ],
@@ -116,7 +146,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "y en mis oraciones pido siempre a Dios que, si es su voluntad, me conceda que vaya por fin a visitarlos."
           ],
@@ -124,7 +156,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Porque deseo verlos y prestarles alguna ayuda espiritual, para que estén más firmes;"
           ],
@@ -132,7 +166,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "es decir, para que nos animemos unos a otros con esta fe que ustedes y yo tenemos."
           ],
@@ -140,7 +176,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Quiero que sepan, hermanos, que muchas veces me he propuesto ir a verlos, pero hasta ahora siempre se me han presentado obstáculos. Mi deseo es recoger alguna cosecha espiritual entre ustedes, como la he recogido entre las otras naciones."
           ],
@@ -148,7 +186,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Me siento en deuda con todos, sean cultos o incultos, sabios o ignorantes;"
           ],
@@ -156,7 +196,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "por eso estoy tan ansioso de anunciarles el evangelio también a ustedes que viven en Roma."
           ],
@@ -164,7 +206,7 @@
         },
         {
           "type": "heading2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "I. PARTE DOCTRINAL"
           ],
@@ -172,7 +214,7 @@
         },
         {
           "type": "section2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "(1.16—11.36)"
           ],
@@ -180,7 +222,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "El evangelio, poder de Dios"
           ],
@@ -188,7 +230,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "No me avergüenzo del evangelio, porque es poder de Dios para que todos los que creen alcancen la salvación, los judíos en primer lugar, pero también los que no lo son."
           ],
@@ -196,7 +240,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "Pues el evangelio nos muestra de qué manera Dios nos hace justos: es por fe, de principio a fin. Así lo dicen las Escrituras: «El justo por la fe vivirá.»"
           ],
@@ -204,7 +250,7 @@
         },
         {
           "type": "section2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "(1.18-32)"
           ],
@@ -212,7 +258,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 18,
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "Pues Dios muestra su ira castigando desde el cielo a toda la gente mala e injusta, que con su injusticia mantiene prisionera la verdad."
           ],
@@ -220,7 +268,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 19,
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "Lo que de Dios se puede conocer, ellos lo conocen muy bien, porque él mismo se lo ha mostrado;"
           ],
@@ -228,7 +278,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 20,
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "pues lo invisible de Dios se puede llegar a conocer, si se reflexiona en lo que él ha hecho. En efecto, desde que el mundo fue creado, claramente se ha podido ver que él es Dios y que su poder nunca tendrá fin. Por eso los malvados no tienen disculpa."
           ],
@@ -236,7 +288,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 21,
+          "verse_numbers": [
+            21
+          ],
           "lines": [
             "Pues aunque han conocido a Dios, no lo han honrado como a Dios ni le han dado gracias. Al contrario, han terminado pensando puras tonterías, y su necia mente se ha quedado a oscuras."
           ],
@@ -244,7 +298,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 22,
+          "verse_numbers": [
+            22
+          ],
           "lines": [
             "Decían que eran sabios, pero se hicieron tontos;"
           ],
@@ -252,7 +308,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 23,
+          "verse_numbers": [
+            23
+          ],
           "lines": [
             "porque han cambiado la gloria del Dios inmortal por imágenes del hombre mortal, y hasta por imágenes de aves, cuadrúpedos y reptiles."
           ],
@@ -260,7 +318,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 24,
+          "verse_numbers": [
+            24
+          ],
           "lines": [
             "Por eso, Dios los ha abandonado a los impuros deseos que hay en ellos, y han cometido unos con otros acciones vergonzosas."
           ],
@@ -268,7 +328,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 25,
+          "verse_numbers": [
+            25
+          ],
           "lines": [
             "En lugar de la verdad de Dios, han buscado la mentira, y han honrado y adorado las cosas creadas por Dios y no a Dios mismo, que las creó y que merece alabanza por siempre. Amén."
           ],
@@ -276,7 +338,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 26,
+          "verse_numbers": [
+            26
+          ],
           "lines": [
             "Por eso, Dios los ha abandonado a pasiones vergonzosas. Hasta sus mujeres han cambiado las relaciones naturales por las que van contra la naturaleza;"
           ],
@@ -284,7 +348,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 27,
+          "verse_numbers": [
+            27
+          ],
           "lines": [
             "de la misma manera, los hombres han dejado sus relaciones naturales con la mujer y arden en malos deseos los unos por los otros. Hombres con hombres cometen acciones vergonzosas, y sufren en su propio cuerpo el castigo merecido por su perversión."
           ],
@@ -292,7 +358,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 28,
+          "verse_numbers": [
+            28
+          ],
           "lines": [
             "Como no quisieron reconocer a Dios, él los ha abandonado a sus perversos pensamientos, para que hagan lo que no deben."
           ],
@@ -300,7 +368,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 29,
+          "verse_numbers": [
+            29
+          ],
           "lines": [
             "Están llenos de toda clase de injusticia, perversidad, avaricia y maldad. Son envidiosos, asesinos, pendencieros, engañadores, perversos y chismosos."
           ],
@@ -308,7 +378,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 30,
+          "verse_numbers": [
+            30
+          ],
           "lines": [
             "Hablan mal de los demás, son enemigos de Dios, insolentes, vanidosos y orgullosos; inventan maldades, desobedecen a sus padres,"
           ],
@@ -316,7 +388,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 31,
+          "verse_numbers": [
+            31
+          ],
           "lines": [
             "no quieren entender, no cumplen su palabra, no sienten cariño por nadie, no sienten compasión."
           ],
@@ -324,7 +398,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 32,
+          "verse_numbers": [
+            32
+          ],
           "lines": [
             "Saben muy bien que Dios ha decretado que quienes hacen estas cosas merecen la muerte; y, sin embargo, las siguen haciendo, y hasta ven con gusto que otros las hagan."
           ],
@@ -362,7 +438,7 @@
       "items": [
         {
           "type": "section2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "(2.1—3.20)"
           ],
@@ -370,7 +446,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Dios juzga conforme a la verdad"
           ],
@@ -378,7 +454,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Por eso no tienes disculpa, tú que juzgas a otros, no importa quién seas. Al juzgar a otros te condenas a ti mismo, pues haces precisamente lo mismo que hacen ellos."
           ],
@@ -386,7 +464,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "Pero sabemos que Dios juzga conforme a la verdad cuando condena a los que así se portan."
           ],
@@ -394,7 +474,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "En cuanto a ti, que juzgas a otros y haces lo mismo que ellos, no creas que vas a escapar de la condenación de Dios."
           ],
@@ -402,7 +484,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "Tú desprecias la inagotable bondad, tolerancia y paciencia de Dios, sin darte cuenta de que es precisamente su bondad la que te está llevando a convertirte a él."
           ],
@@ -410,7 +494,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Pero tú, como eres terco y no has querido volverte a Dios, estás amontonando castigo sobre ti mismo para el día del castigo, cuando Dios se manifestará para dictar su justa sentencia"
           ],
@@ -418,7 +504,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "y pagar a cada uno conforme a lo que haya hecho."
           ],
@@ -426,7 +514,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "Dará vida eterna a quienes, buscando gloria, honor e inmortalidad, perseveraron en hacer lo bueno;"
           ],
@@ -434,7 +524,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "pero castigará con enojo a los rebeldes, es decir, a los que están en contra de la verdad y a favor de la maldad."
           ],
@@ -442,7 +534,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Habrá sufrimiento y angustia para todos los que hacen lo malo, para los judíos en primer lugar, pero también para los que no lo son."
           ],
@@ -450,7 +544,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "En cambio, Dios dará gloria, honor y paz a todos los que hacen lo bueno, a los judíos en primer lugar, pero también a los que no lo son."
           ],
@@ -458,7 +554,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Porque Dios juzga imparcialmente."
           ],
@@ -466,7 +564,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "La ley de Moisés"
           ],
@@ -474,7 +572,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Todos los que pecan sin haber tenido la ley de Moisés, perecerán sin esa ley; y los que pecan a pesar de tener la ley de Moisés, por medio de esa misma ley serán juzgados."
           ],
@@ -482,7 +582,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Pues no son justos ante Dios los que solamente oyen la ley, sino los que la obedecen."
           ],
@@ -490,7 +592,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Porque cuando los que no son judíos ni tienen la ley hacen por naturaleza lo que la ley manda, ellos mismos son su propia ley,"
           ],
@@ -498,7 +602,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "pues muestran por su conducta que llevan la ley escrita en el corazón. Su propia conciencia lo comprueba, y sus propios pensamientos los acusarán o los defenderán"
           ],
@@ -506,7 +612,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "el día en que Dios juzgará los secretos de todos por medio de Cristo Jesús, conforme al evangelio que yo anuncio."
           ],
@@ -514,7 +622,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "Tú te llamas judío, confías en la ley de Moisés, y estás orgulloso de tu Dios."
           ],
@@ -522,7 +632,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 18,
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "Conoces su voluntad, y la ley te enseña a escoger lo mejor."
           ],
@@ -530,7 +642,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 19,
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "Estás convencido de que puedes guiar a los ciegos y alumbrar a los que andan en la oscuridad;"
           ],
@@ -538,7 +652,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 20,
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "de que puedes instruir a los ignorantes y orientar a los sencillos, ya que en la ley tienes la regla del conocimiento y de la verdad."
           ],
@@ -546,7 +662,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 21,
+          "verse_numbers": [
+            21
+          ],
           "lines": [
             "Pues bien, si enseñas a otros, ¿por qué no te enseñas a ti mismo? Si predicas que no se debe robar, ¿por qué robas?"
           ],
@@ -554,7 +672,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 22,
+          "verse_numbers": [
+            22
+          ],
           "lines": [
             "Si dices que no se debe cometer adulterio, ¿por qué lo cometes? Si odias a los ídolos, ¿por qué robas las riquezas de sus templos?"
           ],
@@ -562,7 +682,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 23,
+          "verse_numbers": [
+            23
+          ],
           "lines": [
             "Te glorías de la ley, pero deshonras a Dios porque la desobedeces."
           ],
@@ -570,7 +692,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 24,
+          "verse_numbers": [
+            24
+          ],
           "lines": [
             "Con razón dice la Escritura: «Los paganos ofenden a Dios por culpa de ustedes.»"
           ],
@@ -578,7 +702,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 25,
+          "verse_numbers": [
+            25
+          ],
           "lines": [
             "Es cierto que, a quien obedece a la ley de Moisés, la circuncisión le sirve de algo; pero si no la obedece, es como si no estuviera circuncidado."
           ],
@@ -586,7 +712,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 26,
+          "verse_numbers": [
+            26
+          ],
           "lines": [
             "En cambio, si el que no está circuncidado se porta según lo que la ley ordena, se le considerará circuncidado aun cuando no lo esté."
           ],
@@ -594,7 +722,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 27,
+          "verse_numbers": [
+            27
+          ],
           "lines": [
             "El que obedece a la ley, aunque no esté circuncidado en su cuerpo, juzgará a aquel que, a pesar de tener la ley y de estar circuncidado, no la obedece."
           ],
@@ -602,7 +732,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 28,
+          "verse_numbers": [
+            28
+          ],
           "lines": [
             "Porque ser judío no es serlo solamente por fuera, y estar circuncidado no es estarlo solamente por fuera, en el cuerpo."
           ],
@@ -610,7 +742,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 29,
+          "verse_numbers": [
+            29
+          ],
           "lines": [
             "El verdadero judío lo es interiormente, y el estar circuncidado es cosa del corazón: no depende de reglas escritas, sino del Espíritu. El que es así, resulta aprobado, no por los hombres, sino por Dios."
           ],
@@ -648,7 +782,9 @@
       "items": [
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Entonces, ¿qué ventajas tiene el ser judío o el estar circuncidado?"
           ],
@@ -656,7 +792,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "Muchas y por muchas razones. En primer lugar, Dios confió su mensaje a los judíos."
           ],
@@ -664,7 +802,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "¿Qué pasa entonces? ¿Acaso Dios dejará de ser fiel, por el hecho de que algunos de ellos hayan sido infieles?"
           ],
@@ -672,7 +812,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "¡Claro que no! Al contrario, Dios actúa siempre conforme a la verdad, aunque todo hombre sea mentiroso; pues la Escritura dice:",
             "«Serás tenido por justo en lo que dices,",
@@ -682,7 +824,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Pero si nuestra maldad sirve para poner de relieve que Dios es justo, ¿qué diremos? ¿Que Dios es injusto cuando nos castiga? (Hablo según criterios humanos.)"
           ],
@@ -690,7 +834,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "¡Claro que no! Porque si Dios fuera injusto, ¿cómo podría juzgar al mundo?"
           ],
@@ -698,7 +844,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "Pero si mi mentira sirve para que la verdad de Dios resulte todavía más gloriosa, ¿por qué se me juzga a mí como pecador?"
           ],
@@ -706,7 +854,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "En tal caso, ¿por qué no hacer lo malo para que venga lo bueno? Esto es precisamente lo que algunos, para desacreditarme, dicen que yo enseño; pero tales personas merecen la condenación."
           ],
@@ -714,7 +864,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Todos han pecado"
           ],
@@ -722,7 +872,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "¿Qué pues? ¿Tenemos nosotros, los judíos, alguna ventaja sobre los demás? ¡Claro que no! Porque ya hemos demostrado que todos, tanto los judíos como los que no lo son, están bajo el poder del pecado,"
           ],
@@ -730,7 +882,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "pues las Escrituras dicen:",
             "«¡No hay ni uno solo que sea justo!"
@@ -739,7 +893,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "No hay quien tenga entendimiento;",
             "no hay quien busque a Dios."
@@ -748,7 +904,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Todos se han ido por mal camino;",
             "todos por igual se han pervertido.",
@@ -759,7 +917,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Su garganta es un sepulcro abierto,",
             "su lengua es mentirosa,",
@@ -769,7 +929,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "y su boca está llena de maldición y amargura."
           ],
@@ -777,7 +939,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "Sus pies corren ágiles a derramar sangre;"
           ],
@@ -785,7 +949,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "destrucción y miseria hay en sus caminos,"
           ],
@@ -793,7 +959,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "y no conocen el camino de la paz."
           ],
@@ -801,7 +969,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 18,
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "Jamás tienen presente que hay que temer a Dios.»"
           ],
@@ -809,7 +979,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 19,
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "Sabemos que todo lo que dice el libro de la ley, lo dice a quienes están sometidos a ella, para que todos callen y el mundo entero caiga bajo el juicio de Dios;"
           ],
@@ -817,7 +989,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 20,
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "porque nadie podrá decir que ha cumplido la ley y que Dios debe reconocerlo como justo, ya que la ley solamente sirve para hacernos saber que somos pecadores."
           ],
@@ -825,7 +999,7 @@
         },
         {
           "type": "section2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "(3.21-31)"
           ],
@@ -833,7 +1007,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 21,
+          "verse_numbers": [
+            21
+          ],
           "lines": [
             "Pero ahora, sin la ley, Dios ha mostrado de qué manera nos hace justos, y esto lo confirman la misma ley y los profetas:"
           ],
@@ -841,7 +1017,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 22,
+          "verse_numbers": [
+            22
+          ],
           "lines": [
             "por medio de la fe en Jesucristo, Dios hace justos a todos los que creen. Pues no hay diferencia:"
           ],
@@ -849,7 +1027,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 23,
+          "verse_numbers": [
+            23
+          ],
           "lines": [
             "todos han pecado y están lejos de la presencia gloriosa de Dios."
           ],
@@ -857,7 +1037,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 24,
+          "verse_numbers": [
+            24
+          ],
           "lines": [
             "Pero Dios, en su bondad y gratuitamente, los hace justos, mediante la liberación que realizó Cristo Jesús."
           ],
@@ -865,7 +1047,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 25,
+          "verse_numbers": [
+            25
+          ],
           "lines": [
             "Dios hizo que Cristo, al derramar su sangre, fuera el instrumento del perdón. Este perdón se alcanza por la fe. Así quería Dios mostrar cómo nos hace justos: perdonando los pecados que habíamos cometido antes,"
           ],
@@ -873,7 +1057,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 26,
+          "verse_numbers": [
+            26
+          ],
           "lines": [
             "porque él es paciente. Él quería mostrar en el tiempo presente cómo nos hace justos; pues así como él es justo, hace justos a los que creen en Jesús."
           ],
@@ -881,7 +1067,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 27,
+          "verse_numbers": [
+            27
+          ],
           "lines": [
             "¿Dónde, pues, queda el orgullo del hombre ante Dios? ¡Queda eliminado! ¿Por qué razón? No por haber cumplido la ley, sino por haber creído."
           ],
@@ -889,7 +1077,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 28,
+          "verse_numbers": [
+            28
+          ],
           "lines": [
             "Así llegamos a esta conclusión: que Dios hace justo al hombre por la fe, independientemente del cumplimiento de la ley."
           ],
@@ -897,7 +1087,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 29,
+          "verse_numbers": [
+            29
+          ],
           "lines": [
             "¿Acaso Dios es solamente Dios de los judíos? ¿No lo es también de todas las naciones? ¡Claro está que lo es también de todas las naciones,"
           ],
@@ -905,7 +1097,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 30,
+          "verse_numbers": [
+            30
+          ],
           "lines": [
             "pues no hay más que un Dios: el Dios que hace justos a los que tienen fe, sin tomar en cuenta si están o no están circuncidados!"
           ],
@@ -913,7 +1107,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 31,
+          "verse_numbers": [
+            31
+          ],
           "lines": [
             "Entonces, ¿con la fe le quitamos el valor a la ley? ¡Claro que no! Más bien afirmamos el valor de la ley."
           ],
@@ -951,7 +1147,7 @@
       "items": [
         {
           "type": "section2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "(4.1-25)"
           ],
@@ -959,7 +1155,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "La fe de Abraham"
           ],
@@ -967,7 +1163,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Pero entonces, ¿qué diremos que ganó Abraham, nuestro antepasado?"
           ],
@@ -975,7 +1173,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "En realidad, si Abraham hubiera sido reconocido como justo a causa de sus propios hechos, tendría razón para gloriarse, aunque no delante de Dios."
           ],
@@ -983,7 +1183,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "Pues la Escritura dice: «Abraham creyó a Dios, y por eso Dios le tuvo esto en cuenta y lo reconoció como justo.»"
           ],
@@ -991,7 +1193,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "Ahora bien, si alguno trabaja, el pago no se le da como un regalo sino como algo merecido."
           ],
@@ -999,7 +1203,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "En cambio, si alguno cree en Dios, que hace justo al pecador, Dios le tiene en cuenta su fe para reconocerlo como justo, aunque no haya hecho nada que merezca su favor."
           ],
@@ -1007,7 +1213,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "David mismo habló de la dicha de aquel a quien Dios reconoce como justo sin tomarle en cuenta sus hechos."
           ],
@@ -1015,7 +1223,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "Dijo David:",
             "«¡Dichosos aquellos a quienes Dios perdona sus maldades y pasa por alto sus pecados!"
@@ -1024,7 +1234,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "¡Dichoso el hombre a quien el Señor no toma en cuenta su pecado!»"
           ],
@@ -1032,7 +1244,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "¿Será que esta dicha corresponde solamente a los que están circuncidados, o corresponderá también a los que no lo están? Hemos dicho que Dios tuvo en cuenta la fe de Abraham para reconocerlo como justo."
           ],
@@ -1040,7 +1254,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "Pero ¿cuándo se la tuvo en cuenta? ¿Después de que Abraham fue circuncidado, o antes? No después, sino antes."
           ],
@@ -1048,7 +1264,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Y después Abraham fue circuncidado, como señal o sello de que Dios ya lo había reconocido como justo por causa de su fe. De este modo, Abraham ha venido a ser también el padre de todos los que tienen fe, aunque no hayan sido circuncidados; y así Dios los reconoce igualmente a ellos como justos."
           ],
@@ -1056,7 +1274,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Y Abraham es también el padre de quienes, además de estar circuncidados, siguen el ejemplo de aquella fe que nuestro antepasado ya tenía cuando aún no estaba circuncidado."
           ],
@@ -1064,7 +1284,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "La promesa para sus descendientes"
           ],
@@ -1072,7 +1292,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Pues Dios prometió a Abraham y a sus descendientes que recibirían el mundo como herencia; pero esta promesa no estaba condicionada al cumplimiento de la ley, sino a la justicia que se basa en la fe."
           ],
@@ -1080,7 +1302,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Pues si los que han de recibir la herencia son los que se basan en la ley, entonces la fe resultaría cosa inútil y la promesa de Dios perdería su valor."
           ],
@@ -1088,7 +1312,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "Porque la ley trae castigo; pero donde no hay ley, tampoco hay faltas contra la ley."
           ],
@@ -1096,7 +1322,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "Por eso, para que la promesa hecha a Abraham conservara su valor para todos sus descendientes, fue un don gratuito, basado en la fe. Es decir, la promesa no es solamente para los que se basan en la ley, sino también para todos los que se basan en la fe, como Abraham. De esa manera, él viene a ser padre de todos nosotros,"
           ],
@@ -1104,7 +1332,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "como dice la Escritura: «Te he hecho padre de muchas naciones.» Este es el Dios en quien Abraham creyó, el Dios que da vida a los muertos y crea las cosas que aún no existen."
           ],
@@ -1112,7 +1342,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 18,
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "Cuando ya no había esperanza, Abraham creyó y tuvo esperanza, y así vino a ser «padre de muchas naciones», conforme a lo que Dios le había dicho: «Así será el número de tus descendientes.»"
           ],
@@ -1120,7 +1352,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 19,
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "La fe de Abraham no se debilitó, aunque ya tenía casi cien años de edad y se daba cuenta de que tanto él como Sara ya estaban casi muertos, y que eran demasiado viejos para tener hijos."
           ],
@@ -1128,7 +1362,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 20,
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "No dudó ni desconfió de la promesa de Dios, sino que tuvo una fe más fuerte. Alabó a Dios,"
           ],
@@ -1136,7 +1372,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 21,
+          "verse_numbers": [
+            21
+          ],
           "lines": [
             "plenamente convencido de que Dios tiene poder para cumplir lo que promete."
           ],
@@ -1144,7 +1382,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 22,
+          "verse_numbers": [
+            22
+          ],
           "lines": [
             "Por eso, Dios le tuvo esto en cuenta y lo reconoció como justo.,"
           ],
@@ -1152,7 +1392,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 23,
+          "verse_numbers": [
+            23
+          ],
           "lines": [
             "Y esto de que Dios se lo tuvo en cuenta, no se escribió solamente de Abraham;"
           ],
@@ -1160,7 +1402,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 24,
+          "verse_numbers": [
+            24
+          ],
           "lines": [
             "se escribió también de nosotros. Pues Dios también nos tiene en cuenta la fe, si creemos en aquel que resucitó a Jesús, nuestro Señor,"
           ],
@@ -1168,7 +1412,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 25,
+          "verse_numbers": [
+            25
+          ],
           "lines": [
             "que fue entregado a la muerte por nuestros pecados y resucitado para hacernos justos."
           ],
@@ -1206,7 +1452,7 @@
       "items": [
         {
           "type": "section2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "(5.1-21)"
           ],
@@ -1214,7 +1460,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "La prueba de que Dios nos ama"
           ],
@@ -1222,7 +1468,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Puesto que Dios ya nos ha hecho justos gracias a la fe, tenemos paz con Dios por medio de nuestro Señor Jesucristo."
           ],
@@ -1230,7 +1478,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "Pues por Cristo hemos podido acercarnos a Dios por medio de la fe, para gozar de su favor, y estamos firmes, y nos gloriamos con la esperanza de tener parte en la gloria de Dios."
           ],
@@ -1238,7 +1488,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "Y no solo esto, sino que también nos gloriamos de los sufrimientos; porque sabemos que el sufrimiento nos da firmeza para soportar,"
           ],
@@ -1246,7 +1498,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "y esta firmeza nos permite salir aprobados, y el salir aprobados nos llena de esperanza."
           ],
@@ -1254,7 +1508,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Y esta esperanza no nos defrauda, porque Dios ha llenado con su amor nuestro corazón por medio del Espíritu Santo que nos ha dado."
           ],
@@ -1262,7 +1518,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "Pues cuando nosotros éramos incapaces de salvarnos, Cristo, a su debido tiempo, murió por los pecadores."
           ],
@@ -1270,7 +1528,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "No es fácil que alguien se deje matar en lugar de otra persona. Ni siquiera en lugar de una persona justa; aunque quizás alguien estaría dispuesto a morir por la persona que le haya hecho un gran bien."
           ],
@@ -1278,7 +1538,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "Pero Dios prueba que nos ama, en que, cuando todavía éramos pecadores, Cristo murió por nosotros."
           ],
@@ -1286,7 +1548,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Y ahora, después que Dios nos ha hecho justos mediante la muerte de Cristo, con mayor razón seremos salvados del castigo final por medio de él."
           ],
@@ -1294,7 +1558,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "Porque si Dios, cuando todavía éramos sus enemigos, nos reconcilió consigo mismo mediante la muerte de su Hijo, con mayor razón seremos salvados por su vida, ahora que ya estamos reconciliados con él."
           ],
@@ -1302,7 +1568,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Y no solo esto, sino que también nos gloriamos en Dios mediante nuestro Señor Jesucristo, pues por Cristo hemos recibido ahora la reconciliación."
           ],
@@ -1310,7 +1578,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Adán y Jesucristo"
           ],
@@ -1318,7 +1586,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Así pues, por medio de un solo hombre entró el pecado en el mundo y por el pecado entró la muerte, y así la muerte pasó a todos porque todos pecaron."
           ],
@@ -1326,7 +1596,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Antes que hubiera ley, ya había pecado en el mundo; aunque el pecado no se toma en cuenta cuando no hay ley."
           ],
@@ -1334,7 +1606,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Sin embargo, desde el tiempo de Adán hasta el de Moisés, la muerte reinó sobre los que pecaron, aunque el pecado de estos no consistió en desobedecer un mandato, como hizo Adán, el cual fue figura de aquel que había de venir."
           ],
@@ -1342,7 +1616,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "Pero el delito de Adán no puede compararse con el don que Dios nos ha dado. Pues por el delito de un solo hombre, muchos murieron; pero el don que Dios nos ha dado gratuitamente por medio de un solo hombre, Jesucristo, es mucho mayor y en bien de muchos."
           ],
@@ -1350,7 +1626,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "El pecado de un solo hombre no puede compararse con el don de Dios, pues por un solo pecado vino la condenación; pero el don de Dios, a partir de muchos pecados, hace justos a los hombres."
           ],
@@ -1358,7 +1636,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "Pues si la muerte reinó como resultado del delito de un solo hombre, con mayor razón aquellos a quienes Dios, en su gran bondad y gratuitamente, hace justos, reinarán en la nueva vida mediante un solo hombre, Jesucristo."
           ],
@@ -1366,7 +1646,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 18,
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "Y así como el delito de Adán puso bajo condenación a todos los hombres, así también el acto justo de Jesucristo hace justos a todos los hombres para que tengan vida."
           ],
@@ -1374,7 +1656,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 19,
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "Es decir, que por la desobediencia de un solo hombre, muchos fueron hechos pecadores; pero, de la misma manera, por la obediencia de un solo hombre, muchos serán hechos justos."
           ],
@@ -1382,7 +1666,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 20,
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "La ley se añadió para que aumentara el pecado; pero cuando el pecado aumentó, Dios se mostró aún más bondadoso."
           ],
@@ -1390,7 +1676,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 21,
+          "verse_numbers": [
+            21
+          ],
           "lines": [
             "Y así como el pecado reinó trayendo la muerte, así también la bondad de Dios reinó haciéndonos justos y dándonos vida eterna mediante nuestro Señor Jesucristo."
           ],
@@ -1428,7 +1716,7 @@
       "items": [
         {
           "type": "section2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "(6.1-23)"
           ],
@@ -1436,7 +1724,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "En el bautismo nos unimos a Cristo"
           ],
@@ -1444,7 +1732,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "¿Qué diremos entonces? ¿Vamos a seguir pecando para que Dios se muestre aún más bondadoso?"
           ],
@@ -1452,7 +1742,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "¡Claro que no! Nosotros ya hemos muerto respecto al pecado; ¿cómo, pues, podremos seguir viviendo en pecado?"
           ],
@@ -1460,7 +1752,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "¿No saben ustedes que, al quedar unidos a Cristo Jesús en el bautismo, quedamos unidos a su muerte?"
           ],
@@ -1468,7 +1762,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "Pues por el bautismo fuimos sepultados con Cristo, y morimos para ser resucitados y vivir una vida nueva, así como Cristo fue resucitado por el glorioso poder del Padre."
           ],
@@ -1476,7 +1772,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Si nos hemos unido a Cristo en una muerte como la suya, también nos uniremos a él en su resurrección."
           ],
@@ -1484,7 +1782,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "Sabemos que lo que antes éramos fue crucificado con Cristo, para que el poder de nuestra naturaleza pecadora quedara destruido y ya no siguiéramos siendo esclavos del pecado."
           ],
@@ -1492,7 +1792,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "Porque, cuando uno muere, queda libre del pecado."
           ],
@@ -1500,7 +1802,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "Si nosotros hemos muerto con Cristo, confiamos en que también viviremos con él."
           ],
@@ -1508,7 +1812,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Sabemos que Cristo, habiendo resucitado, no volverá a morir. La muerte ya no tiene poder sobre él."
           ],
@@ -1516,7 +1822,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "Pues Cristo, al morir, murió de una vez para siempre respecto al pecado; pero al vivir, vive para Dios."
           ],
@@ -1524,7 +1832,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Así también, ustedes considérense muertos respecto al pecado, pero vivos para Dios en unión con Cristo Jesús."
           ],
@@ -1532,7 +1842,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Por lo tanto, no dejen ustedes que el pecado siga dominando en su cuerpo mortal y que los siga obligando a obedecer los deseos del cuerpo."
           ],
@@ -1540,7 +1852,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "No entreguen su cuerpo al pecado, como instrumento para hacer lo malo. Al contrario, entréguense a Dios, como personas que han muerto y han vuelto a vivir, y entréguenle su cuerpo como instrumento para hacer lo que es justo ante él."
           ],
@@ -1548,7 +1862,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Así el pecado ya no tendrá poder sobre ustedes, pues no están sujetos a la ley sino a la bondad de Dios."
           ],
@@ -1556,7 +1872,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Comparación con la esclavitud"
           ],
@@ -1564,7 +1880,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "¿Entonces qué? ¿Vamos a pecar porque no estamos sujetos a la ley sino a la bondad de Dios? ¡Claro que no!"
           ],
@@ -1572,7 +1890,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "Ustedes saben muy bien que si se entregan como esclavos a un amo para obedecerlo, entonces son esclavos de ese amo a quien obedecen. Y esto es así, tanto si obedecen al pecado, lo cual lleva a la muerte, como si obedecen a Dios para vivir en la justicia."
           ],
@@ -1580,7 +1900,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "Pero gracias a Dios que ustedes, que antes eran esclavos del pecado, ya han obedecido de corazón a la forma de enseñanza que han recibido."
           ],
@@ -1588,7 +1910,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 18,
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "Una vez libres de la esclavitud del pecado, ustedes han entrado al servicio de la justicia."
           ],
@@ -1596,7 +1920,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 19,
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "(Hablo en términos humanos, porque ustedes, por su debilidad, no pueden entender bien estas cosas.) De modo que, así como antes entregaron su cuerpo al servicio de la impureza y la maldad para hacer lo malo, entreguen también ahora su cuerpo al servicio de la justicia, con el fin de llevar una vida santa."
           ],
@@ -1604,7 +1930,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 20,
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "Cuando ustedes todavía eran esclavos del pecado, no estaban al servicio de la justicia;"
           ],
@@ -1612,7 +1940,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 21,
+          "verse_numbers": [
+            21
+          ],
           "lines": [
             "pero ¿qué provecho sacaron entonces? Ahora ustedes se avergüenzan de esas cosas, pues solo llevan a la muerte."
           ],
@@ -1620,7 +1950,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 22,
+          "verse_numbers": [
+            22
+          ],
           "lines": [
             "Pero ahora, libres de la esclavitud del pecado, han entrado al servicio de Dios. Esto sí les es provechoso, pues el resultado es la vida santa y, finalmente, la vida eterna."
           ],
@@ -1628,7 +1960,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 23,
+          "verse_numbers": [
+            23
+          ],
           "lines": [
             "El pago que da el pecado es la muerte, pero el don de Dios es vida eterna en unión con Cristo Jesús, nuestro Señor."
           ],
@@ -1666,7 +2000,7 @@
       "items": [
         {
           "type": "section2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "(7.1-13)"
           ],
@@ -1674,7 +2008,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Comparación con el matrimonio"
           ],
@@ -1682,7 +2016,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Hermanos, ustedes conocen la ley, y saben que la ley solamente tiene poder sobre una persona mientras esa persona vive."
           ],
@@ -1690,7 +2026,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "Por ejemplo, una mujer casada está ligada por ley a su esposo mientras este vive; pero si el esposo muere, la mujer queda libre de la ley que la ligaba a él."
           ],
@@ -1698,7 +2036,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "De modo que si ella se une a otro hombre mientras el esposo vive, comete adulterio, pero si el esposo muere, ella queda libre de esa ley, y puede unirse a otro hombre sin cometer adulterio."
           ],
@@ -1706,7 +2046,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "Así también, ustedes, hermanos míos, al incorporarse a Cristo han muerto con él a la ley, para quedar unidos a otro, es decir, a aquel que después de morir resucitó. De este modo, podremos dar una cosecha agradable a Dios."
           ],
@@ -1714,7 +2056,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Porque cuando vivíamos como pecadores, la ley sirvió para despertar en nuestro cuerpo los malos deseos, y lo único que cosechamos fue la muerte."
           ],
@@ -1722,7 +2066,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "Pero ahora hemos muerto a la ley que nos tenía bajo su poder, quedando así libres para servir a Dios en la nueva vida del Espíritu y no bajo una ley ya anticuada."
           ],
@@ -1730,7 +2076,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "El pecado se aprovechó de la ley"
           ],
@@ -1738,7 +2084,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "¿Vamos a decir por esto que la ley es pecado? ¡Claro que no! Sin embargo, de no ser por la ley, yo no hubiera sabido lo que es el pecado. Jamás habría sabido lo que es codiciar, si la ley no hubiera dicho: «No codicies.»"
           ],
@@ -1746,7 +2094,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "Pero el pecado se aprovechó de esto, y valiéndose del propio mandamiento despertó en mí toda clase de malos deseos. Pues mientras no hay ley, el pecado es cosa muerta."
           ],
@@ -1754,7 +2104,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Hubo un tiempo en que, sin la ley, yo tenía vida; pero cuando vino el mandamiento, cobró vida el pecado,"
           ],
@@ -1762,7 +2114,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "y yo morí. Así resultó que aquel mandamiento que debía darme la vida, me llevó a la muerte,"
           ],
@@ -1770,7 +2124,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "porque el pecado se aprovechó del mandamiento y me engañó, y con el mismo mandamiento me dio muerte."
           ],
@@ -1778,7 +2134,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "En resumen, la ley en sí misma es santa, y el mandamiento es santo, justo y bueno."
           ],
@@ -1786,7 +2144,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Pero entonces, ¿esto que es bueno me llevó a la muerte? ¡Claro que no! Lo que pasa es que el pecado, para demostrar que verdaderamente es pecado, me causó la muerte valiéndose de lo bueno. Y así, por medio del mandamiento, quedó demostrado lo terriblemente malo que es el pecado."
           ],
@@ -1794,7 +2154,7 @@
         },
         {
           "type": "section2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "(7.14-25)"
           ],
@@ -1802,7 +2162,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Sabemos que la ley es espiritual, pero yo soy débil, vendido como esclavo al pecado."
           ],
@@ -1810,7 +2172,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "No entiendo el resultado de mis acciones, pues no hago lo que quiero, y en cambio aquello que odio es precisamente lo que hago."
           ],
@@ -1818,7 +2182,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "Pero si lo que hago es lo que no quiero hacer, reconozco con ello que la ley es buena."
           ],
@@ -1826,7 +2192,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "Así que ya no soy yo quien lo hace, sino el pecado que está en mí."
           ],
@@ -1834,7 +2202,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 18,
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "Porque yo sé que en mí, es decir, en mi naturaleza débil, no reside el bien; pues aunque tengo el deseo de hacer lo bueno, no soy capaz de hacerlo."
           ],
@@ -1842,7 +2212,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 19,
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "No hago lo bueno que quiero hacer, sino lo malo que no quiero hacer."
           ],
@@ -1850,7 +2222,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 20,
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "Ahora bien, si hago lo que no quiero hacer, ya no soy yo quien lo hace, sino el pecado que está en mí."
           ],
@@ -1858,7 +2232,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 21,
+          "verse_numbers": [
+            21
+          ],
           "lines": [
             "Me doy cuenta de que, aun queriendo hacer el bien, solamente encuentro el mal a mi alcance."
           ],
@@ -1866,7 +2242,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 22,
+          "verse_numbers": [
+            22
+          ],
           "lines": [
             "En mi interior me gusta la ley de Dios,"
           ],
@@ -1874,7 +2252,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 23,
+          "verse_numbers": [
+            23
+          ],
           "lines": [
             "pero veo en mí algo que se opone a mi capacidad de razonar: es la ley del pecado, que está en mí y que me tiene preso."
           ],
@@ -1882,7 +2262,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 24,
+          "verse_numbers": [
+            24
+          ],
           "lines": [
             "¡Desdichado de mí! ¿Quién me librará del poder de la muerte que está en mi cuerpo?"
           ],
@@ -1890,7 +2272,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 25,
+          "verse_numbers": [
+            25
+          ],
           "lines": [
             "Solamente Dios, a quien doy gracias por medio de nuestro Señor Jesucristo. En conclusión: yo entiendo que debo someterme a la ley de Dios, pero en mi debilidad estoy sometido a la ley del pecado."
           ],
@@ -1928,7 +2312,7 @@
       "items": [
         {
           "type": "section2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "(8.1-39)"
           ],
@@ -1936,7 +2320,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Así pues, ahora ya no hay ninguna condenación para los que están unidos a Cristo Jesús,"
           ],
@@ -1944,7 +2330,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "porque la ley del Espíritu que da vida en Cristo Jesús, te liberó de la ley del pecado y de la muerte."
           ],
@@ -1952,7 +2340,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "Porque Dios ha hecho lo que la ley de Moisés no pudo hacer, pues no era capaz de hacerlo debido a la debilidad humana: Dios envió a su propio Hijo en condición débil como la del hombre pecador y como sacrificio por el pecado, para de esta manera condenar al pecado en esa misma condición débil."
           ],
@@ -1960,7 +2350,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "Lo hizo para que nosotros podamos cumplir con las justas exigencias de la ley, pues ya no vivimos según las inclinaciones de la naturaleza débil sino según el Espíritu."
           ],
@@ -1968,7 +2360,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Los que viven según las inclinaciones de la naturaleza débil, solo se preocupan por seguirlas; pero los que viven conforme al Espíritu, se preocupan por las cosas del Espíritu."
           ],
@@ -1976,7 +2370,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "Y preocuparse por seguir las inclinaciones de la naturaleza débil lleva a la muerte; pero preocuparse por las cosas del Espíritu lleva a la vida y a la paz."
           ],
@@ -1984,7 +2380,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "Los que se preocupan por seguir las inclinaciones de la naturaleza débil son enemigos de Dios, porque ni quieren ni pueden someterse a su ley."
           ],
@@ -1992,7 +2390,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "Por eso, los que viven según las inclinaciones de la naturaleza débil no pueden agradar a Dios."
           ],
@@ -2000,7 +2400,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Pero ustedes ya no viven según esas inclinaciones, sino según el Espíritu, puesto que el Espíritu de Dios vive en ustedes. El que no tiene el Espíritu de Cristo, no es de Cristo."
           ],
@@ -2008,7 +2410,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "Pero si Cristo vive en ustedes, el espíritu vive porque Dios los ha hecho justos, aun cuando el cuerpo esté destinado a la muerte por causa del pecado."
           ],
@@ -2016,7 +2420,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Y si el Espíritu de aquel que resucitó a Jesús vive en ustedes, el mismo que resucitó a Cristo dará nueva vida a sus cuerpos mortales por medio del Espíritu de Dios que vive en ustedes."
           ],
@@ -2024,7 +2430,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Así pues, hermanos, tenemos una obligación, pero no es la de vivir según las inclinaciones de la naturaleza débil."
           ],
@@ -2032,7 +2440,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Porque si viven ustedes conforme a tales inclinaciones, morirán; pero si por medio del Espíritu hacen ustedes morir esas inclinaciones, vivirán."
           ],
@@ -2040,7 +2450,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Todos los que son guiados por el Espíritu de Dios, son hijos de Dios."
           ],
@@ -2048,7 +2460,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "Pues ustedes no han recibido un espíritu de esclavitud que los lleve otra vez a tener miedo, sino el Espíritu que los hace hijos de Dios. Por este Espíritu nos dirigimos a Dios, diciendo: «¡Abbá! ¡Padre!»"
           ],
@@ -2056,7 +2470,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "Y este mismo Espíritu se une a nuestro espíritu para dar testimonio de que ya somos hijos de Dios."
           ],
@@ -2064,7 +2480,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "Y puesto que somos sus hijos, también tendremos parte en la herencia que Dios nos ha prometido, la cual compartiremos con Cristo, puesto que sufrimos con él para estar también con él en su gloria."
           ],
@@ -2072,7 +2490,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "La esperanza de la gloria"
           ],
@@ -2080,7 +2498,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 18,
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "Considero que los sufrimientos del tiempo presente no son nada si los comparamos con la gloria que habremos de ver después."
           ],
@@ -2088,7 +2508,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 19,
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "La creación espera con gran impaciencia el momento en que se manifieste claramente que somos hijos de Dios."
           ],
@@ -2096,7 +2518,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 20,
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "Porque la creación perdió su verdadera finalidad, no por su propia voluntad, sino porque Dios así lo había dispuesto; pero le quedaba siempre la esperanza"
           ],
@@ -2104,7 +2528,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 21,
+          "verse_numbers": [
+            21
+          ],
           "lines": [
             "de ser liberada de la esclavitud y la destrucción, para alcanzar la gloriosa libertad de los hijos de Dios."
           ],
@@ -2112,7 +2538,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 22,
+          "verse_numbers": [
+            22
+          ],
           "lines": [
             "Sabemos que hasta ahora la creación entera se queja y sufre como una mujer con dolores de parto."
           ],
@@ -2120,7 +2548,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 23,
+          "verse_numbers": [
+            23
+          ],
           "lines": [
             "Y no solo ella sufre, sino también nosotros, que ya tenemos el Espíritu como anticipo de lo que vamos a recibir. Sufrimos profundamente, esperando el momento de ser adoptados como hijos de Dios, con lo cual serán liberados nuestros cuerpos."
           ],
@@ -2128,7 +2558,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 24,
+          "verse_numbers": [
+            24
+          ],
           "lines": [
             "Con esa esperanza hemos sido salvados. Solo que esperar lo que ya se está viendo no es esperanza, pues, ¿quién espera lo que ya está viendo?"
           ],
@@ -2136,7 +2568,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 25,
+          "verse_numbers": [
+            25
+          ],
           "lines": [
             "Pero si lo que esperamos es algo que todavía no vemos, tenemos que esperarlo sufriendo con firmeza."
           ],
@@ -2144,7 +2578,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 26,
+          "verse_numbers": [
+            26
+          ],
           "lines": [
             "De igual manera, el Espíritu nos ayuda en nuestra debilidad. Porque no sabemos orar como es debido, pero el Espíritu mismo ruega a Dios por nosotros, con gemidos que no pueden expresarse con palabras."
           ],
@@ -2152,7 +2588,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 27,
+          "verse_numbers": [
+            27
+          ],
           "lines": [
             "Y Dios, que examina los corazones, sabe qué es lo que el Espíritu quiere decir, porque el Espíritu ruega, conforme a la voluntad de Dios, por los del pueblo santo."
           ],
@@ -2160,7 +2598,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "La obra salvadora de Dios"
           ],
@@ -2168,7 +2606,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 28,
+          "verse_numbers": [
+            28
+          ],
           "lines": [
             "Sabemos que Dios dispone todas las cosas para el bien de quienes lo aman, a los cuales él ha llamado de acuerdo con su propósito."
           ],
@@ -2176,7 +2616,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 29,
+          "verse_numbers": [
+            29
+          ],
           "lines": [
             "A los que de antemano Dios había conocido, los destinó desde un principio a ser como su Hijo, para que su Hijo fuera el primero entre muchos hermanos."
           ],
@@ -2184,7 +2626,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 30,
+          "verse_numbers": [
+            30
+          ],
           "lines": [
             "Y a los que Dios destinó desde un principio, también los llamó; y a los que llamó, los hizo justos; y a los que hizo justos, les dio parte en su gloria."
           ],
@@ -2192,7 +2636,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 31,
+          "verse_numbers": [
+            31
+          ],
           "lines": [
             "¿Qué más podremos decir? ¡Que si Dios está a nuestro favor, nadie podrá estar contra nosotros!"
           ],
@@ -2200,7 +2646,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 32,
+          "verse_numbers": [
+            32
+          ],
           "lines": [
             "Si Dios no nos negó ni a su propio Hijo, sino que lo entregó a la muerte por todos nosotros, ¿cómo no habrá de darnos también, junto con su Hijo, todas las cosas?"
           ],
@@ -2208,7 +2656,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 33,
+          "verse_numbers": [
+            33
+          ],
           "lines": [
             "¿Quién podrá acusar a los que Dios ha escogido? Dios es quien los hace justos."
           ],
@@ -2216,7 +2666,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 34,
+          "verse_numbers": [
+            34
+          ],
           "lines": [
             "¿Quién podrá condenarlos? Cristo Jesús es quien murió; todavía más, quien resucitó y está a la derecha de Dios, rogando por nosotros."
           ],
@@ -2224,7 +2676,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 35,
+          "verse_numbers": [
+            35
+          ],
           "lines": [
             "¿Quién nos podrá separar del amor de Cristo? ¿El sufrimiento, o las dificultades, o la persecución, o el hambre, o la falta de ropa, o el peligro, o la muerte violenta?"
           ],
@@ -2232,7 +2686,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 36,
+          "verse_numbers": [
+            36
+          ],
           "lines": [
             "Como dice la Escritura:",
             "«Por causa tuya estamos siempre expuestos a la muerte;",
@@ -2242,7 +2698,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 37,
+          "verse_numbers": [
+            37
+          ],
           "lines": [
             "Pero en todo esto salimos más que vencedores por medio de aquel que nos amó."
           ],
@@ -2250,7 +2708,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 38,
+          "verse_numbers": [
+            38
+          ],
           "lines": [
             "Estoy convencido de que nada podrá separarnos del amor de Dios: ni la muerte, ni la vida, ni los ángeles, ni los poderes y fuerzas espirituales, ni lo presente, ni lo futuro,"
           ],
@@ -2258,7 +2718,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 39,
+          "verse_numbers": [
+            39
+          ],
           "lines": [
             "ni lo más alto, ni lo más profundo, ni ninguna otra de las cosas creadas por Dios. ¡Nada podrá separarnos del amor que Dios nos ha mostrado en Cristo Jesús nuestro Señor!"
           ],
@@ -2296,7 +2758,7 @@
       "items": [
         {
           "type": "section2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "(9.1—11.36)"
           ],
@@ -2304,7 +2766,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Los privilegios de Israel"
           ],
@@ -2312,7 +2774,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Como creyente que soy en Cristo, estoy diciendo la verdad, no miento. Además, mi conciencia, guiada por el Espíritu Santo, me asegura que esto es verdad:"
           ],
@@ -2320,7 +2784,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "tengo una gran tristeza y en mi corazón hay un dolor continuo,"
           ],
@@ -2328,7 +2794,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "pues hasta quisiera estar yo mismo bajo maldición, separado de Cristo, si así pudiera favorecer a mis hermanos, los de mi propia raza."
           ],
@@ -2336,7 +2804,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "Son descendientes de Israel, y Dios los adoptó como hijos. Dios estuvo entre ellos con su presencia gloriosa, y les dio las alianzas, la ley de Moisés, el culto y las promesas."
           ],
@@ -2344,7 +2814,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Son descendientes de nuestros antepasados; y de su raza, en cuanto a lo humano, vino el Mesías, el cual es Dios sobre todas las cosas, alabado por siempre. Amén."
           ],
@@ -2352,7 +2824,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "Pero no es que las promesas de Dios a Israel hayan perdido su validez; más bien es que no todos los descendientes de Israel son verdadero pueblo de Israel."
           ],
@@ -2360,7 +2834,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "No todos los descendientes de Abraham son verdaderamente sus hijos, sino que Dios le había dicho: «Tu descendencia vendrá por medio de Isaac.»"
           ],
@@ -2368,7 +2844,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "Esto nos da a entender que nadie es hijo de Dios solamente por pertenecer a cierta raza; al contrario, solo a quienes son hijos en cumplimiento de la promesa de Dios, se les considera verdaderos descendientes."
           ],
@@ -2376,7 +2854,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Porque esta es la promesa que Dios hizo a Abraham: «Por este tiempo volveré, y Sara tendrá un hijo.»"
           ],
@@ -2384,16 +2864,29 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
-            "Pero eso no es todo. Los dos hijos de Rebeca eran de un mismo padre, nuestro antepasado Isaac,",
+            "Pero eso no es todo. Los dos hijos de Rebeca eran de un mismo padre, nuestro antepasado Isaac,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11,
+            12,
+            13
+          ],
+          "lines": [
             "y antes que ellos nacieran, cuando aún no habían hecho nada, ni bueno ni malo, Dios anunció a Rebeca: «El mayor será siervo del menor.» Lo cual también está de acuerdo con la Escritura que dice: «Amé a Jacob y aborrecí a Esaú.» Así quedó confirmado el derecho que Dios tiene de escoger, de acuerdo con su propósito, a los que quiere llamar, sin tomar en cuenta lo que hayan hecho."
           ],
           "rlw_lines": []
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Autonomía de Dios"
           ],
@@ -2401,7 +2894,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "¿Diremos por eso que Dios es injusto? ¡Claro que no!"
           ],
@@ -2409,7 +2904,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "Porque Dios dijo a Moisés: «Tendré misericordia de quien yo quiera, y tendré compasión también de quien yo quiera.»"
           ],
@@ -2417,7 +2914,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "Así pues, no depende de que el hombre quiera o se esfuerce, sino de que Dios tenga compasión."
           ],
@@ -2425,7 +2924,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "Pues en la Escritura Dios le dice al rey de Egipto: «Te hice rey precisamente para mostrar en ti mi poder y para darme a conocer en toda la tierra.»"
           ],
@@ -2433,7 +2934,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 18,
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "De manera que Dios tiene compasión de quien él quiere tenerla, y también le endurece el corazón a quien él quiere endurecérselo."
           ],
@@ -2441,7 +2944,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 19,
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "Pero me dirás: «Siendo así, ¿de qué puede Dios culpar al hombre, si nadie puede oponerse a su voluntad?»"
           ],
@@ -2449,7 +2954,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 20,
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "Y tú, hombre, ¿quién eres para pedirle cuentas a Dios? ¿Acaso la olla de barro le dirá al que la hizo: «Por qué me hiciste así?»"
           ],
@@ -2457,7 +2964,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 21,
+          "verse_numbers": [
+            21
+          ],
           "lines": [
             "El alfarero tiene el derecho de hacer lo que quiera con el barro, y del mismo barro puede hacer una olla para uso especial y otra para uso común."
           ],
@@ -2465,7 +2974,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 22,
+          "verse_numbers": [
+            22
+          ],
           "lines": [
             "Dios, queriendo dar un ejemplo de castigo y mostrar su poder, soportó con mucha paciencia a aquellos que merecían el castigo e iban a la perdición."
           ],
@@ -2473,7 +2984,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 23,
+          "verse_numbers": [
+            23
+          ],
           "lines": [
             "Al mismo tiempo quiso dar a conocer en nosotros la grandeza de su gloria, pues nos tuvo compasión y nos preparó de antemano para tener parte en ella."
           ],
@@ -2481,7 +2994,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 24,
+          "verse_numbers": [
+            24
+          ],
           "lines": [
             "Así que Dios nos llamó, a unos de entre los judíos y a otros de entre los no judíos."
           ],
@@ -2489,7 +3004,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 25,
+          "verse_numbers": [
+            25
+          ],
           "lines": [
             "Como se dice en el libro de Oseas:",
             "«A los que no eran mi pueblo, los llamaré mi pueblo;",
@@ -2499,7 +3016,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 26,
+          "verse_numbers": [
+            26
+          ],
           "lines": [
             "Y en el mismo lugar donde se les dijo: “Ustedes no son mi pueblo”,",
             "serán llamados hijos del Dios viviente.»"
@@ -2508,7 +3027,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 27,
+          "verse_numbers": [
+            27
+          ],
           "lines": [
             "En cuanto a los israelitas, Isaías dijo: «Aunque los descendientes de Israel sean tan numerosos como la arena del mar, solamente un resto de ellos alcanzará la salvación,"
           ],
@@ -2516,7 +3037,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 28,
+          "verse_numbers": [
+            28
+          ],
           "lines": [
             "porque muy pronto el Señor cumplirá plenamente su palabra en todo el mundo.»"
           ],
@@ -2524,7 +3047,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 29,
+          "verse_numbers": [
+            29
+          ],
           "lines": [
             "Como el mismo Isaías había dicho antes:",
             "«Si el Señor todopoderoso no nos hubiera dejado descendencia,",
@@ -2534,7 +3059,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 30,
+          "verse_numbers": [
+            30
+          ],
           "lines": [
             "¿Qué diremos a esto? Que, por medio de la fe, Dios ha hecho justos a los paganos, que no buscaban la justicia."
           ],
@@ -2542,7 +3069,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 31,
+          "verse_numbers": [
+            31
+          ],
           "lines": [
             "En cambio, los israelitas, que querían basar su justicia en la ley, no lo lograron."
           ],
@@ -2550,7 +3079,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 32,
+          "verse_numbers": [
+            32
+          ],
           "lines": [
             "¿Por qué? Porque no se basaban en la fe, sino en sus propios hechos. Por eso tropezaron con la «piedra de tropiezo»"
           ],
@@ -2558,7 +3089,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 33,
+          "verse_numbers": [
+            33
+          ],
           "lines": [
             "que se menciona en la Escritura:",
             "«Yo pongo en Sión una roca,",
@@ -2599,7 +3132,7 @@
       "items": [
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Israel y el evangelio"
           ],
@@ -2607,7 +3140,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Hermanos, el deseo de mi corazón y mi oración a Dios por los israelitas es que alcancen la salvación."
           ],
@@ -2615,7 +3150,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "En su favor puedo decir que tienen un gran deseo de servir a Dios; solo que ese deseo no está basado en el verdadero conocimiento."
           ],
@@ -2623,7 +3160,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "Pues no reconocen que es Dios quien hace justos a los hombres, y pretenden ser justos por sí mismos; y así no se han sometido a lo que Dios estableció para hacernos justos."
           ],
@@ -2631,7 +3170,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "Porque la ley llega a su término con Cristo, y así todos por la fe pueden llegar a ser justos."
           ],
@@ -2639,7 +3180,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "De la justicia basada en la ley, Moisés escribió esto: «La persona que cumpla la ley, vivirá por ella.»"
           ],
@@ -2647,7 +3190,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "Pero de la justicia basada en la fe, se dice: «No pienses: “¿Quién subirá al cielo?” —esto es, para hacer que Cristo baje—;"
           ],
@@ -2655,7 +3200,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "o “¿Quién bajará al abismo?”» —esto es, para hacer que Cristo suba de entre los muertos."
           ],
@@ -2663,7 +3210,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "¿Qué es, pues, lo que dice?: «La palabra está cerca de ti, en tu boca y en tu corazón.» Esta palabra es el mensaje de fe que predicamos."
           ],
@@ -2671,7 +3220,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Si con tu boca reconoces a Jesús como Señor, y con tu corazón crees que Dios lo resucitó, alcanzarás la salvación."
           ],
@@ -2679,7 +3230,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "Pues con el corazón se cree para alcanzar la justicia, y con la boca se reconoce a Jesucristo para alcanzar la salvación."
           ],
@@ -2687,7 +3240,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "La Escritura dice: «El que confíe en él, no quedará defraudado.»"
           ],
@@ -2695,7 +3250,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "No hay diferencia entre los judíos y los no judíos; pues el mismo Señor es Señor de todos, y da con abundancia a todos los que lo invocan."
           ],
@@ -2703,7 +3260,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Porque esto es lo que dice: «Todos los que invoquen el nombre del Señor, alcanzarán la salvación.»"
           ],
@@ -2711,7 +3270,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Pero ¿cómo van a invocarlo, si no han creído en él? ¿Y cómo van a creer en él, si no han oído hablar de él? ¿Y cómo van a oír, si no hay quien les anuncie el mensaje?"
           ],
@@ -2719,7 +3280,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "¿Y cómo van a anunciar el mensaje, si no son enviados? Como dice la Escritura: «¡Qué hermosa es la llegada de los que traen buenas noticias!»"
           ],
@@ -2727,7 +3290,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "Pero no todos han aceptado el evangelio. Es como dice Isaías: «Señor, ¿quién ha creído al oír nuestro mensaje?»"
           ],
@@ -2735,7 +3300,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "Así pues, la fe nace al oír el mensaje, y el mensaje viene de la palabra de Cristo."
           ],
@@ -2743,7 +3310,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 18,
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "Pero yo pregunto: ¿Será tal vez que no oyeron el mensaje? ¡Claro que lo oyeron! Porque la Escritura dice:",
             "«La voz de ellos salió por toda la tierra,",
@@ -2753,7 +3322,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 19,
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "Y vuelvo a preguntar: ¿Será que los de Israel no se han dado cuenta? En primer lugar, Moisés dice:",
             "«Yo los pondré a ustedes celosos",
@@ -2765,7 +3336,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 20,
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "Luego, Isaías se atreve a decir:",
             "«Los que no me buscaban, me encontraron;",
@@ -2775,7 +3348,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 21,
+          "verse_numbers": [
+            21
+          ],
           "lines": [
             "Y al hablar de los israelitas, Isaías dice: «Todo el día extendí mis manos a un pueblo desobediente y rebelde.»"
           ],
@@ -2813,7 +3388,7 @@
       "items": [
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Los planes de Dios"
           ],
@@ -2821,7 +3396,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Ahora pregunto: ¿Será que Dios ha rechazado a su pueblo? ¡Claro que no! Yo mismo soy israelita, descendiente de Abraham y de la tribu de Benjamín."
           ],
@@ -2829,7 +3406,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "Desde el principio, Dios había reconocido a los israelitas como su pueblo; y ahora no los ha rechazado. ¿No saben ustedes que la Escritura dice en la historia del profeta Elías que este, en su oración a Dios, acusó al pueblo de Israel? Dijo:"
           ],
@@ -2837,7 +3416,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "«Señor, han matado a tus profetas y han destruido tus altares; sólo yo he quedado con vida, y a mí también me quieren matar.»"
           ],
@@ -2845,7 +3426,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "Pero Dios le contestó: «He apartado para mí siete mil hombres que no se han arrodillado ante el dios Baal.»"
           ],
@@ -2853,7 +3436,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Pues de la misma manera, ha quedado ahora un pequeño resto, que Dios, en su bondad, ha escogido."
           ],
@@ -2861,7 +3446,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "Y si es por la bondad de Dios, ya no es por los hechos; porque si así fuera, la bondad de Dios ya no sería bondad."
           ],
@@ -2869,7 +3456,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "¿Entonces qué? Los israelitas no consiguieron lo que buscaban, pero los que Dios escogió sí lo consiguieron. Los otros fueron endurecidos,"
           ],
@@ -2877,7 +3466,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "como dice la Escritura: «Dios los hizo espiritualmente insensibles, y así son hasta el día de hoy; les dio ojos que no ven y oídos que no oyen.»"
           ],
@@ -2885,7 +3476,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "También dice David:",
             "«Que sus banquetes se les vuelvan trampas y redes,",
@@ -2895,7 +3488,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "Que sus ojos se queden ciegos y no vean;",
             "que su espalda se les doble para siempre.»"
@@ -2904,7 +3499,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "La salvación de los no judíos"
           ],
@@ -2912,7 +3507,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Ahora pregunto: ¿Será que los judíos, al tropezar, cayeron por completo? ¡De ninguna manera! Al contrario, al desobedecer los judíos, los otros han podido alcanzar la salvación, para que los israelitas se pongan celosos."
           ],
@@ -2920,7 +3517,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Así que, si el tropiezo y el fracaso de los judíos han servido para enriquecer al mundo, a los que no son judíos, ¡ya podemos imaginarnos lo que será su plena restauración!"
           ],
@@ -2928,7 +3527,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Pero tengo algo que decirles a ustedes, que no son judíos. Puesto que Dios me ha enviado a los no judíos, yo tengo en gran estima este servicio."
           ],
@@ -2936,7 +3537,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Quiero que algunos de mi propia raza sientan celos de ustedes, y así llevarlos a la salvación."
           ],
@@ -2944,7 +3547,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "Pues si el rechazo de los judíos ha traído al mundo la reconciliación con Dios, ¿qué no traerá el que sean aceptados? ¡Nada menos que vida para los que estaban muertos!"
           ],
@@ -2952,7 +3557,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "Pues si el primer pan que se hace de la masa está consagrado a Dios, también lo está la masa entera. Y si la raíz del árbol está consagrada a Dios, también lo están las ramas."
           ],
@@ -2960,7 +3567,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "Al olivo, que son los judíos, se le cortaron algunas de las ramas, y en su lugar se le injertó el olivo silvestre, que eres tú. Así llegaste a tener parte en la misma raíz y en la misma vida del olivo."
           ],
@@ -2968,7 +3577,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 18,
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "Pero no te gloríes, despreciando las ramas naturales. Si lo haces, recuerda que no eres tú quien sostiene a la raíz, sino que la raíz te sostiene a ti."
           ],
@@ -2976,7 +3587,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 19,
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "Tal vez dirás: «Sí, pero se cortaron unas ramas para injertarme a mí en el olivo.»"
           ],
@@ -2984,7 +3597,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 20,
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "Bien, pero fueron cortadas porque no tenían fe, y tú estás ahí únicamente porque tienes fe. Así que no te jactes, sino más bien siente temor."
           ],
@@ -2992,7 +3607,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 21,
+          "verse_numbers": [
+            21
+          ],
           "lines": [
             "Porque si Dios no perdonó a las ramas naturales, tampoco a ti te perdonará."
           ],
@@ -3000,7 +3617,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 22,
+          "verse_numbers": [
+            22
+          ],
           "lines": [
             "Mira, pues, qué bueno es Dios, aunque también qué estricto. Ha sido estricto con los que cayeron, y ha sido bueno contigo. Pero tienes que vivir siempre de acuerdo con su bondad; pues de lo contrario también tú serás cortado."
           ],
@@ -3008,7 +3627,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 23,
+          "verse_numbers": [
+            23
+          ],
           "lines": [
             "Por otra parte, si los judíos abandonan su incredulidad, serán injertados de nuevo; pues Dios tiene poder para volver a injertarlos."
           ],
@@ -3016,7 +3637,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 24,
+          "verse_numbers": [
+            24
+          ],
           "lines": [
             "Porque si tú, que por naturaleza eras un olivo silvestre, fuiste cortado e injertado contra lo natural en el olivo bueno, ¡cuánto más los judíos, que son ramas naturales del olivo bueno, serán injertados nuevamente en su propio olivo!"
           ],
@@ -3024,7 +3647,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "La salvación final de Israel"
           ],
@@ -3032,7 +3655,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 25,
+          "verse_numbers": [
+            25
+          ],
           "lines": [
             "Hermanos, quiero que sepan este designio secreto de Dios, para que no presuman de sabios: los israelitas se han endurecido en parte, pero solo hasta que hayan entrado todos los que no son de Israel."
           ],
@@ -3040,7 +3665,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 26,
+          "verse_numbers": [
+            26
+          ],
           "lines": [
             "Cuando esto suceda, todo Israel alcanzará la salvación, pues la Escritura dice:",
             "«El libertador vendrá de Sión",
@@ -3050,7 +3677,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 27,
+          "verse_numbers": [
+            27
+          ],
           "lines": [
             "Y esta será mi alianza con ellos",
             "cuando yo quite sus pecados.»"
@@ -3059,7 +3688,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 28,
+          "verse_numbers": [
+            28
+          ],
           "lines": [
             "En cuanto al evangelio, los judíos son tenidos por enemigos de Dios a fin de darles oportunidad a ustedes; pero Dios todavía los ama a ellos, porque escogió a sus antepasados."
           ],
@@ -3067,7 +3698,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 29,
+          "verse_numbers": [
+            29
+          ],
           "lines": [
             "Pues lo que Dios da, no lo quita, ni retira tampoco su llamamiento."
           ],
@@ -3075,7 +3708,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 30,
+          "verse_numbers": [
+            30
+          ],
           "lines": [
             "En tiempos pasados, ustedes desobedecieron a Dios, pero ahora que los judíos han desobedecido, Dios tiene compasión de ustedes."
           ],
@@ -3083,7 +3718,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 31,
+          "verse_numbers": [
+            31
+          ],
           "lines": [
             "De la misma manera, ellos han desobedecido ahora, pero solamente para que Dios tenga compasión de ustedes y para que, también ahora, tenga compasión de ellos."
           ],
@@ -3091,7 +3728,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 32,
+          "verse_numbers": [
+            32
+          ],
           "lines": [
             "Porque Dios sujetó a todos por igual a la desobediencia, con el fin de tener compasión de todos por igual."
           ],
@@ -3099,7 +3738,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 33,
+          "verse_numbers": [
+            33
+          ],
           "lines": [
             "¡Qué profundas son las riquezas de Dios, y su sabiduría y entendimiento! Nadie puede explicar sus decisiones, ni llegar a comprender sus caminos."
           ],
@@ -3107,7 +3748,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 34,
+          "verse_numbers": [
+            34
+          ],
           "lines": [
             "Pues «¿quién conoce la mente del Señor? ¿Quién podrá darle consejos?"
           ],
@@ -3115,7 +3758,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 35,
+          "verse_numbers": [
+            35
+          ],
           "lines": [
             "¿Quién le ha dado algo antes, para que él tenga que devolvérselo?»"
           ],
@@ -3123,7 +3768,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 36,
+          "verse_numbers": [
+            36
+          ],
           "lines": [
             "Porque todas las cosas vienen de Dios, y existen por él y para él. ¡Gloria para siempre a Dios! Amén."
           ],
@@ -3161,7 +3808,7 @@
       "items": [
         {
           "type": "heading2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "II. PARTE EXHORTATORIA"
           ],
@@ -3169,7 +3816,7 @@
         },
         {
           "type": "section2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "(12.1—15.13)"
           ],
@@ -3177,7 +3824,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "La vida nueva"
           ],
@@ -3185,7 +3832,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Por tanto, hermanos míos, les ruego por la misericordia de Dios que se presenten ustedes mismos como ofrenda viva, santa y agradable a Dios. Este es el verdadero culto que deben ofrecer."
           ],
@@ -3193,7 +3842,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "No vivan ya según los criterios del tiempo presente; al contrario, cambien su manera de pensar para que así cambie su manera de vivir y lleguen a conocer la voluntad de Dios, es decir, lo que es bueno, lo que le es grato, lo que es perfecto."
           ],
@@ -3201,7 +3852,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "Por el encargo que Dios en su bondad me ha dado, digo a todos ustedes que ninguno piense de sí mismo más de lo que debe pensar. Antes bien, cada uno piense de sí con moderación, según los dones que Dios le haya dado junto con la fe."
           ],
@@ -3209,7 +3862,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "Porque así como en un solo cuerpo tenemos muchos miembros, y no todos los miembros sirven para lo mismo,"
           ],
@@ -3217,7 +3872,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "así también nosotros, aunque somos muchos, formamos un solo cuerpo en Cristo y estamos unidos unos a otros como miembros de un mismo cuerpo."
           ],
@@ -3225,7 +3882,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "Dios nos ha dado diferentes dones, según lo que él quiso dar a cada uno. Por lo tanto, si Dios nos ha dado el don de profecía, hablemos según la fe que tenemos;"
           ],
@@ -3233,7 +3892,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "si nos ha dado el don de servir a otros, sirvámoslos bien. El que haya recibido el don de enseñar, que se dedique a la enseñanza;"
           ],
@@ -3241,7 +3902,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "el que haya recibido el don de animar a otros, que se dedique a animarlos. El que da, hágalo con sencillez; el que ocupa un puesto de responsabilidad, desempeñe su cargo con todo cuidado; el que ayuda a los necesitados, hágalo con alegría."
           ],
@@ -3249,7 +3912,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Deberes de la vida cristiana"
           ],
@@ -3257,7 +3920,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Ámense sinceramente unos a otros. Aborrezcan lo malo y apéguense a lo bueno."
           ],
@@ -3265,7 +3930,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "Ámense como hermanos los unos a los otros, dándose preferencia y respetándose mutuamente."
           ],
@@ -3273,7 +3940,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Esfuércense, no sean perezosos y sirvan al Señor con corazón ferviente."
           ],
@@ -3281,7 +3950,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Vivan alegres por la esperanza que tienen; soporten con valor los sufrimientos; no dejen nunca de orar."
           ],
@@ -3289,7 +3960,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Hagan suyas las necesidades del pueblo santo; reciban bien a quienes los visitan."
           ],
@@ -3297,7 +3970,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Bendigan a quienes los persiguen. Bendíganlos y no los maldigan."
           ],
@@ -3305,7 +3980,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "Alégrense con los que están alegres y lloren con los que lloran."
           ],
@@ -3313,7 +3990,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "Vivan en armonía unos con otros. No sean orgullosos, sino pónganse al nivel de los humildes. No presuman de sabios."
           ],
@@ -3321,7 +4000,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "No paguen a nadie mal por mal. Procuren hacer lo bueno delante de todos."
           ],
@@ -3329,7 +4010,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 18,
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "Hasta donde dependa de ustedes, hagan cuanto puedan por vivir en paz con todos."
           ],
@@ -3337,7 +4020,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 19,
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "Queridos hermanos, no tomen venganza ustedes mismos, sino dejen que Dios sea quien castigue; porque la Escritura dice: «A mí me corresponde hacer justicia; yo pagaré, dice el Señor.»"
           ],
@@ -3345,7 +4030,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 20,
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "Y también: «Si tu enemigo tiene hambre, dale de comer; y si tiene sed, dale de beber; así harás que le arda la cara de vergüenza.»"
           ],
@@ -3353,7 +4040,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 21,
+          "verse_numbers": [
+            21
+          ],
           "lines": [
             "No te dejes vencer por el mal. Al contrario, vence con el bien el mal."
           ],
@@ -3391,7 +4080,9 @@
       "items": [
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Todos deben someterse a las personas que ejercen la autoridad. Porque no hay autoridad que no venga de Dios, y las que existen, fueron puestas por él."
           ],
@@ -3399,7 +4090,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "Así que quien se opone a la autoridad, va en contra de lo que Dios ha ordenado. Y los que se oponen serán castigados;"
           ],
@@ -3407,7 +4100,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "porque los gobernantes no están para causar miedo a los que hacen lo bueno, sino a los que hacen lo malo. ¿Quieres vivir sin miedo a la autoridad? Pues pórtate bien, y la autoridad te aprobará,"
           ],
@@ -3415,7 +4110,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "porque está al servicio de Dios para tu bien. Pero si te portas mal, entonces sí debes tener miedo; porque no en vano la autoridad lleva la espada, ya que está al servicio de Dios para dar su merecido al que hace lo malo."
           ],
@@ -3423,7 +4120,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Por lo tanto, es preciso someterse a las autoridades, no solo para evitar el castigo, sino como un deber de conciencia."
           ],
@@ -3431,7 +4130,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "También por esta razón ustedes pagan impuestos; porque las autoridades están al servicio de Dios, y a eso se dedican."
           ],
@@ -3439,7 +4140,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "Denle a cada uno lo que le corresponde. Al que deban pagar contribuciones, páguenle las contribuciones; al que deban pagar impuestos, páguenle los impuestos; al que deban respeto, respétenlo; al que deban estimación, estímenlo."
           ],
@@ -3447,7 +4150,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "No tengan deudas con nadie, aparte de la deuda de amor que tienen unos con otros; pues el que ama a su prójimo ya ha cumplido todo lo que la ley ordena."
           ],
@@ -3455,7 +4160,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Los mandamientos dicen: «No cometas adulterio, no mates, no robes, no codicies»; pero estos y los demás mandamientos quedan comprendidos en estas palabras: «Ama a tu prójimo como a ti mismo.»"
           ],
@@ -3463,7 +4170,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "El que tiene amor no hace mal al prójimo; así que en el amor se cumple perfectamente la ley."
           ],
@@ -3471,7 +4180,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "En todo esto tengan en cuenta el tiempo en que vivimos, y sepan que ya es hora de despertarnos del sueño. Porque nuestra salvación está más cerca ahora que al principio, cuando creímos en el mensaje."
           ],
@@ -3479,7 +4190,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "La noche está muy avanzada, y se acerca el día; por eso dejemos de hacer las cosas propias de la oscuridad y revistámonos de luz, como un soldado se reviste de su armadura."
           ],
@@ -3487,7 +4200,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Actuemos con decencia, como en pleno día. No andemos en banquetes y borracheras, ni en inmoralidades y vicios, ni en discordias y envidias."
           ],
@@ -3495,7 +4210,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Al contrario, revístanse ustedes del Señor Jesucristo, y no busquen satisfacer los malos deseos de la naturaleza humana."
           ],
@@ -3533,7 +4250,7 @@
       "items": [
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Normas para el caso de opiniones diversas"
           ],
@@ -3541,7 +4258,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Reciban bien al que es débil en la fe, y no entren en discusiones con él."
           ],
@@ -3549,7 +4268,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "Por ejemplo, hay quienes piensan que pueden comer de todo, mientras otros, que son débiles en la fe, comen solamente verduras."
           ],
@@ -3557,7 +4278,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "Pues bien, el que come de todo no debe menospreciar al que no come ciertas cosas; y el que no come ciertas cosas no debe criticar al que come de todo, pues Dios lo ha aceptado."
           ],
@@ -3565,7 +4288,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "¿Quién eres tú para criticar al servidor de otro? Si queda bien o queda mal, es asunto de su propio amo. Pero quedará bien, porque el Señor tiene poder para hacerlo quedar bien."
           ],
@@ -3573,7 +4298,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Otro caso: Hay quienes dan más importancia a un día que a otro, y hay quienes creen que todos los días son iguales. Cada uno debe estar convencido de lo que cree."
           ],
@@ -3581,7 +4308,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "El que guarda cierto día, para honrar al Señor lo guarda. Y el que come de todo, para honrar al Señor lo come, y da gracias a Dios; y el que no come ciertas cosas, para honrar al Señor deja de comerlas, y también da gracias a Dios."
           ],
@@ -3589,7 +4318,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "Ninguno de nosotros vive para sí mismo ni muere para sí mismo."
           ],
@@ -3597,7 +4328,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "Si vivimos, para el Señor vivimos; y si morimos, para el Señor morimos. De manera que, tanto en la vida como en la muerte, del Señor somos."
           ],
@@ -3605,7 +4338,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Para eso murió Cristo y volvió a la vida: para ser Señor tanto de los muertos como de los vivos."
           ],
@@ -3613,7 +4348,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "¿Por qué, entonces, criticas a tu hermano? ¿O tú, por qué lo desprecias? Todos tendremos que presentarnos delante de Dios, para que él nos juzgue."
           ],
@@ -3621,7 +4358,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Porque la Escritura dice:",
             "«Juro por mi vida, dice el Señor,",
@@ -3632,7 +4371,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Así pues, cada uno de nosotros tendrá que dar cuenta de sí mismo a Dios."
           ],
@@ -3640,7 +4381,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Por eso, ya no debemos criticarnos unos a otros. Al contrario, propónganse ustedes no hacer nada que sea causa de que su hermano tropiece, o que ponga en peligro su fe."
           ],
@@ -3648,7 +4391,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Yo sé que no hay nada impuro en sí mismo; como creyente en el Señor Jesús, estoy seguro de ello. Pero si alguno piensa que una cosa es impura, será impura para él."
           ],
@@ -3656,7 +4401,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "Ahora bien, si por lo que tú comes tu hermano se siente ofendido, tu conducta ya no es de amor. ¡Que tu comida no sea causa de que se pierda aquel por quien Cristo murió!"
           ],
@@ -3664,7 +4411,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "No den, pues, lugar a que se hable mal de ese bien que ustedes tienen."
           ],
@@ -3672,7 +4421,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "Porque el reino de Dios no es cuestión de comer o beber determinadas cosas, sino de vivir en justicia, paz y alegría por medio del Espíritu Santo."
           ],
@@ -3680,7 +4431,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 18,
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "El que de esta manera sirve a Cristo, agrada a Dios y es aprobado por los hombres."
           ],
@@ -3688,7 +4441,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 19,
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "Por lo tanto, busquemos todo lo que conduce a la paz y a la edificación mutua."
           ],
@@ -3696,7 +4451,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 20,
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "No eches a perder la obra de Dios por causa de la comida. En realidad, todos los alimentos son limpios; lo malo es comer algo que haga perder la fe a otros."
           ],
@@ -3704,7 +4461,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 21,
+          "verse_numbers": [
+            21
+          ],
           "lines": [
             "Es mejor no comer carne, ni beber vino, ni hacer nada que sea causa de que tu hermano tropiece."
           ],
@@ -3712,7 +4471,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 22,
+          "verse_numbers": [
+            22
+          ],
           "lines": [
             "La fe que tienes, debes tenerla tú mismo delante de Dios. ¡Dichoso aquel que usa de su libertad sin cargos de conciencia!"
           ],
@@ -3720,7 +4481,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 23,
+          "verse_numbers": [
+            23
+          ],
           "lines": [
             "Pero el que no está seguro de si debe o no comer algo, al comerlo se hace culpable, porque no lo come con la convicción que da la fe; y todo lo que no se hace con la convicción que da la fe, es pecado."
           ],
@@ -3758,7 +4521,7 @@
       "items": [
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Seguir el ejemplo de Cristo"
           ],
@@ -3766,7 +4529,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Los que somos fuertes en la fe debemos aceptar como nuestras las debilidades de los que son menos fuertes, y no buscar lo que a nosotros mismos nos agrada."
           ],
@@ -3774,7 +4539,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "Todos nosotros debemos agradar a nuestro prójimo y hacer las cosas para su bien y para la edificación mutua."
           ],
@@ -3782,7 +4549,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "Porque tampoco Cristo buscó agradarse a sí mismo; al contrario, en él se cumplió lo que dice la Escritura: «Las ofensas de los que te insultaban cayeron sobre mí.»"
           ],
@@ -3790,7 +4559,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "Todo lo que antes se dijo en las Escrituras, se escribió para nuestra instrucción, para que con constancia y con el consuelo que de ellas recibimos, tengamos esperanza."
           ],
@@ -3798,7 +4569,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Y Dios, que es quien da constancia y consuelo, los ayude a ustedes a vivir en armonía unos con otros, conforme al ejemplo de Cristo Jesús,"
           ],
@@ -3806,7 +4579,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "para que todos juntos, a una sola voz, alaben al Dios y Padre de nuestro Señor Jesucristo."
           ],
@@ -3814,7 +4589,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "Así pues, acéptense los unos a los otros, como también Cristo los aceptó a ustedes, para gloria de Dios."
           ],
@@ -3822,7 +4599,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "Puedo decirles que Cristo vino a servir a los judíos para cumplir las promesas hechas a nuestros antepasados y demostrar así que Dios es fiel a lo que promete."
           ],
@@ -3830,7 +4609,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Vino también para que los no judíos alaben a Dios por su misericordia, según dice la Escritura:",
             "«Por eso te alabaré entre las naciones",
@@ -3840,7 +4621,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "En otra parte, la Escritura dice:",
             "«¡Alégrense, naciones, con el pueblo de Dios!»"
@@ -3849,7 +4632,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Y en otro lugar dice:",
             "«Naciones y pueblos todos,",
@@ -3859,7 +4644,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Isaías también escribió:",
             "«Brotará la raíz de Jesé,",
@@ -3870,7 +4657,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Que Dios, que da esperanza, los llene de alegría y paz a ustedes que tienen fe en él, y les dé abundante esperanza por el poder del Espíritu Santo."
           ],
@@ -3878,7 +4667,7 @@
         },
         {
           "type": "section2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "(15.14—16.27)"
           ],
@@ -3886,7 +4675,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "El trabajo apostólico de Pablo"
           ],
@@ -3894,7 +4683,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Hermanos míos, estoy convencido de que ustedes están llenos de bondad y de todo conocimiento, y que saben aconsejarse unos a otros;"
           ],
@@ -3902,7 +4693,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "pero en esta carta me he atrevido a escribirles francamente sobre algunas cosas, para que no las olviden. Lo hago por el encargo que Dios en su bondad me ha dado,"
           ],
@@ -3910,7 +4703,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "de servir a Cristo Jesús para bien de los que no son judíos. El servicio sacerdotal que presto consiste en anunciar el evangelio de Dios, con el fin de presentar ante él a los no judíos, como ofrenda que le sea grata, santificada por el Espíritu Santo."
           ],
@@ -3918,7 +4713,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "Tengo razón para gloriarme en Cristo Jesús de mi servicio a Dios,"
           ],
@@ -3926,7 +4723,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 18,
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "porque no me atrevo a hablar de nada, aparte de lo que Cristo mismo ha hecho por medio de mí para llevar a los no judíos a obedecer a Dios. Esto se ha realizado con palabras y hechos,"
           ],
@@ -3934,7 +4733,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 19,
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "por el poder de señales y milagros y por el poder del Espíritu de Dios. De esta manera he llevado a buen término el anuncio del evangelio de Cristo, desde Jerusalén y por todas partes hasta la región de Iliria."
           ],
@@ -3942,7 +4743,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 20,
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "Pero siempre he procurado anunciar el evangelio donde nunca antes se había oído hablar de Cristo, para no construir sobre bases puestas por otros,"
           ],
@@ -3950,7 +4753,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 21,
+          "verse_numbers": [
+            21
+          ],
           "lines": [
             "sino más bien, como dice la Escritura:",
             "«Verán los que nunca habían tenido noticias de él;",
@@ -3960,7 +4765,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Planes de viaje"
           ],
@@ -3968,7 +4773,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 22,
+          "verse_numbers": [
+            22
+          ],
           "lines": [
             "Precisamente por esto no he podido ir a verlos, aunque muchas veces me lo había propuesto."
           ],
@@ -3976,7 +4783,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 23,
+          "verse_numbers": [
+            23
+          ],
           "lines": [
             "Pero ahora que ya he terminado mi trabajo en estas regiones, y como desde hace muchos años estoy queriendo visitarlos,"
           ],
@@ -3984,7 +4793,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 24,
+          "verse_numbers": [
+            24
+          ],
           "lines": [
             "espero que podré hacerlo durante mi viaje a España. Y una vez que haya tenido el gusto de verlos, aunque sea por poco tiempo, espero que ustedes me ayuden a continuar el viaje."
           ],
@@ -3992,7 +4803,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 25,
+          "verse_numbers": [
+            25
+          ],
           "lines": [
             "Pero ahora voy a Jerusalén, a llevar ayuda a los hermanos de allí."
           ],
@@ -4000,7 +4813,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 26,
+          "verse_numbers": [
+            26
+          ],
           "lines": [
             "Porque los de Macedonia y Acaya decidieron voluntariamente hacer una colecta y mandarla a los hermanos pobres de Jerusalén."
           ],
@@ -4008,7 +4823,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 27,
+          "verse_numbers": [
+            27
+          ],
           "lines": [
             "Lo decidieron voluntariamente, aunque, en realidad, estaban en la obligación de hacerlo, porque así como los creyentes judíos compartieron sus bienes espirituales con los no judíos, estos, a su vez, deben ayudar con sus bienes materiales a los creyentes judíos."
           ],
@@ -4016,7 +4833,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 28,
+          "verse_numbers": [
+            28
+          ],
           "lines": [
             "Así que, cuando yo haya terminado este asunto y les haya entregado a ellos la colecta, saldré para España, y de paso los visitaré a ustedes."
           ],
@@ -4024,7 +4843,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 29,
+          "verse_numbers": [
+            29
+          ],
           "lines": [
             "Estoy seguro de que cuando yo vaya, nos enriqueceremos todos con las bendiciones de Cristo."
           ],
@@ -4032,7 +4853,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 30,
+          "verse_numbers": [
+            30
+          ],
           "lines": [
             "Hermanos, por nuestro Señor Jesucristo y por el amor que el Espíritu nos da, les ruego que se unan conmigo en la lucha, orando a Dios por mí."
           ],
@@ -4040,7 +4863,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 31,
+          "verse_numbers": [
+            31
+          ],
           "lines": [
             "Pidan a Dios que me libre de los incrédulos que hay en Judea, y que la ayuda que llevo a los hermanos de Jerusalén sea bien recibida,"
           ],
@@ -4048,7 +4873,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 32,
+          "verse_numbers": [
+            32
+          ],
           "lines": [
             "para que, si Dios quiere, llegue yo con alegría a verlos a ustedes y tenga descanso al visitarlos."
           ],
@@ -4056,7 +4883,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 33,
+          "verse_numbers": [
+            33
+          ],
           "lines": [
             "Que el Dios de paz esté con todos ustedes. Amén."
           ],
@@ -4094,7 +4923,7 @@
       "items": [
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Saludos personales"
           ],
@@ -4102,7 +4931,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Les recomiendo a nuestra hermana Febe, diaconisa en la iglesia de Cencreas."
           ],
@@ -4110,7 +4941,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "Recíbanla bien en el nombre del Señor, como se debe hacer entre los hermanos en la fe, y ayúdenla en todo lo que necesite, porque ha ayudado a muchos, y también a mí mismo."
           ],
@@ -4118,7 +4951,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "Saluden a Prisca y Aquila, mis compañeros de trabajo en el servicio de Cristo Jesús."
           ],
@@ -4126,7 +4961,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "A ellos, que pusieron en peligro su propia vida por salvar la mía, no solo yo les doy las gracias, sino también todos los hermanos de las iglesias no judías."
           ],
@@ -4134,7 +4971,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Saluden igualmente a la iglesia que se reúne en casa de Prisca y Aquila. Saluden a mi querido amigo Epéneto, que en la provincia de Asia fue el primer creyente en Cristo."
           ],
@@ -4142,7 +4981,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "Saluden a María, que tanto ha trabajado por ustedes."
           ],
@@ -4150,7 +4991,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "Saluden a mis paisanos Andrónico y Junias, que fueron mis compañeros de cárcel; se han distinguido entre los apóstoles, y se hicieron creyentes en Cristo antes que yo."
           ],
@@ -4158,7 +5001,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "Saluden a Ampliato, mi querido amigo en el Señor."
           ],
@@ -4166,7 +5011,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Saluden a Urbano, nuestro compañero de trabajo en Cristo, y a mi querido Estaquis."
           ],
@@ -4174,7 +5021,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "Saluden a Apeles, que ha dado tantas pruebas de su fe en Cristo; y también a los de la familia de Aristóbulo."
           ],
@@ -4182,7 +5031,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Saluden a mi paisano Herodión, y a los de la familia de Narciso que creen en el Señor."
           ],
@@ -4190,7 +5041,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Saluden a Trifena y a Trifosa, que trabajan en la obra del Señor; y también a nuestra querida hermana Pérside, que tanto ha trabajado en la obra del Señor."
           ],
@@ -4198,7 +5051,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Saluden a Rufo, distinguido creyente en el Señor, y a su madre, que ha sido también como una madre para mí."
           ],
@@ -4206,7 +5061,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Saluden a Asíncrito, a Flegonte, a Hermes, a Patrobas, a Hermas y a los hermanos que están con ellos."
           ],
@@ -4214,7 +5071,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "Saluden también a Filólogo y a Julia, a Nereo y a su hermana, a Olimpas y a todos los hermanos en la fe que están con ellos."
           ],
@@ -4222,7 +5081,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "Salúdense los unos a los otros con un beso santo. Todas las iglesias de Cristo les mandan saludos."
           ],
@@ -4230,7 +5091,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "Hermanos, les ruego que se fijen en los que causan divisiones y ponen tropiezos, en contra de la enseñanza que ustedes recibieron. Apártense de ellos,"
           ],
@@ -4238,7 +5101,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 18,
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "porque no sirven a Cristo nuestro Señor, sino a sus propios apetitos, y con sus palabras suaves y agradables engañan el corazón de la gente sencilla."
           ],
@@ -4246,7 +5111,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 19,
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "Todos saben que ustedes han sido obedientes. Me alegro de su actitud, y quiero que muestren sabiduría para hacer lo bueno, pero no para hacer lo malo;"
           ],
@@ -4254,7 +5121,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 20,
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "así el Dios de paz aplastará pronto a Satanás bajo los pies de ustedes. Que nuestro Señor Jesús les dé su gracia."
           ],
@@ -4262,7 +5131,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 21,
+          "verse_numbers": [
+            21
+          ],
           "lines": [
             "Les manda saludos Timoteo, mi compañero de trabajo; y también Lucio, Jasón y Sosípatro, mis paisanos."
           ],
@@ -4270,7 +5141,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 22,
+          "verse_numbers": [
+            22
+          ],
           "lines": [
             "Yo, Tercio, que estoy escribiendo esta carta, también les mando saludos en el Señor."
           ],
@@ -4278,7 +5151,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 23,
+          "verse_numbers": [
+            23
+          ],
           "lines": [
             "Los saluda Gayo. Estoy alojado en su casa, que él pone a disposición de toda la iglesia. También los saluda Erasto, tesorero de la ciudad, y el hermano Cuarto."
           ],
@@ -4286,7 +5161,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Alabanza final a Dios"
           ],
@@ -4294,7 +5169,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 25,
+          "verse_numbers": [
+            25
+          ],
           "lines": [
             "Alabemos a Dios, que puede hacerlos a ustedes firmes conforme al evangelio que yo anuncio y la enseñanza acerca de Jesucristo. Esto está de acuerdo con lo que Dios ha revelado de su designio secreto, el cual estuvo oculto desde antes que el mundo existiera,"
           ],
@@ -4302,7 +5179,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 26,
+          "verse_numbers": [
+            26
+          ],
           "lines": [
             "pero ahora se ha dado a conocer por los escritos de los profetas, de acuerdo con el mandato del Dios eterno. Este secreto del plan de Dios se ha dado a conocer a todas las naciones, para que crean y obedezcan."
           ],
@@ -4310,7 +5189,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 27,
+          "verse_numbers": [
+            27
+          ],
           "lines": [
             "¡A Dios, el único y sabio, sea la gloria para siempre por medio de Jesucristo! Amén."
           ],

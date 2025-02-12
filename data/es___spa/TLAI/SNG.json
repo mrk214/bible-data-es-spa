@@ -50,7 +50,9 @@
       "items": [
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Este es el poema más hermoso de Salomón."
           ],
@@ -58,7 +60,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Primer canto"
           ],
@@ -66,7 +68,7 @@
         },
         {
           "type": "heading2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "La novia"
           ],
@@ -74,7 +76,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "¡Ay, amado mío,",
             "cómo deseo que me beses!",
@@ -85,7 +89,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "prefiero disfrutar",
             "del aroma de tus perfumes.",
@@ -98,7 +104,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "¡Vamos, date prisa",
             "y llévame contigo!",
@@ -115,7 +123,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "¡Mujeres de Jerusalén!",
             "Yo soy morena, sí,",
@@ -127,7 +137,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "No se fijen en mi piel morena,",
             "pues el sol la requemó.",
@@ -139,7 +151,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "Cuéntame, amor de mi vida,",
             "¿a dónde llevas tus rebaños?",
@@ -154,7 +168,7 @@
         },
         {
           "type": "heading2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Los pastores"
           ],
@@ -162,7 +176,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "Si acaso no lo sabes,",
             "mujer bella entre las bellas,",
@@ -174,7 +190,7 @@
         },
         {
           "type": "heading2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "El novio"
           ],
@@ -182,7 +198,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Amada mía,",
             "tu andar tiene la gracia",
@@ -193,7 +211,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "¡Preciosas se ven tus mejillas",
             "en medio de tus trenzas!",
@@ -204,7 +224,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "¡Voy a regalarte",
             "joyas de oro,",
@@ -214,7 +236,7 @@
         },
         {
           "type": "heading2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "La novia"
           ],
@@ -222,7 +244,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Mientras el rey se recuesta,",
             "mi perfume esparce su fragancia."
@@ -231,7 +255,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Mi amado es para mí",
             "como el saquito perfumado",
@@ -241,7 +267,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Mi amado es para mí",
             "como un ramito de flores",
@@ -251,7 +279,7 @@
         },
         {
           "type": "heading2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "El novio"
           ],
@@ -259,7 +287,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "¡Tú eres bella, amada mía;",
             "eres muy bella!",
@@ -269,7 +299,7 @@
         },
         {
           "type": "heading2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "La novia"
           ],
@@ -277,7 +307,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "¡Tú eres hermoso, amado mío!",
             "¡Eres un hombre encantador!"
@@ -286,7 +318,7 @@
         },
         {
           "type": "heading2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Los novios"
           ],
@@ -294,7 +326,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "La verde hierba será",
             "nuestro lecho de bodas,"
@@ -303,7 +337,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "y a la sombra de los cedros",
             "pondremos nuestro nido de amor."
@@ -342,7 +378,7 @@
       "items": [
         {
           "type": "heading2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "La novia"
           ],
@@ -350,7 +386,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Yo soy una flor",
             "de los llanos de Sarón;",
@@ -360,7 +398,7 @@
         },
         {
           "type": "heading2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "El novio"
           ],
@@ -368,7 +406,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "Mi amada es una rosa",
             "entre las espinas."
@@ -377,7 +417,7 @@
         },
         {
           "type": "heading2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "La novia"
           ],
@@ -385,7 +425,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "Mi amado es un manzano",
             "entre árboles silvestres.",
@@ -396,7 +438,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "Mi amado me llevó",
             "a la sala de banquetes,",
@@ -406,7 +450,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "¡Denme a comer uvas!",
             "¡Denme a comer manzanas!",
@@ -417,7 +463,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "¡Que ponga él su brazo izquierdo",
             "debajo de mi cabeza!",
@@ -428,7 +476,7 @@
         },
         {
           "type": "heading2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "El novio"
           ],
@@ -436,7 +484,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "Mujeres de Jerusalén,",
             "quiero que me prometan,",
@@ -450,7 +500,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Segundo canto"
           ],
@@ -458,7 +508,7 @@
         },
         {
           "type": "heading2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "La novia"
           ],
@@ -466,7 +516,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "¡Oigo la voz de mi amado!",
             "¡Ya lo veo venir!",
@@ -477,7 +529,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Mi amado es como un cabrito.",
             "¡Allí está, tras el muro!",
@@ -488,7 +542,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "Mi amado me dijo:",
             "«Acompáñame, amada mía;",
@@ -498,7 +554,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "El invierno ya se ha ido;",
             "las lluvias han terminado."
@@ -507,7 +565,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Ya hay flores en los campos;",
             "ha llegado el tiempo de cantar.",
@@ -518,7 +578,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "En las higueras hay higos,",
             "y las flores de las viñas",
@@ -530,7 +592,7 @@
         },
         {
           "type": "heading2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "El novio"
           ],
@@ -538,7 +600,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Palomita amada,",
             "no te escondas en las rocas.",
@@ -551,7 +615,7 @@
         },
         {
           "type": "heading2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Los novios"
           ],
@@ -559,7 +623,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "Las zorras pequeñas",
             "causan daño a nuestras viñas.",
@@ -570,7 +636,7 @@
         },
         {
           "type": "heading2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "La novia"
           ],
@@ -578,7 +644,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "Mi amado es mío,",
             "y yo soy suya;",
@@ -589,7 +657,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "Regresa a mí, amado mío,",
             "mientras sopla todavía",
@@ -633,7 +703,9 @@
       "items": [
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "En la oscuridad de la noche",
             "busco al amor de mi vida.",
@@ -644,7 +716,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "Me levanto,",
             "recorro la ciudad,",
@@ -656,7 +730,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "Me topo con los guardias,",
             "con los que vigilan la ciudad,",
@@ -667,7 +743,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "Apenas los dejo,",
             "encuentro al amor de mi vida.",
@@ -681,7 +759,7 @@
         },
         {
           "type": "heading2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "El novio"
           ],
@@ -689,7 +767,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Mujeres de Jerusalén,",
             "quiero que me prometan,",
@@ -703,7 +783,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Tercer canto"
           ],
@@ -711,7 +791,7 @@
         },
         {
           "type": "heading2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Los amigos"
           ],
@@ -719,7 +799,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "¡Algo viene por el desierto!",
             "¿Qué podrá ser?",
@@ -731,7 +813,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "¡Pero si es Salomón,",
             "y viene en su carruaje real!",
@@ -742,7 +826,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "Armados con espadas,",
             "son maestros en el combate;",
@@ -754,7 +840,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Este carruaje fue hecho",
             "con finas maderas del Líbano.",
@@ -764,7 +852,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "Ordenó que le pusieran",
             "columnas de plata,",
@@ -778,7 +868,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "¡Salgan, mujeres de Jerusalén!",
             "¡Vengan a ver al rey Salomón!",
@@ -821,7 +913,7 @@
       "items": [
         {
           "type": "heading2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "El novio"
           ],
@@ -829,7 +921,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "¡Eres bella, amada mía!",
             "¡Eres sumamente bella!",
@@ -843,7 +937,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "Son blancos tus dientes,",
             "como ovejas recién bañadas",
@@ -853,7 +949,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "Son rojos tus labios",
             "cual cinta escarlata,",
@@ -865,7 +963,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "Tu cuello me recuerda",
             "a la torre de David,",
@@ -877,7 +977,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Tus pechos son dos gacelas,",
             "¡son dos gacelas",
@@ -887,7 +989,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "Mientras sopla todavía",
             "la brisa de la tarde,",
@@ -899,7 +1003,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "¡Qué bella eres, amada mía!",
             "¡Todo en ti es perfecto!"
@@ -908,7 +1014,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "¡Vamos, novia mía,",
             "baja del Líbano conmigo!",
@@ -920,7 +1028,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Amada mía,",
             "desde que me miraste",
@@ -932,7 +1042,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "¡Qué dulces son tus caricias,",
             "amada mía!",
@@ -944,7 +1056,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Son tus labios un panal,",
             "amada mía;",
@@ -957,7 +1071,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Tú eres un jardín cerrado,",
             "amada mía;",
@@ -968,7 +1084,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "El paraíso de tus pechos",
             "es un huerto de manzanos.",
@@ -978,7 +1096,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "los más variados aromas,",
             "y las más finas especias."
@@ -987,7 +1107,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "Eres la fuente de los jardines,",
             "¡el manantial de agua viva",
@@ -997,7 +1119,7 @@
         },
         {
           "type": "heading2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "La novia"
           ],
@@ -1005,7 +1127,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "¡Despierta, viento del norte!",
             "¡Ven acá, viento del sur!",
@@ -1048,7 +1172,7 @@
       "items": [
         {
           "type": "heading2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "El novio"
           ],
@@ -1056,7 +1180,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Ya estoy dentro de mi jardín,",
             "amada mía;",
@@ -1068,7 +1194,7 @@
         },
         {
           "type": "heading2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Los pastores"
           ],
@@ -1076,7 +1202,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "¡Vamos, amigos,",
             "coman y beban!",
@@ -1086,7 +1214,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Cuarto canto"
           ],
@@ -1094,7 +1222,7 @@
         },
         {
           "type": "heading2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "La novia"
           ],
@@ -1102,7 +1230,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "En medio de mis sueños",
             "mi corazón despertó",
@@ -1114,7 +1244,7 @@
         },
         {
           "type": "heading2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "El novio"
           ],
@@ -1122,7 +1252,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "«Amada mía;",
             "mi preciosa palomita,",
@@ -1135,7 +1267,7 @@
         },
         {
           "type": "heading2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "La novia"
           ],
@@ -1143,7 +1275,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "«Pero ya me quité la ropa,",
             "¡tendría que volver a vestirme!",
@@ -1154,7 +1288,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "Mi amado metió la mano",
             "por un hoyo de la puerta;",
@@ -1164,7 +1300,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Salté de la cama",
             "para abrirle a mi amado;",
@@ -1176,7 +1314,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "Al oír la voz de mi amado,",
             "sentí que me moría.",
@@ -1191,7 +1331,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "Me topé con los guardias,",
             "con los que vigilan la ciudad;",
@@ -1202,7 +1344,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "Mujeres de Jerusalén,",
             "quiero que me prometan",
@@ -1214,7 +1358,7 @@
         },
         {
           "type": "heading2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Las mujeres de Jerusalén"
           ],
@@ -1222,7 +1366,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "¿Qué tiene de especial tu amado,",
             "mujer bella entre las bellas?",
@@ -1234,7 +1380,7 @@
         },
         {
           "type": "heading2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "La novia"
           ],
@@ -1242,7 +1388,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "Tan elegante es mi amado,",
             "y tan rosada es su piel,",
@@ -1253,7 +1401,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Su cabeza es oro puro;",
             "sus cabellos son rizados",
@@ -1263,7 +1413,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Sus ojos son dos palomas",
             "bañadas en leche",
@@ -1273,7 +1425,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Sus mejillas son un huerto",
             "de hierbas aromáticas.",
@@ -1284,7 +1438,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Por brazos tiene",
             "un par de barras de oro",
@@ -1297,7 +1453,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "Son sus poderosas piernas,",
             "dos pilares de mármol",
@@ -1309,7 +1467,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "Hay dulzura en sus labios;",
             "¡es un hombre encantador!",
@@ -1351,7 +1511,7 @@
       "items": [
         {
           "type": "heading2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Las mujeres de Jerusalén"
           ],
@@ -1359,7 +1519,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Dinos entonces,",
             "mujer bella entre las bellas,",
@@ -1371,7 +1533,7 @@
         },
         {
           "type": "heading2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "La novia"
           ],
@@ -1379,7 +1541,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "Mi amado ha venido a su jardín,",
             "al huerto de hierbas aromáticas,",
@@ -1390,7 +1554,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "Yo soy de mi amado,",
             "y mi amado es mío;",
@@ -1401,7 +1567,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Quinto canto"
           ],
@@ -1409,7 +1575,7 @@
         },
         {
           "type": "heading2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Cántico del novio"
           ],
@@ -1417,7 +1583,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "Eres bella, amada mía;",
             "bella como la ciudad de Tirsá,",
@@ -1428,7 +1596,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "¡Por favor, ya no me mires,",
             "que tus ojos me conquistaron!",
@@ -1440,7 +1610,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "Son tus blancos dientes",
             "cabritas recién bañadas.",
@@ -1451,7 +1623,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "Tus mejillas, tras el velo,",
             "son rojas como manzanas."
@@ -1460,7 +1634,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "Puede haber sesenta reinas,",
             "y más de ochenta mujeres;"
@@ -1469,7 +1645,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "pero mi palomita amada",
             "es una mujer singular;",
@@ -1484,7 +1662,7 @@
         },
         {
           "type": "heading2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Los amigos"
           ],
@@ -1492,7 +1670,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "¿Y quién es esta hermosura?",
             "Es admirable, como la aurora;",
@@ -1504,7 +1684,7 @@
         },
         {
           "type": "heading2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "La novia"
           ],
@@ -1512,7 +1692,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Bajé al jardín de los nogales",
             "para ver las nuevas flores del valle,",
@@ -1523,7 +1705,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Pero, antes de darme cuenta,",
             "¡mi pasión me condujo",
@@ -1533,7 +1717,7 @@
         },
         {
           "type": "heading2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Los amigos"
           ],
@@ -1541,7 +1725,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "13 (7.1) Danza, Sulamita;",
             "danza para nosotros:",
@@ -1551,7 +1737,7 @@
         },
         {
           "type": "heading2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "La novia"
           ],
@@ -1559,7 +1745,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "¿Por qué me quieren ver danzar?",
             "¿Por qué quieren que baile en público?"
@@ -1598,7 +1786,7 @@
       "items": [
         {
           "type": "heading2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "El novio"
           ],
@@ -1606,7 +1794,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "1 (2) Princesa mía,",
             "lucen bellos tus pies",
@@ -1619,7 +1809,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "2 (3) Tu ombligo es una copa",
             "llena del mejor vino.",
@@ -1630,7 +1822,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "3 (4) Tus pechos son dos gacelas,"
           ],
@@ -1638,7 +1832,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "4 (5) tu cuello me recuerda",
             "a una torre de marfil.",
@@ -1652,7 +1848,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "5 (6) Tu cabeza sobresale",
             "como la cumbre del monte Carmelo;",
@@ -1665,7 +1863,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "6 (7) ¡Eres muy bella, amada mía!",
             "¡Eres una mujer encantadora!"
@@ -1674,7 +1874,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "7 (8) Eres alta como palmera,",
             "y tus pechos son dos racimos."
@@ -1683,7 +1885,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "8 (9) He pensado en treparme",
             "y hacer míos esos racimos.",
@@ -1696,7 +1900,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "9 (10) Habrá en tus labios",
             "el gusto del buen vino",
@@ -1707,7 +1913,7 @@
         },
         {
           "type": "heading2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "La novia"
           ],
@@ -1715,7 +1921,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "10 (11) Yo soy de mi amado,",
             "y su pasión lo obliga a buscarme."
@@ -1724,7 +1932,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "11 (12) Ven conmigo, amado mío,",
             "acompáñame a los campos.",
@@ -1735,7 +1945,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "12 (13) Cuando amanezca,",
             "iremos a los viñedos",
@@ -1748,7 +1960,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "13 (14) Ya esparcen las mandrágoras",
             "la fragancia de sus frutos;",
@@ -1792,7 +2006,9 @@
       "items": [
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "¡Cómo quisiera",
             "que fueras mi hermano!",
@@ -1806,7 +2022,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "Podría tomarte de la mano",
             "y llevarte a la casa de mi madre,",
@@ -1820,7 +2038,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "¡Pon tu brazo izquierdo",
             "bajo mi cabeza!",
@@ -1831,7 +2051,7 @@
         },
         {
           "type": "heading2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "El novio"
           ],
@@ -1839,7 +2059,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "Mujeres de Jerusalén,",
             "quiero que me prometan",
@@ -1851,7 +2073,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Sexto canto"
           ],
@@ -1859,7 +2081,7 @@
         },
         {
           "type": "heading2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Las mujeres de Jerusalén"
           ],
@@ -1867,7 +2089,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "¡Alguien viene por el desierto!",
             "Avanza recostada",
@@ -1878,7 +2102,7 @@
         },
         {
           "type": "heading2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "La novia"
           ],
@@ -1886,7 +2110,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Bajo un manzano",
             "te concibió tu madre,",
@@ -1898,7 +2124,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "¡Graba mi nombre en tu corazón!",
             "¡Graba mi imagen en tu brazo!",
@@ -1913,7 +2141,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "¡No hay mares que puedan apagarlo,",
             "ni ríos que puedan extinguirlo!",
@@ -1926,7 +2156,7 @@
         },
         {
           "type": "heading2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Las mujeres de Jerusalén"
           ],
@@ -1934,7 +2164,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "Nuestra hermana es muy pequeña;",
             "todavía no tiene pechos.",
@@ -1945,7 +2177,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "¡Ojalá fuera una muralla,",
             "para levantar sobre ella",
@@ -1958,7 +2192,7 @@
         },
         {
           "type": "heading2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "La novia"
           ],
@@ -1966,7 +2200,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "¡Yo soy ya una muralla",
             "y mis pechos son dos torres!",
@@ -1977,7 +2213,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Salomón tenía una viña,",
             "pues era un rey muy rico.",
@@ -1990,7 +2228,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Tú, Salomón,",
             "puedes quedarte con mil monedas;",
@@ -2003,7 +2243,7 @@
         },
         {
           "type": "heading2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "El novio"
           ],
@@ -2011,7 +2251,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Mi reina de los jardines,",
             "nuestros amigos están atentos",
@@ -2022,7 +2264,7 @@
         },
         {
           "type": "heading2",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "La novia"
           ],
@@ -2030,7 +2272,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "¡Date prisa, amado mío!",
             "¡Corre como venado!",

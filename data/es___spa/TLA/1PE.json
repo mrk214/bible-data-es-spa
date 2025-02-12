@@ -79,7 +79,7 @@
       "items": [
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Saludo"
           ],
@@ -87,7 +87,10 @@
         },
         {
           "type": "verse",
-          "verse_number": -1,
+          "verse_numbers": [
+            1,
+            2
+          ],
           "lines": [
             "Yo, Pedro, que soy enviado de Jesucristo a anunciar su mensaje, saludo a todos los cristianos que viven como extranjeros en las regiones de Ponto, Galacia, Capadocia, Asia y Bitinia.",
             "De acuerdo con su plan, Dios el Padre decidió elegirlos a ustedes, para que fueran su pueblo. Y por medio del Espíritu Santo y de la muerte de Jesucristo, Dios los ha limpiado de todo pecado, para que lo obedezcan.",
@@ -97,7 +100,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Alabemos a Dios"
           ],
@@ -105,7 +108,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "Alabemos al Dios y Padre de nuestro Señor Jesucristo, que nos ha hecho nacer de nuevo, y nos ha dado una vida con esperanza. Esto lo ha hecho Dios por su gran amor hacia nosotros y por el poder que mostró cuando resucitó a Jesucristo de entre los muertos"
           ],
@@ -113,7 +118,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "y de que nos dará todo lo que nos ha prometido y que tiene guardado en el cielo. Lo que nos ha prometido no puede destruirse ni mancharse, ni marchitarse."
           ],
@@ -121,7 +128,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Ustedes confían en Dios, y por eso él los protege con su poder, para que puedan ser salvados tal y como está planeado para los últimos tiempos."
           ],
@@ -129,7 +138,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Confiar en Dios"
           ],
@@ -137,7 +146,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "Por eso, aun cuando por algún tiempo tengan que pasar por muchos problemas y dificultades, ¡alégrense!"
           ],
@@ -145,7 +156,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "La confianza que ustedes tienen en Dios es como el oro: así como la calidad del oro se pone a prueba con el fuego, la confianza que ustedes tienen en Dios se pone a prueba con los problemas. Si ustedes pasan la prueba, su confianza será más valiosa que el oro, pues el oro se puede destruir. Así, cuando Jesucristo aparezca, hablará bien de la confianza que ustedes tienen en Dios, porque una confianza que ha pasado por tantas pruebas merece ser alabada."
           ],
@@ -153,7 +166,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "Ustedes, aunque nunca han visto a Jesucristo, lo aman y creen en él, y tienen una alegría tan grande y hermosa que no puede describirse con palabras."
           ],
@@ -161,7 +176,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Ustedes viven alegres porque ya saben que Dios los salvará, y por eso confían en él."
           ],
@@ -169,7 +186,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "Los profetas estudiaron con cuidado todo acerca de esta salvación, y hablaron de lo que Dios, por su amor, les daría a ustedes."
           ],
@@ -177,7 +196,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Antes de que Cristo viniera al mundo, su Espíritu les enseñaba a los profetas lo que él debería sufrir aquí en la tierra, y también les enseñaba todo lo hermoso que sucedería después. Y los profetas intentaban descubrir quién sería el Mesías, y cuándo vendría al mundo."
           ],
@@ -185,7 +206,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Pero Dios les hizo entender que lo que ellos anunciaban no era para ellos mismos, sino para ustedes. Ese es el mensaje que les dieron a ustedes quienes les comunicaron la buena noticia. Y lo hicieron con el poder del Espíritu Santo, que fue enviado del cielo. ¡Esto es algo que los ángeles mismos hubieran querido ver!"
           ],
@@ -193,7 +216,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Por eso, estén atentos y piensen bien lo que van a hacer, para que siempre hagan lo correcto. Y confíen plenamente en que Dios los tratará bien cuando regrese Jesucristo."
           ],
@@ -201,7 +226,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Vivan como hijos obedientes"
           ],
@@ -209,16 +234,30 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
-            "Ustedes, antes de que conocieran la buena noticia acerca de Jesucristo, hacían todo lo malo que querían. Pero ahora deben obedecer a Dios en todo, como buenos hijos.",
+            "Ustedes, antes de que conocieran la buena noticia acerca de Jesucristo, hacían todo lo malo que querían. Pero ahora deben obedecer a Dios en todo, como buenos hijos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15,
+            16
+          ],
+          "lines": [
             "Así que no hagan lo malo, sino manténganse apartados del mal, porque Dios los eligió para ser su pueblo. En la Biblia, Dios nos dice: «Yo soy un Dios diferente a los demás, por eso ustedes deben ser diferentes a las demás naciones.»"
           ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "Dios es un juez que no tiene favoritos, y será él quien decida si merecemos ser castigados o premiados, según lo que cada uno de nosotros haya hecho. Así que, si ustedes dicen que Dios es su Padre, deben honrarlo en este mundo todos los días de su vida."
           ],
@@ -226,7 +265,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 18,
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "Porque Dios los libró de ese modo de vida, que es poco provechoso, y que ustedes aprendieron de sus antepasados. Y bien saben ustedes que, para liberarlos, Dios no pagó con oro y plata, que son cosas que no duran;"
           ],
@@ -234,7 +275,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 19,
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "al contrario, pagó con la sangre preciosa de Cristo. Cuando Cristo murió en la cruz, fue ofrecido como sacrificio, como un cordero sin ningún defecto."
           ],
@@ -242,7 +285,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 20,
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "Esto es algo que Dios había decidido hacer desde antes de crear el mundo, y Cristo apareció en estos últimos tiempos para bien de ustedes."
           ],
@@ -250,7 +295,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 21,
+          "verse_numbers": [
+            21
+          ],
           "lines": [
             "Por medio de Cristo, ustedes creen en Dios, quien lo resucitó y le dio un lugar de honor en su reino. Por eso ustedes han puesto su confianza en Dios, y están seguros de que él les dará todo lo que les ha prometido."
           ],
@@ -258,7 +305,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 22,
+          "verse_numbers": [
+            22
+          ],
           "lines": [
             "Ahora ustedes obedecen el verdadero mensaje de Dios, y Dios los ha limpiado de todo pecado para que se amen unos a otros sinceramente, como hermanos. Así que, ámense mucho unos a otros, con todo su corazón y con todas sus fuerzas."
           ],
@@ -266,7 +315,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 23,
+          "verse_numbers": [
+            23
+          ],
           "lines": [
             "Dios les ha cambiado su modo de vivir. Es como si ustedes hubieran vuelto a nacer, no de padres humanos, que finalmente mueren, sino gracias al mensaje de Dios. Y es que ese mensaje da vida y nada puede destruirlo."
           ],
@@ -274,7 +325,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 24,
+          "verse_numbers": [
+            24
+          ],
           "lines": [
             "Pues la Biblia dice:",
             "«Todo ser humano es como la hierba;",
@@ -286,7 +339,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 25,
+          "verse_numbers": [
+            25
+          ],
           "lines": [
             "pero la palabra del Señor",
             "permanece para siempre.»",
@@ -326,7 +381,9 @@
       "items": [
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Por lo tanto, dejen de hacer lo malo. No se digan mentiras, no sean hipócritas, no sean envidiosos ni chismosos."
           ],
@@ -334,7 +391,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "Más bien, busquen todo lo que sea bueno y que ayude a su espíritu, así como los niños recién nacidos buscan ansiosos la leche de su madre. Si lo hacen así, serán mejores cristianos y Dios los salvará,"
           ],
@@ -342,7 +401,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "pues ustedes han comprobado que el Señor es bueno."
           ],
@@ -350,7 +411,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "El nuevo pueblo de Dios"
           ],
@@ -358,7 +419,20 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            4,
+            5
+          ],
+          "lines": [
+            "Ustedes son piedras vivas que Dios está usando para construir un templo espiritual. Por lo tanto, acérquense a Jesucristo, pues él es la piedra viva que la gente despreció, pero que Dios eligió como la piedra más valiosa. Además, ustedes son sacerdotes especiales, y por medio de Jesucristo le ofrecerán a Dios los sacrificios que a él le agradan."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "Pues Dios dice en la Biblia:",
             "«Yo seré para Jerusalén",
@@ -372,7 +446,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "Ustedes creen en Dios, y por eso consideran que esa piedra es muy valiosa. Pero a los que no creen, les sucede lo que dice la Biblia:",
             "«La piedra que rechazaron",
@@ -383,7 +459,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "Y también:",
             "«Esta es la piedra",
@@ -395,7 +473,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Pero ustedes son miembros de la familia de Dios, son sacerdotes al servicio del Rey, y son su pueblo. Dios mismo los sacó de la oscuridad del pecado, y los hizo entrar en su luz maravillosa. Por eso, anuncien las maravillas que Dios ha hecho."
           ],
@@ -403,7 +483,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "Antes, ustedes no eran nada,",
             "pero ahora son el pueblo de Dios.",
@@ -414,7 +496,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "El buen ejemplo"
           ],
@@ -422,7 +504,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Amados hermanos en Cristo, les hablo como si ustedes fueran extranjeros y estuvieran de paso por este mundo. No hagan nada que obedezca a sus malos deseos, pues esos deseos los llevarán a la perdición."
           ],
@@ -430,7 +514,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Pórtense bien cuando estén con gente que no cree en Dios. Así, aunque ahora esa gente hable mal de ustedes, como si fueran unos malvados, luego verá el bien que ustedes hacen, y alabará a Dios el día en que él les pida cuentas a todos."
           ],
@@ -438,7 +524,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "El respeto a las autoridades"
           ],
@@ -446,7 +532,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Para que nadie hable mal de nuestro Señor Jesucristo, obedezcan a todas las autoridades del gobierno. Obedezcan al emperador romano, pues él tiene la máxima autoridad en el imperio."
           ],
@@ -454,7 +542,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Obedezcan también a los gobernantes. El emperador los ha puesto para castigar a los que hacen lo malo, y para premiar a los que hacen lo bueno."
           ],
@@ -462,7 +552,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "Dios quiere que ustedes hagan el bien, para que la gente ignorante y tonta no tenga nada que decir en contra de ustedes."
           ],
@@ -470,7 +562,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "Ustedes son libres porque son servidores de Dios. Pero no crean que por ser libres pueden hacer lo malo."
           ],
@@ -478,7 +572,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "Respeten a todos, y amen de manera especial a los miembros de la iglesia. Honren a Dios y respeten al emperador romano."
           ],
@@ -486,7 +582,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Responsabilidades de los esclavos"
           ],
@@ -494,7 +590,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 18,
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "A los esclavos y a las esclavas les mando que obedezcan a sus amos y que los respeten. Pero no solo a los que son buenos y comprensivos, sino también a los que son malos."
           ],
@@ -502,7 +600,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 19,
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "Dios bendice a los que, por ser fieles a él, sufren injustamente y soportan el sufrimiento."
           ],
@@ -510,7 +610,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 20,
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "Si alguno es castigado por hacer algo malo, y soporta con paciencia el castigo, no está haciendo nada extraordinario. Pero si uno sufre y soporta el sufrimiento por haber hecho algo bueno, Dios lo bendecirá."
           ],
@@ -518,7 +620,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 21,
+          "verse_numbers": [
+            21
+          ],
           "lines": [
             "Si acaso sufren injustamente, recuerden que Dios les ha ordenado sufrir con paciencia. Y en eso Cristo les ha dado el ejemplo, para que hagan lo mismo, pues él sufrió por ustedes."
           ],
@@ -526,7 +630,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 22,
+          "verse_numbers": [
+            22
+          ],
           "lines": [
             "Cristo no pecó nunca, y jamás engañó a nadie."
           ],
@@ -534,7 +640,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 23,
+          "verse_numbers": [
+            23
+          ],
           "lines": [
             "Cuando lo insultaban, jamás contestaba con insultos, y jamás amenazó a quienes lo hicieron sufrir. Más bien, dejó que Dios lo cuidara y se encargara de todo, pues Dios juzga a todos con justicia."
           ],
@@ -542,7 +650,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 24,
+          "verse_numbers": [
+            24
+          ],
           "lines": [
             "Cristo hizo suyos nuestros pecados, y por eso murió en la cruz. Lo hizo para que nosotros dejemos por completo de hacer el mal, y vivamos haciendo el bien. Cristo fue herido para que ustedes fueran sanados."
           ],
@@ -550,7 +660,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 25,
+          "verse_numbers": [
+            25
+          ],
           "lines": [
             "Antes, ustedes andaban como ovejas perdidas, pero ahora han regresado a Cristo, que es como un pastor que los cuida y los protege."
           ],
@@ -588,7 +700,7 @@
       "items": [
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "El esposo y la esposa"
           ],
@@ -596,7 +708,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Ustedes, las esposas, deben obedecer a sus esposos en todo. De esa manera, si ellos no creen en el mensaje de la buena noticia, el comportamiento de ustedes podrá convencerlos,"
           ],
@@ -604,16 +718,30 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
-            "pues verán que ustedes son honestas y respetuosas.",
+            "pues verán que ustedes son honestas y respetuosas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3,
+            4
+          ],
+          "lines": [
             "Que el adorno de ustedes no sea de cosas externas, como peinados exagerados, o con joyas de oro y vestidos lujosos. La belleza no depende de las apariencias, sino de lo que hay en el corazón. Así que, sean ustedes personas tranquilas y amables. Esta belleza nunca desaparece, y es muy valiosa delante de Dios."
           ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Así eran algunas mujeres en el pasado: confiaban en Dios y obedecían a sus esposos."
           ],
@@ -621,7 +749,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "Así fue Sara, pues obedecía a Abraham y lo llamaba «señor». Si ustedes hacen el bien y no tienen miedo de nada, serán como ella."
           ],
@@ -629,7 +759,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "En cuanto a ustedes, los esposos, sean comprensivos con sus esposas. Reconozcan que ellas no tienen la fuerza de ustedes, pero que también a ellas Dios les ha prometido la vida eterna. Si ustedes lo hacen así, Dios escuchará sus oraciones."
           ],
@@ -637,7 +769,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Deberes cristianos"
           ],
@@ -645,7 +777,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "En fin, todos ustedes deben vivir en armonía y amarse unos a otros. Pónganse de acuerdo en todo, para que permanezcan unidos. Sean buenos y humildes."
           ],
@@ -653,7 +787,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Si alguien les hace algo malo, no hagan ustedes lo mismo; si alguien los insulta, no contesten con otro insulto. Al contrario, pídanle a Dios que bendiga a esas personas, pues él los eligió a ustedes para que reciban bendición."
           ],
@@ -661,7 +797,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "Porque, como dice la Biblia:",
             "«Los que de todo corazón",
@@ -673,7 +811,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "deben hacer el bien,",
             "dejar de hacer el mal",
@@ -683,7 +823,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "»Porque el Señor cuida",
             "a los que hacen el bien,",
@@ -694,7 +836,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "¿Quién puede hacerles mal, si ustedes siempre insisten en hacer el bien? ¡Nadie!"
           ],
@@ -702,7 +846,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Pero si hacen el bien, y aún así tienen que sufrir, Dios los bendecirá. No le tengan miedo a nadie, ni se asusten."
           ],
@@ -710,7 +856,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "Honren a Cristo como Señor, y estén siempre dispuestos a explicarle a la gente por qué ustedes confían en Cristo y en sus promesas."
           ],
@@ -718,7 +866,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "Pero háganlo con amabilidad y respeto. Pórtense bien, como buenos seguidores de Cristo, para que los que hablan mal de la buena conducta de ustedes sientan vergüenza de lo que dicen."
           ],
@@ -726,7 +876,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "Si Dios así lo quiere, es mejor que sufran por hacer el bien que por hacer el mal."
           ],
@@ -734,7 +886,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 18,
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "Porque Cristo murió una vez y para siempre para perdonarnos nuestros pecados. Él era bueno e inocente, y sufrió por los pecadores, para que ustedes pudieran ser amigos de Dios. Los que mataron a Cristo destruyeron su cuerpo, pero él resucitó para vivir como espíritu."
           ],
@@ -742,7 +896,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 19,
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "De este modo, fue a anunciar su victoria a los espíritus que estaban presos."
           ],
@@ -750,7 +906,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 20,
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "Eran los espíritus de los que desobedecieron a Dios en los tiempos de Noé. Dios esperó con paciencia a que se arrepintieran, mientras Noé construía la barca, pero no lo hicieron. Solo unos pocos subieron a la barca y se salvaron del diluvio, pues el agua misma llevó a esas ocho personas a lugar seguro."
           ],
@@ -758,7 +916,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 21,
+          "verse_numbers": [
+            21
+          ],
           "lines": [
             "Y esa agua representaba a la que ahora usamos para el bautismo, por medio del cual Dios nos salva. El bautismo verdadero no es para limpiar nuestro cuerpo, sino para pedirle a Dios que nos limpie de pecado, para que no nos sintamos culpables de nada. Y Dios nos salva por medio del bautismo porque Jesucristo resucitó,"
           ],
@@ -766,7 +926,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 22,
+          "verse_numbers": [
+            22
+          ],
           "lines": [
             "subió al cielo y está sentado a la derecha de Dios, en el lugar más importante, y gobierna a todos los ángeles y a todos los seres espirituales que tienen autoridad y poder."
           ],
@@ -804,7 +966,7 @@
       "items": [
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Vivir como Dios quiere"
           ],
@@ -812,7 +974,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Ustedes deben estar dispuestos a sufrir, así como Cristo sufrió mientras estuvo aquí en la tierra. Si ustedes sufren como Cristo, ya no seguirán pecando."
           ],
@@ -820,7 +984,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "Eso demostrará que han dejado de seguir sus malos deseos, y que dedicarán el resto de su vida a hacer lo que Dios quiere."
           ],
@@ -828,7 +994,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "Por mucho tiempo ustedes vivieron haciendo lo mismo que hacen los que no creen en Dios. Tenían vicios y malos deseos, se emborrachaban, participaban en fiestas escandalosas y, lo más terrible de todo, adoraban ídolos."
           ],
@@ -836,7 +1004,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "Pero como ustedes ya no se juntan con ellos, ahora ellos hablan mal de ustedes."
           ],
@@ -844,7 +1014,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "¡Pero ya tendrán que darle cuentas a Dios, el Juez que está preparado para juzgar a los vivos y a los muertos!"
           ],
@@ -852,7 +1024,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "Para eso anunció Cristo la buena noticia, aun a los muertos: para que después de que Dios los juzgue por lo que hicieron en vida, sus espíritus puedan vivir con Dios."
           ],
@@ -860,7 +1034,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "El servicio a los demás"
           ],
@@ -868,7 +1042,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "Ya se acerca el fin del mundo. Por eso, sean responsables y cuidadosos en la oración."
           ],
@@ -876,7 +1052,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "Sobre todo, ámense mucho unos a otros, porque el amor borra los pecados."
           ],
@@ -884,7 +1062,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Reciban en su casa a los demás, y no hablen mal de ellos, sino hagan que se sientan bienvenidos."
           ],
@@ -892,7 +1072,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "Cada uno de ustedes ha recibido de Dios alguna capacidad especial. Úsela bien en el servicio a los demás."
           ],
@@ -900,7 +1082,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Si alguno sabe hablar bien, que anuncie el mensaje de Dios. Si alguno sabe cómo ayudar a los demás, que lo haga con la fuerza que Dios le da para hacerlo. De este modo, todo lo que ustedes hagan servirá para que los demás alaben a Dios por medio de Jesucristo, que es maravilloso y poderoso para siempre. Amén."
           ],
@@ -908,7 +1092,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "El sufrimiento del cristiano"
           ],
@@ -916,7 +1100,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Queridos hermanos en Cristo, no se sorprendan si tienen que afrontar problemas que pongan a prueba su confianza en Dios. Eso no es nada extraño."
           ],
@@ -924,7 +1110,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Al contrario, alégrense de poder sufrir como Cristo sufrió, para que también se alegren cuando Cristo regrese y muestre su gloria y su poder."
           ],
@@ -932,7 +1120,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Si alguien los insulta por confiar en Cristo, consideren ese insulto como una bendición de Dios. Eso significa que el maravilloso Espíritu de Dios está siempre con ustedes."
           ],
@@ -940,7 +1130,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "Si alguno de ustedes sufre, que no sea por ser asesino, ladrón o bandido, ni por meterse en asuntos ajenos."
           ],
@@ -948,7 +1140,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "Si alguno sufre por ser cristiano, no debe sentir vergüenza, sino darle gracias a Dios por ser cristiano."
           ],
@@ -956,7 +1150,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "Ha llegado ya el momento de que Dios juzgue a todos, y de que empiece por juzgar a su propio pueblo. Y si empieza por nosotros y nos hace sufrir así, ¡imagínense lo que les espera a los que no obedecen la palabra de Dios!"
           ],
@@ -964,7 +1160,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 18,
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "Y si con dificultad se salvan los que hacen el bien, ¡ya se pueden imaginar lo que les pasará a los malvados y a los pecadores!"
           ],
@@ -972,7 +1170,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 19,
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "Por eso, los que sufren porque Dios así lo quiere, deben seguir haciendo el bien y dejar que Dios los cuide, pues él es su creador y cumple lo que promete."
           ],
@@ -1010,7 +1210,7 @@
       "items": [
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Los líderes de la iglesia"
           ],
@@ -1018,7 +1218,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Quiero darles un consejo a los líderes de la iglesia. Yo también soy líder como ellos, y soy testigo de cómo sufrió Cristo. Además, cuando Cristo regrese y muestre lo maravilloso que es él, disfrutaré de parte de su gloria. Mi consejo es el siguiente:"
           ],
@@ -1026,7 +1228,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "Cuiden ustedes de las personas que Dios dejó a su cargo, pues ellas pertenecen a Dios. Cuídenlas, como cuida el pastor a sus ovejas. Háganlo por el gusto de servir, que es lo que a Dios le agrada, y no por obligación ni para ganar dinero."
           ],
@@ -1034,7 +1238,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "No traten a los que Dios les encargó como si ustedes fueran sus amos; más bien, procuren ser un ejemplo para ellos."
           ],
@@ -1042,7 +1248,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "Así, cuando regrese Cristo, que es el Pastor principal, ustedes recibirán un maravilloso premio que durará para siempre."
           ],
@@ -1050,7 +1258,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Los miembros de la iglesia"
           ],
@@ -1058,7 +1266,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Del mismo modo ustedes, los jóvenes, deben obedecer la autoridad de los líderes de la iglesia. Todos deben tratarse con humildad, pues la Biblia dice:",
             "«Dios se opone a los orgullosos,",
@@ -1068,7 +1278,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "Por eso, sean humildes y acepten la autoridad de Dios, pues él es poderoso. Cuando llegue el momento oportuno, Dios los tratará como a gente importante."
           ],
@@ -1076,7 +1288,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "Así que pongan sus preocupaciones en las manos de Dios, pues él tiene cuidado de ustedes."
           ],
@@ -1084,7 +1298,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "Estén siempre atentos y listos para lo que venga, pues su enemigo, el diablo, anda buscando a quien destruir. ¡Hasta parece un león hambriento!"
           ],
@@ -1092,7 +1308,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Resistan los ataques del diablo; confíen siempre en Dios y nunca duden de él. Ya saben que en todo el mundo otros seguidores de Cristo están sufriendo como ustedes."
           ],
@@ -1100,7 +1318,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "Pero después de que ustedes hayan sufrido por un poco de tiempo, Dios hará que todo vuelva a estar bien y que ustedes nunca dejen de confiar en él; les dará fuerzas para que no se desanimen, y hará que siempre estén seguros de lo que creen. Recuerden que Dios nos ha elegido por medio de Jesucristo, para que formemos parte de su maravilloso reino."
           ],
@@ -1108,7 +1328,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "¡Que Dios reine con poder para siempre! Amén."
           ],
@@ -1116,7 +1338,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Despedida"
           ],
@@ -1124,7 +1346,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Silvano me ha ayudado a escribirles esta breve carta. Yo lo considero un fiel seguidor de Cristo, y alguien en quien se puede confiar.",
             "Les he escrito para darles consejos, y para asegurarles que todo lo bueno que Dios les ha dado demuestra que él los ama mucho. ¡Nunca duden del amor de Dios!"
@@ -1133,7 +1357,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Los seguidores de Cristo que están en la ciudad de Roma les mandan saludos. Ellos, igual que ustedes, forman parte del pueblo que Dios ha elegido. También les manda saludos Marcos, a quien quiero como a un hijo."
           ],
@@ -1141,7 +1367,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Salúdense unos a otros con un beso de hermanos.",
             "Le pido a Dios que les dé paz a todos ustedes, los que pertenecen a Cristo."

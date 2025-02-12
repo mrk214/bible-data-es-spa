@@ -50,7 +50,7 @@
       "items": [
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Saludo"
           ],
@@ -58,7 +58,11 @@
         },
         {
           "type": "verse",
-          "verse_number": -1,
+          "verse_numbers": [
+            1,
+            2,
+            3
+          ],
           "lines": [
             "Queridos hermanos y hermanas de la iglesia de Dios en Corinto:",
             "Reciban saludos míos, y de nuestro hermano Sóstenes.",
@@ -69,7 +73,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "La oración de Pablo"
           ],
@@ -77,7 +81,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "Siempre le doy gracias a Dios por ustedes. Dios fue bueno y les dio a Jesucristo,"
           ],
@@ -85,7 +91,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "y además los ayudó a que comprendieran su mensaje y lo comunicaran mejor."
           ],
@@ -93,7 +101,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "Ustedes creyeron totalmente en el mensaje de Jesucristo."
           ],
@@ -101,7 +111,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "Por eso, mientras esperan que Jesucristo vuelva, no les faltará ninguna bendición de Dios."
           ],
@@ -109,7 +121,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "De ese modo no dejarán de confiar en él y, cuando Jesús llegue, nadie los acusará de haber hecho algo malo."
           ],
@@ -117,7 +131,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Dios los eligió a ustedes para que compartan todo con su Hijo Jesucristo, nuestro Señor, y él siempre cumple su palabra."
           ],
@@ -125,7 +141,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "¡Vivamos unidos!"
           ],
@@ -133,7 +149,21 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            10,
+            11
+          ],
+          "lines": [
+            "Hermanos míos, yo les ruego, de parte de nuestro Señor Jesucristo, que se pongan todos de acuerdo y que no haya divisiones entre ustedes. Al contrario, vivan unidos y traten de ponerse de acuerdo en lo que piensan.",
+            "Algunos de la familia de Cloe me dijeron que hay asuntos por los que ustedes están discutiendo mucho."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Mientras que algunos dicen: «Yo soy seguidor de Pablo», otros dicen: «Yo no, yo soy seguidor de Apolo.» Y hay otros que responden: «Pues yo soy seguidor de Pedro», y aun otros dicen: «Yo sigo a Cristo.»"
           ],
@@ -141,16 +171,31 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
-            "¡Pero no hay tal cosa como un Cristo dividido! Además, no fui yo el que murió en la cruz para salvarlos a ustedes. Ni fueron ustedes bautizados en mi nombre. Así que no tienen por qué formar un grupo de seguidores míos.",
+            "¡Pero no hay tal cosa como un Cristo dividido! Además, no fui yo el que murió en la cruz para salvarlos a ustedes. Ni fueron ustedes bautizados en mi nombre. Así que no tienen por qué formar un grupo de seguidores míos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14,
+            15,
+            16
+          ],
+          "lines": [
             "Gracias a Dios, solo bauticé a Crispo, a Gayo y a la familia de Estéfanas. No recuerdo haber bautizado a nadie más. En todo caso, nadie puede decir que fue bautizado en mi nombre."
           ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "Y es que Cristo no me mandó a bautizar, sino a anunciar la buena noticia. Y no me mandó a anunciarla con palabras elegantes. Si yo hago que la gente se fije más en mí que en Cristo, su muerte en la cruz no servirá de nada."
           ],
@@ -158,7 +203,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "¡Cristo es poderoso!"
           ],
@@ -166,7 +211,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 18,
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "Hay quienes piensan que hablar de la muerte de Cristo en la cruz es una tontería. Pero los que así piensan no se salvarán, pues viven haciendo el mal. Sin embargo, para los que sí van a salvarse, es decir, para nosotros, ese mensaje tiene el poder de Dios."
           ],
@@ -174,7 +221,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 19,
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "En la Biblia Dios dice:",
             "«¡Dejaré confundidos a los que creen que saben mucho!»"
@@ -183,7 +232,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 20,
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "Dios ha demostrado que la gente de este mundo es tonta, pues cree saberlo todo. En realidad, no hay tal cosa como sabios, o expertos en la Biblia, o gente que cree tener todas las respuestas."
           ],
@@ -191,7 +242,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 21,
+          "verse_numbers": [
+            21
+          ],
           "lines": [
             "Dios es tan sabio que no permitió que la gente de este mundo lo conociera mediante el conocimiento humano. En lugar de eso, decidió salvar a los que creyeran en el mensaje que anunciamos, aun cuando este mensaje parezca una tontería."
           ],
@@ -199,7 +252,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 22,
+          "verse_numbers": [
+            22
+          ],
           "lines": [
             "Para creer en el mensaje que anunciamos, los judíos quieren ver milagros y los griegos quieren oír un mensaje que suene razonable e inteligente."
           ],
@@ -207,7 +262,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 23,
+          "verse_numbers": [
+            23
+          ],
           "lines": [
             "Pero nosotros anunciamos que Jesús es el Mesías, ¡y que murió en la cruz! Para la mayoría de los judíos, esto es un insulto; y para los que no son judíos, es una tontería."
           ],
@@ -215,7 +272,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 24,
+          "verse_numbers": [
+            24
+          ],
           "lines": [
             "En cambio, para los que fueron elegidos por Dios, sean judíos o no, Dios ha manifestado su poder y su sabiduría en la muerte del Mesías que él envió."
           ],
@@ -223,7 +282,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 25,
+          "verse_numbers": [
+            25
+          ],
           "lines": [
             "Así que, lo que parece una tontería de Dios, es mucho más sabio que la sabiduría de este mundo. Podría pensarse que Dios es débil, pero en realidad es más fuerte que cualquiera."
           ],
@@ -231,16 +292,30 @@
         },
         {
           "type": "verse",
-          "verse_number": 26,
+          "verse_numbers": [
+            26
+          ],
           "lines": [
-            "Recuerden lo que ustedes eran cuando Dios los eligió. Según la gente, muy pocos de ustedes eran sabios, y muy pocos de ustedes ocupaban puestos de poder o pertenecían a familias importantes.",
+            "Recuerden lo que ustedes eran cuando Dios los eligió. Según la gente, muy pocos de ustedes eran sabios, y muy pocos de ustedes ocupaban puestos de poder o pertenecían a familias importantes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            27,
+            28
+          ],
+          "lines": [
             "Y aunque la gente de este mundo piensa que ustedes son tontos y no tienen importancia, Dios los eligió, para que los que se creen sabios entiendan que no saben nada. Dios eligió a los que, desde el punto de vista humano, son débiles, despreciables y de poca importancia, para que los que se creen muy importantes se den cuenta de que en realidad no lo son. Así, Dios ha demostrado que, en realidad, esa gente no vale nada."
           ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_number": 29,
+          "verse_numbers": [
+            29
+          ],
           "lines": [
             "Por eso, ante Dios, nadie tiene de qué sentirse orgulloso."
           ],
@@ -248,7 +323,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 30,
+          "verse_numbers": [
+            30
+          ],
           "lines": [
             "Dios los ha unido a ustedes con Cristo, y gracias a esa unión ahora ustedes son sabios. Dios los ha aceptado como parte de su pueblo, y han recibido la vida eterna."
           ],
@@ -256,7 +333,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 31,
+          "verse_numbers": [
+            31
+          ],
           "lines": [
             "Por lo tanto, como dice la Biblia, si alguien quiere sentirse orgulloso de algo, que se sienta orgulloso de Jesucristo, el Señor."
           ],
@@ -294,7 +373,7 @@
       "items": [
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Los planes secretos de Dios"
           ],
@@ -302,7 +381,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Hermanos en Cristo, cuando fui a ustedes, para hablarles de los planes que Dios tenía en secreto, no lo hice con palabras difíciles ni traté de impresionarlos."
           ],
@@ -310,7 +391,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "Al contrario, decidí hablarles solo de Cristo, y principalmente de su muerte en la cruz."
           ],
@@ -318,7 +401,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "Cuando me acerqué para enseñarles y anunciarles el mensaje, me sentía poco importante y temblaba de miedo."
           ],
@@ -326,7 +411,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "No fui a ustedes como un sabelotodo, ni usé palabras elegantes. Solo dejé que el Espíritu de Dios mostrara su poder y los convenciera."
           ],
@@ -334,7 +421,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Y así, ustedes creyeron en Dios, no por medio de la sabiduría humana sino por el poder de Dios."
           ],
@@ -342,7 +431,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Dios da a conocer sus planes"
           ],
@@ -350,7 +439,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "Sin embargo, cuando hablamos con los que ya entienden mejor el mensaje de Dios, hablamos con sabiduría. Pero no empleamos la sabiduría humana como la emplean la gente y los gobernantes de este mundo. El poder que ellos tienen está condenado a desaparecer."
           ],
@@ -358,7 +449,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "Nosotros enseñamos el mensaje con palabras inteligentes, que vienen de Dios. Ese mensaje habla de los planes que Dios tenía en secreto desde antes de crear el mundo, y que él quiso manifestarnos para que podamos compartir su gloria."
           ],
@@ -366,7 +459,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "Claro que este plan inteligente de Dios no lo entendió ninguno de los gobernantes del mundo. Si ellos lo hubieran entendido, no habrían colgado de la cruz a nuestro Señor, quien es el dueño de la vida."
           ],
@@ -374,7 +469,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Como dice la Biblia:",
             "«Para aquellos que lo aman,",
@@ -386,7 +483,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "Dios nos dio a conocer todo esto por medio de su Espíritu, porque el Espíritu de Dios lo examina todo, hasta los secretos más profundos de Dios."
           ],
@@ -394,7 +493,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Nadie puede saber lo que piensa otra persona. Solo el espíritu de esa persona sabe lo que ella está pensando. De la misma manera, solo el Espíritu de Dios sabe lo que piensa Dios."
           ],
@@ -402,7 +503,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Pero como Dios nos dio su Espíritu, nosotros podemos darnos cuenta de lo que Dios, en su bondad, ha hecho por nosotros."
           ],
@@ -410,7 +513,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Cuando hablamos de lo que Dios ha hecho por nosotros, no usamos las palabras que nos dicta la inteligencia humana, sino que usamos el lenguaje espiritual que nos enseña el Espíritu de Dios."
           ],
@@ -418,7 +523,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Los que no tienen el Espíritu de Dios no aceptan las enseñanzas espirituales, pues las consideran una tontería. Y tampoco pueden entenderlas, porque no tienen el Espíritu de Dios."
           ],
@@ -426,7 +533,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "En cambio, los que tienen el Espíritu de Dios todo lo examinan y todo lo entienden. Pero los que no tienen el Espíritu, no pueden examinar ni entender a quienes lo tienen."
           ],
@@ -434,7 +543,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "Como dice la Biblia: «¿Quién sabe lo que piensa el Señor? ¿Quién puede darle consejos?» Pero nosotros tenemos el Espíritu de Dios, y por eso pensamos como Cristo."
           ],
@@ -472,7 +583,7 @@
       "items": [
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Servidores de Dios"
           ],
@@ -480,7 +591,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Hermanos míos, antes de ahora no les pude hablar como a quienes ya tienen el Espíritu de Dios, porque ustedes se comportaban como la gente pecadora de este mundo. Por eso tuve que hablarles como si apenas comenzaran a creer en Cristo."
           ],
@@ -488,16 +601,30 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
-            "En vez de enseñarles cosas difíciles, les enseñé cosas sencillas, porque ustedes parecen niños pequeños, que apenas pueden tomar leche y no alimentos fuertes. En aquel entonces no estaban preparados para entender cosas más difíciles. Y todavía no lo están,",
+            "En vez de enseñarles cosas difíciles, les enseñé cosas sencillas, porque ustedes parecen niños pequeños, que apenas pueden tomar leche y no alimentos fuertes. En aquel entonces no estaban preparados para entender cosas más difíciles. Y todavía no lo están,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3,
+            4
+          ],
+          "lines": [
             "pues siguen viviendo como la gente pecadora de este mundo. Tienen celos los unos de los otros, y se pelean entre ustedes. Porque, cuando uno dice: «Yo soy seguidor de Pablo», y otro contesta: «Yo soy seguidor de Apolo», están actuando como la gente de este mundo. ¿No se dan cuenta de que así se comportan los pecadores?"
           ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Después de todo, Apolo y yo solo somos servidores de Dios para ayudarlos a creer en Jesucristo. Cada uno de nosotros hizo lo que el Señor nos mandó hacer:"
           ],
@@ -505,7 +632,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "yo les anuncié a ustedes la buena noticia de Jesucristo, y Apolo les enseñó a seguir confiando en él, pero es Dios quien los ha hecho confiar más en Cristo."
           ],
@@ -513,7 +642,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "Así que lo importante no es quién anuncia la noticia ni quién la enseña; el único importante es Dios, que es quien aumenta nuestra confianza en Cristo."
           ],
@@ -521,7 +652,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "Tanta importancia tienen los que anuncian la noticia como los que la enseñan. Cada uno de ellos recibirá su premio, según el trabajo que haya hecho."
           ],
@@ -529,7 +662,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Apolo y yo somos servidores de Dios, y ustedes son como un campo de trigo, como un edificio construido por Dios, del cual Dios es el dueño."
           ],
@@ -537,7 +672,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "Dios, por su bondad, me permitió actuar como si yo fuera el arquitecto de ese edificio. Y yo, como buen arquitecto, puse una base firme: les di la buena noticia de Jesucristo. Luego, otros construyeron sobre esa base. Pero cada uno debe tener cuidado de la manera en que construye,"
           ],
@@ -545,7 +682,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "porque nadie puede poner una base distinta de la que ya está puesta, y esa base es Jesucristo."
           ],
@@ -553,7 +692,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "A partir de esa base podemos seguir construyendo con oro, plata, piedras preciosas, madera, paja o caña."
           ],
@@ -561,7 +702,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Pero, cuando llegue el fin del mundo, Dios pondrá a prueba lo que cada uno enseñó. Será como probar con fuego los materiales que usamos para la construcción."
           ],
@@ -569,7 +712,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Si lo que uno enseñó pasa la prueba del fuego, recibirá un premio."
           ],
@@ -577,7 +722,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "En cambio, si no pasa esa prueba, lo perderá todo, aunque él se salvará como si escapara del fuego."
           ],
@@ -585,7 +732,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "¿Acaso no saben que ustedes son un templo de Dios, y que el Espíritu de Dios vive en ustedes?"
           ],
@@ -593,7 +742,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "Ustedes son el templo santo de Dios. A cualquiera que destruya su templo, Dios también lo destruirá."
           ],
@@ -601,7 +752,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 18,
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "¡No se engañen a ustedes mismos! Si alguno cree que es muy sabio, y que sabe mucho de las cosas de este mundo, para ser sabio de verdad debe comportarse como un ignorante."
           ],
@@ -609,7 +762,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 19,
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "Porque, para Dios, la sabiduría de este mundo es una tontería. Como dice la Biblia: «Dios hace que los sabios caigan en sus propias trampas»."
           ],
@@ -617,7 +772,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 20,
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "Y también dice: «Bien sabe nuestro Dios las tonterías que a los sabios se les ocurren.»"
           ],
@@ -625,7 +782,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 21,
+          "verse_numbers": [
+            21
+          ],
           "lines": [
             "Por lo tanto, nadie se llene de orgullo por lo que hacen los simples seres humanos. En realidad, todo es de ustedes:"
           ],
@@ -633,7 +792,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 22,
+          "verse_numbers": [
+            22
+          ],
           "lines": [
             "Pablo, Apolo, Pedro, el mundo, la vida, la muerte, el presente y el futuro. Todo es de ustedes,"
           ],
@@ -641,7 +802,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 23,
+          "verse_numbers": [
+            23
+          ],
           "lines": [
             "y ustedes son de Cristo, y Cristo es de Dios."
           ],
@@ -679,7 +842,7 @@
       "items": [
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Servidores de Cristo"
           ],
@@ -687,7 +850,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Ustedes deben considerarnos como simples servidores de Cristo, encargados de dar a conocer los planes que Dios tenía en secreto."
           ],
@@ -695,7 +860,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "Los que están encargados de alguna tarea deben demostrar que se puede confiar en ellos."
           ],
@@ -703,7 +870,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "A mí, en lo personal, no me importa si ustedes, o un tribunal de justicia de este mundo, se ponen a averiguar si hago bien o mal. Ni siquiera me juzgo a mí mismo."
           ],
@@ -711,7 +880,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "Y aunque no recuerdo haber hecho nada malo, eso no significa que yo esté del todo libre de culpa. Pero el único que tiene derecho a juzgarme es Dios."
           ],
@@ -719,7 +890,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Por eso, no culpen a nadie antes de que Jesucristo vuelva. Cuando él venga, dará a conocer todo lo que está oculto y todo lo que piensa cada uno de nosotros. Entonces Dios nos dará el premio que merezcamos."
           ],
@@ -727,7 +900,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "He hablado de Apolo, y de mí mismo, para que aprendan de nuestro ejemplo lo que significa el dicho: «No hay que hacer ni decir más de lo que dice la Biblia.» Así que no anden presumiendo de que un servidor de Dios es mejor que otro."
           ],
@@ -735,7 +910,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "No hay nada que los haga a ustedes más importantes que otros. Todo lo que tienen, lo han recibido de Dios. Y si todo se lo deben a él, ¿por qué presumen, como si ustedes solos lo hubieran conseguido?"
           ],
@@ -743,7 +920,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "Ustedes tienen ahora todo lo que desean: ya son ricos, y actúan como reyes, como si no necesitaran de nosotros. ¡Ojalá que de veras fueran reyes! ¡Así nosotros podríamos reinar junto con ustedes!"
           ],
@@ -751,7 +930,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Pero me parece que a nosotros, los apóstoles, Dios nos ha dejado en el último lugar. Parecemos prisioneros condenados a muerte. Somos el hazmerreír del mundo entero, ¡y hasta de los ángeles!"
           ],
@@ -759,7 +940,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "Por obedecer a Cristo, la gente nos considera tontos. En cambio, gracias a Cristo, a ustedes los consideran sabios. Nosotros somos los débiles, y ustedes los fuertes. A ustedes los respetan, y a nosotros no."
           ],
@@ -767,7 +950,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Ahora mismo tenemos hambre y sed, andamos casi desnudos, la gente nos maltrata, y no tenemos ni dónde vivir."
           ],
@@ -775,7 +960,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Nos cansamos trabajando con nuestras manos. Bendecimos a los que nos insultan. Cuando sufrimos, lo soportamos con paciencia."
           ],
@@ -783,7 +970,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Cuando hablan mal de nosotros, contestamos con palabras amables. Hasta ahora, se nos ha tratado como si fuéramos la basura del mundo."
           ],
@@ -791,7 +980,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "No les escribo esto para avergonzarlos. Al contrario, lo que quiero es darles una enseñanza, pues los amo como si fueran mis hijos."
           ],
@@ -799,7 +990,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "Ustedes podrán tener diez mil maestros que los instruyan acerca de Cristo, pero padres no tienen muchos. El único padre que tienen soy yo, pues cuando les anuncié la buena noticia de Jesucristo, ustedes llegaron a ser mis hijos."
           ],
@@ -807,7 +1000,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "Por lo tanto, les ruego que sigan mi ejemplo."
           ],
@@ -815,7 +1010,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "Por eso les envié a Timoteo, a quien amo como a un hijo, y quien es fiel al Señor Jesús. Por eso confío en él. Timoteo les recordará mis enseñanzas, que son las mismas enseñanzas de Cristo. Eso es lo que yo enseño en todas las iglesias."
           ],
@@ -823,7 +1020,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 18,
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "Algunos de ustedes se sienten muy valientes, pues creen que no iré a verlos."
           ],
@@ -831,7 +1030,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 19,
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "Sin embargo, si Dios quiere, muy pronto iré a visitarlos, y entonces sabré si esos valentones, además de hablar, hacen lo que dicen."
           ],
@@ -839,7 +1040,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 20,
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "Cuando alguien pertenece al reino de Dios, lo demuestra por lo que hace y no solo por lo que dice."
           ],
@@ -847,7 +1050,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 21,
+          "verse_numbers": [
+            21
+          ],
           "lines": [
             "¿Cómo quieren que vaya a visitarlos? ¿Con un palo en la mano, o con mucho cariño y ternura?"
           ],
@@ -885,7 +1090,7 @@
       "items": [
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Disciplina en la iglesia"
           ],
@@ -893,7 +1098,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Ya todo el mundo sabe que uno de ustedes está viviendo con su madrastra, como si viviera con su esposa. ¡Eso está muy mal! ¡Ni siquiera los que no son cristianos hacen algo así!"
           ],
@@ -901,16 +1108,30 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
-            "Y ustedes se sienten orgullosos de esto, cuando deberían estar avergonzados y haber echado de la iglesia a ese hombre.",
+            "Y ustedes se sienten orgullosos de esto, cuando deberían estar avergonzados y haber echado de la iglesia a ese hombre."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3,
+            4
+          ],
+          "lines": [
             "Yo, aunque estoy lejos, siempre me preocupo y pienso en ustedes. Así que, la próxima vez que se reúnan, hagan de cuenta que estoy con ustedes, y recuerden que tienen el poder y la autoridad del Señor Jesús. Por eso, de parte de Jesucristo les digo que ese hombre es culpable,"
           ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "y que deben entregarlo a Satanás. De ese modo, aunque Satanás destruya su cuerpo, su espíritu se salvará cuando vuelva el Señor Jesús."
           ],
@@ -918,16 +1139,30 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
-            "No está bien que ustedes se sientan orgullosos de esto. Seguramente saben que basta un poco de levadura para hacer crecer toda la masa.",
+            "No está bien que ustedes se sientan orgullosos de esto. Seguramente saben que basta un poco de levadura para hacer crecer toda la masa."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7,
+            8
+          ],
+          "lines": [
             "Por lo tanto, dejen de pecar. El pecado es como levadura vieja, que a todos echa a perder. Si dejan de pecar, serán personas nuevas, como los panes nuevos y sin levadura que se comen en la Pascua. Nuestra nueva vida es como la fiesta de la Pascua. Nuestro cordero de la Pascua es Cristo, que fue sacrificado en la cruz. Nosotros somos como el pan de la fiesta, y debemos ser como el pan sin levadura, es decir, sinceros y honestos. No seamos malos ni hagamos daño a nadie, pues seríamos como el pan que se hace con levadura vieja."
           ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "En la carta que les escribí antes, les ordené que no tuvieran nada que ver con las personas que tienen relaciones sexuales prohibidas."
           ],
@@ -935,7 +1170,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "No quise decir que se apartaran totalmente de ellas, pues para no juntarse con personas así ustedes tendrían que salir de este mundo. No podrían apartarse totalmente de los que siempre desean más de lo que tienen, ni de los ladrones, ni de los que adoran a los ídolos, ni de los borrachos o de los que hablan mal de los demás."
           ],
@@ -943,9 +1180,21 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
-            "Lo que quise decir fue que no deben tener amistad con los que dicen que son cristianos pero, en realidad, son unos malvados. Con personas así, ni siquiera deben sentarse a comer.",
+            "Lo que quise decir fue que no deben tener amistad con los que dicen que son cristianos pero, en realidad, son unos malvados. Con personas así, ni siquiera deben sentarse a comer."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12,
+            13
+          ],
+          "lines": [
             "A mí no me toca juzgar a los que no son de la iglesia. Ya Dios los juzgará. Pero ustedes sí deben juzgar a los de la iglesia, y hacer lo que dice la Biblia: «Echen lejos de ustedes al pecador.»"
           ],
           "rlw_lines": []
@@ -982,7 +1231,7 @@
       "items": [
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Arreglemos los problemas entre nosotros"
           ],
@@ -990,7 +1239,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Cuando alguno de ustedes tenga un problema serio con otro miembro de la iglesia, no debe pedirle a un juez de este mundo que lo solucione. Más bien debe pedírselo a un juez de la iglesia."
           ],
@@ -998,7 +1249,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "Porque, en el juicio final, el pueblo de Dios será el que juzgue al mundo. Y si ustedes van a juzgar al mundo, también pueden juzgar los problemas menos importantes."
           ],
@@ -1006,7 +1259,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "Si vamos a juzgar a los ángeles mismos, ¡con mayor razón podemos juzgar los problemas de esta vida!"
           ],
@@ -1014,7 +1269,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "¿Por qué tratan de resolver esos problemas con jueces que no pertenecen a la iglesia?"
           ],
@@ -1022,7 +1279,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Les digo esto para que les dé vergüenza. Entre ustedes hay gente sabia, que puede juzgar y solucionar los problemas."
           ],
@@ -1030,7 +1289,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "Pero ustedes no solo pelean el uno contra el otro, ¡sino que hasta buscan jueces que no creen en Jesús, para solucionar sus pleitos!"
           ],
@@ -1038,7 +1299,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "En sus peleas, los únicos que salen perdiendo son ustedes mismos. Vale más ser maltratado y robado,"
           ],
@@ -1046,16 +1309,30 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
-            "que robar y maltratar. Pero ustedes hacen lo contrario: ¡se maltratan y se roban entre ustedes mismos!",
+            "que robar y maltratar. Pero ustedes hacen lo contrario: ¡se maltratan y se roban entre ustedes mismos!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9,
+            10
+          ],
+          "lines": [
             "No se dejen engañar. Ustedes bien saben que los que hacen lo malo no participarán en el reino de Dios. Me refiero a los que tienen relaciones sexuales prohibidas, a los que adoran a los ídolos, a los que son infieles en el matrimonio, a los afeminados, a los hombres que tienen relaciones sexuales con otros hombres, a los ladrones, a los que siempre quieren más de lo que tienen, a los borrachos, a los que hablan mal de los demás, y a los tramposos. Ninguno de ellos participará del reino de Dios."
           ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Y algunos de ustedes eran así. Pero Dios les perdonó esos pecados, los limpió y los hizo parte de su pueblo. Todo esto fue posible por el poder del Señor Jesucristo y del Espíritu de nuestro Dios."
           ],
@@ -1063,7 +1340,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Agrademos a Dios con todo lo que somos"
           ],
@@ -1071,7 +1348,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Algunos de ustedes dicen: «Soy libre de hacer lo que yo quiera.» ¡Claro que sí! Pero no todo lo que uno quiere, conviene; por eso no permito que nada me domine."
           ],
@@ -1079,7 +1358,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "También dicen: «La comida es para el estómago, y el estómago es para la comida.» ¡Claro que sí! Pero Dios va a destruir las dos cosas. En cambio, el cuerpo no es para que lo usemos en relaciones sexuales prohibidas. Al contrario, debemos usarlo para servir al Señor Jesús, pues nuestro cuerpo es de él."
           ],
@@ -1087,7 +1368,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Y así como Dios hizo que Jesucristo resucitara, así también a nosotros nos dará vida después de la muerte, pues tiene el poder para hacerlo."
           ],
@@ -1095,7 +1378,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "Ustedes saben que cada uno de ustedes forma parte de la iglesia, que es el cuerpo de Cristo. No está bien que una parte de ese cuerpo, que es la iglesia de Cristo, se junte con una prostituta,"
           ],
@@ -1103,7 +1388,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "pues al tener relaciones sexuales con ella, se hace un solo cuerpo con ella. Así lo dice la Biblia: «Los dos serán una sola persona.»"
           ],
@@ -1111,7 +1398,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "En cambio, quien se une al Señor Jesús se hace un solo cuerpo espiritual con él."
           ],
@@ -1119,7 +1408,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 18,
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "No tengan relaciones sexuales prohibidas. Ese pecado le hace más daño al cuerpo que cualquier otro pecado."
           ],
@@ -1127,7 +1418,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 19,
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "El cuerpo de ustedes es como un templo, y en ese templo vive el Espíritu Santo que Dios les ha dado. Ustedes no son sus propios dueños."
           ],
@@ -1135,7 +1428,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 20,
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "Cuando Dios los salvó, en realidad los compró, y el precio que pagó por ustedes fue muy alto. Por eso deben dedicar su cuerpo a honrar y agradar a Dios."
           ],
@@ -1173,7 +1468,7 @@
       "items": [
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Consejos para los casados"
           ],
@@ -1181,7 +1476,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "En cuanto a aquello que pusieron en la carta que recibí de ustedes, de que «es mejor no tener relaciones sexuales»,"
           ],
@@ -1189,7 +1486,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "por supuesto que es mejor, aunque mejor aún es que cada hombre tenga su propia esposa, y que cada mujer tenga su propio esposo, para que no caigan en relaciones sexuales prohibidas."
           ],
@@ -1197,7 +1496,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "El esposo debe tener relaciones sexuales sólo con su esposa, y la esposa debe tenerlas solo con su esposo."
           ],
@@ -1205,7 +1506,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "Ni él ni ella son dueños de su propio cuerpo, sino que son el uno para el otro."
           ],
@@ -1213,7 +1516,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Por eso, ninguno de los dos debe decirle al otro que no desea tener relaciones sexuales. Sin embargo, pueden ponerse de acuerdo los dos y dejar de tener relaciones por un tiempo, para dedicarse a orar. Pero después deben volver a tener relaciones; no vaya a ser que, al no poder controlar sus deseos, Satanás los haga caer en una trampa."
           ],
@@ -1221,25 +1526,51 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
-            "Por supuesto, les estoy dando un consejo, no una orden.",
+            "Por supuesto, les estoy dando un consejo, no una orden."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7,
+            8
+          ],
+          "lines": [
             "Yo preferiría que tanto los solteros como las viudas se quedaran sin casarse como yo; pero a cada uno Dios le ha dado capacidades distintas, a unos de una clase y a otros de otra."
           ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
-            "Pero si no pueden dominar sus deseos sexuales, es mejor que se casen. Como dice el dicho: «Vale más casarse que quemarse».",
+            "Pero si no pueden dominar sus deseos sexuales, es mejor que se casen. Como dice el dicho: «Vale más casarse que quemarse»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10,
+            11
+          ],
+          "lines": [
             "A los que están casados, el Señor Jesucristo les da esta orden: No deben separarse. Si una mujer se separa de su esposo, que se quede sin casar, o que busque reconciliarse con su esposo. Pero tampoco el esposo debe abandonar a su esposa."
           ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "A los demás les aconsejo lo siguiente: Si alguno de la iglesia está casado con una mujer que no sea cristiana, pero ella quiere seguir viviendo con él, no deben separarse."
           ],
@@ -1247,7 +1578,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Del mismo modo, si una mujer de la iglesia está casada con un hombre que no sea cristiano, pero él quiere seguir viviendo con ella, tampoco deben separarse."
           ],
@@ -1255,7 +1588,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Porque el esposo que no cree en Cristo puede ser aceptado por Dios, si está unido a una mujer cristiana. Del mismo modo, una esposa que no cree en Cristo puede ser aceptada por Dios, si está unida a un hombre que sí cree en Cristo. Además, los hijos de ellos serán aceptados por Dios como parte de su pueblo, y Dios no los rechazará como si fueran algo sucio."
           ],
@@ -1263,7 +1598,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "Pero si el esposo o la esposa no cristianos insisten en separarse, que lo hagan. En tales casos, la esposa o el esposo cristianos no están obligados a mantener ese matrimonio, pues Dios quiere que vivamos en paz."
           ],
@@ -1271,7 +1608,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "Por otra parte, la esposa o el esposo que son cristianos podrían ayudar a que el esposo o la esposa que no son cristianos se salven."
           ],
@@ -1279,7 +1618,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Lo importante es obedecer a Dios"
           ],
@@ -1287,7 +1626,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "Una cosa quiero dejar bien clara para todas las iglesias: Todos los hombres y todas las mujeres deben permanecer en la condición en que estaban cuando Dios los invitó a formar parte de su pueblo."
           ],
@@ -1295,7 +1636,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 18,
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "Si algunos de ustedes creyeron en Cristo después de haberse circuncidado, no traten de ocultar la circuncisión. Si los otros creyeron sin estar circuncidados, no tienen por qué circuncidarse."
           ],
@@ -1303,7 +1646,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 19,
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "Lo importante no es que uno se circuncide o no, sino que obedezca lo que Dios manda."
           ],
@@ -1311,7 +1656,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 20,
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "Cada uno debe quedarse como estaba cuando creyó en Cristo."
           ],
@@ -1319,7 +1666,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 21,
+          "verse_numbers": [
+            21
+          ],
           "lines": [
             "Si eras esclavo, no te preocupes. Pero si puedes conseguir tu libertad, aprovecha la oportunidad."
           ],
@@ -1327,7 +1676,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 22,
+          "verse_numbers": [
+            22
+          ],
           "lines": [
             "Porque si alguien es esclavo y cree en el Señor Jesús, él le dará la libertad. Del mismo modo, el que era libre se convierte en esclavo del Señor."
           ],
@@ -1335,7 +1686,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 23,
+          "verse_numbers": [
+            23
+          ],
           "lines": [
             "Cuando Dios nos hizo libres por medio de la muerte de Cristo, pagó un precio muy alto. Por eso, no debemos hacernos esclavos de nadie."
           ],
@@ -1343,7 +1696,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 24,
+          "verse_numbers": [
+            24
+          ],
           "lines": [
             "Ante Dios, cada uno debe quedarse como estaba cuando creyó en Cristo."
           ],
@@ -1351,7 +1706,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Consejos para los solteros"
           ],
@@ -1359,16 +1714,30 @@
         },
         {
           "type": "verse",
-          "verse_number": 25,
+          "verse_numbers": [
+            25
+          ],
           "lines": [
-            "Para los solteros y las solteras, no tengo ninguna orden del Señor Jesucristo. Solo les doy mi opinión, y pueden confiar en mí, gracias al amor con que Dios me ha tratado.",
+            "Para los solteros y las solteras, no tengo ninguna orden del Señor Jesucristo. Solo les doy mi opinión, y pueden confiar en mí, gracias al amor con que Dios me ha tratado."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            26,
+            27
+          ],
+          "lines": [
             "Me parece que los que están casados no deben separarse, y que si están solteros no deben casarse. Estamos viviendo momentos difíciles. Por eso creo que es mejor que cada uno se quede como está."
           ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_number": 28,
+          "verse_numbers": [
+            28
+          ],
           "lines": [
             "Sin embargo, quien se casa no comete ningún pecado. Y si una mujer soltera se casa, tampoco peca. Pero los casados van a tener problemas, y me gustaría evitárselos."
           ],
@@ -1376,7 +1745,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 29,
+          "verse_numbers": [
+            29
+          ],
           "lines": [
             "Lo que quiero decirles es que ya no hay tiempo que perder. Los que están casados deben vivir como si no lo estuvieran;"
           ],
@@ -1384,7 +1755,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 30,
+          "verse_numbers": [
+            30
+          ],
           "lines": [
             "los que están tristes, como si estuvieran alegres; los que están alegres, como si estuvieran tristes; los que compran, como si no tuvieran nada;"
           ],
@@ -1392,16 +1765,31 @@
         },
         {
           "type": "verse",
-          "verse_number": 31,
+          "verse_numbers": [
+            31
+          ],
           "lines": [
-            "los que están sacándole provecho a este mundo, como si no se lo sacaran. Porque este mundo que conocemos pronto dejará de existir.",
+            "los que están sacándole provecho a este mundo, como si no se lo sacaran. Porque este mundo que conocemos pronto dejará de existir."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            32,
+            33,
+            34
+          ],
+          "lines": [
             "Yo quisiera no verlos preocupados. Los solteros se preocupan de las cosas de Dios y de cómo agradarle. También las viudas y las solteras se preocupan por agradar a Dios en todo lo que hacen y piensan. En cambio, los casados se preocupan por las cosas de este mundo y por agradar a su propia esposa. También las casadas, lo mismo que las jóvenes comprometidas, se preocupan por las cosas de este mundo y por agradar a su propio esposo. Por eso tienen que pensar en distintas cosas a la vez."
           ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_number": 35,
+          "verse_numbers": [
+            35
+          ],
           "lines": [
             "No les digo todo esto para complicarles la vida, sino para ayudarlos a vivir correctamente y para que amen a Dios por encima de todo."
           ],
@@ -1409,7 +1797,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 36,
+          "verse_numbers": [
+            36
+          ],
           "lines": [
             "Sin embargo, si un hombre está comprometido con su novia, y piensa que lo mejor es casarse con ella porque ya tiene edad para hacerlo, que se casen, pues no están pecando."
           ],
@@ -1417,7 +1807,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 37,
+          "verse_numbers": [
+            37
+          ],
           "lines": [
             "Pero si alguno no se siente obligado a casarse y puede controlar sus deseos, hará bien en no casarse."
           ],
@@ -1425,7 +1817,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 38,
+          "verse_numbers": [
+            38
+          ],
           "lines": [
             "Así que, quien se casa hace bien, y quien no se casa, hace mejor."
           ],
@@ -1433,7 +1827,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 39,
+          "verse_numbers": [
+            39
+          ],
           "lines": [
             "La casada está unida a su esposo mientras el esposo vive. Pero si el esposo muere, ella queda en libertad de casarse con cualquier hombre, con tal de que sea cristiano."
           ],
@@ -1441,7 +1837,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 40,
+          "verse_numbers": [
+            40
+          ],
           "lines": [
             "Sin embargo, creo que sería más feliz si no volviera a casarse. Me permito opinar, pues creo que yo también tengo el Espíritu de Dios."
           ],
@@ -1479,7 +1877,7 @@
       "items": [
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "No hagamos pecar a los más débiles"
           ],
@@ -1487,7 +1885,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Ahora quiero responder a lo que me preguntaron acerca de los alimentos ofrecidos a los ídolos. Todos nosotros sabemos algo acerca de esto. Sin embargo, debemos reconocer que el conocimiento nos vuelve orgullosos, mientras que el amor fortalece nuestra vida cristiana."
           ],
@@ -1495,7 +1895,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "Sin duda, el que cree que sabe mucho, en realidad no sabe nada."
           ],
@@ -1503,7 +1905,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "Pero Dios reconoce a todo aquel que lo ama."
           ],
@@ -1511,7 +1915,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "En cuanto a esto de comer alimentos ofrecidos a los ídolos, bien sabemos que los ídolos no tienen vida, y que solamente hay un Dios."
           ],
@@ -1519,7 +1925,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Algunos llaman dioses o señores a muchas cosas que hay en el cielo y en la tierra."
           ],
@@ -1527,7 +1935,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "Sin embargo, para nosotros solo hay un Dios, que es el Padre. Él creó todas las cosas, y nosotros vivimos para él. También hay solo un Señor, que es Jesucristo. Dios creó todo por medio de él, y gracias a él nosotros vivimos ahora."
           ],
@@ -1535,7 +1945,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "No todos saben estas cosas. Antes de creer en Cristo, algunos de ustedes adoraban ídolos, y todavía creen que esos ídolos tienen vida. Por eso, cuando comen alimentos que fueron ofrecidos a los ídolos, les remuerde la conciencia y se sienten culpables."
           ],
@@ -1543,7 +1955,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "Pero nuestra relación con Dios no va a ser mejor o peor por causa de los alimentos que comamos."
           ],
@@ -1551,16 +1965,30 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
-            "Sin embargo, aunque tengamos derecho a comer de todo, debemos tener cuidado de no causarles problemas a los miembros de la iglesia que todavía no están debidamente instruidos.",
+            "Sin embargo, aunque tengamos derecho a comer de todo, debemos tener cuidado de no causarles problemas a los miembros de la iglesia que todavía no están debidamente instruidos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10,
+            11
+          ],
+          "lines": [
             "Supongamos que uno de ustedes va a comer a un lugar donde se adora a los ídolos, y que lo ve algún miembro de la iglesia que todavía cree que los ídolos tienen vida. Entonces, aunque bien sabemos que los ídolos no tienen vida, aquel miembro de la iglesia va a pensar que está bien adorar ídolos, y dejará de creer en Cristo, quien murió por él."
           ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Cuando le hacemos daño a los miembros de la iglesia que no saben distinguir entre lo bueno y lo malo, también le hacemos daño a Cristo."
           ],
@@ -1568,7 +1996,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Por eso yo jamás voy a comer algo, si por comerlo hago que un miembro de la iglesia peque."
           ],
@@ -1606,7 +2036,7 @@
       "items": [
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Los derechos de los servidores de Dios"
           ],
@@ -1614,7 +2044,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Yo soy libre. Soy apóstol. He visto al Señor Jesús. Y gracias a mi trabajo, ahora ustedes son de Cristo."
           ],
@@ -1622,7 +2054,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "Aunque otros piensen que no soy apóstol, para ustedes sí lo soy; ustedes son cristianos, y eso demuestra que realmente soy un apóstol."
           ],
@@ -1630,7 +2064,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "A los que discuten conmigo, yo les respondo"
           ],
@@ -1638,7 +2074,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "que Bernabé y yo también tenemos derecho a recibir comida y bebida por el trabajo que hacemos."
           ],
@@ -1646,7 +2084,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "También tenemos derecho a que nuestra esposa nos acompañe en nuestros viajes. Así lo hacen Pedro y los otros apóstoles, y los hermanos de Jesucristo."
           ],
@@ -1654,7 +2094,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "¿Acaso Bernabé y yo somos los únicos que estamos obligados a trabajar para vivir?"
           ],
@@ -1662,7 +2104,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "En el ejército, ningún soldado paga sus gastos. Los que cultivan uvas, comen de las uvas que recogen. Y los que cuidan cabras, toman de la leche que ordeñan."
           ],
@@ -1670,7 +2114,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "Esta no es una opinión mía, sino que así lo enseña la Biblia."
           ],
@@ -1678,7 +2124,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Porque en los libros que escribió Moisés leemos: «No impidan que el buey coma mientras desgrana el trigo.» Y si la Biblia dice eso, no es porque Dios se preocupe de los bueyes,"
           ],
@@ -1686,7 +2134,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "sino porque se preocupa por nosotros. Tanto los que preparan el terreno como los que desgranan el trigo lo hacen con la esperanza de recibir parte de la cosecha."
           ],
@@ -1694,7 +2144,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "De la misma manera, cuando nosotros les comunicamos a ustedes la buena noticia, es como si sembráramos en ustedes una semilla espiritual. Por eso, como recompensa por nuestro trabajo, tenemos derecho a que ustedes nos den lo necesario para vivir."
           ],
@@ -1702,7 +2154,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Si otros tienen ese derecho, con más razón lo tenemos nosotros. Pero no hemos hecho valer ese derecho, sino que todo lo hemos soportado, con tal de no crear problemas al anunciar la buena noticia de Cristo."
           ],
@@ -1710,7 +2164,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Ustedes saben que los que trabajan en el templo viven de lo que hay en el templo. Es decir, que los que trabajan en el altar del templo, comen de los animales que allí se sacrifican como ofrenda a Dios."
           ],
@@ -1718,7 +2174,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "De la misma manera, el Señor Jesús mandó que los que anuncian la buena noticia vivan de ese mismo trabajo."
           ],
@@ -1726,7 +2184,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "Sin embargo, yo nunca he reclamado ese derecho. Tampoco les escribo esto para que me den algo. ¡Prefiero morirme antes de que alguien me quite la satisfacción de ser apóstol sin sueldo!"
           ],
@@ -1734,7 +2194,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "Yo no anuncio la buena noticia de Cristo para sentirme importante. Lo hago porque Dios así me lo ordenó. ¡Y pobre de mí si no lo hago!"
           ],
@@ -1742,7 +2204,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "Yo no puedo esperar que se me pague por anunciar la buena noticia, pues no se me preguntó si quería hacerlo; ¡se me ordenó hacerlo!"
           ],
@@ -1750,7 +2214,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 18,
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "Pero entonces, ¿qué gano yo con eso? ¡Nada menos que la satisfacción de poder anunciar la buena noticia, sin recibir nada a cambio! Es decir, anunciarla sin hacer valer mi derecho de vivir de mi trabajo como apóstol."
           ],
@@ -1758,7 +2224,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Esforcémonos para recibir nuestro premio"
           ],
@@ -1766,7 +2232,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 19,
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "Aunque soy libre, vivo como si fuera el esclavo de todos. Así ayudo al mayor número posible de personas a creer en Cristo."
           ],
@@ -1774,7 +2242,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 20,
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "Cuando estoy con los judíos, vivo como judío, para ayudarlos a creer en Cristo. Por eso cumplo con la ley de Moisés, aunque en realidad no estoy obligado a hacerlo."
           ],
@@ -1782,7 +2252,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 21,
+          "verse_numbers": [
+            21
+          ],
           "lines": [
             "Y cuando estoy con los que no obedecen la ley de Moisés, vivo como uno de ellos, para ayudarlos a creer en Cristo. Esto no significa que yo no obedezca la ley de Dios. Al contrario, la obedezco, pues sigo la ley de Cristo."
           ],
@@ -1790,7 +2262,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 22,
+          "verse_numbers": [
+            22
+          ],
           "lines": [
             "Cuando estoy con los que apenas empiezan a ser cristianos, me comporto como uno de ellos para poder ayudarlos. Es decir, me he hecho igual a todos, para que algunos se salven."
           ],
@@ -1798,7 +2272,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 23,
+          "verse_numbers": [
+            23
+          ],
           "lines": [
             "Y todo esto lo hago porque amo la buena noticia, y porque quiero participar de sus buenos resultados."
           ],
@@ -1806,7 +2282,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 24,
+          "verse_numbers": [
+            24
+          ],
           "lines": [
             "Ustedes saben que, en una carrera, no todos ganan el premio, sino uno solo. Pues nuestra vida como seguidores de Cristo es como una carrera, así que vivamos bien para llevarnos el premio."
           ],
@@ -1814,7 +2292,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 25,
+          "verse_numbers": [
+            25
+          ],
           "lines": [
             "Los que se preparan para competir en un deporte, dejan de hacer todo lo que pueda perjudicarlos. ¡Y lo hacen para ganarse un premio que no dura mucho! Nosotros, en cambio, lo hacemos para recibir un premio que dura para siempre."
           ],
@@ -1822,7 +2302,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 26,
+          "verse_numbers": [
+            26
+          ],
           "lines": [
             "Yo me esfuerzo por recibirlo. Así que no lucho sin un propósito."
           ],
@@ -1830,7 +2312,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 27,
+          "verse_numbers": [
+            27
+          ],
           "lines": [
             "Al contrario, vivo con mucha disciplina y trato de dominarme a mí mismo. Pues si anuncio a otros la buena noticia, no quiero que al final Dios me descalifique a mí."
           ],
@@ -1868,7 +2352,7 @@
       "items": [
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Obedezcamos y adoremos solo a Dios"
           ],
@@ -1876,7 +2360,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Queridos hermanos en Cristo, tengan presente que, cuando nuestros antepasados cruzaron el Mar de los Juncos, Dios los cubrió a todos ellos con una nube."
           ],
@@ -1884,7 +2370,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "De ese modo, todos fueron bautizados en la nube y en el mar, y así quedaron unidos a Moisés como seguidores suyos."
           ],
@@ -1892,7 +2380,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "Todos ellos comieron el alimento espiritual que Dios les ofreció."
           ],
@@ -1900,7 +2390,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "Cristo los acompañaba, y era la roca espiritual que les dio agua para calmar su sed. De esa agua espiritual bebieron todos."
           ],
@@ -1908,7 +2400,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Sin embargo, la mayoría de esa gente no agradó a Dios; por eso murieron y sus cuerpos quedaron tendidos en el desierto."
           ],
@@ -1916,7 +2410,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "De esto que le sucedió a nuestro pueblo, nosotros tenemos que aprender nuestra lección. No debemos desear hacer lo malo como ellos."
           ],
@@ -1924,7 +2420,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "Ni debemos adorar a los ídolos, como hicieron algunos. Así dice la Biblia: «La gente se sentó a comer y beber, y luego se puso a bailar en honor de los ídolos.»"
           ],
@@ -1932,7 +2430,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "Tampoco debemos tener relaciones sexuales prohibidas, como lo hicieron algunos de ellos. ¡Por eso, en un solo día murieron veintitrés mil!"
           ],
@@ -1940,7 +2440,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "No tratemos de ver cuánto podemos pecar sin que Cristo nos castigue. Algunos del pueblo lo hicieron, y murieron mordidos por serpientes."
           ],
@@ -1948,7 +2450,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "Tampoco debemos quejarnos, como algunos de ellos lo hicieron. Por eso el ángel de la muerte los mató."
           ],
@@ -1956,7 +2460,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Todo eso le sucedió a nuestro pueblo para darnos una lección. Y quedó escrito en la Biblia, para que nos sirva de enseñanza a los que vivimos en estos últimos tiempos."
           ],
@@ -1964,7 +2470,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Por eso, que nadie se sienta seguro de que no va a pecar, pues puede ser el primero en hacerlo."
           ],
@@ -1972,7 +2480,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Ustedes no han pasado por ninguna tentación que otros no hayan tenido. Y pueden confiar en Dios, pues él no va a permitir que sufran más tentaciones de las que pueden soportar. Además, cuando vengan las tentaciones, Dios mismo les mostrará cómo vencerlas, y así podrán resistir."
           ],
@@ -1980,7 +2490,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Por eso, queridos hermanos, no adoren a los ídolos."
           ],
@@ -1988,7 +2500,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "Ustedes son personas inteligentes, y estoy seguro de que me entienden."
           ],
@@ -1996,7 +2510,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "En la Cena del Señor Jesucristo, cuando tomamos la copa y pedimos que Dios la bendiga, todos nosotros estamos participando de la sangre de Cristo. Y cuando partimos el pan, también participamos todos del cuerpo de Cristo."
           ],
@@ -2004,7 +2520,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "Aunque somos muchos, somos un solo cuerpo, porque comemos de un solo pan."
           ],
@@ -2012,7 +2530,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 18,
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "Por ejemplo, en el pueblo de Israel, los que comen la carne de los animales que se sacrifican en el altar del templo, participan de ellos con Dios y con los que toman parte en el sacrificio."
           ],
@@ -2020,7 +2540,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 19,
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "Eso no quiere decir que yo reconozca algún valor en los ídolos que otros pueblos adoran, o en los alimentos que se les ofrecen."
           ],
@@ -2028,7 +2550,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 20,
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "Cuando los que no creen en Cristo ofrecen algo, se lo dan a los demonios y no a Dios. ¡Y yo no quiero que ustedes tengan nada que ver con los demonios!"
           ],
@@ -2036,7 +2560,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 21,
+          "verse_numbers": [
+            21
+          ],
           "lines": [
             "Ustedes no pueden beber de la copa en la Cena del Señor y, al mismo tiempo, beber de la copa que se usa en las ceremonias donde se honra a los demonios. Tampoco pueden participar en la Cena del Señor y, al mismo tiempo, participar en las fiestas para los demonios."
           ],
@@ -2044,7 +2570,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 22,
+          "verse_numbers": [
+            22
+          ],
           "lines": [
             "¿O es que quieren que Dios se enoje? ¡Nosotros no somos más fuertes que Dios!"
           ],
@@ -2052,7 +2580,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Busquemos el bien de los demás"
           ],
@@ -2060,7 +2588,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 23,
+          "verse_numbers": [
+            23
+          ],
           "lines": [
             "Algunos de ustedes dicen: «Yo soy libre de hacer lo que quiera.» ¡Claro que sí! Pero no todo lo que uno quiere, conviene; ni todo fortalece la vida cristiana."
           ],
@@ -2068,18 +2598,42 @@
         },
         {
           "type": "verse",
-          "verse_number": 24,
+          "verse_numbers": [
+            24
+          ],
           "lines": [
-            "Por eso, tenemos que pensar en el bien de los demás, y no solo en nosotros mismos.",
+            "Por eso, tenemos que pensar en el bien de los demás, y no solo en nosotros mismos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            25,
+            26
+          ],
+          "lines": [
             "Dios es dueño de toda la tierra y de todo lo que hay en ella. Por lo tanto, ustedes pueden comer de todo lo que se vende en la carnicería, sin tener que pensar de dónde viene esa carne."
           ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_number": 27,
+          "verse_numbers": [
+            27
+          ],
           "lines": [
-            "Si alguien que no cree en Cristo los invita a comer, y ustedes quieren ir, vayan. Coman de todo lo que les sirvan, y no se pongan a pensar si está bien comer o no.",
+            "Si alguien que no cree en Cristo los invita a comer, y ustedes quieren ir, vayan. Coman de todo lo que les sirvan, y no se pongan a pensar si está bien comer o no."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            28,
+            29
+          ],
+          "lines": [
             "Pero si alguien les dice: «Esta carne fue ofrecida a los ídolos», entonces no la coman, para evitar problemas. Tal vez tú no tengas problemas en comerla, pero otras personas sí.",
             "A mí realmente no me gusta la idea de no poder hacer algo, solo porque otra persona piensa que está mal,"
           ],
@@ -2087,7 +2641,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 30,
+          "verse_numbers": [
+            30
+          ],
           "lines": [
             "pues si yo le doy gracias a Dios por la comida, ¿por qué me van a criticar por comerla?"
           ],
@@ -2095,7 +2651,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 31,
+          "verse_numbers": [
+            31
+          ],
           "lines": [
             "Siempre que ustedes coman o beban, o hagan cualquier otra cosa, háganlo para honrar a Dios."
           ],
@@ -2103,7 +2661,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 32,
+          "verse_numbers": [
+            32
+          ],
           "lines": [
             "No les causen problemas a los judíos, ni a los que no son judíos, ni a los que son de la iglesia de Dios."
           ],
@@ -2111,7 +2671,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 33,
+          "verse_numbers": [
+            33
+          ],
           "lines": [
             "En todo lo que hago, yo trato de agradar a todas las personas. No busco ventajas para mí mismo, sino que busco el bien de los demás, para que se salven."
           ],
@@ -2149,7 +2711,7 @@
       "items": [
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Cómo participar en las reuniones de la iglesia"
           ],
@@ -2157,7 +2719,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Así que sigan mi ejemplo, como yo sigo el ejemplo de Cristo."
           ],
@@ -2165,7 +2729,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "Los felicito, porque ustedes siempre se acuerdan de mí y obedecen mis enseñanzas."
           ],
@@ -2173,7 +2739,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "Ahora quiero que sepan esto: Cristo es el origen del varón, el varón es el origen de la mujer y Dios es el origen de Cristo."
           ],
@@ -2181,7 +2749,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "Si el hombre ora a Dios, o habla en su nombre, con la cabeza cubierta, le falta el respeto a Cristo."
           ],
@@ -2189,7 +2759,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Y si la mujer ora a Dios, o habla en su nombre, sin cubrirse la cabeza, le falta el respeto al hombre. Es lo mismo que si se afeitara la cabeza."
           ],
@@ -2197,7 +2769,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "Si la mujer no quiere cubrirse la cabeza, entonces que se la afeite. Pero si le da vergüenza afeitársela, entonces que se la cubra."
           ],
@@ -2205,7 +2779,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "El hombre no debe cubrirse la cabeza, pues refleja la grandeza de Dios. La mujer, por su parte, refleja la grandeza del hombre."
           ],
@@ -2213,7 +2789,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "Porque Dios no sacó de la mujer al hombre, sino que del hombre sacó a la mujer."
           ],
@@ -2221,7 +2799,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Y no creó Dios al hombre por causa de la mujer, sino a la mujer por causa del hombre."
           ],
@@ -2229,7 +2809,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "Por eso, la mujer debe ejercer control sobre su cabeza, para respeto a los ángeles."
           ],
@@ -2237,7 +2819,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Sin embargo, para nosotros los cristianos, ni la mujer existe sin el hombre, ni el hombre existe sin la mujer."
           ],
@@ -2245,7 +2829,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Es verdad que a la primera mujer Dios la sacó del primer hombre, pero también es verdad que ahora todos los hombres nacen de una mujer. Pero tanto el hombre como la mujer, y todo lo que existe, han sido creados por Dios."
           ],
@@ -2253,7 +2839,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Piensen ustedes mismos si está bien que la mujer ore a Dios con la cabeza descubierta."
           ],
@@ -2261,7 +2849,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Según nuestras costumbres, es una vergüenza que el hombre se deje crecer el cabello,"
           ],
@@ -2269,7 +2859,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "pero no lo es que la mujer se lo deje crecer. Y es que Dios le dio el cabello largo para que se cubra la cabeza."
           ],
@@ -2277,7 +2869,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "En todo caso, si alguien no está de acuerdo con esto y quiere discutirlo, le digo que ni nosotros ni las iglesias de Dios conocemos otra forma de actuar."
           ],
@@ -2285,7 +2879,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "La Cena del Señor"
           ],
@@ -2293,7 +2887,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "Hay algo de lo que no puedo felicitarlos, y son las reuniones que ustedes tienen. En vez de serles de ayuda, los perjudican."
           ],
@@ -2301,7 +2897,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 18,
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "Para empezar, me han dicho que, cuando ustedes se reúnen como iglesia, no se llevan bien, sino que se dividen en grupos y se pelean entre sí. Yo creo que en esto hay algo de verdad."
           ],
@@ -2309,16 +2907,30 @@
         },
         {
           "type": "verse",
-          "verse_number": 19,
+          "verse_numbers": [
+            19
+          ],
           "lines": [
-            "En realidad, todo esto tiene que pasar para que se vea quiénes son los verdaderos seguidores de Cristo.",
+            "En realidad, todo esto tiene que pasar para que se vea quiénes son los verdaderos seguidores de Cristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20,
+            21
+          ],
+          "lines": [
             "Según entiendo, cuando ustedes se reúnen, cada uno se apura a comer su propia comida y no espera a los demás. Así resulta que algunos se quedan con hambre, mientras que otros se emborrachan. ¡Y eso ya no es participar en la Cena del Señor!"
           ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_number": 22,
+          "verse_numbers": [
+            22
+          ],
           "lines": [
             "Más bien, eso es una falta de respeto a la iglesia de Dios, y es poner en vergüenza a los pobres. Si lo que quieren es comer y emborracharse, ¡mejor quédense en sus casas! ¿O esperan acaso que los felicite? ¡Pues no hay razón para felicitarlos!"
           ],
@@ -2326,7 +2938,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 23,
+          "verse_numbers": [
+            23
+          ],
           "lines": [
             "Lo que el Señor Jesucristo me enseñó, es lo mismo que yo les he enseñado a ustedes: La noche en que el Señor Jesús fue traicionado, tomó en sus manos pan,"
           ],
@@ -2334,7 +2948,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 24,
+          "verse_numbers": [
+            24
+          ],
           "lines": [
             "dio gracias a Dios, lo partió en pedazos y dijo: «Esto es mi cuerpo, que es entregado en favor de ustedes. Cuando coman de este pan, acuérdense de mí.»"
           ],
@@ -2342,7 +2958,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 25,
+          "verse_numbers": [
+            25
+          ],
           "lines": [
             "Después de cenar, Jesús tomó en sus manos la copa y dijo: «Esta copa de vino es mi sangre. Con ella, Dios hace un nuevo compromiso con ustedes. Cada vez que beban de esta copa, acuérdense de mí.»"
           ],
@@ -2350,7 +2968,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 26,
+          "verse_numbers": [
+            26
+          ],
           "lines": [
             "Así que, cada vez que ustedes comen de ese pan, o beben de esa copa, anuncian la muerte del Señor Jesús hasta el día en que él vuelva."
           ],
@@ -2358,7 +2978,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Cómo participar en la Cena del Señor"
           ],
@@ -2366,7 +2986,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 27,
+          "verse_numbers": [
+            27
+          ],
           "lines": [
             "Por eso, si una persona come del pan o bebe de la copa del Señor Jesucristo sin darle la debida importancia, peca en contra del cuerpo y de la sangre de Jesucristo."
           ],
@@ -2374,7 +2996,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 28,
+          "verse_numbers": [
+            28
+          ],
           "lines": [
             "Por lo tanto, antes de comer del pan y beber de la copa, cada uno debe preguntarse si está actuando bien o mal."
           ],
@@ -2382,7 +3006,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 29,
+          "verse_numbers": [
+            29
+          ],
           "lines": [
             "Porque Dios va a castigar al que coma del pan y beba de la copa sin darse cuenta de que se trata del cuerpo de Cristo."
           ],
@@ -2390,16 +3016,30 @@
         },
         {
           "type": "verse",
-          "verse_number": 30,
+          "verse_numbers": [
+            30
+          ],
           "lines": [
-            "Por eso algunos de ustedes están débiles o enfermos, y otros ya han muerto.",
+            "Por eso algunos de ustedes están débiles o enfermos, y otros ya han muerto."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            31,
+            32
+          ],
+          "lines": [
             "El Señor Jesucristo se fija en nuestra conducta. Él nos corrige para que aprendamos, y para que así no tengamos que ser castigados junto con la gente de este mundo que no cree en él. Si pensamos bien lo que hacemos, no seremos castigados."
           ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_number": 33,
+          "verse_numbers": [
+            33
+          ],
           "lines": [
             "Por eso, hermanos míos, cuando se junten para comer, esperen a que todos estén reunidos."
           ],
@@ -2407,7 +3047,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 34,
+          "verse_numbers": [
+            34
+          ],
           "lines": [
             "Si alguno tiene hambre, es mejor que coma en su casa. Así Dios no tendrá que castigarlos por su comportamiento en las reuniones.",
             "En cuanto a las otras preguntas que me hicieron, ya les daré instrucciones cuando vaya a visitarlos."
@@ -2446,7 +3088,7 @@
       "items": [
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Las capacidades que da el Espíritu Santo"
           ],
@@ -2454,7 +3096,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Queridos hermanos, quiero que sepan acerca de las capacidades que da el Espíritu Santo."
           ],
@@ -2462,7 +3106,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "Cuando ustedes aún no habían creído en Cristo, cometían el error de adorar ídolos que ni siquiera pueden hablar."
           ],
@@ -2470,7 +3116,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "Solo quienes son guiados por el Espíritu Santo reconocen que Jesús es el Señor. Por eso, quiero que entiendan que ninguna persona puede maldecir a Jesús, si es guiada por el Espíritu Santo."
           ],
@@ -2478,7 +3126,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "Los que pertenecen a la iglesia pueden tener distintas capacidades, pero todas ellas las da el mismo Espíritu."
           ],
@@ -2486,7 +3136,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Se puede servir al Señor Jesús de distintas maneras, pero todos sirven al mismo Señor."
           ],
@@ -2494,7 +3146,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "Se pueden realizar distintas actividades, pero es el mismo Dios quien da a cada uno la habilidad de hacerlas."
           ],
@@ -2502,7 +3156,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "Dios nos enseña que, cuando el Espíritu Santo nos da alguna capacidad especial, lo hace para que procuremos el bien de los demás."
           ],
@@ -2510,7 +3166,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "A algunos, el Espíritu les da la capacidad de hablar con sabiduría, a otros les da la capacidad de hablar con mucho conocimiento,"
           ],
@@ -2518,7 +3176,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "a otros les da una gran confianza en Dios, y a otros les da el poder de sanar a los enfermos."
           ],
@@ -2526,7 +3186,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "Algunos reciben el poder de hacer milagros, y otros reciben la autoridad de hablar de parte de Dios. Unos tienen la capacidad de reconocer al Espíritu de Dios, y de descubrir a los espíritus falsos. Algunos pueden hablar en idiomas desconocidos, y otros pueden entender lo que se dice en esos idiomas."
           ],
@@ -2534,7 +3196,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Pero es el Espíritu Santo mismo el que hace todo esto, y el que decide qué capacidad darle a cada uno."
           ],
@@ -2542,7 +3206,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Todos son necesarios e importantes en la iglesia"
           ],
@@ -2550,7 +3214,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "La iglesia de Cristo es como el cuerpo humano. Está compuesto de distintas partes, pero es un solo cuerpo."
           ],
@@ -2558,7 +3224,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Entre nosotros, unos son judíos y otros no lo son. Algunos son esclavos, y otros son personas libres. Pero todos fuimos bautizados por el mismo Espíritu Santo, para formar una sola iglesia y un solo cuerpo. A cada uno de nosotros Dios nos dio el mismo Espíritu Santo."
           ],
@@ -2566,7 +3234,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "El cuerpo no está formado por una sola parte, sino por muchas."
           ],
@@ -2574,7 +3244,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "Si al pie se le ocurriera decir: «Yo no soy del cuerpo, porque no soy mano», todos sabemos que no por eso dejaría de ser parte del cuerpo."
           ],
@@ -2582,7 +3254,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "Y si la oreja dijera: «Como yo no soy ojo, no soy del cuerpo», de todos modos seguiría siendo parte del cuerpo."
           ],
@@ -2590,7 +3264,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "Si todo el cuerpo fuera ojo, no podríamos oír. Y si todo el cuerpo fuera oído, no podríamos oler."
           ],
@@ -2598,7 +3274,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 18,
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "Pero Dios puso cada parte del cuerpo en donde quiso ponerla."
           ],
@@ -2606,7 +3284,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 19,
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "Una sola parte del cuerpo no es todo el cuerpo."
           ],
@@ -2614,7 +3294,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 20,
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "Y aunque las partes del cuerpo pueden ser muchas, el cuerpo es uno solo."
           ],
@@ -2622,7 +3304,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 21,
+          "verse_numbers": [
+            21
+          ],
           "lines": [
             "El ojo no puede decirle a la mano: «No te necesito». Tampoco la cabeza puede decirle a los pies: «No los necesito»."
           ],
@@ -2630,7 +3314,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 22,
+          "verse_numbers": [
+            22
+          ],
           "lines": [
             "Al contrario, las partes que nos parecen más débiles, son las que más necesitamos."
           ],
@@ -2638,7 +3324,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 23,
+          "verse_numbers": [
+            23
+          ],
           "lines": [
             "Y las partes que nos parecen menos importantes, son las que vestimos con mayor cuidado. Lo mismo hacemos con las partes del cuerpo que preferimos no mostrar."
           ],
@@ -2646,7 +3334,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 24,
+          "verse_numbers": [
+            24
+          ],
           "lines": [
             "En cambio, con las partes que mostramos no somos tan cuidadosos. Y es que Dios hizo el cuerpo de modo que le demos más importancia a las partes que consideramos de menos valor."
           ],
@@ -2654,7 +3344,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 25,
+          "verse_numbers": [
+            25
+          ],
           "lines": [
             "Así las partes del cuerpo se mantienen unidas y se preocupan las unas por las otras."
           ],
@@ -2662,7 +3354,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 26,
+          "verse_numbers": [
+            26
+          ],
           "lines": [
             "Cuando una parte del cuerpo sufre, también sufren todas las demás. Cuando se le da importancia a una parte del cuerpo, las partes restantes se ponen contentas."
           ],
@@ -2670,7 +3364,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 27,
+          "verse_numbers": [
+            27
+          ],
           "lines": [
             "Cada uno de ustedes es parte de la iglesia, y todos juntos forman el cuerpo de Cristo."
           ],
@@ -2678,7 +3374,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 28,
+          "verse_numbers": [
+            28
+          ],
           "lines": [
             "En la iglesia, Dios le dio una función a cada una de las partes. En primer lugar, puso apóstoles; en segundo lugar, puso profetas, y en tercer lugar, puso maestros. También hay algunos que hacen milagros, y otros que tienen la capacidad de sanar a los enfermos; algunos ayudan, otros dirigen, y aun otros hablan en idiomas desconocidos."
           ],
@@ -2686,7 +3384,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 29,
+          "verse_numbers": [
+            29
+          ],
           "lines": [
             "No todos son apóstoles, profetas o maestros. Tampoco todos pueden hacer milagros"
           ],
@@ -2694,7 +3394,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 30,
+          "verse_numbers": [
+            30
+          ],
           "lines": [
             "o curar enfermos. No todos pueden hablar idiomas desconocidos, ni todos pueden entender lo que se dice en esos idiomas."
           ],
@@ -2702,7 +3404,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 31,
+          "verse_numbers": [
+            31
+          ],
           "lines": [
             "Está muy bien que ustedes quieran recibir del Espíritu las mejores capacidades. Yo, por mi parte, voy a enseñarles algo más importante."
           ],
@@ -2740,7 +3444,7 @@
       "items": [
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "El amor verdadero"
           ],
@@ -2748,7 +3452,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Si no tengo amor, de nada me sirve hablar todos los idiomas del mundo, y hasta el idioma de los ángeles. Si no tengo amor, soy como un pedazo de metal ruidoso; ¡soy como una campana desafinada!"
           ],
@@ -2756,7 +3462,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "Si no tengo amor, de nada me sirve hablar de parte de Dios y conocer sus planes secretos. De nada me sirve que mi confianza en Dios me haga mover montañas."
           ],
@@ -2764,7 +3472,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "Si no tengo amor, de nada me sirve darles a los pobres todo lo que tengo. De nada me sirve dedicarme en cuerpo y alma a ayudar a los demás."
           ],
@@ -2772,7 +3482,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "El que ama tiene paciencia en todo, y siempre es amable.",
             "El que ama no es envidioso, ni se cree más que nadie.",
@@ -2782,7 +3494,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "No es grosero ni egoísta.",
             "No se enoja por cualquier cosa.",
@@ -2792,7 +3506,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "No aplaude a los malvados, sino a los que hablan con la verdad."
           ],
@@ -2800,7 +3516,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "El que ama es capaz de aguantarlo todo, de creerlo todo, de esperarlo todo, de soportarlo todo."
           ],
@@ -2808,7 +3526,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "Solo el amor vive para siempre. Llegará el día en que ya nadie hable de parte de Dios, ni se hable en idiomas extraños, ni sea necesario conocer los planes secretos de Dios."
           ],
@@ -2816,7 +3536,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Las profecías, y todo lo que ahora conocemos, es imperfecto."
           ],
@@ -2824,7 +3546,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "Cuando llegue lo que es perfecto, todo lo demás se acabará."
           ],
@@ -2832,7 +3556,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Alguna vez fui niño. Y mi modo de hablar, mi modo de entender las cosas, y mi manera de pensar eran los de un niño. Pero ahora soy una persona adulta, y todo eso lo he dejado atrás."
           ],
@@ -2840,7 +3566,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Ahora conocemos a Dios de manera no muy clara, como cuando vemos nuestra imagen reflejada en un espejo a oscuras. Pero, cuando todo sea perfecto, veremos a Dios cara a cara. Ahora lo conozco de manera imperfecta; pero cuando todo sea perfecto, podré conocerlo como él me conoce a mí."
           ],
@@ -2848,7 +3576,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Hay tres cosas que son permanentes: la confianza en Dios, la seguridad de que él cumplirá sus promesas, y el amor. De estas tres cosas, la más importante es el amor."
           ],
@@ -2886,7 +3616,7 @@
       "items": [
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Las capacidades más importantes"
           ],
@@ -2894,16 +3624,31 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
-            "Procuren amar con sinceridad, y pídanle al Espíritu Santo que los capacite de manera especial para hablar de parte de Dios.",
+            "Procuren amar con sinceridad, y pídanle al Espíritu Santo que los capacite de manera especial para hablar de parte de Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2,
+            3,
+            4
+          ],
+          "lines": [
             "Cuando ustedes hablan en un idioma extraño, se ayudan solo a ustedes mismos. Dios los entiende, porque hablan de verdades secretas que solo el Espíritu Santo conoce. Pero aparte de él, nadie más sabe lo que ustedes dicen. En cambio, cuando Dios les ordena hablar de su parte, la gente sí los entiende. Además, así ustedes ayudan a todos en la iglesia a confiar más en Cristo, a sentirse mejor y a estar alegres."
           ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Me gustaría que todos ustedes hablaran en idiomas desconocidos, pero más me gustaría que hablaran de parte de Dios. En realidad, es más importante hablar de parte de Dios que hablar en idiomas que otros no entienden, a menos que alguien pueda traducir lo que se dice. Porque así se ayuda a los miembros de la iglesia."
           ],
@@ -2911,7 +3656,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "Hermanos míos, si yo fuera a visitarlos y les hablara en idiomas desconocidos, ¿de qué les serviría? Solamente los ayudaría si les diera a conocer algo desconocido, o si les diera algún conocimiento, o si les comunicara algún mensaje de parte de Dios, o alguna enseñanza."
           ],
@@ -2919,7 +3666,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "Si todos los instrumentos musicales tuvieran el mismo sonido, ¿cómo podría distinguirse una flauta de un arpa?"
           ],
@@ -2927,7 +3676,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "Si en una guerra nadie pudiera distinguir el sonido de la trompeta que anuncia la batalla, ninguno se prepararía para combatir."
           ],
@@ -2935,7 +3686,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Algo así pasa cuando ustedes hablan en idiomas desconocidos. Si nadie entiende lo que significan, es como si estuvieran hablándole al aire."
           ],
@@ -2943,7 +3696,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "En el mundo hay muchos idiomas, y en todos ellos se pueden decir cosas que tienen sentido."
           ],
@@ -2951,7 +3706,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Pero si alguien me habla y yo no entiendo lo que dice, esa persona pensará que soy un extranjero. Y lo mismo pensaré yo, si esa persona no me entiende a mí."
           ],
@@ -2959,7 +3716,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Por eso, ya que desean las capacidades que da el Espíritu, traten de tener aquellas que ayuden a todos los de la iglesia."
           ],
@@ -2967,7 +3726,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Por lo tanto, cuando ustedes hablen en idiomas desconocidos, deben pedirle a Dios que les dé la capacidad de explicar lo que estén diciendo."
           ],
@@ -2975,7 +3736,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Por ejemplo, si yo oro en un idioma desconocido, el que ora es mi espíritu, porque yo no entiendo lo que digo."
           ],
@@ -2983,7 +3746,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "¿Qué debo hacer entonces? Pues orar y cantar con mi espíritu, pero también orar y cantar con mi entendimiento."
           ],
@@ -2991,7 +3756,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "Porque si tú das gracias a Dios con tu espíritu, y te escucha algún extraño, no podrá unirse a tu oración si no entiende lo que dices. Y no podrá hacerlo, porque no habrá comprendido nada."
           ],
@@ -2999,7 +3766,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "Tu oración podrá ser muy buena, pero no estarás ayudando a nadie."
           ],
@@ -3007,7 +3776,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 18,
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "Yo le doy gracias a Dios de que hablo en idiomas desconocidos más que todos ustedes."
           ],
@@ -3015,7 +3786,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 19,
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "Sin embargo, cuando estoy en la iglesia, prefiero decir cinco palabras que se entiendan y que ayuden a otros, más que decir diez mil palabras en un idioma que nadie entiende."
           ],
@@ -3023,7 +3796,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 20,
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "Hermanos en Cristo, sean inocentes como niños, pero no piensen como niños. Piensen como personas maduras."
           ],
@@ -3031,7 +3806,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 21,
+          "verse_numbers": [
+            21
+          ],
           "lines": [
             "Dios dice en la Biblia:",
             "«Le hablaré a este pueblo",
@@ -3043,7 +3820,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 22,
+          "verse_numbers": [
+            22
+          ],
           "lines": [
             "Por lo tanto, hablar en idiomas desconocidos podrá probarles algo a los no cristianos, pero para los cristianos esos idiomas no prueban nada. En cambio, los mensajes de parte de Dios son para los cristianos, no para los que no creen en Dios."
           ],
@@ -3051,7 +3830,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 23,
+          "verse_numbers": [
+            23
+          ],
           "lines": [
             "Supongamos que todos los de la iglesia se reúnen y comienzan a hablar en idiomas desconocidos. Si en ese momento entra gente de afuera, o llegan algunos que no creen en Cristo, van a pensar que ustedes están locos."
           ],
@@ -3059,7 +3840,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 24,
+          "verse_numbers": [
+            24
+          ],
           "lines": [
             "Pero si todos ustedes hablan de parte de Dios, esa gente se dará cuenta de que es pecadora,"
           ],
@@ -3067,7 +3850,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 25,
+          "verse_numbers": [
+            25
+          ],
           "lines": [
             "y les confiará a ustedes hasta sus pensamientos más secretos. Luego se arrodillará delante de Dios, lo adorará, y reconocerá que, en verdad, Dios está entre ustedes."
           ],
@@ -3075,7 +3860,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Las reuniones de la iglesia"
           ],
@@ -3083,7 +3868,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 26,
+          "verse_numbers": [
+            26
+          ],
           "lines": [
             "Hermanos míos, cuando se reúnan, todo lo que hagan debe ayudar a los demás. Unos pueden cantar, otros pueden enseñar o comunicar lo que Dios les haya mostrado, otros pueden hablar en idiomas desconocidos, o traducir lo que se dice en esos idiomas."
           ],
@@ -3091,7 +3878,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 27,
+          "verse_numbers": [
+            27
+          ],
           "lines": [
             "Si algunos hablan en idiomas desconocidos, que no sean más de dos o tres personas, y que cada uno espere su turno para hablar. Además, alguien debe traducir lo que estén diciendo."
           ],
@@ -3099,7 +3888,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 28,
+          "verse_numbers": [
+            28
+          ],
           "lines": [
             "Pero si no hay en la iglesia nadie que traduzca, entonces deben callarse, o hablar solo para sí mismos y para Dios."
           ],
@@ -3107,7 +3898,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 29,
+          "verse_numbers": [
+            29
+          ],
           "lines": [
             "Y si algunos hablan de parte de Dios, que sean solo dos o tres personas. Los demás deben prestar atención, para ver si el mensaje es de parte de Dios o no."
           ],
@@ -3115,7 +3908,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 30,
+          "verse_numbers": [
+            30
+          ],
           "lines": [
             "Pero si alguno de los que están sentados recibe un mensaje de Dios, el que está hablando debe callarse y dejar que la otra persona diga lo que tenga que decir."
           ],
@@ -3123,7 +3918,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 31,
+          "verse_numbers": [
+            31
+          ],
           "lines": [
             "Así todos tendrán la oportunidad de anunciar un mensaje de Dios, y todos los que escuchan podrán aprender y sentirse animados."
           ],
@@ -3131,7 +3928,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 32,
+          "verse_numbers": [
+            32
+          ],
           "lines": [
             "La persona que hable de parte de Dios podrá decidir cuándo hablar y cuándo callar."
           ],
@@ -3139,7 +3938,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 33,
+          "verse_numbers": [
+            33
+          ],
           "lines": [
             "Porque a Dios no le gusta el desorden y el alboroto, sino la paz y el orden.",
             "Como es la costumbre en nuestras iglesias,"
@@ -3148,7 +3949,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 34,
+          "verse_numbers": [
+            34
+          ],
           "lines": [
             "las mujeres deben guardar silencio en las reuniones. No está permitido que ellas hablen; más bien, deben mostrarse respetuosas como dice la ley de Moisés."
           ],
@@ -3156,7 +3959,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 35,
+          "verse_numbers": [
+            35
+          ],
           "lines": [
             "Si quieren aprender algo, que les pregunten a sus esposos cuando ya estén en su casa. Se ve mal que la mujer hable en la iglesia."
           ],
@@ -3164,7 +3969,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 36,
+          "verse_numbers": [
+            36
+          ],
           "lines": [
             "Ustedes no inventaron el mensaje de Dios, ni fueron los únicos que lo recibieron."
           ],
@@ -3172,7 +3979,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 37,
+          "verse_numbers": [
+            37
+          ],
           "lines": [
             "Si alguien cree que puede hablar de parte de Dios, o cree que obedece al Espíritu Santo en todo, debe reconocer que esto que les escribo es una orden de Dios."
           ],
@@ -3180,7 +3989,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 38,
+          "verse_numbers": [
+            38
+          ],
           "lines": [
             "Pero si no lo quiere reconocer, ustedes no deben prestarle atención."
           ],
@@ -3188,7 +3999,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 39,
+          "verse_numbers": [
+            39
+          ],
           "lines": [
             "Mis queridos hermanos, ustedes deben procurar hablar de parte de Dios, y no impidan que se hable en idiomas desconocidos."
           ],
@@ -3196,7 +4009,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 40,
+          "verse_numbers": [
+            40
+          ],
           "lines": [
             "Pero háganlo todo de manera correcta y ordenada."
           ],
@@ -3234,7 +4049,7 @@
       "items": [
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "¡Cristo ha resucitado!"
           ],
@@ -3242,7 +4057,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Queridos hermanos, quiero recordarles la buena noticia que les di. Ustedes la recibieron con gusto y confiaron en ella."
           ],
@@ -3250,7 +4067,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "Si continúan confiando firmemente en esa buena noticia, serán salvos. Pero si no, de nada les servirá haberla aceptado."
           ],
@@ -3258,7 +4077,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "Lo primero que les enseñé fue lo mismo que yo aprendí: que Cristo murió en lugar de nosotros, que éramos pecadores. Tal como lo enseña la Biblia,"
           ],
@@ -3266,7 +4087,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "fue sepultado y, después de tres días, Dios lo resucitó."
           ],
@@ -3274,7 +4097,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Primero se le apareció a Pedro, y después a los doce apóstoles."
           ],
@@ -3282,7 +4107,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "Luego se les apareció a más de quinientos de sus seguidores a la vez. Algunos de ellos todavía viven, y otros ya murieron."
           ],
@@ -3290,7 +4117,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "Más tarde se apareció a Santiago, y luego a todos los apóstoles."
           ],
@@ -3298,7 +4127,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "Por último, se me apareció a mí; a pesar de que lo conocí mucho tiempo después que los otros apóstoles.",
             "Por eso me considero"
@@ -3307,7 +4138,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "el menos importante de los apóstoles, y ni siquiera merezco que la gente me llame así, pues le hice mucho daño a la iglesia de Dios."
           ],
@@ -3315,7 +4148,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "Sin embargo, Dios fue bueno conmigo, y por eso soy apóstol. No desprecié el poder especial que me dio, y trabajé más que los otros apóstoles; aunque en realidad todo lo hice gracias a ese poder especial de Dios."
           ],
@@ -3323,7 +4158,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Pero ni yo ni los otros apóstoles importamos. Lo que sí importa es que todos nosotros hemos anunciado esa buena noticia, y que ustedes han creído en ella."
           ],
@@ -3331,7 +4168,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Nosotros también resucitaremos"
           ],
@@ -3339,7 +4176,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "La buena noticia que anunciamos es que Dios resucitó a Cristo. Pero entonces, ¿cómo es que algunos de ustedes dicen que los muertos no resucitan?"
           ],
@@ -3347,7 +4186,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Porque, si los muertos no resucitan, entonces Cristo tampoco resucitó."
           ],
@@ -3355,7 +4196,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Y si Cristo no resucitó, esta buena noticia que anunciamos no sirve para nada, y de nada sirve tampoco que ustedes crean en Cristo."
           ],
@@ -3363,7 +4206,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "Si fuera cierto que los muertos no resucitan, nosotros estaríamos diciendo una mentira acerca de Dios, pues afirmamos que él resucitó a Cristo."
           ],
@@ -3371,7 +4216,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "Si en realidad los muertos no resucitan, entonces tampoco Cristo resucitó."
           ],
@@ -3379,7 +4226,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "Y si Cristo no resucitó, de nada sirve que ustedes crean en él, pues sus pecados aún no habrán sido perdonados."
           ],
@@ -3387,7 +4236,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 18,
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "Y los que antes creyeron en Cristo y murieron, están totalmente perdidos."
           ],
@@ -3395,7 +4246,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 19,
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "Si nuestra esperanza es que Cristo nos ayude solamente en esta vida, no hay nadie más digno de lástima que nosotros."
           ],
@@ -3403,16 +4256,30 @@
         },
         {
           "type": "verse",
-          "verse_number": 20,
+          "verse_numbers": [
+            20
+          ],
           "lines": [
-            "Sin embargo, ¡Cristo resucitó! Esto nos enseña que también resucitarán los que murieron.",
+            "Sin embargo, ¡Cristo resucitó! Esto nos enseña que también resucitarán los que murieron."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            21,
+            22
+          ],
+          "lines": [
             "Por el pecado de Adán todos fuimos castigados con la muerte; pero, gracias a Cristo, ahora podemos volver a vivir."
           ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_number": 23,
+          "verse_numbers": [
+            23
+          ],
           "lines": [
             "Cada uno resucitará a su debido tiempo: primero Cristo; después, cuando él vuelva, resucitarán los que creyeron en él."
           ],
@@ -3420,7 +4287,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 24,
+          "verse_numbers": [
+            24
+          ],
           "lines": [
             "Luego vendrá el fin del mundo, cuando Cristo derrotará a todas las autoridades y a todos los poderes, y le entregará el reinado a Dios el Padre."
           ],
@@ -3428,7 +4297,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 25,
+          "verse_numbers": [
+            25
+          ],
           "lines": [
             "Cristo reinará hasta que haya vencido a todos sus enemigos."
           ],
@@ -3436,7 +4307,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 26,
+          "verse_numbers": [
+            26
+          ],
           "lines": [
             "El último enemigo que Cristo vencerá es la muerte."
           ],
@@ -3444,7 +4317,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 27,
+          "verse_numbers": [
+            27
+          ],
           "lines": [
             "Cuando la Biblia dice: «Dios puso todo bajo su dominio», la palabra «todo» no incluye a Dios, porque es Dios quien puso todo bajo la autoridad de Cristo."
           ],
@@ -3452,7 +4327,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 28,
+          "verse_numbers": [
+            28
+          ],
           "lines": [
             "Y cuando todo esté bajo el dominio del Hijo, él mismo se pondrá bajo la autoridad de Dios. Así, Dios estará sobre todas las cosas, pues él es quien puso todo bajo el dominio de Cristo."
           ],
@@ -3460,7 +4337,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 29,
+          "verse_numbers": [
+            29
+          ],
           "lines": [
             "Algunos se bautizan en lugar de alguien que ya ha muerto, y piensan que así lo salvarán. Pero, si en verdad los muertos no vuelven a vivir, ¿para qué bautizarse?"
           ],
@@ -3468,7 +4347,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 30,
+          "verse_numbers": [
+            30
+          ],
           "lines": [
             "¿Y para qué poner en peligro nuestra vida en todo momento?"
           ],
@@ -3476,7 +4357,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 31,
+          "verse_numbers": [
+            31
+          ],
           "lines": [
             "Ustedes bien saben que todos los días estoy en peligro de muerte. Esto es tan cierto como la satisfacción que tengo de que ustedes creen en Cristo."
           ],
@@ -3484,7 +4367,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 32,
+          "verse_numbers": [
+            32
+          ],
           "lines": [
             "En Éfeso luché con hombres que parecían fieras salvajes. Pero, si es verdad que los muertos no vuelven a vivir, entonces ¿qué gané con eso? Mejor hagamos lo que algunos dicen: «Comamos y bebamos, que mañana moriremos.»"
           ],
@@ -3492,7 +4377,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 33,
+          "verse_numbers": [
+            33
+          ],
           "lines": [
             "¡No se dejen engañar! Bien dice el dicho, que «Las malas amistades echan a perder las buenas costumbres.»"
           ],
@@ -3500,7 +4387,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 34,
+          "verse_numbers": [
+            34
+          ],
           "lines": [
             "Piensen bien lo que hacen, y no sigan desobedeciendo a Dios. Algunos de ustedes deberían sentir vergüenza de no conocerlo."
           ],
@@ -3508,7 +4397,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Cómo resucitarán los muertos"
           ],
@@ -3516,7 +4405,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 35,
+          "verse_numbers": [
+            35
+          ],
           "lines": [
             "Tal vez alguien me pregunte: ¿Y cómo volverán los muertos a la vida? ¿Qué clase de cuerpo tendrán?"
           ],
@@ -3524,7 +4415,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 36,
+          "verse_numbers": [
+            36
+          ],
           "lines": [
             "¡Qué preguntas más tontas! Para que una planta crezca, primero tiene que morir la semilla que fue sembrada."
           ],
@@ -3532,7 +4425,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 37,
+          "verse_numbers": [
+            37
+          ],
           "lines": [
             "Lo que se siembra es una simple semilla de trigo, o de alguna otra cosa, muy distinta de la planta que va a nacer."
           ],
@@ -3540,7 +4435,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 38,
+          "verse_numbers": [
+            38
+          ],
           "lines": [
             "A cada semilla Dios le da el cuerpo que él quiere darle."
           ],
@@ -3548,7 +4445,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 39,
+          "verse_numbers": [
+            39
+          ],
           "lines": [
             "No todos los cuerpos son iguales. Los seres humanos tenemos una clase de cuerpo, y los animales tienen otra clase. Lo mismo pasa con los pájaros y los peces."
           ],
@@ -3556,7 +4455,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 40,
+          "verse_numbers": [
+            40
+          ],
           "lines": [
             "Hay también cuerpos que viven en el cielo, y cuerpos que viven en la tierra. La belleza de los cuerpos del cielo no es como la de los cuerpos de la tierra."
           ],
@@ -3564,7 +4465,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 41,
+          "verse_numbers": [
+            41
+          ],
           "lines": [
             "El brillo del sol no es como el de la luna y las estrellas, y aun cada una de las estrellas tiene un brillo distinto."
           ],
@@ -3572,7 +4475,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 42,
+          "verse_numbers": [
+            42
+          ],
           "lines": [
             "Así pasará cuando los muertos vuelvan a la vida."
           ],
@@ -3580,7 +4485,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 43,
+          "verse_numbers": [
+            43
+          ],
           "lines": [
             "Cuando alguien muere, se entierra su cuerpo, y ese cuerpo se vuelve feo y débil. Pero cuando esa persona vuelva a la vida, su cuerpo será hermoso y fuerte, y no volverá a morir."
           ],
@@ -3588,7 +4495,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 44,
+          "verse_numbers": [
+            44
+          ],
           "lines": [
             "Se entierra el cuerpo físico, pero resucita un cuerpo espiritual. Así como hay cuerpos físicos, hay también cuerpos espirituales."
           ],
@@ -3596,7 +4505,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 45,
+          "verse_numbers": [
+            45
+          ],
           "lines": [
             "La Biblia dice que Dios hizo a Adán, y que Adán fue el primer hombre con vida. Pero Cristo, a quien podemos llamar el último Adán, es un espíritu que da vida."
           ],
@@ -3604,7 +4515,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 46,
+          "verse_numbers": [
+            46
+          ],
           "lines": [
             "Así que primero llegó a existir lo físico, y luego lo espiritual."
           ],
@@ -3612,7 +4525,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 47,
+          "verse_numbers": [
+            47
+          ],
           "lines": [
             "El primer hombre fue hecho del polvo de la tierra. El segundo hombre vino del cielo."
           ],
@@ -3620,7 +4535,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 48,
+          "verse_numbers": [
+            48
+          ],
           "lines": [
             "Todos los que vivimos en esta tierra tenemos un cuerpo como el de Adán, que fue hecho de tierra. Todos los que viven en el cielo tienen un cuerpo como el de Cristo."
           ],
@@ -3628,7 +4545,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 49,
+          "verse_numbers": [
+            49
+          ],
           "lines": [
             "Y así como nos parecemos al primer hombre, que fue sacado de la tierra, así también nos pareceremos a Cristo, que es del cielo."
           ],
@@ -3636,7 +4555,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 50,
+          "verse_numbers": [
+            50
+          ],
           "lines": [
             "Hermanos míos, lo que es de sangre y carne no tiene cabida en el reino de Dios, que es eterno."
           ],
@@ -3644,7 +4565,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 51,
+          "verse_numbers": [
+            51
+          ],
           "lines": [
             "Les voy a contar algo que Dios tenía en secreto: No todos moriremos, pero todos seremos transformados."
           ],
@@ -3652,7 +4575,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 52,
+          "verse_numbers": [
+            52
+          ],
           "lines": [
             "En un abrir y cerrar de ojos, cuando Cristo vuelva, se oirá el último toque de la trompeta, y los muertos volverán a vivir para no morir jamás. Y nosotros seremos transformados."
           ],
@@ -3660,7 +4585,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 53,
+          "verse_numbers": [
+            53
+          ],
           "lines": [
             "Dios cambiará estos cuerpos nuestros, que mueren y se destruyen, por cuerpos que vivirán para siempre y que nunca serán destruidos."
           ],
@@ -3668,7 +4595,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 54,
+          "verse_numbers": [
+            54
+          ],
           "lines": [
             "Cuando esto suceda, se cumplirá lo que dice la Biblia:",
             "«¡La muerte ha sido destruida!"
@@ -3677,7 +4606,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 55,
+          "verse_numbers": [
+            55
+          ],
           "lines": [
             "¿Dónde está ahora su victoria?",
             "¿Dónde está su poder para herirnos?»"
@@ -3686,7 +4617,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 56,
+          "verse_numbers": [
+            56
+          ],
           "lines": [
             "El pecado produce la muerte, y existe porque hay una ley."
           ],
@@ -3694,7 +4627,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 57,
+          "verse_numbers": [
+            57
+          ],
           "lines": [
             "¡Pero gracias a Dios, podemos vencerlo por medio de nuestro Señor Jesucristo!"
           ],
@@ -3702,7 +4637,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 58,
+          "verse_numbers": [
+            58
+          ],
           "lines": [
             "Por eso, mis queridos hermanos, manténganse firmes, y nunca dejen de trabajar más y más por el Señor Jesús. Y sepan que nada de lo que hacen para Dios es inútil."
           ],
@@ -3740,7 +4677,7 @@
       "items": [
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Una ayuda para los hermanos de otra iglesia"
           ],
@@ -3748,7 +4685,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Ahora quiero hablarles acerca del dinero que van a dar para ayudar a los del pueblo de Dios en Jerusalén. Hagan lo mismo que les dije a las iglesias de la región de Galacia."
           ],
@@ -3756,7 +4695,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "Es decir, que cada domingo, cada uno de ustedes debe apartar y guardar algo de dinero, según lo que haya ganado. De este modo no tendrán que recogerlo cuando yo vaya a verlos."
           ],
@@ -3764,7 +4705,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "Elijan a algunos hermanos, para que lleven el dinero a Jerusalén. Cuando yo llegue, los mandaré con el dinero que ustedes hayan dado, y también con cartas, para que los hermanos de la iglesia en Jerusalén los reciban bien."
           ],
@@ -3772,7 +4715,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "Si ustedes creen conveniente que yo también vaya, iré con ellos."
           ],
@@ -3780,7 +4725,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Los planes de Pablo"
           ],
@@ -3788,7 +4733,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Después de pasar por la región de Macedonia, iré a Corinto."
           ],
@@ -3796,7 +4743,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "Tal vez entonces me quede con ustedes algún tiempo, posiblemente todo el invierno. Así podrán ayudarme a pagar mi próximo viaje."
           ],
@@ -3804,7 +4753,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "No quiero visitarlos poco tiempo. Si el Señor Jesús me lo permite, espero estar un buen tiempo con ustedes."
           ],
@@ -3812,7 +4763,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "Me voy a quedar en la ciudad de Éfeso hasta la fiesta de Pentecostés."
           ],
@@ -3820,7 +4773,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Aunque muchos allí están en contra mía, tengo una buena oportunidad de servir a Dios y de obtener buenos resultados."
           ],
@@ -3828,7 +4783,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "Si Timoteo va a visitarlos, procuren que se sienta bien entre ustedes. Él trabaja para Dios, lo mismo que yo."
           ],
@@ -3836,7 +4793,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "No lo traten mal. Ayúdenlo a continuar su viaje con tranquilidad, para que pueda venir a verme, pues lo estoy esperando junto con los otros hermanos de la iglesia."
           ],
@@ -3844,7 +4803,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Muchas veces he tratado de que Apolo vaya a visitarlos, junto con los otros hermanos de la iglesia. Por el momento no ha querido hacerlo, pero lo hará en cuanto pueda."
           ],
@@ -3852,7 +4813,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Consejos finales"
           ],
@@ -3860,7 +4821,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Manténganse siempre en estado de alerta, pero confiando en Cristo. Sean fuertes y valientes,"
           ],
@@ -3868,7 +4831,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "y todo lo que hagan, háganlo con amor."
           ],
@@ -3876,7 +4841,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "Queridos hermanos, ustedes saben que Estéfanas y su familia fueron los primeros en aceptar la buena noticia en la región de Acaya, y que se han dedicado a servir a los miembros de la iglesia."
           ],
@@ -3884,7 +4851,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "Yo les ruego que obedezcan a Estéfanas, y a todos los que trabajan y sirven a Dios como él lo hace."
           ],
@@ -3892,7 +4861,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "Me alegro de que hayan venido Estéfanas, Fortunato y Acaico. Estar con ellos fue como estar con ustedes."
           ],
@@ -3900,7 +4871,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 18,
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "Me hicieron sentir muy bien, lo mismo que a ustedes. A personas como ellos, préstenles mucha atención."
           ],
@@ -3908,7 +4881,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Saludo y despedida"
           ],
@@ -3916,7 +4889,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 19,
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "Las iglesias de la provincia de Asia les mandan saludos. También Áquila y Prisca les mandan cariñosos saludos en el nombre del Señor Jesús, lo mismo que la iglesia que se reúne en su casa."
           ],
@@ -3924,7 +4899,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 20,
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "Todos los hermanos de la iglesia les mandan saludos. Salúdense unos a otros con un beso de hermanos."
           ],
@@ -3932,7 +4909,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 21,
+          "verse_numbers": [
+            21
+          ],
           "lines": [
             "Yo, Pablo, les escribo este saludo con mi propia mano."
           ],
@@ -3940,7 +4919,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 22,
+          "verse_numbers": [
+            22
+          ],
           "lines": [
             "Si alguien no ama al Señor Jesucristo, que la maldición de Dios caiga sobre él. Yo, por mi parte, oro al Señor Jesucristo y le digo: «¡Ven, Señor nuestro!»"
           ],
@@ -3948,7 +4929,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 23,
+          "verse_numbers": [
+            23
+          ],
           "lines": [
             "Que el amor del Señor Jesús los acompañe siempre."
           ],
@@ -3956,7 +4939,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 24,
+          "verse_numbers": [
+            24
+          ],
           "lines": [
             "Yo los amo a todos ustedes con el amor del Señor Jesús."
           ],

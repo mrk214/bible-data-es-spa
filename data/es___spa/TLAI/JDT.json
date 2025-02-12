@@ -50,7 +50,7 @@
       "items": [
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Dos reyes en guerra"
           ],
@@ -58,7 +58,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Esta historia comienza cuando el rey Nabucodonosor llevaba doce años gobernando el país de Asiria. Nabucodonosor vivía en la ciudad de Nínive, que era la capital de su reino. Por ese entonces, Arfaxad era el rey del país de Media y vivía en Ecbatana, la capital de su reino."
           ],
@@ -66,7 +68,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "Arfaxad mandó construir alrededor de Ecbatana una muralla de piedras talladas. Cada una de las piedras era de un metro y treinta y cinco centímetros de ancho, y de dos metros con sesenta centímetros de largo. La muralla era de treinta y un metros y medio de alto, y de veintidós metros y medio de ancho."
           ],
@@ -74,7 +78,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "Sobre los portones de la muralla mandó construir unas torres de vigilancia, que tenían cuarenta y cinco metros de alto, y estaban sobre unos cimientos que medían veintisiete metros de ancho."
           ],
@@ -82,7 +88,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "Los portones eran de treinta y un metros y medio de alto, y de dieciocho metros de ancho. Por ellos podía pasar su poderoso ejército sin ninguna dificultad."
           ],
@@ -90,7 +98,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Fue entonces cuando el rey Nabucodonosor le declaró la guerra al rey Arfaxad, para combatir en la gran llanura que se encuentra en la región de Ragau."
           ],
@@ -98,7 +108,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "A Nabucodonosor se le unieron los que vivían en las montañas y los pueblos que había junto a los ríos Hidaspes, Éufrates y Tigris. También se le unieron los que estaban en las llanuras gobernadas por Arioc, rey de Elam. Fueron muchos los pueblos que se aliaron contra Arfaxad y su pueblo, que eran descendientes de Queleúd."
           ],
@@ -106,7 +118,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "Nabucodonosor envió mensajeros a todos los habitantes de Persia y a todos los que vivían en la región del oeste, para que se le unieran y lo apoyaran en la guerra. Los pueblos de la región del oeste eran:",
             "Cilicia,",
@@ -119,7 +133,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "los del Carmelo y Galaad,",
             "los de Galilea superior y",
@@ -129,7 +145,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Nabucodonosor también llamó a todos los que vivían en Samaria y sus ciudades, a los que vivían al oeste del río Jordán, y a los de Jerusalén, Betané, Quelús y Cades. Igualmente, pidió el apoyo de los que vivían más allá del río de Egipto, los de Tafnes, Ramsés, los del territorio de Gosén,"
           ],
@@ -137,7 +155,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "los que vivían más allá de Tanis y Menfis. También pidió el apoyo de los egipcios y de todos los pueblos que llegaban hasta la frontera con Etiopía."
           ],
@@ -145,7 +165,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Sin embargo, ninguno de esos pueblos le tenía miedo a Nabucodonosor, y pensaban que nadie lo apoyaba. Por eso rechazaron su plan de guerra, y echaron a sus mensajeros, los cuales salieron humillados y con las manos vacías."
           ],
@@ -153,7 +175,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Cuando Nabucodonosor se enteró de eso, se enojó tanto contra todos esos pueblos que juró, por su trono y por su reino, que destruiría a todos los que no lo apoyaron, incluyendo a Moab, a Amón, a Judea y a los que están en la región de los dos mares."
           ],
@@ -161,7 +185,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Nabucodonosor derrota a Arfaxad"
           ],
@@ -169,16 +193,30 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
-            "Nabucodonosor llevaba diecisiete años gobernando al país de Asiria cuando salió con su ejército a pelear contra el rey Arfaxad. En esa batalla Nabucodonosor destruyó por completo al ejército de Arfaxad.",
+            "Nabucodonosor llevaba diecisiete años gobernando al país de Asiria cuando salió con su ejército a pelear contra el rey Arfaxad. En esa batalla Nabucodonosor destruyó por completo al ejército de Arfaxad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14,
+            15
+          ],
+          "lines": [
             "Pero a Arfaxad lo capturó en las montañas de Ragau, y allí lo mató a flechazos. Luego conquistó las ciudades que pertenecían a Arfaxad y llegó hasta Ecbatana. Allí se apoderó de las torres, destruyó las plazas y convirtió en ruinas la belleza de la ciudad amurallada."
           ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "Finalmente, regresó a Nínive con sus soldados y el gran ejército que se le había unido, y durante cuatro meses se dedicaron a descansar y a celebrar la victoria."
           ],
@@ -216,7 +254,7 @@
       "items": [
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Venganza de Nabucodonosor"
           ],
@@ -224,7 +262,10 @@
         },
         {
           "type": "verse",
-          "verse_number": -1,
+          "verse_numbers": [
+            1,
+            2
+          ],
           "lines": [
             "Al comienzo del año dieciocho de su reinado, el rey Nabucodonosor reunió a todos los jefes y ministros del reino. Les comunicó su decisión de vengarse de todos los pueblos que no lo habían apoyado en la guerra. También les presentó el plan que había preparado en secreto para acabar con todos esos pueblos,"
           ],
@@ -232,7 +273,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "y todos estuvieron de acuerdo."
           ],
@@ -240,7 +283,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "Tan pronto como terminó la reunión, el rey Nabucodonosor llamó al comandante general del ejército, que se llamaba Holofernes y era el segundo hombre más importante del reino. Cuando el comandante llegó, el rey le dijo:"
           ],
@@ -248,7 +293,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "«Yo soy el gran rey y soberano de toda la tierra, y estas son mis órdenes. Quiero que de inmediato elijas a los soldados más valientes, para que formes un ejército de ciento veinte mil hombres de infantería, y doce mil hombres de caballería."
           ],
@@ -256,7 +303,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "Atacarás a todos esos pueblos que están en la región del oeste, y que no me apoyaron."
           ],
@@ -264,7 +313,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "Estoy muy enojado con ellos. Exígeles que se rindan, pues de lo contrario los atacaré. Hazles ver que mi ejército tiene muchos soldados. ¡Son tantos que pueden cubrir toda la tierra y apoderarse de ella!"
           ],
@@ -272,7 +323,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "Si no se rinden, los muertos cubrirán los valles, y llenarán los ríos y los arroyos hasta desbordarse."
           ],
@@ -280,7 +333,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Los que queden con vida serán sacados de sus casas y llevados lejos de su patria."
           ],
@@ -288,7 +343,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "»Quiero que salgas de inmediato y conquistes en mi nombre a esos pueblos. Si se rinden, no les hagas ningún daño. Espera hasta que yo llegue y los castigue."
           ],
@@ -296,7 +353,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Pero si no se rinden, no perdones a ninguno; más bien, mátalos y quítales todo lo que tengan; no les tengas piedad."
           ],
@@ -304,7 +363,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "¡Juro por mi vida y por mi poderoso reino, que tomaré venganza con mis propias manos!"
           ],
@@ -312,7 +373,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "»¡Cumple mis órdenes al pie de la letra, y no te demores!»"
           ],
@@ -320,7 +383,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "El comandante Holofernes salió del palacio y de inmediato reunió a todos los jefes, generales y oficiales del ejército."
           ],
@@ -328,7 +393,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "Tal como se lo había ordenado su rey, eligió ciento veinte mil soldados de infantería y doce mil soldados de caballería expertos en el manejo del arco y la flecha."
           ],
@@ -336,7 +403,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "A todos ellos los organizó para la guerra."
           ],
@@ -344,7 +413,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "Holofernes consiguió muchos camellos, burros y mulos para cargar el equipaje, y compró una gran cantidad de ovejas, toros y cabras para alimentar a su ejército."
           ],
@@ -352,9 +423,22 @@
         },
         {
           "type": "verse",
-          "verse_number": 18,
+          "verse_numbers": [
+            18
+          ],
           "lines": [
-            "Luego preparó suficientes provisiones para cada soldado, y sacó del tesoro del reino una gran cantidad de oro y plata para el viaje.",
+            "Luego preparó suficientes provisiones para cada soldado, y sacó del tesoro del reino una gran cantidad de oro y plata para el viaje."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19,
+            20,
+            21
+          ],
+          "lines": [
             "Holofernes salió de Nínive antes que el rey Nabucodonosor. Sus planes eran cubrir con su ejército toda la región del oeste. Detrás del ejército marchaba una gran cantidad de gente, tanta que parecía una nube de saltamontes o moscas. No se sabía cuánta gente iba, pues era como los granos de arena en el mar, que no se pueden contar.",
             "Después de tres días de viaje, Holofernes y su ejército llegaron a la llanura de Bectilet. Luego se dirigieron a la montaña que está arriba de Cilicia norte, y allí acamparon."
           ],
@@ -362,7 +446,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 22,
+          "verse_numbers": [
+            22
+          ],
           "lines": [
             "Desde este lugar, Holofernes dirigió a todo su poderoso ejército hacia la región montañosa."
           ],
@@ -370,7 +456,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 23,
+          "verse_numbers": [
+            23
+          ],
           "lines": [
             "Destruyó los pueblos de Fud y Lud, y a los habitantes de Rasís. A los ismaelitas que vivían al sur de Queleón, al borde del desierto, les quitó todo lo que tenían."
           ],
@@ -378,7 +466,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 24,
+          "verse_numbers": [
+            24
+          ],
           "lines": [
             "Después Holofernes y su ejército cruzaron el río Éufrates, y atravesaron la región de Mesopotamia. Destruyeron todas las ciudades amuralladas que se extendían desde el arroyo de Abroná hasta el mar Mediterráneo."
           ],
@@ -386,7 +476,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 25,
+          "verse_numbers": [
+            25
+          ],
           "lines": [
             "Se apoderaron de la región de Cilicia, y derrotaron a todos los que se les enfrentaron. De allí pasaron a la frontera sur de la región de Jafet, frente a Arabia,"
           ],
@@ -394,7 +486,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 26,
+          "verse_numbers": [
+            26
+          ],
           "lines": [
             "rodearon a los madianitas, incendiaron sus campos y se quedaron con sus ganados."
           ],
@@ -402,7 +496,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 27,
+          "verse_numbers": [
+            27
+          ],
           "lines": [
             "De allí bajaron a la llanura de Damasco, en la época de la cosecha del trigo. Quemaron todos sus campos y mataron todo su ganado; saquearon las ciudades y mataron a todos los jóvenes."
           ],
@@ -410,7 +506,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 28,
+          "verse_numbers": [
+            28
+          ],
           "lines": [
             "Al enterarse de esto, se llenaron de miedo todos los habitantes de la costa del Mediterráneo, es decir, los pueblos de Sidón, Tiro, Oquiná, Jabnia, Asdod, Ascalón y Sur."
           ],
@@ -448,7 +546,9 @@
       "items": [
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Entonces enviaron mensajeros a Nabucodonosor con esta propuesta de paz:",
             "«Al gran rey Nabucodonosor:"
@@ -457,10 +557,34 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
-            "»Su Majestad, nosotros somos sus servidores y nos ponemos a sus órdenes. Nuestra vida está en sus manos.",
-            "Todo lo que tenemos es suyo: fincas, animales, campos de trigo, y hasta nuestras ciudades con sus habitantes. Su Majestad puede hacer lo que quiera con todo esto».",
+            "»Su Majestad, nosotros somos sus servidores y nos ponemos a sus órdenes. Nuestra vida está en sus manos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3,
+            4
+          ],
+          "lines": [
+            "Todo lo que tenemos es suyo: fincas, animales, campos de trigo, y hasta nuestras ciudades con sus habitantes. Su Majestad puede hacer lo que quiera con todo esto»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "lines": [
             "Los mensajeros le entregaron la propuesta al comandante Holofernes, y este decidió ir a cada una de las ciudades de la costa. En todas ellas, la gente lo recibió con música de tambores y baile, y hasta se puso coronas de hojas de laurel. Sin embargo, Holofernes destruyó todos los templos que había en esas ciudades, pues tenía orden de destruir los ídolos. Así todos los habitantes de esas ciudades, sin importar su raza o idioma, tendrían que adorar al rey Nabucodonosor como si fuera un dios.",
             "Al salir de cada ciudad, Holofernes dejó tropas de su ejército vigilando la ciudad, y eligió hombres del lugar para que sirvieran como soldados auxiliares."
           ],
@@ -468,7 +592,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Luego se fue al valle de Esdrelón, que está junto a Dotán, frente a las montañas de Judea."
           ],
@@ -476,7 +602,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "Puso su campamento entre las ciudades de Gabá y Escitópolis, y se quedó allí un mes, para juntar más alimentos y equipo para su ejército."
           ],
@@ -514,7 +642,7 @@
       "items": [
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Los israelitas se alistan para la guerra"
           ],
@@ -522,7 +650,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Los israelitas que vivían en Judea se enteraron de que el comandante Holofernes había tratado con crueldad a las naciones de la costa. Supieron que había destruido los templos y se había llevado todo lo que allí había."
           ],
@@ -530,7 +660,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "Estas noticias les causaron gran temor, pues ya se imaginaban lo que Holofernes haría con Jerusalén y su templo."
           ],
@@ -538,7 +670,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "Hacía poco tiempo que los israelitas habían sido liberados de la esclavitud en Babilonia, y habían regresado a su país. Además, habían vuelto a dedicar a Dios el templo, el altar y los utensilios que se usaban en el culto, pues sus enemigos los habían usado para adorar a sus dioses."
           ],
@@ -546,7 +680,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "Entonces los de Judea enviaron mensajeros a los israelitas que vivían en Samaria, Coná, Bet-horón, Ibleam, Jericó, Cobá, Hasor y el valle de Salem, y les avisaron que se alistaran para la guerra."
           ],
@@ -554,16 +690,29 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
-            "Luego, subieron rápidamente a las montañas más altas, y allí construyeron murallas alrededor de los pueblos de esos lugares. Aprovechando que hacía poco habían recogido sus cosechas, reunieron una gran cantidad de alimentos, y de ese modo se alistaron para la guerra.",
+            "Luego, subieron rápidamente a las montañas más altas, y allí construyeron murallas alrededor de los pueblos de esos lugares. Aprovechando que hacía poco habían recogido sus cosechas, reunieron una gran cantidad de alimentos, y de ese modo se alistaron para la guerra."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6,
+            7,
+            8
+          ],
+          "lines": [
             "El único camino que conducía a Judea estaba en la región montañosa, cerca de los pueblos de Betulio y Betomestaim, frente al valle de Esdrelón, y frente a la llanura cercana a Dotán. Entonces Joaquín, que era el jefe de los sacerdotes y vivía en Jerusalén, escribió un mensaje para los israelitas de esos pueblos, pidiéndoles que vigilaran el camino. El mensaje iba firmado por él y por los jefes de Judea. El plan era cerrarles el paso a los enemigos invasores, pues el camino era tan angosto que solo podían pasar dos personas a la vez. La gente de Betulio y Betomestaim obedeció de inmediato."
           ],
           "rlw_lines": []
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Los israelitas piden ayuda a Dios"
           ],
@@ -571,7 +720,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Los israelitas oraron a Dios con todas sus fuerzas y le pidieron ayuda. Reconocieron que necesitaban su ayuda, y que sin él estaban perdidos."
           ],
@@ -579,7 +730,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "Entonces los hombres, mujeres y niños, y los obreros, esclavos y extranjeros del lugar, se vistieron con ropas ásperas para mostrar su tristeza ante Dios. También echaron mantas ásperas sobre los animales, para mostrarle a Dios hasta dónde llegaba su preocupación."
           ],
@@ -587,9 +740,23 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
-            "Los israelitas de Jerusalén fueron a los patios del templo y se arrodillaron; allí se echaron ceniza sobre la cabeza, y se vistieron con ropas ásperas y extendieron sus manos hacia Dios.",
+            "Los israelitas de Jerusalén fueron a los patios del templo y se arrodillaron; allí se echaron ceniza sobre la cabeza, y se vistieron con ropas ásperas y extendieron sus manos hacia Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12,
+            13,
+            14,
+            15
+          ],
+          "lines": [
             "También cubrieron el altar del templo con telas ásperas, y le pidieron a Dios protección. Y es que temían que sus enemigos se burlaran de ellos, les quitaran a sus hijos y se llevaran a sus mujeres. Sabían que los enemigos destruirían las ciudades que habían heredado y adorarían a sus dioses en el templo.",
             "En Jerusalén y en toda Judea, la gente ayunó durante muchos días delante del templo del Dios todopoderoso. Por su parte, Joaquín, el jefe de los sacerdotes, junto con los demás sacerdotes y los que trabajaban en el templo, reconocieron ante Dios que sin su ayuda estaban perdidos. Entonces se vistieron con ropas ásperas para hacer los sacrificios de cada día, y para recibir las ofrendas que el pueblo voluntariamente le llevaba a Dios. Además se echaron ceniza sobre la cabeza, y con todas sus fuerzas le pidieron a Dios que protegiera al pueblo de Israel.",
             "Dios vio el sufrimiento de su pueblo y escuchó sus oraciones."
@@ -628,7 +795,7 @@
       "items": [
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "El informe de Aquior a Holofernes"
           ],
@@ -636,7 +803,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Holofernes, el comandante general del ejército asirio, fue informado de que los israelitas se alistaban para la guerra y que habían cerrado el camino que subía a la montaña. También le informaron que los israelitas habían construido murallas alrededor de los pueblos de las montañas, y que habían llenado de trampas las llanuras."
           ],
@@ -644,7 +813,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "Al escuchar el informe, Holofernes se enojó muchísimo, y llamó a todos los jefes de Moab y de Amón, y también a los gobernadores de las ciudades de la costa."
           ],
@@ -652,7 +823,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "Les preguntó:",
             "—Ustedes que habitan la región de Canaán, díganme, ¿qué clase de gente es esa que vive en la montaña? ¿En qué ciudades habitan? ¿Qué tan poderoso es su ejército? ¿De dónde sacan su fuerza? ¿Quién es el rey que los gobierna y comanda su ejército?"
@@ -661,7 +834,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "¿Por qué no salió su gente a recibirme, como lo hicieron los pueblos del oeste?"
           ],
@@ -669,17 +844,32 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Aquior, el jefe de Amón, contestó:",
-            "«Su Excelencia, présteme usted atención y le contaré la verdad acerca de ese pueblo que ahora vive en las montañas. Puede usted confiar en que le diré solo la verdad.",
+            "«Su Excelencia, présteme usted atención y le contaré la verdad acerca de ese pueblo que ahora vive en las montañas. Puede usted confiar en que le diré solo la verdad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6,
+            7,
+            8
+          ],
+          "lines": [
             "»Originalmente, estos israelitas eran descendientes de los caldeos. Pero los caldeos los expulsaron de su tierra, porque no quisieron adorar a sus dioses. Al contrario, comenzaron a adorar solamente al Dios del cielo y abandonaron las costumbres caldeas. Por eso los israelitas tuvieron que irse a la región de Mesopotamia, y allí vivieron mucho tiempo."
           ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "»Después de algún tiempo, su Dios les ordenó que se fueran a vivir a Canaán. Así que se trasladaron a esa tierra y se hicieron muy ricos, pues llegaron a tener mucho oro, plata y ganado."
           ],
@@ -687,7 +877,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "»Pasaron largos años, y hubo hambre en toda la región de Canaán. Entonces se fueron a Egipto, y allí vivieron mientras hubo alimento. Tuvieron muchos hijos, y se volvieron un pueblo muy numeroso."
           ],
@@ -695,7 +887,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Pero al ver que se convertían en una amenaza, el rey de Egipto se puso en contra de ellos. Los humilló, los maltrató y los obligó a fabricar ladrillos. ¡Los convirtió en sus esclavos!"
           ],
@@ -703,7 +897,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "»Entonces los israelitas le rogaron a su Dios que los ayudara, y él castigó a los egipcios con plagas terribles y enfermedades incurables. Los egipcios no tuvieron más remedio que echarlos fuera de su país."
           ],
@@ -711,7 +907,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "»Ellos salieron y al llegar al Mar de los Juncos, su Dios secó el mar para que pudieran cruzarlo."
           ],
@@ -719,7 +917,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Luego los guió por el camino del Sinaí y por Cadés-barnea. Ellos, por su parte, echaron a la gente que vivía en los pueblos del desierto,"
           ],
@@ -727,7 +927,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "y se quedaron a vivir en la región de los amorreos. Además, pelearon contra los habitantes de Hesbón y los vencieron. Luego cruzaron el río Jordán y se apoderaron de toda la región montañosa,"
           ],
@@ -735,7 +937,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "donde se quedaron por mucho tiempo. De allí echaron a los cananeos, a los ferezeos, a los jebuseos, a los gergeseos y a los de Siquem."
           ],
@@ -743,7 +947,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "»El Dios de ese pueblo odia el pecado. Por eso, mientras ellos lo obedecieron, les fue bien en todo."
           ],
@@ -751,7 +957,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 18,
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "Pero cuando desobedecieron a su Dios, sufrieron muchas guerras, los enemigos se apoderaron de sus ciudades, el templo de su Dios fue destruido, y a ellos los llevaron presos a un país lejano."
           ],
@@ -759,7 +967,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 19,
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "Estando allá, le pidieron perdón a su Dios, y así pudieron regresar a su tierra. Algunos volvieron a la ciudad de Jerusalén, donde está su templo, y otros habitaron de nuevo los pueblos de las montañas, los cuales habían quedado abandonados."
           ],
@@ -767,7 +977,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 20,
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "»Por lo tanto, Su Excelencia, si ese pueblo ha cometido algún pecado, y estamos seguros de que ha ofendido a su Dios, entonces podremos atacarlos y vencerlos."
           ],
@@ -775,7 +987,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 21,
+          "verse_numbers": [
+            21
+          ],
           "lines": [
             "Pero si no han pecado contra su Dios, será mejor que usted los deje en paz. Porque si usted los ataca, el Dios de ese pueblo los defenderá, y al vernos derrotados todo el mundo se burlará de nosotros»."
           ],
@@ -783,7 +997,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 22,
+          "verse_numbers": [
+            22
+          ],
           "lines": [
             "Tan pronto como Aquior terminó de hablar, todos los que estaban escuchándolo se enojaron con él. Además, los capitanes del ejército de Holofernes, los habitantes de la costa y los de Moab querían matarlo."
           ],
@@ -791,7 +1007,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 23,
+          "verse_numbers": [
+            23
+          ],
           "lines": [
             "Todos gritaban: «¡Esos israelitas no nos asustan! ¡Esa gente es débil y no tiene un ejército que nos pueda derrotar!"
           ],
@@ -799,7 +1017,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 24,
+          "verse_numbers": [
+            24
+          ],
           "lines": [
             "¡Comandante Holofernes, ataquemos ahora! ¡Para nuestro ejército esa gente es pan comido!»"
           ],
@@ -837,7 +1057,7 @@
       "items": [
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Aquior en poder de los israelitas"
           ],
@@ -845,7 +1065,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Después de un rato, los que estaban alrededor de los jefes y gobernadores dejaron de gritar. Entonces el comandante Holofernes, delante de los moabitas y los extranjeros presentes, le dijo a Aquior:"
           ],
@@ -853,7 +1075,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "«¿Quién te has creído que eres? ¿Cómo te atreves a darme consejos? Tú y tu ejército se han vendido a los israelitas, y ahora me sales con que no debemos luchar contra ellos porque su Dios los protegerá. ¿Acaso crees que hay otro dios aparte del rey Nabucodonosor? ¡Él es nuestro dios! Su poder hará desaparecer de la tierra a esos israelitas, y su dios no los podrá salvar."
           ],
@@ -861,7 +1085,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "»Nosotros servimos a Nabucodonosor, y destruiremos a los israelitas como si fueran un solo hombre. Ellos no podrán hacerles frente a nuestros poderosos soldados de caballería."
           ],
@@ -869,7 +1095,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "¡Acabaremos con todos ellos! ¡La sangre de su gente correrá por las montañas, y los valles quedarán cubiertos de cadáveres! No podrán vencernos. ¡Ninguno de ellos quedará con vida! ¡Así lo ha dicho el rey Nabucodonosor, y sus órdenes se cumplirán! Él es el dueño de toda la tierra."
           ],
@@ -877,16 +1105,31 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
-            "»Y tú, Aquior, no me volverás a ver hasta que haya castigado a ese pueblo que escapó de Egipto. Tus propias palabras te condenan. ¡No eres más que un soldado amonita que se vende al que mejor le paga!",
+            "»Y tú, Aquior, no me volverás a ver hasta que haya castigado a ese pueblo que escapó de Egipto. Tus propias palabras te condenan. ¡No eres más que un soldado amonita que se vende al que mejor le paga!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6,
+            7,
+            8
+          ],
+          "lines": [
             "Cuando yo regrese de la batalla, recibirás el castigo que te mereces. Mis soldados y mis ayudantes te clavarán sus lanzas, y te partirán con sus espadas. Por ahora te dejaré con vida, pero mis ayudantes te llevarán a la montaña y te dejarán en una de esas ciudades. Allí sufrirás la muerte junto con los israelitas."
           ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "»Todo cuanto te he dicho, se cumplirá. Y si de veras crees que ese pueblo es invencible, no tienes por qué poner esa cara de preocupación»."
           ],
@@ -894,7 +1137,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "Tan pronto terminó de hablar, Holofernes ordenó a sus guardias que apresaran al jefe Aquior, y que lo entregaran a los israelitas que vivían en la ciudad de Betulia."
           ],
@@ -902,7 +1147,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Los guardias lo tomaron prisionero y lo sacaron del campamento. Caminaron por el valle y luego subieron a la montaña, hasta llegar a las fuentes de agua que hay en la parte baja de Betulia."
           ],
@@ -910,7 +1157,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Cuando los hombres de Betulia vieron a los soldados de Holofernes, tomaron sus armas y subieron a la parte más alta de la montaña. Los soldados hábiles en el uso de la honda comenzaron a arrojarles piedras para no dejarlos subir."
           ],
@@ -918,7 +1167,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Entonces los hombres de Holofernes bajaron de la montaña, y allí dejaron atado a Aquior. Luego regresaron a donde estaba su comandante."
           ],
@@ -926,7 +1177,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Al ver esto, los israelitas bajaron de su ciudad y llegaron hasta donde estaba Aquior. Luego de desatarlo, lo llevaron a Betulia y lo presentaron ante los jefes de la ciudad."
           ],
@@ -934,7 +1187,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "En ese tiempo los jefes eran Ozías hijo de Miqueas, de la tribu de Simeón, Cabris hijo de Otoniel, y Carmis hijo de Malquiel."
           ],
@@ -942,7 +1197,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "Ellos reunieron a todos los ancianos, y a las mujeres y a los jóvenes de la ciudad, y pusieron a Aquior en medio de ellos. Ozías le pidió a Aquior que explicara lo que había pasado,"
           ],
@@ -950,7 +1207,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "y este contó lo que había dicho delante de los oficiales del ejército asirio. También les informó de los planes del comandante Holofernes, y que este había lanzado amenazas contra los israelitas."
           ],
@@ -958,7 +1217,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 18,
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "Cuando los presentes oyeron esto, todos se arrodillaron hasta tocar el suelo con la frente, para adorar a Dios. Todos gritaban:"
           ],
@@ -966,7 +1227,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 19,
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "«¡Dios del cielo, mira el orgullo de nuestros enemigos! ¡Solo buscan el poder! ¡Ten compasión de tu humilde pueblo! ¡Atiéndenos, pues somos tuyos!»"
           ],
@@ -974,7 +1237,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 20,
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "Después de esto calmaron a Aquior, y con mucho entusiasmo lo felicitaron."
           ],
@@ -982,7 +1247,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 21,
+          "verse_numbers": [
+            21
+          ],
           "lines": [
             "Cuando terminó la reunión, Ozías invitó a Aquior a su casa, donde dio una gran fiesta para los líderes de la ciudad. Y pasaron toda esa noche rogándole al Dios de Israel que los ayudara."
           ],
@@ -1020,7 +1287,7 @@
       "items": [
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Holofernes ataca la ciudad de Betulia"
           ],
@@ -1028,7 +1295,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Al día siguiente, Holofernes le ordenó a su ejército y a las tropas aliadas que marcharan hacia la ciudad de Betulia. El plan era ocupar los caminos angostos que cruzaban la montaña y atacar a los israelitas."
           ],
@@ -1036,7 +1305,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "El ejército de Holofernes tenía ciento sesenta mil soldados de infantería y doce mil de caballería. Esto sin contar a los ayudantes encargados del equipaje del ejército, y la gran cantidad de personas que lo seguían a pie. Ese mismo día iniciaron su camino a Betulia."
           ],
@@ -1044,7 +1315,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "Cuando llegaron cerca de la ciudad, acamparon junto al manantial del valle. Era tan grande el ejército que el valle quedó completamente cubierto de soldados. El campamento se extendía desde Dotán hasta Ibleam, y desde Betulia hasta Ciamón, que está frente a Esdrelón."
           ],
@@ -1052,7 +1325,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "Cuando los israelitas vieron aquel ejército tan grande, tuvieron mucho miedo, y se decían unos a otros: «¡Este ejército acabará con toda la tierra! Son tantos que ni las montañas ni los valles ni los cerros podrán aguantar su peso»."
           ],
@@ -1060,7 +1335,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Entonces los israelitas tomaron sus armas, encendieron fogatas en las torres y vigilaron durante toda la noche."
           ],
@@ -1068,7 +1345,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "Al día siguiente, Holofernes envió a todos sus soldados de caballería para que desfilaran frente a los israelitas de Betulia."
           ],
@@ -1076,7 +1355,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "También revisó los caminos que llevaban a la ciudad, y dejó soldados vigilando los pozos de agua que estaban fuera de las murallas. Luego, regresó a donde estaba el resto de su ejército."
           ],
@@ -1084,7 +1365,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Los planes para el ataque"
           ],
@@ -1092,7 +1373,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "Los comandantes de las tropas aliadas de Edom, Moab y las ciudades de la costa, fueron a ver a Holofernes, y le dijeron:"
           ],
@@ -1100,7 +1383,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "«Su Excelencia, por favor preste atención al consejo que le vamos a dar, para que ningún soldado de su ejército muera."
           ],
@@ -1108,7 +1393,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "Los israelitas no confían tanto en sus armas, sino en que viven en esas altas montañas, a las cuales es muy difícil subir."
           ],
@@ -1116,7 +1403,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Por eso, Su Excelencia, si usted no los ataca como ellos esperan, verá que ni uno solo de sus soldados morirá."
           ],
@@ -1124,7 +1413,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "»Lo que usted debe hacer es quedarse aquí en el campamento con sus soldados. Mientras tanto, y si usted nos da permiso, iremos y cerraremos el pozo de agua que brota al pie de la montaña."
           ],
@@ -1132,7 +1423,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "De ese pozo sacan agua todos los habitantes de Betulia, pero si ya no la tienen, tendrán que rendirse para no morir de sed.",
             "»Cuando ellos se rindan, subiremos con nuestros soldados a lo más alto de la montaña, y no dejaremos salir a nadie de la ciudad."
@@ -1141,7 +1434,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Los hombres, mujeres y niños de Betulia caerán muertos de hambre por las calles. No tendremos necesidad de matarlos en batalla."
           ],
@@ -1149,7 +1444,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "De esa manera, usted les dará el castigo que se merecen, pues ellos no quisieron rendirse por las buenas»."
           ],
@@ -1157,7 +1454,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "Holofernes y sus consejeros aceptaron el plan, y ordenaron que se cumpliera."
           ],
@@ -1165,7 +1464,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "Entonces el ejército de los moabitas y cinco mil soldados asirios salieron del campamento, y al llegar al valle se apoderaron de los pozos de agua de los israelitas."
           ],
@@ -1173,7 +1474,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 18,
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "Al mismo tiempo, las tropas de los edomitas y de los amonitas subieron a las cumbres de las montañas y acamparon frente a Dotán. También enviaron tropas hacia el sureste para que acamparan frente a Egrebel, cerca de Cus, donde está el pozo de Mocmur. El resto del ejército asirio acampó en el valle. Eran tantos los soldados, las tiendas de campaña y el equipaje, que todo el valle quedó cubierto."
           ],
@@ -1181,7 +1484,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 19,
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "Cuando los israelitas vieron que sus enemigos los tenían rodeados, y que no tenían manera de escapar, se desanimaron mucho, y a gritos pidieron ayuda a Dios."
           ],
@@ -1189,7 +1494,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Los asirios rodean la ciudad de Betulia"
           ],
@@ -1197,7 +1502,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 20,
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "Todo el ejército asirio mantuvo rodeada la ciudad de Betulia durante treinta y cuatro días.",
             "Los habitantes de la ciudad pronto se quedaron sin agua,"
@@ -1206,16 +1513,30 @@
         },
         {
           "type": "verse",
-          "verse_number": 21,
+          "verse_numbers": [
+            21
+          ],
           "lines": [
-            "pues se acabaron sus reservas. La gente solo bebía un poco de agua cada día, y no era suficiente para calmar la sed.",
+            "pues se acabaron sus reservas. La gente solo bebía un poco de agua cada día, y no era suficiente para calmar la sed."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            22,
+            23
+          ],
+          "lines": [
             "Los niños, las mujeres y los jóvenes caían desmayados en las calles y junto a los portones de la ciudad. Por eso los habitantes de Betulia, en su desesperación, fueron a reclamarle al gobernador Ozías y a los jefes de la ciudad. Les dijeron:"
           ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_number": 24,
+          "verse_numbers": [
+            24
+          ],
           "lines": [
             "«¡Que Dios los castigue por el gran daño que nos han hecho! Ustedes no quisieron hacer un trato de paz con los asirios,"
           ],
@@ -1223,7 +1544,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 25,
+          "verse_numbers": [
+            25
+          ],
           "lines": [
             "y ahora no tenemos quien nos ayude. Al contrario, Dios nos ha entregado en manos de nuestros enemigos, y moriremos de sed ante ellos. ¡Acabarán por completo con nosotros!"
           ],
@@ -1231,7 +1554,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 26,
+          "verse_numbers": [
+            26
+          ],
           "lines": [
             "Ríndanse y dejen que el ejército de Holofernes se lleve todo lo que quiera."
           ],
@@ -1239,7 +1564,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 27,
+          "verse_numbers": [
+            27
+          ],
           "lines": [
             "No queremos ver morir a nuestros hijos y mujeres; antes, preferimos ser esclavos de los asirios."
           ],
@@ -1247,7 +1574,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 28,
+          "verse_numbers": [
+            28
+          ],
           "lines": [
             "Dios nos está castigando por los pecados que cometimos, y por los de nuestros antepasados. ¡Por el amor de Dios, no nos dejen morir!»"
           ],
@@ -1255,7 +1584,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 29,
+          "verse_numbers": [
+            29
+          ],
           "lines": [
             "Todos los que estaban allí reunidos empezaron a llorar de angustia. Daban gritos pidiendo la ayuda de Dios."
           ],
@@ -1263,7 +1594,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 30,
+          "verse_numbers": [
+            30
+          ],
           "lines": [
             "Entonces el gobernador Ozías les respondió:",
             "—¡Compatriotas, tengan fe! ¡Les pido que aguantemos solo cinco días más! ¡Les aseguro que Dios tendrá compasión de nosotros! ¡Dios no nos abandonará!"
@@ -1272,7 +1605,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 31,
+          "verse_numbers": [
+            31
+          ],
           "lines": [
             "Si al cabo de cinco días nuestro Dios no nos ha salvado, haré lo que ustedes me están pidiendo."
           ],
@@ -1280,7 +1615,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 32,
+          "verse_numbers": [
+            32
+          ],
           "lines": [
             "Luego los despidió y les encargó que regresaran a sus puestos. Entonces los hombres se dirigieron a las murallas y a las torres de la ciudad, y las mujeres y los niños se fueron a sus casas. Sin embargo, en toda la ciudad había mucha preocupación y tristeza."
           ],
@@ -1318,7 +1655,7 @@
       "items": [
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "El valor de Judit"
           ],
@@ -1326,7 +1663,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "En la ciudad de Betulia vivía un mujer llamada Judit, que era hija de Merarí y nieta de Us. Estos eran sus antepasados:",
             "Jacob,",
@@ -1345,14 +1684,26 @@
             "Uziel,",
             "José,",
             "Us y",
-            "Merarí.",
+            "Merarí."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2,
+            3
+          ],
+          "lines": [
             "Judit se había casado con un hombre llamado Manasés, que pertenecía a su misma tribu y familia. Manasés había muerto en Betulia, durante una cosecha de la cebada. Murió por pasar mucho tiempo bajo los rayos del sol, mientras dirigía a los trabajadores que ataban los manojos de cebada. Fue sepultado en el terreno que está entre Ibleam y Dotán, donde también habían sepultado a sus antepasados."
           ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "Hacía tres años y cuatro meses que Judit había quedado viuda."
           ],
@@ -1360,7 +1711,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Vivía en una habitación sencilla que hizo construir en la parte alta de su casa. Siempre vestía con ropas ásperas en señal de luto."
           ],
@@ -1368,7 +1721,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "Ayunaba todos los días, menos los sábados, los días de luna nueva y durante las fiestas que celebraban los israelitas."
           ],
@@ -1376,7 +1731,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "Era muy hermosa y atractiva. No necesitaba de nada, pues su esposo Manasés le había dejado una gran fortuna. Tenía oro, plata, ganado, fincas y muchos esclavos y esclavas."
           ],
@@ -1384,7 +1741,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "Además, Judit siempre obedecía las leyes de Dios, por lo que nadie podía acusarla de nada malo."
           ],
@@ -1392,7 +1751,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Judit se enteró de que el pueblo se había quejado ante Ozías por la falta de agua. También se dio cuenta de que Ozías había prometido entregar la ciudad a los asirios, si en un plazo de cinco días Dios no salvaba a la ciudad."
           ],
@@ -1400,7 +1761,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "Entonces Judit envió a su empleada de confianza para que llamara a Cabris y a Carmis, que eran dos de los jefes de la ciudad."
           ],
@@ -1408,7 +1771,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Cuando ellos se presentaron, Judit les dijo:",
             "—¡Jefes de la ciudad de Betulia, escuchen bien lo que les voy a decir! Ustedes hicieron muy mal al prometer que entregarían la ciudad a nuestros enemigos, si Dios no nos ayuda en cinco días."
@@ -1417,7 +1782,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "¿Con qué derecho le exigen eso a Dios? ¿Acaso pretenden hacerse pasar por Dios delante de la gente?"
           ],
@@ -1425,7 +1792,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Ustedes que no saben nada, ¿cómo se atreven a darle órdenes al Dios todopoderoso?"
           ],
@@ -1433,7 +1802,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Si ni siquiera conocen los pensamientos de la gente, ¿cómo van a conocer las intenciones del Dios que creó todo lo que existe?",
             "»¡Compatriotas, por ningún motivo hagan enojar a Dios!"
@@ -1442,7 +1813,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "Él es libre de hacer con nosotros lo que quiera, y puede negarse a ayudarnos en estos cinco días. Dios tiene el poder para ayudarnos, o para dejarnos morir delante de nuestros enemigos."
           ],
@@ -1450,7 +1823,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "Así que no intenten obligarlo a cambiar sus planes. Recuerden que Dios no es como nosotros; él no siente miedo ante las amenazas, ni permite que se le diga lo que debe hacer."
           ],
@@ -1458,7 +1833,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "Por eso, lo mejor que podemos hacer es pedirle que nos ayude, ¡y podemos confiar en que lo hará! Si Dios quiere salvarnos, escuchará nuestra oración."
           ],
@@ -1466,7 +1843,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 18,
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "»Tenemos una ventaja: hace mucho tiempo que ninguno de nosotros adora a esos dioses falsos que la gente fabrica. ¡En todo el país no hay nadie que adore a los ídolos! Nuestros antepasados sí lo hicieron,"
           ],
@@ -1474,7 +1853,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 19,
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "y por eso Dios los castigó. En ese tiempo nuestros enemigos les causaron un daño muy grande a nuestros antepasados: les robaron todo lo que tenían, y los mataron."
           ],
@@ -1482,7 +1863,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 20,
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "Pero hoy día, nosotros solo adoramos al Dios verdadero. Por eso confiamos en que él no nos abandonará."
           ],
@@ -1490,7 +1873,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 21,
+          "verse_numbers": [
+            21
+          ],
           "lines": [
             "»Si nuestros enemigos conquistan esta ciudad, entonces toda la región de Judea también será derrotada, y se llevarán todo lo que hay en el templo de nuestro Dios. En tal caso nosotros mereceríamos morir, pues seríamos responsables de lo que pueda pasar."
           ],
@@ -1498,7 +1883,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 22,
+          "verse_numbers": [
+            22
+          ],
           "lines": [
             "Además, Dios nos culparía de la muerte y esclavitud de nuestra gente, y de la destrucción del país. Y por si eso fuera poco, nuestros enemigos se burlarían de nosotros y quedaríamos en ridículo."
           ],
@@ -1506,7 +1893,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 23,
+          "verse_numbers": [
+            23
+          ],
           "lines": [
             "Dios usaría nuestra esclavitud para avergonzarnos, así que no podríamos esperar que nos vaya bien."
           ],
@@ -1514,7 +1903,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 24,
+          "verse_numbers": [
+            24
+          ],
           "lines": [
             "»¡Demos a nuestros compatriotas un buen ejemplo de confianza! De nosotros depende la vida de ellos, y que el templo de Dios no sea destruido."
           ],
@@ -1522,7 +1913,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 25,
+          "verse_numbers": [
+            25
+          ],
           "lines": [
             "»¡Demos gracias a nuestro Dios, que nos ha puesto a prueba, como lo hizo con nuestros antepasados!"
           ],
@@ -1530,7 +1923,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 26,
+          "verse_numbers": [
+            26
+          ],
           "lines": [
             "Recuerden lo que le hizo a Abraham, y las pruebas por las que hizo pasar a Isaac. También acuérdense de lo que le pasó a Jacob en Mesopotamia, cuando cuidaba las ovejas de su tío Labán."
           ],
@@ -1538,7 +1933,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 27,
+          "verse_numbers": [
+            27
+          ],
           "lines": [
             "Dios les mandó esas pruebas para que ellos fueran mejores personas, y lo mismo está haciendo con nosotros. ¡De ninguna manera quiere vengarse de nosotros!"
           ],
@@ -1546,7 +1943,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 28,
+          "verse_numbers": [
+            28
+          ],
           "lines": [
             "Entonces, Ozías le respondió:",
             "—Sin duda, has dicho la verdad."
@@ -1555,7 +1954,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 29,
+          "verse_numbers": [
+            29
+          ],
           "lines": [
             "No es la primera vez que te oímos hablar con sabiduría. Desde que eras una niña has demostrado ser muy inteligente y bondadosa. ¡Todo el mundo lo sabe!"
           ],
@@ -1563,7 +1964,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 30,
+          "verse_numbers": [
+            30
+          ],
           "lines": [
             "Sin embargo, debes comprender que la gente se está muriendo de sed. Por eso no tuvimos más remedio que hacer ese juramento. Ahora no podemos echarnos atrás."
           ],
@@ -1571,7 +1974,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 31,
+          "verse_numbers": [
+            31
+          ],
           "lines": [
             "Ya que tú eres una mujer con mucha fe en Dios, pídele que envíe lluvias para que se llenen nuestras reservas de agua. Así no moriremos de sed."
           ],
@@ -1579,7 +1984,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 32,
+          "verse_numbers": [
+            32
+          ],
           "lines": [
             "Entonces Judit contestó:",
             "—Escuchen bien lo que les digo. Hoy haré algo que siempre será recordado en nuestra nación. Todos los padres se lo contarán a sus hijos."
@@ -1588,7 +1995,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 33,
+          "verse_numbers": [
+            33
+          ],
           "lines": [
             "Vayan esta noche a los portones de la ciudad, y me verán salir con mi empleada de confianza. Les aseguro que antes de que se cumpla el plazo de cinco días, Dios salvará a Israel gracias a mi intervención."
           ],
@@ -1596,7 +2005,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 34,
+          "verse_numbers": [
+            34
+          ],
           "lines": [
             "No traten de averiguar lo que voy a hacer; lo sabrán cuando haya llevado a cabo mi plan."
           ],
@@ -1604,7 +2015,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 35,
+          "verse_numbers": [
+            35
+          ],
           "lines": [
             "Ozías y los jefes le dijeron:",
             "—¡Vete tranquila! ¡Que nuestro Dios te acompañe y te use para derrotar a nuestros enemigos!"
@@ -1613,7 +2026,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 36,
+          "verse_numbers": [
+            36
+          ],
           "lines": [
             "Entonces salieron de la casa de Judit y regresaron a ocupar sus puestos."
           ],
@@ -1651,7 +2066,7 @@
       "items": [
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "La oración de Judit"
           ],
@@ -1659,7 +2074,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Ese mismo día por la tarde, Judit se arrodilló, se inclinó hasta tocar el suelo con la frente y se echó ceniza en la cabeza. Luego se quitó el manto y dejó a la vista la ropa áspera que llevaba puesta. Era la hora en que se quemaba incienso en el templo de Jerusalén, y en ese preciso momento Judit oró a Dios así:"
           ],
@@ -1667,7 +2084,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "«¡Dios mío!",
             "¡Dios de mi antepasado Simeón!",
@@ -1681,7 +2100,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "»Ellos forzaron a Dina y la violaron;",
             "por esa maldad encontraron la muerte",
@@ -1696,7 +2117,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "Tú escuchaste la oración",
             "de los hermanos de Dina;",
@@ -1715,7 +2138,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Tú eres el dueño del pasado,",
             "del presente y del futuro.",
@@ -1726,7 +2151,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "Solo tienes que pensarlo,",
             "y ya se convierte en realidad.",
@@ -1737,7 +2164,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "»¡Dios mío,",
             "mira qué poderosos se creen esos asirios!",
@@ -1752,7 +2181,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "»Tu nombre es Rey del universo;",
             "¡usa tu poder y déjalos sin fuerza!",
@@ -1765,7 +2196,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "¡Mira qué orgullosos son!",
             "¡Manda tu castigo sobre ellos!",
@@ -1776,7 +2209,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "Déjame engañarlos con mis palabras",
             "y castigar de un solo golpe",
@@ -1788,7 +2223,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "»Tu poder no radica",
             "en los grandes ejércitos;",
@@ -1804,7 +2241,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "»¡Dios de mi padre y de mi pueblo!",
             "¡Dios del cielo y de la tierra!",
@@ -1816,7 +2255,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Déjame engañar y herir de muerte",
             "a los que buscan dañar a Israel,",
@@ -1828,7 +2269,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Haz que todas las naciones de la tierra",
             "reconozcan que solo tú",
@@ -1870,7 +2313,7 @@
       "items": [
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Judit se enfrenta a Holofernes"
           ],
@@ -1878,7 +2321,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Cuando Judit terminó de orar al Dios de Israel,"
           ],
@@ -1886,7 +2331,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "llamó a su empleada de confianza y bajó al primer piso de su casa. Allí era donde ella pasaba los sábados y los días de fiesta."
           ],
@@ -1894,7 +2341,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "Judit se quitó la ropa de luto, se bañó y se perfumó. Luego se peinó, se puso una diadema y se vistió con su mejor vestido, tal como lo hacía cuando aún vivía su marido Manasés."
           ],
@@ -1902,7 +2351,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "Se puso también unas sandalias y muchas joyas. Quedó tan hermosa que, al verla, cualquier hombre se hubiera enamorado de ella."
           ],
@@ -1910,7 +2361,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Por último, Judit llenó una bolsa con harina de cebada, tortas de higos y panes frescos. Además, agarró un botellón de vino y una botella de aceite. Todo esto se lo entregó a su empleada para que lo llevara."
           ],
@@ -1918,7 +2371,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "Después de estos preparativos, Judit y su empleada se pusieron en marcha. Cuando llegaron a la entrada de la ciudad se encontraron con los jefes Ozías, Cabris y Carmis."
           ],
@@ -1926,7 +2381,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "Al ver a Judit tan arreglada y bien vestida, ellos quedaron asombrados de su belleza, y le dijeron:"
           ],
@@ -1934,7 +2391,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "—¡Que el Dios de nuestros antepasados te conceda lo que pidas! ¡Que te permita llevar a cabo tus planes, para orgullo de Israel y alegría de los habitantes de Jerusalén!"
           ],
@@ -1942,7 +2401,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Judit adoró a Dios, y luego les dijo:",
             "—Den la orden para que me permitan salir de la ciudad. Llevaré a cabo todo lo que ustedes acaban de decir.",
@@ -1952,7 +2413,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "y Judit y su empleada salieron. Los hombres de la ciudad la siguieron con la mirada, y la vieron bajar por la montaña y atravesar el valle, hasta perderla de vista."
           ],
@@ -1960,7 +2423,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Cuando Judit y su empleada atravesaban el valle, les salió al paso un grupo de soldados asirios."
           ],
@@ -1968,7 +2433,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Las detuvieron, y le preguntaron a Judit:",
             "—¿Y tú quién eres? ¿De dónde vienes y a dónde vas?",
@@ -1978,7 +2445,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Deseo ver a Holofernes, el comandante general del ejército, pues quiero darle información muy útil. Yo conozco un camino por el cual el comandante puede llevar a su ejército, y quedarse con toda la región montañosa sin perder un solo soldado."
           ],
@@ -1986,7 +2455,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Mientras Judit hablaba, los soldados no se cansaban de admirar su belleza. Entonces le dijeron:"
           ],
@@ -1994,7 +2465,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "—El venir a ver al comandante Holofernes te ha salvado la vida. Sigue adelante hasta llegar a su carpa. Estos soldados te guiarán hasta allá."
           ],
@@ -2002,7 +2475,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "Cuando estés frente a él, no tengas miedo; tan solo repite lo que nos has dicho, y él te tratará bien."
           ],
@@ -2010,7 +2485,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "Entonces eligieron a cien soldados para que acompañaran a Judit y a su empleada hasta la carpa de Holofernes."
           ],
@@ -2018,7 +2495,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 18,
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "La noticia de la presencia de Judit en el campamento corrió de carpa en carpa. Así que todos salieron y fueron a verla. Los soldados la rodearon justo en el momento en que ella se encontraba frente a la carpa de Holofernes, esperando ser recibida."
           ],
@@ -2026,7 +2505,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 19,
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "Al ver la belleza de Judit, todos se quedaron asombrados. Tan impresionados estaban que, llenos de admiración, comentaban: «¡Nadie puede menospreciar a un pueblo con mujeres tan bellas! Si dejáramos con vida a un solo israelita, cometeríamos un grave error. Porque si algunos quedaran con vida, serían capaces de conquistar el mundo por medio de engaños»."
           ],
@@ -2034,7 +2515,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 20,
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "Los guardaespaldas de Holofernes, y los demás oficiales que lo acompañaban, salieron de su carpa y dejaron pasar a Judit."
           ],
@@ -2042,7 +2525,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 21,
+          "verse_numbers": [
+            21
+          ],
           "lines": [
             "Holofernes estaba descansando en su cama. Una tela muy fina adornada con oro, esmeraldas y piedras preciosas cubría la cama como un toldo."
           ],
@@ -2050,7 +2535,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 22,
+          "verse_numbers": [
+            22
+          ],
           "lines": [
             "Cuando le anunciaron a Holofernes que Judit lo estaba esperando, él salió a recibirla. Sus sirvientes iban adelante alumbrándole el camino con lámparas de plata."
           ],
@@ -2058,7 +2545,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 23,
+          "verse_numbers": [
+            23
+          ],
           "lines": [
             "Holofernes y sus acompañantes vieron a Judit, y se quedaron admirados de su belleza. Entonces Judit se arrodilló ante Holofernes en señal de respeto, pero los sirvientes del comandante la ayudaron a levantarse."
           ],
@@ -2096,7 +2585,7 @@
       "items": [
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Judit habla con Holofernes"
           ],
@@ -2104,7 +2593,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Entonces Holofernes le dijo a Judit:",
             "—Vamos, mujer, no tengas miedo; ¡confía en mí! Yo nunca maltrato a los que sirven a Nabucodonosor, el rey de toda la tierra."
@@ -2113,7 +2604,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "Si ese pueblo tuyo, que vive en las montañas, no me hubiera despreciado, yo no habría venido aquí a presentar pelea. Pero ellos mismos se han buscado esta guerra."
           ],
@@ -2121,7 +2614,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "No sé por qué escapaste y has venido hasta acá, pero hiciste bien en venir, pues has salvado tu vida. A partir de esta noche estarás a salvo."
           ],
@@ -2129,7 +2624,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "Aquí nadie te hará daño. Te vamos a tratar muy bien, como merecen los que sirven a Su Majestad, el rey Nabucodonosor."
           ],
@@ -2137,7 +2634,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Judit le respondió:",
             "—¡Su Excelencia, yo soy su humilde esclava, y estoy para servirle! Por favor, escúcheme. Todo lo que voy a decirle esta noche es verdad."
@@ -2146,7 +2645,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "Si usted escucha mi consejo, Dios lo ayudará, y usted ganará esta guerra."
           ],
@@ -2154,7 +2655,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "»¡Que viva Nabucodonosor, rey poderoso de todo el mundo! El rey lo ha enviado a usted a poner orden en toda la tierra. Gracias a su poder, ante el rey Nabucodonosor y sus descendientes se rinden todas las naciones, las bestias salvajes, los animales domésticos, y hasta las aves del cielo."
           ],
@@ -2162,7 +2665,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "»Su Excelencia es muy inteligente, hábil y sabio, y esto lo sabe todo el mundo. ¡No hay nadie que se le compare en todo el reino! ¡Si hay alguien que sabe de guerra, ese es usted!"
           ],
@@ -2170,7 +2675,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "También sabemos lo que Aquior le dijo, pues cuando fue rescatado por los hombres de Betulia, él les contó todo."
           ],
@@ -2178,7 +2685,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "Lo que Aquior dijo es cierto, y yo creo que usted, mi distinguido comandante, debe hacerle caso: cuando nuestro pueblo no peca contra Dios, nada ni nadie puede vencerlo."
           ],
@@ -2186,7 +2695,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Pero no se desanime ni se sienta fracasado, pues le tengo buenas noticias: mi pueblo ha hecho enojar a mi Dios, pues ha vuelto a pecar. Por eso Dios lo va a castigar, y será destruido."
           ],
@@ -2194,7 +2705,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "»Mi pueblo se está muriendo de hambre y de sed, y está pensando comer todo aquello que Dios, en su ley, ha prohibido."
           ],
@@ -2202,7 +2715,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Ya están decididos a comerse los primeros frutos del trigo, y una parte del vino y del aceite, los cuales deben darse como ofrenda. Estos alimentos están reservados para los sacerdotes de Jerusalén, y solo ellos pueden tocarlos."
           ],
@@ -2210,7 +2725,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "»Cuando la gente de Betulia vio que los de Jerusalén ya estaban comiendo los alimentos prohibidos, enviaron mensajeros pidiendo permiso a las autoridades para hacer lo mismo."
           ],
@@ -2218,7 +2735,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "Tan pronto tengan el permiso, todos dejarán de cumplir la ley de Dios. Entonces él los castigará, y permitirá que usted los destruya."
           ],
@@ -2226,7 +2745,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "»Yo sabía que esto iba a pasar; por eso escapé de la ciudad. Pero en realidad Dios me envió para hacer con usted algo tan extraordinario, que dejará sorprendido a todo el mundo."
           ],
@@ -2234,7 +2755,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "»Aunque solo soy su humilde esclava, si usted me lo permite me quedaré aquí. Como soy una mujer que obedece y adora al Dios del cielo, cada noche iré al valle a orar. Allí le pediré a mi Dios que me haga saber el momento en que los israelitas cometan ese pecado."
           ],
@@ -2242,7 +2765,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 18,
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "En cuanto él me lo diga, vendré a avisarle a usted, para que salga con todo su ejército, ¡y nadie podrá hacerle frente!"
           ],
@@ -2250,7 +2775,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 19,
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "Luego yo misma lo guiaré por toda Judea, hasta Jerusalén. Una vez que lleguemos allá, haré que usted tome el control de la ciudad. ¡Ni siquiera un perro saldrá a ladrarle! Entonces usted se llevará presos a todos los habitantes, como si fueran ovejas que no tienen pastor. Dios ha permitido que yo sepa esto antes de que suceda, y por eso me mandó a decírselo."
           ],
@@ -2258,7 +2785,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 20,
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "Este mensaje llenó de alegría a Holofernes y a sus oficiales. Todos estaban sorprendidos de la sabiduría de Judit, y decían:"
           ],
@@ -2266,7 +2795,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 21,
+          "verse_numbers": [
+            21
+          ],
           "lines": [
             "«¡En ningún lugar del mundo hay una mujer tan hermosa y tan inteligente!»"
           ],
@@ -2274,7 +2805,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 22,
+          "verse_numbers": [
+            22
+          ],
           "lines": [
             "Luego, Holofernes le dijo a Judit:",
             "—¡Dios hizo muy bien al enviarte antes de que entremos en batalla con tu pueblo! Él nos dará la victoria y nos dejará destruir a los que dicen que el rey Nabucodonosor no vale nada."
@@ -2283,7 +2816,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 23,
+          "verse_numbers": [
+            23
+          ],
           "lines": [
             "Eres muy hermosa y sabes hablar muy bien. Si haces lo que has dicho, tu Dios será mi Dios, y tú vivirás en el palacio de mi rey. ¡Serás famosa en todo el mundo!"
           ],
@@ -2321,7 +2856,7 @@
       "items": [
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Judit en el campamento enemigo"
           ],
@@ -2329,7 +2864,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Después de esto, Holofernes pidió que llevaran a Judit al comedor, donde tenía su vajilla de plata. Allí ordenó que le sirvieran de la comida y del vino que solo le servían a él."
           ],
@@ -2337,7 +2874,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "Pero Judit le dijo:",
             "—No puedo comer de su comida, pues ofendería a mi Dios. Yo he traído mis propios alimentos."
@@ -2346,7 +2885,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "Holofernes le preguntó:",
             "—¿Qué vas a hacer cuando se te acaben tus alimentos? ¿Cómo vamos a conseguirte comida, si entre nosotros no hay nadie de tu pueblo?"
@@ -2355,7 +2896,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "—No se preocupe por eso, mi señor —le respondió Judit—. Antes de que se me acaben los alimentos, Dios cumplirá, por medio de mí, lo que ha planeado hacer."
           ],
@@ -2363,7 +2906,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Luego, los sirvientes de Holofernes llevaron a Judit a la carpa, donde ella durmió hasta la medianoche. Luego se levantó de madrugada,"
           ],
@@ -2371,7 +2916,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "y le mandó un mensaje a Holofernes pidiéndole permiso para salir a orar."
           ],
@@ -2379,7 +2926,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "Holofernes ordenó a sus guardaespaldas que la dejaran salir del campamento.",
             "Judit estuvo tres días en el campamento. Cada noche salía al valle de Betulia y se bañaba en una fuente, la cual estaba bien vigilada."
@@ -2388,7 +2937,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "De regreso al campamento, le pedía al Dios de Israel que le permitiera sacar a su pueblo de esa difícil situación."
           ],
@@ -2396,7 +2947,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Después de cumplir con la ceremonia de purificación, regresaba a su carpa y permanecía allí hasta que le llevaban la cena."
           ],
@@ -2404,7 +2957,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Holofernes invita a Judit a cenar"
           ],
@@ -2412,7 +2965,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "Al cuarto día, Holofernes ofreció una fiesta solo para sus asistentes personales. Ningún otro oficial fue invitado."
           ],
@@ -2420,7 +2975,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Antes de la fiesta, llamó a Bagoas, un oficial al que le tenía muchísima confianza, y le dijo:",
             "—Ve y convence a esa mujer hebrea que puse bajo tu cuidado, de que venga a comer y a beber con nosotros."
@@ -2429,7 +2986,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Sería una vergüenza que teniéndola aquí, no la conquistara y tuviera relaciones sexuales con ella. ¡Hasta se burlaría de mí!"
           ],
@@ -2437,7 +2996,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Bagoas salió de inmediato, fue a donde estaba Judit y le dijo:",
             "—Por favor, bella señorita, tenga la bondad de acompañar a mi señor en este día. Venga a beber vino, y a pasarla bien con nosotros, tal como lo hacen las asirias que viven en el palacio de Nabucodonosor."
@@ -2446,7 +3007,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Judit le contestó:",
             "—¿Quién soy yo para decirle que no a Su Excelencia? ¡Iré con mucho gusto, si eso le complace! ¡Será el momento más feliz de toda mi vida!"
@@ -2455,7 +3018,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "Judit empezó a arreglarse, se puso un vestido muy bonito y se adornó con todas sus joyas. Su empleada iba delante de ella, y cuando llegó a donde estaba Holofernes, tendió las pieles que Bagoas le había dado a Judit, para que se recostara sobre ellas mientras comía."
           ],
@@ -2463,7 +3028,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "Desde que Holofernes vio a Judit por primera vez, solo esperaba el mejor momento para enamorarla. Por eso, cuando Judit entró en su carpa y se sentó a su lado, Holofernes comenzó a sentir un gran deseo de tener relaciones sexuales con ella."
           ],
@@ -2471,7 +3038,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "—¡Bebe y alégrate con nosotros! —le dijo Holofernes."
           ],
@@ -2479,7 +3048,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 18,
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "—¡Será un placer, Su Excelencia! —respondió Judit—. ¡Hoy es el día más feliz de mi vida!"
           ],
@@ -2487,7 +3058,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 19,
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "Judit comenzó a comer y a beber lo que su empleada le había preparado."
           ],
@@ -2495,7 +3068,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 20,
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "Holofernes estaba tan feliz de que Judit estuviera allí, que hasta se emborrachó. Nunca antes había bebido tanto vino como ese día."
           ],
@@ -2533,7 +3108,7 @@
       "items": [
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Judit mata a Holofernes"
           ],
@@ -2541,7 +3116,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Cuando se hizo tarde, los invitados de Holofernes se retiraron. Entonces Bagoas despidió al resto de la gente, y después de salir cerró la carpa. Tanto habían comido y bebido que se fueron a dormir."
           ],
@@ -2549,7 +3126,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "Así Judit se quedó a solas con Holofernes, quien estaba tan borracho que se quedó dormido."
           ],
@@ -2557,7 +3136,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "Antes de que todos se fueran, Judit avisó que saldría a orar, como lo había hecho las noches anteriores. De esto, Bagoas estaba enterado. Además, Judit le pidió a su empleada que se quedara afuera de la carpa, y que la esperara hasta que ella saliera a orar."
           ],
@@ -2565,7 +3146,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "Entonces Judit se paró junto a la cama de Holofernes, oró en voz baja, y dijo:",
             "«Dios mío, todopoderoso, lo que voy a hacer es por el bien de Jerusalén; te pido que lo aceptes con agrado."
@@ -2574,7 +3157,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Este es el mejor momento para que ayudes a tu pueblo, y para que yo lleve a cabo mi plan. ¡Ha llegado la hora de matar a los enemigos que han venido a destruirnos!»"
           ],
@@ -2582,7 +3167,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "Judit se acercó al respaldo de la cama y tomó la espada de Holofernes."
           ],
@@ -2590,7 +3177,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "Luego agarró de los cabellos a Holofernes y dijo: «Dios de Israel, dame fuerzas para hacer esto»."
           ],
@@ -2598,7 +3187,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "Entonces le dio dos fuertes golpes en el cuello, y le cortó la cabeza."
           ],
@@ -2606,7 +3197,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Después arrastró el cuerpo de Holofernes fuera de la cama y quitó el pequeño toldo que la cubría. Judit salió rápidamente y le dio a su empleada la cabeza de Holofernes."
           ],
@@ -2614,7 +3207,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "Ella la guardó en la bolsa donde tenía los alimentos de Judit. Luego se fueron las dos a orar, como lo habían hecho los días anteriores. Cruzaron el campamento, rodearon el valle, subieron la montaña y llegaron hasta la entrada de la ciudad de Betulia."
           ],
@@ -2622,7 +3217,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Judit en Betulia"
           ],
@@ -2630,7 +3225,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Judit les gritó a los guardias de la entrada:",
             "«¡Abran rápido los portones! ¡Nuestro Dios está con nosotros! ¡Hoy ha mostrado su gran poder contra los enemigos de Israel!»"
@@ -2639,7 +3236,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Cuando los hombres de la ciudad oyeron sus gritos, corrieron hacia la entrada y llamaron a los jefes de la ciudad."
           ],
@@ -2647,7 +3246,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Todos, desde el más joven hasta el más viejo, salieron a recibirla. No podían creer que Judit hubiera regresado, pues ya no la esperaban. Entonces abrieron los portones y dejaron entrar a Judit y a su empleada. Luego hicieron una fogata para poder ver, y todos rodearon a las dos mujeres."
           ],
@@ -2655,7 +3256,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Judit les dijo:",
             "«¡Alaben a Dios! ¡Alaben a Dios! Esta misma noche Dios tuvo compasión de su pueblo Israel, pues fui un instrumento en sus manos para matar a nuestro enemigo»."
@@ -2664,7 +3267,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "Luego, sacando la cabeza de Holofernes, les dijo:",
             "«¡Miren la cabeza del comandante del ejército asirio! ¡Miren el pequeño toldo que cubría la cama donde se acostaba después de sus borracheras! ¡Nuestro Dios me usó a mí para matarlo!"
@@ -2673,7 +3278,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "¡Bendito sea Dios, que me protegió en todo momento! Mi hermosura conquistó a Holofernes, y esa fue su perdición. Pero yo no cometí ningún pecado, pues no tuve relaciones sexuales con él. Además, les aseguro que él no me hizo ningún daño»."
           ],
@@ -2681,7 +3288,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "La gente, llena de asombro, se inclinó para adorar a Dios y dijo:",
             "«¡Bendito seas, Dios nuestro! ¡Hoy has destruido a los enemigos de tu pueblo!»"
@@ -2690,7 +3299,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 18,
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "Por su parte, Ozías le dijo a Judit:",
             "«¡Querida amiga, que el Dios altísimo te bendiga más que a todas las mujeres! ¡Bendito sea nuestro Dios, que creó todo lo que existe, y que te ayudó a cortarle la cabeza al comandante de nuestros enemigos!"
@@ -2699,7 +3310,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 19,
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "Jamás olvidaremos tu valentía. ¡El poder de nuestro Dios será recordado para siempre!"
           ],
@@ -2707,7 +3320,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 20,
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "Que Dios te dé muchas riquezas, y permita que tu nombre sea también recordado, porque pusiste tu vida en peligro para librarnos de nuestros enemigos. ¡Gracias a Dios que pudiste llevar a cabo tu plan!»",
             "Y toda la gente gritó: ¡Amén! ¡Amén!"
@@ -2746,7 +3361,7 @@
       "items": [
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Los israelitas se preparan para la batalla"
           ],
@@ -2754,7 +3369,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Entonces Judit les dijo:",
             "—¡Compatriotas, escúchenme bien! Tomen la cabeza de Holofernes y cuélguenla en la parte más alta de la muralla."
@@ -2763,7 +3380,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "Apenas amanezca, nombren un capitán, y todos los que puedan pelear tomen sus armas y salgan de la ciudad. Quiero que engañen a los asirios haciéndoles creer que ustedes bajan al valle para pelear contra ellos."
           ],
@@ -2771,7 +3390,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "»Cuando los soldados asirios los vean a ustedes, tomarán sus armas y correrán al campamento a despertar a sus jefes. Luego todos juntos irán a buscar a Holofernes, pero al no encontrarlo con vida se llenarán de miedo y saldrán huyendo."
           ],
@@ -2779,7 +3400,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "Ese será el momento para que ustedes, y todos los israelitas que viven en la montaña, los persigan y los maten."
           ],
@@ -2787,7 +3410,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Pero antes que nada, tráiganme a Aquior, el jefe de los amonitas. Quiero que vea lo que le pasó al hombre que lo sentenció a muerte, y se burló de Israel."
           ],
@@ -2795,7 +3420,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "Algunos de ellos fueron a la casa de Ozías para llamar a Aquior. Cuando este llegó, vio que uno de los hombres tenía en la mano la cabeza de Holofernes, y se desmayó."
           ],
@@ -2803,7 +3430,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "Cuando volvió en sí, se arrodilló delante de Judit en señal de respeto, y le dijo:",
             "«¡Que en todos los hogares de Judá y en todas las naciones se hable bien de ti! ¡Que todos tiemblen de miedo al escuchar tu nombre!"
@@ -2812,7 +3441,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "Ahora cuéntame qué hiciste durante estos días».",
             "Entonces Judit le contó de principio a fin todo lo que había hecho."
@@ -2821,7 +3452,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Al terminar su relato, todos festejaron, y por toda la ciudad se oían gritos de alegría."
           ],
@@ -2829,7 +3462,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "Cuando Aquior escuchó todo lo que había hecho el Dios de Israel, decidió creer en Dios con todo su ser, y pidió que lo circuncidaran. Después de eso, se quedó a vivir con los israelitas por el resto de su vida."
           ],
@@ -2837,7 +3472,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Se descubre la muerte de Holofernes"
           ],
@@ -2845,16 +3480,30 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
-            "Cuando amaneció, los israelitas colgaron la cabeza de Holofernes en el lugar más alto de la muralla. Luego, los hombres tomaron sus armas y salieron en grupos hacia los caminos que llevaban a la ciudad.",
+            "Cuando amaneció, los israelitas colgaron la cabeza de Holofernes en el lugar más alto de la muralla. Luego, los hombres tomaron sus armas y salieron en grupos hacia los caminos que llevaban a la ciudad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12,
+            13
+          ],
+          "lines": [
             "En cuanto los asirios los vieron, avisaron a sus capitanes. Ellos llamaron a Bagoas, el ayudante personal de Holofernes, y le dijeron: «¡Despierta a nuestro comandante! ¡Vamos a matar a esos esclavos que se han atrevido a bajar para pelear contra nosotros!»"
           ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Bagoas entró a la carpa y llamó desde la cortina a Holofernes, pues pensaba que aún estaba durmiendo con Judit."
           ],
@@ -2862,7 +3511,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "Como Holofernes no respondió, Bagoas corrió las cortinas y entró en la habitación. Allí encontró al comandante tirado en el piso, muerto y sin cabeza."
           ],
@@ -2870,7 +3521,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "Entonces Bagoas lanzó un fuerte grito, y rompiéndose la ropa en señal de dolor, empezó a llorar y a gritar."
           ],
@@ -2878,7 +3531,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "Después fue a la carpa de Judit, y al no encontrarla, salió y les dijo a los soldados:"
           ],
@@ -2886,7 +3541,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 18,
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "«¡Miren, Holofernes está muerto y sin cabeza! ¡Esos esclavos nos engañaron! ¡Una mujer hebrea se ha burlado del poder de nuestro rey!»"
           ],
@@ -2894,7 +3551,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 19,
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "Al oír esto, los jefes del ejército asirio temblaron de miedo. Se rompieron la ropa, y en medio del campamento se pusieron a llorar a gritos."
           ],
@@ -2932,7 +3591,7 @@
       "items": [
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Los israelitas destruyen al ejército asirio"
           ],
@@ -2940,7 +3599,10 @@
         },
         {
           "type": "verse",
-          "verse_number": -1,
+          "verse_numbers": [
+            1,
+            2
+          ],
           "lines": [
             "Cuando los soldados que estaban en sus carpas se enteraron de lo que había pasado, sintieron tanto miedo que salieron huyendo. Corrían como locos, atropellándose unos a otros. Nadie esperaba a su compañero, sino que cada uno tomaba el primer camino que encontraba. Corrían desesperados y en total desorden por el valle y por los caminos de la montaña."
           ],
@@ -2948,7 +3610,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "Los soldados que vigilaban los alrededores de Betulia, también huyeron llenos de miedo. Entonces los soldados israelitas salieron a perseguirlos."
           ],
@@ -2956,7 +3620,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "Ozías envió mensajeros por las ciudades de Cobá, Bebai, Colá y Betomestaim, y por toda la región montañosa de Israel. Ellos contaron lo que había sucedido, y pidieron a sus compatriotas que salieran para terminar de destruir al ejército enemigo."
           ],
@@ -2964,7 +3630,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Cuando los israelitas recibieron la noticia, salieron a atacar a los asirios. Los persiguieron hasta Hobá, y allí los derrotaron. También los que vivían en Jerusalén y en la región montañosa se unieron a la batalla. Los israelitas de Galaad y de Galilea mataron a muchos asirios que habían llegado hasta Damasco y sus alrededores."
           ],
@@ -2972,7 +3640,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "Los demás habitantes de Betulia, es decir, los que no habían salido a pelear, fueron al campamento asirio y se llevaron muchos objetos de valor que habían quedado allí."
           ],
@@ -2980,7 +3650,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "Luego vinieron los soldados que habían salido a pelear contra los asirios, y terminaron de llevarse lo que los asirios habían dejado abandonado. Hasta la gente que vivía en la región montañosa y en la llanura se quedó con algo."
           ],
@@ -2988,7 +3660,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "Joaquín, que era el jefe de los sacerdotes, fue a Betulia para conocer los detalles de lo que Dios había hecho a favor de Israel. Los jefes de Israel que vivían en Jerusalén lo acompañaron."
           ],
@@ -2996,7 +3670,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Cuando vieron a Judit, la felicitaron con estas palabras:",
             "«¡Tú eres el gran tesoro de Jerusalén!",
@@ -3007,7 +3683,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "»Tú llevaste a cabo todo esto,",
             "y le hiciste un gran favor a Israel.",
@@ -3020,7 +3698,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Durante todo un mes los israelitas se dedicaron a sacar objetos del campamento asirio. A Judit le dieron la carpa de Holofernes y todo lo que había en ella: la vajilla de plata, las camas, los vasos y los utensilios de uso diario. Todo esto Judit lo cargó sobre sus carretas y sobre su mula."
           ],
@@ -3028,7 +3708,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Judit es aclamada"
           ],
@@ -3036,7 +3716,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Todas las mujeres israelitas fueron a ver a Judit, para felicitarla y bailar en su honor. Entonces Judit tomó flores y se las dio a las mujeres que la acompañaban."
           ],
@@ -3044,7 +3726,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Ellas hicieron diademas con ramos de olivo, y se las pusieron sobre la cabeza. Al frente de todo el pueblo iba Judit, dirigiendo el baile de las mujeres. Detrás de ellas iban los hombres luciendo coronas en su cabeza, y portando sus armas. Todos, hombres y mujeres, iban cantando himnos de alabanza."
           ],
@@ -3052,7 +3736,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "El canto de Judit"
           ],
@@ -3060,7 +3744,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Entonces Judit y todos los israelitas entonaron a coro este canto de alabanza:"
           ],
@@ -3098,7 +3784,9 @@
       "items": [
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "«¡Canten a mi Dios!",
             "¡Hagan sonar las panderetas!",
@@ -3110,7 +3798,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "»Dios pone fin a las guerras.",
             "Él me libró de mis enemigos,",
@@ -3120,7 +3810,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "»De las montañas del norte",
             "vinieron los asirios.",
@@ -3133,7 +3825,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "»Pensaban quemar mi tierra",
             "y acabar con nuestros jóvenes.",
@@ -3146,7 +3840,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "»Pero nuestro poderoso Dios",
             "derrotó a los asirios."
@@ -3155,14 +3851,26 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "Al hombre más fuerte de su ejército",
             "no lo mataron los mejores soldados;",
             "no lo mataron hombres valientes,",
             "ni fue derrotado por gigantes.",
             "¡Lo venció una mujer, la hija de Merarí!",
-            "¡Judit lo cautivó con su belleza!",
+            "¡Judit lo cautivó con su belleza!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7,
+            8
+          ],
+          "lines": [
             "»Judit nos libró del dominio asirio.",
             "Para atrapar a Holofernes,",
             "se quitó la ropa de viuda,",
@@ -3174,7 +3882,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Con sus finas sandalias",
             "cautivó la mirada de Holofernes;",
@@ -3185,7 +3895,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "»Los persas se espantaron",
             "al ver la valentía de Judit;",
@@ -3196,7 +3908,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "»Entonces mi débil pueblo",
             "gritó con todas sus fuerzas,",
@@ -3208,7 +3922,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "¡Esos cobardes murieron!",
             "¡No lograron escapar",
@@ -3218,7 +3934,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "»Voy a cantarle a mi Dios",
             "esta nueva canción.",
@@ -3230,7 +3948,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "»Con tan solo una orden tuya",
             "todo comenzó a existir.",
@@ -3243,7 +3963,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "Al oír tu voz, tiemblan las montañas,",
             "las aguas se desbordan",
@@ -3255,7 +3977,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "»Para ti, mi Dios,",
             "las ofrendas y los sacrificios",
@@ -3267,7 +3991,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "»Cuando llegue el día",
             "en que el Dios todopoderoso",
@@ -3283,7 +4009,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "El final de la historia"
           ],
@@ -3291,16 +4017,30 @@
         },
         {
           "type": "verse",
-          "verse_number": 18,
+          "verse_numbers": [
+            18
+          ],
           "lines": [
-            "Cuando los soldados llegaron a Jerusalén, todos adoraron a Dios. Luego el pueblo cumplió con las ceremonias de purificación y le presentó a Dios toda clase de ofrendas.",
+            "Cuando los soldados llegaron a Jerusalén, todos adoraron a Dios. Luego el pueblo cumplió con las ceremonias de purificación y le presentó a Dios toda clase de ofrendas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19,
+            20
+          ],
+          "lines": [
             "Los israelitas hicieron fiesta frente al templo de Jerusalén durante tres meses. Todo ese tiempo, Judit permaneció con ellos, y dedicó a Dios la vajilla que el pueblo le había regalado, y también el toldo que le había quitado a Holofernes."
           ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_number": 21,
+          "verse_numbers": [
+            21
+          ],
           "lines": [
             "Terminada la fiesta, la gente volvió a sus casas. También Judit regresó a Betulia para encargarse de sus bienes. Mientras vivió, fue muy reconocida en todo el país."
           ],
@@ -3308,9 +4048,22 @@
         },
         {
           "type": "verse",
-          "verse_number": 22,
+          "verse_numbers": [
+            22
+          ],
           "lines": [
-            "No volvió a casarse, aunque muchos hombres le propusieron matrimonio. Tampoco volvió a tener relaciones sexuales después de la muerte de su esposo Manasés.",
+            "No volvió a casarse, aunque muchos hombres le propusieron matrimonio. Tampoco volvió a tener relaciones sexuales después de la muerte de su esposo Manasés."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            23,
+            24,
+            25
+          ],
+          "lines": [
             "Cada día Judit se volvía más famosa. Vivió en la casa que le dejó su esposo, y le concedió la libertad a su empleada de confianza. Antes de su muerte, Judit había repartido su fortuna entre sus propios familiares y los de su esposo.",
             "Judit murió en Betulia, a la edad de ciento cinco años, y fue enterrada en la tumba de su esposo. Los israelitas lloraron su muerte durante siete días.",
             "Mientras Judit vivió, y aun mucho tiempo después de su muerte, ningún país se atrevió a pelear contra los israelitas."

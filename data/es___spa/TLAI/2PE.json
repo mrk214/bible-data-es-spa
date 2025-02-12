@@ -50,7 +50,7 @@
       "items": [
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Saludo"
           ],
@@ -58,7 +58,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Yo, Simón Pedro, estoy al servicio de Jesucristo, quien me envió a anunciar su mensaje. Reciban mis saludos. Jesucristo, nuestro Dios y Salvador, ha sido justo y bueno con todos ustedes, pues los hizo confiar en él, como nos hizo confiar a nosotros."
           ],
@@ -66,7 +68,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "Le pido a Dios que los ame mucho y les permita vivir en paz, y que ustedes estén siempre dispuestos a conocer más a Dios y a nuestro Señor Jesús."
           ],
@@ -74,7 +78,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Vivir como Dios quiere"
           ],
@@ -82,7 +86,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "Dios utilizó su poder para darnos todo lo que necesitamos, y para que vivamos como él quiere. Dios nos dio todo eso cuando nos hizo conocer a Jesucristo. Por medio de él, nos eligió para que seamos parte de su reino maravilloso."
           ],
@@ -90,7 +96,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "Además, nos ha dado todas las cosas importantes y valiosas que nos prometió. Por medio de ellas, ustedes podrán ser como Dios y no como la gente pecadora de este mundo, porque los malos deseos de esa gente destruyen a los demás."
           ],
@@ -98,7 +106,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Por eso, mi consejo es que pongan todo su empeño en:",
             "Afirmar su confianza en Dios,",
@@ -109,7 +119,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "y dominar sus malos deseos.",
             "Además, deben ser pacientes,",
@@ -119,7 +131,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "estimar a sus hermanos en Cristo",
             "y, sobre todo,",
@@ -129,7 +143,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "Si ustedes conocen a Jesucristo, harán todo eso, y tratarán de hacerlo cada vez mejor. Así, vivirán haciendo el bien."
           ],
@@ -137,7 +153,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Pero quien no lo hace así es como si estuviera ciego, y olvida que Dios le ha perdonado todo lo malo que hizo."
           ],
@@ -145,7 +163,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "Hermanos, Dios los ha elegido para formar parte de su pueblo, y si quieren serlo para siempre, deben esforzarse más por hacer todo esto. De ese modo, nunca fracasarán en su vida cristiana,"
           ],
@@ -153,7 +173,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "y Dios, con gusto, les dará la bienvenida en el reino de nuestro Señor y Salvador Jesucristo, quien reina para siempre."
           ],
@@ -161,7 +183,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "La verdadera enseñanza"
           ],
@@ -169,7 +191,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Por eso yo les seguiré recordando siempre todo esto, aun cuando ya lo saben y siguen creyendo en la verdad que les enseñaron."
           ],
@@ -177,7 +201,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Mientras yo viva, creo que es mi deber recordarles todo esto."
           ],
@@ -185,7 +211,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Nuestro Señor Jesucristo me ha permitido saber que pronto moriré;"
           ],
@@ -193,7 +221,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "pero yo haré todo lo posible para que ustedes recuerden estos consejos aun después de mi muerte."
           ],
@@ -201,16 +231,30 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
-            "Cuando les enseñábamos acerca del poder de nuestro Señor Jesucristo y de su regreso, no estábamos inventando una historia, sino que con nuestros propios ojos vimos el gran poder de nuestro Señor.",
+            "Cuando les enseñábamos acerca del poder de nuestro Señor Jesucristo y de su regreso, no estábamos inventando una historia, sino que con nuestros propios ojos vimos el gran poder de nuestro Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17,
+            18
+          ],
+          "lines": [
             "Nosotros estábamos allí cuando Dios el Padre trató a Jesús con mucho honor y mostró lo maravilloso que es él. Y allí mismo, en la montaña sagrada, oímos cuando nuestro grande y maravilloso Dios dijo: «Este es mi Hijo. Yo lo amo mucho y estoy muy contento con él.»"
           ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_number": 19,
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "Por eso estoy completamente seguro de que el mensaje de Dios que anunciaron los profetas es la verdad. Por favor, préstenle atención a ese mensaje, pues les dirá cómo vivir hasta el día en que Cristo vuelva y cambie sus vidas."
           ],
@@ -218,7 +262,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 20,
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "Pero, antes que nada, deben saber que ninguna enseñanza de la Biblia se puede explicar como uno quisiera."
           ],
@@ -226,7 +272,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 21,
+          "verse_numbers": [
+            21
+          ],
           "lines": [
             "Ningún profeta habló por su propia cuenta. Al contrario, todos ellos hablaron de parte de Dios y fueron guiados por el Espíritu Santo."
           ],
@@ -264,7 +312,7 @@
       "items": [
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Enseñanzas falsas"
           ],
@@ -272,7 +320,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "En el pueblo de Israel hubo también algunos que decían ser enviados por Dios, pero no lo eran. Así también, entre ustedes, habrá quienes se crean maestros enviados por Dios, sin serlo. Ellos les darán enseñanzas falsas y peligrosas, sin que ustedes se den cuenta, y hasta dirán que Jesucristo no es capaz de salvar. Por eso, cuando ellos menos lo esperen, serán destruidos por completo."
           ],
@@ -280,7 +330,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "Mucha gente vivirá como esos falsos maestros, haciendo todo lo malo que se les antoje. Por culpa de ellos, la gente hablará mal de los cristianos y de su modo de vivir."
           ],
@@ -288,7 +340,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "Esos falsos maestros desearán tener más y más dinero, y lo ganarán enseñando mentiras. Pero Dios ya decidió castigarlos desde hace mucho tiempo, y no se salvarán de ese castigo."
           ],
@@ -296,7 +350,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "Dios no perdonó a los ángeles que pecaron, sino que los mandó al infierno. Y allí están, encadenados en la oscuridad, hasta que llegue el día en que Dios juzgará a todos."
           ],
@@ -304,7 +360,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Dios tampoco perdonó a la gente malvada que vivía en tiempos de Noé. Más bien, les envió el diluvio, y todos murieron. Dios salvó a Noé, porque enseñaba a la gente a hacer el bien, y junto con Noé salvó a otras siete personas."
           ],
@@ -312,16 +370,30 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
-            "Además, Dios castigó a los que vivían en las ciudades de Sodoma y Gomorra: los quemó hasta dejarlos hechos cenizas, para que sirvieran de ejemplo de lo que les pasaría a los malvados.",
+            "Además, Dios castigó a los que vivían en las ciudades de Sodoma y Gomorra: los quemó hasta dejarlos hechos cenizas, para que sirvieran de ejemplo de lo que les pasaría a los malvados."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7,
+            8
+          ],
+          "lines": [
             "Pero a Lot no lo quemó, pues era un hombre bueno. Aunque Lot vivía en esas ciudades, todos los días sufría mucho al ver y oír las maldades que esa gente cometía."
           ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Esto nos demuestra que Dios sabe solucionar los problemas y dificultades que tienen los que lo obedecen, pero que también habrá de castigar a los que hacen lo malo, y lo hará el día en que juzgue a todos."
           ],
@@ -329,7 +401,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "El castigo será, especialmente, para los que no obedecen sus órdenes y viven haciendo todo lo malo que se les antoja.",
             "Esos falsos maestros son tercos y orgullosos, y no tienen miedo de insultar a los ángeles buenos."
@@ -338,7 +412,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Sin embargo, los ángeles, aunque son más poderosos que esos falsos maestros, no se atreven a insultarlos delante de Dios."
           ],
@@ -346,7 +422,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Esos hombres no entienden nada, todo lo hacen por capricho, y discuten acerca de lo que no entienden; son como los animales, que nacen para que los atrapen y los maten."
           ],
@@ -354,7 +432,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Sufrirán por haber hecho sufrir a otros, pues creen que serán felices haciendo, a plena luz del día, todo lo malo que se les antoja. Da vergüenza ver lo malo que hacen, y el escándalo que arman, cuando los acompañan a ustedes en sus fiestas de la iglesia."
           ],
@@ -362,7 +442,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Esos hombres no pueden ver a una mujer sin desear tener relaciones sexuales con ella; ¡nunca se cansan de pecar! Engañan a los que no confían mucho en Cristo, y son muy buenos para conseguir lo que desean. Pero Dios los castigará. ¡De eso no hay duda!"
           ],
@@ -370,7 +452,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "Andan perdidos, pues han dejado de obedecer a Dios para seguir el ejemplo de Balaam hijo de Beor, que quiso ganar dinero haciendo lo malo."
           ],
@@ -378,7 +462,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "Pero precisamente por hacer lo malo, una burra lo regañó: le habló con voz humana, y no lo dejó seguir haciendo esas tonterías."
           ],
@@ -386,7 +472,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "Esos falsos maestros son como pozos secos, sin agua; ¡son como nubes llevadas por fuertes vientos! Pero Dios los castigará y los echará para siempre a la más profunda oscuridad."
           ],
@@ -394,7 +482,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 18,
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "Porque ellos, para impresionar a la gente, dicen cosas bonitas que, en realidad, no sirven para nada. Obligan a otros a participar en sus mismos vicios y malos deseos, y engañan a los que con mucho esfuerzo apenas logran alejarse del pecado."
           ],
@@ -402,7 +492,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 19,
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "Les prometen que serán libres de hacer lo que quieran, pero ellos mismos no pueden dejar de hacer el mal. Y será ese mismo mal el que acabará por destruirlos, pues quien no puede dejar de pecar es esclavo del pecado."
           ],
@@ -410,7 +502,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 20,
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "Además, los que han conocido a nuestro Señor y Salvador Jesucristo ya no siguen el ejemplo de los pecadores de este mundo; pero, si se dejan engañar con esas cosas, y además se dejan controlar por el pecado, quedarán peor que antes."
           ],
@@ -418,7 +512,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 21,
+          "verse_numbers": [
+            21
+          ],
           "lines": [
             "Más les valdría no haber conocido este santo mandamiento, ni saber de qué manera quiere Dios que vivan, que saber esto y no obedecerlo."
           ],
@@ -426,7 +522,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 22,
+          "verse_numbers": [
+            22
+          ],
           "lines": [
             "Así, esas personas demuestran la verdad del dicho: «El perro vuelve a su vómito», y también la verdad de este otro: «El cerdo recién bañado vuelve a revolcarse en el lodo»."
           ],
@@ -464,7 +562,7 @@
       "items": [
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "El regreso del Señor Jesús"
           ],
@@ -472,7 +570,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 1,
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Amados hermanos en Cristo, esta es la segunda carta que les escribo. En las dos he querido darles consejos, para que puedan pensar correctamente."
           ],
@@ -480,7 +580,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 2,
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "Recuerden el mensaje que los profetas de Dios nos dieron hace mucho tiempo. No olviden el mandamiento que nos dio nuestro Señor y Salvador Jesucristo, y que los apóstoles les enseñaron a ustedes."
           ],
@@ -488,7 +590,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 3,
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "En primer lugar, tomen en cuenta que, en los últimos días, vendrán algunos que solo pensarán en sus malos deseos. Se burlarán de ustedes"
           ],
@@ -496,7 +600,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 4,
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "y les preguntarán: «¿Qué pasó con la promesa de que Jesucristo regresaría? Ya murieron nuestros padres, ¡y todo sigue igual que cuando el mundo fue creado!»"
           ],
@@ -504,7 +610,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 5,
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Esa gente no quiere darse cuenta de que, hace mucho tiempo, Dios creó los cielos y la tierra, y de que con solo una orden separó la tierra y los mares."
           ],
@@ -512,7 +620,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 6,
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "Además, Dios usó el agua del diluvio para destruir al mundo de esa época;"
           ],
@@ -520,7 +630,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 7,
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "pero, con ese mismo poder, ha dado la orden de que, en el momento indicado, los cielos y la tierra que ahora existen sean destruidos con fuego. Serán quemados el día en que Dios juzgue a todos y destruya a los que hacen el mal."
           ],
@@ -528,7 +640,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 8,
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "Además, hermanos míos, no olviden que, para el Señor, un día es como mil años, y mil años son como un día."
           ],
@@ -536,7 +650,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 9,
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "No es que Dios sea lento para cumplir su promesa, como algunos piensan. Lo que pasa es que Dios tiene paciencia con ustedes, porque él no quiere que nadie muera, sino que todos vuelvan a obedecerle."
           ],
@@ -544,7 +660,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 10,
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "Pero cuando el Señor Jesús regrese, vendrá como cuando un ladrón entra en una casa a robar. En ese día, los cielos desaparecerán en medio de un ruido espantoso, las estrellas serán destruidas por el fuego, y la tierra y todo lo que hay en ella desaparecerán."
           ],
@@ -552,7 +670,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 11,
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Ya que todo será destruido de esa manera, ustedes deben obedecer solo a Dios, hacer el bien,"
           ],
@@ -560,7 +680,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 12,
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "y esperar con ansias el día en que Dios juzgará a todo el mundo. Ese día, el fuego destruirá los cielos y derretirá las estrellas."
           ],
@@ -568,7 +690,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 13,
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Pero nosotros esperamos el cielo nuevo y la tierra nueva que Dios ha prometido, donde todo será bueno y justo."
           ],
@@ -576,7 +700,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 14,
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Por eso, queridos amigos, mientras esperan que esto suceda, hagan todo lo posible por estar en paz con Dios, y porque él los encuentre sin pecado."
           ],
@@ -584,7 +710,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 15,
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "Recuerden que nuestro Señor Jesucristo nos trata con paciencia, para que podamos ser salvos. Ya nuestro querido compañero Pablo les ha escrito acerca de esto, y fue Dios mismo quien se lo explicó."
           ],
@@ -592,7 +720,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 16,
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "En todas sus cartas Pablo les ha hablado de esto, aunque algo de lo que dice en ellas no es fácil de entender. Por eso no las entienden la gente ignorante ni los que no confían en Cristo, y luego las explican mal. Lo mismo hacen con toda la Biblia, y por eso Dios los castigará."
           ],
@@ -600,7 +730,7 @@
         },
         {
           "type": "heading1",
-          "verse_number": -1,
+          "verse_numbers": [],
           "lines": [
             "Conclusión"
           ],
@@ -608,7 +738,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 17,
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "Queridos amigos, con esto quedan advertidos. Así que cuídense mucho, no sea que los engañe la gente malvada y ustedes dejen de creer firmemente en Dios."
           ],
@@ -616,7 +748,9 @@
         },
         {
           "type": "verse",
-          "verse_number": 18,
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "Mejor dejen que el amor y el conocimiento, que nos da nuestro Señor y Salvador Jesucristo, los ayuden a ser cada vez mejores cristianos.",
             "¡Alabemos a Jesucristo ahora y siempre! Amén."
