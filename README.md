@@ -209,7 +209,7 @@ probable que se pueda calcular con código (_solo hay que programarlo_ 👨‍�
 Puedes clonar el repositorio y trabajar con los archivos de manera convencional
 o, si prefieres, acceder directamente a los `archivos JSON servidos en GitHub`.
 
-Cada carpeta de versión incluye un archivo `README.md` que incluye:
+En cada carpeta de versión hay un archivo `README.md` que incluye:
 
 - La **cantidad de libros** que contiene esa versión.
 - Y los **links directos a los archivos JSON alojados en GitHub**.
