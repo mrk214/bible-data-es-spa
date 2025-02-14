@@ -203,3 +203,27 @@ diferentes maneras.
 
 Así que, si no encuentras un dato en particular de manera explícita, es muy
 probable que se pueda calcular con código (_solo hay que programarlo_ 👨‍💻).
+
+## Archivos alojados en GitHub
+
+Puedes clonar el repositorio y trabajar con los archivos de manera convencional
+o, si prefieres, acceder directamente a los `archivos JSON servidos en GitHub`.
+
+Cada carpeta de versión incluye un archivo `README.md` que incluye:
+
+- La **cantidad de libros** que contiene esa versión.
+- Y los **links directos a los archivos JSON alojados en GitHub**.
+
+| usfm      | name                                           | link                                                                                            |
+| --------- | ---------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| `DHH94I`  | Biblia Dios Habla Hoy                          | [readme](https://github.com/jsckdm/bible-data-es-spa/blob/main/data/es___spa/DHH94I/README.md)  |
+| `DHHS94`  | Dios habla Hoy Estándar                        | [readme](https://github.com/jsckdm/bible-data-es-spa/blob/main/data/es___spa/DHHS94/README.md)  |
+| `LBLA`    | La Biblia de las Américas                      | [readme](https://github.com/jsckdm/bible-data-es-spa/blob/main/data/es___spa/LBLA/README.md)    |
+| `NBLA`    | Nueva Biblia de las Américas                   | [readme](https://github.com/jsckdm/bible-data-es-spa/blob/main/data/es___spa/NBLA/README.md)    |
+| `NTV`     | Nueva Traducción Viviente                      | [readme](https://github.com/jsckdm/bible-data-es-spa/blob/main/data/es___spa/NTV/README.md)     |
+| `NVI`     | Nueva Versión Internacional                    | [readme](https://github.com/jsckdm/bible-data-es-spa/blob/main/data/es___spa/NVI/README.md)     |
+| `RVA2015` | Reina Valera Actualizada                       | [readme](https://github.com/jsckdm/bible-data-es-spa/blob/main/data/es___spa/RVA2015/README.md) |
+| `RVC`     | Reina Valera Contemporánea                     | [readme](https://github.com/jsckdm/bible-data-es-spa/blob/main/data/es___spa/RVC/README.md)     |
+| `RVR1960` | Biblia Reina Valera 1960                       | [readme](https://github.com/jsckdm/bible-data-es-spa/blob/main/data/es___spa/RVR1960/README.md) |
+| `TLA`     | Traducción en Lenguaje Actual                  | [readme](https://github.com/jsckdm/bible-data-es-spa/blob/main/data/es___spa/TLA/README.md)     |
+| `TLAI`    | Traducción en Lenguaje Actual Interconfesional | [readme](https://github.com/jsckdm/bible-data-es-spa/blob/main/data/es___spa/TLAI/README.md)    |
