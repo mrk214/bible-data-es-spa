@@ -227,3 +227,38 @@ En cada carpeta de versión hay un archivo `README.md` que incluye:
 | `RVR1960` | Biblia Reina Valera 1960                       | [readme](https://github.com/jsckdm/bible-data-es-spa/blob/main/data/es___spa/RVR1960/README.md) |
 | `TLA`     | Traducción en Lenguaje Actual                  | [readme](https://github.com/jsckdm/bible-data-es-spa/blob/main/data/es___spa/TLA/README.md)     |
 | `TLAI`    | Traducción en Lenguaje Actual Interconfesional | [readme](https://github.com/jsckdm/bible-data-es-spa/blob/main/data/es___spa/TLAI/README.md)    |
+
+## Capítulos especiales
+
+En algunas versiones, hay casos especiales de algunos capítulos
+(`Chapter`) que tienen un `chapter_usfm` en un formato diferente a los demás.
+
+Por ejemplo, `PSA.42_1`, cuando el formato común es `PSA.42`.
+
+Para entender un poco mejor su estructura y cómo manejarlos (_por ejemplo,
+en una búsqueda_), recomiendo revisar los siguientes campos en cada uno
+de esos capítulos:
+`chapter_usfm`, `next?.usfm?.[0]`, `chapter_text`, `chapter_html`, `items`.
+
+🔎 **DHH94I**
+
+- `PSA.42`
+- `PSA.42_1`
+- `PSA.43_1`
+- `SIR.1`
+- `SIR.1_1`
+
+🔎 **DHHS94**
+
+- `PSA.42`
+- `PSA.42_1`
+- `PSA.43_1`
+- `SIR.1`
+- `SIR.1_1`
+
+🔎 **TLAI**
+
+- `BEL.1_1`
+- `LJE.1_1`
+- `S3Y.1_1`
+- `SUS.1_1`
