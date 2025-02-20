@@ -18,30 +18,24 @@
     "local_name": "Español (América Latina)",
     "text_direction": "ltr"
   },
-  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "repository": "https://github.com/mrk214/bible-data-es-spa",
   "chapters": [
     {
       "chapter_usfm": "HAB.INTRO1",
       "is_chapter": false,
       "current": {
-        "usfm": [
-          "HAB.INTRO1"
-        ],
+        "usfm": ["HAB.INTRO1"],
         "human": "Habacuc Introducción"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "HAB.1"
-        ],
+        "usfm": ["HAB.1"],
         "human": "Habacuc 1",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "NAM.3"
-        ],
+        "usfm": ["NAM.3"],
         "human": "Nahúm 3",
         "toc": true
       },
@@ -53,24 +47,18 @@
       "chapter_usfm": "HAB.1",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "HAB.1"
-        ],
+        "usfm": ["HAB.1"],
         "human": "Habacuc 1"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "HAB.2"
-        ],
+        "usfm": ["HAB.2"],
         "human": "Habacuc 2",
         "toc": true
       },
       "previous": {
         "canonical": false,
-        "usfm": [
-          "HAB.INTRO1"
-        ],
+        "usfm": ["HAB.INTRO1"],
         "human": "Habacuc Introducción",
         "toc": true
       },
@@ -79,9 +67,7 @@
       "items": [
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Yo soy el profeta Habacuc. Dios me encargó dar este mensaje a su pueblo."
           ],
@@ -90,16 +76,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Habacuc habla con Dios"
-          ],
+          "lines": ["Habacuc habla con Dios"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "Dios mío,",
             "a gritos te pido que me ayudes,",
@@ -112,9 +94,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "¿Por qué me obligas a ver",
             "tanta violencia e injusticia?",
@@ -127,9 +107,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "Nadie obedece tus mandamientos,",
             "nadie es justo con nadie.",
@@ -140,9 +118,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "Dios respondió:",
             "«Fíjense en las naciones.",
@@ -156,9 +132,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "»Voy a hacer que los babilonios",
             "se dispongan a atacarlos.",
@@ -170,9 +144,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "Para ellos solo vale su ley",
             "y solo importa su honor;",
@@ -182,9 +154,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "»Sus caballos y sus jinetes",
             "vienen galopando desde muy lejos;",
@@ -197,9 +167,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "A su paso lo destruyen todo;",
             "a su paso siembran el terror,",
@@ -210,9 +178,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "»Se ríen de reyes y gobernantes,",
             "se burlan de sus murallas,",
@@ -223,9 +189,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "Son como un viento violento",
             "que llega, golpea y se va;",
@@ -236,9 +200,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "Yo, Habacuc, digo:",
             "Dios de Israel,",
@@ -253,9 +215,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "Tú no soportas la maldad,",
             "ni aceptas el pecado.",
@@ -267,9 +227,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "Tú nos tratas como si fuéramos",
             "simples peces del mar;",
@@ -280,9 +238,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "Por eso los babilonios",
             "nos atrapan fácilmente,",
@@ -294,9 +250,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "Por eso los babilonios",
             "han hecho de sus armas un dios",
@@ -308,9 +262,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "¡No permitas que los babilonios",
             "nos sigan matando sin compasión!"
@@ -323,24 +275,18 @@
       "chapter_usfm": "HAB.2",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "HAB.2"
-        ],
+        "usfm": ["HAB.2"],
         "human": "Habacuc 2"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "HAB.3"
-        ],
+        "usfm": ["HAB.3"],
         "human": "Habacuc 3",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "HAB.1"
-        ],
+        "usfm": ["HAB.1"],
         "human": "Habacuc 1",
         "toc": true
       },
@@ -349,9 +295,7 @@
       "items": [
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Ya te he presentado mi queja,",
             "y ahora voy a estar muy atento;",
@@ -361,9 +305,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "Y Dios me respondió:",
             "«Voy a darte a conocer",
@@ -375,9 +317,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "Tardará un poco en cumplirse,",
             "pero tú no te desesperes;",
@@ -390,9 +330,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "»Esos babilonios son muy orgullosos,",
             "pero ustedes, que son humildes,",
@@ -402,9 +340,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "Los babilonios son orgullosos,",
             "son traicioneros como el vino;",
@@ -419,9 +355,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "Pero un día serán humillados.",
             "Las naciones se burlarán de ellos",
@@ -434,9 +368,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "»El día que menos lo esperes,",
             "tus víctimas se vengarán de ti;",
@@ -447,9 +379,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "Tú les robaste a muchas naciones,",
             "pero otras naciones te robarán a ti.",
@@ -461,9 +391,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "»¡Qué mal te va a ir Babilonia!",
             "Hiciste ricos a los tuyos",
@@ -475,9 +403,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "pero lo único que hiciste",
             "fue ponerlos en vergüenza.",
@@ -488,9 +414,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "¡Las paredes de tus ciudades",
             "son testigos de tu maldad!"
@@ -499,9 +423,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "»¡Qué mal te va a ir Babilonia!",
             "¡Has construido tus ciudades",
@@ -511,9 +433,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "Pero yo soy el Dios de Israel,",
             "y de nada va a servirte",
@@ -524,9 +444,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "Y así como el agua llena los mares,",
             "también la tierra se llenará",
@@ -536,9 +454,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "»¡Qué mal te va a ir Babilonia!",
             "Humillaste a las naciones vecinas",
@@ -548,9 +464,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "pero yo te humillaré a ti,",
             "pues no mereces ninguna alabanza;",
@@ -561,9 +475,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "»La violencia con que trataste",
             "a los animales del monte Líbano",
@@ -576,10 +488,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18,
-            19
-          ],
+          "verse_numbers": [18, 19],
           "lines": [
             "»¡Qué mal te va a ir, Babilonia!",
             "¿Cómo puedes confiar en dioses falsos?",
@@ -597,9 +506,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
+          "verse_numbers": [20],
           "lines": [
             "Pero yo estoy en mi santo templo;",
             "¡ante mí debe callar toda la tierra!»"
@@ -612,24 +519,18 @@
       "chapter_usfm": "HAB.3",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "HAB.3"
-        ],
+        "usfm": ["HAB.3"],
         "human": "Habacuc 3"
       },
       "next": {
         "canonical": false,
-        "usfm": [
-          "ZEP.INTRO1"
-        ],
+        "usfm": ["ZEP.INTRO1"],
         "human": "Sofonías Introducción",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "HAB.2"
-        ],
+        "usfm": ["HAB.2"],
         "human": "Habacuc 2",
         "toc": true
       },
@@ -639,16 +540,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Oración final de Habacuc"
-          ],
+          "lines": ["Oración final de Habacuc"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Yo, el profeta Habacuc, compuse esta oración para acompañarla con una melodía especial."
           ],
@@ -656,9 +553,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "¡Dios mío,",
             "yo sé bien todo lo que has hecho,",
@@ -672,9 +567,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "Tú eres nuestro santo Dios;",
             "vienes de la región de Temán,",
@@ -686,9 +579,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "Un gran resplandor te rodea;",
             "de tus manos brotan rayos de luz",
@@ -698,9 +589,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "Plagas terribles anuncian tu llegada;",
             "vas dejando en el camino",
@@ -710,10 +599,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6,
-            7
-          ],
+          "verse_numbers": [6, 7],
           "lines": [
             "Cuando tú te detienes,",
             "la tierra se pone a temblar;",
@@ -729,9 +615,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "Dios nuestro,",
             "¿por qué te decidiste a montar",
@@ -743,9 +627,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "Con tus flechas heriste la tierra,",
             "y esas heridas son los ríos."
@@ -754,9 +636,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "Cuando las montañas te vieron,",
             "temblaron de miedo,",
@@ -768,9 +648,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "Cuando lanzaste tus brillantes rayos,",
             "el sol y la luna se detuvieron."
@@ -779,9 +657,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "Pero te enojaste y recorriste la tierra;",
             "en tu enojo aplastaste naciones."
@@ -790,9 +666,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "Saliste a rescatar a tu pueblo,",
             "y al rey que tú elegiste.",
@@ -803,9 +677,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "Sus orgullosos jinetes nos atacaron",
             "con la furia de una tempestad;",
@@ -818,9 +690,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "Montaste en tu caballo",
             "y marchaste sobre el agitado mar."
@@ -829,9 +699,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "Cuando escucho todo esto,",
             "me tiemblan los labios y todo el cuerpo;",
@@ -845,9 +713,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "Aunque no den higos las higueras,",
             "ni den uvas las viñas",
@@ -860,9 +726,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "siempre te alabaré con alegría",
             "porque tú eres mi salvador."
@@ -871,9 +735,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "Dios mío,",
             "tú me das nuevas fuerzas;",

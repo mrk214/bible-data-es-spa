@@ -18,30 +18,24 @@
     "local_name": "Español (América Latina)",
     "text_direction": "ltr"
   },
-  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "repository": "https://github.com/mrk214/bible-data-es-spa",
   "chapters": [
     {
       "chapter_usfm": "PHM.INTRO1",
       "is_chapter": false,
       "current": {
-        "usfm": [
-          "PHM.INTRO1"
-        ],
+        "usfm": ["PHM.INTRO1"],
         "human": "Filemón LA EPÍSTOLA DEL APÓSTOL SAN PABLO A FILEMÓN"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "PHM.1"
-        ],
+        "usfm": ["PHM.1"],
         "human": "Filemón 1",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "TIT.3"
-        ],
+        "usfm": ["TIT.3"],
         "human": "Tito 3",
         "toc": true
       },
@@ -53,24 +47,18 @@
       "chapter_usfm": "PHM.1",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "PHM.1"
-        ],
+        "usfm": ["PHM.1"],
         "human": "Filemón 1"
       },
       "next": {
         "canonical": false,
-        "usfm": [
-          "HEB.INTRO1"
-        ],
+        "usfm": ["HEB.INTRO1"],
         "human": "Hebreos LA EPÍSTOLA A LOS HEBREOS",
         "toc": true
       },
       "previous": {
         "canonical": false,
-        "usfm": [
-          "PHM.INTRO1"
-        ],
+        "usfm": ["PHM.INTRO1"],
         "human": "Filemón LA EPÍSTOLA DEL APÓSTOL SAN PABLO A FILEMÓN",
         "toc": true
       },
@@ -80,16 +68,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Salutación"
-          ],
+          "lines": ["Salutación"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Pablo, prisionero de Jesucristo, y el hermano Timoteo, al amado Filemón, colaborador nuestro,"
           ],
@@ -97,9 +81,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "y a la amada hermana Apia, y a Arquipo nuestro compañero de milicia, y a la iglesia que está en tu casa:"
           ],
@@ -107,9 +89,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "Gracia y paz a vosotros, de Dios nuestro Padre y del Señor Jesucristo."
           ],
@@ -118,16 +98,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "El amor y la fe de Filemón"
-          ],
+          "lines": ["El amor y la fe de Filemón"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "Doy gracias a mi Dios, haciendo siempre memoria de ti en mis oraciones,"
           ],
@@ -135,9 +111,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "porque oigo del amor y de la fe que tienes hacia el Señor Jesús, y para con todos los santos;"
           ],
@@ -145,9 +119,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "para que la participación de tu fe sea eficaz en el conocimiento de todo el bien que está en vosotros por Cristo Jesús."
           ],
@@ -155,9 +127,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "Pues tenemos gran gozo y consolación en tu amor, porque por ti, oh hermano, han sido confortados los corazones de los santos."
           ],
@@ -166,16 +136,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Pablo intercede por Onésimo"
-          ],
+          "lines": ["Pablo intercede por Onésimo"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "Por lo cual, aunque tengo mucha libertad en Cristo para mandarte lo que conviene,"
           ],
@@ -183,9 +149,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "más bien te ruego por amor, siendo como soy, Pablo ya anciano, y ahora, además, prisionero de Jesucristo;"
           ],
@@ -193,9 +157,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "te ruego por mi hijo Onésimo,, a quien engendré en mis prisiones,"
           ],
@@ -203,9 +165,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "el cual en otro tiempo te fue inútil, pero ahora a ti y a mí nos es útil,"
           ],
@@ -213,9 +173,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "el cual vuelvo a enviarte; tú, pues, recíbele como a mí mismo."
           ],
@@ -223,9 +181,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "Yo quisiera retenerle conmigo, para que en lugar tuyo me sirviese en mis prisiones por el evangelio;"
           ],
@@ -233,9 +189,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "pero nada quise hacer sin tu consentimiento, para que tu favor no fuese como de necesidad, sino voluntario."
           ],
@@ -243,9 +197,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "Porque quizá para esto se apartó de ti por algún tiempo, para que le recibieses para siempre;"
           ],
@@ -253,9 +205,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "no ya como esclavo, sino como más que esclavo, como hermano amado, mayormente para mí, pero cuánto más para ti, tanto en la carne como en el Señor."
           ],
@@ -263,9 +213,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "Así que, si me tienes por compañero, recíbele como a mí mismo."
           ],
@@ -273,19 +221,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
-          "lines": [
-            "Y si en algo te dañó, o te debe, ponlo a mi cuenta."
-          ],
+          "verse_numbers": [18],
+          "lines": ["Y si en algo te dañó, o te debe, ponlo a mi cuenta."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "Yo Pablo lo escribo de mi mano, yo lo pagaré; por no decirte que aun tú mismo te me debes también."
           ],
@@ -293,9 +235,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
+          "verse_numbers": [20],
           "lines": [
             "Sí, hermano, tenga yo algún provecho de ti en el Señor; conforta mi corazón en el Señor."
           ],
@@ -303,9 +243,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            21
-          ],
+          "verse_numbers": [21],
           "lines": [
             "Te he escrito confiando en tu obediencia, sabiendo que harás aun más de lo que te digo."
           ],
@@ -313,9 +251,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            22
-          ],
+          "verse_numbers": [22],
           "lines": [
             "Prepárame también alojamiento; porque espero que por vuestras oraciones os seré concedido."
           ],
@@ -324,16 +260,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Salutaciones y bendición final"
-          ],
+          "lines": ["Salutaciones y bendición final"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            23
-          ],
+          "verse_numbers": [23],
           "lines": [
             "Te saludan Epafras, mi compañero de prisiones por Cristo Jesús,"
           ],
@@ -341,19 +273,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            24
-          ],
-          "lines": [
-            "Marcos, Aristarco, Demas y Lucas, mis colaboradores."
-          ],
+          "verse_numbers": [24],
+          "lines": ["Marcos, Aristarco, Demas y Lucas, mis colaboradores."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            25
-          ],
+          "verse_numbers": [25],
           "lines": [
             "La gracia de nuestro Señor Jesucristo sea con vuestro espíritu. Amén."
           ],

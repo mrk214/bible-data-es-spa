@@ -18,30 +18,24 @@
     "local_name": "Español (América Latina)",
     "text_direction": "ltr"
   },
-  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "repository": "https://github.com/mrk214/bible-data-es-spa",
   "chapters": [
     {
       "chapter_usfm": "EST.INTRO1",
       "is_chapter": false,
       "current": {
-        "usfm": [
-          "EST.INTRO1"
-        ],
+        "usfm": ["EST.INTRO1"],
         "human": "Ester Introducción"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "EST.1"
-        ],
+        "usfm": ["EST.1"],
         "human": "Ester 1",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "NEH.13"
-        ],
+        "usfm": ["NEH.13"],
         "human": "Nehemías 13",
         "toc": true
       },
@@ -53,24 +47,18 @@
       "chapter_usfm": "EST.1",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "EST.1"
-        ],
+        "usfm": ["EST.1"],
         "human": "Ester 1"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "EST.2"
-        ],
+        "usfm": ["EST.2"],
         "human": "Ester 2",
         "toc": true
       },
       "previous": {
         "canonical": false,
-        "usfm": [
-          "EST.INTRO1"
-        ],
+        "usfm": ["EST.INTRO1"],
         "human": "Ester Introducción",
         "toc": true
       },
@@ -80,18 +68,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "La gran fiesta del rey Asuero"
-          ],
+          "lines": ["La gran fiesta del rey Asuero"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1,
-            2,
-            3
-          ],
+          "verse_numbers": [1, 2, 3],
           "lines": [
             "Asuero, el rey de Persia, gobernaba sobre ciento veintisiete provincias, que se extendían desde la India hasta Etiopía, y la capital de su reino se llamaba Susa.",
             "En el tercer año de su reinado, Asuero organizó una gran fiesta para todos los funcionarios y líderes del país. También invitó a los jefes de los ejércitos de Persia y Media, y a las autoridades y gobernadores de las provincias."
@@ -100,9 +82,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "Durante seis meses el rey les estuvo mostrando las riquezas que poseía y les hizo ver cuán grande y poderoso era su reino."
           ],
@@ -110,9 +90,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "Después ordenó que se preparara otra fiesta para todos los que vivían en Susa, desde el más importante hasta el menos importante. La fiesta se realizó en los jardines del palacio y duró siete días."
           ],
@@ -120,9 +98,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "Entre las columnas de mármol se colgaron cortinas de hilo blanco y azul, sujetadas con cuerdas de color púrpura y argollas de plata. Pusieron muebles de oro y plata, y un piso de mármol blanco y negro, con incrustaciones de piedras preciosas."
           ],
@@ -130,9 +106,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "Se sirvió una gran cantidad de vino, pues el rey era muy generoso. Las copas en las que se sirvió el vino eran de oro, y cada una con un diseño original."
           ],
@@ -140,9 +114,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "Sin embargo, el rey ordenó a los sirvientes que no obligaran a nadie a beber, sino que cada persona bebiera lo que quisiera."
           ],
@@ -150,9 +122,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "Por su parte, la reina Vasti ofreció en el palacio del rey Asuero una fiesta para las mujeres de los invitados."
           ],
@@ -161,16 +131,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "La reina Vasti desobedece al rey"
-          ],
+          "lines": ["La reina Vasti desobedece al rey"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "Al séptimo día de la fiesta, el rey estaba muy alegre, pues había bebido vino. Entonces llamó a siete hombres de su confianza: Mehumán, Biztá, Harboná, Bigtá, Abagtá, Zetar y Carcás,"
           ],
@@ -178,10 +144,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11,
-            12
-          ],
+          "verse_numbers": [11, 12],
           "lines": [
             "y les ordenó que fueran a buscar a la reina Vasti. Les dijo que ella debía venir luciendo la corona de reina, para que la gente y los príncipes pudieran ver su belleza, pues era muy hermosa. Pero ella no quiso obedecer la orden del rey.",
             "Al saber esto, el rey se puso furioso"
@@ -190,9 +153,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "y les preguntó a los especialistas de la ley qué debía hacer. Era su costumbre pedir consejo a los que conocían bien la ley,"
           ],
@@ -200,9 +161,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "y los que más lo ayudaban en esto eran Carsená, Setar, Admata, Tarsis, Meres, Marsená y Memucán. Estos siete hombres eran jefes de Persia y Media, que tenían puestos importantes en el gobierno del país."
           ],
@@ -210,9 +169,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "Así que el rey les preguntó:",
             "—La reina Vasti ha desobedecido mis órdenes. De acuerdo con la ley, ¿qué debemos hacer con ella?"
@@ -221,9 +178,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "Entonces Memucán les respondió al rey y a los demás consejeros:",
             "—La reina Vasti no solo ha ofendido al rey, sino también a todos los jefes y a toda la población."
@@ -232,10 +187,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17,
-            18
-          ],
+          "verse_numbers": [17, 18],
           "lines": [
             "Cuando las mujeres de Persia y Media se enteren de lo que ha hecho la reina, tampoco respetarán a sus esposos. Hoy mismo les dirán a sus esposos lo que hizo la reina, y vamos a tener muchos problemas."
           ],
@@ -243,9 +195,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "Si le parece bien a Su Majestad, ordene que Vasti ya no siga siendo la reina, y que esa orden sea una ley para los de Persia y Media, para que nadie pueda cambiar su decisión. Además, elija usted otra reina que sea mejor que ella."
           ],
@@ -253,9 +203,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
+          "verse_numbers": [20],
           "lines": [
             "Cuando se conozca la orden de Su Majestad en todo este gran reino, todas las mujeres respetarán a sus esposos, sean ricos o pobres."
           ],
@@ -263,9 +211,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            21
-          ],
+          "verse_numbers": [21],
           "lines": [
             "Al rey y a todos los consejeros les agradó este consejo. Entonces el rey"
           ],
@@ -273,9 +219,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            22
-          ],
+          "verse_numbers": [22],
           "lines": [
             "envió cartas a todas las provincias del país. Las cartas fueron escritas en el idioma de cada provincia, y dejaban en claro que el esposo era el jefe de la familia, y que en la casa se debía hablar su idioma."
           ],
@@ -287,24 +231,18 @@
       "chapter_usfm": "EST.2",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "EST.2"
-        ],
+        "usfm": ["EST.2"],
         "human": "Ester 2"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "EST.3"
-        ],
+        "usfm": ["EST.3"],
         "human": "Ester 3",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "EST.1"
-        ],
+        "usfm": ["EST.1"],
         "human": "Ester 1",
         "toc": true
       },
@@ -314,16 +252,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Asuero busca una nueva reina"
-          ],
+          "lines": ["Asuero busca una nueva reina"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Más tarde, cuando al rey Asuero se le pasó el enojo, se acordó de Vasti y de lo que ella había hecho, y de lo que se había ordenado contra ella."
           ],
@@ -331,11 +265,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2,
-            3,
-            4
-          ],
+          "verse_numbers": [2, 3, 4],
           "lines": [
             "Entonces los consejeros le dijeron al rey:",
             "—Su Majestad debe nombrar asistentes en todas las provincias del país, para que busquen jóvenes hermosas y solteras. Esas jóvenes deberán ser llevadas a la casa de las mujeres, en su palacio. Allí estarán bajo el cuidado de Hegai, su hombre de confianza a cargo de las mujeres, para que les dé un tratamiento de belleza. Entonces Su Majestad elegirá a la joven que más le guste, y la nombrará reina en lugar de Vasti.",
@@ -346,16 +276,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Ester llega al palacio"
-          ],
+          "lines": ["Ester llega al palacio"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "En Susa vivía un judío de la tribu de Benjamín, llamado Mardoqueo hijo de Jaír, nieto de Simí y bisnieto de Quis."
           ],
@@ -363,9 +289,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "Era uno de los prisioneros que Nabucodonosor, rey de Babilonia, se había llevado de Jerusalén junto con el rey Joaquín de Judá."
           ],
@@ -373,9 +297,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "Mardoqueo había criado a una prima suya llamada Ester, porque era huérfana. Cuando murieron sus padres, Mardoqueo la adoptó como hija propia. Ester era muy hermosa y elegante."
           ],
@@ -383,9 +305,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "Cuando se conoció la orden dada por el rey, muchas jóvenes fueron llevadas al palacio, y quedaron al cuidado de Hegai. Entre ellas estaba Ester."
           ],
@@ -393,9 +313,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "Hegai se fijó en ella, y le agradó tanto que, enseguida, ordenó que se le dieran cremas de belleza y comida especial. También le ordenó a siete de las mejores muchachas del palacio que atendieran a Ester, y que le dieran una de las mejores habitaciones en la casa de las mujeres."
           ],
@@ -403,9 +321,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "Ester no decía de qué pueblo ni de qué raza era ella, porque Mardoqueo le había pedido que no se lo dijera a nadie."
           ],
@@ -413,9 +329,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "Todos los días Mardoqueo iba y venía por el patio de la casa de las mujeres, para ver si Ester estaba bien y cómo la trataban."
           ],
@@ -423,9 +337,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "Las jóvenes debían presentarse por turno ante el rey, pero antes de hacerlo se debían someter a un tratamiento de belleza durante doce meses, pues esa era la costumbre. Los primeros seis meses debían untarse aceite de mirra en sus cuerpos, y el resto del tiempo ponerse perfumes y cremas."
           ],
@@ -433,9 +345,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "A cada joven que se presentaba ante el rey en el palacio, se le permitía vestir la ropa y las joyas que ella escogiera en la casa de las mujeres."
           ],
@@ -443,9 +353,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "Cada joven se iba al palacio al atardecer, y a la mañana siguiente se retiraba a otra sección de la casa de las mujeres, la cual estaba a cargo de Saasgaz, otro hombre de confianza del rey. Solo volvía a presentarse ante el rey si él lo deseaba y la mandaba llamar por nombre."
           ],
@@ -454,17 +362,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Ester es elegida reina"
-          ],
+          "lines": ["Ester es elegida reina"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15,
-            16
-          ],
+          "verse_numbers": [15, 16],
           "lines": [
             "El padre de Ester se llamaba Abihail, y fue tío de Mardoqueo. Ester se había ganado el aprecio de todos en el palacio, y cuando le llegó el turno de presentarse ante el rey, fue vestida con la ropa que Hegai le aconsejó ponerse. Era el mes de Tébet, del séptimo año del reinado de Asuero."
           ],
@@ -472,9 +375,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "Al rey Asuero le gustó Ester más que todas las otras jóvenes, y la trató mejor que a todas sus mujeres, así que le colocó la corona sobre su cabeza y la nombró reina en lugar de Vasti."
           ],
@@ -482,9 +383,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "Después el rey hizo una gran fiesta para Ester. A esa fiesta invitó a todos los funcionarios y colaboradores de su reino. También rebajó los impuestos, y repartió excelentes regalos, dignos de un rey."
           ],
@@ -493,17 +392,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Mardoqueo descubre un plan para matar al rey"
-          ],
+          "lines": ["Mardoqueo descubre un plan para matar al rey"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19,
-            20
-          ],
+          "verse_numbers": [19, 20],
           "lines": [
             "Ester obedecía a Mardoqueo desde niña, y aún continuaba haciéndolo. Nadie sabía de qué familia ni de qué raza era ella, porque Mardoqueo le había ordenado no decirlo. Un día, mientras las jóvenes se reunían en la otra sección de la casa de las mujeres, Mardoqueo se sentó a la entrada del palacio real"
           ],
@@ -511,9 +405,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            21
-          ],
+          "verse_numbers": [21],
           "lines": [
             "y escuchó hablar a dos oficiales del rey que vigilaban la entrada del palacio. Eran Bigtán y Teres, que estaban muy enojados con el rey y hacían planes para matarlo."
           ],
@@ -521,9 +413,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            22
-          ],
+          "verse_numbers": [22],
           "lines": [
             "Al oír esto, Mardoqueo fue a decírselo a la reina Ester, y ella se lo dijo al rey."
           ],
@@ -531,9 +421,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            23
-          ],
+          "verse_numbers": [23],
           "lines": [
             "El rey mandó investigar el asunto, y cuando se comprobó que era cierto, ordenó que esos dos hombres fueran ahorcados. Todo esto fue anotado, en presencia del rey, en el libro de la historia del país."
           ],
@@ -545,24 +433,18 @@
       "chapter_usfm": "EST.3",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "EST.3"
-        ],
+        "usfm": ["EST.3"],
         "human": "Ester 3"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "EST.4"
-        ],
+        "usfm": ["EST.4"],
         "human": "Ester 4",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "EST.2"
-        ],
+        "usfm": ["EST.2"],
         "human": "Ester 2",
         "toc": true
       },
@@ -572,16 +454,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Mardoqueo y Amán"
-          ],
+          "lines": ["Mardoqueo y Amán"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Tiempo después, el rey Asuero nombró jefe de gobierno a Amán hijo de Hamedata, que era descendiente de Agag."
           ],
@@ -589,9 +467,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "Además, el rey ordenó que todos sus sirvientes se arrodillaran e inclinaran su cabeza ante Amán, en señal de respeto.",
             "Pero Mardoqueo ni se arrodillaba ni inclinaba su cabeza,"
@@ -600,9 +476,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "así que los sirvientes del palacio le preguntaron por qué no obedecía la orden del rey."
           ],
@@ -610,9 +484,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "Varias veces le hicieron la misma pregunta, pero él no les hacía caso.",
             "Después de unos días, los sirvientes se lo contaron a Amán. Querían ver si Mardoqueo se atrevería a decirle lo que ya les había dicho a ellos; es decir, que no obedecía esa orden porque era judío."
@@ -621,9 +493,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "Cuando Amán se enteró de que Mardoqueo no se arrodillaba ni inclinaba su cabeza ante él, se enfureció."
           ],
@@ -631,9 +501,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "Y al saber que Mardoqueo era judío, decidió castigarlo a él y destruir a todos los judíos que vivían en el reino de Asuero."
           ],
@@ -642,16 +510,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Amán convence al rey"
-          ],
+          "lines": ["Amán convence al rey"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "Asuero ya tenía doce años de reinar. En el mes de Abib de ese año, Amán echó suertes para saber en qué fecha debía llevar a cabo su plan, y le salió el mes de Adar."
           ],
@@ -659,9 +523,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "Entonces Amán le dijo al rey Asuero:",
             "—Majestad, en su reino vive gente de otra raza. Se los encuentra uno por todos lados. Tienen leyes diferentes y no obedecen las órdenes de Su Majestad. No es conveniente dejarlos vivir en el reino."
@@ -670,9 +532,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "Si a Su Majestad le parece bien, y ordena que sean destruidos, yo daré trescientos treinta mil kilos de plata a los administradores del tesoro del reino."
           ],
@@ -680,9 +540,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "El rey se quitó de su mano el anillo con el sello real, se lo dio a Amán, el enemigo de los judíos,"
           ],
@@ -690,9 +548,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "y le dijo:",
             "—Puedes quedarte con tu dinero. Haz con esa gente lo que te parezca."
@@ -702,17 +558,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "La orden para destruir a los judíos"
-          ],
+          "lines": ["La orden para destruir a los judíos"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12,
-            13
-          ],
+          "verse_numbers": [12, 13],
           "lines": [
             "El día trece del mes de Abib el rey llamó a sus secretarios para que escribieran las órdenes de Amán y las enviaran a sus asistentes, a los gobernadores de todas las provincias, y a todos los jefes del país. Estos documentos fueron enviados a cada provincia y pueblo del reino en el idioma que entendían, y debidamente firmados y sellados por el rey Asuero. En ellos se ordenaba que el día trece del mes de Adar se destruyera por completo al pueblo judío. Ese día se mataría a todos los judíos, tanto jóvenes como ancianos, mujeres y niños, y además se les quitarían sus pertenencias."
           ],
@@ -720,9 +571,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "Este decreto fue dado a conocer por todas las provincias y pueblos del reino, y se hicieron varias copias para que la gente se preparara para aquel día."
           ],
@@ -730,9 +579,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "Este mismo decreto se publicó enseguida en Susa. Los mensajeros salieron rápidamente con el documento, y la noticia dejó confundidos a todos en la ciudad. El rey, por su parte, se sentó a beber con Amán."
           ],
@@ -744,24 +591,18 @@
       "chapter_usfm": "EST.4",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "EST.4"
-        ],
+        "usfm": ["EST.4"],
         "human": "Ester 4"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "EST.5"
-        ],
+        "usfm": ["EST.5"],
         "human": "Ester 5",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "EST.3"
-        ],
+        "usfm": ["EST.3"],
         "human": "Ester 3",
         "toc": true
       },
@@ -771,16 +612,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "La tristeza de los judíos"
-          ],
+          "lines": ["La tristeza de los judíos"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Cuando Mardoqueo se enteró de lo que había pasado, rompió su ropa en señal de tristeza, y se puso ropa áspera. Luego se echó ceniza en la cabeza, y anduvo por la ciudad llorando amargamente y en voz alta."
           ],
@@ -788,9 +625,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "Llegó hasta la entrada del palacio del rey, pero no entró porque estaba prohibido entrar en el palacio vestido de esa manera."
           ],
@@ -798,9 +633,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "Cuando se conocieron las órdenes del rey en las distintas provincias, los judíos se pusieron muy tristes. No comían nada, lloraban amargamente, y la mayoría de ellos se acostó sobre ceniza y se puso ropa áspera."
           ],
@@ -809,16 +642,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Mardoqueo le pide ayuda a Ester"
-          ],
+          "lines": ["Mardoqueo le pide ayuda a Ester"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "Cuando las sirvientas y los guardias personales de la reina Ester le contaron lo que pasaba, también ella se puso triste. Entonces le envió ropa a Mardoqueo para que se quitara la ropa áspera, pero él no quiso."
           ],
@@ -826,9 +655,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "Luego Ester llamó a Hatac, uno de los guardias que el rey había puesto a su servicio, y le ordenó que fuera a preguntarle a Mardoqueo qué le pasaba."
           ],
@@ -836,9 +663,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "Hatac fue hasta la plaza de la ciudad, que estaba frente a la entrada del palacio, y allí le preguntó a Mardoqueo"
           ],
@@ -846,9 +671,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "qué le pasaba. Mardoqueo le dijo que Amán había prometido entregar mucho dinero a la tesorería del rey, a cambio de la destrucción de los judíos."
           ],
@@ -856,9 +679,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "Además, le dio una copia del documento publicado en Susa, en el cual se ordenaba la destrucción de los judíos, y le pidió que se lo mostrara a Ester y le explicara todo. Mardoqueo también le pidió que le dijera a Ester que fuera a ver al rey y le suplicara no destruir a su pueblo."
           ],
@@ -866,9 +687,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "Hatac fue y le dijo a Ester todo lo que Mardoqueo le había dicho."
           ],
@@ -876,19 +695,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
-          "lines": [
-            "Ella a su vez le dio este mensaje para Mardoqueo:"
-          ],
+          "verse_numbers": [10],
+          "lines": ["Ella a su vez le dio este mensaje para Mardoqueo:"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "«Hace ya treinta días que el rey no me llama. Todos los sirvientes del rey y los habitantes de este país saben que nadie puede presentarse ante el rey sin ser llamado, pues eso se castiga con la muerte. Esa persona es perdonada solo si el rey la señala con su cetro de oro»."
           ],
@@ -896,19 +709,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
-          "lines": [
-            "Cuando Mardoqueo recibió el mensaje de Ester,"
-          ],
+          "verse_numbers": [12],
+          "lines": ["Cuando Mardoqueo recibió el mensaje de Ester,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "le mandó esta respuesta:",
             "«No te vas a salvar solo porque estás en el palacio."
@@ -917,9 +724,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "Si no te atreves a hablar en momentos como este, la liberación de los judíos vendrá de otra parte, pero tú y toda tu familia morirán. Yo creo que has llegado a ser reina para ayudar a tu pueblo en este momento»."
           ],
@@ -928,26 +733,18 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Ester decide ayudar"
-          ],
+          "lines": ["Ester decide ayudar"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
-          "lines": [
-            "Entonces Ester le mandó esta respuesta a Mardoqueo:"
-          ],
+          "verse_numbers": [15],
+          "lines": ["Entonces Ester le mandó esta respuesta a Mardoqueo:"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "«Reúne a todos los judíos que se encuentren en Susa, y ayunen por mí, no coman ni beban durante tres días. También mis sirvientas y yo ayunaremos. Después de eso, me presentaré ante el rey, aunque la ley no lo permita. ¡Y si tengo que morir, moriré!»"
           ],
@@ -955,9 +752,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "Mardoqueo fue y cumplió con todo lo que Ester le había ordenado."
           ],
@@ -969,24 +764,18 @@
       "chapter_usfm": "EST.5",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "EST.5"
-        ],
+        "usfm": ["EST.5"],
         "human": "Ester 5"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "EST.6"
-        ],
+        "usfm": ["EST.6"],
         "human": "Ester 6",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "EST.4"
-        ],
+        "usfm": ["EST.4"],
         "human": "Ester 4",
         "toc": true
       },
@@ -996,16 +785,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Ester se presenta ante el rey"
-          ],
+          "lines": ["Ester se presenta ante el rey"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Tres días después, Ester se puso su vestido de reina, se fue a la entrada de la sala del palacio donde está el trono, y se detuvo frente al rey."
           ],
@@ -1013,9 +798,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "Cuando el rey vio a Ester, se puso contento y la señaló con el cetro de oro que tenía en su mano. Entonces Ester se acercó y tocó la punta del cetro."
           ],
@@ -1023,9 +806,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "El rey le preguntó:",
             "—¿Qué deseas, Ester? Te daré lo que me pidas. Hasta la mitad de mi reino te daría si me lo pidieras."
@@ -1034,9 +815,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "Ella respondió:",
             "—Su Majestad, he preparado un banquete en su honor. Si le parece bien, quisiera que usted y Amán asistieran."
@@ -1045,9 +824,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "El rey dijo a sus sirvientes:",
             "—Vayan a buscar a Amán enseguida, para que vayamos al banquete de Ester.",
@@ -1057,9 +834,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "Mientras bebían vino, el rey le preguntó a Ester:",
             "—¿Qué es lo que deseas? Pídeme lo que quieras. Hasta la mitad de mi reino te daría."
@@ -1068,10 +843,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7,
-            8
-          ],
+          "verse_numbers": [7, 8],
           "lines": [
             "Ester le respondió:",
             "—Si he agradado a Su Majestad, y le parece bien cumplir mis deseos, me gustaría que usted y Amán vengan a otro banquete que les prepararé mañana. Allí le diré qué es lo que deseo."
@@ -1081,16 +853,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "El odio de Amán contra Mardoqueo"
-          ],
+          "lines": ["El odio de Amán contra Mardoqueo"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "Aquel día, Amán se fue alegre y contento. Pero cuando llegó a la entrada del palacio y vio que Mardoqueo no se ponía de pie, y ni siquiera se movía, se enfureció mucho."
           ],
@@ -1098,9 +866,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "Sin embargo, no lo demostró, sino que se fue a su casa y mandó buscar a sus amigos y a su esposa Zeres."
           ],
@@ -1108,9 +874,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "Amán les habló de las grandes riquezas que poseía, de cuántos hijos tenía, de todos los honores que había recibido del rey, y de cómo le había dado autoridad sobre los asistentes y colaboradores del reino."
           ],
@@ -1118,9 +882,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "Después les dijo:",
             "—La reina Ester invitó solo al rey y a mí al banquete que ella había preparado. Y nos ha invitado a otro banquete que ofrecerá mañana."
@@ -1129,9 +891,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "Pero este gozo se me acaba cuando veo a ese judío Mardoqueo sentado a la entrada del palacio."
           ],
@@ -1139,9 +899,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "Entonces su esposa Zeres y todos sus amigos le aconsejaron:",
             "—Manda construir una horca de unos veintidós metros de altura. Luego, mañana por la mañana, le dirás al rey que haga colgar a Mardoqueo en esa horca. Así podrás disfrutar del banquete, en compañía del rey.",
@@ -1155,24 +913,18 @@
       "chapter_usfm": "EST.6",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "EST.6"
-        ],
+        "usfm": ["EST.6"],
         "human": "Ester 6"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "EST.7"
-        ],
+        "usfm": ["EST.7"],
         "human": "Ester 7",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "EST.5"
-        ],
+        "usfm": ["EST.5"],
         "human": "Ester 5",
         "toc": true
       },
@@ -1182,16 +934,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Mardoqueo recibe su recompensa"
-          ],
+          "lines": ["Mardoqueo recibe su recompensa"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Esa noche el rey no podía dormir, así que mandó traer el libro de la historia del país, para que le leyeran algo de los acontecimientos más importantes de su reinado."
           ],
@@ -1199,9 +947,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "Cuando leyeron el relato de cuando Mardoqueo había avisado que los guardias Bigtán y Teres habían planeado matar al rey Asuero,"
           ],
@@ -1209,9 +955,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "este preguntó:",
             "—¿Qué recompensa recibió Mardoqueo por esto? ¿Qué honor se le dio?",
@@ -1222,9 +966,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "En ese momento, Amán entró al patio exterior del palacio, buscando al rey para convencerlo de colgar a Mardoqueo en la horca que tenía preparada. Entonces el rey preguntó:",
             "—¿Quién anda allí?"
@@ -1233,9 +975,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "Los asistentes le dijeron al rey que se trataba de Amán, y el rey ordenó:",
             "—Háganlo pasar."
@@ -1244,9 +984,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "Cuando Amán entró, el rey le preguntó:",
             "—¿Qué podría yo darle a un hombre para honrarlo?",
@@ -1256,20 +994,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
-          "lines": [
-            "le respondió:",
-            "—Su Majestad podría hacer lo siguiente:"
-          ],
+          "verse_numbers": [7],
+          "lines": ["le respondió:", "—Su Majestad podría hacer lo siguiente:"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "Ordene que alguien traiga su capa, y también uno de sus caballos, con un arreglo elegante en la cabeza."
           ],
@@ -1277,9 +1008,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "Después envíe a su asistente más importante para que le ponga a ese hombre la capa de Su Majestad y lo pasee en su caballo por el centro de la ciudad. El asistente irá anunciando: “¡Así trata el rey a quien él desea honrar!”"
           ],
@@ -1287,9 +1016,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "Entonces el rey le ordenó a Amán:",
             "—¡Pues ve enseguida y haz todo eso con Mardoqueo el judío! ¡Toma la capa y el caballo, y ve a buscarlo! No olvides ningún detalle de todo lo que has dicho."
@@ -1298,9 +1025,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "Amán tomó la capa y se la puso a Mardoqueo, luego lo hizo montar al caballo y lo llevó por toda la ciudad. Amán iba anunciando: «¡Así trata el rey a quien él desea honrar!»"
           ],
@@ -1308,9 +1033,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "Después Mardoqueo regresó a la entrada del palacio, y Amán, muy triste, se apresuró a regresar a su casa. Sentía tanta vergüenza que hasta se cubría la cara."
           ],
@@ -1318,9 +1041,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "Al llegar a su casa les contó a su esposa y a sus amigos lo que le había ocurrido. Su esposa y sus amigos más sabios le aconsejaron: «Si Mardoqueo es judío, no pienses que lo podrás vencer. Al contrario, esto es apenas el comienzo de tu derrota total»."
           ],
@@ -1328,9 +1049,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "Mientras estaban hablando, llegaron los guardias del rey y se llevaron a Amán al banquete que Ester había preparado."
           ],
@@ -1342,24 +1061,18 @@
       "chapter_usfm": "EST.7",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "EST.7"
-        ],
+        "usfm": ["EST.7"],
         "human": "Ester 7"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "EST.8"
-        ],
+        "usfm": ["EST.8"],
         "human": "Ester 8",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "EST.6"
-        ],
+        "usfm": ["EST.6"],
         "human": "Ester 6",
         "toc": true
       },
@@ -1369,16 +1082,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Ester ofrece otro banquete"
-          ],
+          "lines": ["Ester ofrece otro banquete"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "El rey Asuero y Amán fueron al banquete que les ofrecía la reina Ester."
           ],
@@ -1386,9 +1095,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "Mientras bebían vino, el rey le volvió a preguntar a Ester:",
             "—¿Dime qué deseas, reina Ester? Hasta la mitad de mi reino te daría, si me lo pidieras."
@@ -1397,9 +1104,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "Ester le respondió:",
             "—Si Su Majestad en verdad me ama, y si le parece bien, le pido que salve mi vida y la de mi pueblo."
@@ -1408,9 +1113,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "Se ha puesto precio a nuestra vida, y se nos quiere destruir. Si hubiéramos sido vendidos como esclavos y esclavas, yo me callaría, y no molestaría a Su Majestad por algo sin importancia."
           ],
@@ -1418,9 +1121,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "El rey Asuero le preguntó:",
             "—¿Y quién se atrevió a hacer esto? ¿Dónde está?"
@@ -1429,9 +1130,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "Ester, señalando a Amán, le respondió:",
             "—¡Nuestro enemigo es este malvado!",
@@ -1441,9 +1140,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "El rey Asuero se levantó de la mesa muy enojado, y salió al jardín para calmarse. Cuando Amán se dio cuenta de que el rey estaba decidido a matarlo, se quedó en la sala para rogarle a la reina que lo salvara."
           ],
@@ -1452,17 +1149,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Amán muere en la horca"
-          ],
+          "lines": ["Amán muere en la horca"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8,
-            9
-          ],
+          "verse_numbers": [8, 9],
           "lines": [
             "Cuando el rey regresó del jardín y entró a la sala, vio que Amán estaba demasiado cerca de Ester. Entonces el rey exclamó:",
             "—¡Solo eso me faltaba! ¡Que le faltes al respeto a mi esposa ante mis ojos, y en mi propia casa!",
@@ -1473,9 +1165,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "Entonces el rey ordenó:",
             "—¡Cuélguenlo allí!",
@@ -1489,24 +1179,18 @@
       "chapter_usfm": "EST.8",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "EST.8"
-        ],
+        "usfm": ["EST.8"],
         "human": "Ester 8"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "EST.9"
-        ],
+        "usfm": ["EST.9"],
         "human": "Ester 9",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "EST.7"
-        ],
+        "usfm": ["EST.7"],
         "human": "Ester 7",
         "toc": true
       },
@@ -1516,16 +1200,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Ester suplica al rey por los judíos"
-          ],
+          "lines": ["Ester suplica al rey por los judíos"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Ese mismo día el rey Asuero le regaló a la reina Ester la casa de Amán, el enemigo de los judíos. Y Mardoqueo se presentó ante el rey, pues Ester ya le había contado a Asuero que ellos eran parientes."
           ],
@@ -1533,9 +1213,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "Entonces el rey tomó el anillo que antes le había dado a Amán, y se lo entregó a Mardoqueo. Ester, por su parte, le dijo a Mardoqueo que se hiciera cargo de todo lo que antes era de Amán."
           ],
@@ -1543,9 +1221,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "Ester se arrodilló ante el rey y le rogó, una vez más, que hiciera algo para impedir que se llevara a cabo el plan de Amán en contra de los judíos."
           ],
@@ -1553,19 +1229,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
-          "lines": [
-            "El rey la señaló con el cetro de oro,"
-          ],
+          "verse_numbers": [4],
+          "lines": ["El rey la señaló con el cetro de oro,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "y entonces ella se puso de pie y le dijo:",
             "—Si a Su Majestad le parece bien y justo, y si en verdad me ama, escriba una orden que anule el documento que Amán dictó para destruir a los judíos."
@@ -1574,9 +1244,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "¡No podría yo soportar la tragedia que amenaza a mi pueblo! ¡No podré resistir que se destruya a mi familia!"
           ],
@@ -1584,9 +1252,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "Entonces el rey Asuero les dijo a Ester y a Mardoqueo:",
             "—Yo le he regalado a Ester las propiedades de Amán, el cual ha sido colgado en la horca por querer matar a los judíos."
@@ -1595,9 +1261,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "Escriban ustedes cartas ordenando lo que quieren que se haga en favor de los judíos, y pónganles mi sello. Nadie puede anular una orden escrita y sellada en mi nombre."
           ],
@@ -1605,9 +1269,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "Ester y Mardoqueo llamaron enseguida a los secretarios, y estos escribieron todo lo que Mardoqueo les ordenó acerca de los judíos. Era el día veintitrés del mes de Siván. La orden fue enviada a todos los gobernadores y principales autoridades de las ciento veintisiete provincias, desde la India hasta Etiopía. A cada provincia se le escribió en su propio idioma, y también a los judíos."
           ],
@@ -1615,9 +1277,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "Las cartas fueron escritas en nombre del rey, selladas con su anillo y enviadas por medio de mensajeros que montaban veloces caballos criados en los establos del rey."
           ],
@@ -1626,16 +1286,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "La orden que salvaría a los judíos"
-          ],
+          "lines": ["La orden que salvaría a los judíos"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "Las cartas daban permiso a los judíos de reunirse en todas las ciudades para defenderse, matar y destruir totalmente a quienes los atacaran, sin importar de dónde vinieran y sin respetar a las mujeres y a los niños. Además, les daba el derecho de apoderarse de sus pertenencias."
           ],
@@ -1643,9 +1299,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "Esta orden debía cumplirse en todas las provincias del reino, el mismo día trece del mes de Adar."
           ],
@@ -1653,9 +1307,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "Una copia de la orden debía ser publicada en todas las provincias, y ese día los judíos debían estar listos para vengarse de sus enemigos."
           ],
@@ -1663,9 +1315,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "Los mensajeros salieron rápidamente en sus veloces caballos. Una copia de la orden también fue publicada en la ciudad de Susa."
           ],
@@ -1673,9 +1323,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "Cuando Mardoqueo salió del palacio, tenía puesto un traje azul y blanco, y lucía una gran corona de oro y un manto de lino y de fina tela roja. Mientras tanto, en la ciudad de Susa todos daban gritos de alegría."
           ],
@@ -1683,9 +1331,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "Los judíos estaban tan alegres que hicieron una gran fiesta."
           ],
@@ -1693,9 +1339,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "A medida que se iba conociendo la orden del rey y su documento, en cada provincia y ciudad, los judíos festejaban con gran alegría.",
             "Y tanto era el miedo que les tenían a los judíos, que muchos en el país aceptaron su religión."
@@ -1708,24 +1352,18 @@
       "chapter_usfm": "EST.9",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "EST.9"
-        ],
+        "usfm": ["EST.9"],
         "human": "Ester 9"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "EST.10"
-        ],
+        "usfm": ["EST.10"],
         "human": "Ester 10",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "EST.8"
-        ],
+        "usfm": ["EST.8"],
         "human": "Ester 8",
         "toc": true
       },
@@ -1735,16 +1373,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Victoria de los judíos"
-          ],
+          "lines": ["Victoria de los judíos"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Llegó el día trece del mes de Adar, cuando debía cumplirse la orden del rey para que los judíos fueran destruidos. ¡Pero ocurrió lo contrario, porque ese día los judíos triunfaron sobre sus enemigos!"
           ],
@@ -1752,9 +1386,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "En todas las provincias del reino de Asuero, los judíos se reunieron en sus respectivas ciudades, dispuestos a atacar a cualquiera que les quisiera hacer daño. Pero nadie se atrevió a hacerles frente, porque ahora todos les tenían miedo."
           ],
@@ -1762,9 +1394,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "Además, por miedo a Mardoqueo, todas las autoridades ayudaron a los judíos,"
           ],
@@ -1772,9 +1402,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "pues ahora él tenía un puesto muy importante en el reino. Mardoqueo se hizo muy famoso en todas las provincias, y cada vez tenía más poder."
           ],
@@ -1782,9 +1410,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "Los judíos se armaron de espadas, y acabaron con todos sus enemigos."
           ],
@@ -1792,9 +1418,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "También en la ciudad de Susa mataron a quinientos hombres,"
           ],
@@ -1802,12 +1426,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7,
-            8,
-            9,
-            10
-          ],
+          "verse_numbers": [7, 8, 9, 10],
           "lines": [
             "incluyendo a los diez hijos de Amán que se llamaban: Parsandata, Dalfón, Aspata, Porata, Adalías, Aridata, Parmasta, Arisai, Aridai y Vaizata. Pero no se adueñaron de sus pertenencias."
           ],
@@ -1815,9 +1434,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "Ese mismo día informaron al rey cuántos habían muerto en Susa."
           ],
@@ -1825,9 +1442,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "Entonces el rey le comentó a la reina Ester:",
             "—En la ciudad de Susa los judíos han matado a quinientos hombres, incluyendo a los diez hijos de Amán. ¡Sin duda, en el resto del reino habrán hecho algo parecido! ¿Qué más deseas? Pídeme lo que quieras, que yo te lo concederé."
@@ -1836,9 +1451,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "Ester le respondió:",
             "—Si a Su Majestad le parece bien, quisiera que también mañana se permita a los judíos de Susa acabar con sus enemigos. También quisiera que los cadáveres de los hijos de Amán sean exhibidos en público."
@@ -1847,9 +1460,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "El rey ordenó que se hiciera así; y el documento con la orden fue entregado en Susa."
           ],
@@ -1857,9 +1468,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "Los judíos que estaban en Susa también se reunieron el día catorce del mes de Adar y mataron a trescientos hombres, pero no se adueñaron de sus pertenencias."
           ],
@@ -1867,10 +1476,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16,
-            17
-          ],
+          "verse_numbers": [16, 17],
           "lines": [
             "Los otros judíos que estaban en las provincias del rey se habían reunido el día trece del mes de Adar para defenderse y librarse de sus enemigos. Ese día mataron a setenta y cinco mil de sus enemigos, pero no se adueñaron de sus pertenencias. El día catorce descansaron y se dedicaron a festejar su victoria."
           ],
@@ -1878,9 +1484,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "Pero los judíos que estaban en Susa se reunieron los días trece y catorce para defenderse, y el día quince también hicieron fiesta."
           ],
@@ -1888,9 +1492,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "Por eso los judíos de las provincias eligieron el día catorce del mes de Adar como día de celebración, y en ese día se hacen regalos unos a otros."
           ],
@@ -1899,16 +1501,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "La fiesta de Purim"
-          ],
+          "lines": ["La fiesta de Purim"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
+          "verse_numbers": [20],
           "lines": [
             "Mardoqueo ordenó que se pusiera por escrito lo sucedido, y envió cartas a todos los judíos del reino de Asuero, tanto a los que vivían en las provincias cercanas como en las lejanas."
           ],
@@ -1916,9 +1514,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            21
-          ],
+          "verse_numbers": [21],
           "lines": [
             "En esas cartas Mardoqueo les ordenaba que, cada año, los días catorce y quince del mes de Adar serían de fiesta,"
           ],
@@ -1926,9 +1522,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            22
-          ],
+          "verse_numbers": [22],
           "lines": [
             "para recordar el mes y los días en que los judíos se libraron de sus enemigos, y su sufrimiento y tristeza se cambió en gozo y alegría. En esos días de fiesta se harían regalos unos a otros, y ayudarían a los pobres."
           ],
@@ -1936,9 +1530,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            23
-          ],
+          "verse_numbers": [23],
           "lines": [
             "Los judíos se comprometieron a cumplir con las órdenes de Mardoqueo, tal como ya habían comenzado a hacerlo."
           ],
@@ -1946,9 +1538,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            24
-          ],
+          "verse_numbers": [24],
           "lines": [
             "Amán, el enemigo de los judíos, había ideado un plan para acabar con ellos, y echó suertes para saber cuándo matarlos y destruirlos."
           ],
@@ -1956,9 +1546,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            25
-          ],
+          "verse_numbers": [25],
           "lines": [
             "Pero la reina Ester se presentó ante el rey, y este ordenó por escrito que Amán fuera castigado por ese plan tan malvado. Ordenó que Amán y sus hijos fueran ahorcados."
           ],
@@ -1966,10 +1554,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            26,
-            27
-          ],
+          "verse_numbers": [26, 27],
           "lines": [
             "Por eso estos días son conocidos como fiesta de Purim, que es el plural de la palabra «pur», y significa «suerte».",
             "Los judíos se comprometieron a celebrar esa fiesta, debido a todo lo que estaba escrito en la carta de Mardoqueo, y también por todo lo que les había ocurrido y habían tenido que enfrentar. Ordenaron que todos los años, sin falta, tanto ellos como sus hijos y sus nietos debían celebrar estos dos días de fiesta, de acuerdo con lo que estaba escrito. También debían celebrar la fiesta todos sus familiares que nacieran en el futuro, y todos los que se unieran a ellos."
@@ -1978,9 +1563,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            28
-          ],
+          "verse_numbers": [28],
           "lines": [
             "Ningún judío debía olvidarse nunca de celebrar esta fiesta de Purim. En todas las provincias y ciudades tendrían que celebrarse y recordarse estos días."
           ],
@@ -1988,10 +1571,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            29,
-            30
-          ],
+          "verse_numbers": [29, 30],
           "lines": [
             "Por eso la reina Ester y Mardoqueo escribieron una segunda carta, amistosa y sincera, para confirmar la fecha de esta fiesta. La enviaron a todos los judíos que vivían en las ciento veintisiete provincias del reino de Asuero."
           ],
@@ -1999,9 +1579,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            31
-          ],
+          "verse_numbers": [31],
           "lines": [
             "En esa carta, Ester y Mardoqueo ordenaban que todos los judíos y sus descendientes debían celebrar la fiesta en las fechas indicadas, tal como ellos acostumbraban a hacerlo. También daban instrucciones en la carta en cuanto a la manera de ayunar y de expresar sus lamentos."
           ],
@@ -2009,9 +1587,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            32
-          ],
+          "verse_numbers": [32],
           "lines": [
             "Fue la reina Ester quien dio las instrucciones para celebrar la fiesta de Purim, y esas instrucciones se anotaron en un libro."
           ],
@@ -2023,24 +1599,18 @@
       "chapter_usfm": "EST.10",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "EST.10"
-        ],
+        "usfm": ["EST.10"],
         "human": "Ester 10"
       },
       "next": {
         "canonical": false,
-        "usfm": [
-          "JOB.INTRO1"
-        ],
+        "usfm": ["JOB.INTRO1"],
         "human": "Job Introducción",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "EST.9"
-        ],
+        "usfm": ["EST.9"],
         "human": "Ester 9",
         "toc": true
       },
@@ -2050,16 +1620,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Conclusión"
-          ],
+          "lines": ["Conclusión"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "El rey Asuero cobraba impuestos en todo su territorio, y hasta en las islas."
           ],
@@ -2067,9 +1633,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "El relato completo de todo lo que este rey hizo con su poder y su fuerza, y del alto puesto de honor que le dio a Mardoqueo, está escrito en el libro de la historia de los reyes de Media y Persia."
           ],
@@ -2077,9 +1641,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "Mardoqueo el judío era la autoridad más importante, después del rey Asuero. Todos los judíos lo reconocían como un gran hombre y lo apreciaban mucho, porque él procuraba el bienestar de todos ellos y se encargaba de que todos los de su pueblo vivieran tranquilos."
           ],

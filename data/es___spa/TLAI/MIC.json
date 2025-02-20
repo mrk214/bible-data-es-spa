@@ -18,30 +18,24 @@
     "local_name": "Español (América Latina)",
     "text_direction": "ltr"
   },
-  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "repository": "https://github.com/mrk214/bible-data-es-spa",
   "chapters": [
     {
       "chapter_usfm": "MIC.1",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "MIC.1"
-        ],
+        "usfm": ["MIC.1"],
         "human": "Miqueas 1"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "MIC.2"
-        ],
+        "usfm": ["MIC.2"],
         "human": "Miqueas 2",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "JON.4"
-        ],
+        "usfm": ["JON.4"],
         "human": "Jonás 4",
         "toc": true
       },
@@ -50,9 +44,7 @@
       "items": [
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Yo soy Miqueas de Moréset. Dios me comunicó lo que pensaba hacer contra las ciudades de Samaria y Jerusalén. Esto sucedió cuando Jotán, Ahaz y Ezequías eran reyes de Judá. Esto es lo que Dios me dijo:"
           ],
@@ -61,16 +53,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Juicio contra Samaria"
-          ],
+          "lines": ["Juicio contra Samaria"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "«¡Escúchenme bien,",
             "pueblos todos de la tierra!",
@@ -84,9 +72,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "»Ya estoy por salir",
             "y destruiré los pequeños templos",
@@ -97,9 +83,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "»Cuando ponga mis pies",
             "sobre las montañas,",
@@ -113,9 +97,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "»Todo esto sucederá",
             "por la rebeldía de los israelitas,",
@@ -129,9 +111,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "Por eso convertiré a Samaria",
             "en un montón de ruinas;",
@@ -143,9 +123,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "»Por eso haré pedazos",
             "todos los ídolos de Samaria.",
@@ -159,17 +137,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Lamento de Miqueas"
-          ],
+          "lines": ["Lamento de Miqueas"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8,
-            9
-          ],
+          "verse_numbers": [8, 9],
           "lines": [
             "Entonces yo dije:",
             "«Samaria y mi pueblo Judá",
@@ -185,9 +158,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "»Pero no se pongan a llorar",
             "ni digan nada a los de Gat.",
@@ -199,9 +170,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "»Ustedes, habitantes de Bellavista,",
             "serán llevados como esclavos;",
@@ -214,9 +183,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "Los habitantes del pueblo de Amargura",
             "se quedarán esperando ayuda,",
@@ -227,9 +194,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "»Ustedes, habitantes de Laquis,",
             "¡enganchen sus caballos a los carros!",
@@ -242,9 +207,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "Por eso tendrán que despedirse",
             "de su amado pueblo de Moréset-gat.",
@@ -255,9 +218,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "Y Dios dijo:",
             "«Contra ustedes,",
@@ -270,9 +231,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "Habitantes de Jerusalén,",
             "¡lloren y aféitense la barba!,",
@@ -289,24 +248,18 @@
       "chapter_usfm": "MIC.2",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "MIC.2"
-        ],
+        "usfm": ["MIC.2"],
         "human": "Miqueas 2"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "MIC.3"
-        ],
+        "usfm": ["MIC.3"],
         "human": "Miqueas 3",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "MIC.1"
-        ],
+        "usfm": ["MIC.1"],
         "human": "Miqueas 1",
         "toc": true
       },
@@ -316,16 +269,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "La maldad de los poderosos"
-          ],
+          "lines": ["La maldad de los poderosos"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Dios continuó diciendo:",
             "«¡Gente malvada,",
@@ -338,9 +287,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "Si quieren terrenos, los invaden;",
             "si quieren casas, se adueñan de ellas;",
@@ -351,9 +298,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "»Por eso yo, el Dios de Israel,",
             "también tengo planes contra ustedes:",
@@ -366,9 +311,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "Cuando llegue ese día,",
             "la gente se burlará de ustedes",
@@ -383,9 +326,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "»¡Escúchenme, israelitas!",
             "Ustedes fueron mi pueblo,",
@@ -395,10 +336,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6,
-            7
-          ],
+          "verse_numbers": [6, 7],
           "lines": [
             "»Ustedes los israelitas",
             "no quieren que los profetas",
@@ -415,9 +353,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "»Si ustedes fueron mi pueblo,",
             "¿por qué ahora son mis enemigos?",
@@ -429,9 +365,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "a las mujeres de mi pueblo",
             "les quitan las casas,",
@@ -443,9 +377,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "»¡Vamos, largo de aquí!",
             "¡Ustedes han hecho de mi templo",
@@ -456,9 +388,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "Ustedes serían felices",
             "con profetas mentirosos",
@@ -469,16 +399,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Dios da esperanza a su pueblo"
-          ],
+          "lines": ["Dios da esperanza a su pueblo"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "»Pero a los descendientes de Jacob",
             "que hayan quedado con vida,",
@@ -490,9 +416,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "Yo mismo iré delante de ellos",
             "para abrirles paso y darles libertad.",
@@ -506,24 +430,18 @@
       "chapter_usfm": "MIC.3",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "MIC.3"
-        ],
+        "usfm": ["MIC.3"],
         "human": "Miqueas 3"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "MIC.4"
-        ],
+        "usfm": ["MIC.4"],
         "human": "Miqueas 4",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "MIC.2"
-        ],
+        "usfm": ["MIC.2"],
         "human": "Miqueas 2",
         "toc": true
       },
@@ -533,18 +451,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Los malos gobernantes"
-          ],
+          "lines": ["Los malos gobernantes"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1,
-            2,
-            3
-          ],
+          "verse_numbers": [1, 2, 3],
           "lines": [
             "»¡Escúchenme ustedes,",
             "jefes y gobernantes de Israel!",
@@ -559,9 +471,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "»Por eso, cuando me llamen,",
             "yo no les responderé.",
@@ -573,16 +483,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Los profetas mentirosos"
-          ],
+          "lines": ["Los profetas mentirosos"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "A los profetas que engañan a mi pueblo, Dios les ha dicho:",
             "«Ustedes solo hablan de paz",
@@ -594,9 +500,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "Por eso no les voy a informar",
             "lo que pienso hacer.",
@@ -607,9 +511,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "Esos profetas y adivinos",
             "quedarán en completo ridículo.",
@@ -620,9 +522,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "Pero yo, Miqueas, estoy lleno del poder de Dios. Por eso puedo afirmar que nuestro Dios es un Dios justo. También puedo acusar a los israelitas de ser un pueblo pecador y desobediente."
           ],
@@ -631,16 +531,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "La derrota de Jerusalén"
-          ],
+          "lines": ["La derrota de Jerusalén"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "Dios dijo:",
             "«¡Escúchenme ustedes,",
@@ -652,9 +548,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "En Jerusalén y en mi templo",
             "los crímenes y la violencia",
@@ -664,9 +558,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "Los sacerdotes, profetas y jueces",
             "enseñan, predican o dictan sentencia",
@@ -679,9 +571,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "»¡Por culpa de ustedes",
             "mi templo será derribado!",
@@ -698,24 +588,18 @@
       "chapter_usfm": "MIC.4",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "MIC.4"
-        ],
+        "usfm": ["MIC.4"],
         "human": "Miqueas 4"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "MIC.5"
-        ],
+        "usfm": ["MIC.5"],
         "human": "Miqueas 5",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "MIC.3"
-        ],
+        "usfm": ["MIC.3"],
         "human": "Miqueas 3",
         "toc": true
       },
@@ -725,16 +609,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Paz a las naciones"
-          ],
+          "lines": ["Paz a las naciones"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "En el futuro,",
             "el monte donde se encuentra",
@@ -746,9 +626,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "y gente de muchas naciones,",
             "y unos a otros se dirán:",
@@ -764,9 +642,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "Dios mismo dictará sentencia",
             "contra naciones y pueblos lejanos,",
@@ -780,9 +656,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "»Todo el mundo vivirá tranquilo",
             "bajo la sombra de su viña,",
@@ -793,9 +667,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "¡Qué importa que otras naciones",
             "adoren a sus propios dioses!",
@@ -807,17 +679,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Dios salvará a Israel"
-          ],
+          "lines": ["Dios salvará a Israel"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6,
-            7
-          ],
+          "verse_numbers": [6, 7],
           "lines": [
             "Así ha dicho nuestro Dios:",
             "«Mi pueblo parece un rebaño",
@@ -835,9 +702,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "»Hermoso monte de Sión,",
             "tú has sido una torre protectora",
@@ -849,10 +714,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9,
-            10
-          ],
+          "verse_numbers": [9, 10],
           "lines": [
             "»Tú, Jerusalén,",
             "lloras y te retuerces de dolor,",
@@ -872,9 +734,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "»Muchas naciones se han reunido,",
             "y dicen en contra tuya:",
@@ -885,9 +745,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "»Pero esas naciones no saben",
             "lo que tengo pensado hacer;",
@@ -898,9 +756,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "»¡Vamos, Jerusalén!",
             "¡Levántate y hazlos pedazos!",
@@ -920,24 +776,18 @@
       "chapter_usfm": "MIC.5",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "MIC.5"
-        ],
+        "usfm": ["MIC.5"],
         "human": "Miqueas 5"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "MIC.6"
-        ],
+        "usfm": ["MIC.6"],
         "human": "Miqueas 6",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "MIC.4"
-        ],
+        "usfm": ["MIC.4"],
         "human": "Miqueas 4",
         "toc": true
       },
@@ -947,16 +797,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Grandeza de la pequeña Belén"
-          ],
+          "lines": ["Grandeza de la pequeña Belén"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "1 (4.14) Yo, Miqueas, anuncio:",
             "«Jerusalén, Jerusalén,",
@@ -969,9 +815,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "2 (5.1) »Pero tú, Belén Efrata,",
             "entre los pueblos de Judá",
@@ -985,9 +829,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "3 (5.2) »Dios nos va a abandonar",
             "hasta que nazca ese rey.",
@@ -999,9 +841,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "4 (5.3) Entonces Dios le dará a ese rey",
             "toda su fuerza y poder",
@@ -1014,10 +854,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5,
-            6
-          ],
+          "verse_numbers": [5, 6],
           "lines": [
             "5-6 (5.4-5) »Cuando vengan los asirios",
             "para invadir nuestro país",
@@ -1034,17 +871,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Judá entre las naciones"
-          ],
+          "lines": ["Judá entre las naciones"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7,
-            8
-          ],
+          "verse_numbers": [7, 8],
           "lines": [
             "7-8 (5.6-7) »Los que quedemos con vida",
             "seremos entre las naciones,",
@@ -1060,9 +892,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "9 (5.8) ¡Tú, mi Dios, atacarás a tus enemigos",
             "y los destruirás por completo!»"
@@ -1072,16 +902,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Destrucción total"
-          ],
+          "lines": ["Destrucción total"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "10 (5.9) Dios dijo a su pueblo:",
             "«Cuando llegue ese día,",
@@ -1092,9 +918,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "11 (5.10) Destruiré también tus ciudades",
             "y derribaré todas tus torres."
@@ -1103,9 +927,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "12 (5.11) Pondré fin a tus hechicerías",
             "y acabaré con todos tus adivinos."
@@ -1114,9 +936,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "13 (5.12) Destruiré tus ídolos y tus imágenes,",
             "y no volverás a adorar",
@@ -1126,9 +946,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "14 (5.13) ¡Yo destruiré tus ciudades",
             "y las imágenes de tu diosa Astarté!"
@@ -1137,9 +955,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "15 (5.14) ¡Yo me vengaré con gran furia",
             "de las naciones que no me obedecieron!»"
@@ -1152,24 +968,18 @@
       "chapter_usfm": "MIC.6",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "MIC.6"
-        ],
+        "usfm": ["MIC.6"],
         "human": "Miqueas 6"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "MIC.7"
-        ],
+        "usfm": ["MIC.7"],
         "human": "Miqueas 7",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "MIC.5"
-        ],
+        "usfm": ["MIC.5"],
         "human": "Miqueas 5",
         "toc": true
       },
@@ -1179,18 +989,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Pleito de Dios contra Israel"
-          ],
+          "lines": ["Pleito de Dios contra Israel"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1,
-            2,
-            3
-          ],
+          "verse_numbers": [1, 2, 3],
           "lines": [
             "Israelitas, prestemos atención. Nuestro Dios tiene un pleito contra nosotros, y ahora mismo está presentando su acusación. Esto es lo que Dios nos dice:",
             "«Pueblo mío,",
@@ -1207,9 +1011,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "Recuerda que yo te di libertad;",
             "yo fui quien te sacó de Egipto,",
@@ -1221,9 +1023,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "»Recuerda también, pueblo mío,",
             "que Balac, rey de Moab,",
@@ -1239,26 +1039,18 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Lo que Dios espera de su pueblo"
-          ],
+          "lines": ["Lo que Dios espera de su pueblo"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
-          "lines": [
-            "Ustedes, israelitas, se defienden diciendo:"
-          ],
+          "verse_numbers": [5],
+          "lines": ["Ustedes, israelitas, se defienden diciendo:"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "«Altísimo Dios y rey nuestro,",
             "¿cómo podemos presentarnos ante ti?",
@@ -1269,9 +1061,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "podemos ofrecerte mil carneros,",
             "o diez mil litros de aceite,",
@@ -1284,9 +1074,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "Pero ya Dios les ha dicho qué es lo mejor que pueden hacer y lo que espera de ustedes. Es muy sencillo: Dios quiere que ustedes sean justos los unos con los otros, que sean bondadosos con los más débiles, y que lo adoren como su único Dios."
           ],
@@ -1295,16 +1083,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "El castigo de Jerusalén"
-          ],
+          "lines": ["El castigo de Jerusalén"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "Habitantes de Jerusalén, escuchen las palabras de nuestro Dios:"
           ],
@@ -1312,10 +1096,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10,
-            11
-          ],
+          "verse_numbers": [10, 11],
           "lines": [
             "«Israelitas,",
             "ya no voy a soportar",
@@ -1330,9 +1111,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "Los ricos se aprovechan de los pobres,",
             "y todos en esta ciudad son unos mentirosos."
@@ -1341,9 +1120,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "»Por eso voy a castigarlos;",
             "¡voy a destruirlos por sus pecados!"
@@ -1352,9 +1129,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "Aunque coman, no quedarán satisfechos,",
             "sino que se quedarán con hambre;",
@@ -1366,9 +1141,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "»Sembrarán trigo,",
             "pero no llegarán a cosecharlo;",
@@ -1381,9 +1154,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "Ustedes se han portado",
             "tan mal como Omrí, rey de Israel;",
@@ -1401,24 +1172,18 @@
       "chapter_usfm": "MIC.7",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "MIC.7"
-        ],
+        "usfm": ["MIC.7"],
         "human": "Miqueas 7"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "NAM.1"
-        ],
+        "usfm": ["NAM.1"],
         "human": "Nahúm 1",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "MIC.6"
-        ],
+        "usfm": ["MIC.6"],
         "human": "Miqueas 6",
         "toc": true
       },
@@ -1428,16 +1193,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Lamento del profeta"
-          ],
+          "lines": ["Lamento del profeta"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Yo, Miqueas, soy un miserable,",
             "y quisiera calmar mi apetito.",
@@ -1449,9 +1210,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "Ya no hay en este mundo",
             "gente buena y que ame a Dios;",
@@ -1463,9 +1222,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "Los gobernantes y los jueces",
             "exigen dinero para favorecer a los ricos.",
@@ -1477,9 +1234,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "¡El más bueno y honrado de ellos",
             "es peor que una mata de espinos!",
@@ -1492,10 +1247,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5,
-            6
-          ],
+          "verse_numbers": [5, 6],
           "lines": [
             "Por eso, no confíen en nadie",
             "ni crean en lo que otros les digan.",
@@ -1512,9 +1264,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "Yo, por mi parte,",
             "pondré mi confianza en Dios.",
@@ -1526,16 +1276,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Dios salvará a su pueblo"
-          ],
+          "lines": ["Dios salvará a su pueblo"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "Los israelitas dijeron:",
             "«Babilonia, nación enemiga,",
@@ -1549,9 +1295,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "»Es verdad que pecamos contra Dios;",
             "por eso soportamos su castigo.",
@@ -1563,9 +1307,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "»Babilonia, enemiga nuestra,",
             "tú preguntabas por nuestro Dios;",
@@ -1578,9 +1320,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "»Jerusalén,",
             "ya está cerca el día",
@@ -1591,9 +1331,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "Ya está cerca el día",
             "en que vendrán a visitarte",
@@ -1607,9 +1345,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "porque el territorio de esos países",
             "quedará hecho un desierto",
@@ -1620,16 +1356,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Oración a favor del pueblo"
-          ],
+          "lines": ["Oración a favor del pueblo"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "»Dios nuestro,",
             "cuida de tu pueblo;",
@@ -1647,9 +1379,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "»Muéstranos tus grandes acciones,",
             "como cuando nos sacaste de Egipto."
@@ -1658,9 +1388,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "¡Haz que las naciones poderosas",
             "las vean y se queden asombradas!",
@@ -1671,9 +1399,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "»Dios nuestro,",
             "¡obliga a esas naciones",
@@ -1688,9 +1414,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "»No hay otro Dios como tú.",
             "Somos pocos los que quedamos con vida.",
@@ -1703,9 +1427,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "»¡Vuelve a compadecerte de nosotros,",
             "y arroja todos nuestros pecados",
@@ -1715,9 +1437,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
+          "verse_numbers": [20],
           "lines": [
             "Déjanos disfrutar de tu amor y fidelidad,",
             "porque así lo prometiste",

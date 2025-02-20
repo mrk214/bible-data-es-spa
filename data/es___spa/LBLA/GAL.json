@@ -18,30 +18,24 @@
     "local_name": "Español (América Latina)",
     "text_direction": "ltr"
   },
-  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "repository": "https://github.com/mrk214/bible-data-es-spa",
   "chapters": [
     {
       "chapter_usfm": "GAL.1",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "GAL.1"
-        ],
+        "usfm": ["GAL.1"],
         "human": "Gálatas 1"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "GAL.2"
-        ],
+        "usfm": ["GAL.2"],
         "human": "Gálatas 2",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "2CO.13"
-        ],
+        "usfm": ["2CO.13"],
         "human": "2 Corintios 13",
         "toc": true
       },
@@ -51,16 +45,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Saludo"
-          ],
+          "lines": ["Saludo"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Pablo, apóstol (no de parte de hombres ni mediante hombre alguno, sino por medio de Jesucristo y de Dios el Padre que le resucitó de entre los muertos),"
           ],
@@ -68,9 +58,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "y todos los hermanos que están conmigo:",
             "A las iglesias de Galacia:"
@@ -79,9 +67,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "Gracia a vosotros y paz de parte de Dios nuestro Padre y del Señor Jesucristo,"
           ],
@@ -89,9 +75,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "que se dio a sí mismo por nuestros pecados para librarnos de este presente siglo malo, conforme a la voluntad de nuestro Dios y Padre,"
           ],
@@ -99,9 +83,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "a quien sea la gloria por los siglos de los siglos. Amén."
           ],
@@ -110,16 +92,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "No hay otro evangelio"
-          ],
+          "lines": ["No hay otro evangelio"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "Me maravillo de que tan pronto hayáis abandonado al que os llamó por la gracia de Cristo, para seguir un evangelio diferente;"
           ],
@@ -127,9 +105,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "que en realidad no es otro evangelio, solo que hay algunos que os perturban y quieren pervertir el evangelio de Cristo."
           ],
@@ -137,9 +113,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "Pero si aun nosotros, o un ángel del cielo, os anunciara otro evangelio contrario al que os hemos anunciado, sea anatema."
           ],
@@ -147,9 +121,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "Como hemos dicho antes, también repito ahora: Si alguno os anuncia un evangelio contrario al que recibisteis, sea anatema."
           ],
@@ -157,9 +129,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "Porque ¿busco ahora el favor de los hombres o el de Dios? ¿O me esfuerzo por agradar a los hombres? Si yo todavía estuviera tratando de agradar a los hombres, no sería siervo de Cristo."
           ],
@@ -168,16 +138,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "El evangelio predicado por Pablo"
-          ],
+          "lines": ["El evangelio predicado por Pablo"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "Pues quiero que sepáis, hermanos, que el evangelio que fue anunciado por mí no es según el hombre."
           ],
@@ -185,9 +151,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "Pues ni lo recibí de hombre, ni me fue enseñado, sino que lo recibí por medio de una revelación de Jesucristo."
           ],
@@ -195,9 +159,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "Porque vosotros habéis oído acerca de mi antigua manera de vivir en el judaísmo, de cuán desmedidamente perseguía yo a la iglesia de Dios y trataba de destruirla,"
           ],
@@ -205,9 +167,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "y cómo yo aventajaba en el judaísmo a muchos de mis compatriotas contemporáneos, mostrando mucho más celo por las tradiciones de mis antepasados."
           ],
@@ -215,9 +175,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "Pero cuando Dios, que me apartó desde el vientre de mi madre y me llamó por su gracia, tuvo a bien"
           ],
@@ -225,9 +183,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "revelar a su Hijo en mí para que yo le anunciara entre los gentiles, no consulté enseguida con carne y sangre,"
           ],
@@ -235,9 +191,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "ni subí a Jerusalén a los que eran apóstoles antes que yo, sino que fui a Arabia, y regresé otra vez a Damasco."
           ],
@@ -246,16 +200,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Visita de Pablo a Jerusalén"
-          ],
+          "lines": ["Visita de Pablo a Jerusalén"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "Entonces, tres años después, subí a Jerusalén para conocer a Pedro, y estuve con él quince días."
           ],
@@ -263,9 +213,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "Pero no vi a ningún otro de los apóstoles, sino a Jacobo, el hermano del Señor."
           ],
@@ -273,9 +221,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
+          "verse_numbers": [20],
           "lines": [
             "(En lo que os escribo, os aseguro delante de Dios que no miento.)"
           ],
@@ -283,19 +229,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            21
-          ],
-          "lines": [
-            "Después fui a las regiones de Siria y Cilicia."
-          ],
+          "verse_numbers": [21],
+          "lines": ["Después fui a las regiones de Siria y Cilicia."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            22
-          ],
+          "verse_numbers": [22],
           "lines": [
             "Pero todavía no era conocido en persona en las iglesias de Judea que eran en Cristo;"
           ],
@@ -303,9 +243,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            23
-          ],
+          "verse_numbers": [23],
           "lines": [
             "sino que solo oían decir: El que en otro tiempo nos perseguía, ahora predica la fe que en un tiempo quería destruir."
           ],
@@ -313,12 +251,8 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            24
-          ],
-          "lines": [
-            "Y glorificaban a Dios por causa de mí."
-          ],
+          "verse_numbers": [24],
+          "lines": ["Y glorificaban a Dios por causa de mí."],
           "rlw_lines": []
         }
       ]
@@ -327,24 +261,18 @@
       "chapter_usfm": "GAL.2",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "GAL.2"
-        ],
+        "usfm": ["GAL.2"],
         "human": "Gálatas 2"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "GAL.3"
-        ],
+        "usfm": ["GAL.3"],
         "human": "Gálatas 3",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "GAL.1"
-        ],
+        "usfm": ["GAL.1"],
         "human": "Gálatas 1",
         "toc": true
       },
@@ -354,16 +282,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Los apóstoles respaldan a Pablo"
-          ],
+          "lines": ["Los apóstoles respaldan a Pablo"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Entonces, después de catorce años, subí otra vez a Jerusalén con Bernabé, llevando también a Tito."
           ],
@@ -371,9 +295,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "Subí por causa de una revelación y les presenté el evangelio que predico entre los gentiles, pero lo hice en privado a los que tenían alta reputación, para cerciorarme de que no corría ni había corrido en vano."
           ],
@@ -381,9 +303,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "Pero ni aun Tito, que estaba conmigo, fue obligado a circuncidarse, aunque era griego."
           ],
@@ -391,9 +311,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "Y esto fue por causa de los falsos hermanos introducidos secretamente, que se habían infiltrado para espiar la libertad que tenemos en Cristo Jesús, a fin de someternos a esclavitud,"
           ],
@@ -401,9 +319,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "a los cuales ni por un momento cedimos, para no someternos, a fin de que la verdad del evangelio permanezca con vosotros."
           ],
@@ -411,9 +327,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "Y de aquellos que tenían reputación de ser algo (lo que eran, nada me importa; Dios no hace acepción de personas), pues bien, los que tenían reputación, nada me enseñaron."
           ],
@@ -421,9 +335,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "Sino al contrario, al ver que se me había encomendado el evangelio a los de la incircuncisión, así como Pedro lo había sido a los de la circuncisión"
           ],
@@ -431,9 +343,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "(porque aquel que obró eficazmente para con Pedro en su apostolado a los de la circuncisión, también obró eficazmente para conmigo en mi apostolado a los gentiles),"
           ],
@@ -441,9 +351,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "y al reconocer la gracia que se me había dado, Jacobo, Pedro y Juan, que eran considerados como columnas, nos dieron a mí y a Bernabé la diestra de compañerismo, para que nosotros fuéramos a los gentiles y ellos a los de la circuncisión."
           ],
@@ -451,9 +359,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "Solo nos pidieron que nos acordáramos de los pobres, lo mismo que yo estaba también deseoso de hacer."
           ],
@@ -462,16 +368,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Judíos y gentiles justificados por la fe"
-          ],
+          "lines": ["Judíos y gentiles justificados por la fe"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "Pero cuando Pedro vino a Antioquía, me opuse a él cara a cara, porque era de condenar."
           ],
@@ -479,9 +381,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "Porque antes de venir algunos de parte de Jacobo, él comía con los gentiles, pero cuando vinieron, empezó a retraerse y apartarse, porque temía a los de la circuncisión."
           ],
@@ -489,9 +389,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "Y el resto de los judíos se le unió en su hipocresía, de tal manera que aun Bernabé fue arrastrado por la hipocresía de ellos."
           ],
@@ -499,9 +397,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "Pero cuando vi que no andaban con rectitud en cuanto a la verdad del evangelio, dije a Pedro delante de todos: Si tú, siendo judío, vives como los gentiles y no como los judíos, ¿por qué obligas a los gentiles a vivir como judíos?"
           ],
@@ -509,9 +405,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "Nosotros somos judíos de nacimiento y no pecadores de entre los gentiles;"
           ],
@@ -519,9 +413,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "sin embargo, sabiendo que el hombre no es justificado por las obras de la ley, sino mediante la fe en Cristo Jesús, también nosotros hemos creído en Cristo Jesús, para que seamos justificados por la fe en Cristo, y no por las obras de la ley; puesto que por las obras de la ley nadie será justificado."
           ],
@@ -529,9 +421,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "Pero si buscando ser justificados en Cristo, también nosotros hemos sido hallados pecadores, ¿es Cristo, entonces, ministro de pecado? ¡De ningún modo!"
           ],
@@ -539,9 +429,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "Porque si yo reedifico lo que en otro tiempo destruí, yo mismo resulto transgresor."
           ],
@@ -549,9 +437,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "Pues mediante la ley yo morí a la ley, a fin de vivir para Dios."
           ],
@@ -559,9 +445,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
+          "verse_numbers": [20],
           "lines": [
             "Con Cristo he sido crucificado, y ya no soy yo el que vive, sino que Cristo vive en mí; y la vida que ahora vivo en la carne, la vivo por fe en el Hijo de Dios, el cual me amó y se entregó a sí mismo por mí."
           ],
@@ -569,9 +453,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            21
-          ],
+          "verse_numbers": [21],
           "lines": [
             "No hago nula la gracia de Dios, porque si la justicia viene por medio de la ley, entonces Cristo murió en vano."
           ],
@@ -583,24 +465,18 @@
       "chapter_usfm": "GAL.3",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "GAL.3"
-        ],
+        "usfm": ["GAL.3"],
         "human": "Gálatas 3"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "GAL.4"
-        ],
+        "usfm": ["GAL.4"],
         "human": "Gálatas 4",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "GAL.2"
-        ],
+        "usfm": ["GAL.2"],
         "human": "Gálatas 2",
         "toc": true
       },
@@ -610,16 +486,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "La fe y la vida cristiana"
-          ],
+          "lines": ["La fe y la vida cristiana"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "¡Oh, gálatas insensatos! ¿Quién os ha fascinado a vosotros, ante cuyos ojos Jesucristo fue presentado públicamente como crucificado?"
           ],
@@ -627,9 +499,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "Esto es lo único que quiero averiguar de vosotros: ¿recibisteis el Espíritu por las obras de la ley, o por el oír con fe?"
           ],
@@ -637,9 +507,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "¿Tan insensatos sois? Habiendo comenzado por el Espíritu, ¿vais a terminar ahora por la carne?"
           ],
@@ -647,9 +515,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "¿Habéis padecido tantas cosas en vano? ¡Si es que en realidad fue en vano!"
           ],
@@ -657,9 +523,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "Aquel, pues, que os suministra el Espíritu y hace milagros entre vosotros, ¿lo hace por las obras de la ley o por el oír con fe?"
           ],
@@ -667,19 +531,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
-          "lines": [
-            "Así Abraham creyó a Dios y le fue contado como justicia."
-          ],
+          "verse_numbers": [6],
+          "lines": ["Así Abraham creyó a Dios y le fue contado como justicia."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "Por consiguiente, sabed que los que son de fe, estos son hijos de Abraham."
           ],
@@ -687,9 +545,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "Y la Escritura, previendo que Dios justificaría a los gentiles por la fe, anunció de antemano las buenas nuevas a Abraham, diciendo: En ti serán benditas todas las naciones."
           ],
@@ -697,9 +553,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "Así que, los que son de fe son bendecidos con Abraham, el creyente."
           ],
@@ -707,9 +561,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "Porque todos los que son de las obras de la ley están bajo maldición, pues escrito está: Maldito todo el que no permanece en todas las cosas escritas en el libro de la ley, para hacerlas."
           ],
@@ -717,9 +569,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "Y que nadie es justificado ante Dios por la ley es evidente, porque El justo vivirá por la fe."
           ],
@@ -727,9 +577,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "Sin embargo, la ley no es de fe; al contrario, El que las hace, vivirá por ellas."
           ],
@@ -737,9 +585,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "Cristo nos redimió de la maldición de la ley, habiéndose hecho maldición por nosotros (porque escrito está: Maldito todo el que cuelga de un madero),"
           ],
@@ -747,9 +593,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "a fin de que en Cristo Jesús la bendición de Abraham viniera a los gentiles, para que recibiéramos la promesa del Espíritu mediante la fe."
           ],
@@ -758,16 +602,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "La promesa, y el propósito de la ley"
-          ],
+          "lines": ["La promesa, y el propósito de la ley"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "Hermanos, hablo en términos humanos: un pacto, aunque sea humano, una vez ratificado nadie lo invalida ni le añade condiciones."
           ],
@@ -775,9 +615,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "Ahora bien, las promesas fueron hechas a Abraham y a su descendencia. No dice: y a las descendencias, como refiriéndose a muchas, sino más bien a una: y a tu descendencia, es decir, Cristo."
           ],
@@ -785,9 +623,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "Lo que digo es esto: La ley, que vino cuatrocientos treinta años más tarde, no invalida un pacto ratificado anteriormente por Dios, como para anular la promesa."
           ],
@@ -795,9 +631,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "Porque si la herencia depende de la ley, ya no depende de una promesa; pero Dios se la concedió a Abraham por medio de una promesa."
           ],
@@ -805,9 +639,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "Entonces, ¿para qué fue dada la ley? Fue añadida a causa de las transgresiones, hasta que viniera la descendencia a la cual había sido hecha la promesa, ley que fue promulgada mediante ángeles por mano de un mediador."
           ],
@@ -815,9 +647,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
+          "verse_numbers": [20],
           "lines": [
             "Ahora bien, un mediador no es de una parte solamente, ya que Dios es uno solo."
           ],
@@ -825,9 +655,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            21
-          ],
+          "verse_numbers": [21],
           "lines": [
             "¿Es entonces la ley contraria a las promesas de Dios? ¡De ningún modo! Porque si se hubiera dado una ley capaz de impartir vida, entonces la justicia ciertamente hubiera dependido de la ley."
           ],
@@ -835,9 +663,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            22
-          ],
+          "verse_numbers": [22],
           "lines": [
             "Pero la Escritura lo encerró todo bajo pecado, para que la promesa que es por la fe en Jesucristo fuera dada a todos los que creen."
           ],
@@ -845,9 +671,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            23
-          ],
+          "verse_numbers": [23],
           "lines": [
             "Y antes de venir la fe, estábamos encerrados bajo la ley, confinados para la fe que había de ser revelada."
           ],
@@ -855,9 +679,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            24
-          ],
+          "verse_numbers": [24],
           "lines": [
             "De manera que la ley ha venido a ser nuestro ayo para conducirnos a Cristo, a fin de que seamos justificados por la fe."
           ],
@@ -865,19 +687,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            25
-          ],
-          "lines": [
-            "Pero ahora que ha venido la fe, ya no estamos bajo ayo,"
-          ],
+          "verse_numbers": [25],
+          "lines": ["Pero ahora que ha venido la fe, ya no estamos bajo ayo,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            26
-          ],
+          "verse_numbers": [26],
           "lines": [
             "pues todos sois hijos de Dios mediante la fe en Cristo Jesús."
           ],
@@ -885,9 +701,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            27
-          ],
+          "verse_numbers": [27],
           "lines": [
             "Porque todos los que fuisteis bautizados en Cristo, de Cristo os habéis revestido."
           ],
@@ -895,9 +709,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            28
-          ],
+          "verse_numbers": [28],
           "lines": [
             "No hay judío ni griego; no hay esclavo ni libre; no hay hombre ni mujer; porque todos sois uno en Cristo Jesús."
           ],
@@ -905,9 +717,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            29
-          ],
+          "verse_numbers": [29],
           "lines": [
             "Y si sois de Cristo, entonces sois descendencia de Abraham, herederos según la promesa."
           ],
@@ -919,24 +729,18 @@
       "chapter_usfm": "GAL.4",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "GAL.4"
-        ],
+        "usfm": ["GAL.4"],
         "human": "Gálatas 4"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "GAL.5"
-        ],
+        "usfm": ["GAL.5"],
         "human": "Gálatas 5",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "GAL.3"
-        ],
+        "usfm": ["GAL.3"],
         "human": "Gálatas 3",
         "toc": true
       },
@@ -946,16 +750,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "La adopción es solo mediante Jesucristo"
-          ],
+          "lines": ["La adopción es solo mediante Jesucristo"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Digo, pues: Mientras el heredero es menor de edad, en nada es diferente del siervo, aunque sea el dueño de todo,"
           ],
@@ -963,9 +763,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "sino que está bajo guardianes y tutores hasta la edad señalada por el padre."
           ],
@@ -973,9 +771,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "Así también nosotros, mientras éramos niños, estábamos sujetos a servidumbre bajo las cosas elementales del mundo."
           ],
@@ -983,9 +779,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "Pero cuando vino la plenitud del tiempo, Dios envió a su Hijo, nacido de mujer, nacido bajo la ley,"
           ],
@@ -993,9 +787,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "a fin de que redimiera a los que estaban bajo la ley, para que recibiéramos la adopción de hijos."
           ],
@@ -1003,9 +795,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "Y porque sois hijos, Dios ha enviado el Espíritu de su Hijo a nuestros corazones, clamando: ¡Abba! ¡Padre!"
           ],
@@ -1013,9 +803,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "Por tanto, ya no eres siervo, sino hijo; y si hijo, también heredero por medio de Dios."
           ],
@@ -1024,16 +812,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "No os volváis a la esclavitud"
-          ],
+          "lines": ["No os volváis a la esclavitud"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "Pero en aquel tiempo, cuando no conocíais a Dios, erais siervos de aquellos que por naturaleza no son dioses."
           ],
@@ -1041,9 +825,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "Pero ahora que conocéis a Dios, o más bien, que sois conocidos por Dios, ¿cómo es que os volvéis otra vez a las cosas débiles, inútiles y elementales, a las cuales deseáis volver a estar esclavizados de nuevo?"
           ],
@@ -1051,9 +833,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "Observáis los días, los meses, las estaciones y los años."
           ],
@@ -1061,9 +841,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "Temo por vosotros, que quizá en vano he trabajado por vosotros."
           ],
@@ -1071,9 +849,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "Os ruego, hermanos, haceos como yo, pues yo también me he hecho como vosotros. Ningún agravio me habéis hecho;"
           ],
@@ -1081,9 +857,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "pero sabéis que fue por causa de una enfermedad física que os anuncié el evangelio la primera vez;"
           ],
@@ -1091,9 +865,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "y lo que para vosotros fue una prueba en mi condición física, que no despreciasteis ni rechazasteis, sino que me recibisteis como un ángel de Dios, como a Cristo Jesús mismo."
           ],
@@ -1101,9 +873,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "¿Dónde está, pues, aquel sentido de bendición que tuvisteis? Pues testigo soy en favor vuestro de que de ser posible, os hubierais sacado los ojos y me los hubierais dado."
           ],
@@ -1111,9 +881,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "¿Me he vuelto, por tanto, vuestro enemigo al deciros la verdad?"
           ],
@@ -1121,9 +889,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "Ellos os tienen celo, no con buena intención, sino que quieren excluiros a fin de que mostréis celo por ellos."
           ],
@@ -1131,9 +897,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "Es bueno mostrar celo con buena intención siempre, y no solo cuando yo estoy presente con vosotros."
           ],
@@ -1141,9 +905,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "Hijos míos, por quienes de nuevo sufro dolores de parto hasta que Cristo sea formado en vosotros,"
           ],
@@ -1151,9 +913,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
+          "verse_numbers": [20],
           "lines": [
             "quisiera estar presente con vosotros ahora y cambiar mi tono, pues perplejo estoy en cuanto a vosotros."
           ],
@@ -1162,16 +922,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Alegoría de la libertad en Cristo"
-          ],
+          "lines": ["Alegoría de la libertad en Cristo"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            21
-          ],
+          "verse_numbers": [21],
           "lines": [
             "Decidme, los que deseáis estar bajo la ley, ¿no oís a la ley?"
           ],
@@ -1179,9 +935,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            22
-          ],
+          "verse_numbers": [22],
           "lines": [
             "Porque está escrito que Abraham tuvo dos hijos, uno de la sierva y otro de la libre."
           ],
@@ -1189,9 +943,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            23
-          ],
+          "verse_numbers": [23],
           "lines": [
             "Pero el hijo de la sierva nació según la carne, y el hijo de la libre por medio de la promesa."
           ],
@@ -1199,9 +951,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            24
-          ],
+          "verse_numbers": [24],
           "lines": [
             "Esto contiene una alegoría, pues estas mujeres son dos pactos; uno procede del monte Sinaí que engendra hijos para ser esclavos; este es Agar."
           ],
@@ -1209,9 +959,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            25
-          ],
+          "verse_numbers": [25],
           "lines": [
             "Ahora bien, Agar es el monte Sinaí en Arabia, y corresponde a la Jerusalén actual, porque ella está en esclavitud con sus hijos."
           ],
@@ -1219,9 +967,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            26
-          ],
+          "verse_numbers": [26],
           "lines": [
             "Pero la Jerusalén de arriba es libre; esta es nuestra madre."
           ],
@@ -1229,9 +975,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            27
-          ],
+          "verse_numbers": [27],
           "lines": [
             "Porque escrito está:",
             "Regocíjate, oh estéril, la que no concibes;",
@@ -1243,9 +987,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            28
-          ],
+          "verse_numbers": [28],
           "lines": [
             "Y vosotros, hermanos, como Isaac, sois hijos de la promesa."
           ],
@@ -1253,9 +995,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            29
-          ],
+          "verse_numbers": [29],
           "lines": [
             "Pero así como entonces el que nació según la carne persiguió al que nació según el Espíritu, así también sucede ahora."
           ],
@@ -1263,9 +1003,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            30
-          ],
+          "verse_numbers": [30],
           "lines": [
             "Pero, ¿qué dice la Escritura?",
             "Echa fuera a la sierva y a su hijo,",
@@ -1275,9 +1013,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            31
-          ],
+          "verse_numbers": [31],
           "lines": [
             "Así que, hermanos, no somos hijos de la sierva, sino de la libre."
           ],
@@ -1289,24 +1025,18 @@
       "chapter_usfm": "GAL.5",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "GAL.5"
-        ],
+        "usfm": ["GAL.5"],
         "human": "Gálatas 5"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "GAL.6"
-        ],
+        "usfm": ["GAL.6"],
         "human": "Gálatas 6",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "GAL.4"
-        ],
+        "usfm": ["GAL.4"],
         "human": "Gálatas 4",
         "toc": true
       },
@@ -1315,9 +1045,7 @@
       "items": [
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Para libertad fue que Cristo nos hizo libres; por tanto, permaneced firmes, y no os sometáis otra vez al yugo de esclavitud."
           ],
@@ -1326,16 +1054,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "La libertad cristiana"
-          ],
+          "lines": ["La libertad cristiana"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "Mirad, yo, Pablo, os digo que si os dejáis circuncidar, Cristo de nada os aprovechará."
           ],
@@ -1343,9 +1067,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "Y otra vez testifico a todo hombre que se circuncida, que está obligado a cumplir toda la ley."
           ],
@@ -1353,9 +1075,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "De Cristo os habéis separado, vosotros que procuráis ser justificados por la ley; de la gracia habéis caído."
           ],
@@ -1363,9 +1083,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "Pues nosotros, por medio del Espíritu, esperamos por la fe la esperanza de justicia."
           ],
@@ -1373,9 +1091,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "Porque en Cristo Jesús ni la circuncisión ni la incircuncisión significan nada, sino la fe que obra por amor."
           ],
@@ -1383,9 +1099,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "Vosotros corríais bien, ¿quién os impidió obedecer a la verdad?"
           ],
@@ -1393,29 +1107,19 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
-          "lines": [
-            "Esta persuasión no vino de aquel que os llama."
-          ],
+          "verse_numbers": [8],
+          "lines": ["Esta persuasión no vino de aquel que os llama."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
-          "lines": [
-            "Un poco de levadura fermenta toda la masa."
-          ],
+          "verse_numbers": [9],
+          "lines": ["Un poco de levadura fermenta toda la masa."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "Yo tengo confianza respecto a vosotros en el Señor de que no optaréis por otro punto de vista; pero el que os perturba llevará su castigo, quienquiera que sea."
           ],
@@ -1423,9 +1127,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "Pero yo, hermanos, si todavía predico la circuncisión, ¿por qué soy perseguido aún? En tal caso, el escándalo de la cruz ha sido abolido."
           ],
@@ -1433,27 +1135,19 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
-          "lines": [
-            "¡Ojalá que los que os perturban también se mutilaran!"
-          ],
+          "verse_numbers": [12],
+          "lines": ["¡Ojalá que los que os perturban también se mutilaran!"],
           "rlw_lines": []
         },
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "La libertad y el amor"
-          ],
+          "lines": ["La libertad y el amor"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "Porque vosotros, hermanos, a libertad fuisteis llamados; solo que no uséis la libertad como pretexto para la carne, sino servíos por amor los unos a los otros."
           ],
@@ -1461,9 +1155,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "Porque toda la ley en una palabra se cumple en el precepto: Amarás a tu prójimo como a ti mismo."
           ],
@@ -1471,9 +1163,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "Pero si os mordéis y os devoráis unos a otros, tened cuidado, no sea que os consumáis unos a otros."
           ],
@@ -1482,16 +1172,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Conflicto entre el Espíritu y la carne"
-          ],
+          "lines": ["Conflicto entre el Espíritu y la carne"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "Digo, pues: Andad por el Espíritu, y no cumpliréis el deseo de la carne."
           ],
@@ -1499,9 +1185,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "Porque el deseo de la carne es contra el Espíritu, y el del Espíritu es contra la carne, pues estos se oponen el uno al otro, de manera que no podéis hacer lo que deseáis."
           ],
@@ -1509,9 +1193,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "Pero si sois guiados por el Espíritu, no estáis bajo la ley."
           ],
@@ -1519,9 +1201,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "Ahora bien, las obras de la carne son evidentes, las cuales son: inmoralidad, impureza, sensualidad,"
           ],
@@ -1529,9 +1209,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
+          "verse_numbers": [20],
           "lines": [
             "idolatría, hechicería, enemistades, pleitos, celos, enojos, rivalidades, disensiones, sectarismos,"
           ],
@@ -1539,9 +1217,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            21
-          ],
+          "verse_numbers": [21],
           "lines": [
             "envidias, borracheras, orgías y cosas semejantes, contra las cuales os advierto, como ya os lo he dicho antes, que los que practican tales cosas no heredarán el reino de Dios."
           ],
@@ -1550,16 +1226,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "El fruto del Espíritu en la conducta cristiana"
-          ],
+          "lines": ["El fruto del Espíritu en la conducta cristiana"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            22
-          ],
+          "verse_numbers": [22],
           "lines": [
             "Mas el fruto del Espíritu es amor, gozo, paz, paciencia, benignidad, bondad, fidelidad,"
           ],
@@ -1567,9 +1239,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            23
-          ],
+          "verse_numbers": [23],
           "lines": [
             "mansedumbre, dominio propio; contra tales cosas no hay ley."
           ],
@@ -1577,9 +1247,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            24
-          ],
+          "verse_numbers": [24],
           "lines": [
             "Pues los que son de Cristo Jesús han crucificado la carne con sus pasiones y deseos."
           ],
@@ -1587,9 +1255,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            25
-          ],
+          "verse_numbers": [25],
           "lines": [
             "Si vivimos por el Espíritu, andemos también por el Espíritu."
           ],
@@ -1597,9 +1263,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            26
-          ],
+          "verse_numbers": [26],
           "lines": [
             "No nos hagamos vanagloriosos, provocándonos unos a otros, envidiándonos unos a otros."
           ],
@@ -1611,24 +1275,18 @@
       "chapter_usfm": "GAL.6",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "GAL.6"
-        ],
+        "usfm": ["GAL.6"],
         "human": "Gálatas 6"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "EPH.1"
-        ],
+        "usfm": ["EPH.1"],
         "human": "Efesios 1",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "GAL.5"
-        ],
+        "usfm": ["GAL.5"],
         "human": "Gálatas 5",
         "toc": true
       },
@@ -1637,9 +1295,7 @@
       "items": [
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Hermanos, aun si alguno es sorprendido en alguna falta, vosotros que sois espirituales, restauradlo en un espíritu de mansedumbre, mirándote a ti mismo, no sea que tú también seas tentado."
           ],
@@ -1647,9 +1303,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "Llevad los unos las cargas de los otros, y cumplid así la ley de Cristo."
           ],
@@ -1657,9 +1311,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "Porque si alguno se cree que es algo, no siendo nada, se engaña a sí mismo."
           ],
@@ -1667,9 +1319,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "Pero que cada uno examine su propia obra, y entonces tendrá motivo para gloriarse solamente con respecto a sí mismo, y no con respecto a otro."
           ],
@@ -1677,19 +1327,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
-          "lines": [
-            "Porque cada uno llevará su propia carga."
-          ],
+          "verse_numbers": [5],
+          "lines": ["Porque cada uno llevará su propia carga."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "Y al que se le enseña la palabra, que comparta toda cosa buena con el que le enseña."
           ],
@@ -1697,9 +1341,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "No os dejéis engañar, de Dios nadie se burla; pues todo lo que el hombre siembre, eso también segará."
           ],
@@ -1707,9 +1349,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "Porque el que siembra para su propia carne, de la carne segará corrupción, pero el que siembra para el Espíritu, del Espíritu segará vida eterna."
           ],
@@ -1717,9 +1357,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "Y no nos cansemos de hacer el bien, pues a su tiempo, si no nos cansamos, segaremos."
           ],
@@ -1727,9 +1365,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "Así que entonces, hagamos bien a todos según tengamos oportunidad, y especialmente a los de la familia de la fe."
           ],
@@ -1738,16 +1374,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Declaraciones finales"
-          ],
+          "lines": ["Declaraciones finales"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "Mirad con qué letras tan grandes os escribo de mi propia mano."
           ],
@@ -1755,9 +1387,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "Los que desean agradar en la carne tratan de obligaros a que os circuncidéis, simplemente para no ser perseguidos a causa de la cruz de Cristo."
           ],
@@ -1765,9 +1395,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "Porque ni aun los mismos que son circuncidados guardan la ley, mas ellos desean haceros circuncidar para gloriarse en vuestra carne."
           ],
@@ -1775,9 +1403,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "Pero jamás acontezca que yo me gloríe, sino en la cruz de nuestro Señor Jesucristo, por el cual el mundo ha sido crucificado para mí y yo para el mundo."
           ],
@@ -1785,9 +1411,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "Porque ni la circuncisión es nada, ni la incircuncisión, sino una nueva creación."
           ],
@@ -1795,9 +1419,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "Y a los que anden conforme a esta regla, paz y misericordia sea sobre ellos y sobre el Israel de Dios."
           ],
@@ -1805,9 +1427,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "De aquí en adelante nadie me cause molestias, porque yo llevo en mi cuerpo las marcas de Jesús."
           ],
@@ -1815,9 +1435,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "Hermanos, la gracia de nuestro Señor Jesucristo sea con vuestro espíritu. Amén."
           ],

@@ -18,30 +18,24 @@
     "local_name": "Español (América Latina)",
     "text_direction": "ltr"
   },
-  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "repository": "https://github.com/mrk214/bible-data-es-spa",
   "chapters": [
     {
       "chapter_usfm": "3JN.INTRO1",
       "is_chapter": false,
       "current": {
-        "usfm": [
-          "3JN.INTRO1"
-        ],
+        "usfm": ["3JN.INTRO1"],
         "human": "3 Juan TERCERA EPÍSTOLA DE SAN JUAN APÓSTOL"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "3JN.1"
-        ],
+        "usfm": ["3JN.1"],
         "human": "3 Juan 1",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "2JN.1"
-        ],
+        "usfm": ["2JN.1"],
         "human": "2 Juan 1",
         "toc": true
       },
@@ -53,24 +47,18 @@
       "chapter_usfm": "3JN.1",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "3JN.1"
-        ],
+        "usfm": ["3JN.1"],
         "human": "3 Juan 1"
       },
       "next": {
         "canonical": false,
-        "usfm": [
-          "JUD.INTRO1"
-        ],
+        "usfm": ["JUD.INTRO1"],
         "human": "Judas LA EPÍSTOLA UNIVERSAL DE SAN JUDAS APÓSTOL",
         "toc": true
       },
       "previous": {
         "canonical": false,
-        "usfm": [
-          "3JN.INTRO1"
-        ],
+        "usfm": ["3JN.INTRO1"],
         "human": "3 Juan TERCERA EPÍSTOLA DE SAN JUAN APÓSTOL",
         "toc": true
       },
@@ -80,26 +68,18 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Salutación"
-          ],
+          "lines": ["Salutación"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
-          "lines": [
-            "El anciano a Gayo, el amado, a quien amo en la verdad."
-          ],
+          "verse_numbers": [1],
+          "lines": ["El anciano a Gayo, el amado, a quien amo en la verdad."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "Amado, yo deseo que tú seas prosperado en todas las cosas, y que tengas salud, así como prospera tu alma."
           ],
@@ -107,9 +87,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "Pues mucho me regocijé cuando vinieron los hermanos y dieron testimonio de tu verdad, de cómo andas en la verdad."
           ],
@@ -117,9 +95,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "No tengo yo mayor gozo que este, el oír que mis hijos andan en la verdad."
           ],
@@ -128,16 +104,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Elogio de la hospitalidad de Gayo"
-          ],
+          "lines": ["Elogio de la hospitalidad de Gayo"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "Amado, fielmente te conduces cuando prestas algún servicio a los hermanos, especialmente a los desconocidos,"
           ],
@@ -145,9 +117,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "los cuales han dado ante la iglesia testimonio de tu amor; y harás bien en encaminarlos como es digno de su servicio a Dios, para que continúen su viaje."
           ],
@@ -155,9 +125,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "Porque ellos salieron por amor del nombre de él, sin aceptar nada de los gentiles."
           ],
@@ -165,9 +133,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "Nosotros, pues, debemos acoger a tales personas, para que cooperemos con la verdad."
           ],
@@ -176,16 +142,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "La oposición de Diótrefes"
-          ],
+          "lines": ["La oposición de Diótrefes"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "Yo he escrito a la iglesia; pero Diótrefes, al cual le gusta tener el primer lugar entre ellos, no nos recibe."
           ],
@@ -193,9 +155,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "Por esta causa, si yo fuere, recordaré las obras que hace parloteando con palabras malignas contra nosotros; y no contento con estas cosas, no recibe a los hermanos, y a los que quieren recibirlos se lo prohíbe, y los expulsa de la iglesia."
           ],
@@ -204,16 +164,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Buen testimonio acerca de Demetrio"
-          ],
+          "lines": ["Buen testimonio acerca de Demetrio"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "Amado, no imites lo malo, sino lo bueno. El que hace lo bueno es de Dios; pero el que hace lo malo, no ha visto a Dios."
           ],
@@ -221,9 +177,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "Todos dan testimonio de Demetrio, y aun la verdad misma; y también nosotros damos testimonio, y vosotros sabéis que nuestro testimonio es verdadero."
           ],
@@ -232,16 +186,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Salutaciones finales"
-          ],
+          "lines": ["Salutaciones finales"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "Yo tenía muchas cosas que escribirte, pero no quiero escribírtelas con tinta y pluma,"
           ],
@@ -249,19 +199,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
-          "lines": [
-            "porque espero verte en breve, y hablaremos cara a cara."
-          ],
+          "verse_numbers": [14],
+          "lines": ["porque espero verte en breve, y hablaremos cara a cara."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "La paz sea contigo. Los amigos te saludan. Saluda tú a los amigos, a cada uno en particular."
           ],

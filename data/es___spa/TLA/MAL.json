@@ -18,30 +18,24 @@
     "local_name": "Español (América Latina)",
     "text_direction": "ltr"
   },
-  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "repository": "https://github.com/mrk214/bible-data-es-spa",
   "chapters": [
     {
       "chapter_usfm": "MAL.INTRO1",
       "is_chapter": false,
       "current": {
-        "usfm": [
-          "MAL.INTRO1"
-        ],
+        "usfm": ["MAL.INTRO1"],
         "human": "Malaquías Introducción"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "MAL.1"
-        ],
+        "usfm": ["MAL.1"],
         "human": "Malaquías 1",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "ZEC.14"
-        ],
+        "usfm": ["ZEC.14"],
         "human": "Zacarías 14",
         "toc": true
       },
@@ -53,24 +47,18 @@
       "chapter_usfm": "MAL.1",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "MAL.1"
-        ],
+        "usfm": ["MAL.1"],
         "human": "Malaquías 1"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "MAL.2"
-        ],
+        "usfm": ["MAL.2"],
         "human": "Malaquías 2",
         "toc": true
       },
       "previous": {
         "canonical": false,
-        "usfm": [
-          "MAL.INTRO1"
-        ],
+        "usfm": ["MAL.INTRO1"],
         "human": "Malaquías Introducción",
         "toc": true
       },
@@ -80,18 +68,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Dios ama a su pueblo"
-          ],
+          "lines": ["Dios ama a su pueblo"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1,
-            2,
-            3
-          ],
+          "verse_numbers": [1, 2, 3],
           "lines": [
             "Yo soy Malaquías. Dios me dio la orden de comunicarles a ustedes, los israelitas, este mensaje:",
             "«Israelitas, Dios los ama».",
@@ -104,9 +86,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "Si los descendientes de Esaú intentan reconstruir su país, yo les aseguro que volveré a destruir lo que ellos construyan. La tierra de Esaú será conocida como “el país de la maldad”, y su pueblo será conocido como “el pueblo con el que Dios siempre está enojado”. Yo soy el Dios todopoderoso, y les juró que así será."
           ],
@@ -114,9 +94,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "Ustedes lo verán con sus propios ojos, y entonces dirán: “¡La grandeza de nuestro Dios va más allá de nuestras fronteras!”»"
           ],
@@ -125,18 +103,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Mensaje contra los sacerdotes"
-          ],
+          "lines": ["Mensaje contra los sacerdotes"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6,
-            7,
-            8
-          ],
+          "verse_numbers": [6, 7, 8],
           "lines": [
             "Sacerdotes, nuestro poderoso Dios me manda a decirles a ustedes:",
             "«Los hijos respetan a sus padres, y los esclavos respetan a sus amos. ¡Pues yo soy su Padre y su Amo, y sin embargo ustedes los sacerdotes no me respetan! ¡Me tratan como si no valiera nada!»",
@@ -149,9 +121,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "»¿Y después de presentarme esa clase de ofrendas, todavía esperan que yo los escuche y les tenga compasión? Pues yo soy el Dios todopoderoso y quiero que les quede claro lo siguiente:"
           ],
@@ -159,9 +129,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "¡Prefiero que se cierren las puertas de mi templo! Ya no me traigan esta clase de ofrendas, porque estoy muy molesto con ustedes y no se las voy a aceptar."
           ],
@@ -169,9 +137,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "»En todas las naciones del mundo hay quienes reconocen mi grandeza, y por eso me presentan ofrendas aceptables."
           ],
@@ -179,9 +145,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "Pero ustedes los sacerdotes hacen todo lo contrario: me faltan al respeto, y desprecian mi altar y las ofrendas que allí se me presentan»."
           ],
@@ -189,9 +153,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "Ustedes los sacerdotes se quejan, y dicen:",
             "«Nuestro trabajo es muy pesado».",
@@ -202,9 +164,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "¡Maldito sea el que me prometa uno de sus mejores animales, y luego me presente un animal defectuoso! ¡Yo soy el gran Rey, y todas las naciones me respetan! Yo soy el Dios todopoderoso, y les juro que así lo haré."
           ],
@@ -216,24 +176,18 @@
       "chapter_usfm": "MAL.2",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "MAL.2"
-        ],
+        "usfm": ["MAL.2"],
         "human": "Malaquías 2"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "MAL.3"
-        ],
+        "usfm": ["MAL.3"],
         "human": "Malaquías 3",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "MAL.1"
-        ],
+        "usfm": ["MAL.1"],
         "human": "Malaquías 1",
         "toc": true
       },
@@ -243,27 +197,18 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Dios castigará a los sacerdotes"
-          ],
+          "lines": ["Dios castigará a los sacerdotes"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
-          "lines": [
-            "»Esta advertencia va para ustedes, los sacerdotes:"
-          ],
+          "verse_numbers": [1],
+          "lines": ["»Esta advertencia va para ustedes, los sacerdotes:"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2,
-            3
-          ],
+          "verse_numbers": [2, 3],
           "lines": [
             "Si no me obedecen ni aprenden a respetarme, yo los maldeciré. Si no me sirven con sinceridad, cambiaré en maldición mis bendiciones para ustedes. Además, les quitaré el poder y les untaré en la cara el estiércol de los animales que me ofrecen. ¡Entonces los barrerán a ustedes junto con ese estiércol! Yo soy el Dios todopoderoso, y les juro que así lo haré."
           ],
@@ -271,10 +216,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4,
-            5
-          ],
+          "verse_numbers": [4, 5],
           "lines": [
             "»Si les advierto esto, es para que sepan que quiero cumplir el pacto que hice con Leví, el antepasado de ustedes. Con ese pacto me comprometí a darle vida y paz; Leví, por su parte, se comprometió a respetarme y honrarme, y así lo hizo. Yo soy el Dios todopoderoso, y les juro que así fue."
           ],
@@ -282,9 +224,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "Leví nunca engañó a la gente, sino que les enseñó la verdad; siempre vivió en armonía conmigo, y fue una persona tan honesta que a muchos los apartó de la maldad."
           ],
@@ -292,9 +232,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "»Ustedes los sacerdotes son mis mensajeros. Su deber es enseñar mis mandamientos a los que me buscan."
           ],
@@ -302,9 +240,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "Pero ustedes han dejado de hacer el bien; con su mal ejemplo han hecho pecar a mucha gente, y han desobedecido el pacto que hice con Leví. Yo soy el Dios todopoderoso, y les juro que así es."
           ],
@@ -312,9 +248,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "»Si yo he hecho que el pueblo los desprecie y les pierda el respeto, es porque ustedes no me han obedecido, ni tratan con justicia a todos por igual»."
           ],
@@ -323,16 +257,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Los matrimonios mixtos"
-          ],
+          "lines": ["Los matrimonios mixtos"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "Yo, Malaquías, les digo:",
             "«Todos nosotros tenemos un mismo antepasado. Y a todos nosotros nos creó un solo Dios. Si esto es así, ¿por qué nos engañamos los unos a los otros? ¿Por qué no cumplimos con el pacto que Dios hizo con nuestros antepasados?"
@@ -341,9 +271,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "¡Todos en Judá y en Israel hemos sido infieles a Dios! ¡Todos hemos hecho actos vergonzosos en Jerusalén, en el templo mismo que Dios tanto ama! Los hombres de Judá se casan con mujeres que adoran a otros dioses,"
           ],
@@ -351,11 +279,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12,
-            13,
-            14
-          ],
+          "verse_numbers": [12, 13, 14],
           "lines": [
             "y todavía se preguntan por qué Dios ya no recibe con gusto sus ofrendas. Pues ahora, ¡que acabe Dios con quienes hacen eso, no importa que le traigan ofrendas y que llenen de lágrimas su altar! ¡Y que acabe también con quienes ven esto y no hacen nada para impedirlo!",
             "»Dios ha visto lo que han hecho todos ustedes: Cuando eran jóvenes, se casaron y se comprometieron a ser fieles a su esposa. Pero no han cumplido con su compromiso."
@@ -364,10 +288,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15,
-            16
-          ],
+          "verse_numbers": [15, 16],
           "lines": [
             "Nuestro Dios nos creó para que fuéramos un solo cuerpo y un solo espíritu. Nos creó así para que fuéramos un pueblo consagrado a él. Nuestro Dios odia a quienes son violentos y abandonan a su esposa. Por lo tanto, ¡tengan cuidado y no le sean infieles a su esposa!"
           ],
@@ -375,9 +296,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "»Nuestro Dios ya está cansado de sus quejas. Y lo cansan cuando dicen que Dios no es justo porque ve con buenos ojos a los malvados»."
           ],
@@ -389,24 +308,18 @@
       "chapter_usfm": "MAL.3",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "MAL.3"
-        ],
+        "usfm": ["MAL.3"],
         "human": "Malaquías 3"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "MAL.4"
-        ],
+        "usfm": ["MAL.4"],
         "human": "Malaquías 4",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "MAL.2"
-        ],
+        "usfm": ["MAL.2"],
         "human": "Malaquías 2",
         "toc": true
       },
@@ -416,17 +329,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Dios enviará a su mensajero"
-          ],
+          "lines": ["Dios enviará a su mensajero"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1,
-            2
-          ],
+          "verse_numbers": [1, 2],
           "lines": [
             "El Dios todopoderoso ha dicho:",
             "«¡Miren al mensajero de mi pacto! Ustedes esperan su llegada, y él ya se ha puesto en marcha. Lo estoy enviando delante de mí, para que me prepare el camino. Cuando menos lo esperen, yo entraré en mi templo. Yo soy el Dios todopoderoso, a quien ustedes buscan.",
@@ -436,10 +344,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3,
-            4
-          ],
+          "verse_numbers": [3, 4],
           "lines": [
             "Cuando llegue, se sentará a borrar los pecados de los descendientes de Leví, como si purificara oro y plata en el fuego. Así ellos podrán presentar las ofrendas de la gente de Judá y de Jerusalén. Las presentarán como a mí me agrada, y yo las recibiré con alegría, como antes las recibía»."
           ],
@@ -448,16 +353,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Dios juzgará a su pueblo"
-          ],
+          "lines": ["Dios juzgará a su pueblo"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "El Dios todopoderoso ha dicho:",
             "«Voy a iniciar un juicio contra ustedes. Actuaré como testigo contra los que practican la brujería, contra los que son adúlteros, contra los que hacen juramentos falsos, contra los que explotan a sus trabajadores, contra los que abusan de las viudas y de los huérfanos, contra los que maltratan a los que no son israelitas, y contra los que me faltan al respeto."
@@ -466,9 +367,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "»Óiganme, israelitas: Si ustedes no han sido destruidos es porque yo soy el Dios todopoderoso y mi amor no cambia."
           ],
@@ -476,9 +375,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "En cambio ustedes, desde los días de sus antepasados, siempre han desobedecido mis mandamientos. Pero si ustedes se arrepienten y vuelven a mí, yo también me volveré a ustedes. Yo soy el Dios todopoderoso, y les aseguro que así lo haré.",
             "»Ustedes me preguntan: “¿Y de qué tenemos que arrepentirnos?”"
@@ -487,9 +384,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "Yo les respondo: “No es fácil que alguien me robe; sin embargo, ¡ustedes me han robado!”",
             "»Todavía se atreven a preguntarme: “¿Y qué te hemos robado?” Pues escúchenme bien: ¡Me han robado porque han dejado de darme el diezmo y las ofrendas!"
@@ -498,9 +393,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "Todos ustedes, como nación, me han robado; por eso yo los maldigo a todos ustedes, también como nación."
           ],
@@ -508,9 +401,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "»Traigan a mi templo sus diezmos, y échenlos en el cofre de las ofrendas; así no les faltará alimento. ¡Pónganme a prueba con esto! Verán que abriré las ventanas del cielo, y les enviaré abundantes lluvias."
           ],
@@ -518,10 +409,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11,
-            12
-          ],
+          "verse_numbers": [11, 12],
           "lines": [
             "Además, alejaré de sus campos las plagas de insectos que destruyen sus cosechas y sus viñedos. Tendrán entonces un país muy hermoso, y todas las naciones los considerarán muy dichosos. Yo soy el Dios todopoderoso, y les juro que así lo haré."
           ],
@@ -529,9 +417,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "»Pero ustedes hablan mal de mí, y todavía preguntan: “¿Y qué de malo hemos dicho?”"
           ],
@@ -539,9 +425,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "Pues esto es lo que han dicho: “No vale la pena servir al Dios todopoderoso. Aun si pecamos contra él, no tiene caso que nos pongamos tristes, ni vale la pena obedecer sus mandamientos."
           ],
@@ -549,9 +433,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "Bien sabemos que los orgullosos viven felices, y que a los malvados siempre les va bien; nunca les pasa nada malo, ni siquiera cuando ofenden a Dios y lo ponen a prueba”»."
           ],
@@ -560,16 +442,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "El libro de Dios"
-          ],
+          "lines": ["El libro de Dios"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "Cuando los que adoran a Dios y lo respetan oyeron lo que Dios dijo, hablaron entre sí. Dios se dio cuenta de esto, y les prestó atención, y entonces mandó que se anotaran en un libro sus nombres para recordarlos."
           ],
@@ -577,9 +455,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "Además, Dios dijo acerca de ellos:",
             "«Ya viene el día en que ellos volverán a ser míos. Serán mi tesoro especial, y no les haré ningún daño; los trataré como trata un padre a los hijos que le sirven."
@@ -588,9 +464,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "Entonces ustedes verán, una vez más, que hay diferencia entre el bueno y el malo, entre el que adora a Dios y el que no lo adora»."
           ],
@@ -602,24 +476,18 @@
       "chapter_usfm": "MAL.4",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "MAL.4"
-        ],
+        "usfm": ["MAL.4"],
         "human": "Malaquías 4"
       },
       "next": {
         "canonical": false,
-        "usfm": [
-          "MAT.INTRO1"
-        ],
+        "usfm": ["MAT.INTRO1"],
         "human": "Mateo Introducción",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "MAL.3"
-        ],
+        "usfm": ["MAL.3"],
         "human": "Malaquías 3",
         "toc": true
       },
@@ -629,16 +497,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Dios juzga a su pueblo"
-          ],
+          "lines": ["Dios juzga a su pueblo"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "1 (3.19) Dios dice:",
             "«Ya está cerca el día",
@@ -653,9 +517,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "2 (3.20) »Para ustedes, que me respetan,",
             "la justicia brillará como el sol",
@@ -668,9 +530,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "3 (3.21) Ya tengo preparado ese día,",
             "y ustedes aplastarán a los malvados",
@@ -683,16 +543,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Un consejo final"
-          ],
+          "lines": ["Un consejo final"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "4 (3.22) »Israelitas,",
             "recuerden que en el monte Horeb",
@@ -704,9 +560,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "5 (3.23) »Antes de que llegue el día",
             "en que yo los castigaré,",
@@ -716,9 +570,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "6 (3.24) Él hará que los padres",
             "se reconcilien con sus hijos",

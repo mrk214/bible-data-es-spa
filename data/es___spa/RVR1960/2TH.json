@@ -18,30 +18,24 @@
     "local_name": "Español (América Latina)",
     "text_direction": "ltr"
   },
-  "repository": "https://github.com/jsckdm/bible-data-es-spa",
+  "repository": "https://github.com/mrk214/bible-data-es-spa",
   "chapters": [
     {
       "chapter_usfm": "2TH.INTRO1",
       "is_chapter": false,
       "current": {
-        "usfm": [
-          "2TH.INTRO1"
-        ],
+        "usfm": ["2TH.INTRO1"],
         "human": "2 Tesalonicenses SEGUNDA EPÍSTOLA DEL APÓSTOL SAN PABLO A LOS TESALONICENSES"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "2TH.1"
-        ],
+        "usfm": ["2TH.1"],
         "human": "2 Tesalonicenses 1",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "1TH.5"
-        ],
+        "usfm": ["1TH.5"],
         "human": "1 Tesalonicenses 5",
         "toc": true
       },
@@ -53,24 +47,18 @@
       "chapter_usfm": "2TH.1",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "2TH.1"
-        ],
+        "usfm": ["2TH.1"],
         "human": "2 Tesalonicenses 1"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "2TH.2"
-        ],
+        "usfm": ["2TH.2"],
         "human": "2 Tesalonicenses 2",
         "toc": true
       },
       "previous": {
         "canonical": false,
-        "usfm": [
-          "2TH.INTRO1"
-        ],
+        "usfm": ["2TH.INTRO1"],
         "human": "2 Tesalonicenses SEGUNDA EPÍSTOLA DEL APÓSTOL SAN PABLO A LOS TESALONICENSES",
         "toc": true
       },
@@ -80,16 +68,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Salutación"
-          ],
+          "lines": ["Salutación"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Pablo, Silvano y Timoteo, a la iglesia de los tesalonicenses en Dios nuestro Padre y en el Señor Jesucristo:"
           ],
@@ -97,9 +81,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "Gracia y paz a vosotros, de Dios nuestro Padre y del Señor Jesucristo."
           ],
@@ -108,16 +90,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Dios juzgará a los pecadores en la venida de Cristo"
-          ],
+          "lines": ["Dios juzgará a los pecadores en la venida de Cristo"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "Debemos siempre dar gracias a Dios por vosotros, hermanos, como es digno, por cuanto vuestra fe va creciendo, y el amor de todos y cada uno de vosotros abunda para con los demás;"
           ],
@@ -125,9 +103,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "tanto, que nosotros mismos nos gloriamos de vosotros en las iglesias de Dios, por vuestra paciencia y fe en todas vuestras persecuciones y tribulaciones que soportáis."
           ],
@@ -135,9 +111,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "Esto es demostración del justo juicio de Dios, para que seáis tenidos por dignos del reino de Dios, por el cual asimismo padecéis."
           ],
@@ -145,9 +119,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "Porque es justo delante de Dios pagar con tribulación a los que os atribulan,"
           ],
@@ -155,9 +127,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "y a vosotros que sois atribulados, daros reposo con nosotros, cuando se manifieste el Señor Jesús desde el cielo con los ángeles de su poder,"
           ],
@@ -165,9 +135,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "en llama de fuego, para dar retribución a los que no conocieron a Dios, ni obedecen al evangelio de nuestro Señor Jesucristo;"
           ],
@@ -175,9 +143,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "los cuales sufrirán pena de eterna perdición, excluidos de la presencia del Señor y de la gloria de su poder,"
           ],
@@ -185,9 +151,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "cuando venga en aquel día para ser glorificado en sus santos y ser admirado en todos los que creyeron (por cuanto nuestro testimonio ha sido creído entre vosotros)."
           ],
@@ -195,9 +159,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "Por lo cual asimismo oramos siempre por vosotros, para que nuestro Dios os tenga por dignos de su llamamiento, y cumpla todo propósito de bondad y toda obra de fe con su poder,"
           ],
@@ -205,9 +167,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "para que el nombre de nuestro Señor Jesucristo sea glorificado en vosotros, y vosotros en él, por la gracia de nuestro Dios y del Señor Jesucristo."
           ],
@@ -219,24 +179,18 @@
       "chapter_usfm": "2TH.2",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "2TH.2"
-        ],
+        "usfm": ["2TH.2"],
         "human": "2 Tesalonicenses 2"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "2TH.3"
-        ],
+        "usfm": ["2TH.3"],
         "human": "2 Tesalonicenses 3",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "2TH.1"
-        ],
+        "usfm": ["2TH.1"],
         "human": "2 Tesalonicenses 1",
         "toc": true
       },
@@ -246,16 +200,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Manifestación del hombre de pecado"
-          ],
+          "lines": ["Manifestación del hombre de pecado"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Pero con respecto a la venida de nuestro Señor Jesucristo, y nuestra reunión con él, os rogamos, hermanos,"
           ],
@@ -263,9 +213,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "que no os dejéis mover fácilmente de vuestro modo de pensar, ni os conturbéis, ni por espíritu, ni por palabra, ni por carta como si fuera nuestra, en el sentido de que el día del Señor está cerca."
           ],
@@ -273,9 +221,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "Nadie os engañe en ninguna manera; porque no vendrá sin que antes venga la apostasía, y se manifieste el hombre de pecado, el hijo de perdición,"
           ],
@@ -283,9 +229,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "el cual se opone y se levanta contra todo lo que se llama Dios o es objeto de culto; tanto que se sienta en el templo de Dios como Dios, haciéndose pasar por Dios."
           ],
@@ -293,9 +237,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "¿No os acordáis que cuando yo estaba todavía con vosotros, os decía esto?"
           ],
@@ -303,9 +245,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "Y ahora vosotros sabéis lo que lo detiene, a fin de que a su debido tiempo se manifieste."
           ],
@@ -313,9 +253,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "Porque ya está en acción el misterio de la iniquidad; solo que hay quien al presente lo detiene, hasta que él a su vez sea quitado de en medio."
           ],
@@ -323,9 +261,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "Y entonces se manifestará aquel inicuo, a quien el Señor matará con el espíritu de su boca, y destruirá con el resplandor de su venida;"
           ],
@@ -333,9 +269,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "inicuo cuyo advenimiento es por obra de Satanás, con gran poder y señales y prodigios mentirosos,"
           ],
@@ -343,9 +277,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "y con todo engaño de iniquidad para los que se pierden, por cuanto no recibieron el amor de la verdad para ser salvos."
           ],
@@ -353,9 +285,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "Por esto Dios les envía un poder engañoso, para que crean la mentira,"
           ],
@@ -363,9 +293,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "a fin de que sean condenados todos los que no creyeron a la verdad, sino que se complacieron en la injusticia."
           ],
@@ -374,16 +302,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Escogidos para salvación"
-          ],
+          "lines": ["Escogidos para salvación"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "Pero nosotros debemos dar siempre gracias a Dios respecto a vosotros, hermanos amados por el Señor, de que Dios os haya escogido desde el principio para salvación, mediante la santificación por el Espíritu y la fe en la verdad,"
           ],
@@ -391,9 +315,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "a lo cual os llamó mediante nuestro evangelio, para alcanzar la gloria de nuestro Señor Jesucristo."
           ],
@@ -401,9 +323,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "Así que, hermanos, estad firmes, y retened la doctrina que habéis aprendido, sea por palabra, o por carta nuestra."
           ],
@@ -411,9 +331,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "Y el mismo Jesucristo Señor nuestro, y Dios nuestro Padre, el cual nos amó y nos dio consolación eterna y buena esperanza por gracia,"
           ],
@@ -421,9 +339,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "conforte vuestros corazones, y os confirme en toda buena palabra y obra."
           ],
@@ -435,24 +351,18 @@
       "chapter_usfm": "2TH.3",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "2TH.3"
-        ],
+        "usfm": ["2TH.3"],
         "human": "2 Tesalonicenses 3"
       },
       "next": {
         "canonical": false,
-        "usfm": [
-          "1TI.INTRO1"
-        ],
+        "usfm": ["1TI.INTRO1"],
         "human": "1 Timoteo PRIMERA EPÍSTOLA DEL APÓSTOL SAN PABLO A TIMOTEO",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "2TH.2"
-        ],
+        "usfm": ["2TH.2"],
         "human": "2 Tesalonicenses 2",
         "toc": true
       },
@@ -462,16 +372,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Que la palabra de Dios sea glorificada"
-          ],
+          "lines": ["Que la palabra de Dios sea glorificada"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Por lo demás, hermanos, orad por nosotros, para que la palabra del Señor corra y sea glorificada, así como lo fue entre vosotros,"
           ],
@@ -479,9 +385,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "y para que seamos librados de hombres perversos y malos; porque no es de todos la fe."
           ],
@@ -489,9 +393,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "Pero fiel es el Señor, que os afirmará y guardará del mal."
           ],
@@ -499,9 +401,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "Y tenemos confianza respecto a vosotros en el Señor, en que hacéis y haréis lo que os hemos mandado."
           ],
@@ -509,9 +409,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "Y el Señor encamine vuestros corazones al amor de Dios, y a la paciencia de Cristo."
           ],
@@ -520,16 +418,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "El deber de trabajar"
-          ],
+          "lines": ["El deber de trabajar"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "Pero os ordenamos, hermanos, en el nombre de nuestro Señor Jesucristo, que os apartéis de todo hermano que ande desordenadamente, y no según la enseñanza que recibisteis de nosotros."
           ],
@@ -537,9 +431,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "Porque vosotros mismos sabéis de qué manera debéis imitarnos; pues nosotros no anduvimos desordenadamente entre vosotros,"
           ],
@@ -547,9 +439,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "ni comimos de balde el pan de nadie, sino que trabajamos con afán y fatiga día y noche, para no ser gravosos a ninguno de vosotros;"
           ],
@@ -557,9 +447,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "no porque no tuviésemos derecho, sino por daros nosotros mismos un ejemplo para que nos imitaseis."
           ],
@@ -567,9 +455,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "Porque también cuando estábamos con vosotros, os ordenábamos esto: Si alguno no quiere trabajar, tampoco coma."
           ],
@@ -577,9 +463,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "Porque oímos que algunos de entre vosotros andan desordenadamente, no trabajando en nada, sino entremetiéndose en lo ajeno."
           ],
@@ -587,9 +471,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "A los tales mandamos y exhortamos por nuestro Señor Jesucristo, que trabajando sosegadamente, coman su propio pan."
           ],
@@ -597,19 +479,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
-          "lines": [
-            "Y vosotros, hermanos, no os canséis de hacer bien."
-          ],
+          "verse_numbers": [13],
+          "lines": ["Y vosotros, hermanos, no os canséis de hacer bien."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "Si alguno no obedece a lo que decimos por medio de esta carta, a ese señaladlo, y no os juntéis con él, para que se avergüence."
           ],
@@ -617,9 +493,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "Mas no lo tengáis por enemigo, sino amonestadle como a hermano."
           ],
@@ -628,16 +502,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Bendición final"
-          ],
+          "lines": ["Bendición final"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "Y el mismo Señor de paz os dé siempre paz en toda manera. El Señor sea con todos vosotros."
           ],
@@ -645,9 +515,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "La salutación es de mi propia mano, de Pablo, que es el signo en toda carta mía; así escribo."
           ],
@@ -655,9 +523,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "La gracia de nuestro Señor Jesucristo sea con todos vosotros. Amén."
           ],
