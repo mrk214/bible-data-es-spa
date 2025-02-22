@@ -24,18 +24,24 @@
       "chapter_usfm": "TIT.INTRO1",
       "is_chapter": false,
       "current": {
-        "usfm": ["TIT.INTRO1"],
+        "usfm": [
+          "TIT.INTRO1"
+        ],
         "human": "Tito Introducción"
       },
       "next": {
         "canonical": true,
-        "usfm": ["TIT.1"],
+        "usfm": [
+          "TIT.1"
+        ],
         "human": "Tito 1",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": ["2TI.4"],
+        "usfm": [
+          "2TI.4"
+        ],
         "human": "2 Timoteo 4",
         "toc": true
       },
@@ -47,18 +53,24 @@
       "chapter_usfm": "TIT.1",
       "is_chapter": true,
       "current": {
-        "usfm": ["TIT.1"],
+        "usfm": [
+          "TIT.1"
+        ],
         "human": "Tito 1"
       },
       "next": {
         "canonical": true,
-        "usfm": ["TIT.2"],
+        "usfm": [
+          "TIT.2"
+        ],
         "human": "Tito 2",
         "toc": true
       },
       "previous": {
         "canonical": false,
-        "usfm": ["TIT.INTRO1"],
+        "usfm": [
+          "TIT.INTRO1"
+        ],
         "human": "Tito Introducción",
         "toc": true
       },
@@ -68,12 +80,19 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": ["Saludo"],
+          "lines": [
+            "Saludo"
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [1, 2, 3, 4],
+          "verse_numbers": [
+            1,
+            2,
+            3,
+            4
+          ],
           "lines": [
             "Querido Tito:",
             "Yo te ayudé a confiar en Jesucristo, y por eso tú eres para mí como un verdadero hijo. Tú y yo confiamos en Dios; por eso yo le pido a él, que es nuestro Padre, y a Jesucristo, nuestro Salvador, que te llenen de su amor y de su paz.",
@@ -84,12 +103,16 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": ["Lo que Tito debía hacer en Creta"],
+          "lines": [
+            "Lo que Tito debía hacer en Creta"
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [5],
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Te dejé en la isla de Creta para que resolvieras los problemas pendientes, y para que nombraras líderes en las iglesias de cada pueblo. Tal y como te dije,"
           ],
@@ -97,7 +120,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [6],
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "un líder de la iglesia debe ser alguien al que no se le pueda acusar de nada malo. Debe ser esposo de una sola mujer, y sus hijos deben creer en Jesucristo, portarse bien y ser obedientes."
           ],
@@ -105,7 +130,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [7],
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "Dios les ha encargado a los líderes de la iglesia que vigilen el trabajo de todos, para que todo se haga bien. Por eso, no deben ser tiranos, ni enojarse con facilidad ni emborracharse. Tampoco deben ser violentos, ni tramposos en sus negocios."
           ],
@@ -113,7 +140,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [8],
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "Al contrario, deben hacer siempre lo bueno, y recibir con gusto en su casa a quienes los visiten. Deben pensar bien las cosas antes de hacerlas, y ser justos, santos y disciplinados en todo."
           ],
@@ -121,7 +150,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [9],
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "No deberán creer otro mensaje que no sea el verdadero mensaje recibido de Dios, y mucho menos enseñarlo. Así podrán animar a otros por medio de la buena enseñanza, y convencer a los que se oponen a ella."
           ],
@@ -129,7 +160,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [10],
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "Porque por allí andan muchos que no obedecen la verdadera enseñanza, sino que engañan a los demás con sus enseñanzas tontas. Esto pasa, sobre todo, con algunos de ustedes que insisten en seguir practicando la circuncisión."
           ],
@@ -137,7 +170,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [11],
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "No los dejes enseñar, porque confunden a familias enteras, y lo hacen solo para ganar dinero."
           ],
@@ -145,7 +180,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [12],
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Fue uno de los propios profetas de Creta el que dijo:",
             "«Esa gente de Creta es mentirosa,",
@@ -156,7 +193,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [13],
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "¡Y es verdad! Por eso tienes que reprender mucho a esta clase de gente, y ayudarla para que vuelva a confiar en Jesucristo como es debido."
           ],
@@ -164,7 +203,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [14],
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Ayúdalos a no prestar atención a mandamientos dados por gente mentirosa, ni a cuentos inventados por los judíos."
           ],
@@ -172,7 +213,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [15],
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "Los que obedecen sinceramente a Jesucristo consideran que todo es bueno. Pero los que no obedecen ni confían en él, creen que nada es bueno; solo piensan en lo malo, y no les remuerde la conciencia."
           ],
@@ -180,7 +223,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [16],
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "Dicen que conocen a Dios pero, cuando vemos el mal que hacen, sabemos que eso no es cierto. Son odiosos y desobedientes, incapaces de hacer algo bueno."
           ],
@@ -192,18 +237,24 @@
       "chapter_usfm": "TIT.2",
       "is_chapter": true,
       "current": {
-        "usfm": ["TIT.2"],
+        "usfm": [
+          "TIT.2"
+        ],
         "human": "Tito 2"
       },
       "next": {
         "canonical": true,
-        "usfm": ["TIT.3"],
+        "usfm": [
+          "TIT.3"
+        ],
         "human": "Tito 3",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": ["TIT.1"],
+        "usfm": [
+          "TIT.1"
+        ],
         "human": "Tito 1",
         "toc": true
       },
@@ -213,18 +264,26 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": ["Instrucciones para distintos grupos de personas"],
+          "lines": [
+            "Instrucciones para distintos grupos de personas"
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [1],
-          "lines": ["Pero tú, Tito, debes enseñar lo que es correcto."],
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Pero tú, Tito, debes enseñar lo que es correcto."
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [2],
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "A los ancianos, diles que deben ser responsables, que deben controlar sus deseos y pensar bien lo que van a hacer. También deben confiar en Dios, amar a los demás, y ser siempre pacientes."
           ],
@@ -232,7 +291,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [3],
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "Recomienda a las ancianas que se comporten como personas que aman a Dios. No deben ser chismosas ni emborracharse, sino más bien ser un buen ejemplo para las mujeres más jóvenes,"
           ],
@@ -240,13 +301,19 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [4],
-          "lines": ["y enseñarles a amar a sus esposos e hijos."],
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "y enseñarles a amar a sus esposos e hijos."
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [5],
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "También deben enseñarles a pensar bien lo que van a hacer, y a ser dueñas de sí mismas, a atender bien a su familia y sujetarse a su esposo. Así nadie podrá hablar mal del mensaje de Dios."
           ],
@@ -254,7 +321,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [6],
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "A los jóvenes, recomiéndales que aprendan a controlar sus malos deseos."
           ],
@@ -262,7 +331,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [7],
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "Tú mismo tienes que ser un buen ejemplo en todo. Enséñales a hacer el bien y, cuando lo hagas, hazlo con seriedad y honestidad."
           ],
@@ -270,7 +341,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [8],
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "Di siempre lo bueno, y así nadie podrá criticarte. Si haces lo que te digo, los que están en contra nuestra sentirán vergüenza y no podrán hablar mal de nosotros."
           ],
@@ -278,7 +351,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [9],
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "A los miembros de la iglesia que son esclavos, diles que obedezcan siempre a sus amos, y que sean amables y no discutan nada."
           ],
@@ -286,7 +361,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [10],
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "No deben robar, sino ser totalmente honestos, para que todos vean lo hermosa que es la enseñanza acerca de Dios nuestro salvador."
           ],
@@ -295,12 +372,16 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": ["Dios es bueno y nos da una nueva vida"],
+          "lines": [
+            "Dios es bueno y nos da una nueva vida"
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [11],
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Dios ha demostrado cuánto ama a todo el mundo, pues les ha ofrecido la posibilidad de salvarse del castigo que merecen."
           ],
@@ -308,7 +389,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [12],
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Ese amor de Dios nos enseña que debemos dejar de hacer el mal, y no desear lo malo de este mundo. También nos enseña que, en este mundo, debemos ser honestos y fieles a Dios, y pensar bien lo que hacemos."
           ],
@@ -316,7 +399,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [13],
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Así debemos vivir, mientras llega ese día feliz y maravilloso que todos esperamos, cuando se manifestará nuestro gran Dios y Salvador Jesucristo."
           ],
@@ -324,7 +409,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [14],
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Él quiso morir para rescatarnos de todo lo malo y para purificarnos de nuestros pecados. Al hacerlo, nos convirtió en su pueblo, en un pueblo decidido a hacer el bien."
           ],
@@ -332,7 +419,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [15],
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "Enseña estas cosas con toda autoridad, para animar y corregir a la gente. No des motivo para que te falten el respeto."
           ],
@@ -344,18 +433,24 @@
       "chapter_usfm": "TIT.3",
       "is_chapter": true,
       "current": {
-        "usfm": ["TIT.3"],
+        "usfm": [
+          "TIT.3"
+        ],
         "human": "Tito 3"
       },
       "next": {
         "canonical": false,
-        "usfm": ["PHM.INTRO1"],
+        "usfm": [
+          "PHM.INTRO1"
+        ],
         "human": "Filemón Introducción",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": ["TIT.2"],
+        "usfm": [
+          "TIT.2"
+        ],
         "human": "Tito 2",
         "toc": true
       },
@@ -365,12 +460,16 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": ["Responsabilidades de los miembros"],
+          "lines": [
+            "Responsabilidades de los miembros"
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [1],
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "A los hermanos de la iglesia, recuérdales que deben obedecer a los gobernantes y a las autoridades del país. Recuérdales también que deben ser obedientes en todo y estar siempre dispuestos a hacer el bien."
           ],
@@ -378,7 +477,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [2],
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "No deben hablar mal de nadie, ni discutir. Deben ser amables con todos y mostrar humildad en su trato con los demás."
           ],
@@ -386,7 +487,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [3],
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "Antes, nosotros mismos éramos ignorantes y desobedientes, y andábamos perdidos. Para divertirnos, hacíamos todo lo malo que se nos ocurría. Éramos malvados y envidiosos, y esclavos de esos malos deseos. Todo el mundo nos odiaba, y nosotros también odiábamos a los demás."
           ],
@@ -394,7 +497,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [4],
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "Pero Dios, nuestro salvador, nos mostró que él es bueno, y que ama a todo el mundo,"
           ],
@@ -402,7 +507,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [5],
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "y nos salvó. Pero no lo hizo porque nosotros hubiéramos hecho algo bueno, sino porque nos ama y quiso ayudarnos. Por medio del poder del Espíritu Santo nos salvó, nos purificó de todos nuestros pecados, y nos dio nueva vida. ¡Fue como si hubiéramos nacido de nuevo!"
           ],
@@ -410,7 +517,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [6],
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "Gracias a Jesucristo, nuestro salvador, Dios nos dio el Espíritu Santo."
           ],
@@ -418,7 +527,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [7],
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "Por su gran amor, Dios nos aceptó y nos dio la seguridad de que tendremos la vida eterna tan esperada."
           ],
@@ -426,7 +537,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [8],
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "Esto es verdad, y quiero que insistas en enseñarlo, para que los que confían en Dios se dediquen a hacer lo que es bueno. Estas cosas son buenas y ayudan a todos."
           ],
@@ -434,7 +547,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [9],
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Pero no te pongas a discutir acerca de tonterías, ni prestes atención a las leyendas que hablan de nuestros antepasados. No te enojes ni te pelees con nadie, solo por hablar de la ley de Moisés. Esas discusiones son inútiles y no conducen a nada."
           ],
@@ -442,7 +557,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [10],
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "A los que siempre están peleando en la iglesia, llámales la atención una o dos veces. Si no te hacen caso, apártate de ellos."
           ],
@@ -450,7 +567,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [11],
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Puedes estar seguro de que esa gente ha dejado de creer en la verdadera enseñanza, y sus propios pecados demuestran que son culpables."
           ],
@@ -459,12 +578,16 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": ["Instrucciones para Tito"],
+          "lines": [
+            "Instrucciones para Tito"
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [12],
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Voy a mandarte a Artemas o a Tíquico. Tan pronto como llegue uno de ellos, haz todo lo posible por venir a visitarme en Nicópolis, porque allí pienso pasar el invierno."
           ],
@@ -472,7 +595,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [13],
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Ayuda en todo al abogado Zenas, y también a Apolo. Dales todo lo que necesiten para seguir su viaje, y cuida de que no les falte nada."
           ],
@@ -480,7 +605,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [14],
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Los nuestros deben aprender a hacer lo que es bueno, y ayudar a otros. Así vivirán como personas útiles."
           ],
@@ -489,12 +616,16 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": ["Despedida"],
+          "lines": [
+            "Despedida"
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [15],
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "Todos los que están conmigo te envían saludos. Saluda a todos nuestros amigos de la iglesia.",
             "Deseo de todo corazón que el amor de Dios los acompañe siempre."
