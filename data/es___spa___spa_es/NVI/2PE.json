@@ -1,0 +1,758 @@
+{
+  "book_usfm": "2PE",
+  "name": "2 Pedro",
+  "local_title": "Nueva Versión Internacional - Castellano",
+  "local_abbreviation": "NVI",
+  "version_id": 1637,
+  "publisher": {
+    "name": "Biblica, Inc."
+  },
+  "copyright": {
+    "html": "<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>",
+    "text": "Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa_es",
+    "local_name": "Español (España)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/mrk214/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "2PE.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "2PE.1"
+        ],
+        "human": "2 Pedro 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "2PE.2"
+        ],
+        "human": "2 Pedro 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "1PE.5"
+        ],
+        "human": "1 Pedro 5",
+        "toc": true
+      },
+      "chapter_text": "Simón Pedro, siervo y apóstol de Jesucristo,\n\na los que por la justicia de nuestro Dios y Salvador Jesucristo habéis recibido una fe tan preciosa como la nuestra.\n\nQue abunden en vosotros la gracia y la paz por medio del conocimiento que tenéis de Dios y de Jesús nuestro Señor.\n\nSu divino poder, al darnos el conocimiento de aquel que nos llamó por su propia gloria y excelencia, nos ha concedido todas las cosas que necesitamos para vivir como Dios manda. Así Dios nos ha entregado sus preciosas y magníficas promesas para que vosotros, después de escapar de la corrupción que hay en el mundo debido a los malos deseos, lleguéis a tener parte en la naturaleza divina.\nPrecisamente por eso, esforzaos por añadir a vuestra fe, virtud; a vuestra virtud, entendimiento; al entendimiento, dominio propio; al dominio propio, constancia; a la constancia, devoción a Dios; a la devoción a Dios, afecto fraternal; y al afecto fraternal, amor. Porque estas cualidades, si abundan en vosotros, os harán crecer en el conocimiento de nuestro Señor Jesucristo, y evitarán que seáis inútiles e improductivos. En cambio, el que no las tiene es tan corto de vista que ya ni ve, y se olvida de que ha sido limpiado de sus antiguos pecados. Por lo tanto, hermanos, esforzaos más todavía para consolidar el llamamiento de Dios, que fue quien os eligió. Si hacéis estas cosas, no caeréis jamás y se os abrirán de par en par las puertas del reino eterno de nuestro Señor y Salvador Jesucristo.\n\nPor eso siempre os recordaré estas cosas, por más que las sepáis y estéis afianzados en la verdad que ahora tenéis. Además, considero que tengo la obligación de refrescaros la memoria mientras viva en esta habitación pasajera que es mi cuerpo; porque sé que dentro de poco tendré que abandonarlo, según me lo ha manifestado nuestro Señor Jesucristo. También me esforzaré con empeño para que aun después de mi partida podáis recordar estas cosas en todo momento.\nCuando os dimos a conocer la venida de nuestro Señor Jesucristo en todo su poder, no estábamos siguiendo sutiles cuentos supersticiosos, sino dando testimonio de su grandeza, que vimos con nuestros propios ojos. Él recibió honor y gloria de parte de Dios el Padre, cuando desde la majestuosa gloria se le dirigió aquella voz que dijo: «Este es mi Hijo amado; estoy muy complacido con él». Nosotros mismos oímos esa voz que vino del cielo cuando estábamos con él en el monte santo. Esto ha venido a confirmarnos la palabra de los profetas, a la cual vosotros hacéis bien en prestar atención, como a una lámpara que brilla en un lugar oscuro, hasta que despunte el día y salga el lucero de la mañana en sus corazones. Ante todo, tened muy presente que ninguna profecía de la Escritura surge de la interpretación particular de nadie. Porque la profecía no ha tenido su origen en la voluntad humana, sino que los profetas hablaron de parte de Dios, impulsados por el Espíritu Santo.",
+      "chapter_html": "<div class=\"version vid1637 iso6393spa\" data-vid=\"1637\" data-iso6393=\"spa\">\n   <div class=\"book bk2PE\">\n      <div class=\"chapter ch1\" data-usfm=\"2PE.1\">\n         <div class=\"label\">1</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"2PE.1.1\"><span class=\"label\">1</span><span class=\"content\">Sim&#243;n Pedro, </span><span class=\"w\"><span class=\"content\">siervo</span></span><span class=\"content\"> y ap&#243;stol de </span><span class=\"w\"><span class=\"content\">Jesucristo</span></span><span class=\"content\">,</span></span></div><div class=\"b\"></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"2PE.1.1\"><span class=\"content\">a los que por la justicia de nuestro Dios y Salvador Jesucristo hab&#233;is recibido una fe tan preciosa como la nuestra.</span></span></div><div class=\"b\"></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"2PE.1.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"2PE.1.2\"><span class=\"label\">2</span><span class=\"content\">Que abunden en vosotros la gracia y la paz por medio del conocimiento que ten&#233;is de Dios y de Jes&#250;s nuestro Se&#241;or.</span></span></div><div class=\"s1\"><span class=\"heading\">Firmeza en el llamamiento y en la elecci&#243;n</span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"2PE.1.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"2PE.1.3\"><span class=\"label\">3</span><span class=\"content\">Su divino poder, al darnos el conocimiento de aquel que nos llam&#243; por su propia gloria y excelencia, nos ha concedido todas las cosas que necesitamos para vivir como Dios manda.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:3 </span><span class=\"fq\">para vivir como Dios manda</span><span class=\"ft\">. Lit. </span><span class=\"fqa\">para la vida y la piedad.</span></span></span><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"2PE.1.4\"><span class=\"label\">4</span><span class=\"content\">As&#237; Dios nos ha entregado sus preciosas y magn&#237;ficas promesas para que vosotros, despu&#233;s de escapar de la corrupci&#243;n que hay en el mundo debido a los malos deseos, llegu&#233;is a tener parte en la naturaleza divina.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:4 </span><span class=\"fq\">llegu&#233;is &#8230; divina</span><span class=\"ft\">. Alt. </span><span class=\"fqa\">llegu&#233;is a ser colaboradores con Dios.</span></span></span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"2PE.1.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"2PE.1.5\"><span class=\"label\">5</span><span class=\"content\">Precisamente por eso, esforzaos por a&#241;adir a vuestra fe, virtud; a vuestra virtud, entendimiento; </span></span><span class=\"verse v6\" data-usfm=\"2PE.1.6\"><span class=\"label\">6</span><span class=\"content\">al entendimiento, dominio propio; al dominio propio, constancia; a la constancia, devoci&#243;n a Dios; </span></span><span class=\"verse v7\" data-usfm=\"2PE.1.7\"><span class=\"label\">7</span><span class=\"content\">a la devoci&#243;n a Dios, afecto fraternal; y al afecto fraternal, amor. </span></span><span class=\"verse v8\" data-usfm=\"2PE.1.8\"><span class=\"label\">8</span><span class=\"content\">Porque estas cualidades, si abundan en vosotros, os har&#225;n crecer en el conocimiento de nuestro Se&#241;or Jesucristo, y evitar&#225;n que se&#225;is in&#250;tiles e improductivos. </span></span><span class=\"verse v9\" data-usfm=\"2PE.1.9\"><span class=\"label\">9</span><span class=\"content\">En cambio, el que no las tiene es tan corto de vista que ya ni ve, y se olvida de que ha sido limpiado de sus antiguos pecados. </span></span><span class=\"verse v10\" data-usfm=\"2PE.1.10\"><span class=\"label\">10</span><span class=\"content\">Por lo tanto, hermanos, esforzaos m&#225;s todav&#237;a para consolidar el llamamiento de Dios, que fue quien os eligi&#243;. Si hac&#233;is estas cosas, no caer&#233;is jam&#225;s </span></span><span class=\"verse v11\" data-usfm=\"2PE.1.11\"><span class=\"label\">11</span><span class=\"content\">y se os abrir&#225;n de par en par las puertas del reino eterno de nuestro Se&#241;or y Salvador Jesucristo.</span></span></div><div class=\"s1\"><span class=\"heading\">La veracidad de la Escritura</span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"2PE.1.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"2PE.1.12\"><span class=\"label\">12</span><span class=\"content\">Por eso siempre os recordar&#233; estas cosas, por m&#225;s que las sep&#225;is y est&#233;is afianzados en la verdad que ahora ten&#233;is. </span></span><span class=\"verse v13\" data-usfm=\"2PE.1.13\"><span class=\"label\">13</span><span class=\"content\">Adem&#225;s, considero que tengo la obligaci&#243;n de refrescaros la memoria mientras viva en esta habitaci&#243;n pasajera que es mi cuerpo; </span></span><span class=\"verse v14\" data-usfm=\"2PE.1.14\"><span class=\"label\">14</span><span class=\"content\">porque s&#233; que dentro de poco tendr&#233; que abandonarlo, seg&#250;n me lo ha manifestado nuestro Se&#241;or </span><span class=\"w\"><span class=\"content\">Jesucristo</span></span><span class=\"content\">. </span></span><span class=\"verse v15\" data-usfm=\"2PE.1.15\"><span class=\"label\">15</span><span class=\"content\">Tambi&#233;n me esforzar&#233; con empe&#241;o para que aun despu&#233;s de mi partida</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:15 </span><span class=\"fq\">partida</span><span class=\"ft\">. Lit. </span><span class=\"fqa\">&#233;xodo.</span></span></span><span class=\"content\"> pod&#225;is recordar estas cosas en todo momento.</span></span></div><div class=\"p\"><span class=\"verse v15\" data-usfm=\"2PE.1.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"2PE.1.16\"><span class=\"label\">16</span><span class=\"content\">Cuando os dimos a conocer la venida de nuestro Se&#241;or Jesucristo en todo su poder, no est&#225;bamos siguiendo sutiles cuentos supersticiosos, sino dando testimonio de su grandeza, que vimos con nuestros propios ojos. </span></span><span class=\"verse v17\" data-usfm=\"2PE.1.17\"><span class=\"label\">17</span><span class=\"content\">&#201;l recibi&#243; honor y gloria de parte de Dios el Padre, cuando desde la majestuosa gloria se le dirigi&#243; aquella voz que dijo: &#171;Este es mi Hijo amado; estoy muy complacido con &#233;l&#187;.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:17 </span><span class=\"ft\">Mt 17:5; Mr 9:7; Lc 9:35</span></span></span><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"2PE.1.18\"><span class=\"label\">18</span><span class=\"content\">Nosotros mismos o&#237;mos esa voz que vino del cielo cuando est&#225;bamos con &#233;l en el monte santo. </span></span><span class=\"verse v19\" data-usfm=\"2PE.1.19\"><span class=\"label\">19</span><span class=\"content\">Esto ha venido a confirmarnos la palabra</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:19 </span><span class=\"fq\">Esto &#8230; palabra</span><span class=\"ft\">. Lit. </span><span class=\"fqa\">Tambi&#233;n tenemos la muy segura palabra.</span></span></span><span class=\"content\"> de los profetas, a la cual vosotros hac&#233;is bien en prestar atenci&#243;n, como a una l&#225;mpara que brilla en un lugar oscuro, hasta que despunte el d&#237;a y salga el lucero de la ma&#241;ana en sus corazones. </span></span><span class=\"verse v20\" data-usfm=\"2PE.1.20\"><span class=\"label\">20</span><span class=\"content\">Ante todo, tened muy presente que ninguna profec&#237;a de la Escritura surge de la interpretaci&#243;n particular de nadie. </span></span><span class=\"verse v21\" data-usfm=\"2PE.1.21\"><span class=\"label\">21</span><span class=\"content\">Porque la profec&#237;a no ha tenido su origen en la voluntad </span><span class=\"w\"><span class=\"content\">humana</span></span><span class=\"content\">, sino que los profetas hablaron de parte de Dios, impulsados por el Esp&#237;ritu Santo.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Simón Pedro, siervo y apóstol de Jesucristo,",
+            "a los que por la justicia de nuestro Dios y Salvador Jesucristo habéis recibido una fe tan preciosa como la nuestra."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Que abunden en vosotros la gracia y la paz por medio del conocimiento que tenéis de Dios y de Jesús nuestro Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Firmeza en el llamamiento y en la elección"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Su divino poder, al darnos el conocimiento de aquel que nos llamó por su propia gloria y excelencia, nos ha concedido todas las cosas que necesitamos para vivir como Dios manda."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Así Dios nos ha entregado sus preciosas y magníficas promesas para que vosotros, después de escapar de la corrupción que hay en el mundo debido a los malos deseos, lleguéis a tener parte en la naturaleza divina."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Precisamente por eso, esforzaos por añadir a vuestra fe, virtud; a vuestra virtud, entendimiento;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "al entendimiento, dominio propio; al dominio propio, constancia; a la constancia, devoción a Dios;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "a la devoción a Dios, afecto fraternal; y al afecto fraternal, amor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Porque estas cualidades, si abundan en vosotros, os harán crecer en el conocimiento de nuestro Señor Jesucristo, y evitarán que seáis inútiles e improductivos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "En cambio, el que no las tiene es tan corto de vista que ya ni ve, y se olvida de que ha sido limpiado de sus antiguos pecados."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Por lo tanto, hermanos, esforzaos más todavía para consolidar el llamamiento de Dios, que fue quien os eligió. Si hacéis estas cosas, no caeréis jamás"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "y se os abrirán de par en par las puertas del reino eterno de nuestro Señor y Salvador Jesucristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "La veracidad de la Escritura"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "Por eso siempre os recordaré estas cosas, por más que las sepáis y estéis afianzados en la verdad que ahora tenéis."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Además, considero que tengo la obligación de refrescaros la memoria mientras viva en esta habitación pasajera que es mi cuerpo;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "porque sé que dentro de poco tendré que abandonarlo, según me lo ha manifestado nuestro Señor Jesucristo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "También me esforzaré con empeño para que aun después de mi partida podáis recordar estas cosas en todo momento."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "Cuando os dimos a conocer la venida de nuestro Señor Jesucristo en todo su poder, no estábamos siguiendo sutiles cuentos supersticiosos, sino dando testimonio de su grandeza, que vimos con nuestros propios ojos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "Él recibió honor y gloria de parte de Dios el Padre, cuando desde la majestuosa gloria se le dirigió aquella voz que dijo: «Este es mi Hijo amado; estoy muy complacido con él»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "Nosotros mismos oímos esa voz que vino del cielo cuando estábamos con él en el monte santo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "Esto ha venido a confirmarnos la palabra de los profetas, a la cual vosotros hacéis bien en prestar atención, como a una lámpara que brilla en un lugar oscuro, hasta que despunte el día y salga el lucero de la mañana en sus corazones."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "Ante todo, tened muy presente que ninguna profecía de la Escritura surge de la interpretación particular de nadie."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            21
+          ],
+          "lines": [
+            "Porque la profecía no ha tenido su origen en la voluntad humana, sino que los profetas hablaron de parte de Dios, impulsados por el Espíritu Santo."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "2PE.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "2PE.2"
+        ],
+        "human": "2 Pedro 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "2PE.3"
+        ],
+        "human": "2 Pedro 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "2PE.1"
+        ],
+        "human": "2 Pedro 1",
+        "toc": true
+      },
+      "chapter_text": "En el pueblo judío hubo falsos profetas, y también entre vosotros habrá falsos maestros que encubiertamente introducirán herejías destructivas, al extremo de negar al mismo Señor que los rescató. Esto les traerá una pronta destrucción. Muchos los seguirán en sus prácticas vergonzosas, y por causa de ellos se difamará el camino de la verdad. Llevados por la avaricia, estos maestros os explotarán a vosotros con palabras engañosas. Desde hace mucho tiempo su condenación está preparada y su destrucción los acecha.\nDios no perdonó a los ángeles cuando pecaron, sino que los arrojó al abismo, metiéndolos en tenebrosas cavernas y reservándolos para el juicio. Tampoco perdonó al mundo antiguo cuando mandó un diluvio sobre los impíos, aunque protegió a ocho personas, incluyendo a Noé, predicador de la justicia. Además, condenó a las ciudades de Sodoma y Gomorra, y las redujo a cenizas, poniéndolas como escarmiento para los impíos. Por otra parte, libró al justo Lot, que se hallaba abrumado por la vida desenfrenada de esos perversos, pues este justo, que convivía con ellos y amaba el bien, día tras día sentía que se le despedazaba el alma por las obras inicuas que veía y oía. Todo esto demuestra que el Señor sabe librar de la prueba a los que viven como Dios quiere, y reservar a los impíos para castigarlos en el día del juicio. Esto les espera sobre todo a los que siguen los corrompidos deseos de la naturaleza humana y desprecian la autoridad del Señor.\n¡Atrevidos y arrogantes que son! No tienen reparo en insultar a los seres celestiales, mientras que los ángeles, a pesar de superarlos en fuerza y en poder, no pronuncian contra tales seres ninguna acusación insultante en la presencia del Señor. Pero aquellos blasfeman en asuntos que no entienden. Como animales irracionales, se guían únicamente por el instinto, pues nacieron para ser atrapados y degollados. Lo mismo que esos animales, perecerán también en su corrupción y recibirán el justo pago por sus injusticias. Su concepto de placer es entregarse a las pasiones desenfrenadas en pleno día. Son manchas y suciedad, que gozan de sus placeres mientras os acompañan en vuestras comidas. Tienen los ojos llenos de adulterio y son insaciables en el pecar; seducen a las personas inconstantes; son expertos en la avaricia, ¡hijos de maldición! Han abandonado el camino recto, y se han extraviado para seguir la senda de Balán, hijo de Bosor, a quien le encantaba el salario de la injusticia. Pero fue reprendido por su maldad: su burra —una muda bestia de carga— habló con voz humana y refrenó la locura del profeta.\nEstos individuos son fuentes sin agua, niebla empujada por la tormenta, para quienes está reservada la más densa oscuridad. Pronunciando discursos arrogantes y sin sentido, seducen con los instintos naturales desenfrenados a quienes apenas comienzan a apartarse de los que viven en el error. Les prometen libertad, cuando ellos mismos son esclavos de la corrupción, ya que cada uno es esclavo de aquello que lo ha dominado. Si, habiendo escapado de la contaminación del mundo por haber conocido a nuestro Señor y Salvador Jesucristo, vuelven a enredarse en ella y son vencidos, terminan en peores condiciones que al principio. Más les hubiera valido no conocer el camino de la justicia que abandonarlo después de haber conocido el santo mandamiento que se les dio. En su caso ha sucedido lo que acertadamente afirman estos proverbios: «El perro vuelve a su vómito», y «la puerca lavada, a revolcarse en el lodo».",
+      "chapter_html": "<div class=\"version vid1637 iso6393spa\" data-vid=\"1637\" data-iso6393=\"spa\">\n   <div class=\"book bk2PE\">\n      <div class=\"chapter ch2\" data-usfm=\"2PE.2\">\n         <div class=\"label\">2</div><div class=\"s1\"><span class=\"heading\">Los falsos maestros y su destrucci&#243;n</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"2PE.2.1\"><span class=\"label\">1</span><span class=\"content\">En el pueblo jud&#237;o hubo falsos profetas, y tambi&#233;n entre vosotros habr&#225; falsos maestros que encubiertamente introducir&#225;n herej&#237;as destructivas, al extremo de negar al mismo Se&#241;or que los rescat&#243;. Esto les traer&#225; una pronta destrucci&#243;n. </span></span><span class=\"verse v2\" data-usfm=\"2PE.2.2\"><span class=\"label\">2</span><span class=\"content\">Muchos los seguir&#225;n en sus pr&#225;cticas vergonzosas, y por causa de ellos se difamar&#225; el camino de la verdad. </span></span><span class=\"verse v3\" data-usfm=\"2PE.2.3\"><span class=\"label\">3</span><span class=\"content\">Llevados por la avaricia, estos maestros os explotar&#225;n a vosotros con palabras enga&#241;osas. Desde hace mucho tiempo su condenaci&#243;n est&#225; preparada y su destrucci&#243;n los acecha.</span></span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"2PE.2.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"2PE.2.4\"><span class=\"label\">4</span><span class=\"content\">Dios no perdon&#243; a los &#225;ngeles cuando pecaron, sino que los arroj&#243; al </span><span class=\"w\"><span class=\"content\">abismo</span></span><span class=\"content\">, meti&#233;ndolos en tenebrosas cavernas</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:4 </span><span class=\"fq\">cavernas</span><span class=\"ft\">. Var. </span><span class=\"fqa\">cadenas.</span></span></span><span class=\"content\"> y reserv&#225;ndolos para el juicio. </span></span><span class=\"verse v5\" data-usfm=\"2PE.2.5\"><span class=\"label\">5</span><span class=\"content\">Tampoco perdon&#243; al mundo antiguo cuando mand&#243; un diluvio sobre los imp&#237;os, aunque protegi&#243; a ocho personas, incluyendo a No&#233;, predicador de la justicia. </span></span><span class=\"verse v6\" data-usfm=\"2PE.2.6\"><span class=\"label\">6</span><span class=\"content\">Adem&#225;s, conden&#243; a las ciudades de Sodoma y Gomorra, y las redujo a cenizas, poni&#233;ndolas como escarmiento para los imp&#237;os. </span></span><span class=\"verse v7\" data-usfm=\"2PE.2.7\"><span class=\"label\">7</span><span class=\"content\">Por otra parte, libr&#243; al justo Lot, que se hallaba abrumado por la vida desenfrenada de esos perversos, </span></span><span class=\"verse v8\" data-usfm=\"2PE.2.8\"><span class=\"label\">8</span><span class=\"content\">pues este justo, que conviv&#237;a con ellos y amaba el bien, d&#237;a tras d&#237;a sent&#237;a que se le despedazaba el alma por las obras inicuas que ve&#237;a y o&#237;a. </span></span><span class=\"verse v9\" data-usfm=\"2PE.2.9\"><span class=\"label\">9</span><span class=\"content\">Todo esto demuestra que el Se&#241;or sabe librar de la </span><span class=\"w\"><span class=\"content\">prueba</span></span><span class=\"content\"> a los que viven como Dios quiere, y reservar a los imp&#237;os para castigarlos en el d&#237;a del juicio. </span></span><span class=\"verse v10\" data-usfm=\"2PE.2.10\"><span class=\"label\">10</span><span class=\"content\">Esto les espera sobre todo a los que siguen los corrompidos deseos de la </span><span class=\"w\"><span class=\"content\">naturaleza humana</span></span><span class=\"content\"> y desprecian la autoridad del Se&#241;or.</span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"2PE.2.10\"><span class=\"content\">&#161;Atrevidos y arrogantes que son! No tienen reparo en insultar a los seres celestiales, </span></span><span class=\"verse v11\" data-usfm=\"2PE.2.11\"><span class=\"label\">11</span><span class=\"content\">mientras que los &#225;ngeles, a pesar de superarlos en fuerza y en poder, no pronuncian contra tales seres ninguna acusaci&#243;n insultante en la presencia del Se&#241;or. </span></span><span class=\"verse v12\" data-usfm=\"2PE.2.12\"><span class=\"label\">12</span><span class=\"content\">Pero aquellos </span><span class=\"w\"><span class=\"content\">blasfeman</span></span><span class=\"content\"> en asuntos que no entienden. Como animales irracionales, se gu&#237;an &#250;nicamente por el instinto, pues nacieron para ser atrapados y degollados. Lo mismo que esos animales, perecer&#225;n tambi&#233;n en su corrupci&#243;n </span></span><span class=\"verse v13\" data-usfm=\"2PE.2.13\"><span class=\"label\">13</span><span class=\"content\">y recibir&#225;n el justo pago por sus injusticias. Su concepto de placer es entregarse a las pasiones desenfrenadas en pleno d&#237;a. Son manchas y suciedad, que gozan de sus placeres mientras os acompa&#241;an en vuestras comidas. </span></span><span class=\"verse v14\" data-usfm=\"2PE.2.14\"><span class=\"label\">14</span><span class=\"content\">Tienen los ojos llenos de adulterio y son insaciables en el pecar; seducen a las personas inconstantes; son expertos en la avaricia, &#161;hijos de maldici&#243;n! </span></span><span class=\"verse v15\" data-usfm=\"2PE.2.15\"><span class=\"label\">15</span><span class=\"content\">Han abandonado el camino recto, y se han extraviado para seguir la senda de Bal&#225;n, hijo de Bosor,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:15 </span><span class=\"fq\">Bosor</span><span class=\"ft\">. Var. </span><span class=\"fqa\">Beor.</span></span></span><span class=\"content\"> a quien le encantaba el salario de la injusticia. </span></span><span class=\"verse v16\" data-usfm=\"2PE.2.16\"><span class=\"label\">16</span><span class=\"content\">Pero fue reprendido por su maldad: su burra &#8212;una muda bestia de carga&#8212; habl&#243; con voz humana y refren&#243; la locura del profeta.</span></span></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"2PE.2.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"2PE.2.17\"><span class=\"label\">17</span><span class=\"content\">Estos individuos son fuentes sin agua, niebla empujada por la tormenta, para quienes est&#225; reservada la m&#225;s densa oscuridad. </span></span><span class=\"verse v18\" data-usfm=\"2PE.2.18\"><span class=\"label\">18</span><span class=\"content\">Pronunciando discursos arrogantes y sin sentido, seducen con los instintos </span><span class=\"w\"><span class=\"content\">naturales</span></span><span class=\"content\"> desenfrenados a quienes apenas comienzan a apartarse de los que viven en el error. </span></span><span class=\"verse v19\" data-usfm=\"2PE.2.19\"><span class=\"label\">19</span><span class=\"content\">Les prometen libertad, cuando ellos mismos son </span><span class=\"w\"><span class=\"content\">esclavos</span></span><span class=\"content\"> de la corrupci&#243;n, ya que cada uno es esclavo de aquello que lo ha dominado. </span></span><span class=\"verse v20\" data-usfm=\"2PE.2.20\"><span class=\"label\">20</span><span class=\"content\">Si, habiendo escapado de la contaminaci&#243;n del mundo por haber conocido a nuestro Se&#241;or y Salvador </span><span class=\"w\"><span class=\"content\">Jesucristo</span></span><span class=\"content\">, vuelven a enredarse en ella y son vencidos, terminan en peores condiciones que al principio. </span></span><span class=\"verse v21\" data-usfm=\"2PE.2.21\"><span class=\"label\">21</span><span class=\"content\">M&#225;s les hubiera valido no conocer el camino de la justicia que abandonarlo despu&#233;s de haber conocido el santo mandamiento que se les dio. </span></span><span class=\"verse v22\" data-usfm=\"2PE.2.22\"><span class=\"label\">22</span><span class=\"content\">En su caso ha sucedido lo que acertadamente afirman estos proverbios: &#171;El </span><span class=\"w\"><span class=\"content\">perro</span></span><span class=\"content\"> vuelve a su v&#243;mito&#187;,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:22 </span><span class=\"ft\">Pr 26:11</span></span></span><span class=\"content\"> y &#171;la puerca lavada, a revolcarse en el lodo&#187;.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Los falsos maestros y su destrucción"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "En el pueblo judío hubo falsos profetas, y también entre vosotros habrá falsos maestros que encubiertamente introducirán herejías destructivas, al extremo de negar al mismo Señor que los rescató. Esto les traerá una pronta destrucción."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Muchos los seguirán en sus prácticas vergonzosas, y por causa de ellos se difamará el camino de la verdad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Llevados por la avaricia, estos maestros os explotarán a vosotros con palabras engañosas. Desde hace mucho tiempo su condenación está preparada y su destrucción los acecha."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Dios no perdonó a los ángeles cuando pecaron, sino que los arrojó al abismo, metiéndolos en tenebrosas cavernas y reservándolos para el juicio."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Tampoco perdonó al mundo antiguo cuando mandó un diluvio sobre los impíos, aunque protegió a ocho personas, incluyendo a Noé, predicador de la justicia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Además, condenó a las ciudades de Sodoma y Gomorra, y las redujo a cenizas, poniéndolas como escarmiento para los impíos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Por otra parte, libró al justo Lot, que se hallaba abrumado por la vida desenfrenada de esos perversos,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "pues este justo, que convivía con ellos y amaba el bien, día tras día sentía que se le despedazaba el alma por las obras inicuas que veía y oía."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Todo esto demuestra que el Señor sabe librar de la prueba a los que viven como Dios quiere, y reservar a los impíos para castigarlos en el día del juicio."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Esto les espera sobre todo a los que siguen los corrompidos deseos de la naturaleza humana y desprecian la autoridad del Señor.",
+            "¡Atrevidos y arrogantes que son! No tienen reparo en insultar a los seres celestiales,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "mientras que los ángeles, a pesar de superarlos en fuerza y en poder, no pronuncian contra tales seres ninguna acusación insultante en la presencia del Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "Pero aquellos blasfeman en asuntos que no entienden. Como animales irracionales, se guían únicamente por el instinto, pues nacieron para ser atrapados y degollados. Lo mismo que esos animales, perecerán también en su corrupción"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "y recibirán el justo pago por sus injusticias. Su concepto de placer es entregarse a las pasiones desenfrenadas en pleno día. Son manchas y suciedad, que gozan de sus placeres mientras os acompañan en vuestras comidas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Tienen los ojos llenos de adulterio y son insaciables en el pecar; seducen a las personas inconstantes; son expertos en la avaricia, ¡hijos de maldición!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "Han abandonado el camino recto, y se han extraviado para seguir la senda de Balán, hijo de Bosor, a quien le encantaba el salario de la injusticia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "Pero fue reprendido por su maldad: su burra —una muda bestia de carga— habló con voz humana y refrenó la locura del profeta."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "Estos individuos son fuentes sin agua, niebla empujada por la tormenta, para quienes está reservada la más densa oscuridad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "Pronunciando discursos arrogantes y sin sentido, seducen con los instintos naturales desenfrenados a quienes apenas comienzan a apartarse de los que viven en el error."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "Les prometen libertad, cuando ellos mismos son esclavos de la corrupción, ya que cada uno es esclavo de aquello que lo ha dominado."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "Si, habiendo escapado de la contaminación del mundo por haber conocido a nuestro Señor y Salvador Jesucristo, vuelven a enredarse en ella y son vencidos, terminan en peores condiciones que al principio."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            21
+          ],
+          "lines": [
+            "Más les hubiera valido no conocer el camino de la justicia que abandonarlo después de haber conocido el santo mandamiento que se les dio."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            22
+          ],
+          "lines": [
+            "En su caso ha sucedido lo que acertadamente afirman estos proverbios: «El perro vuelve a su vómito», y «la puerca lavada, a revolcarse en el lodo»."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "2PE.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "2PE.3"
+        ],
+        "human": "2 Pedro 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "1JN.1"
+        ],
+        "human": "1 Juan 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "2PE.2"
+        ],
+        "human": "2 Pedro 2",
+        "toc": true
+      },
+      "chapter_text": "Queridos hermanos, esta es ya la segunda carta que os escribo. En las dos he procurado refrescaros la memoria para que, con una mente íntegra, recordéis las palabras que los santos profetas pronunciaron en el pasado, y el mandamiento que dio nuestro Señor y Salvador por medio de los apóstoles.\nAnte todo, debéis saber que en los últimos días vendrá gente burlona que, siguiendo sus malos deseos, se mofará: «¿Qué hubo de esa promesa de su venida? Nuestros padres murieron, y nada ha cambiado desde el principio de la creación». Pero intencionadamente olvidan que desde tiempos antiguos, por la palabra de Dios, existía el cielo y también la tierra, que surgió del agua y mediante el agua. Por la palabra y el agua, el mundo de aquel entonces pereció inundado. Y ahora, por esa misma palabra, el cielo y la tierra están guardados para el fuego, reservados para el día del juicio y de la destrucción de los impíos.\nPero no olvidéis, queridos hermanos, que para el Señor un día es como mil años, y mil años, como un día. El Señor no tarda en cumplir su promesa, según entienden algunos la tardanza. Más bien, él tiene paciencia con vosotros, porque no quiere que nadie perezca, sino que todos se arrepientan.\nPero el día del Señor vendrá como un ladrón. En aquel día los cielos desaparecerán con un estruendo espantoso, los elementos serán destruidos por el fuego, y la tierra, con todo lo que hay en ella, será quemada.\nYa que todo será destruido de esa manera, ¿no deberíais vivir como Dios manda, siguiendo una conducta intachable y esperando ansiosamente la venida del día de Dios? Ese día los cielos serán destruidos por el fuego, y los elementos se derretirán con el calor de las llamas. Pero, según su promesa, esperamos un cielo nuevo y una tierra nueva, en los que habite la justicia.\nPor eso, queridos hermanos, mientras esperáis estos acontecimientos, esforzaos para que Dios os halle sin mancha y sin defecto, y en paz con él. Tened presente que la paciencia de nuestro Señor significa salvación, tal como os escribió también nuestro querido hermano Pablo, con la sabiduría que Dios le dio. En todas sus cartas se refiere a estos mismos temas. Hay en ellas algunos puntos difíciles de entender, que los ignorantes e inconstantes tergiversan, como lo hacen también con las demás Escrituras, para su propia perdición.\nAsí que vosotros, queridos hermanos, puesto que ya sabéis esto de antemano, manteneos alerta, no sea que, arrastrados por el error de esos libertinos, perdáis la estabilidad y caigáis. Más bien, creced en la gracia y en el conocimiento de nuestro Señor y Salvador Jesucristo. ¡A él sea la gloria ahora y para siempre! Amén.",
+      "chapter_html": "<div class=\"version vid1637 iso6393spa\" data-vid=\"1637\" data-iso6393=\"spa\">\n   <div class=\"book bk2PE\">\n      <div class=\"chapter ch3\" data-usfm=\"2PE.3\">\n         <div class=\"label\">3</div><div class=\"s1\"><span class=\"heading\">El d&#237;a del Se&#241;or</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"2PE.3.1\"><span class=\"label\">1</span><span class=\"content\">Queridos hermanos, esta es ya la segunda carta que os escribo. En las dos he procurado refrescaros la memoria para que, con una mente &#237;ntegra, </span></span><span class=\"verse v2\" data-usfm=\"2PE.3.2\"><span class=\"label\">2</span><span class=\"content\">record&#233;is las palabras que los </span><span class=\"w\"><span class=\"content\">santos</span></span><span class=\"content\"> profetas pronunciaron en el pasado, y el mandamiento que dio nuestro Se&#241;or y Salvador por medio de los ap&#243;stoles.</span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"2PE.3.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"2PE.3.3\"><span class=\"label\">3</span><span class=\"content\">Ante todo, deb&#233;is saber que en los &#250;ltimos d&#237;as vendr&#225; gente burlona que, siguiendo sus malos deseos, se mofar&#225;: </span></span><span class=\"verse v4\" data-usfm=\"2PE.3.4\"><span class=\"label\">4</span><span class=\"content\">&#171;&#191;Qu&#233; hubo de esa promesa de su venida? Nuestros padres murieron, y nada ha cambiado desde el principio de la creaci&#243;n&#187;. </span></span><span class=\"verse v5\" data-usfm=\"2PE.3.5\"><span class=\"label\">5</span><span class=\"content\">Pero intencionadamente olvidan que desde tiempos antiguos, por la palabra de Dios, exist&#237;a el cielo y tambi&#233;n la tierra, que surgi&#243; del agua y mediante el agua. </span></span><span class=\"verse v6\" data-usfm=\"2PE.3.6\"><span class=\"label\">6</span><span class=\"content\">Por la palabra y el agua, el mundo de aquel entonces pereci&#243; inundado. </span></span><span class=\"verse v7\" data-usfm=\"2PE.3.7\"><span class=\"label\">7</span><span class=\"content\">Y ahora, por esa misma palabra, el cielo y la tierra est&#225;n guardados para el fuego, reservados para el d&#237;a del juicio y de la destrucci&#243;n de los imp&#237;os.</span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"2PE.3.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"2PE.3.8\"><span class=\"label\">8</span><span class=\"content\">Pero no olvid&#233;is, queridos hermanos, que para el Se&#241;or un d&#237;a es como mil a&#241;os, y mil a&#241;os, como un d&#237;a. </span></span><span class=\"verse v9\" data-usfm=\"2PE.3.9\"><span class=\"label\">9</span><span class=\"content\">El Se&#241;or no tarda en cumplir su promesa, seg&#250;n entienden algunos la tardanza. M&#225;s bien, &#233;l tiene paciencia con vosotros, porque no quiere que nadie perezca, sino que todos se </span><span class=\"w\"><span class=\"content\">arrepientan</span></span><span class=\"content\">.</span></span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"2PE.3.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"2PE.3.10\"><span class=\"label\">10</span><span class=\"content\">Pero el d&#237;a del Se&#241;or vendr&#225; como un ladr&#243;n. En aquel d&#237;a los cielos desaparecer&#225;n con un estruendo espantoso, los elementos ser&#225;n destruidos por el fuego, y la tierra, con todo lo que hay en ella, ser&#225; quemada.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:10 </span><span class=\"fq\">ser&#225; quemada</span><span class=\"ft\">. Var. </span><span class=\"fqa\">quedar&#225; al descubierto.</span></span></span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"2PE.3.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"2PE.3.11\"><span class=\"label\">11</span><span class=\"content\">Ya que todo ser&#225; destruido de esa manera, &#191;no deber&#237;ais vivir como Dios manda, siguiendo una conducta intachable </span></span><span class=\"verse v12\" data-usfm=\"2PE.3.12\"><span class=\"label\">12</span><span class=\"content\">y esperando ansiosamente</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:12 </span><span class=\"fq\">esperando ansiosamente</span><span class=\"ft\">. Alt. </span><span class=\"fqa\">esperando y apresurando.</span></span></span><span class=\"content\"> la venida del d&#237;a de Dios? Ese d&#237;a los cielos ser&#225;n destruidos por el fuego, y los elementos se derretir&#225;n con el calor de las llamas. </span></span><span class=\"verse v13\" data-usfm=\"2PE.3.13\"><span class=\"label\">13</span><span class=\"content\">Pero, seg&#250;n su promesa, esperamos un cielo nuevo y una tierra nueva, en los que habite la justicia.</span></span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"2PE.3.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"2PE.3.14\"><span class=\"label\">14</span><span class=\"content\">Por eso, queridos hermanos, mientras esper&#225;is estos acontecimientos, esforzaos para que Dios os halle sin mancha y sin defecto, y en paz con &#233;l. </span></span><span class=\"verse v15\" data-usfm=\"2PE.3.15\"><span class=\"label\">15</span><span class=\"content\">Tened presente que la paciencia de nuestro Se&#241;or significa salvaci&#243;n, tal como os escribi&#243; tambi&#233;n nuestro querido hermano Pablo, con la sabidur&#237;a que Dios le dio. </span></span><span class=\"verse v16\" data-usfm=\"2PE.3.16\"><span class=\"label\">16</span><span class=\"content\">En todas sus cartas se refiere a estos mismos temas. Hay en ellas algunos puntos dif&#237;ciles de entender, que los ignorantes e inconstantes tergiversan, como lo hacen tambi&#233;n con las dem&#225;s Escrituras, para su propia perdici&#243;n.</span></span></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"2PE.3.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"2PE.3.17\"><span class=\"label\">17</span><span class=\"content\">As&#237; que vosotros, queridos hermanos, puesto que ya sab&#233;is esto de antemano, manteneos alerta, no sea que, arrastrados por el error de esos libertinos, perd&#225;is la estabilidad y caig&#225;is. </span></span><span class=\"verse v18\" data-usfm=\"2PE.3.18\"><span class=\"label\">18</span><span class=\"content\">M&#225;s bien, creced en la gracia y en el conocimiento de nuestro Se&#241;or y Salvador </span><span class=\"w\"><span class=\"content\">Jesucristo</span></span><span class=\"content\">. &#161;A &#233;l sea la gloria ahora y para siempre! Am&#233;n.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:18 </span><span class=\"ft\">Var. no incluye: </span><span class=\"fq\">Am&#233;n</span><span class=\"ft\">.</span></span></span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "El día del Señor"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Queridos hermanos, esta es ya la segunda carta que os escribo. En las dos he procurado refrescaros la memoria para que, con una mente íntegra,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "recordéis las palabras que los santos profetas pronunciaron en el pasado, y el mandamiento que dio nuestro Señor y Salvador por medio de los apóstoles."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Ante todo, debéis saber que en los últimos días vendrá gente burlona que, siguiendo sus malos deseos, se mofará:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "«¿Qué hubo de esa promesa de su venida? Nuestros padres murieron, y nada ha cambiado desde el principio de la creación»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Pero intencionadamente olvidan que desde tiempos antiguos, por la palabra de Dios, existía el cielo y también la tierra, que surgió del agua y mediante el agua."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Por la palabra y el agua, el mundo de aquel entonces pereció inundado."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Y ahora, por esa misma palabra, el cielo y la tierra están guardados para el fuego, reservados para el día del juicio y de la destrucción de los impíos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Pero no olvidéis, queridos hermanos, que para el Señor un día es como mil años, y mil años, como un día."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "El Señor no tarda en cumplir su promesa, según entienden algunos la tardanza. Más bien, él tiene paciencia con vosotros, porque no quiere que nadie perezca, sino que todos se arrepientan."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Pero el día del Señor vendrá como un ladrón. En aquel día los cielos desaparecerán con un estruendo espantoso, los elementos serán destruidos por el fuego, y la tierra, con todo lo que hay en ella, será quemada."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Ya que todo será destruido de esa manera, ¿no deberíais vivir como Dios manda, siguiendo una conducta intachable"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "y esperando ansiosamente la venida del día de Dios? Ese día los cielos serán destruidos por el fuego, y los elementos se derretirán con el calor de las llamas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Pero, según su promesa, esperamos un cielo nuevo y una tierra nueva, en los que habite la justicia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Por eso, queridos hermanos, mientras esperáis estos acontecimientos, esforzaos para que Dios os halle sin mancha y sin defecto, y en paz con él."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "Tened presente que la paciencia de nuestro Señor significa salvación, tal como os escribió también nuestro querido hermano Pablo, con la sabiduría que Dios le dio."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "En todas sus cartas se refiere a estos mismos temas. Hay en ellas algunos puntos difíciles de entender, que los ignorantes e inconstantes tergiversan, como lo hacen también con las demás Escrituras, para su propia perdición."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "Así que vosotros, queridos hermanos, puesto que ya sabéis esto de antemano, manteneos alerta, no sea que, arrastrados por el error de esos libertinos, perdáis la estabilidad y caigáis."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "Más bien, creced en la gracia y en el conocimiento de nuestro Señor y Salvador Jesucristo. ¡A él sea la gloria ahora y para siempre! Amén."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

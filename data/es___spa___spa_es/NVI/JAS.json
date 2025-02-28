@@ -1,0 +1,1347 @@
+{
+  "book_usfm": "JAS",
+  "name": "Santiago",
+  "local_title": "Nueva Versión Internacional - Castellano",
+  "local_abbreviation": "NVI",
+  "version_id": 1637,
+  "publisher": {
+    "name": "Biblica, Inc."
+  },
+  "copyright": {
+    "html": "<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>",
+    "text": "Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa_es",
+    "local_name": "Español (España)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/mrk214/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "JAS.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "JAS.1"
+        ],
+        "human": "Santiago 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "JAS.2"
+        ],
+        "human": "Santiago 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "HEB.13"
+        ],
+        "human": "Hebreos 13",
+        "toc": true
+      },
+      "chapter_text": "Santiago, siervo de Dios y del Señor Jesucristo,\n\na las doce tribus que se hallan dispersas por el mundo:\n\nSaludos.\n\nHermanos míos, consideraos muy dichosos cuando tengáis que enfrentaros con diversas pruebas, pues ya sabéis que la prueba de vuestra fe produce constancia. Y la constancia debe llevar a feliz término la obra, para que seáis perfectos e íntegros, sin que os falte nada. Si a alguno de vosotros le falta sabiduría, pídasela a Dios, y él se la dará, pues Dios da a todos generosamente sin menospreciar a nadie. Pero que pida con fe, sin dudar, porque quien duda es como las olas del mar, agitadas y llevadas de un lado a otro por el viento. Quien es así no piense que va a recibir cosa alguna del Señor; es indeciso e inconstante en todo lo que hace.\nEl hermano de condición humilde debe sentirse orgulloso de su alta dignidad, y el rico, de su humilde condición. El rico pasará como la flor del campo. El sol, cuando sale, seca la planta con su calor abrasador. A esta se le cae la flor y pierde su belleza. Así se marchitará también el rico en todas sus empresas.\nDichoso el que resiste la tentación porque, al salir aprobado, recibirá la corona de la vida que Dios ha prometido a quienes le aman.\nQue nadie, al ser tentado, diga: «Es Dios quien me tienta». Porque Dios no puede ser tentado por el mal, ni tampoco tienta él a nadie. Todo lo contrario, cada uno es tentado cuando sus propios malos deseos le arrastran y seducen. Luego, cuando el deseo ha concebido, engendra el pecado; y el pecado, una vez que ha sido consumado, da a luz la muerte.\nMis queridos hermanos, no os engañéis. Toda buena dádiva y todo don perfecto descienden de lo alto, donde está el Padre que creó las lumbreras celestes, y que no cambia como los astros ni se mueve como las sombras. Por su propia voluntad nos hizo nacer mediante la palabra de verdad, para que fuéramos como los primeros y mejores frutos de su creación.\n\nMis queridos hermanos, tened presente esto: Todos debéis estar listos para escuchar, y ser lentos para hablar y para enojaros; pues la ira humana no produce la vida justa que Dios quiere. Por esto, despojaos de toda inmundicia y de la maldad que tanto abunda, para que podáis recibir con humildad la palabra sembrada en vosotros, la cual tiene poder para salvaros la vida.\nNo os contentéis solo con escuchar la palabra, pues así os engañáis vosotros mismos. Llevadla a la práctica. El que escucha la palabra, pero no la pone en práctica es como el que se mira el rostro en un espejo y, después de mirarse, se va y se olvida en seguida de cómo es. Pero quien se fija atentamente en la ley perfecta que da libertad, y persevera en ella, no olvidando lo que ha oído, sino haciéndolo, recibirá bendición al practicarla.\nSi alguien se cree religioso, pero no le pone freno a su lengua, se engaña a sí mismo, y su religión no sirve para nada. La religión pura y sin mancha delante de Dios nuestro Padre es esta: atender a los huérfanos y a las viudas en sus aflicciones, y conservarse limpio de la corrupción del mundo.",
+      "chapter_html": "<div class=\"version vid1637 iso6393spa\" data-vid=\"1637\" data-iso6393=\"spa\">\n   <div class=\"book bkJAS\">\n      <div class=\"chapter ch1\" data-usfm=\"JAS.1\">\n         <div class=\"label\">1</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"JAS.1.1\"><span class=\"label\">1</span><span class=\"content\">  </span><span class=\"w\"><span class=\"content\">Santiago</span></span><span class=\"content\">, </span><span class=\"w\"><span class=\"content\">siervo</span></span><span class=\"content\"> de Dios y del Se&#241;or </span><span class=\"w\"><span class=\"content\">Jesucristo</span></span><span class=\"content\">,</span></span></div><div class=\"b\"></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"JAS.1.1\"><span class=\"content\">a las doce tribus que se hallan dispersas por el mundo:</span></span></div><div class=\"b\"></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"JAS.1.1\"><span class=\"content\">Saludos.</span></span></div><div class=\"s1\"><span class=\"heading\">Pruebas y tentaciones</span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"JAS.1.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"JAS.1.2\"><span class=\"label\">2</span><span class=\"content\">Hermanos m&#237;os, consideraos muy dichosos cuando teng&#225;is que enfrentaros con diversas </span><span class=\"w\"><span class=\"content\">pruebas</span></span><span class=\"content\">, </span></span><span class=\"verse v3\" data-usfm=\"JAS.1.3\"><span class=\"label\">3</span><span class=\"content\">pues ya sab&#233;is que la prueba de vuestra fe produce constancia. </span></span><span class=\"verse v4\" data-usfm=\"JAS.1.4\"><span class=\"label\">4</span><span class=\"content\">Y la constancia debe llevar a feliz t&#233;rmino la obra, para que se&#225;is </span><span class=\"w\"><span class=\"content\">perfectos</span></span><span class=\"content\"> e &#237;ntegros, sin que os falte nada. </span></span><span class=\"verse v5\" data-usfm=\"JAS.1.5\"><span class=\"label\">5</span><span class=\"content\">Si a alguno de vosotros le falta sabidur&#237;a, p&#237;dasela a Dios, y &#233;l se la dar&#225;, pues Dios da a todos generosamente sin menospreciar a nadie. </span></span><span class=\"verse v6\" data-usfm=\"JAS.1.6\"><span class=\"label\">6</span><span class=\"content\">Pero que pida con fe, sin dudar, porque quien duda es como las olas del mar, agitadas y llevadas de un lado a otro por el viento. </span></span><span class=\"verse v7\" data-usfm=\"JAS.1.7\"><span class=\"label\">7</span><span class=\"content\">Quien es as&#237; no piense que va a recibir cosa alguna del Se&#241;or; </span></span><span class=\"verse v8\" data-usfm=\"JAS.1.8\"><span class=\"label\">8</span><span class=\"content\">es indeciso e inconstante en todo lo que hace.</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"JAS.1.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"JAS.1.9\"><span class=\"label\">9</span><span class=\"content\">El hermano de condici&#243;n humilde debe sentirse </span><span class=\"w\"><span class=\"content\">orgulloso</span></span><span class=\"content\"> de su alta dignidad, </span></span><span class=\"verse v10\" data-usfm=\"JAS.1.10\"><span class=\"label\">10</span><span class=\"content\">y el rico, de su humilde condici&#243;n. El rico pasar&#225; como la flor del campo. </span></span><span class=\"verse v11\" data-usfm=\"JAS.1.11\"><span class=\"label\">11</span><span class=\"content\">El sol, cuando sale, seca la planta con su calor abrasador. A esta se le cae la flor y pierde su belleza. As&#237; se marchitar&#225; tambi&#233;n el rico en todas sus empresas.</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"JAS.1.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"JAS.1.12\"><span class=\"label\">12</span><span class=\"content\">  </span><span class=\"w\"><span class=\"content\">Dichoso</span></span><span class=\"content\"> el que resiste la </span><span class=\"w\"><span class=\"content\">tentaci&#243;n</span></span><span class=\"content\"> porque, al salir aprobado, recibir&#225; la corona de la vida que Dios ha prometido a quienes le aman.</span></span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"JAS.1.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"JAS.1.13\"><span class=\"label\">13</span><span class=\"content\">Que nadie, al ser tentado, diga: &#171;Es Dios quien me tienta&#187;. Porque Dios no puede ser tentado por el mal, ni tampoco tienta &#233;l a nadie. </span></span><span class=\"verse v14\" data-usfm=\"JAS.1.14\"><span class=\"label\">14</span><span class=\"content\">Todo lo contrario, cada uno es tentado cuando sus propios malos deseos le arrastran y seducen. </span></span><span class=\"verse v15\" data-usfm=\"JAS.1.15\"><span class=\"label\">15</span><span class=\"content\">Luego, cuando el deseo ha concebido, engendra el pecado; y el pecado, una vez que ha sido consumado, da a luz la muerte.</span></span></div><div class=\"p\"><span class=\"verse v15\" data-usfm=\"JAS.1.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"JAS.1.16\"><span class=\"label\">16</span><span class=\"content\">Mis queridos hermanos, no os enga&#241;&#233;is. </span></span><span class=\"verse v17\" data-usfm=\"JAS.1.17\"><span class=\"label\">17</span><span class=\"content\">Toda buena d&#225;diva y todo don perfecto descienden de lo alto, donde est&#225; el Padre que cre&#243; las lumbreras celestes, y que no cambia como los astros ni se mueve como las sombras. </span></span><span class=\"verse v18\" data-usfm=\"JAS.1.18\"><span class=\"label\">18</span><span class=\"content\">Por su propia voluntad nos hizo nacer mediante la palabra de verdad, para que fu&#233;ramos como los primeros y mejores frutos de su creaci&#243;n.</span></span></div><div class=\"s1\"><span class=\"heading\">Hay que poner en pr&#225;ctica la palabra</span></div><div class=\"p\"><span class=\"verse v18\" data-usfm=\"JAS.1.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"JAS.1.19\"><span class=\"label\">19</span><span class=\"content\">Mis queridos hermanos, tened presente esto: Todos deb&#233;is estar listos para escuchar, y ser lentos para hablar y para enojaros; </span></span><span class=\"verse v20\" data-usfm=\"JAS.1.20\"><span class=\"label\">20</span><span class=\"content\">pues la ira </span><span class=\"w\"><span class=\"content\">humana</span></span><span class=\"content\"> no produce la vida justa que Dios quiere. </span></span><span class=\"verse v21\" data-usfm=\"JAS.1.21\"><span class=\"label\">21</span><span class=\"content\">Por esto, despojaos de toda inmundicia y de la maldad que tanto abunda, para que pod&#225;is recibir con humildad la palabra sembrada en vosotros, la cual tiene poder para salvaros la </span><span class=\"w\"><span class=\"content\">vida</span></span><span class=\"content\">.</span></span></div><div class=\"p\"><span class=\"verse v21\" data-usfm=\"JAS.1.21\"><span class=\"content\">  </span></span><span class=\"verse v22\" data-usfm=\"JAS.1.22\"><span class=\"label\">22</span><span class=\"content\">No os content&#233;is solo con escuchar la palabra, pues as&#237; os enga&#241;&#225;is vosotros mismos. Llevadla a la pr&#225;ctica. </span></span><span class=\"verse v23\" data-usfm=\"JAS.1.23\"><span class=\"label\">23</span><span class=\"content\">El que escucha la palabra, pero no la pone en pr&#225;ctica es como el que se mira el rostro en un espejo </span></span><span class=\"verse v24\" data-usfm=\"JAS.1.24\"><span class=\"label\">24</span><span class=\"content\">y, despu&#233;s de mirarse, se va y se olvida en seguida de c&#243;mo es. </span></span><span class=\"verse v25\" data-usfm=\"JAS.1.25\"><span class=\"label\">25</span><span class=\"content\">Pero quien se fija atentamente en la ley perfecta que da libertad, y persevera en ella, no olvidando lo que ha o&#237;do, sino haci&#233;ndolo, recibir&#225; bendici&#243;n al practicarla.</span></span></div><div class=\"p\"><span class=\"verse v25\" data-usfm=\"JAS.1.25\"><span class=\"content\">  </span></span><span class=\"verse v26\" data-usfm=\"JAS.1.26\"><span class=\"label\">26</span><span class=\"content\">Si alguien se cree religioso, pero no le pone freno a su lengua, se enga&#241;a a s&#237; mismo, y su religi&#243;n no sirve para nada. </span></span><span class=\"verse v27\" data-usfm=\"JAS.1.27\"><span class=\"label\">27</span><span class=\"content\">La religi&#243;n pura y sin mancha delante de Dios nuestro Padre es esta: atender a los hu&#233;rfanos y a las viudas en sus aflicciones, y conservarse limpio de la corrupci&#243;n del mundo.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Santiago, siervo de Dios y del Señor Jesucristo,",
+            "a las doce tribus que se hallan dispersas por el mundo:",
+            "Saludos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Pruebas y tentaciones"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Hermanos míos, consideraos muy dichosos cuando tengáis que enfrentaros con diversas pruebas,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "pues ya sabéis que la prueba de vuestra fe produce constancia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Y la constancia debe llevar a feliz término la obra, para que seáis perfectos e íntegros, sin que os falte nada."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Si a alguno de vosotros le falta sabiduría, pídasela a Dios, y él se la dará, pues Dios da a todos generosamente sin menospreciar a nadie."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Pero que pida con fe, sin dudar, porque quien duda es como las olas del mar, agitadas y llevadas de un lado a otro por el viento."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Quien es así no piense que va a recibir cosa alguna del Señor;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "es indeciso e inconstante en todo lo que hace."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "El hermano de condición humilde debe sentirse orgulloso de su alta dignidad,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "y el rico, de su humilde condición. El rico pasará como la flor del campo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "El sol, cuando sale, seca la planta con su calor abrasador. A esta se le cae la flor y pierde su belleza. Así se marchitará también el rico en todas sus empresas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "Dichoso el que resiste la tentación porque, al salir aprobado, recibirá la corona de la vida que Dios ha prometido a quienes le aman."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Que nadie, al ser tentado, diga: «Es Dios quien me tienta». Porque Dios no puede ser tentado por el mal, ni tampoco tienta él a nadie."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Todo lo contrario, cada uno es tentado cuando sus propios malos deseos le arrastran y seducen."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "Luego, cuando el deseo ha concebido, engendra el pecado; y el pecado, una vez que ha sido consumado, da a luz la muerte."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "Mis queridos hermanos, no os engañéis."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "Toda buena dádiva y todo don perfecto descienden de lo alto, donde está el Padre que creó las lumbreras celestes, y que no cambia como los astros ni se mueve como las sombras."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "Por su propia voluntad nos hizo nacer mediante la palabra de verdad, para que fuéramos como los primeros y mejores frutos de su creación."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Hay que poner en práctica la palabra"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "Mis queridos hermanos, tened presente esto: Todos debéis estar listos para escuchar, y ser lentos para hablar y para enojaros;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "pues la ira humana no produce la vida justa que Dios quiere."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            21
+          ],
+          "lines": [
+            "Por esto, despojaos de toda inmundicia y de la maldad que tanto abunda, para que podáis recibir con humildad la palabra sembrada en vosotros, la cual tiene poder para salvaros la vida."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            22
+          ],
+          "lines": [
+            "No os contentéis solo con escuchar la palabra, pues así os engañáis vosotros mismos. Llevadla a la práctica."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            23
+          ],
+          "lines": [
+            "El que escucha la palabra, pero no la pone en práctica es como el que se mira el rostro en un espejo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            24
+          ],
+          "lines": [
+            "y, después de mirarse, se va y se olvida en seguida de cómo es."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            25
+          ],
+          "lines": [
+            "Pero quien se fija atentamente en la ley perfecta que da libertad, y persevera en ella, no olvidando lo que ha oído, sino haciéndolo, recibirá bendición al practicarla."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            26
+          ],
+          "lines": [
+            "Si alguien se cree religioso, pero no le pone freno a su lengua, se engaña a sí mismo, y su religión no sirve para nada."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            27
+          ],
+          "lines": [
+            "La religión pura y sin mancha delante de Dios nuestro Padre es esta: atender a los huérfanos y a las viudas en sus aflicciones, y conservarse limpio de la corrupción del mundo."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "JAS.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "JAS.2"
+        ],
+        "human": "Santiago 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "JAS.3"
+        ],
+        "human": "Santiago 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "JAS.1"
+        ],
+        "human": "Santiago 1",
+        "toc": true
+      },
+      "chapter_text": "Hermanos míos, la fe que tenéis en nuestro glorioso Señor Jesucristo no debe dar lugar a favoritismos. Supongamos que en el lugar donde os reunís entra un hombre con anillo de oro y ropa elegante, y entra también un pobre desharrapado. Si atendéis bien al que lleva ropa elegante y le decís: «Siéntate aquí, en este lugar cómodo», pero al pobre le decís: «Quédate ahí de pie» o «Siéntate en el suelo, a mis pies», ¿acaso no hacéis discriminación entre vosotros, juzgando con malas intenciones?\nEscuchad, mis queridos hermanos: ¿No ha escogido Dios a los que son pobres según el mundo para que sean ricos en la fe y hereden el reino que prometió a quienes le aman? ¡Pero vosotros habéis menospreciado al pobre! ¿No son los ricos quienes os explotan y os arrastran ante los tribunales? ¿No son ellos los que blasfeman el buen nombre de aquel a quien pertenecéis?\nHacéis muy bien si de veras cumplís la ley suprema de la Escritura: «Ama a tu prójimo como a ti mismo»; pero, si mostráis algún favoritismo, pecáis y sois culpables, pues la misma ley os acusa de ser transgresores. Porque el que cumple con toda la ley, pero falla en un solo punto ya es culpable de haberla quebrantado toda. Pues el que dijo: «No cometas adulterio», también dijo: «No mates». Si no cometes adulterio, pero matas, ya has violado la ley.\nHablad y portaos como quienes han de ser juzgados por la ley que nos da libertad, porque habrá un juicio sin compasión para el que actúe sin compasión. ¡La compasión triunfa en el juicio!\n\nHermanos míos, ¿de qué le sirve a uno alegar que tiene fe si no tiene obras? ¿Acaso podrá salvarle esa fe? Supongamos que un hermano o una hermana no tienen con qué vestirse y carecen del alimento diario, y uno de vosotros les dice: «Que os vaya bien; abrigaos y comed hasta saciaros», pero no les da lo necesario para el cuerpo. ¿De qué servirá eso? Así también la fe por sí sola, si no tiene obras, está muerta.\nSin embargo, alguien dirá: «Tú tienes fe, y yo tengo obras».\nPues bien, muéstrame tu fe sin las obras, y yo te mostraré la fe por mis obras. ¿Tú crees que hay un solo Dios? ¡Magnífico! También los demonios lo creen, y tiemblan.\n¡Qué tonto eres! ¿Quieres convencerte de que la fe sin obras es estéril? ¿No fue declarado justo nuestro padre Abraham por lo que hizo cuando ofreció sobre el altar a su hijo Isaac? Ya lo ves: Su fe y sus obras actuaban conjuntamente, y su fe llegó a la perfección por las obras que hizo. Así se cumplió la Escritura que dice: «Creyó Abraham a Dios, y esto se le tomó en cuenta como justicia», y fue llamado amigo de Dios. Como podéis ver, a una persona se la declara justa por las obras, y no solo por la fe.\nDe igual manera, ¿no fue declarada justa por las obras aun la prostituta Rajab, cuando hospedó a los espías y les ayudó a huir por otro camino? Pues, como el cuerpo sin el espíritu está muerto, así también la fe sin obras está muerta.",
+      "chapter_html": "<div class=\"version vid1637 iso6393spa\" data-vid=\"1637\" data-iso6393=\"spa\">\n   <div class=\"book bkJAS\">\n      <div class=\"chapter ch2\" data-usfm=\"JAS.2\">\n         <div class=\"label\">2</div><div class=\"s1\"><span class=\"heading\">Prohibici&#243;n del favoritismo</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"JAS.2.1\"><span class=\"label\">1</span><span class=\"content\">Hermanos m&#237;os, la fe que ten&#233;is en nuestro glorioso Se&#241;or </span><span class=\"w\"><span class=\"content\">Jesucristo</span></span><span class=\"content\"> no debe dar lugar a favoritismos. </span></span><span class=\"verse v2\" data-usfm=\"JAS.2.2\"><span class=\"label\">2</span><span class=\"content\">Supongamos que en el lugar donde os reun&#237;s entra un hombre con anillo de oro y ropa elegante, y entra tambi&#233;n un pobre desharrapado. </span></span><span class=\"verse v3\" data-usfm=\"JAS.2.3\"><span class=\"label\">3</span><span class=\"content\">Si atend&#233;is bien al que lleva ropa elegante y le dec&#237;s: &#171;Si&#233;ntate aqu&#237;, en este lugar c&#243;modo&#187;, pero al pobre le dec&#237;s: &#171;Qu&#233;date ah&#237; de pie&#187; o &#171;Si&#233;ntate en el suelo, a mis pies&#187;, </span></span><span class=\"verse v4\" data-usfm=\"JAS.2.4\"><span class=\"label\">4</span><span class=\"content\">&#191;acaso no hac&#233;is discriminaci&#243;n entre vosotros, juzgando con malas intenciones?</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"JAS.2.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"JAS.2.5\"><span class=\"label\">5</span><span class=\"content\">Escuchad, mis queridos hermanos: &#191;No ha escogido Dios a los que son pobres seg&#250;n el mundo para que sean ricos en la fe y hereden el reino que prometi&#243; a quienes le aman? </span></span><span class=\"verse v6\" data-usfm=\"JAS.2.6\"><span class=\"label\">6</span><span class=\"content\">&#161;Pero vosotros hab&#233;is menospreciado al pobre! &#191;No son los ricos quienes os explotan y os arrastran ante los tribunales? </span></span><span class=\"verse v7\" data-usfm=\"JAS.2.7\"><span class=\"label\">7</span><span class=\"content\">&#191;No son ellos los que </span><span class=\"w\"><span class=\"content\">blasfeman</span></span><span class=\"content\"> el buen nombre de aquel a quien pertenec&#233;is?</span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"JAS.2.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"JAS.2.8\"><span class=\"label\">8</span><span class=\"content\">Hac&#233;is muy bien si de veras cumpl&#237;s la ley suprema de la Escritura: &#171;Ama a tu pr&#243;jimo como a ti mismo&#187;;</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:8 </span><span class=\"ft\">Lv 19:18</span></span></span><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"JAS.2.9\"><span class=\"label\">9</span><span class=\"content\">pero, si mostr&#225;is alg&#250;n favoritismo, pec&#225;is y sois culpables, pues la misma ley os acusa de ser transgresores. </span></span><span class=\"verse v10\" data-usfm=\"JAS.2.10\"><span class=\"label\">10</span><span class=\"content\">Porque el que cumple con toda la ley, pero falla en un solo punto ya es culpable de haberla quebrantado toda. </span></span><span class=\"verse v11\" data-usfm=\"JAS.2.11\"><span class=\"label\">11</span><span class=\"content\">Pues el que dijo: &#171;No cometas adulterio&#187;,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:11 </span><span class=\"ft\">&#201;x 20:14; Dt 5:18</span></span></span><span class=\"content\"> tambi&#233;n dijo: &#171;No mates&#187;.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:11 </span><span class=\"ft\">&#201;x 20:13; Dt 5:17</span></span></span><span class=\"content\"> Si no cometes adulterio, pero matas, ya has violado la ley.</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"JAS.2.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"JAS.2.12\"><span class=\"label\">12</span><span class=\"content\">Hablad y portaos como quienes han de ser juzgados por la ley que nos da libertad, </span></span><span class=\"verse v13\" data-usfm=\"JAS.2.13\"><span class=\"label\">13</span><span class=\"content\">porque habr&#225; un juicio sin compasi&#243;n para el que act&#250;e sin compasi&#243;n. &#161;La compasi&#243;n triunfa en el juicio!</span></span></div><div class=\"s1\"><span class=\"heading\">La fe y las obras</span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"JAS.2.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"JAS.2.14\"><span class=\"label\">14</span><span class=\"content\">Hermanos m&#237;os, &#191;de qu&#233; le sirve a uno alegar que tiene fe si no tiene obras? &#191;Acaso podr&#225; salvarle esa fe? </span></span><span class=\"verse v15\" data-usfm=\"JAS.2.15\"><span class=\"label\">15</span><span class=\"content\">Supongamos que un hermano o una hermana no tienen con qu&#233; vestirse y carecen del alimento diario, </span></span><span class=\"verse v16\" data-usfm=\"JAS.2.16\"><span class=\"label\">16</span><span class=\"content\">y uno de vosotros les dice: &#171;Que os vaya bien; abrigaos y comed hasta saciaros&#187;, pero no les da lo necesario para el cuerpo. &#191;De qu&#233; servir&#225; eso? </span></span><span class=\"verse v17\" data-usfm=\"JAS.2.17\"><span class=\"label\">17</span><span class=\"content\">As&#237; tambi&#233;n la fe por s&#237; sola, si no tiene obras, est&#225; muerta.</span></span></div><div class=\"p\"><span class=\"verse v17\" data-usfm=\"JAS.2.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"JAS.2.18\"><span class=\"label\">18</span><span class=\"content\">Sin embargo, alguien dir&#225;: &#171;T&#250; tienes fe, y yo tengo obras&#187;.</span></span></div><div class=\"p\"><span class=\"verse v18\" data-usfm=\"JAS.2.18\"><span class=\"content\">Pues bien, mu&#233;strame tu fe sin las obras, y yo te mostrar&#233; la fe por mis obras. </span></span><span class=\"verse v19\" data-usfm=\"JAS.2.19\"><span class=\"label\">19</span><span class=\"content\">&#191;T&#250; crees que hay un solo Dios? &#161;Magn&#237;fico! Tambi&#233;n los demonios lo creen, y tiemblan.</span></span></div><div class=\"p\"><span class=\"verse v19\" data-usfm=\"JAS.2.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"JAS.2.20\"><span class=\"label\">20</span><span class=\"content\">&#161;Qu&#233; tonto eres! &#191;Quieres convencerte de que la fe sin obras es est&#233;ril?</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:20 </span><span class=\"fq\">es est&#233;ril</span><span class=\"ft\">. Var. </span><span class=\"fqa\">est&#225; muerta.</span></span></span><span class=\"content\">  </span></span><span class=\"verse v21\" data-usfm=\"JAS.2.21\"><span class=\"label\">21</span><span class=\"content\">&#191;No fue declarado justo nuestro padre Abraham por lo que hizo cuando ofreci&#243; sobre el altar a su hijo Isaac? </span></span><span class=\"verse v22\" data-usfm=\"JAS.2.22\"><span class=\"label\">22</span><span class=\"content\">Ya lo ves: Su fe y sus obras actuaban conjuntamente, y su fe lleg&#243; a la </span><span class=\"w\"><span class=\"content\">perfecci&#243;n</span></span><span class=\"content\"> por las obras que hizo. </span></span><span class=\"verse v23\" data-usfm=\"JAS.2.23\"><span class=\"label\">23</span><span class=\"content\">As&#237; se cumpli&#243; la Escritura que dice: &#171;Crey&#243; Abraham a Dios, y esto se le tom&#243; en cuenta como justicia&#187;,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:23 </span><span class=\"ft\">Gn 15:6</span></span></span><span class=\"content\"> y fue llamado amigo de Dios. </span></span><span class=\"verse v24\" data-usfm=\"JAS.2.24\"><span class=\"label\">24</span><span class=\"content\">Como pod&#233;is ver, a una persona se la declara justa por las obras, y no solo por la fe.</span></span></div><div class=\"p\"><span class=\"verse v24\" data-usfm=\"JAS.2.24\"><span class=\"content\">  </span></span><span class=\"verse v25\" data-usfm=\"JAS.2.25\"><span class=\"label\">25</span><span class=\"content\">De igual manera, &#191;no fue declarada justa por las obras aun la prostituta Rajab, cuando hosped&#243; a los esp&#237;as y les ayud&#243; a huir por otro camino? </span></span><span class=\"verse v26\" data-usfm=\"JAS.2.26\"><span class=\"label\">26</span><span class=\"content\">Pues, como el cuerpo sin el esp&#237;ritu est&#225; muerto, as&#237; tambi&#233;n la fe sin obras est&#225; muerta.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Prohibición del favoritismo"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Hermanos míos, la fe que tenéis en nuestro glorioso Señor Jesucristo no debe dar lugar a favoritismos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Supongamos que en el lugar donde os reunís entra un hombre con anillo de oro y ropa elegante, y entra también un pobre desharrapado."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Si atendéis bien al que lleva ropa elegante y le decís: «Siéntate aquí, en este lugar cómodo», pero al pobre le decís: «Quédate ahí de pie» o «Siéntate en el suelo, a mis pies»,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "¿acaso no hacéis discriminación entre vosotros, juzgando con malas intenciones?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Escuchad, mis queridos hermanos: ¿No ha escogido Dios a los que son pobres según el mundo para que sean ricos en la fe y hereden el reino que prometió a quienes le aman?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "¡Pero vosotros habéis menospreciado al pobre! ¿No son los ricos quienes os explotan y os arrastran ante los tribunales?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "¿No son ellos los que blasfeman el buen nombre de aquel a quien pertenecéis?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Hacéis muy bien si de veras cumplís la ley suprema de la Escritura: «Ama a tu prójimo como a ti mismo»;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "pero, si mostráis algún favoritismo, pecáis y sois culpables, pues la misma ley os acusa de ser transgresores."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Porque el que cumple con toda la ley, pero falla en un solo punto ya es culpable de haberla quebrantado toda."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Pues el que dijo: «No cometas adulterio», también dijo: «No mates». Si no cometes adulterio, pero matas, ya has violado la ley."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "Hablad y portaos como quienes han de ser juzgados por la ley que nos da libertad,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "porque habrá un juicio sin compasión para el que actúe sin compasión. ¡La compasión triunfa en el juicio!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "La fe y las obras"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Hermanos míos, ¿de qué le sirve a uno alegar que tiene fe si no tiene obras? ¿Acaso podrá salvarle esa fe?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "Supongamos que un hermano o una hermana no tienen con qué vestirse y carecen del alimento diario,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "y uno de vosotros les dice: «Que os vaya bien; abrigaos y comed hasta saciaros», pero no les da lo necesario para el cuerpo. ¿De qué servirá eso?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "Así también la fe por sí sola, si no tiene obras, está muerta."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "Sin embargo, alguien dirá: «Tú tienes fe, y yo tengo obras».",
+            "Pues bien, muéstrame tu fe sin las obras, y yo te mostraré la fe por mis obras."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "¿Tú crees que hay un solo Dios? ¡Magnífico! También los demonios lo creen, y tiemblan."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "¡Qué tonto eres! ¿Quieres convencerte de que la fe sin obras es estéril?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            21
+          ],
+          "lines": [
+            "¿No fue declarado justo nuestro padre Abraham por lo que hizo cuando ofreció sobre el altar a su hijo Isaac?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            22
+          ],
+          "lines": [
+            "Ya lo ves: Su fe y sus obras actuaban conjuntamente, y su fe llegó a la perfección por las obras que hizo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            23
+          ],
+          "lines": [
+            "Así se cumplió la Escritura que dice: «Creyó Abraham a Dios, y esto se le tomó en cuenta como justicia», y fue llamado amigo de Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            24
+          ],
+          "lines": [
+            "Como podéis ver, a una persona se la declara justa por las obras, y no solo por la fe."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            25
+          ],
+          "lines": [
+            "De igual manera, ¿no fue declarada justa por las obras aun la prostituta Rajab, cuando hospedó a los espías y les ayudó a huir por otro camino?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            26
+          ],
+          "lines": [
+            "Pues, como el cuerpo sin el espíritu está muerto, así también la fe sin obras está muerta."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "JAS.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "JAS.3"
+        ],
+        "human": "Santiago 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "JAS.4"
+        ],
+        "human": "Santiago 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "JAS.2"
+        ],
+        "human": "Santiago 2",
+        "toc": true
+      },
+      "chapter_text": "Hermanos míos, no pretendáis muchos de vosotros ser maestros, pues, como sabéis, seremos juzgados con más severidad. Todos fallamos mucho. Si alguien nunca falla en lo que dice, es una persona perfecta, capaz también de controlar todo su cuerpo.\nCuando ponemos freno en la boca de los caballos para que nos obedezcan, podemos controlar todo el animal. Fijaos también en los barcos. A pesar de ser tan grandes y de ser impulsados por fuertes vientos, se gobiernan por un pequeño timón a voluntad del piloto. Así también la lengua es un miembro muy pequeño del cuerpo, pero hace alarde de grandes hazañas. ¡Imaginaos qué gran bosque se incendia con tan pequeña chispa! También la lengua es un fuego, un mundo de maldad. Siendo uno de nuestros órganos, contamina todo el cuerpo y, encendida por el infierno, prende a su vez fuego a todo el curso de la vida.\nEl ser humano sabe domar y, en efecto, ha domado toda clase de fieras, de aves, de reptiles y de bestias marinas; pero nadie puede domar la lengua. Es un mal irrefrenable, lleno de veneno mortal.\nCon la lengua bendecimos a nuestro Señor y Padre, y con ella maldecimos a las personas, creadas a imagen de Dios. De una misma boca salen bendición y maldición. Hermanos míos, esto no debe ser así. ¿Puede acaso brotar de una misma fuente agua dulce y agua salada? Hermanos míos, ¿acaso puede dar aceitunas una higuera o higos una vid? Pues tampoco una fuente de agua salada puede dar agua dulce.\n\n¿Quién es sabio y entendido entre vosotros? Que lo demuestre con su buena conducta, mediante obras hechas con la humildad que le da su sabiduría. Pero, si tenéis envidias amargas y rivalidades en el corazón, dejad de presumir y de faltar a la verdad. Esa no es la sabiduría que desciende del cielo, sino que es terrenal, puramente humana y diabólica. Porque donde hay envidias y rivalidades, también hay confusión y toda clase de acciones malvadas.\nEn cambio, la sabiduría que desciende del cielo es ante todo pura, y además pacífica, bondadosa, dócil, llena de compasión y de buenos frutos, imparcial y sincera. En fin, el fruto de la justicia se siembra en paz para los que hacen la paz.",
+      "chapter_html": "<div class=\"version vid1637 iso6393spa\" data-vid=\"1637\" data-iso6393=\"spa\">\n   <div class=\"book bkJAS\">\n      <div class=\"chapter ch3\" data-usfm=\"JAS.3\">\n         <div class=\"label\">3</div><div class=\"s1\"><span class=\"heading\">Hay que domar la lengua</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"JAS.3.1\"><span class=\"label\">1</span><span class=\"content\">Hermanos m&#237;os, no pretend&#225;is muchos de vosotros ser maestros, pues, como sab&#233;is, seremos juzgados con m&#225;s severidad. </span></span><span class=\"verse v2\" data-usfm=\"JAS.3.2\"><span class=\"label\">2</span><span class=\"content\">Todos fallamos mucho. Si alguien nunca falla en lo que dice, es una persona </span><span class=\"w\"><span class=\"content\">perfecta</span></span><span class=\"content\">, capaz tambi&#233;n de controlar todo su cuerpo.</span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"JAS.3.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"JAS.3.3\"><span class=\"label\">3</span><span class=\"content\">Cuando ponemos freno en la boca de los caballos para que nos obedezcan, podemos controlar todo el animal. </span></span><span class=\"verse v4\" data-usfm=\"JAS.3.4\"><span class=\"label\">4</span><span class=\"content\">Fijaos tambi&#233;n en los barcos. A pesar de ser tan grandes y de ser impulsados por fuertes vientos, se gobiernan por un peque&#241;o tim&#243;n a voluntad del piloto. </span></span><span class=\"verse v5\" data-usfm=\"JAS.3.5\"><span class=\"label\">5</span><span class=\"content\">As&#237; tambi&#233;n la lengua es un miembro muy peque&#241;o del cuerpo, pero hace alarde de grandes haza&#241;as. &#161;Imaginaos qu&#233; gran bosque se incendia con tan peque&#241;a chispa! </span></span><span class=\"verse v6\" data-usfm=\"JAS.3.6\"><span class=\"label\">6</span><span class=\"content\">Tambi&#233;n la lengua es un fuego, un mundo de maldad. Siendo uno de nuestros &#243;rganos, contamina todo el cuerpo y, encendida por el infierno,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:6 </span><span class=\"fq\">el infierno</span><span class=\"ft\">. Lit. </span><span class=\"fqa\">la <span class=\"w\">Gehenna</span>.</span></span></span><span class=\"content\"> prende a su vez fuego a todo el curso de la vida.</span></span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"JAS.3.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"JAS.3.7\"><span class=\"label\">7</span><span class=\"content\">El </span><span class=\"w\"><span class=\"content\">ser humano</span></span><span class=\"content\"> sabe domar y, en efecto, ha domado toda clase de fieras, de aves, de reptiles y de bestias marinas; </span></span><span class=\"verse v8\" data-usfm=\"JAS.3.8\"><span class=\"label\">8</span><span class=\"content\">pero nadie puede domar la lengua. Es un mal irrefrenable, lleno de veneno mortal.</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"JAS.3.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"JAS.3.9\"><span class=\"label\">9</span><span class=\"content\">Con la lengua bendecimos a nuestro Se&#241;or y Padre, y con ella maldecimos a las personas, creadas a imagen de Dios. </span></span><span class=\"verse v10\" data-usfm=\"JAS.3.10\"><span class=\"label\">10</span><span class=\"content\">De una misma boca salen bendici&#243;n y maldici&#243;n. Hermanos m&#237;os, esto no debe ser as&#237;. </span></span><span class=\"verse v11\" data-usfm=\"JAS.3.11\"><span class=\"label\">11</span><span class=\"content\">&#191;Puede acaso brotar de una misma fuente agua dulce y agua salada?</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:11 </span><span class=\"fq\">salada</span><span class=\"ft\">. Lit. </span><span class=\"fqa\">amarga </span><span class=\"ft\">(v&#233;ase tambi&#233;n v. 12).</span></span></span><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"JAS.3.12\"><span class=\"label\">12</span><span class=\"content\">Hermanos m&#237;os, &#191;acaso puede dar aceitunas una higuera o higos una vid? Pues tampoco una fuente de agua salada puede dar agua dulce.</span></span></div><div class=\"s1\"><span class=\"heading\">Dos clases de sabidur&#237;a</span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"JAS.3.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"JAS.3.13\"><span class=\"label\">13</span><span class=\"content\">&#191;Qui&#233;n es sabio y entendido entre vosotros? Que lo demuestre con su buena conducta, mediante obras hechas con la humildad que le da su sabidur&#237;a. </span></span><span class=\"verse v14\" data-usfm=\"JAS.3.14\"><span class=\"label\">14</span><span class=\"content\">Pero, si ten&#233;is envidias amargas y rivalidades en el coraz&#243;n, dejad de presumir y de faltar a la verdad. </span></span><span class=\"verse v15\" data-usfm=\"JAS.3.15\"><span class=\"label\">15</span><span class=\"content\">Esa no es la sabidur&#237;a que desciende del cielo, sino que es terrenal, puramente </span><span class=\"w\"><span class=\"content\">humana</span></span><span class=\"content\"> y diab&#243;lica. </span></span><span class=\"verse v16\" data-usfm=\"JAS.3.16\"><span class=\"label\">16</span><span class=\"content\">Porque donde hay envidias y rivalidades, tambi&#233;n hay confusi&#243;n y toda clase de acciones malvadas.</span></span></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"JAS.3.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"JAS.3.17\"><span class=\"label\">17</span><span class=\"content\">En cambio, la sabidur&#237;a que desciende del cielo es ante todo pura, y adem&#225;s pac&#237;fica, bondadosa, d&#243;cil, llena de compasi&#243;n y de buenos frutos, imparcial y sincera. </span></span><span class=\"verse v18\" data-usfm=\"JAS.3.18\"><span class=\"label\">18</span><span class=\"content\">En fin, el fruto de la justicia se siembra en paz para</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:18 </span><span class=\"fq\">para</span><span class=\"ft\">. Alt. </span><span class=\"fqa\">por.</span></span></span><span class=\"content\"> los que hacen la paz.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Hay que domar la lengua"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Hermanos míos, no pretendáis muchos de vosotros ser maestros, pues, como sabéis, seremos juzgados con más severidad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Todos fallamos mucho. Si alguien nunca falla en lo que dice, es una persona perfecta, capaz también de controlar todo su cuerpo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Cuando ponemos freno en la boca de los caballos para que nos obedezcan, podemos controlar todo el animal."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Fijaos también en los barcos. A pesar de ser tan grandes y de ser impulsados por fuertes vientos, se gobiernan por un pequeño timón a voluntad del piloto."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Así también la lengua es un miembro muy pequeño del cuerpo, pero hace alarde de grandes hazañas. ¡Imaginaos qué gran bosque se incendia con tan pequeña chispa!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "También la lengua es un fuego, un mundo de maldad. Siendo uno de nuestros órganos, contamina todo el cuerpo y, encendida por el infierno, prende a su vez fuego a todo el curso de la vida."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "El ser humano sabe domar y, en efecto, ha domado toda clase de fieras, de aves, de reptiles y de bestias marinas;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "pero nadie puede domar la lengua. Es un mal irrefrenable, lleno de veneno mortal."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Con la lengua bendecimos a nuestro Señor y Padre, y con ella maldecimos a las personas, creadas a imagen de Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "De una misma boca salen bendición y maldición. Hermanos míos, esto no debe ser así."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "¿Puede acaso brotar de una misma fuente agua dulce y agua salada?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "Hermanos míos, ¿acaso puede dar aceitunas una higuera o higos una vid? Pues tampoco una fuente de agua salada puede dar agua dulce."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Dos clases de sabiduría"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "¿Quién es sabio y entendido entre vosotros? Que lo demuestre con su buena conducta, mediante obras hechas con la humildad que le da su sabiduría."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Pero, si tenéis envidias amargas y rivalidades en el corazón, dejad de presumir y de faltar a la verdad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "Esa no es la sabiduría que desciende del cielo, sino que es terrenal, puramente humana y diabólica."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "Porque donde hay envidias y rivalidades, también hay confusión y toda clase de acciones malvadas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "En cambio, la sabiduría que desciende del cielo es ante todo pura, y además pacífica, bondadosa, dócil, llena de compasión y de buenos frutos, imparcial y sincera."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "En fin, el fruto de la justicia se siembra en paz para los que hacen la paz."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "JAS.4",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "JAS.4"
+        ],
+        "human": "Santiago 4"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "JAS.5"
+        ],
+        "human": "Santiago 5",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "JAS.3"
+        ],
+        "human": "Santiago 3",
+        "toc": true
+      },
+      "chapter_text": "¿De dónde surgen las guerras y los conflictos entre vosotros? ¿No es precisamente de las pasiones que luchan dentro de vosotros mismos? Deseáis algo y no lo conseguís. Matáis y sentís envidia, y no podéis obtener lo que queréis. Reñís y os hacéis la guerra. No tenéis, porque no pedís. Y, cuando pedís, no recibís porque pedís con malas intenciones, para satisfacer vuestras propias pasiones.\n¡Oh gente adúltera! ¿No sabéis que la amistad con el mundo es enemistad con Dios? Si alguien quiere ser amigo del mundo, se vuelve enemigo de Dios. ¿O creéis que la Escritura dice en vano que Dios ama celosamente al espíritu que hizo morar en nosotros? Pero él nos da mayor ayuda con su gracia. Por eso dice la Escritura:\n«Dios se opone a los orgullosos,\npero da gracia a los humildes».\nAsí que someteos a Dios. Resistid al diablo, y él huirá de vosotros. Acercaos a Dios, y él se acercará a vosotros. ¡Pecadores, limpiaos las manos! ¡Vosotros los inconstantes, purificad vuestro corazón! Reconoced vuestras miserias, llorad y lamentaos. Que vuestra risa se convierta en llanto, y vuestra alegría, en tristeza. Humillaos delante del Señor, y él os exaltará.\nHermanos, no habléis mal unos de otros. Si alguien habla mal de su hermano, o lo juzga, habla mal de la ley y la juzga. Y, si juzgas la ley, ya no eres cumplidor de la ley, sino su juez. No hay más que un solo legislador y juez, aquel que puede salvar y destruir. Tú, en cambio, ¿quién eres para juzgar a tu prójimo?\n\nAhora escuchad esto, vosotros que decís: «Hoy o mañana iremos a tal o cual ciudad, pasaremos allí un año, haremos negocios y ganaremos dinero». ¡Y eso que ni siquiera sabéis qué sucederá mañana! ¿Qué es vuestra vida? Sois como la niebla, que aparece por un momento y luego se desvanece. Más bien, debierais decir: «Si el Señor quiere, viviremos y haremos esto o aquello». Pero ahora os jactáis en vuestras fanfarronerías. Toda esta jactancia es mala. Así que comete pecado todo el que sabe hacer el bien y no lo hace.",
+      "chapter_html": "<div class=\"version vid1637 iso6393spa\" data-vid=\"1637\" data-iso6393=\"spa\">\n   <div class=\"book bkJAS\">\n      <div class=\"chapter ch4\" data-usfm=\"JAS.4\">\n         <div class=\"label\">4</div><div class=\"s1\"><span class=\"heading\">Someteos a Dios</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"JAS.4.1\"><span class=\"label\">1</span><span class=\"content\">&#191;De d&#243;nde surgen las guerras y los conflictos entre vosotros? &#191;No es precisamente de las pasiones que luchan dentro de vosotros mismos?</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:1 </span><span class=\"fq\">luchan &#8230; mismos</span><span class=\"ft\">. Lit. </span><span class=\"fqa\">hacen guerra en sus miembros.</span></span></span><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"JAS.4.2\"><span class=\"label\">2</span><span class=\"content\">Dese&#225;is algo y no lo consegu&#237;s. Mat&#225;is y sent&#237;s envidia, y no pod&#233;is obtener lo que quer&#233;is. Re&#241;&#237;s y os hac&#233;is la guerra. No ten&#233;is, porque no ped&#237;s. </span></span><span class=\"verse v3\" data-usfm=\"JAS.4.3\"><span class=\"label\">3</span><span class=\"content\">Y, cuando ped&#237;s, no recib&#237;s porque ped&#237;s con malas intenciones, para satisfacer vuestras propias pasiones.</span></span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"JAS.4.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"JAS.4.4\"><span class=\"label\">4</span><span class=\"content\">&#161;Oh gente ad&#250;ltera! &#191;No sab&#233;is que la amistad con el mundo es enemistad con Dios? Si alguien quiere ser amigo del mundo, se vuelve enemigo de Dios. </span></span><span class=\"verse v5\" data-usfm=\"JAS.4.5\"><span class=\"label\">5</span><span class=\"content\">&#191;O cre&#233;is que la Escritura dice en vano que Dios ama celosamente al esp&#237;ritu que hizo morar en nosotros?</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:5 </span><span class=\"fq\">Dios &#8230; nosotros</span><span class=\"ft\">. Alt. </span><span class=\"fqa\">el esp&#237;ritu que &#233;l hizo morar en nosotros envidia intensamente</span><span class=\"ft\">, o </span><span class=\"fqa\">el Esp&#237;ritu que &#233;l hizo morar en nosotros ama celosamente.</span></span></span><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"JAS.4.6\"><span class=\"label\">6</span><span class=\"content\">Pero &#233;l nos da mayor ayuda con su gracia. Por eso dice la Escritura:</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"JAS.4.6\"><span class=\"content\">&#171;Dios se opone a los orgullosos,</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"JAS.4.6\"><span class=\"content\">pero da gracia a los humildes&#187;.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:6 </span><span class=\"ft\">Pr 3:34</span></span></span></span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"JAS.4.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"JAS.4.7\"><span class=\"label\">7</span><span class=\"content\">As&#237; que someteos a Dios. Resistid al diablo, y &#233;l huir&#225; de vosotros. </span></span><span class=\"verse v8\" data-usfm=\"JAS.4.8\"><span class=\"label\">8</span><span class=\"content\">Acercaos a Dios, y &#233;l se acercar&#225; a vosotros. &#161;Pecadores, limpiaos las manos! &#161;Vosotros los inconstantes, purificad vuestro coraz&#243;n! </span></span><span class=\"verse v9\" data-usfm=\"JAS.4.9\"><span class=\"label\">9</span><span class=\"content\">Reconoced vuestras miserias, llorad y lamentaos. Que vuestra risa se convierta en llanto, y vuestra alegr&#237;a, en tristeza. </span></span><span class=\"verse v10\" data-usfm=\"JAS.4.10\"><span class=\"label\">10</span><span class=\"content\">Humillaos delante del Se&#241;or, y &#233;l os exaltar&#225;.</span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"JAS.4.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"JAS.4.11\"><span class=\"label\">11</span><span class=\"content\">Hermanos, no habl&#233;is mal unos de otros. Si alguien habla mal de su hermano, o lo juzga, habla mal de la ley y la juzga. Y, si juzgas la ley, ya no eres cumplidor de la ley, sino su juez. </span></span><span class=\"verse v12\" data-usfm=\"JAS.4.12\"><span class=\"label\">12</span><span class=\"content\">No hay m&#225;s que un solo legislador y juez, aquel que puede salvar y destruir. T&#250;, en cambio, &#191;qui&#233;n eres para juzgar a tu pr&#243;jimo?</span></span></div><div class=\"s1\"><span class=\"heading\">Alarde sobre el ma&#241;ana</span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"JAS.4.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"JAS.4.13\"><span class=\"label\">13</span><span class=\"content\">Ahora escuchad esto, vosotros que dec&#237;s: &#171;Hoy o ma&#241;ana iremos a tal o cual ciudad, pasaremos all&#237; un a&#241;o, haremos negocios y ganaremos dinero&#187;. </span></span><span class=\"verse v14\" data-usfm=\"JAS.4.14\"><span class=\"label\">14</span><span class=\"content\">&#161;Y eso que ni siquiera sab&#233;is qu&#233; suceder&#225; ma&#241;ana! &#191;Qu&#233; es vuestra vida? Sois como la niebla, que aparece por un momento y luego se desvanece. </span></span><span class=\"verse v15\" data-usfm=\"JAS.4.15\"><span class=\"label\">15</span><span class=\"content\">M&#225;s bien, debierais decir: &#171;Si el Se&#241;or quiere, viviremos y haremos esto o aquello&#187;. </span></span><span class=\"verse v16\" data-usfm=\"JAS.4.16\"><span class=\"label\">16</span><span class=\"content\">Pero ahora os </span><span class=\"w\"><span class=\"content\">jact&#225;is</span></span><span class=\"content\"> en vuestras fanfarroner&#237;as. Toda esta jactancia es mala. </span></span><span class=\"verse v17\" data-usfm=\"JAS.4.17\"><span class=\"label\">17</span><span class=\"content\">As&#237; que comete pecado todo el que sabe hacer el bien y no lo hace.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Someteos a Dios"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "¿De dónde surgen las guerras y los conflictos entre vosotros? ¿No es precisamente de las pasiones que luchan dentro de vosotros mismos?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Deseáis algo y no lo conseguís. Matáis y sentís envidia, y no podéis obtener lo que queréis. Reñís y os hacéis la guerra. No tenéis, porque no pedís."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Y, cuando pedís, no recibís porque pedís con malas intenciones, para satisfacer vuestras propias pasiones."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "¡Oh gente adúltera! ¿No sabéis que la amistad con el mundo es enemistad con Dios? Si alguien quiere ser amigo del mundo, se vuelve enemigo de Dios."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "¿O creéis que la Escritura dice en vano que Dios ama celosamente al espíritu que hizo morar en nosotros?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Pero él nos da mayor ayuda con su gracia. Por eso dice la Escritura:",
+            "«Dios se opone a los orgullosos,",
+            "pero da gracia a los humildes»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Así que someteos a Dios. Resistid al diablo, y él huirá de vosotros."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Acercaos a Dios, y él se acercará a vosotros. ¡Pecadores, limpiaos las manos! ¡Vosotros los inconstantes, purificad vuestro corazón!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Reconoced vuestras miserias, llorad y lamentaos. Que vuestra risa se convierta en llanto, y vuestra alegría, en tristeza."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Humillaos delante del Señor, y él os exaltará."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Hermanos, no habléis mal unos de otros. Si alguien habla mal de su hermano, o lo juzga, habla mal de la ley y la juzga. Y, si juzgas la ley, ya no eres cumplidor de la ley, sino su juez."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "No hay más que un solo legislador y juez, aquel que puede salvar y destruir. Tú, en cambio, ¿quién eres para juzgar a tu prójimo?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Alarde sobre el mañana"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Ahora escuchad esto, vosotros que decís: «Hoy o mañana iremos a tal o cual ciudad, pasaremos allí un año, haremos negocios y ganaremos dinero»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "¡Y eso que ni siquiera sabéis qué sucederá mañana! ¿Qué es vuestra vida? Sois como la niebla, que aparece por un momento y luego se desvanece."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "Más bien, debierais decir: «Si el Señor quiere, viviremos y haremos esto o aquello»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "Pero ahora os jactáis en vuestras fanfarronerías. Toda esta jactancia es mala."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "Así que comete pecado todo el que sabe hacer el bien y no lo hace."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "JAS.5",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "JAS.5"
+        ],
+        "human": "Santiago 5"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "1PE.1"
+        ],
+        "human": "1 Pedro 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "JAS.4"
+        ],
+        "human": "Santiago 4",
+        "toc": true
+      },
+      "chapter_text": "Ahora escuchad, vosotros los ricos: ¡llorad a gritos por las calamidades que se os vienen encima! Se ha podrido vuestra riqueza, y vuestras ropas están comidas por la polilla. Se han oxidado vuestro oro y vuestra plata. Ese óxido dará testimonio contra vosotros y consumirá como fuego vuestros cuerpos. Habéis amontonado riquezas, ¡y eso que estamos en los últimos tiempos! Oíd cómo clama contra vosotros el salario no pagado a los obreros que trabajaron vuestros campos. El clamor de esos trabajadores ha llegado a oídos del Señor Todopoderoso. Vosotros habéis llevado en este mundo una vida de lujo y de placer desenfrenado. Lo que habéis hecho es engordar para el día de la matanza. Habéis condenado y matado al justo sin que él os ofreciera resistencia.\n\nPor tanto, hermanos, tened paciencia hasta la venida del Señor. Mirad cómo espera el agricultor a que la tierra dé su precioso fruto y con qué paciencia aguarda las temporadas de lluvia. Así también vosotros, manteneos firmes y aguardad con paciencia la venida del Señor, que ya se acerca. No os quejéis unos de otros, hermanos, para que no seáis juzgados. ¡El juez ya está a la puerta!\nHermanos, tomad como ejemplo de sufrimiento y de paciencia a los profetas que hablaron en el nombre del Señor. En verdad, consideramos dichosos a los que perseveraron. Habéis oído hablar de la perseverancia de Job, y habéis visto lo que al final le dio el Señor. Es que el Señor es muy compasivo y misericordioso.\nSobre todo, hermanos míos, no juréis ni por el cielo ni por la tierra ni por ninguna otra cosa. Que vuestro «sí» sea «sí», y vuestro «no», «no», para que no seáis condenados.\n\n¿Está afligido alguno entre vosotros? Que ore. ¿Está alguno de buen ánimo? Que cante alabanzas. ¿Está enfermo alguno de vosotros? Haga llamar a los ancianos de la iglesia para que oren por él y lo unjan con aceite en el nombre del Señor. La oración de fe sanará al enfermo y el Señor lo levantará. Y, si ha pecado, su pecado se le perdonará. Por eso, confesaos unos a otros vuestros pecados, y orad unos por otros, para que seáis sanados. La oración del justo es poderosa y eficaz.\nElías era un hombre con debilidades como las nuestras. Con fervor oró que no lloviera, y no llovió sobre la tierra durante tres años y medio. Volvió a orar, y el cielo dio su lluvia y la tierra produjo sus frutos.\nHermanos míos, si alguno de vosotros se extravía de la verdad, y otro lo hace volver a ella, recordad que quien hace volver a un pecador de su extravío le salvará de la muerte y cubrirá muchísimos pecados.",
+      "chapter_html": "<div class=\"version vid1637 iso6393spa\" data-vid=\"1637\" data-iso6393=\"spa\">\n   <div class=\"book bkJAS\">\n      <div class=\"chapter ch5\" data-usfm=\"JAS.5\">\n         <div class=\"label\">5</div><div class=\"s1\"><span class=\"heading\">Advertencia a los ricos opresores</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"JAS.5.1\"><span class=\"label\">1</span><span class=\"content\">Ahora escuchad, vosotros los ricos: &#161;llorad a gritos por las calamidades que se os vienen encima! </span></span><span class=\"verse v2\" data-usfm=\"JAS.5.2\"><span class=\"label\">2</span><span class=\"content\">Se ha podrido vuestra riqueza, y vuestras ropas est&#225;n comidas por la polilla. </span></span><span class=\"verse v3\" data-usfm=\"JAS.5.3\"><span class=\"label\">3</span><span class=\"content\">Se han oxidado vuestro oro y vuestra plata. Ese &#243;xido dar&#225; testimonio contra vosotros y consumir&#225; como fuego vuestros cuerpos. Hab&#233;is amontonado riquezas, &#161;y eso que estamos en los &#250;ltimos tiempos! </span></span><span class=\"verse v4\" data-usfm=\"JAS.5.4\"><span class=\"label\">4</span><span class=\"content\">O&#237;d c&#243;mo clama contra vosotros el salario no pagado a los obreros que trabajaron vuestros campos. El clamor de esos trabajadores ha llegado a o&#237;dos del Se&#241;or Todopoderoso. </span></span><span class=\"verse v5\" data-usfm=\"JAS.5.5\"><span class=\"label\">5</span><span class=\"content\">Vosotros hab&#233;is llevado en este mundo una vida de lujo y de placer desenfrenado. Lo que hab&#233;is hecho es engordar para el d&#237;a de la matanza.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">5:5 </span><span class=\"fq\">Lo &#8230; matanza</span><span class=\"ft\">. Alt. </span><span class=\"fqa\">Hab&#233;is engordado como en un banquete.</span></span></span><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"JAS.5.6\"><span class=\"label\">6</span><span class=\"content\">Hab&#233;is condenado y matado al justo sin que &#233;l os ofreciera resistencia.</span></span></div><div class=\"s1\"><span class=\"heading\">Paciencia en los sufrimientos</span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"JAS.5.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"JAS.5.7\"><span class=\"label\">7</span><span class=\"content\">Por tanto, hermanos, tened paciencia hasta la venida del Se&#241;or. Mirad c&#243;mo espera el agricultor a que la tierra d&#233; su precioso fruto y con qu&#233; paciencia aguarda las temporadas de lluvia. </span></span><span class=\"verse v8\" data-usfm=\"JAS.5.8\"><span class=\"label\">8</span><span class=\"content\">As&#237; tambi&#233;n vosotros, manteneos firmes y aguardad con paciencia la venida del Se&#241;or, que ya se acerca. </span></span><span class=\"verse v9\" data-usfm=\"JAS.5.9\"><span class=\"label\">9</span><span class=\"content\">No os quej&#233;is unos de otros, hermanos, para que no se&#225;is juzgados. &#161;El juez ya est&#225; a la puerta!</span></span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"JAS.5.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"JAS.5.10\"><span class=\"label\">10</span><span class=\"content\">Hermanos, tomad como ejemplo de sufrimiento y de paciencia a los profetas que hablaron en el nombre del Se&#241;or. </span></span><span class=\"verse v11\" data-usfm=\"JAS.5.11\"><span class=\"label\">11</span><span class=\"content\">En verdad, consideramos </span><span class=\"w\"><span class=\"content\">dichosos</span></span><span class=\"content\"> a los que perseveraron. Hab&#233;is o&#237;do hablar de la perseverancia de Job, y hab&#233;is visto lo que al final le dio el Se&#241;or. Es que el Se&#241;or es muy compasivo y misericordioso.</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"JAS.5.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"JAS.5.12\"><span class=\"label\">12</span><span class=\"content\">Sobre todo, hermanos m&#237;os, no jur&#233;is ni por el cielo ni por la tierra ni por ninguna otra cosa. Que vuestro &#171;s&#237;&#187; sea &#171;s&#237;&#187;, y vuestro &#171;no&#187;, &#171;no&#187;, para que no se&#225;is condenados.</span></span></div><div class=\"s1\"><span class=\"heading\">La oraci&#243;n de fe</span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"JAS.5.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"JAS.5.13\"><span class=\"label\">13</span><span class=\"content\">&#191;Est&#225; afligido alguno entre vosotros? Que ore. &#191;Est&#225; alguno de buen &#225;nimo? Que cante alabanzas. </span></span><span class=\"verse v14\" data-usfm=\"JAS.5.14\"><span class=\"label\">14</span><span class=\"content\">&#191;Est&#225; enfermo alguno de vosotros? Haga llamar a los </span><span class=\"w\"><span class=\"content\">ancianos</span></span><span class=\"content\"> de la iglesia para que oren por &#233;l y lo unjan con aceite en el nombre del Se&#241;or. </span></span><span class=\"verse v15\" data-usfm=\"JAS.5.15\"><span class=\"label\">15</span><span class=\"content\">La oraci&#243;n de fe sanar&#225; al enfermo y el Se&#241;or lo levantar&#225;. Y, si ha pecado, su pecado se le perdonar&#225;. </span></span><span class=\"verse v16\" data-usfm=\"JAS.5.16\"><span class=\"label\">16</span><span class=\"content\">Por eso, confesaos unos a otros vuestros pecados, y orad unos por otros, para que se&#225;is sanados. La oraci&#243;n del justo es poderosa y eficaz.</span></span></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"JAS.5.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"JAS.5.17\"><span class=\"label\">17</span><span class=\"content\">El&#237;as era un hombre con debilidades como las nuestras. Con fervor or&#243; que no lloviera, y no llovi&#243; sobre la tierra durante tres a&#241;os y medio. </span></span><span class=\"verse v18\" data-usfm=\"JAS.5.18\"><span class=\"label\">18</span><span class=\"content\">Volvi&#243; a orar, y el cielo dio su lluvia y la tierra produjo sus frutos.</span></span></div><div class=\"p\"><span class=\"verse v18\" data-usfm=\"JAS.5.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"JAS.5.19\"><span class=\"label\">19</span><span class=\"content\">Hermanos m&#237;os, si alguno de vosotros se extrav&#237;a de la verdad, y otro lo hace volver a ella, </span></span><span class=\"verse v20\" data-usfm=\"JAS.5.20\"><span class=\"label\">20</span><span class=\"content\">recordad que quien hace volver a un pecador de su extrav&#237;o le salvar&#225; de la muerte y cubrir&#225; much&#237;simos pecados.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Advertencia a los ricos opresores"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Ahora escuchad, vosotros los ricos: ¡llorad a gritos por las calamidades que se os vienen encima!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Se ha podrido vuestra riqueza, y vuestras ropas están comidas por la polilla."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Se han oxidado vuestro oro y vuestra plata. Ese óxido dará testimonio contra vosotros y consumirá como fuego vuestros cuerpos. Habéis amontonado riquezas, ¡y eso que estamos en los últimos tiempos!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Oíd cómo clama contra vosotros el salario no pagado a los obreros que trabajaron vuestros campos. El clamor de esos trabajadores ha llegado a oídos del Señor Todopoderoso."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Vosotros habéis llevado en este mundo una vida de lujo y de placer desenfrenado. Lo que habéis hecho es engordar para el día de la matanza."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Habéis condenado y matado al justo sin que él os ofreciera resistencia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Paciencia en los sufrimientos"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Por tanto, hermanos, tened paciencia hasta la venida del Señor. Mirad cómo espera el agricultor a que la tierra dé su precioso fruto y con qué paciencia aguarda las temporadas de lluvia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Así también vosotros, manteneos firmes y aguardad con paciencia la venida del Señor, que ya se acerca."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "No os quejéis unos de otros, hermanos, para que no seáis juzgados. ¡El juez ya está a la puerta!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Hermanos, tomad como ejemplo de sufrimiento y de paciencia a los profetas que hablaron en el nombre del Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "En verdad, consideramos dichosos a los que perseveraron. Habéis oído hablar de la perseverancia de Job, y habéis visto lo que al final le dio el Señor. Es que el Señor es muy compasivo y misericordioso."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "Sobre todo, hermanos míos, no juréis ni por el cielo ni por la tierra ni por ninguna otra cosa. Que vuestro «sí» sea «sí», y vuestro «no», «no», para que no seáis condenados."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "La oración de fe"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "¿Está afligido alguno entre vosotros? Que ore. ¿Está alguno de buen ánimo? Que cante alabanzas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "¿Está enfermo alguno de vosotros? Haga llamar a los ancianos de la iglesia para que oren por él y lo unjan con aceite en el nombre del Señor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "La oración de fe sanará al enfermo y el Señor lo levantará. Y, si ha pecado, su pecado se le perdonará."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "Por eso, confesaos unos a otros vuestros pecados, y orad unos por otros, para que seáis sanados. La oración del justo es poderosa y eficaz."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "Elías era un hombre con debilidades como las nuestras. Con fervor oró que no lloviera, y no llovió sobre la tierra durante tres años y medio."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "Volvió a orar, y el cielo dio su lluvia y la tierra produjo sus frutos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "Hermanos míos, si alguno de vosotros se extravía de la verdad, y otro lo hace volver a ella,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            20
+          ],
+          "lines": [
+            "recordad que quien hace volver a un pecador de su extravío le salvará de la muerte y cubrirá muchísimos pecados."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

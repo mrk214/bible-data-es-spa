@@ -1,0 +1,813 @@
+{
+  "book_usfm": "NAM",
+  "name": "Nahúm",
+  "local_title": "Nueva Versión Internacional - Castellano",
+  "local_abbreviation": "NVI",
+  "version_id": 1637,
+  "publisher": {
+    "name": "Biblica, Inc."
+  },
+  "copyright": {
+    "html": "<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>",
+    "text": "Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."
+  },
+  "language": {
+    "iso_639_1": "es",
+    "iso_639_3": "spa",
+    "language_tag": "spa_es",
+    "local_name": "Español (España)",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/mrk214/bible-data-es-spa",
+  "chapters": [
+    {
+      "chapter_usfm": "NAM.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "NAM.1"
+        ],
+        "human": "Nahúm 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "NAM.2"
+        ],
+        "human": "Nahúm 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "MIC.7"
+        ],
+        "human": "Miqueas 7",
+        "toc": true
+      },
+      "chapter_text": "Profecía acerca de Nínive. Libro de la visión que tuvo Nahúm de Elcós.\nSEÑOR\nEl SEÑOR es un Dios celoso y vengador.\n¡SEÑOR de la venganza, Señor de la ira!\nEl SEÑOR se venga de sus adversarios;\nes implacable con sus enemigos.\nEl SEÑOR es lento para la ira,\nimponente en su fuerza.\nEl SEÑOR no deja a nadie sin castigo.\nCamina en el huracán y en la tormenta;\nlas nubes son el polvo de sus pies.\nIncrepa al mar y lo seca;\nhace que todos los ríos se evaporen.\nLos montes Basán y Carmelo pierden su lozanía;\nel verdor del Líbano se marchita.\nAnte él tiemblan las montañas\ny se desmoronan las colinas.\nAnte él se agita la tierra,\nel mundo y cuanto en él habita.\n¿Quién podrá enfrentarse a su indignación?\n¿Quién resistirá el ardor de su ira?\nSu furor se derrama como fuego;\nante él se resquebrajan las rocas.\n\nBueno es el SEÑOR;\nes refugio en el día de la angustia,\ny protector de los que en él confían.\nPero destruirá a Nínive\ncon una inundación arrasadora;\n¡aun en las tinieblas perseguirá a sus enemigos!\n¿Qué tramáis contra el SEÑOR?\n¡Él desbaratará vuestros planes!\n¡La calamidad no se repetirá!\nSerán consumidos como paja seca,\ncomo espinos enmarañados,\ncomo borrachos ahogados en vino.\nTú, Nínive, engendraste\nal que trama el mal contra el SEÑOR,\nal infame consejero.\n\nAsí dice el SEÑOR:\n«Aunque los asirios sean fuertes y numerosos,\nserán arrancados y morirán.\nY a ti, Judá, aunque te he afligido,\nno volveré a afligirte.\nVoy a quebrar el yugo que te oprime,\nvoy a romper tus ataduras».\nPero acerca de ti, Nínive,\nel SEÑOR ha decretado:\n«No tendrás más hijos que perpetúen tu nombre;\nextirparé de la casa de tus dioses\nlas imágenes talladas y los ídolos fundidos.\nTe voy a preparar una tumba,\nporque eres una infame».\n\n¡Mirad! Ya se acerca por los montes\nel que anuncia las buenas nuevas de victoria,\nel que proclama la paz.\n¡Celebra tus peregrinaciones, Judá!\n¡Paga tus votos!\nPorque no volverán a invadirte los malvados,\npues han sido destruidos por completo.",
+      "chapter_html": "<div class=\"version vid1637 iso6393spa\" data-vid=\"1637\" data-iso6393=\"spa\">\n   <div class=\"book bkNAM\">\n      <div class=\"chapter ch1\" data-usfm=\"NAM.1\">\n         <div class=\"label\">1</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"NAM.1.1\"><span class=\"label\">1</span><span class=\"content\">Profec&#237;a acerca de N&#237;nive. Libro de la visi&#243;n que tuvo Nah&#250;m de Elc&#243;s.</span></span></div><div class=\"s1\"><span class=\"heading\">Manifestaci&#243;n del </span><span class=\"nd\"><span class=\"heading\">Se&#241;or</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"NAM.1.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"NAM.1.2\"><span class=\"label\">2</span><span class=\"content\">El </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\"> es un Dios celoso y vengador.</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"NAM.1.2\"><span class=\"content\">&#161;</span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\"> de la venganza, Se&#241;or de la ira!</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"NAM.1.2\"><span class=\"content\">El </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\"> se venga de sus adversarios;</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"NAM.1.2\"><span class=\"content\">es implacable con sus enemigos.</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"NAM.1.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"NAM.1.3\"><span class=\"label\">3</span><span class=\"content\">El </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\"> es lento para la ira,</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"NAM.1.3\"><span class=\"content\">imponente en su fuerza.</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"NAM.1.3\"><span class=\"content\">El </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\"> no deja a nadie sin castigo.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"NAM.1.3\"><span class=\"content\">Camina en el hurac&#225;n y en la tormenta;</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"NAM.1.3\"><span class=\"content\">las nubes son el polvo de sus pies.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"NAM.1.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"NAM.1.4\"><span class=\"label\">4</span><span class=\"content\">Increpa al mar y lo seca;</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"NAM.1.4\"><span class=\"content\">hace que todos los r&#237;os se evaporen.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"NAM.1.4\"><span class=\"content\">Los montes Bas&#225;n y Carmelo pierden su lozan&#237;a;</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"NAM.1.4\"><span class=\"content\">el verdor del L&#237;bano se marchita.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"NAM.1.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"NAM.1.5\"><span class=\"label\">5</span><span class=\"content\">Ante &#233;l tiemblan las monta&#241;as</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"NAM.1.5\"><span class=\"content\">y se desmoronan las colinas.</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"NAM.1.5\"><span class=\"content\">Ante &#233;l se agita la tierra,</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"NAM.1.5\"><span class=\"content\">el mundo y cuanto en &#233;l habita.</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"NAM.1.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"NAM.1.6\"><span class=\"label\">6</span><span class=\"content\">&#191;Qui&#233;n podr&#225; enfrentarse a su indignaci&#243;n?</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"NAM.1.6\"><span class=\"content\">&#191;Qui&#233;n resistir&#225; el ardor de su ira?</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"NAM.1.6\"><span class=\"content\">Su furor se derrama como fuego;</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"NAM.1.6\"><span class=\"content\">ante &#233;l se resquebrajan las rocas.</span></span></div><div class=\"s1\"><span class=\"heading\">Destrucci&#243;n de N&#237;nive</span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"NAM.1.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"NAM.1.7\"><span class=\"label\">7</span><span class=\"content\">Bueno es el </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\">;</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"NAM.1.7\"><span class=\"content\">es refugio en el d&#237;a de la angustia,</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"NAM.1.7\"><span class=\"content\">y protector de los que en &#233;l conf&#237;an.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"NAM.1.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"NAM.1.8\"><span class=\"label\">8</span><span class=\"content\">Pero destruir&#225; a N&#237;nive</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:8 </span><span class=\"fq\">a N&#237;nive</span><span class=\"ft\">. Lit. </span><span class=\"fqa\">el lugar de ella.</span></span></span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"NAM.1.8\"><span class=\"content\">con una inundaci&#243;n arrasadora;</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"NAM.1.8\"><span class=\"content\">&#161;aun en las tinieblas perseguir&#225; a sus enemigos!</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"NAM.1.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"NAM.1.9\"><span class=\"label\">9</span><span class=\"content\">&#191;Qu&#233; tram&#225;is contra el </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\">?</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"NAM.1.9\"><span class=\"content\">&#161;&#201;l desbaratar&#225; vuestros planes!</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"NAM.1.9\"><span class=\"content\">&#161;La calamidad no se repetir&#225;!</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"NAM.1.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"NAM.1.10\"><span class=\"label\">10</span><span class=\"content\">Ser&#225;n consumidos como paja seca,</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"NAM.1.10\"><span class=\"content\">como espinos enmara&#241;ados,</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"NAM.1.10\"><span class=\"content\">como borrachos ahogados en vino.</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"NAM.1.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"NAM.1.11\"><span class=\"label\">11</span><span class=\"content\">T&#250;, N&#237;nive, engendraste</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"NAM.1.11\"><span class=\"content\">al que trama el mal contra el </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\">,</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"NAM.1.11\"><span class=\"content\">al infame consejero.</span></span></div><div class=\"s1\"><span class=\"heading\">Liberaci&#243;n del opresor</span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"NAM.1.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"NAM.1.12\"><span class=\"label\">12</span><span class=\"content\">As&#237; dice el </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\">:</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"NAM.1.12\"><span class=\"content\">&#171;Aunque los asirios sean fuertes y numerosos,</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"NAM.1.12\"><span class=\"content\">ser&#225;n arrancados y morir&#225;n.</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"NAM.1.12\"><span class=\"content\">Y a ti, Jud&#225;, aunque te he afligido,</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"NAM.1.12\"><span class=\"content\">no volver&#233; a afligirte.</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"NAM.1.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"NAM.1.13\"><span class=\"label\">13</span><span class=\"content\">Voy a quebrar el yugo que te oprime,</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"NAM.1.13\"><span class=\"content\">voy a romper tus ataduras&#187;.</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"NAM.1.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"NAM.1.14\"><span class=\"label\">14</span><span class=\"content\">Pero acerca de ti, N&#237;nive,</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"NAM.1.14\"><span class=\"content\">el </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\"> ha decretado:</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"NAM.1.14\"><span class=\"content\">&#171;No tendr&#225;s m&#225;s hijos que perpet&#250;en tu </span><span class=\"w\"><span class=\"content\">nombre</span></span><span class=\"content\">;</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"NAM.1.14\"><span class=\"content\">extirpar&#233; de la casa de tus dioses</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"NAM.1.14\"><span class=\"content\">las im&#225;genes talladas y los &#237;dolos fundidos.</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"NAM.1.14\"><span class=\"content\">Te voy a preparar una tumba,</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"NAM.1.14\"><span class=\"content\">porque eres una infame&#187;.</span></span></div><div class=\"s1\"><span class=\"heading\">Anuncio de la victoria sobre N&#237;nive</span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"NAM.1.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"NAM.1.15\"><span class=\"label\">15</span><span class=\"content\">&#161;Mirad! Ya se acerca por los montes</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"NAM.1.15\"><span class=\"content\">el que anuncia las buenas nuevas de </span><span class=\"w\"><span class=\"content\">victoria</span></span><span class=\"content\">,</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"NAM.1.15\"><span class=\"content\">el que proclama la </span><span class=\"w\"><span class=\"content\">paz</span></span><span class=\"content\">.</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"NAM.1.15\"><span class=\"content\">&#161;Celebra tus peregrinaciones, Jud&#225;!</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"NAM.1.15\"><span class=\"content\">&#161;Paga tus votos!</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"NAM.1.15\"><span class=\"content\">Porque no volver&#225;n a invadirte los malvados,</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"NAM.1.15\"><span class=\"content\">pues han sido destruidos por completo.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Profecía acerca de Nínive. Libro de la visión que tuvo Nahúm de Elcós."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Manifestación del Señor"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "El Señor es un Dios celoso y vengador.",
+            "¡Señor de la venganza, Señor de la ira!",
+            "El Señor se venga de sus adversarios;",
+            "es implacable con sus enemigos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "El Señor es lento para la ira,",
+            "imponente en su fuerza.",
+            "El Señor no deja a nadie sin castigo.",
+            "Camina en el huracán y en la tormenta;",
+            "las nubes son el polvo de sus pies."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Increpa al mar y lo seca;",
+            "hace que todos los ríos se evaporen.",
+            "Los montes Basán y Carmelo pierden su lozanía;",
+            "el verdor del Líbano se marchita."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Ante él tiemblan las montañas",
+            "y se desmoronan las colinas.",
+            "Ante él se agita la tierra,",
+            "el mundo y cuanto en él habita."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "¿Quién podrá enfrentarse a su indignación?",
+            "¿Quién resistirá el ardor de su ira?",
+            "Su furor se derrama como fuego;",
+            "ante él se resquebrajan las rocas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Destrucción de Nínive"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Bueno es el Señor;",
+            "es refugio en el día de la angustia,",
+            "y protector de los que en él confían."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Pero destruirá a Nínive",
+            "con una inundación arrasadora;",
+            "¡aun en las tinieblas perseguirá a sus enemigos!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "¿Qué tramáis contra el Señor?",
+            "¡Él desbaratará vuestros planes!",
+            "¡La calamidad no se repetirá!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Serán consumidos como paja seca,",
+            "como espinos enmarañados,",
+            "como borrachos ahogados en vino."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "Tú, Nínive, engendraste",
+            "al que trama el mal contra el Señor,",
+            "al infame consejero."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Liberación del opresor"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "Así dice el Señor:",
+            "«Aunque los asirios sean fuertes y numerosos,",
+            "serán arrancados y morirán.",
+            "Y a ti, Judá, aunque te he afligido,",
+            "no volveré a afligirte."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Voy a quebrar el yugo que te oprime,",
+            "voy a romper tus ataduras»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Pero acerca de ti, Nínive,",
+            "el Señor ha decretado:",
+            "«No tendrás más hijos que perpetúen tu nombre;",
+            "extirparé de la casa de tus dioses",
+            "las imágenes talladas y los ídolos fundidos.",
+            "Te voy a preparar una tumba,",
+            "porque eres una infame»."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Anuncio de la victoria sobre Nínive"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "¡Mirad! Ya se acerca por los montes",
+            "el que anuncia las buenas nuevas de victoria,",
+            "el que proclama la paz.",
+            "¡Celebra tus peregrinaciones, Judá!",
+            "¡Paga tus votos!",
+            "Porque no volverán a invadirte los malvados,",
+            "pues han sido destruidos por completo."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "NAM.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "NAM.2"
+        ],
+        "human": "Nahúm 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "NAM.3"
+        ],
+        "human": "Nahúm 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "NAM.1"
+        ],
+        "human": "Nahúm 1",
+        "toc": true
+      },
+      "chapter_text": "Nínive, un destructor avanza contra ti,\nasí que monta guardia en el terraplén,\nvigila el camino, renueva tus fuerzas,\nacrecienta tu poder.\nPorque el SEÑOR restaura la majestad de Jacob,\ncomo la majestad de Israel,\npues los destructores los han arrasado;\nhan arruinado sus sarmientos.\n\nRojo es el escudo de sus valientes;\nde púrpura se visten los guerreros.\nEl metal de sus carros brilla como fuego\nmientras se alistan para la batalla\ny los guerreros agitan sus lanzas.\nDesaforados corren los carros por las calles,\nirrumpen con violencia por las plazas.\nSon como antorchas de fuego,\ncomo relámpagos zigzagueantes.\n\nConvoca el rey de Nínive a sus tropas escogidas,\nque en su carrera se atropellan.\nSe lanzan contra la muralla\npara levantar la barricada,\npero se abren las compuertas de los ríos\ny el palacio se derrumba.\nYa está decidido:\nla ciudad será llevada al exilio.\nGimen sus criadas como palomas,\ny se golpean el pecho.\n\nNínive es como un estanque roto\ncuyas aguas se derraman.\n«¡Deteneos! ¡Deteneos!», les gritan,\npero nadie vuelve atrás.\n¡Saquead la plata!\n¡Saquead el oro!\nEl tesoro es inagotable,\ny abundan las riquezas y los objetos preciosos.\n¡Destrucción, desolación, devastación!\nDesfallecen los corazones,\ntiemblan las rodillas,\nse estremecen los cuerpos,\npalidecen los rostros.\n\n¿Qué fue de la guarida de los leones\ny de la cueva de los leoncillos,\ndonde el león, la leona y sus cachorros\nse guarecían sin que nadie los perturbara?\n¿Qué fue del león,\nque despedazaba para sus crías\ny estrangulaba para sus leonas,\nque llenaba de presas su caverna\ny de carne su guarida?\n«Pero ahora yo vengo contra ti\n—afirma el SEÑOR omnipotente—.\nReduciré a cenizas tus carros de guerra\ny mataré a filo de espada a tus leoncillos.\nPondré fin en el país a tus rapiñas,\ny no volverá a oírse la voz de tus mensajeros».",
+      "chapter_html": "<div class=\"version vid1637 iso6393spa\" data-vid=\"1637\" data-iso6393=\"spa\">\n   <div class=\"book bkNAM\">\n      <div class=\"chapter ch2\" data-usfm=\"NAM.2\">\n         <div class=\"label\">2</div><div class=\"s1\"><span class=\"heading\">La destrucci&#243;n de N&#237;nive</span></div><div class=\"q1\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"NAM.2.1\"><span class=\"label\">1</span><span class=\"content\">N&#237;nive, un destructor avanza contra ti,</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"NAM.2.1\"><span class=\"content\">as&#237; que monta guardia en el terrapl&#233;n,</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"NAM.2.1\"><span class=\"content\">vigila el camino, renueva tus fuerzas,</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"NAM.2.1\"><span class=\"content\">acrecienta tu poder.</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"NAM.2.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"NAM.2.2\"><span class=\"label\">2</span><span class=\"content\">Porque el </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\"> restaura la majestad de Jacob,</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"NAM.2.2\"><span class=\"content\">como la majestad de Israel,</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"NAM.2.2\"><span class=\"content\">pues los destructores los han arrasado;</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"NAM.2.2\"><span class=\"content\">han arruinado sus sarmientos.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"NAM.2.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"NAM.2.3\"><span class=\"label\">3</span><span class=\"content\">Rojo es el escudo de sus valientes;</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"NAM.2.3\"><span class=\"content\">de p&#250;rpura se visten los guerreros.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"NAM.2.3\"><span class=\"content\">El metal de sus carros brilla como fuego</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"NAM.2.3\"><span class=\"content\">mientras se alistan para la batalla</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"NAM.2.3\"><span class=\"content\">y los guerreros agitan sus lanzas.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"NAM.2.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"NAM.2.4\"><span class=\"label\">4</span><span class=\"content\">Desaforados corren los carros por las calles,</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"NAM.2.4\"><span class=\"content\">irrumpen con violencia por las plazas.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"NAM.2.4\"><span class=\"content\">Son como antorchas de fuego,</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"NAM.2.4\"><span class=\"content\">como rel&#225;mpagos zigzagueantes.</span></span></div><div class=\"s1\"><span class=\"heading\">Ca&#237;da y saqueo de N&#237;nive</span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"NAM.2.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"NAM.2.5\"><span class=\"label\">5</span><span class=\"content\">Convoca el rey de N&#237;nive a sus tropas escogidas,</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"NAM.2.5\"><span class=\"content\">que en su carrera se atropellan.</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"NAM.2.5\"><span class=\"content\">Se lanzan contra la muralla</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"NAM.2.5\"><span class=\"content\">para levantar la barricada,</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"NAM.2.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"NAM.2.6\"><span class=\"label\">6</span><span class=\"content\">pero se abren las compuertas de los r&#237;os</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"NAM.2.6\"><span class=\"content\">y el palacio se derrumba.</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"NAM.2.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"NAM.2.7\"><span class=\"label\">7</span><span class=\"content\">Ya est&#225; decidido:</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"NAM.2.7\"><span class=\"content\">la ciudad</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:7 </span><span class=\"fq\">ciudad</span><span class=\"ft\">. Alt. </span><span class=\"fqa\">reina.</span></span></span><span class=\"content\"> ser&#225; llevada al exilio.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"NAM.2.7\"><span class=\"content\">Gimen sus criadas como palomas,</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"NAM.2.7\"><span class=\"content\">y se golpean el pecho.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"NAM.2.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"NAM.2.8\"><span class=\"label\">8</span><span class=\"content\">N&#237;nive es como un estanque roto</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"NAM.2.8\"><span class=\"content\">cuyas aguas se derraman.</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"NAM.2.8\"><span class=\"content\">&#171;&#161;Deteneos! &#161;Deteneos!&#187;, les gritan,</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"NAM.2.8\"><span class=\"content\">pero nadie vuelve atr&#225;s.</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"NAM.2.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"NAM.2.9\"><span class=\"label\">9</span><span class=\"content\">&#161;Saquead la plata!</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"NAM.2.9\"><span class=\"content\">&#161;Saquead el oro!</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"NAM.2.9\"><span class=\"content\">El tesoro es inagotable,</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"NAM.2.9\"><span class=\"content\">y abundan las riquezas y los objetos preciosos.</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"NAM.2.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"NAM.2.10\"><span class=\"label\">10</span><span class=\"content\">&#161;Destrucci&#243;n, desolaci&#243;n, devastaci&#243;n!</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"NAM.2.10\"><span class=\"content\">Desfallecen los </span><span class=\"w\"><span class=\"content\">corazones</span></span><span class=\"content\">,</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"NAM.2.10\"><span class=\"content\">tiemblan las rodillas,</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"NAM.2.10\"><span class=\"content\">se estremecen los cuerpos,</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"NAM.2.10\"><span class=\"content\">palidecen los rostros.</span></span></div><div class=\"s1\"><span class=\"heading\">La bestia salvaje morir&#225;</span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"NAM.2.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"NAM.2.11\"><span class=\"label\">11</span><span class=\"content\">&#191;Qu&#233; fue de la guarida de los leones</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"NAM.2.11\"><span class=\"content\">y de la cueva de los leoncillos,</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"NAM.2.11\"><span class=\"content\">donde el le&#243;n, la leona y sus cachorros</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"NAM.2.11\"><span class=\"content\">se guarec&#237;an sin que nadie los perturbara?</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"NAM.2.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"NAM.2.12\"><span class=\"label\">12</span><span class=\"content\">&#191;Qu&#233; fue del le&#243;n,</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"NAM.2.12\"><span class=\"content\">que despedazaba para sus cr&#237;as</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"NAM.2.12\"><span class=\"content\">y estrangulaba para sus leonas,</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"NAM.2.12\"><span class=\"content\">que llenaba de presas su caverna</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"NAM.2.12\"><span class=\"content\">y de carne su guarida?</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"NAM.2.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"NAM.2.13\"><span class=\"label\">13</span><span class=\"content\">&#171;Pero ahora yo vengo contra ti</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"NAM.2.13\"><span class=\"content\">&#8212;afirma el </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\"> omnipotente&#8212;.</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"NAM.2.13\"><span class=\"content\">Reducir&#233; a cenizas tus carros de guerra</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"NAM.2.13\"><span class=\"content\">y matar&#233; a filo de espada a tus leoncillos.</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"NAM.2.13\"><span class=\"content\">Pondr&#233; fin en el pa&#237;s a tus rapi&#241;as,</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"NAM.2.13\"><span class=\"content\">y no volver&#225; a o&#237;rse la voz de tus mensajeros&#187;.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "La destrucción de Nínive"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "Nínive, un destructor avanza contra ti,",
+            "así que monta guardia en el terraplén,",
+            "vigila el camino, renueva tus fuerzas,",
+            "acrecienta tu poder."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Porque el Señor restaura la majestad de Jacob,",
+            "como la majestad de Israel,",
+            "pues los destructores los han arrasado;",
+            "han arruinado sus sarmientos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "Rojo es el escudo de sus valientes;",
+            "de púrpura se visten los guerreros.",
+            "El metal de sus carros brilla como fuego",
+            "mientras se alistan para la batalla",
+            "y los guerreros agitan sus lanzas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "Desaforados corren los carros por las calles,",
+            "irrumpen con violencia por las plazas.",
+            "Son como antorchas de fuego,",
+            "como relámpagos zigzagueantes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Caída y saqueo de Nínive"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "Convoca el rey de Nínive a sus tropas escogidas,",
+            "que en su carrera se atropellan.",
+            "Se lanzan contra la muralla",
+            "para levantar la barricada,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "pero se abren las compuertas de los ríos",
+            "y el palacio se derrumba."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Ya está decidido:",
+            "la ciudad será llevada al exilio.",
+            "Gimen sus criadas como palomas,",
+            "y se golpean el pecho."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "Nínive es como un estanque roto",
+            "cuyas aguas se derraman.",
+            "«¡Deteneos! ¡Deteneos!», les gritan,",
+            "pero nadie vuelve atrás."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "¡Saquead la plata!",
+            "¡Saquead el oro!",
+            "El tesoro es inagotable,",
+            "y abundan las riquezas y los objetos preciosos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "¡Destrucción, desolación, devastación!",
+            "Desfallecen los corazones,",
+            "tiemblan las rodillas,",
+            "se estremecen los cuerpos,",
+            "palidecen los rostros."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "La bestia salvaje morirá"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "¿Qué fue de la guarida de los leones",
+            "y de la cueva de los leoncillos,",
+            "donde el león, la leona y sus cachorros",
+            "se guarecían sin que nadie los perturbara?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "¿Qué fue del león,",
+            "que despedazaba para sus crías",
+            "y estrangulaba para sus leonas,",
+            "que llenaba de presas su caverna",
+            "y de carne su guarida?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "«Pero ahora yo vengo contra ti",
+            "—afirma el Señor omnipotente—.",
+            "Reduciré a cenizas tus carros de guerra",
+            "y mataré a filo de espada a tus leoncillos.",
+            "Pondré fin en el país a tus rapiñas,",
+            "y no volverá a oírse la voz de tus mensajeros»."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "NAM.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "NAM.3"
+        ],
+        "human": "Nahúm 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "HAB.1"
+        ],
+        "human": "Habacuc 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "NAM.2"
+        ],
+        "human": "Nahúm 2",
+        "toc": true
+      },
+      "chapter_text": "¡Ay de la ciudad sedienta de sangre,\nrepleta de mentira,\ninsaciable en su rapiña,\naferrada a la presa!\nSe oye el chasquido de los látigos,\nel estrépito de las ruedas,\nel galopar de los caballos,\nel chirrido de los carros,\nla carga de la caballería,\nel fulgor de las espadas,\nel centellear de las lanzas,\nla multitud de muertos,\nlos cuerpos amontonados,\nlos cadáveres por doquier,\nen los que todos tropiezan.\n¡Y todo por las muchas prostituciones\nde esa ramera de encantos zalameros,\nde esa maestra de la seducción!\nEngañó a los pueblos con sus fornicaciones,\ny a los clanes con sus embrujos.\n\n«¡Aquí estoy contra ti!\n—afirma el SEÑOR Todopoderoso—.\nTe levantaré la falda hasta la cara,\npara que las naciones vean tu desnudez,\ny los reinos descubran tus vergüenzas.\nTe cubriré de inmundicias,\nte ultrajaré y te exhibiré en público.\nTodos los que te vean huirán de ti,\ny dirán: “¡Nínive ha sido devastada!\n¿Quién hará duelo por ella?”\n¿Dónde hallaré quien la consuele?»\n\n¿Acaso eres mejor que Tebas,\nciudad rodeada de aguas,\nasentada junto a las corrientes del Nilo,\nque tiene al mar por terraplén\ny a las aguas por muralla?\nCus y Egipto eran su fuerza ilimitada,\nFut y Libia eran sus aliados.\nCon todo, Tebas marchó al exilio;\nfue llevada al cautiverio.\nA sus hijos los estrellaron\ncontra las esquinas de las calles.\nSobre sus nobles echaron suertes,\ny encadenaron a su gente ilustre.\n\nTambién tú, Nínive, te embriagarás,\ny se embotarán tus sentidos.\nTambién tú, por causa del enemigo,\ntendrás que buscar refugio.\nTodas tus fortalezas son higueras\ncargadas de brevas maduras:\nsi las sacuden,\ncaen en la boca del que se las come.\nMira, al enfrentarse al enemigo\ntus tropas se portan como mujeres.\nLas puertas de tu país quedarán abiertas de par en par,\nporque el fuego consumirá tus cerrojos.\n\nAbastécete de agua para el asedio,\nrefuerza tus fortificaciones.\nMétete al barro, pisa la mezcla\ny moldea los ladrillos.\nPorque allí mismo te consumirá el fuego\ny te exterminará la espada;\n¡como larva de langosta te devorará!\nMultiplícate como larva,\nreprodúcete como langosta.\nAumentaste tus mercaderes\nmás que las estrellas del cielo.\nTus dignatarios son como langostas\ny tus oficiales, como insectos\nque en días fríos se posan sobre los muros,\npero que al salir el sol desaparecen,\ny nadie sabe dónde hallarlos.\n\nRey de Asiria,\ntus pastores están amodorrados,\n¡tus tropas escogidas se echaron a dormir!\nTu pueblo anda disperso por los montes,\ny no hay quien lo reúna.\nTu herida no tiene remedio;\ntu llaga es incurable.\n\nTodos los que sepan lo que te ha pasado\ncelebrarán tu desgracia.\nPues ¿quién no fue víctima\nde tu constante maldad?",
+      "chapter_html": "<div class=\"version vid1637 iso6393spa\" data-vid=\"1637\" data-iso6393=\"spa\">\n   <div class=\"book bkNAM\">\n      <div class=\"chapter ch3\" data-usfm=\"NAM.3\">\n         <div class=\"label\">3</div><div class=\"s1\"><span class=\"heading\">Descripci&#243;n del fin de N&#237;nive</span></div><div class=\"q1\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"NAM.3.1\"><span class=\"label\">1</span><span class=\"content\">&#161;Ay de la ciudad sedienta de sangre,</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"NAM.3.1\"><span class=\"content\">repleta de mentira,</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"NAM.3.1\"><span class=\"content\">insaciable en su rapi&#241;a,</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"NAM.3.1\"><span class=\"content\">aferrada a la presa!</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"NAM.3.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"NAM.3.2\"><span class=\"label\">2</span><span class=\"content\">Se oye el chasquido de los l&#225;tigos,</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"NAM.3.2\"><span class=\"content\">el estr&#233;pito de las ruedas,</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"NAM.3.2\"><span class=\"content\">el galopar de los caballos,</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"NAM.3.2\"><span class=\"content\">el chirrido de los carros,</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"NAM.3.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"NAM.3.3\"><span class=\"label\">3</span><span class=\"content\">la carga de la caballer&#237;a,</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"NAM.3.3\"><span class=\"content\">el fulgor de las espadas,</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"NAM.3.3\"><span class=\"content\">el centellear de las lanzas,</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"NAM.3.3\"><span class=\"content\">la multitud de muertos,</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"NAM.3.3\"><span class=\"content\">los cuerpos amontonados,</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"NAM.3.3\"><span class=\"content\">los cad&#225;veres por doquier,</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"NAM.3.3\"><span class=\"content\">en los que todos tropiezan.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"NAM.3.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"NAM.3.4\"><span class=\"label\">4</span><span class=\"content\">&#161;Y todo por las muchas prostituciones</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"NAM.3.4\"><span class=\"content\">de esa ramera de encantos zalameros,</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"NAM.3.4\"><span class=\"content\">de esa maestra de la seducci&#243;n!</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"NAM.3.4\"><span class=\"content\">Enga&#241;&#243; a los pueblos con sus fornicaciones,</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"NAM.3.4\"><span class=\"content\">y a los clanes con sus embrujos.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"NAM.3.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"NAM.3.5\"><span class=\"label\">5</span><span class=\"content\">&#171;&#161;Aqu&#237; estoy contra ti!</span></span></div><div class=\"q4\"><span class=\"verse v5\" data-usfm=\"NAM.3.5\"><span class=\"content\">&#8212;afirma el </span><span class=\"nd\"><span class=\"content\">Se&#241;or</span></span><span class=\"content\">  </span><span class=\"w\"><span class=\"content\">Todopoderoso</span></span><span class=\"content\">&#8212;.</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"NAM.3.5\"><span class=\"content\">Te levantar&#233; la falda hasta la cara,</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"NAM.3.5\"><span class=\"content\">para que las naciones vean tu desnudez,</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"NAM.3.5\"><span class=\"content\">y los reinos descubran tus verg&#252;enzas.</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"NAM.3.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"NAM.3.6\"><span class=\"label\">6</span><span class=\"content\">Te cubrir&#233; de inmundicias,</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"NAM.3.6\"><span class=\"content\">te ultrajar&#233; y te exhibir&#233; en p&#250;blico.</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"NAM.3.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"NAM.3.7\"><span class=\"label\">7</span><span class=\"content\">Todos los que te vean huir&#225;n de ti,</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"NAM.3.7\"><span class=\"content\">y dir&#225;n: &#8220;&#161;N&#237;nive ha sido devastada!</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"NAM.3.7\"><span class=\"content\">&#191;Qui&#233;n har&#225; duelo por ella?&#8221;</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"NAM.3.7\"><span class=\"content\">&#191;D&#243;nde hallar&#233; quien la consuele?&#187;</span></span></div><div class=\"s1\"><span class=\"heading\">Destrucci&#243;n total de N&#237;nive</span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"NAM.3.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"NAM.3.8\"><span class=\"label\">8</span><span class=\"content\">&#191;Acaso eres mejor que Tebas,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:8 </span><span class=\"fq\">Tebas</span><span class=\"ft\">. Lit. </span><span class=\"fqa\">No Am&#243;n.</span></span></span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"NAM.3.8\"><span class=\"content\">ciudad rodeada de aguas,</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"NAM.3.8\"><span class=\"content\">asentada junto a las corrientes del Nilo,</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"NAM.3.8\"><span class=\"content\">que tiene al mar por terrapl&#233;n</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"NAM.3.8\"><span class=\"content\">y a las aguas por muralla?</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"NAM.3.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"NAM.3.9\"><span class=\"label\">9</span><span class=\"content\">  </span><span class=\"w\"><span class=\"content\">Cus</span></span><span class=\"content\"> y Egipto eran su fuerza ilimitada,</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"NAM.3.9\"><span class=\"content\">Fut y Libia eran sus aliados.</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"NAM.3.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"NAM.3.10\"><span class=\"label\">10</span><span class=\"content\">Con todo, Tebas march&#243; al exilio;</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"NAM.3.10\"><span class=\"content\">fue llevada al cautiverio.</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"NAM.3.10\"><span class=\"content\">A sus hijos los estrellaron</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"NAM.3.10\"><span class=\"content\">contra las esquinas de las calles.</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"NAM.3.10\"><span class=\"content\">Sobre sus nobles echaron suertes,</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"NAM.3.10\"><span class=\"content\">y encadenaron a su gente ilustre.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"NAM.3.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"NAM.3.11\"><span class=\"label\">11</span><span class=\"content\">Tambi&#233;n t&#250;, N&#237;nive, te embriagar&#225;s,</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"NAM.3.11\"><span class=\"content\">y se embotar&#225;n tus sentidos.</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"NAM.3.11\"><span class=\"content\">Tambi&#233;n t&#250;, por causa del enemigo,</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"NAM.3.11\"><span class=\"content\">tendr&#225;s que buscar refugio.</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"NAM.3.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"NAM.3.12\"><span class=\"label\">12</span><span class=\"content\">Todas tus fortalezas son higueras</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"NAM.3.12\"><span class=\"content\">cargadas de brevas maduras:</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"NAM.3.12\"><span class=\"content\">si las sacuden,</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"NAM.3.12\"><span class=\"content\">caen en la boca del que se las come.</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"NAM.3.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"NAM.3.13\"><span class=\"label\">13</span><span class=\"content\">Mira, al enfrentarse al enemigo</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"NAM.3.13\"><span class=\"content\">tus tropas se portan como mujeres.</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"NAM.3.13\"><span class=\"content\">Las </span><span class=\"w\"><span class=\"content\">puertas</span></span><span class=\"content\"> de tu pa&#237;s quedar&#225;n abiertas de par en par,</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"NAM.3.13\"><span class=\"content\">porque el fuego consumir&#225; tus cerrojos.</span></span></div><div class=\"s1\"><span class=\"heading\">Defensa in&#250;til</span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"NAM.3.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"NAM.3.14\"><span class=\"label\">14</span><span class=\"content\">Abast&#233;cete de agua para el asedio,</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"NAM.3.14\"><span class=\"content\">refuerza tus fortificaciones.</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"NAM.3.14\"><span class=\"content\">M&#233;tete al barro, pisa la mezcla</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"NAM.3.14\"><span class=\"content\">y moldea los ladrillos.</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"NAM.3.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"NAM.3.15\"><span class=\"label\">15</span><span class=\"content\">Porque all&#237; mismo te consumir&#225; el fuego</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"NAM.3.15\"><span class=\"content\">y te exterminar&#225; la espada;</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"NAM.3.15\"><span class=\"content\">&#161;como larva de langosta te devorar&#225;!</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"NAM.3.15\"><span class=\"content\">Multipl&#237;cate como larva,</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"NAM.3.15\"><span class=\"content\">reprod&#250;cete como langosta.</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"NAM.3.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"NAM.3.16\"><span class=\"label\">16</span><span class=\"content\">Aumentaste tus mercaderes</span></span></div><div class=\"q2\"><span class=\"verse v16\" data-usfm=\"NAM.3.16\"><span class=\"content\">m&#225;s que las estrellas del cielo.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:16 </span><span class=\"fq\">cielo </span><span class=\"ft\">(lectura probable); </span><span class=\"fqa\">cielo. La larva se desprende del capullo y vuela </span><span class=\"ft\">(TM).</span></span></span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"NAM.3.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"NAM.3.17\"><span class=\"label\">17</span><span class=\"content\">Tus dignatarios son como langostas</span></span></div><div class=\"q2\"><span class=\"verse v17\" data-usfm=\"NAM.3.17\"><span class=\"content\">y tus oficiales, como insectos</span></span></div><div class=\"q2\"><span class=\"verse v17\" data-usfm=\"NAM.3.17\"><span class=\"content\">que en d&#237;as fr&#237;os se posan sobre los muros,</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"NAM.3.17\"><span class=\"content\">pero que al salir el sol desaparecen,</span></span></div><div class=\"q2\"><span class=\"verse v17\" data-usfm=\"NAM.3.17\"><span class=\"content\">y nadie sabe d&#243;nde hallarlos.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"NAM.3.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"NAM.3.18\"><span class=\"label\">18</span><span class=\"content\">Rey de Asiria,</span></span></div><div class=\"q2\"><span class=\"verse v18\" data-usfm=\"NAM.3.18\"><span class=\"content\">tus pastores est&#225;n amodorrados,</span></span></div><div class=\"q2\"><span class=\"verse v18\" data-usfm=\"NAM.3.18\"><span class=\"content\">&#161;tus tropas escogidas se echaron a dormir!</span></span></div><div class=\"q1\"><span class=\"verse v18\" data-usfm=\"NAM.3.18\"><span class=\"content\">Tu pueblo anda disperso por los montes,</span></span></div><div class=\"q2\"><span class=\"verse v18\" data-usfm=\"NAM.3.18\"><span class=\"content\">y no hay quien lo re&#250;na.</span></span></div><div class=\"q1\"><span class=\"verse v18\" data-usfm=\"NAM.3.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"NAM.3.19\"><span class=\"label\">19</span><span class=\"content\">Tu herida no tiene remedio;</span></span></div><div class=\"q2\"><span class=\"verse v19\" data-usfm=\"NAM.3.19\"><span class=\"content\">tu llaga es incurable.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v19\" data-usfm=\"NAM.3.19\"><span class=\"content\">Todos los que sepan lo que te ha pasado</span></span></div><div class=\"q2\"><span class=\"verse v19\" data-usfm=\"NAM.3.19\"><span class=\"content\">celebrar&#225;n tu desgracia.</span></span></div><div class=\"q1\"><span class=\"verse v19\" data-usfm=\"NAM.3.19\"><span class=\"content\">Pues &#191;qui&#233;n no fue v&#237;ctima</span></span></div><div class=\"q2\"><span class=\"verse v19\" data-usfm=\"NAM.3.19\"><span class=\"content\">de tu constante maldad?</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Descripción del fin de Nínive"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "¡Ay de la ciudad sedienta de sangre,",
+            "repleta de mentira,",
+            "insaciable en su rapiña,",
+            "aferrada a la presa!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Se oye el chasquido de los látigos,",
+            "el estrépito de las ruedas,",
+            "el galopar de los caballos,",
+            "el chirrido de los carros,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "la carga de la caballería,",
+            "el fulgor de las espadas,",
+            "el centellear de las lanzas,",
+            "la multitud de muertos,",
+            "los cuerpos amontonados,",
+            "los cadáveres por doquier,",
+            "en los que todos tropiezan."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "¡Y todo por las muchas prostituciones",
+            "de esa ramera de encantos zalameros,",
+            "de esa maestra de la seducción!",
+            "Engañó a los pueblos con sus fornicaciones,",
+            "y a los clanes con sus embrujos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            5
+          ],
+          "lines": [
+            "«¡Aquí estoy contra ti!",
+            "—afirma el Señor Todopoderoso—.",
+            "Te levantaré la falda hasta la cara,",
+            "para que las naciones vean tu desnudez,",
+            "y los reinos descubran tus vergüenzas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Te cubriré de inmundicias,",
+            "te ultrajaré y te exhibiré en público."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "Todos los que te vean huirán de ti,",
+            "y dirán: “¡Nínive ha sido devastada!",
+            "¿Quién hará duelo por ella?”",
+            "¿Dónde hallaré quien la consuele?»"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Destrucción total de Nínive"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            8
+          ],
+          "lines": [
+            "¿Acaso eres mejor que Tebas,",
+            "ciudad rodeada de aguas,",
+            "asentada junto a las corrientes del Nilo,",
+            "que tiene al mar por terraplén",
+            "y a las aguas por muralla?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            9
+          ],
+          "lines": [
+            "Cus y Egipto eran su fuerza ilimitada,",
+            "Fut y Libia eran sus aliados."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Con todo, Tebas marchó al exilio;",
+            "fue llevada al cautiverio.",
+            "A sus hijos los estrellaron",
+            "contra las esquinas de las calles.",
+            "Sobre sus nobles echaron suertes,",
+            "y encadenaron a su gente ilustre."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            11
+          ],
+          "lines": [
+            "También tú, Nínive, te embriagarás,",
+            "y se embotarán tus sentidos.",
+            "También tú, por causa del enemigo,",
+            "tendrás que buscar refugio."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            12
+          ],
+          "lines": [
+            "Todas tus fortalezas son higueras",
+            "cargadas de brevas maduras:",
+            "si las sacuden,",
+            "caen en la boca del que se las come."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "Mira, al enfrentarse al enemigo",
+            "tus tropas se portan como mujeres.",
+            "Las puertas de tu país quedarán abiertas de par en par,",
+            "porque el fuego consumirá tus cerrojos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_numbers": [],
+          "lines": [
+            "Defensa inútil"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            14
+          ],
+          "lines": [
+            "Abastécete de agua para el asedio,",
+            "refuerza tus fortificaciones.",
+            "Métete al barro, pisa la mezcla",
+            "y moldea los ladrillos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            15
+          ],
+          "lines": [
+            "Porque allí mismo te consumirá el fuego",
+            "y te exterminará la espada;",
+            "¡como larva de langosta te devorará!",
+            "Multiplícate como larva,",
+            "reprodúcete como langosta."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            16
+          ],
+          "lines": [
+            "Aumentaste tus mercaderes",
+            "más que las estrellas del cielo."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            17
+          ],
+          "lines": [
+            "Tus dignatarios son como langostas",
+            "y tus oficiales, como insectos",
+            "que en días fríos se posan sobre los muros,",
+            "pero que al salir el sol desaparecen,",
+            "y nadie sabe dónde hallarlos."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            18
+          ],
+          "lines": [
+            "Rey de Asiria,",
+            "tus pastores están amodorrados,",
+            "¡tus tropas escogidas se echaron a dormir!",
+            "Tu pueblo anda disperso por los montes,",
+            "y no hay quien lo reúna."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "Tu herida no tiene remedio;",
+            "tu llaga es incurable.",
+            "Todos los que sepan lo que te ha pasado",
+            "celebrarán tu desgracia.",
+            "Pues ¿quién no fue víctima",
+            "de tu constante maldad?"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

@@ -222,6 +222,7 @@ En cada carpeta de versión hay un archivo `README.md` que incluye:
 | `NBLA`    | Nueva Biblia de las Américas                   | [readme](https://github.com/mrk214/bible-data-es-spa/blob/main/data/es___spa___spa/NBLA/README.md)    |
 | `NTV`     | Nueva Traducción Viviente                      | [readme](https://github.com/mrk214/bible-data-es-spa/blob/main/data/es___spa___spa/NTV/README.md)     |
 | `NVI`     | Nueva Versión Internacional                    | [readme](https://github.com/mrk214/bible-data-es-spa/blob/main/data/es___spa___spa/NVI/README.md)     |
+| `NVI`     | Nueva Versión Internacional - Castellano       | [readme](https://github.com/mrk214/bible-data-es-spa/blob/main/data/es___spa___spa_es/NVI/README.md)  |
 | `RVA2015` | Reina Valera Actualizada                       | [readme](https://github.com/mrk214/bible-data-es-spa/blob/main/data/es___spa___spa/RVA2015/README.md) |
 | `RVC`     | Reina Valera Contemporánea                     | [readme](https://github.com/mrk214/bible-data-es-spa/blob/main/data/es___spa___spa/RVC/README.md)     |
 | `RVR1960` | Biblia Reina Valera 1960                       | [readme](https://github.com/mrk214/bible-data-es-spa/blob/main/data/es___spa___spa/RVR1960/README.md) |
