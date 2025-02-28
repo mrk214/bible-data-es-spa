@@ -214,19 +214,19 @@ En cada carpeta de versión hay un archivo `README.md` que incluye:
 - La **cantidad de libros** que contiene esa versión.
 - Y los **links directos a los archivos JSON alojados en GitHub**.
 
-| usfm      | name                                           | link                                                                                            |
-| --------- | ---------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| `DHH94I`  | Biblia Dios Habla Hoy                          | [readme](https://github.com/mrk214/bible-data-es-spa/blob/main/data/es___spa/DHH94I/README.md)  |
-| `DHHS94`  | Dios habla Hoy Estándar                        | [readme](https://github.com/mrk214/bible-data-es-spa/blob/main/data/es___spa/DHHS94/README.md)  |
-| `LBLA`    | La Biblia de las Américas                      | [readme](https://github.com/mrk214/bible-data-es-spa/blob/main/data/es___spa/LBLA/README.md)    |
-| `NBLA`    | Nueva Biblia de las Américas                   | [readme](https://github.com/mrk214/bible-data-es-spa/blob/main/data/es___spa/NBLA/README.md)    |
-| `NTV`     | Nueva Traducción Viviente                      | [readme](https://github.com/mrk214/bible-data-es-spa/blob/main/data/es___spa/NTV/README.md)     |
-| `NVI`     | Nueva Versión Internacional                    | [readme](https://github.com/mrk214/bible-data-es-spa/blob/main/data/es___spa/NVI/README.md)     |
-| `RVA2015` | Reina Valera Actualizada                       | [readme](https://github.com/mrk214/bible-data-es-spa/blob/main/data/es___spa/RVA2015/README.md) |
-| `RVC`     | Reina Valera Contemporánea                     | [readme](https://github.com/mrk214/bible-data-es-spa/blob/main/data/es___spa/RVC/README.md)     |
-| `RVR1960` | Biblia Reina Valera 1960                       | [readme](https://github.com/mrk214/bible-data-es-spa/blob/main/data/es___spa/RVR1960/README.md) |
-| `TLA`     | Traducción en Lenguaje Actual                  | [readme](https://github.com/mrk214/bible-data-es-spa/blob/main/data/es___spa/TLA/README.md)     |
-| `TLAI`    | Traducción en Lenguaje Actual Interconfesional | [readme](https://github.com/mrk214/bible-data-es-spa/blob/main/data/es___spa/TLAI/README.md)    |
+| usfm      | name                                           | link                                                                                                  |
+| --------- | ---------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| `DHH94I`  | Biblia Dios Habla Hoy                          | [readme](https://github.com/mrk214/bible-data-es-spa/blob/main/data/es___spa___spa/DHH94I/README.md)  |
+| `DHHS94`  | Dios habla Hoy Estándar                        | [readme](https://github.com/mrk214/bible-data-es-spa/blob/main/data/es___spa___spa/DHHS94/README.md)  |
+| `LBLA`    | La Biblia de las Américas                      | [readme](https://github.com/mrk214/bible-data-es-spa/blob/main/data/es___spa___spa/LBLA/README.md)    |
+| `NBLA`    | Nueva Biblia de las Américas                   | [readme](https://github.com/mrk214/bible-data-es-spa/blob/main/data/es___spa___spa/NBLA/README.md)    |
+| `NTV`     | Nueva Traducción Viviente                      | [readme](https://github.com/mrk214/bible-data-es-spa/blob/main/data/es___spa___spa/NTV/README.md)     |
+| `NVI`     | Nueva Versión Internacional                    | [readme](https://github.com/mrk214/bible-data-es-spa/blob/main/data/es___spa___spa/NVI/README.md)     |
+| `RVA2015` | Reina Valera Actualizada                       | [readme](https://github.com/mrk214/bible-data-es-spa/blob/main/data/es___spa___spa/RVA2015/README.md) |
+| `RVC`     | Reina Valera Contemporánea                     | [readme](https://github.com/mrk214/bible-data-es-spa/blob/main/data/es___spa___spa/RVC/README.md)     |
+| `RVR1960` | Biblia Reina Valera 1960                       | [readme](https://github.com/mrk214/bible-data-es-spa/blob/main/data/es___spa___spa/RVR1960/README.md) |
+| `TLA`     | Traducción en Lenguaje Actual                  | [readme](https://github.com/mrk214/bible-data-es-spa/blob/main/data/es___spa___spa/TLA/README.md)     |
+| `TLAI`    | Traducción en Lenguaje Actual Interconfesional | [readme](https://github.com/mrk214/bible-data-es-spa/blob/main/data/es___spa___spa/TLAI/README.md)    |
 
 ## Capítulos especiales
 
