@@ -1,265 +1,954 @@
-# La Biblia en formato JSON
+## DHH94I
 
-📖 Este proyecto es un conjunto de datos de la **Biblia** en formato `JSON`
-(encoding `utf8`), obtenidos mediante web scraping. Los datos están
-estructurados de manera estándar y consistente, con la intención de que sea
-sencillo implementar cualquiera de las versiones (_traducciones_) disponibles
-aquí.
+### Biblia Dios Habla Hoy
 
-👨‍💻 En la carpeta **data** se encuentran las diferentes versiones, divididas en
-archivos `JSON` por cada libro de la Biblia.
+**75** books ([raw file link](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa/DHH94I.json)).
 
-🙏 Espero poder seguir agregando traducciones mientras sea posible, espero que
-sea útil para alguien que lo necesite; y, sobre todo, espero que sirva para la
-obra de Dios.
+| usfm | name |
+| ---------- | ---------- |
+| `GEN` | Génesis |
+| `EXO` | Éxodo |
+| `LEV` | Levítico |
+| `NUM` | Números |
+| `DEU` | Deuteronomio |
+| `JOS` | Josué |
+| `JDG` | Jueces |
+| `RUT` | Rut |
+| `1SA` | 1 Samuel |
+| `2SA` | 2 Samuel |
+| `1KI` | 1 Reyes |
+| `2KI` | 2 Reyes |
+| `1CH` | 1 Crónicas |
+| `2CH` | 2 Crónicas |
+| `EZR` | Esdras |
+| `NEH` | Nehemías |
+| `EST` | Ester |
+| `JOB` | Job |
+| `PSA` | Salmos |
+| `PRO` | Proverbios |
+| `ECC` | Eclesiastés |
+| `SNG` | Cantares |
+| `ISA` | Isaías |
+| `JER` | Jeremías |
+| `LAM` | Lamentaciones |
+| `EZK` | Ezequiel |
+| `DAN` | Daniel |
+| `HOS` | Oseas |
+| `JOL` | Joel |
+| `AMO` | Amós |
+| `OBA` | Abdías |
+| `JON` | Jonás |
+| `MIC` | Miqueas |
+| `NAM` | Nahúm |
+| `HAB` | Habacuc |
+| `ZEP` | Sofonías |
+| `HAG` | Hageo |
+| `ZEC` | Zacarías |
+| `MAL` | Malaquías |
+| `TOB` | Tobit |
+| `JDT` | Judit |
+| `ESG` | Ester (dc) |
+| `1MA` | 1 Macabeos |
+| `2MA` | 2 Macabeos |
+| `SIR` | Eclesiástico |
+| `WIS` | Sabiduría |
+| `BAR` | Baruc |
+| `DAG` | Daniel (dc) |
+| `MAT` | San Mateo |
+| `MRK` | San Marcos |
+| `LUK` | San Lucas |
+| `JHN` | San Juan |
+| `ACT` | Hechos |
+| `ROM` | Romanos |
+| `1CO` | 1 Corintios |
+| `2CO` | 2 Corintios |
+| `GAL` | Gálatas |
+| `EPH` | Efesios |
+| `PHP` | Filipenses |
+| `COL` | Colosenses |
+| `1TH` | 1 Tesalonicenses |
+| `2TH` | 2 Tesalonicenses |
+| `1TI` | 1 Timoteo |
+| `2TI` | 2 Timoteo |
+| `TIT` | Tito |
+| `PHM` | Filemón |
+| `HEB` | Hebreos |
+| `JAS` | Santiago |
+| `1PE` | 1 Pedro |
+| `2PE` | 2 Pedro |
+| `1JN` | 1 Juan |
+| `2JN` | 2 Juan |
+| `3JN` | 3 Juan |
+| `JUD` | Judas |
+| `REV` | Apocalipsis |
 
-## Estructura de los datos
+---
 
-Cada archivo `JSON` corresponde a un libro de la Biblia, y fue tipado como
-`Book` (con **TypeScript**).
-Es por ello que adjunto los tipos en **TypeScript** con los que fueron
-estructurados los datos, para que se entienda su funcionamiento.
+## DHHS94
 
-Los tipos importantes aquí son `Book`, `Chapter`, `ChapterItem` y
-`ChapterItemType`.
+### Dios habla Hoy Estándar
 
-```typescript
-export type Book = {
-  book_usfm: string
-  name: string
-  local_title: string
-  local_abbreviation: string
-  version_id: number
-  publisher: Publisher
-  copyright: Copyright
-  language: Language
-  repository: string
-  chapters: Chapter[]
-}
+**75** books ([raw file link](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa/DHHS94.json)).
 
-export type Chapter = {
-  chapter_usfm: string
-  is_chapter: boolean
-  current: Current
-  next: NextPrev | null
-  previous: NextPrev | null
-  chapter_text: string
-  chapter_html: string
-  items: ChapterItem[]
-}
+| usfm | name |
+| ---------- | ---------- |
+| `GEN` | Génesis |
+| `EXO` | Éxodo |
+| `LEV` | Levítico |
+| `NUM` | Números |
+| `DEU` | Deuteronomio |
+| `JOS` | Josué |
+| `JDG` | Jueces |
+| `RUT` | Rut |
+| `1SA` | 1 Samuel |
+| `2SA` | 2 Samuel |
+| `1KI` | 1 Reyes |
+| `2KI` | 2 Reyes |
+| `1CH` | 1 Crónicas |
+| `2CH` | 2 Crónicas |
+| `EZR` | Esdras |
+| `NEH` | Nehemías |
+| `EST` | Ester |
+| `JOB` | Job |
+| `PSA` | Salmos |
+| `PRO` | Proverbios |
+| `ECC` | Eclesiastés |
+| `SNG` | Cantares |
+| `ISA` | Isaías |
+| `JER` | Jeremías |
+| `LAM` | Lamentaciones |
+| `EZK` | Ezequiel |
+| `DAN` | Daniel |
+| `HOS` | Oseas |
+| `JOL` | Joel |
+| `AMO` | Amós |
+| `OBA` | Abdías |
+| `JON` | Jonás |
+| `MIC` | Miqueas |
+| `NAM` | Nahúm |
+| `HAB` | Habacuc |
+| `ZEP` | Sofonías |
+| `HAG` | Hageo |
+| `ZEC` | Zacarías |
+| `MAL` | Malaquías |
+| `TOB` | Tobit |
+| `JDT` | Judit |
+| `ESG` | Ester (dc) |
+| `1MA` | 1 Macabeos |
+| `2MA` | 2 Macabeos |
+| `SIR` | Eclesiástico |
+| `WIS` | Sabiduría |
+| `BAR` | Baruc |
+| `DAG` | Daniel (dc) |
+| `MAT` | San Mateo |
+| `MRK` | San Marcos |
+| `LUK` | San Lucas |
+| `JHN` | San Juan |
+| `ACT` | Hechos |
+| `ROM` | Romanos |
+| `1CO` | 1 Corintios |
+| `2CO` | 2 Corintios |
+| `GAL` | Gálatas |
+| `EPH` | Efesios |
+| `PHP` | Filipenses |
+| `COL` | Colosenses |
+| `1TH` | 1 Tesalonicenses |
+| `2TH` | 2 Tesalonicenses |
+| `1TI` | 1 Timoteo |
+| `2TI` | 2 Timoteo |
+| `TIT` | Tito |
+| `PHM` | Filemón |
+| `HEB` | Hebreos |
+| `JAS` | Santiago |
+| `1PE` | 1 Pedro |
+| `2PE` | 2 Pedro |
+| `1JN` | 1 Juan |
+| `2JN` | 2 Juan |
+| `3JN` | 3 Juan |
+| `JUD` | Judas |
+| `REV` | Apocalipsis |
 
-export type ChapterItem = {
-  type: ChapterItemType
-  verse_numbers: number[]
-  lines: string[]
-  rlw_lines: RedLetterWordsSection[][]
-}
+---
 
-// Dependiendo de la versión, algunos ChapterItemType pueden aparecer más o menos.
-// Los ChapterItemType esenciales son: 'heading1' y 'verse'.
-// Puse comentarios que pueden usarse como referencia para los estilos. 👇👇👇
-// (Solo es una referencia; puedes poner los estilos que quieras.)
-export type ChapterItemType =
-  | 'section1' // raro      - weight: 900 - h1
-  | 'section2' // raro      - weight: 800 - h2
-  | 'heading1' // muy común - weight: 700 - h3
-  | 'heading2' // común     - weight: 600 - h4
-  | 'label' //    común     - weight: 500 - italic
-  | 'verse' //    muy común - weight: 400 - regular text
-```
+## LBLA
 
-Demás tipos.
+### La Biblia de las Américas
 
-```typescript
-export type Publisher = {
-  name: string
-}
+**66** books ([raw file link](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa/LBLA.json)).
 
-export type Copyright = {
-  html: string
-  text: string
-}
+| usfm | name |
+| ---------- | ---------- |
+| `GEN` | Génesis |
+| `EXO` | Éxodo |
+| `LEV` | Levítico |
+| `NUM` | Números |
+| `DEU` | Deuteronomio |
+| `JOS` | Josué |
+| `JDG` | Jueces |
+| `RUT` | Rut |
+| `1SA` | 1 Samuel |
+| `2SA` | 2 Samuel |
+| `1KI` | 1 Reyes |
+| `2KI` | 2 Reyes |
+| `1CH` | 1 Crónicas |
+| `2CH` | 2 Crónicas |
+| `EZR` | Esdras |
+| `NEH` | Nehemías |
+| `EST` | Ester |
+| `JOB` | Job |
+| `PSA` | Salmo |
+| `PRO` | Proverbios |
+| `ECC` | Eclesiastés |
+| `SNG` | Cantares |
+| `ISA` | Isaías |
+| `JER` | Jeremías |
+| `LAM` | Lamentaciones |
+| `EZK` | Ezequiel |
+| `DAN` | Daniel |
+| `HOS` | Oseas |
+| `JOL` | Joel |
+| `AMO` | Amós |
+| `OBA` | Abdías |
+| `JON` | Jonás |
+| `MIC` | Miqueas |
+| `NAM` | Nahúm |
+| `HAB` | Habacuc |
+| `ZEP` | Sofonías |
+| `HAG` | Hageo |
+| `ZEC` | Zacarías |
+| `MAL` | Malaquías |
+| `MAT` | Mateo |
+| `MRK` | Marcos |
+| `LUK` | Lucas |
+| `JHN` | Juan |
+| `ACT` | Hechos |
+| `ROM` | Romanos |
+| `1CO` | 1 Corintios |
+| `2CO` | 2 Corintios |
+| `GAL` | Gálatas |
+| `EPH` | Efesios |
+| `PHP` | Filipenses |
+| `COL` | Colosenses |
+| `1TH` | 1 Tesalonicenses |
+| `2TH` | 2 Tesalonicenses |
+| `1TI` | 1 Timoteo |
+| `2TI` | 2 Timoteo |
+| `TIT` | Tito |
+| `PHM` | Filemón |
+| `HEB` | Hebreos |
+| `JAS` | Santiago |
+| `1PE` | 1 Pedro |
+| `2PE` | 2 Pedro |
+| `1JN` | 1 Juan |
+| `2JN` | 2 Juan |
+| `3JN` | 3 Juan |
+| `JUD` | Judas |
+| `REV` | Apocalipsis |
 
-export type Language = {
-  iso_639_1: string
-  iso_639_3: string
-  language_tag: string
-  local_name: string
-  text_direction: string
-}
+---
 
-export type Current = {
-  usfm: string[]
-  human: string
-}
+## NBLA
 
-export type NextPrev = Current & {
-  canonical: boolean
-  toc: boolean
-}
+### Nueva Biblia de las Américas
 
-export type RedLetterWordsSection = {
-  text: string
-  rl: boolean
-}
-```
+**66** books ([raw file link](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa/NBLA.json)).
 
-## Explicación
+| usfm | name |
+| ---------- | ---------- |
+| `GEN` | Génesis |
+| `EXO` | Éxodo |
+| `LEV` | Levítico |
+| `NUM` | Números |
+| `DEU` | Deuteronomio |
+| `JOS` | Josué |
+| `JDG` | Jueces |
+| `RUT` | Rut |
+| `1SA` | 1 Samuel |
+| `2SA` | 2 Samuel |
+| `1KI` | 1 Reyes |
+| `2KI` | 2 Reyes |
+| `1CH` | 1 Crónicas |
+| `2CH` | 2 Crónicas |
+| `EZR` | Esdras |
+| `NEH` | Nehemías |
+| `EST` | Ester |
+| `JOB` | Job |
+| `PSA` | Salmo |
+| `PRO` | Proverbios |
+| `ECC` | Eclesiastés |
+| `SNG` | Cantares |
+| `ISA` | Isaías |
+| `JER` | Jeremías |
+| `LAM` | Lamentaciones |
+| `EZK` | Ezequiel |
+| `DAN` | Daniel |
+| `HOS` | Oseas |
+| `JOL` | Joel |
+| `AMO` | Amós |
+| `OBA` | Abdías |
+| `JON` | Jonás |
+| `MIC` | Miqueas |
+| `NAM` | Nahúm |
+| `HAB` | Habacuc |
+| `ZEP` | Sofonías |
+| `HAG` | Hageo |
+| `ZEC` | Zacarías |
+| `MAL` | Malaquías |
+| `MAT` | Mateo |
+| `MRK` | Marcos |
+| `LUK` | Lucas |
+| `JHN` | Juan |
+| `ACT` | Hechos |
+| `ROM` | Romanos |
+| `1CO` | 1 Corintios |
+| `2CO` | 2 Corintios |
+| `GAL` | Gálatas |
+| `EPH` | Efesios |
+| `PHP` | Filipenses |
+| `COL` | Colosenses |
+| `1TH` | 1 Tesalonicenses |
+| `2TH` | 2 Tesalonicenses |
+| `1TI` | 1 Timoteo |
+| `2TI` | 2 Timoteo |
+| `TIT` | Tito |
+| `PHM` | Filemón |
+| `HEB` | Hebreos |
+| `JAS` | Santiago |
+| `1PE` | 1 Pedro |
+| `2PE` | 2 Pedro |
+| `1JN` | 1 Juan |
+| `2JN` | 2 Juan |
+| `3JN` | 3 Juan |
+| `JUD` | Judas |
+| `REV` | Apocalipsis |
 
-Los datos son en su mayoría autoexplicativos, pero dejo algunas aclaraciones ya
-que, según la versión, pueden variar algunos datos (_pero no la estructura, la
-estructura es la misma para todas las versiones_):
+---
 
-👉 Cada **libro** (`Book`) contiene **capítulos** (`Chapter[]`), y cada capítulo
-contiene **items** (`ChapterItem[]`).
+## NTV
 
-👉 En algunas versiones, algunos libros tienen una introducción.
-Para verificar que un **capítulo** (`Chapter`) es realmente un capítulo y no una
-introducción, puedes usar la propiedad `is_chapter`.
+### Nueva Traducción Viviente
 
-👉 Si un `Chapter` es una introducción, entonces su propiedad `items` será un
-array vacío. Si deseas usar el contenido, estará disponible en las propiedades
-`chapter_text` y `chapter_html`.
+**66** books ([raw file link](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa/NTV.json)).
 
-👉 Un `ChapterItem` casi siempre será de tipo **verse** (`verse`) o **heading1**
-(`heading1`). Sin embargo, hay varios otros tipos: `section1`, `section2`,
-`heading1`, `heading2`, `label`, `verse`.
+| usfm | name |
+| ---------- | ---------- |
+| `GEN` | Génesis |
+| `EXO` | Éxodo |
+| `LEV` | Levítico |
+| `NUM` | Números |
+| `DEU` | Deuteronomio |
+| `JOS` | Josué |
+| `JDG` | Jueces |
+| `RUT` | Rut |
+| `1SA` | 1 Samuel |
+| `2SA` | 2 Samuel |
+| `1KI` | 1 Reyes |
+| `2KI` | 2 Reyes |
+| `1CH` | 1 Crónicas |
+| `2CH` | 2 Crónicas |
+| `EZR` | Esdras |
+| `NEH` | Nehemías |
+| `EST` | Ester |
+| `JOB` | Job |
+| `PSA` | Salmos |
+| `PRO` | Proverbios |
+| `ECC` | Eclesiastés |
+| `SNG` | Cantar de los Cantares |
+| `ISA` | Isaías |
+| `JER` | Jeremías |
+| `LAM` | Lamentaciones |
+| `EZK` | Ezequiel |
+| `DAN` | Daniel |
+| `HOS` | Oseas |
+| `JOL` | Joel |
+| `AMO` | Amós |
+| `OBA` | Abdías |
+| `JON` | Jonás |
+| `MIC` | Miqueas |
+| `NAM` | Nahúm |
+| `HAB` | Habacuc |
+| `ZEP` | Sofonías |
+| `HAG` | Hageo |
+| `ZEC` | Zacarías |
+| `MAL` | Malaquías |
+| `MAT` | Mateo |
+| `MRK` | Marcos |
+| `LUK` | Lucas |
+| `JHN` | Juan |
+| `ACT` | Hechos de los Apóstoles |
+| `ROM` | Romanos |
+| `1CO` | 1 Corintios |
+| `2CO` | 2 Corintios |
+| `GAL` | Gálatas |
+| `EPH` | Efesios |
+| `PHP` | Filipenses |
+| `COL` | Colosenses |
+| `1TH` | 1 Tesalonicenses |
+| `2TH` | 2 Tesalonicenses |
+| `1TI` | 1 Timoteo |
+| `2TI` | 2 Timoteo |
+| `TIT` | Tito |
+| `PHM` | Filemón |
+| `HEB` | Hebreos |
+| `JAS` | Santiago |
+| `1PE` | 1 Pedro |
+| `2PE` | 2 Pedro |
+| `1JN` | 1 Juan |
+| `2JN` | 2 Juan |
+| `3JN` | 3 Juan |
+| `JUD` | Judas |
+| `REV` | Apocalipsis |
 
-👉 Si un `ChapterItem` **no es de tipo verse** (`verse`), entonces su propiedad
-`verse_numbers` siempre será un array vacío `[]`.
+---
 
-👉 La razón por la que `verse_numbers` es un array es porque algunas versiones
-agrupan varios versículos en un solo párrafo de texto, sin que se pueda saber
-dónde comienza o termina cada versículo: `"verse_numbers":[5,6,7]`.
+## NVI
 
-👉 Pero lo más común siempre será que `verse_numbers` contenga un solo item:
-`"verse_numbers":[7]`.
+### Nueva Versión Internacional - Español
 
-👉 Los versículos (`ChapterItem` _de tipo_ `verse`) se dividen en líneas, por lo
-que `lines` es un array (`string[]`).
-A veces tiene un solo elemento, y otras veces varios, dependiendo de cómo esté
-estructurado el versículo (_esto no lo decidí yo, sino que así viene desde la
-fuente de datos, y puede cambiar de un capítulo a otro_).
+**66** books ([raw file link](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa/NVI.json)).
 
-👉 Por otro lado, en los `ChapterItem` de tipo **diferente a** `verse`, como
-`heading1`, su propiedad `lines` siempre será un array de un solo elemento:
-`"lines":["Hello world"]`.
+| usfm | name |
+| ---------- | ---------- |
+| `GEN` | Génesis |
+| `EXO` | Éxodo |
+| `LEV` | Levítico |
+| `NUM` | Números |
+| `DEU` | Deuteronomio |
+| `JOS` | Josué |
+| `JDG` | Jueces |
+| `RUT` | Rut |
+| `1SA` | 1 Samuel |
+| `2SA` | 2 Samuel |
+| `1KI` | 1 Reyes |
+| `2KI` | 2 Reyes |
+| `1CH` | 1 Crónicas |
+| `2CH` | 2 Crónicas |
+| `EZR` | Esdras |
+| `NEH` | Nehemías |
+| `EST` | Ester |
+| `JOB` | Job |
+| `PSA` | Salmo |
+| `PRO` | Proverbios |
+| `ECC` | Eclesiastés |
+| `SNG` | Cantares |
+| `ISA` | Isaías |
+| `JER` | Jeremías |
+| `LAM` | Lamentaciones |
+| `EZK` | Ezequiel |
+| `DAN` | Daniel |
+| `HOS` | Oseas |
+| `JOL` | Joel |
+| `AMO` | Amós |
+| `OBA` | Abdías |
+| `JON` | Jonás |
+| `MIC` | Miqueas |
+| `NAM` | Nahúm |
+| `HAB` | Habacuc |
+| `ZEP` | Sofonías |
+| `HAG` | Hageo |
+| `ZEC` | Zacarías |
+| `MAL` | Malaquías |
+| `MAT` | Mateo |
+| `MRK` | Marcos |
+| `LUK` | Lucas |
+| `JHN` | Juan |
+| `ACT` | Hechos |
+| `ROM` | Romanos |
+| `1CO` | 1 Corintios |
+| `2CO` | 2 Corintios |
+| `GAL` | Gálatas |
+| `EPH` | Efesios |
+| `PHP` | Filipenses |
+| `COL` | Colosenses |
+| `1TH` | 1 Tesalonicenses |
+| `2TH` | 2 Tesalonicenses |
+| `1TI` | 1 Timoteo |
+| `2TI` | 2 Timoteo |
+| `TIT` | Tito |
+| `PHM` | Filemón |
+| `HEB` | Hebreos |
+| `JAS` | Santiago |
+| `1PE` | 1 Pedro |
+| `2PE` | 2 Pedro |
+| `1JN` | 1 Juan |
+| `2JN` | 2 Juan |
+| `3JN` | 3 Juan |
+| `JUD` | Judas |
+| `REV` | Apocalipsis |
 
-👉 Algunas veces se puede encontrar un título (_u otro elemento_) en medio de un
-versículo. En estos casos, el versículo continúa después del elemento. Por lo
-tanto, un mismo `verse_numbers` puede repetirse en más de un `ChapterItem`.
+---
 
-- Esto se debe tener en cuenta a la hora de buscar un versículo, por ejemplo,
-  ya que **aunque no es común**, se pueden encontrar varios `ChapterItem` con el
-  mismo array en `verse_numbers`.
+## RVA2015
 
-- También porque, generalmente, solo se quiere mostrar el número del versículo
-  la primera vez, al principio del versículo.
+### Reina Valera Actualizada
 
-👉 Cada capítulo (`Chapter`) también contiene el texto completo del capítulo en
-formato plano en `chapter_text`, con caracteres de salto de línea (`\n`), y el
-HTML original en `chapter_html`.
+**66** books ([raw file link](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa/RVA2015.json)).
 
-👉 **rlw** significa **red letter words**, es decir, las palabras atribuidas a
-Jesús. Por esto, `ChapterItem` tiene una propiedad llamada `rlw_lines`.
+| usfm | name |
+| ---------- | ---------- |
+| `GEN` | Génesis |
+| `EXO` | Éxodo |
+| `LEV` | Levítico |
+| `NUM` | Números |
+| `DEU` | Deuteronomio |
+| `JOS` | Josué |
+| `JDG` | Jueces |
+| `RUT` | Rut |
+| `1SA` | 1 Samuel |
+| `2SA` | 2 Samuel |
+| `1KI` | 1 Reyes |
+| `2KI` | 2 Reyes |
+| `1CH` | 1 Crónicas |
+| `2CH` | 2 Crónicas |
+| `EZR` | Esdras |
+| `NEH` | Nehemías |
+| `EST` | Ester |
+| `JOB` | Job |
+| `PSA` | Salmos |
+| `PRO` | Proverbios |
+| `ECC` | Eclesiastés |
+| `SNG` | Cantares |
+| `ISA` | Isaías |
+| `JER` | Jeremías |
+| `LAM` | Lamentaciones |
+| `EZK` | Ezequiel |
+| `DAN` | Daniel |
+| `HOS` | Oseas |
+| `JOL` | Joel |
+| `AMO` | Amós |
+| `OBA` | Abdías |
+| `JON` | Jonás |
+| `MIC` | Miqueas |
+| `NAM` | Nahúm |
+| `HAB` | Habacuc |
+| `ZEP` | Sofonías |
+| `HAG` | Hageo |
+| `ZEC` | Zacarías |
+| `MAL` | Malaquías |
+| `MAT` | Mateo |
+| `MRK` | Marcos |
+| `LUK` | Lucas |
+| `JHN` | Juan |
+| `ACT` | Hechos |
+| `ROM` | Romanos |
+| `1CO` | 1 Corintios |
+| `2CO` | 2 Corintios |
+| `GAL` | Gálatas |
+| `EPH` | Efesios |
+| `PHP` | Filipenses |
+| `COL` | Colosenses |
+| `1TH` | 1 Tesalonicenses |
+| `2TH` | 2 Tesalonicenses |
+| `1TI` | 1 Timoteo |
+| `2TI` | 2 Timoteo |
+| `TIT` | Tito |
+| `PHM` | Filemón |
+| `HEB` | Hebreos |
+| `JAS` | Santiago |
+| `1PE` | 1 Pedro |
+| `2PE` | 2 Pedro |
+| `1JN` | 1 Juan |
+| `2JN` | 2 Juan |
+| `3JN` | 3 Juan |
+| `JUD` | Judas |
+| `REV` | Apocalipsis |
 
-👉 Para ahorrar espacio, `rlw_lines` casi siempre será un array vacío, ya que la
-mayoría de los versículos de la Biblia no contienen **red letter words** (_y
-tampoco en todas las versiones vienen marcadas_).
+---
 
-👉 El array `rlw_lines` solo tendrá items cuando el versículo contenga
-**red letter words**. Puedes usar este dato como una validación.
+## RVC
 
-👉 También debes saber que, si el versículo contiene **red letter words**,
-entonces por cada elemento en el array `lines` existe un elemento en el
-array `rlw_lines`.
+### Reina Valera Contemporánea
 
-- **if** `rlw_lines.length > 0` **then** `rlw_lines.length === lines.length`
+**66** books ([raw file link](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa/RVC.json)).
 
-👉 Sin embargo, cada elemento de `rlw_lines` también es un array, porque a veces
-solo una parte de una línea se atribuye a Jesús.
+| usfm | name |
+| ---------- | ---------- |
+| `GEN` | Génesis |
+| `EXO` | Éxodo |
+| `LEV` | Levítico |
+| `NUM` | Números |
+| `DEU` | Deuteronomio |
+| `JOS` | Josué |
+| `JDG` | Jueces |
+| `RUT` | Rut |
+| `1SA` | 1 Samuel |
+| `2SA` | 2 Samuel |
+| `1KI` | 1 Reyes |
+| `2KI` | 2 Reyes |
+| `1CH` | 1 Crónicas |
+| `2CH` | 2 Crónicas |
+| `EZR` | Esdras |
+| `NEH` | Nehemías |
+| `EST` | Ester |
+| `JOB` | Job |
+| `PSA` | Salmos |
+| `PRO` | Proverbios |
+| `ECC` | Eclesiastés |
+| `SNG` | Cantares |
+| `ISA` | Isaías |
+| `JER` | Jeremías |
+| `LAM` | Lamentaciones |
+| `EZK` | Ezequiel |
+| `DAN` | Daniel |
+| `HOS` | Oseas |
+| `JOL` | Joel |
+| `AMO` | Amós |
+| `OBA` | Abdías |
+| `JON` | Jonás |
+| `MIC` | Miqueas |
+| `NAM` | Nahúm |
+| `HAB` | Habacuc |
+| `ZEP` | Sofonías |
+| `HAG` | Hageo |
+| `ZEC` | Zacarías |
+| `MAL` | Malaquías |
+| `MAT` | San Mateo |
+| `MRK` | San Marcos |
+| `LUK` | San Lucas |
+| `JHN` | San Juan |
+| `ACT` | Hechos |
+| `ROM` | Romanos |
+| `1CO` | 1 Corintios |
+| `2CO` | 2 Corintios |
+| `GAL` | Gálatas |
+| `EPH` | Efesios |
+| `PHP` | Filipenses |
+| `COL` | Colosenses |
+| `1TH` | 1 Tesalonicenses |
+| `2TH` | 2 Tesalonicenses |
+| `1TI` | 1 Timoteo |
+| `2TI` | 2 Timoteo |
+| `TIT` | Tito |
+| `PHM` | Filemón |
+| `HEB` | Hebreos |
+| `JAS` | Santiago |
+| `1PE` | 1 Pedro |
+| `2PE` | 2 Pedro |
+| `1JN` | 1 Juan |
+| `2JN` | 2 Juan |
+| `3JN` | 3 Juan |
+| `JUD` | Judas |
+| `REV` | Apocalipsis |
 
-## Ejemplo de código
+---
 
-🤯 Para entender todo lo anterior, lo mejor es ir al código y revisar los datos
-y su estructura.
+## RVR1960
 
-🧠 Por eso, para ilustrar mejor los **diferentes casos que se pueden encontrar**
-en los datos, hice un ejemplo de código en el cual genero un archivo `README.md`
-a partir de leer algunos capítulos especiales que tienen **diferentes niveles
-de complejidad**.
+### Biblia Reina Valera 1960
 
-🤔 Estoy seguro de que te puede servir para guiarte y darte ideas.
+**66** books ([raw file link](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa/RVR1960.json)).
 
-🚀 Revisa el código en el
-[repositorio del ejemplo aquí](https://github.com/mrk214/reading-json-files).
+| usfm | name |
+| ---------- | ---------- |
+| `GEN` | Génesis |
+| `EXO` | Éxodo |
+| `LEV` | Levítico |
+| `NUM` | Números |
+| `DEU` | Deuteronomio |
+| `JOS` | Josué |
+| `JDG` | Jueces |
+| `RUT` | Rut |
+| `1SA` | 1 Samuel |
+| `2SA` | 2 Samuel |
+| `1KI` | 1 Reyes |
+| `2KI` | 2 Reyes |
+| `1CH` | 1 Crónicas |
+| `2CH` | 2 Crónicas |
+| `EZR` | Esdras |
+| `NEH` | Nehemías |
+| `EST` | Ester |
+| `JOB` | Job |
+| `PSA` | Salmos |
+| `PRO` | Proverbios |
+| `ECC` | Eclesiastés |
+| `SNG` | Cantares |
+| `ISA` | Isaías |
+| `JER` | Jeremías |
+| `LAM` | Lamentaciones |
+| `EZK` | Ezequiel |
+| `DAN` | Daniel |
+| `HOS` | Oseas |
+| `JOL` | Joel |
+| `AMO` | Amós |
+| `OBA` | Abdías |
+| `JON` | Jonás |
+| `MIC` | Miqueas |
+| `NAM` | Nahúm |
+| `HAB` | Habacuc |
+| `ZEP` | Sofonías |
+| `HAG` | Hageo |
+| `ZEC` | Zacarías |
+| `MAL` | Malaquías |
+| `MAT` | S. Mateo |
+| `MRK` | S. Marcos |
+| `LUK` | S. Lucas |
+| `JHN` | S. Juan |
+| `ACT` | Hechos |
+| `ROM` | Romanos |
+| `1CO` | 1 Corintios |
+| `2CO` | 2 Corintios |
+| `GAL` | Gálatas |
+| `EPH` | Efesios |
+| `PHP` | Filipenses |
+| `COL` | Colosenses |
+| `1TH` | 1 Tesalonicenses |
+| `2TH` | 2 Tesalonicenses |
+| `1TI` | 1 Timoteo |
+| `2TI` | 2 Timoteo |
+| `TIT` | Tito |
+| `PHM` | Filemón |
+| `HEB` | Hebreos |
+| `JAS` | Santiago |
+| `1PE` | 1 Pedro |
+| `2PE` | 2 Pedro |
+| `1JN` | 1 Juan |
+| `2JN` | 2 Juan |
+| `3JN` | 3 Juan |
+| `JUD` | Judas |
+| `REV` | Apocalipsis |
 
-## Datos calculados
+---
 
-Creo que los datos son bastante completos; sin embargo, **para evitar algo de
-redundancia y mantener cierta flexibilidad** y libertad, hay datos que no
-se encuentran de manera explícita, porque **se pueden calcular** de
-diferentes maneras.
+## TLA
 
-Así que, si no encuentras un dato en particular de manera explícita, es muy
-probable que se pueda calcular con código (_solo hay que programarlo_ 👨‍💻).
+### Traducción en Lenguaje Actual
 
-## Archivos alojados en GitHub
+**66** books ([raw file link](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa/TLA.json)).
 
-Puedes clonar el repositorio y trabajar con los archivos de manera convencional
-o, si prefieres, acceder directamente a los `archivos JSON servidos en GitHub`.
+| usfm | name |
+| ---------- | ---------- |
+| `GEN` | Génesis |
+| `EXO` | Éxodo |
+| `LEV` | Levítico |
+| `NUM` | Números |
+| `DEU` | Deuteronomio |
+| `JOS` | Josué |
+| `JDG` | Jueces |
+| `RUT` | Rut |
+| `1SA` | 1 Samuel |
+| `2SA` | 2 Samuel |
+| `1KI` | 1 Reyes |
+| `2KI` | 2 Reyes |
+| `1CH` | 1 Crónicas |
+| `2CH` | 2 Crónicas |
+| `EZR` | Esdras |
+| `NEH` | Nehemías |
+| `EST` | Ester |
+| `JOB` | Job |
+| `PSA` | Salmos |
+| `PRO` | Proverbios |
+| `ECC` | Eclesiastés |
+| `SNG` | Cantares |
+| `ISA` | Isaías |
+| `JER` | Jeremías |
+| `LAM` | Lamentaciones |
+| `EZK` | Ezequiel |
+| `DAN` | Daniel |
+| `HOS` | Oseas |
+| `JOL` | Joel |
+| `AMO` | Amós |
+| `OBA` | Abdías |
+| `JON` | Jonás |
+| `MIC` | Miqueas |
+| `NAM` | Nahúm |
+| `HAB` | Habacuc |
+| `ZEP` | Sofonías |
+| `HAG` | Hageo |
+| `ZEC` | Zacarías |
+| `MAL` | Malaquías |
+| `MAT` | Mateo |
+| `MRK` | Marcos |
+| `LUK` | Lucas |
+| `JHN` | Juan |
+| `ACT` | Hechos |
+| `ROM` | Romanos |
+| `1CO` | 1 Corintios |
+| `2CO` | 2 Corintios |
+| `GAL` | Gálatas |
+| `EPH` | Efesios |
+| `PHP` | Filipenses |
+| `COL` | Colosenses |
+| `1TH` | 1 Tesalonicenses |
+| `2TH` | 2 Tesalonicenses |
+| `1TI` | 1 Timoteo |
+| `2TI` | 2 Timoteo |
+| `TIT` | Tito |
+| `PHM` | Filemón |
+| `HEB` | Hebreos |
+| `JAS` | Santiago |
+| `1PE` | 1 Pedro |
+| `2PE` | 2 Pedro |
+| `1JN` | 1 Juan |
+| `2JN` | 2 Juan |
+| `3JN` | 3 Juan |
+| `JUD` | Judas |
+| `REV` | Apocalipsis |
 
-En cada carpeta de versión hay un archivo `README.md` que incluye:
+---
 
-- La **cantidad de libros** que contiene esa versión.
-- Y los **links directos a los archivos JSON alojados en GitHub**.
+## TLAI
 
-| usfm      | name                                           | link                                                                                                  |
-| --------- | ---------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| `DHH94I`  | Biblia Dios Habla Hoy                          | [readme](https://github.com/mrk214/bible-data-es-spa/blob/main/data/es___spa___spa/DHH94I/README.md)  |
-| `DHHS94`  | Dios habla Hoy Estándar                        | [readme](https://github.com/mrk214/bible-data-es-spa/blob/main/data/es___spa___spa/DHHS94/README.md)  |
-| `LBLA`    | La Biblia de las Américas                      | [readme](https://github.com/mrk214/bible-data-es-spa/blob/main/data/es___spa___spa/LBLA/README.md)    |
-| `NBLA`    | Nueva Biblia de las Américas                   | [readme](https://github.com/mrk214/bible-data-es-spa/blob/main/data/es___spa___spa/NBLA/README.md)    |
-| `NTV`     | Nueva Traducción Viviente                      | [readme](https://github.com/mrk214/bible-data-es-spa/blob/main/data/es___spa___spa/NTV/README.md)     |
-| `NVI`     | Nueva Versión Internacional                    | [readme](https://github.com/mrk214/bible-data-es-spa/blob/main/data/es___spa___spa/NVI/README.md)     |
-| `NVI`     | Nueva Versión Internacional - Castellano       | [readme](https://github.com/mrk214/bible-data-es-spa/blob/main/data/es___spa___spa_es/NVI/README.md)  |
-| `RVA2015` | Reina Valera Actualizada                       | [readme](https://github.com/mrk214/bible-data-es-spa/blob/main/data/es___spa___spa/RVA2015/README.md) |
-| `RVC`     | Reina Valera Contemporánea                     | [readme](https://github.com/mrk214/bible-data-es-spa/blob/main/data/es___spa___spa/RVC/README.md)     |
-| `RVR1960` | Biblia Reina Valera 1960                       | [readme](https://github.com/mrk214/bible-data-es-spa/blob/main/data/es___spa___spa/RVR1960/README.md) |
-| `TLA`     | Traducción en Lenguaje Actual                  | [readme](https://github.com/mrk214/bible-data-es-spa/blob/main/data/es___spa___spa/TLA/README.md)     |
-| `TLAI`    | Traducción en Lenguaje Actual Interconfesional | [readme](https://github.com/mrk214/bible-data-es-spa/blob/main/data/es___spa___spa/TLAI/README.md)    |
+### Traducción en Lenguaje Actual Interconfesional
 
-## Capítulos especiales
+**78** books ([raw file link](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa/TLAI.json)).
 
-En algunas versiones, hay casos especiales de algunos capítulos
-(`Chapter`) que tienen un `chapter_usfm` en un formato diferente a los demás.
+| usfm | name |
+| ---------- | ---------- |
+| `GEN` | Génesis |
+| `EXO` | Éxodo |
+| `LEV` | Levítico |
+| `NUM` | Números |
+| `DEU` | Deuteronomio |
+| `JOS` | Josué |
+| `JDG` | Jueces |
+| `RUT` | Rut |
+| `1SA` | 1 Samuel |
+| `2SA` | 2 Samuel |
+| `1KI` | 1 Reyes |
+| `2KI` | 2 Reyes |
+| `1CH` | 1 Crónicas |
+| `2CH` | 2 Crónicas |
+| `EZR` | Esdras |
+| `NEH` | Nehemías |
+| `EST` | Ester |
+| `JOB` | Job |
+| `PSA` | Salmos |
+| `PRO` | Proverbios |
+| `ECC` | Eclesiastés |
+| `SNG` | Cantares |
+| `ISA` | Isaías |
+| `JER` | Jeremías |
+| `LAM` | Lamentaciones |
+| `EZK` | Ezequiel |
+| `DAN` | Daniel |
+| `HOS` | Oseas |
+| `JOL` | Joel |
+| `AMO` | Amós |
+| `OBA` | Abdías |
+| `JON` | Jonás |
+| `MIC` | Miqueas |
+| `NAM` | Nahúm |
+| `HAB` | Habacuc |
+| `ZEP` | Sofonías |
+| `HAG` | Hageo |
+| `ZEC` | Zacarías |
+| `MAL` | Malaquías |
+| `TOB` | Tobit |
+| `JDT` | Judit |
+| `ESG` | Ester (dc) |
+| `WIS` | Sabiduría |
+| `SIR` | Eclesiástico |
+| `BAR` | Baruc |
+| `LJE` | Carta de Jer |
+| `S3Y` | Daniel (dc) |
+| `SUS` | Susana |
+| `BEL` | Bel |
+| `1MA` | 1 Macabeos |
+| `2MA` | 2 Macabeos |
+| `MAT` | Mateo |
+| `MRK` | Marcos |
+| `LUK` | Lucas |
+| `JHN` | Juan |
+| `ACT` | Hechos |
+| `ROM` | Romanos |
+| `1CO` | 1 Corintios |
+| `2CO` | 2 Corintios |
+| `GAL` | Gálatas |
+| `EPH` | Efesios |
+| `PHP` | Filipenses |
+| `COL` | Colosenses |
+| `1TH` | 1 Tesalonicenses |
+| `2TH` | 2 Tesalonicenses |
+| `1TI` | 1 Timoteo |
+| `2TI` | 2 Timoteo |
+| `TIT` | Tito |
+| `PHM` | Filemón |
+| `HEB` | Hebreos |
+| `JAS` | Santiago |
+| `1PE` | 1 Pedro |
+| `2PE` | 2 Pedro |
+| `1JN` | 1 Juan |
+| `2JN` | 2 Juan |
+| `3JN` | 3 Juan |
+| `JUD` | Judas |
+| `REV` | Apocalipsis |
 
-Por ejemplo, `PSA.42_1`, cuando el formato común es `PSA.42`.
+---
 
-Para entender un poco mejor su estructura y cómo manejarlos (_por ejemplo,
-en una búsqueda_), recomiendo revisar los siguientes campos en cada uno
-de esos capítulos:
-`chapter_usfm`, `next?.usfm?.[0]`, `chapter_text`, `chapter_html`, `items`.
+## NVI
 
-🔎 **DHH94I**
+### Nueva Versión Internacional - Castellano
 
-- `PSA.42`
-- `PSA.42_1`
-- `PSA.43_1`
-- `SIR.1`
-- `SIR.1_1`
+**66** books ([raw file link](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa_es/NVI.json)).
 
-🔎 **DHHS94**
+| usfm | name |
+| ---------- | ---------- |
+| `GEN` | Génesis |
+| `EXO` | Éxodo |
+| `LEV` | Levítico |
+| `NUM` | Números |
+| `DEU` | Deuteronomio |
+| `JOS` | Josué |
+| `JDG` | Jueces |
+| `RUT` | Rut |
+| `1SA` | 1 Samuel |
+| `2SA` | 2 Samuel |
+| `1KI` | 1 Reyes |
+| `2KI` | 2 Reyes |
+| `1CH` | 1 Crónicas |
+| `2CH` | 2 Crónicas |
+| `EZR` | Esdras |
+| `NEH` | Nehemías |
+| `EST` | Ester |
+| `JOB` | Job |
+| `PSA` | Salmo |
+| `PRO` | Proverbios |
+| `ECC` | Eclesiastés |
+| `SNG` | Cantares |
+| `ISA` | Isaías |
+| `JER` | Jeremías |
+| `LAM` | Lamentaciones |
+| `EZK` | Ezequiel |
+| `DAN` | Daniel |
+| `HOS` | Oseas |
+| `JOL` | Joel |
+| `AMO` | Amós |
+| `OBA` | Abdías |
+| `JON` | Jonás |
+| `MIC` | Miqueas |
+| `NAM` | Nahúm |
+| `HAB` | Habacuc |
+| `ZEP` | Sofonías |
+| `HAG` | Hageo |
+| `ZEC` | Zacarías |
+| `MAL` | Malaquías |
+| `MAT` | Mateo |
+| `MRK` | Marcos |
+| `LUK` | Lucas |
+| `JHN` | Juan |
+| `ACT` | Hechos |
+| `ROM` | Romanos |
+| `1CO` | 1 Corintios |
+| `2CO` | 2 Corintios |
+| `GAL` | Gálatas |
+| `EPH` | Efesios |
+| `PHP` | Filipenses |
+| `COL` | Colosenses |
+| `1TH` | 1 Tesalonicenses |
+| `2TH` | 2 Tesalonicenses |
+| `1TI` | 1 Timoteo |
+| `2TI` | 2 Timoteo |
+| `TIT` | Tito |
+| `PHM` | Filemón |
+| `HEB` | Hebreos |
+| `JAS` | Santiago |
+| `1PE` | 1 Pedro |
+| `2PE` | 2 Pedro |
+| `1JN` | 1 Juan |
+| `2JN` | 2 Juan |
+| `3JN` | 3 Juan |
+| `JUD` | Judas |
+| `REV` | Apocalipsis |
 
-- `PSA.42`
-- `PSA.42_1`
-- `PSA.43_1`
-- `SIR.1`
-- `SIR.1_1`
+---
 
-🔎 **TLAI**
-
-- `BEL.1_1`
-- `LJE.1_1`
-- `S3Y.1_1`
-- `SUS.1_1`
