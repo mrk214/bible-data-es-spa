@@ -1,8 +1,27 @@
-## DHH94I
+# 🚀 File Links
+
+| abbr | name | books | file |
+| --- | --- | :---: | --- |
+| `DHH94I` | Biblia Dios Habla Hoy | **75** | [link](https://mrk214.github.io/snapshots/es___spa___spa/DHH94I.json) |
+| `DHHS94` | Dios habla Hoy Estándar | **75** | [link](https://mrk214.github.io/snapshots/es___spa___spa/DHHS94.json) |
+| `LBLA` | La Biblia de las Américas | **66** | [link](https://mrk214.github.io/snapshots/es___spa___spa/LBLA.json) |
+| `NBLA` | Nueva Biblia de las Américas | **66** | [link](https://mrk214.github.io/snapshots/es___spa___spa/NBLA.json) |
+| `NTV` | Nueva Traducción Viviente | **66** | [link](https://mrk214.github.io/snapshots/es___spa___spa/NTV.json) |
+| `NVI` | Nueva Versión Internacional - Español | **66** | [link](https://mrk214.github.io/snapshots/es___spa___spa/NVI.json) |
+| `RVA2015` | Reina Valera Actualizada | **66** | [link](https://mrk214.github.io/snapshots/es___spa___spa/RVA2015.json) |
+| `RVC` | Reina Valera Contemporánea | **66** | [link](https://mrk214.github.io/snapshots/es___spa___spa/RVC.json) |
+| `RVR1960` | Biblia Reina Valera 1960 | **66** | [link](https://mrk214.github.io/snapshots/es___spa___spa/RVR1960.json) |
+| `TLA` | Traducción en Lenguaje Actual | **66** | [link](https://mrk214.github.io/snapshots/es___spa___spa/TLA.json) |
+| `TLAI` | Traducción en Lenguaje Actual Interconfesional | **78** | [link](https://mrk214.github.io/snapshots/es___spa___spa/TLAI.json) |
+| `NVI` | Nueva Versión Internacional - Castellano | **66** | [link](https://mrk214.github.io/snapshots/es___spa___spa_es/NVI.json) |
+
+---
+
+## 🔥 DHH94I
 
 ### Biblia Dios Habla Hoy
 
-**75** books ([raw file link](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa/DHH94I.json)).
+**75** books - [Link to extended file with **chapter_html** field](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa/DHH94I.json).
 
 | usfm | name |
 | ---------- | ---------- |
@@ -84,11 +103,11 @@
 
 ---
 
-## DHHS94
+## 🔥 DHHS94
 
 ### Dios habla Hoy Estándar
 
-**75** books ([raw file link](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa/DHHS94.json)).
+**75** books - [Link to extended file with **chapter_html** field](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa/DHHS94.json).
 
 | usfm | name |
 | ---------- | ---------- |
@@ -170,11 +189,11 @@
 
 ---
 
-## LBLA
+## 🔥 LBLA
 
 ### La Biblia de las Américas
 
-**66** books ([raw file link](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa/LBLA.json)).
+**66** books - [Link to extended file with **chapter_html** field](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa/LBLA.json).
 
 | usfm | name |
 | ---------- | ---------- |
@@ -247,11 +266,11 @@
 
 ---
 
-## NBLA
+## 🔥 NBLA
 
 ### Nueva Biblia de las Américas
 
-**66** books ([raw file link](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa/NBLA.json)).
+**66** books - [Link to extended file with **chapter_html** field](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa/NBLA.json).
 
 | usfm | name |
 | ---------- | ---------- |
@@ -324,11 +343,11 @@
 
 ---
 
-## NTV
+## 🔥 NTV
 
 ### Nueva Traducción Viviente
 
-**66** books ([raw file link](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa/NTV.json)).
+**66** books - [Link to extended file with **chapter_html** field](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa/NTV.json).
 
 | usfm | name |
 | ---------- | ---------- |
@@ -401,11 +420,11 @@
 
 ---
 
-## NVI
+## 🔥 NVI
 
 ### Nueva Versión Internacional - Español
 
-**66** books ([raw file link](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa/NVI.json)).
+**66** books - [Link to extended file with **chapter_html** field](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa/NVI.json).
 
 | usfm | name |
 | ---------- | ---------- |
@@ -478,11 +497,11 @@
 
 ---
 
-## RVA2015
+## 🔥 RVA2015
 
 ### Reina Valera Actualizada
 
-**66** books ([raw file link](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa/RVA2015.json)).
+**66** books - [Link to extended file with **chapter_html** field](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa/RVA2015.json).
 
 | usfm | name |
 | ---------- | ---------- |
@@ -555,11 +574,11 @@
 
 ---
 
-## RVC
+## 🔥 RVC
 
 ### Reina Valera Contemporánea
 
-**66** books ([raw file link](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa/RVC.json)).
+**66** books - [Link to extended file with **chapter_html** field](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa/RVC.json).
 
 | usfm | name |
 | ---------- | ---------- |
@@ -632,11 +651,11 @@
 
 ---
 
-## RVR1960
+## 🔥 RVR1960
 
 ### Biblia Reina Valera 1960
 
-**66** books ([raw file link](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa/RVR1960.json)).
+**66** books - [Link to extended file with **chapter_html** field](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa/RVR1960.json).
 
 | usfm | name |
 | ---------- | ---------- |
@@ -709,11 +728,11 @@
 
 ---
 
-## TLA
+## 🔥 TLA
 
 ### Traducción en Lenguaje Actual
 
-**66** books ([raw file link](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa/TLA.json)).
+**66** books - [Link to extended file with **chapter_html** field](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa/TLA.json).
 
 | usfm | name |
 | ---------- | ---------- |
@@ -786,11 +805,11 @@
 
 ---
 
-## TLAI
+## 🔥 TLAI
 
 ### Traducción en Lenguaje Actual Interconfesional
 
-**78** books ([raw file link](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa/TLAI.json)).
+**78** books - [Link to extended file with **chapter_html** field](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa/TLAI.json).
 
 | usfm | name |
 | ---------- | ---------- |
@@ -875,11 +894,11 @@
 
 ---
 
-## NVI
+## 🔥 NVI
 
 ### Nueva Versión Internacional - Castellano
 
-**66** books ([raw file link](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa_es/NVI.json)).
+**66** books - [Link to extended file with **chapter_html** field](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa_es/NVI.json).
 
 | usfm | name |
 | ---------- | ---------- |
