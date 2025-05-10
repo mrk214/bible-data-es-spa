@@ -1,6 +1,10 @@
 # 🚀 File Links
 
-👉 Check out this [code example](https://github.com/mrk214/reading-json-files) to understand the [structure and **TypeScript types** of the JSON files](https://github.com/mrk214/reading-json-files/blob/main/src/types.ts), and learn how to use them.
+👉 [Available versions](https://mrk214.github.io/snapshots/data.json) data (`JSON file`).
+
+👉 [TypeScript types](https://github.com/mrk214/reading-json-files/blob/main/src/types.ts) of the JSON files.
+
+👉 [Code example](https://github.com/mrk214/reading-json-files) (`how to use the JSON files`).
 
 | abbr | name | books | file |
 | --- | --- | :---: | --- |
