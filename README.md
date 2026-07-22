@@ -1,12 +1,14 @@
-👉 [Available versions](https://mrk214.github.io/snapshots/data.json) data (`JSON file`).
+🧭 [Overview](https://github.com/mrk214)
 
-👉 [TypeScript types](https://github.com/mrk214/reading-json-files/blob/main/src/types.ts) of the JSON files.
+👉 [Available versions](https://mrk214.github.io/snapshots/data.json)
 
-👉 [Code example](https://github.com/mrk214/reading-json-files) (`how to use the JSON files`).
+👉 [TypeScript types](https://github.com/mrk214/reading-json-files/blob/main/src/types.ts) of the JSON files
 
-# 🚀 File Links
+📚 [Code example](https://github.com/mrk214/reading-json-files) (`how to use the JSON files`)
 
-| abbr | name | books | file |
+# 🚀 JSON files
+
+| abbr | name | books | link |
 | --- | --- | :---: | --- |
 | `DHH94I` | Biblia Dios Habla Hoy | **75** | [json](https://mrk214.github.io/snapshots/es___spa___spa/DHH94I_vid_52.json) |
 | `DHHS94` | Dios habla Hoy Estándar | **75** | [json](https://mrk214.github.io/snapshots/es___spa___spa/DHHS94_vid_1846.json) |
@@ -23,11 +25,11 @@
 
 ---
 
-### 🔥 `DHH94I`
+### 📖 `DHH94I`
 
 ### Biblia Dios Habla Hoy
 
-**75** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa/DHH94I_vid_52.json).
+**75** books.
 
 | usfm | name |
 | ---------- | ---------- |
@@ -109,11 +111,11 @@
 
 ---
 
-### 🔥 `DHHS94`
+### 📖 `DHHS94`
 
 ### Dios habla Hoy Estándar
 
-**75** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa/DHHS94_vid_1846.json).
+**75** books.
 
 | usfm | name |
 | ---------- | ---------- |
@@ -195,11 +197,11 @@
 
 ---
 
-### 🔥 `LBLA`
+### 📖 `LBLA`
 
 ### La Biblia de las Américas
 
-**66** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa/LBLA_vid_89.json).
+**66** books.
 
 | usfm | name |
 | ---------- | ---------- |
@@ -272,11 +274,11 @@
 
 ---
 
-### 🔥 `NBLA`
+### 📖 `NBLA`
 
 ### Nueva Biblia de las Américas
 
-**66** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa/NBLA_vid_103.json).
+**66** books.
 
 | usfm | name |
 | ---------- | ---------- |
@@ -349,11 +351,11 @@
 
 ---
 
-### 🔥 `NTV`
+### 📖 `NTV`
 
 ### Nueva Traducción Viviente
 
-**66** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa/NTV_vid_127.json).
+**66** books.
 
 | usfm | name |
 | ---------- | ---------- |
@@ -426,11 +428,11 @@
 
 ---
 
-### 🔥 `NVI`
+### 📖 `NVI`
 
 ### Nueva Versión Internacional - Español
 
-**66** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa/NVI_vid_128.json).
+**66** books.
 
 | usfm | name |
 | ---------- | ---------- |
@@ -503,11 +505,11 @@
 
 ---
 
-### 🔥 `RVA2015`
+### 📖 `RVA2015`
 
 ### Reina Valera Actualizada
 
-**66** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa/RVA2015_vid_1782.json).
+**66** books.
 
 | usfm | name |
 | ---------- | ---------- |
@@ -580,11 +582,11 @@
 
 ---
 
-### 🔥 `RVC`
+### 📖 `RVC`
 
 ### Reina Valera Contemporánea
 
-**66** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa/RVC_vid_146.json).
+**66** books.
 
 | usfm | name |
 | ---------- | ---------- |
@@ -657,11 +659,11 @@
 
 ---
 
-### 🔥 `RVR1960`
+### 📖 `RVR1960`
 
 ### Biblia Reina Valera 1960
 
-**66** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa/RVR1960_vid_149.json).
+**66** books.
 
 | usfm | name |
 | ---------- | ---------- |
@@ -734,11 +736,11 @@
 
 ---
 
-### 🔥 `TLAI`
+### 📖 `TLAI`
 
 ### Traducción en Lenguaje Actual Interconfesional
 
-**78** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa/TLAI_vid_178.json).
+**78** books.
 
 | usfm | name |
 | ---------- | ---------- |
@@ -823,11 +825,11 @@
 
 ---
 
-### 🔥 `TLA`
+### 📖 `TLA`
 
 ### Traducción en Lenguaje Actual
 
-**66** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa/TLA_vid_176.json).
+**66** books.
 
 | usfm | name |
 | ---------- | ---------- |
@@ -900,11 +902,11 @@
 
 ---
 
-### 🔥 `NVI`
+### 📖 `NVI`
 
 ### Nueva Versión Internacional - Castellano
 
-**66** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-es-spa/data/es___spa___spa_es/NVI_vid_1637.json).
+**66** books.
 
 | usfm | name |
 | ---------- | ---------- |
