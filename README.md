@@ -1,8 +1,6 @@
 🧭 [Overview](https://github.com/mrk214)
 
-👉 [Available versions](https://mrk214.github.io/snapshots/data.json)
-
-👉 [TypeScript types](https://github.com/mrk214/reading-json-files/blob/main/src/types.ts) of the JSON files
+👉 [TypeScript types](https://github.com/mrk214/snapshots/blob/main/types.ts) of the JSON files
 
 📚 [Code example](https://github.com/mrk214/reading-json-files) (`how to use the JSON files`)
 
